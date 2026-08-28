@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-08-28T17:11:23+09:00",
+ "updated_at": "2026-08-29T06:58:41+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -142,7 +142,7 @@
     "end": "22:00",
     "brand": "BBQ 본사 직영",
     "product": "[BBQ] 닭다리 직화 바베큐 치킨 550g (5개/1팩) x 3세트",
-    "price": 37900,
+    "price": 53700,
     "link": "https://store.kakao.com/15889282/products/628100592",
     "slot_id": "59331",
     "pgm": "BBQ 닭다리직화구이바베큐",
@@ -342,6 +342,200 @@
     "pgm": "[다슈]카쇼라 단독",
     "title": "역대 최저가+사은품 증정",
     "category": "뷰티"
+   }
+  ],
+  "2026-09-03": [
+   {
+    "start": "08:30",
+    "end": "11:30",
+    "brand": "빅토리아 슈즈",
+    "product": "빅토리아슈즈 오다 메리제인 (1049926-AZUL)",
+    "price": 89000,
+    "link": "https://gift.kakao.com/product/14083556?url=product&cId=14083556",
+    "slot_id": "59337",
+    "pgm": "가을의 시작 빅토리아슈즈",
+    "title": "엄마랑 아기랑 커플템 추천!",
+    "category": "패션"
+   },
+   {
+    "start": "08:30",
+    "end": "11:30",
+    "brand": "아이오페",
+    "product": "\"BEST선물+아이오페 1등 세트\" 아이오페 슈퍼바이탈 크림 단품 기획세트",
+    "price": 110500,
+    "link": "https://gift.kakao.com/product/10306386?url=product&cId=10306386",
+    "slot_id": "59456",
+    "pgm": "아이오페 ~27% 추석특집",
+    "title": "쿠폰+카카오페이머니추가할인",
+    "category": "뷰티"
+   },
+   {
+    "start": "08:30",
+    "end": "10:00",
+    "brand": "린제이",
+    "product": "린제이 대용량 쿨티트리 모델링팩 외 13종 +팩도구세트",
+    "price": 28000,
+    "link": "https://store.kakao.com/lindsay/products/55485631",
+    "slot_id": "59491",
+    "pgm": "린제이 쿨티트리 모델링팩~",
+    "title": "외 13종 +팩도구+앰플증정",
+    "category": "뷰티"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "알품게 삼대인천게장",
+    "product": "알배기 간장게장 | 16만리뷰 62년 씨간장",
+    "price": 37800,
+    "link": "https://store.kakao.com/leeyoofood/products/313430044",
+    "slot_id": "59417",
+    "pgm": "알품게 삼대인천게장",
+    "title": "신제품 출시 기념 특가!",
+    "category": "식품"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "우고래빗",
+    "product": "우고래빗 프로틴온 하루견과 (20gx100봉) 단백질간식",
+    "price": 73800,
+    "link": "https://gift.kakao.com/product/13417000?url=product&cId=13417000",
+    "slot_id": "59419",
+    "pgm": "우고래빗 프리미엄 하루견과",
+    "title": "9월 첫 카쇼라 단독 특가!",
+    "category": "식품"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "동국제약",
+    "product": "[동국제약] 센시안 유어핏 레그슬리브, 다리 관리 압박밴드,레그슬리브,종아리 집중 관리",
+    "price": 60000,
+    "link": "https://store.kakao.com/dkpharm/products/265002322",
+    "slot_id": "59615",
+    "pgm": "동국제약 초이스딜 특가",
+    "title": "유어핏 레그슬리브 83%할인",
+    "category": "리빙"
+   },
+   {
+    "start": "11:00",
+    "end": "12:30",
+    "brand": "더리얼푸드마켓",
+    "product": "제주 하우스 고당도 감귤 2kg 소과/로얄과",
+    "price": 16900,
+    "link": "https://store.kakao.com/realfoodmarkets/products/782407103",
+    "slot_id": "59721",
+    "pgm": "[톡딜라이브] 새콤달콤!",
+    "title": "고당도 하우스 감귤 라이브",
+    "category": "식품"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "농협안심한우",
+    "product": "농협안심한우 1등급 '구이의 정석' 세트 600g (등심300g+갈비살150g+채끝150g)",
+    "price": 64900,
+    "link": "https://gift.kakao.com/product/7609867?url=product&cId=7609867",
+    "slot_id": "59422",
+    "pgm": "마음을 전하는 1++ 1등급",
+    "title": "한우 선물세트 BEST",
+    "category": "식품"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "에코따숨",
+    "product": "[파라핀전문회사]전국조리원입점! 국내산 에코따숨 파라핀베스+전상품병원용왁스증정",
+    "price": 210000,
+    "link": "https://store.kakao.com/ecotasum/products/136505849",
+    "slot_id": "59431",
+    "pgm": "에코따숨 파라핀 왁스",
+    "title": "미리 추석준비 라이브 특가",
+    "category": "리빙"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "순수식품",
+    "product": "순수식품 rTG 알티지 오메가3 2박스(4개월분) 식물성캡슐 외 콘드로이친/종합비타민/칼슘/밀크씨슬 골라담기",
+    "price": 20900,
+    "link": "https://store.kakao.com/soonsoofood/products/181199031",
+    "slot_id": "59592",
+    "pgm": "순수식품 오메가3 식물성캡슐",
+    "title": "1+1 앵콜톡딜~57%",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "SIMMONS",
+    "product": "",
+    "price": 0,
+    "link": "https://shoppinglive.kakao.com/live/59396",
+    "slot_id": "59396",
+    "pgm": "[공식단독] 시몬스 연중최대",
+    "title": "자스민 특집 라이브",
+    "category": "리빙"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "웹투어(주)",
+    "product": "[롤링힐스 호텔 룸온리]",
+    "price": 154000,
+    "link": "https://store.kakao.com/webtour/products/777146405",
+    "slot_id": "59425",
+    "pgm": "롤링힐스 호텔_가족여행 추천",
+    "title": "카쇼라 특전&부대시설 무료",
+    "category": "여행"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "풀리오",
+    "product": "풀리오 종아리 마사지기 V3",
+    "price": 149000,
+    "link": "https://store.kakao.com/pulio/products/361704724",
+    "slot_id": "59478",
+    "pgm": "풀리오 브랜드데이",
+    "title": "보름달처럼 꽉 찬 혜택",
+    "category": "테크"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "SOUP",
+    "product": "1. 베이직 라운드넥 카디건(SC8GDE1)",
+    "price": 69000,
+    "link": "https://store.kakao.com/soup/products/778633730",
+    "slot_id": "59253",
+    "pgm": "SOUP 가을 데일리룩 제안",
+    "title": "20% 쿠폰 + 무료배송",
+    "category": "패션"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "에뛰드",
+    "product": "라이브 럭키박스",
+    "price": 96000,
+    "link": "https://gift.kakao.com/product/14146568?url=product&cId=14146568",
+    "slot_id": "59409",
+    "pgm": "단 1시간! 에뛰드 단독",
+    "title": "럭키박스&1+1 혜택!",
+    "category": "뷰티"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "CJ웰케어",
+    "product": "[본사직영] 온가족 바이오코어 데일리 유산균 3개월분",
+    "price": 32700,
+    "link": "https://store.kakao.com/cjthehealth/products/748444281",
+    "slot_id": "59443",
+    "pgm": "CJ 추석선물세트 특가",
+    "title": "추가쿠폰+사은품",
+    "category": "식품"
    }
   ]
  }

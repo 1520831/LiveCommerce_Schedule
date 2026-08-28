@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-08",
- "updated_at": "2026-08-28T17:11:10+09:00",
+ "updated_at": "2026-08-29T06:58:26+09:00",
  "days": {
   "2026-08-26": [
    {
@@ -1076,14 +1076,14 @@
     "end": "19:59",
     "brand": "에떼르노",
     "product": "14K금볼 실크팔찌 레드",
-    "price": 65000,
+    "price": 90000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250334217",
     "slot_id": "202608286012",
     "items": [
      {
       "brand": "에떼르노",
       "product": "14K금볼 실크팔찌 레드",
-      "price": 65000,
+      "price": 90000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250334217"
      }
     ],
@@ -1131,17 +1131,17 @@
    {
     "start": "21:00",
     "end": "21:59",
-    "brand": "노스페이스",
-    "product": "화이트라벨 노벨티 눕시 다운 자켓 헤더 그레이 NJ1DR63K",
-    "price": 386900,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252766001",
+    "brand": "47브랜드",
+    "product": "[타임찬스] 47 브랜드 볼캡 6종 택1",
+    "price": 31000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252771119",
     "slot_id": "202608286014",
     "items": [
      {
-      "brand": "노스페이스",
-      "product": "화이트라벨 노벨티 눕시 다운 자켓 헤더 그레이 NJ1DR63K",
-      "price": 386900,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252766001"
+      "brand": "47브랜드",
+      "product": "[타임찬스] 47 브랜드 볼캡 6종 택1",
+      "price": 31000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252771119"
      }
     ],
     "title": "[가니/메종키츠네 外] FW 패션 아이템 2만원대~🔥",
@@ -1152,19 +1152,37 @@
     "end": "22:59",
     "brand": "인바디",
     "product": "체지방 측정 스마트 체중계 InBody H2",
-    "price": 299000,
+    "price": 235000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251782822",
     "slot_id": "202608286015",
     "items": [
      {
       "brand": "인바디",
       "product": "체지방 측정 스마트 체중계 InBody H2",
-      "price": 299000,
+      "price": 235000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251782822"
      }
     ],
     "title": "[인바디] 풀린 날씨에도 핫바디 포기 못해🔥",
     "pgm": "[앤드윈] 인바디 체중계 (편성)"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "에떼르노",
+    "product": "14K금볼 실크팔찌 레드",
+    "price": 90000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250334217",
+    "slot_id": "202608286022",
+    "items": [
+     {
+      "brand": "에떼르노",
+      "product": "14K금볼 실크팔찌 레드",
+      "price": 90000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250334217"
+     }
+    ],
+    "title": "[에떼르노] 24K 주얼리 특집 쇼라 특별가!"
    },
    {
     "start": "23:00",
@@ -1184,9 +1202,45 @@
     ],
     "title": "게스진 신상 인기 의류 방송 중 최대 특별가 찬스",
     "pgm": "현대렐라쇼 (멀티커머스)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "47브랜드",
+    "product": "[타임찬스] 47 브랜드 볼캡 6종 택1",
+    "price": 31000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252771119",
+    "slot_id": "202608286026",
+    "items": [
+     {
+      "brand": "47브랜드",
+      "product": "[타임찬스] 47 브랜드 볼캡 6종 택1",
+      "price": 31000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252771119"
+     }
+    ],
+    "title": "[가니/메종키츠네 外] FW 패션 아이템 2만원대~🔥"
    }
   ],
   "2026-08-29": [
+   {
+    "start": "00:00",
+    "end": "00:59",
+    "brand": "페라가모",
+    "product": "페라가모 간치니 버클 미니 호보백 21-3978-BK 764454",
+    "price": 1244000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252940852",
+    "slot_id": "202608296013",
+    "items": [
+     {
+      "brand": "페라가모",
+      "product": "페라가모 간치니 버클 미니 호보백 21-3978-BK 764454",
+      "price": 1244000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252940852"
+     }
+    ],
+    "title": "[페레가모/구찌/보테가] 창고방출특가 97만원~"
+   },
    {
     "start": "07:00",
     "end": "07:59",
@@ -1268,14 +1322,14 @@
     "end": "11:59",
     "brand": "크로커다일",
     "product": "쿨라이트 실키핏 일체형 스트랩 브라팬티 2세트",
-    "price": 45900,
+    "price": 41900,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253067668",
     "slot_id": "202608296003",
     "items": [
      {
       "brand": "크로커다일",
       "product": "쿨라이트 실키핏 일체형 스트랩 브라팬티 2세트",
-      "price": 45900,
+      "price": 41900,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253067668"
      }
     ],
@@ -1287,14 +1341,14 @@
     "end": "12:59",
     "brand": "지센",
     "product": "(2컬러) 스판 반넥 슬림 코트 LCCAP321",
-    "price": 43000,
+    "price": 55000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250163106",
     "slot_id": "202608296004",
     "items": [
      {
       "brand": "지센",
       "product": "(2컬러) 스판 반넥 슬림 코트 LCCAP321",
-      "price": 43000,
+      "price": 55000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250163106"
      }
     ],
@@ -1306,14 +1360,14 @@
     "end": "13:59",
     "brand": "포커스",
     "product": "FS6B9JK5301 투포켓 노카라 트위드 자켓",
-    "price": 26900,
+    "price": 19900,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248732062",
     "slot_id": "202608296005",
     "items": [
      {
       "brand": "포커스",
       "product": "FS6B9JK5301 투포켓 노카라 트위드 자켓",
-      "price": 26900,
+      "price": 19900,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248732062"
      }
     ],
@@ -1414,6 +1468,25 @@
     ],
     "title": "[세라젬] 웰모아 안마의자 핫딜🔥",
     "pgm": "[세라젬] 안마의자 (렌탈)"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "디원밀라노",
+    "product": "폴리카본 화이트 스케치 40.5mm D1-PCBJ34",
+    "price": 300000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251953056",
+    "slot_id": "202608296022",
+    "items": [
+     {
+      "brand": "디원밀라노",
+      "product": "폴리카본 화이트 스케치 40.5mm D1-PCBJ34",
+      "price": 300000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251953056"
+     }
+    ],
+    "title": "[디원밀라노] 이탈리아 밀라노 시계 첫 론칭!",
+    "pgm": "[재방] 디원밀라노 시계 (패션잡화)"
    },
    {
     "start": "20:00",

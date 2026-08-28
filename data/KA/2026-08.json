@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-08",
- "updated_at": "2026-08-28T17:11:23+09:00",
+ "updated_at": "2026-08-29T06:58:41+09:00",
  "days": {
   "2026-08-27": [
    {
@@ -334,32 +334,6 @@
     "category": "키즈"
    },
    {
-    "start": "10:00",
-    "end": "11:02",
-    "brand": "베이비 브레짜 공식스토어",
-    "product": "육아 필수템! 베이비 브레짜 원스텝 젖병세척 소독기 / 분유제조기",
-    "price": 359000,
-    "link": "https://store.kakao.com/babybrezza/products/254408903",
-    "slot_id": "59439",
-    "pgm": "베이비브레짜 베이비페어 앵콜",
-    "title": "페이&쿠폰할인+특별사은품",
-    "category": "키즈",
-    "rerun": true,
-    "rerun_of": "59222"
-   },
-   {
-    "start": "10:11",
-    "end": "11:20",
-    "brand": "터치그라운드 스니커즈",
-    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-    "price": 55000,
-    "link": "https://store.kakao.com/touchground/products/774098244",
-    "slot_id": "59663",
-    "pgm": "터치그라운드 발편한운동화",
-    "title": "가벼우면서 쿠션감 좋은운동화",
-    "category": "패션"
-   },
-   {
     "start": "11:00",
     "end": "12:00",
     "brand": "VSL3",
@@ -388,7 +362,7 @@
     "end": "12:30",
     "brand": "단색_dansaek",
     "product": "[1단계] 단색 주니어브라 일체형 메쉬 3장 5장 SET (1단계브라 노와이어 무봉제 심리스 여름브라 첫브라)",
-    "price": 67000,
+    "price": 117000,
     "link": "https://store.kakao.com/dansaek/products/291393602",
     "slot_id": "59154",
     "pgm": "단색 컴백 특가 LIVE!",
@@ -408,20 +382,8 @@
     "category": "패션"
    },
    {
-    "start": "11:30",
-    "end": "12:30",
-    "brand": "블루래빗",
-    "product": "NEW 2026 생생 자연관찰 (본책 60권+액티비티북 60권+가이드북)",
-    "price": 990000,
-    "link": "https://store.kakao.com/bluerabbit/products/775692033",
-    "slot_id": "59248",
-    "pgm": "블루래빗 NEW 생생자연관찰",
-    "title": "AI 대화펜 포코로+선물",
-    "category": "키즈"
-   },
-   {
     "start": "17:00",
-    "end": "18:30",
+    "end": "18:01",
     "brand": "아임힐링",
     "product": "아임힐링 오르조보리차 운남성보이차 녹차 카테킨 그린커피빈 스틱차 모음",
     "price": 23800,
@@ -433,7 +395,7 @@
    },
    {
     "start": "17:00",
-    "end": "18:30",
+    "end": "18:01",
     "brand": "시골내음",
     "product": "(백년소상공인선정) 줄서서 먹는 생생복숭아즙  110mlX30팩 1박스(2026 햇복숭아)",
     "price": 37000,
@@ -444,32 +406,8 @@
     "category": "식품"
    },
    {
-    "start": "19:00",
-    "end": "20:30",
-    "brand": "롯데칠성음료 브랜드 스토어",
-    "product": "펩시제로슈거 라임/제로카페인 210ml 30캔+355ml 24캔 외 롯데칠성 인기음료 쎈딜 한정 특가전+한정 수량 굿즈 증정!",
-    "price": 49900,
-    "link": "https://store.kakao.com/lottechilsung/products/780250877",
-    "slot_id": "59254",
-    "pgm": "롯데칠성 올여름 가장 쎈혜택",
-    "title": "쎈딜특집특가+한정수량굿즈",
-    "category": "식품"
-   },
-   {
-    "start": "19:00",
-    "end": "20:30",
-    "brand": "글로우엠",
-    "product": "글로우엠 글로우 소닉",
-    "price": 629000,
-    "link": "https://store.kakao.com/glowm/products/778135141",
-    "slot_id": "59329",
-    "pgm": "글로우엠 글로우 소닉",
-    "title": "카카오 최초 공개",
-    "category": "뷰티"
-   },
-   {
     "start": "20:30",
-    "end": "22:00",
+    "end": "21:31",
     "brand": "레놉티 RENOPTI",
     "product": "시너업콜라겐 2주(1box) + [마스크팩 1매]",
     "price": 68250,
@@ -481,7 +419,7 @@
    },
    {
     "start": "20:30",
-    "end": "22:00",
+    "end": "21:31",
     "brand": "오늘부터다이어트식품",
     "product": "[오늘부터] 가르시니아 체지방감소 혈당케어 슬림카페 PRO 3개 골라담기 (아메리카노맛,카페라떼맛,초코맛)",
     "price": 109600,
@@ -490,18 +428,6 @@
     "pgm": "[오늘부터] 슬림카페",
     "title": "커피맛으로 맛있게 관리하기",
     "category": "식품"
-   },
-   {
-    "start": "20:30",
-    "end": "22:00",
-    "brand": "2onestore",
-    "product": "1+1 희소식 컴앤그로우 브러쉬 스칼프탈모앰플 150ml 탈모완화 카페인 엑소좀",
-    "price": 79900,
-    "link": "https://store.kakao.com/2onestore/products/641871224",
-    "slot_id": "59464",
-    "pgm": "1+1 희소식 컴앤그로우",
-    "title": "빗으면서 관리하는 두피앰플",
-    "category": "뷰티"
    }
   ],
   "2026-08-29": [
@@ -789,7 +715,7 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "르샵 주얼리",
-    "product": "[르샵주얼리] 8월 여름마지막 클리어런스 14K귀걸이/목걸이/반지/팔찌",
+    "product": "[르샵주얼리][무료반품/10%쿠폰]여름마지막 클리어런스 14K귀걸이/목걸이/반지/팔찌",
     "price": 72000,
     "link": "https://store.kakao.com/leshopjewelry/products/511070681",
     "slot_id": "59225",
@@ -1009,7 +935,7 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "주식회사 비에이치씨",
-    "product": "bhc 뿌링 치킨 피자 5팩 외 치킨텐더, 뿌링팝콘, 브리또",
+    "product": "bhc 뿌링 치킨 피자 5팩 외 치킨텐더, 뿌링팝콘, 브리또 2종",
     "price": 28000,
     "link": "https://store.kakao.com/bhc/products/778701256",
     "slot_id": "59261",

@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-08-28T17:11:10+09:00",
+ "updated_at": "2026-08-29T06:58:26+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -29,14 +29,14 @@
     "end": "08:59",
     "brand": "에고이스트",
     "product": "[아울렛][BLUE LABEL] 컬러 체리 포인트 부클 풀오버 ER2OKL52 ER2OKL52",
-    "price": 99000,
+    "price": 39600,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253058475",
     "slot_id": "202609016002",
     "items": [
      {
       "brand": "에고이스트",
       "product": "[아울렛][BLUE LABEL] 컬러 체리 포인트 부클 풀오버 ER2OKL52 ER2OKL52",
-      "price": 99000,
+      "price": 39600,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253058475"
      }
     ],
@@ -500,6 +500,160 @@
     ],
     "title": "[CC콜렉트] 26 봄~가을 베스트 UP TO 73%▼",
     "pgm": "현대렐라쇼 (멀티커머스)"
+   }
+  ],
+  "2026-09-03": [
+   {
+    "start": "07:00",
+    "end": "07:59",
+    "brand": "셀린느",
+    "product": "셀린느 10J503D34 GJW2 트리옹프 로고 자수 스트랩 스몰 파우치백",
+    "price": 1150000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252754613",
+    "slot_id": "202609036019",
+    "items": [
+     {
+      "brand": "셀린느",
+      "product": "셀린느 10J503D34 GJW2 트리옹프 로고 자수 스트랩 스몰 파우치백",
+      "price": 1150000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252754613"
+     }
+    ],
+    "title": "[투명쇼] 데일리 명품 쇼핑 득템 찬스!",
+    "pgm": "[재방] 투명쇼 (패션잡화)"
+   },
+   {
+    "start": "08:00",
+    "end": "08:59",
+    "brand": "레노마",
+    "product": "[레노마 셔츠] 긴팔 링클프리 스판 24종 남성 정장 와이셔츠 남방 컬렉션 RZS024WH",
+    "price": 38000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252765983",
+    "slot_id": "202609036002",
+    "items": [
+     {
+      "brand": "레노마",
+      "product": "[레노마 셔츠] 긴팔 링클프리 스판 24종 남성 정장 와이셔츠 남방 컬렉션 RZS024WH",
+      "price": 38000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252765983"
+     }
+    ],
+    "title": "[레노마셔츠] 남성 코디 아이템 LIVE",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "티르리르",
+    "product": "14K 핑크골드 블루 토파즈 포인트 귀걸이 TEJK4P00056S TEJK4P00056S",
+    "price": 399000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252876922",
+    "slot_id": "202609036003",
+    "items": [
+     {
+      "brand": "티르리르",
+      "product": "14K 핑크골드 블루 토파즈 포인트 귀걸이 TEJK4P00056S TEJK4P00056S",
+      "price": 399000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252876922"
+     }
+    ],
+    "title": "[티르리르] 데일리주얼리 추천 2만원대부터~ + 사은품",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "13:00",
+    "end": "13:59",
+    "brand": "이글루",
+    "product": "[이글루캠 S8] 2K 400만화소 AI 홈 CCTV 가정용 베이비캠 펫캠 홈캠 회전형",
+    "price": 129900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2227898632",
+    "slot_id": "202609036007",
+    "items": [
+     {
+      "brand": "이글루",
+      "product": "[이글루캠 S8] 2K 400만화소 AI 홈 CCTV 가정용 베이비캠 펫캠 홈캠 회전형",
+      "price": 129900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2227898632"
+     }
+    ],
+    "title": "[트루엔]이글루캠 쇼라단독가!",
+    "pgm": "[이글루캠] (액티브라이프)"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "세라젬",
+    "product": "[쇼라 핫딜]세라젬 마스터 V9 척추온열 의료기기 무상 AS 1년",
+    "price": 6500000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249558569",
+    "slot_id": "202609036014",
+    "items": [
+     {
+      "brand": "세라젬",
+      "product": "[쇼라 핫딜]세라젬 마스터 V9 척추온열 의료기기 무상 AS 1년",
+      "price": 6500000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249558569"
+     }
+    ],
+    "title": "[세라젬] 추석 전 배송 가능한 마지막 쇼라🎁",
+    "pgm": "[세라젬] 안마의자 (렌탈)"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "한국귀금속보석거래소",
+    "product": "24K 순금 카드 행운의 2달러 1g",
+    "price": 302500,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2207119105",
+    "slot_id": "202609036015",
+    "items": [
+     {
+      "brand": "한국귀금속보석거래소",
+      "product": "24K 순금 카드 행운의 2달러 1g",
+      "price": 302500,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2207119105"
+     }
+    ],
+    "title": "[한국귀금속보석거래소] 24K 순금 쇼라",
+    "pgm": "[한국귀금속보석거래소] 금 (패션잡화)"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "비비안",
+    "product": "(BR0012C) 샌디즈 데님 노와이어 스포츠 브라 택1 BR0012C",
+    "price": 59000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252836749",
+    "slot_id": "202609036016",
+    "items": [
+     {
+      "brand": "비비안",
+      "product": "(BR0012C) 샌디즈 데님 노와이어 스포츠 브라 택1 BR0012C",
+      "price": 59000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252836749"
+     }
+    ],
+    "title": "입어보면 아는 차이, 비비안 란제리 쇼라 특별가❤️",
+    "pgm": "[비비안] 언더웨어 (멀티커머스)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "제이바이라라",
+    "product": "칼라 디테일 루즈핏 린넨 가디건",
+    "price": 89000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252236969",
+    "slot_id": "202609036017",
+    "items": [
+     {
+      "brand": "제이바이라라",
+      "product": "칼라 디테일 루즈핏 린넨 가디건",
+      "price": 89000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252236969"
+     }
+    ],
+    "title": "[제이바이라라] 간절기 아이템 방송 특가 OPEN❤️",
+    "pgm": "[제이바이라라] 의류 (멀티커머스)"
    }
   ]
  }
