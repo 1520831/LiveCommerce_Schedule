@@ -1,0 +1,894 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
+<title>라이브커머스 편성표</title>
+<style>
+  /* 라이트 전용. 다크모드 대응은 의도적으로 두지 않는다 (hdhs 뷰어와 맞춤). */
+  :root {
+    color-scheme: light;
+    --paper:     #F7F8FB;
+    --surface:   #FFFFFF;
+    --surface-2: #F1F3F8;
+    --stripe:    #FAFBFD;
+    --ink:       #1A1D23;
+    --ink-soft:  #4A515D;
+    --muted:     #8B93A1;
+    --faint:     #B6BDC9;
+    --line:      #E4E7EE;
+    --line-soft: #EEF0F5;
+    --accent:    #2C5FD8;
+    --hd:        #C8102E;
+    --hd-bg:     #FDF3F4;
+    --cj:        #5B2A86;
+    --cj-bg:     #F6F3FA;
+    --ka:        #8A6D00;
+    --ka-bg:     #FBF7E8;
+    /* 브랜드명 전용. 채널색(빨강·보라·올리브) 어느 것과도 안 겹쳐야, 같은 슬롯
+       안에서 시간(채널색)과 브랜드가 서로 다른 정보라는 게 색으로 드러난다.
+       어느 채널이든 브랜드는 이 색이라 세로로 훑을 때 브랜드만 따로 읽힌다. */
+    --brand:     #0F6E6E;
+    --now:       #E8590C;
+    --live-bg:   #FFF7EF;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: Pretendard, "Malgun Gothic", -apple-system, system-ui, sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* ---------- top bar ---------- */
+  .topbar {
+    background: var(--surface); border-bottom: 1px solid var(--line);
+    position: sticky; top: 0; z-index: 20;
+  }
+  .topbar .in {
+    max-width: 1320px; margin: 0 auto; padding: 0 20px; height: 52px;
+    display: flex; align-items: center; gap: 12px;
+  }
+  .topbar h1 { margin: 0; font-size: 15px; font-weight: 700; letter-spacing: -.02em; }
+  .topbar h1 .dot {
+    display: inline-block; width: 7px; height: 7px; border-radius: 50%;
+    background: var(--now); margin-right: 7px; vertical-align: 1px;
+  }
+  .topbar .meta {
+    margin-left: auto; font-size: 11.5px; color: var(--muted);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .wrap { max-width: 1320px; margin: 0 auto; padding: 16px 20px 60px; }
+
+  /* ---------- control row ---------- */
+  .ctrl {
+    display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
+    margin-bottom: 10px;
+  }
+  .stepper {
+    display: flex; align-items: center; gap: 2px;
+    background: var(--surface); border: 1px solid var(--line); border-radius: 8px;
+    padding: 3px;
+  }
+  .stepper button {
+    font: inherit; background: none; border: 0; cursor: pointer; color: var(--ink-soft);
+    width: 28px; height: 30px; border-radius: 6px; font-size: 15px; line-height: 1;
+  }
+  .stepper button:hover:not(:disabled) { background: var(--surface-2); }
+  .stepper button:disabled { color: var(--faint); cursor: default; }
+  .stepper .cur {
+    min-width: 168px; text-align: center; font-size: 14px; font-weight: 700;
+    letter-spacing: -.01em; font-variant-numeric: tabular-nums; padding: 0 6px;
+  }
+  .stepper .cur .wd { color: var(--muted); font-weight: 500; }
+  .stepper .cur .wd.sat { color: #2F6FD0; }
+  .stepper .cur .wd.sun { color: var(--hd); }
+
+  .seg {
+    display: flex; gap: 3px; background: var(--surface);
+    border: 1px solid var(--line); border-radius: 8px; padding: 3px;
+  }
+  .seg button {
+    font: inherit; font-size: 12.5px; color: var(--ink-soft); background: none;
+    border: 0; border-radius: 6px; padding: 6px 13px; cursor: pointer; white-space: nowrap;
+  }
+  .seg button:hover { background: var(--surface-2); }
+  .seg button.on { background: var(--accent); color: #fff; font-weight: 600; }
+  .seg button.on:hover { background: var(--accent); }
+
+  .ctrl .right { margin-left: auto; display: flex; align-items: center; gap: 8px; }
+  .ghost {
+    font: inherit; font-size: 12.5px; color: var(--ink-soft); background: var(--surface);
+    border: 1px solid var(--line); border-radius: 8px; padding: 7px 13px; cursor: pointer;
+  }
+  .ghost:hover { background: var(--surface-2); }
+  .help {
+    font: inherit; font-size: 13px; font-weight: 700; line-height: 1;
+    width: 30px; height: 30px; border-radius: 50%; cursor: pointer;
+    color: var(--muted); background: var(--surface); border: 1px solid var(--line);
+  }
+  .help:hover { background: var(--surface-2); color: var(--ink-soft); }
+  .help[aria-expanded="true"] { background: var(--ink); border-color: var(--ink); color: #fff; }
+
+  /* ---------- 안내 패널 (기본 접힘) ---------- */
+  .helpbox {
+    background: var(--surface); border: 1px solid var(--line); border-radius: 10px;
+    padding: 16px 18px; margin-bottom: 12px; font-size: 12.5px; color: var(--ink-soft);
+    line-height: 1.65;
+  }
+  .helpbox[hidden] { display: none; }
+  .helpbox h2 {
+    margin: 0 0 8px; font-size: 13px; font-weight: 700; color: var(--ink);
+    letter-spacing: -.01em;
+  }
+  .helpbox h2 + p { margin: 0 0 10px; }
+  .helpbox table { border-collapse: collapse; width: 100%; margin: 0 0 10px; }
+  .helpbox th, .helpbox td {
+    text-align: left; padding: 6px 10px 6px 0; border-bottom: 1px solid var(--line-soft);
+    vertical-align: top;
+  }
+  .helpbox th { font-size: 11.5px; font-weight: 600; color: var(--muted); }
+  .helpbox td:first-child { white-space: nowrap; }
+  .helpbox ul { margin: 0; padding-left: 17px; }
+  .helpbox li { margin-bottom: 3px; }
+  .helpbox li:last-child { margin-bottom: 0; }
+  .helpbox code {
+    background: var(--surface-2); padding: 1px 5px; border-radius: 3px;
+    font-size: 11.5px; color: var(--ink);
+  }
+  .helpbox .sep { margin: 12px 0 8px; border: 0; border-top: 1px solid var(--line-soft); }
+  .helpbox .none { color: var(--muted); }
+
+  /* ---------- day chips ---------- */
+  .days { display: flex; gap: 6px; overflow-x: auto; padding-bottom: 2px; margin-bottom: 12px; }
+  .day {
+    flex: 0 0 auto; font: inherit; cursor: pointer;
+    background: var(--surface); border: 1px solid var(--line); border-radius: 999px;
+    padding: 5px 13px; color: var(--ink-soft); font-size: 12.5px;
+    display: inline-flex; align-items: center; gap: 7px; white-space: nowrap;
+  }
+  .day:hover { background: var(--surface-2); }
+  .day .n { font-weight: 700; font-variant-numeric: tabular-nums; letter-spacing: -.01em; }
+  .day .c { font-size: 11px; color: var(--muted); font-variant-numeric: tabular-nums; }
+  .day.sat .n { color: #2F6FD0; }
+  .day.sun .n { color: var(--hd); }
+  .day.today { border-color: var(--now); }
+  .day.today::before {
+    content: "오늘"; font-size: 9.5px; font-weight: 700; color: var(--now); letter-spacing: .04em;
+  }
+  .day.on { background: var(--ink); border-color: var(--ink); }
+  .day.on .n, .day.on .c, .day.on::before { color: #fff; }
+
+  /* 슬롯마다 '바로가기'를 달면 같은 말이 수십 번 반복된다. 표 위에 한 번만 적는다. */
+  .boardnote {
+    text-align: right; font-size: 11.5px; color: var(--muted);
+    margin: 0 2px 6px; letter-spacing: -.01em;
+  }
+
+  /* ---------- board ---------- */
+  /* overflow 는 clip 이어야 한다. hidden 이면 board 가 스크롤 컨테이너가 되어
+     sticky 헤더가 board 기준으로 잡히면서 첫 행 위로 밀려 내려간다. */
+  .board {
+    background: var(--surface); border: 1px solid var(--line);
+    border-radius: 10px; overflow: clip;
+  }
+  /* 1fr 은 minmax(auto,1fr) 이라 긴 상품명이 열을 밀어낸다. 행마다 열 너비가
+     달라지고 헤더와 어긋나므로 minmax(0,1fr) 로 못박는다. 셀의 min-width:0 도
+     같이 있어야 안쪽 말줄임이 실제로 동작한다. */
+  .head, .row { display: grid; grid-template-columns: 58px repeat(var(--cols), minmax(0, 1fr)); }
+
+  .head {
+    background: var(--surface); border-bottom: 1px solid var(--line);
+    position: sticky; top: 52px; z-index: 10;
+  }
+  .head > div { padding: 11px 10px; display: flex; align-items: center; justify-content: center; gap: 8px; }
+  .head .hcol { justify-content: flex-start; font-size: 11.5px; color: var(--muted); padding-left: 12px; }
+  .pill {
+    display: inline-block; padding: 4px 16px; border-radius: 999px;
+    min-width: 58px; text-align: center;
+    color: #fff; font-size: 12.5px; font-weight: 700; letter-spacing: .01em;
+  }
+  .pill.hd { background: var(--hd); }
+  .pill.cj { background: var(--cj); }
+  .pill.ka { background: var(--ka); }
+  .head .cnt { font-size: 11.5px; color: var(--muted); font-variant-numeric: tabular-nums; }
+
+  .row { border-top: 1px solid var(--line-soft); min-height: 44px; position: relative; }
+  .head + .row { border-top: 0; }
+  .row.empty { min-height: 28px; }
+
+  .hour {
+    padding: 7px 0 0; text-align: center; font-size: 11.5px; color: var(--muted);
+    font-variant-numeric: tabular-nums; border-right: 1px solid var(--line-soft);
+    background: var(--stripe); position: relative;
+  }
+  .row.empty .hour { color: var(--faint); }
+  .cell { border-right: 1px solid var(--line-soft); padding: 0; min-width: 0; }
+  .cell:last-child { border-right: none; }
+
+  /* ---------- slot ---------- */
+  .slot {
+    display: block; text-decoration: none; color: inherit;
+    border-left: 3px solid var(--line); border-bottom: 1px solid var(--line-soft);
+    padding: 9px 12px 10px; position: relative;
+  }
+  .slot:last-child { border-bottom: none; }
+  .cell-hd .slot { background: var(--hd-bg); border-left-color: var(--hd); }
+  .cell-cj .slot { background: var(--cj-bg); border-left-color: var(--cj); }
+  .cell-ka .slot { background: var(--ka-bg); border-left-color: var(--ka); }
+  .slot:hover { filter: brightness(.975); }
+
+  .slot .t {
+    font-size: 11px; font-variant-numeric: tabular-nums;
+    display: flex; align-items: center; gap: 5px; flex-wrap: wrap; margin-bottom: 2px;
+  }
+
+  .cell-hd .slot .t .rng { color: var(--hd); }
+  .cell-cj .slot .t .rng { color: var(--cj); }
+  .cell-ka .slot .t .rng { color: var(--ka); }
+  .slot .t .dur { color: var(--muted); }
+
+  /* 줄마다 크기를 다르게 줘서 방송명 -> 제목 -> 브랜드·상품 순으로 눈이 흐르게 한다.
+     같은 크기로 쌓으면 어디를 먼저 볼지 정할 수 없어 읽기가 느려진다.
+     채널 구분은 배경 틴트·좌측 막대·시간 색이 맡고, 방송명은 대비를 위해 먹색으로 둔다. */
+  .slot .pgm {
+    font-weight: 700; font-size: 14px; letter-spacing: -.02em;
+    color: var(--ink); line-height: 1.35; margin-bottom: 2px;
+    overflow-wrap: anywhere;
+  }
+  .slot .pgm .re { font-weight: 500; font-size: 12.5px; color: var(--muted); }
+  /* 방송명을 못 받은 슬롯. 브랜드가 방송명처럼 읽히지 않게 자리는 지키되 죽인다 */
+  .slot .pgm.unknown {
+    font-weight: 500; font-size: 12px; font-style: italic;
+    letter-spacing: 0; color: var(--muted);
+  }
+
+  /* 소구 문구는 기본으로 접는다. 좁은 칸에 줄이 많으면 방송명이 안 읽힌다.
+     펼쳤을 때는 두 줄로 번지지 않게 한 줄로 묶고 넘치면 말줄임한다 - 두 줄이
+     되면 그 슬롯만 높아져 같은 시간대인데 옆 채널과 높이가 안 맞는다. */
+  .slot .ttl { display: none; }
+  .board.ttl-on .slot .ttl {
+    display: block;
+    font-size: 12.5px; color: var(--ink-soft); letter-spacing: -.01em; margin-bottom: 2px;
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+    min-height: 1.25em;   /* 문구가 없어도 줄 자리는 지킨다 */
+  }
+
+  /* 브랜드·상품과 가격을 한 줄에 둔다. 상품명이 길면 왼쪽만 줄고 가격은 안 잘린다. */
+  .slot .meta {
+    display: flex; align-items: baseline; gap: 10px;
+    font-size: 12px; color: var(--muted); letter-spacing: -.01em;
+  }
+  .slot .meta .left { flex: 1 1 auto; min-width: 0; overflow: hidden;
+                      text-overflow: ellipsis; white-space: nowrap; }
+  .slot .meta .bd { color: var(--brand); font-weight: 700; }
+  .slot .meta .sep { color: var(--faint); margin: 0 5px; }
+  .slot .meta .right { flex: 0 0 auto; display: flex; align-items: baseline; gap: 7px;
+                       font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .slot .meta .pr { color: var(--ink); font-weight: 700; }
+
+  .badge {
+    font-size: 9.5px; font-weight: 700; letter-spacing: .04em; padding: 1px 5px;
+    border-radius: 3px; background: var(--now); color: #fff;
+  }
+  .badge.studio {
+    background: transparent; color: var(--muted); font-weight: 500;
+    border: 1px solid var(--line); padding: 0 4px;
+  }
+  .slot.live { background: var(--live-bg) !important; border-left-color: var(--now) !important; }
+  .slot.live::after {
+    content: ""; position: absolute; inset: 0; pointer-events: none;
+    box-shadow: inset 0 0 0 1px var(--now);
+  }
+
+  /* ---------- 현재 시각 ----------
+     표를 가로지르는 줄은 슬롯 글자를 덮어서 쓰지 않는다. 시간 칸 안에서만
+     점과 배지로 알린다. 지금 나가는 방송은 '방송중' 배지와 주황 테두리가
+     따로 말하고 있으므로 줄이 없어도 잃는 정보가 없다. */
+  .row.now .hour { background: var(--live-bg); color: var(--now); font-weight: 700; }
+  .row.now .hour::before {
+    content: ""; position: absolute; left: 6px; top: 11px;
+    width: 6px; height: 6px; border-radius: 50%; background: var(--now);
+  }
+  .row.now .hour::after {
+    content: attr(data-t); position: absolute; left: 0; right: 0; top: 23px;
+    margin: 0 6px; padding: 1px 0; border-radius: 3px;
+    background: var(--now); color: #fff; font-size: 9.5px; font-weight: 700;
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* ---------- states ---------- */
+  .note { padding: 30px 16px; text-align: center; color: var(--muted); font-size: 13px; }
+  footer { margin-top: 14px; font-size: 11.5px; color: var(--muted); line-height: 1.75; }
+  footer code { background: var(--surface-2); padding: 1px 5px; border-radius: 3px; font-size: 11px; }
+
+  /* ---------- 태블릿 ---------- */
+  @media (max-width: 900px) {
+    .head, .row { grid-template-columns: 44px repeat(var(--cols), minmax(0, 1fr)); }
+    .row.now .hour::after { margin: 0 3px; font-size: 9px; }
+    .row.now .hour::before { left: 3px; }
+    .stepper .cur { min-width: 128px; font-size: 13px; }
+    .ctrl .right { margin-left: 0; width: 100%; }
+    .pill { min-width: 44px; padding: 4px 10px; }
+    .head .hcol { font-size: 0; }   /* 44px 칸에서 '시간'이 두 줄로 쪼개진다 */
+  }
+
+  /* ---------- 모바일 ----------
+     3열 격자는 폰 너비에 물리적으로 안 들어간다. 한 칸이 110px 남짓이라
+     방송명 한 줄도 못 담고 글자가 세로로 쪼개진다. 그래서 시간대별로 세로로
+     쌓고, 채널은 열 위치 대신 칩으로 알린다. 시간 머리글은 스크롤에 붙어 있다. */
+  @media (max-width: 640px) {
+    body { font-size: 15px; -webkit-text-size-adjust: 100%; }
+    .wrap { padding: 12px 12px 48px; }
+    .topbar .in { padding: 0 12px; gap: 8px; }
+    .topbar h1 { font-size: 14px; }
+    .topbar .meta { font-size: 10.5px; }
+
+    .ctrl { gap: 8px; margin-bottom: 8px; }
+    .stepper { flex: 1 1 100%; justify-content: space-between; }
+    .stepper .cur { flex: 1 1 auto; min-width: 0; }
+    .stepper button { width: 34px; height: 34px; }
+    .seg { flex: 1 1 auto; }
+    .seg button { flex: 1 1 auto; padding: 8px 6px; text-align: center; }
+    .ghost { flex: 1 1 auto; padding: 9px 12px; }
+    .help { width: 38px; height: 38px; flex: 0 0 auto; }
+
+    .days { margin: 0 -12px 10px; padding: 0 12px 2px; }
+
+    .helpbox { padding: 13px 14px; font-size: 12px; }
+    .helpbox table { font-size: 11.5px; }
+    .helpbox th, .helpbox td { padding: 5px 6px 5px 0; }
+    .helpbox td:first-child { white-space: normal; }
+
+    .board { border-radius: 8px; }
+    .head { display: none; }                     /* 채널은 칩으로 대신한다 */
+    .row { display: block; border-top: 0; }
+
+    .hour {
+      position: sticky; top: 52px; z-index: 6;
+      display: flex; align-items: center; gap: 7px;
+      padding: 6px 12px; text-align: left; font-size: 12px; font-weight: 700;
+      background: var(--surface-2); border-right: 0;
+      border-top: 1px solid var(--line); border-bottom: 1px solid var(--line);
+    }
+    .row:first-of-type .hour { border-top: 0; }
+    .row.now .hour { background: var(--live-bg); }
+    .row.now .hour::before {
+      position: static; display: inline-block; width: 7px; height: 7px;
+      left: auto; top: auto;
+    }
+    .row.now .hour::after {
+      position: static; margin: 0; padding: 1px 7px; font-size: 10px;
+    }
+
+    .cell { border-right: 0; }
+    .cell:empty { display: none; }               /* 그 시간대에 편성이 없는 채널 */
+    .cell::before {
+      content: attr(data-ch);
+      display: inline-block; margin: 8px 0 -2px 12px; padding: 2px 9px;
+      border-radius: 999px; color: #fff; font-size: 10px; font-weight: 700;
+      letter-spacing: .04em;
+    }
+    .cell-hd::before { background: var(--hd); }
+    .cell-cj::before { background: var(--cj); }
+    .cell-ka::before { background: var(--ka); }
+
+    .slot { padding: 8px 12px 10px; }
+    .slot .pgm { font-size: 15px; }
+    .slot .ttl { font-size: 13px; }
+    .slot .meta { font-size: 12.5px; flex-wrap: wrap; }
+    .slot .meta .left { flex: 1 1 100%; white-space: normal; }
+    .slot .meta .right { margin-left: auto; margin-top: 2px; }
+
+    footer { font-size: 11px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <div class="in">
+    <h1><span class="dot"></span>라이브커머스 편성표</h1>
+    <div class="meta" id="meta"></div>
+  </div>
+</div>
+
+<div class="wrap">
+
+  <div class="ctrl">
+    <div class="stepper">
+      <button type="button" id="prev" title="이전 날짜">&#8249;</button>
+      <div class="cur" id="curDate"></div>
+      <button type="button" id="next" title="다음 날짜">&#8250;</button>
+    </div>
+    <div class="seg" id="segCh"></div>
+    <div class="seg" id="segKind"></div>
+    <div class="right">
+      <button class="ghost" id="toggleTtl" type="button">&#9660; 소구 문구</button>
+      <button class="ghost" id="toggleEmpty" type="button">빈 시간대 펼치기</button>
+      <button class="help" id="helpBtn" type="button"
+              aria-expanded="false" aria-controls="helpBox" title="표시 기준 안내">?</button>
+    </div>
+  </div>
+
+  <div class="helpbox" id="helpBox" hidden>
+    <h2>재방송 산정 기준</h2>
+    <p>
+      채널마다 재방송 표시가 들어오는 <b>자리와 표기가 다릅니다.</b>
+      공통 플래그 같은 것은 없어서 각각 따로 봅니다.
+      편성표는 셋을 방송명 앞 <code>[재방]</code> 하나로 통일해 보여줍니다.
+    </p>
+    <table>
+      <tr><th>채널</th><th>보는 곳</th><th>판정 조건</th></tr>
+      <tr>
+        <td><b>HD</b> 현대Hmall 쇼라</td>
+        <td>방송명</td>
+        <td>방송명이 <code>[재방]</code> 으로 시작</td>
+      </tr>
+      <tr>
+        <td><b>CJ</b> CJ 라이브쇼</td>
+        <td>회차 제목</td>
+        <td>제목이 <code>다시보는</code> 으로 시작</td>
+      </tr>
+      <tr>
+        <td><b>KA</b> 카카오 쇼핑라이브</td>
+        <td>방송 상세</td>
+        <td><code>encore</code> 플래그가 참 (앵콜 방송)</td>
+      </tr>
+    </table>
+    <ul>
+      <li>CJ는 <code>다시보는🔥…</code> 처럼 <b>띄어쓰기 없이</b> 이모지가 붙는 경우가
+          있어(수집분 59건 중 7건) 앞 4글자만 보고 판정합니다.</li>
+      <li>판정 근거가 된 원문은 제목 줄에 <b>그대로 남겨둡니다.</b>
+          <code>[재방]</code> 이 왜 붙었는지 화면에서 바로 확인하기 위해서입니다.</li>
+      <li>CJ의 <code>pgm</code> 은 <code>라이브쇼</code> 같은 프로그램 이름이라
+          회차 정보가 없습니다. 여기서 재방을 찾으면 영영 안 나옵니다.</li>
+      <li>카카오는 <b>제목으로 판정하지 않습니다.</b> 앵콜인데 제목에 '앵콜'이
+          없는 방송이 있어서, 편성 목록에는 없는 값을 방송 상세에서 따로 받아옵니다.</li>
+      <li>카카오 화면의 <code>다시보기</code> 는 <b>재방송이 아닙니다.</b>
+          끝난 방송을 지금 다시 볼 수 있다는 뜻(VOD)이라 지난 방송에 전부 붙습니다.
+          CJ의 <code>다시보는</code> 과 글자만 비슷하고 뜻이 다릅니다.</li>
+    </ul>
+
+    <hr class="sep">
+    <h2>그 밖의 표시 규칙</h2>
+    <ul>
+      <li><code>방송명 미확보</code> — 현대는 방송명을 <b>방송 시작 전에만</b> 받을 수
+          있습니다. 수집이 돌기 전에 이미 나간 방송은 이름을 영영 못 받습니다.</li>
+      <li>슬롯의 회색 배지는 담당 스튜디오(현대) 또는 카테고리(카카오)입니다.</li>
+      <li>편성은 임박해서 등록되므로 <b>3~4일 뒤부터 건수가 적은 것이 정상</b>입니다.
+          수집 실패가 아닙니다.</li>
+    </ul>
+  </div>
+
+  <div class="days" id="days"></div>
+
+  <div class="boardnote">방송을 누르면 상품 페이지가 열립니다</div>
+
+  <div class="board" id="board"></div>
+
+  <footer id="foot"></footer>
+</div>
+
+<script src="data/bundle.js"></script>
+<script>
+(function () {
+  "use strict";
+
+  var S = window.SCHEDULE;
+  var board = document.getElementById("board");
+  var elDays = document.getElementById("days");
+  var showEmpty = false;     // 편성 있는 시간대만. '빈 시간대 펼치기'로 24시간 전부 편다
+  var chFilter = "ALL";
+  var kindFilter = "ALL";    // ALL | LIVE | RERUN
+  var current = null;
+
+  if (!S) {
+    board.innerHTML = '<div class="note">data/bundle.js 를 읽지 못했습니다. <code>update.ps1</code> 을 먼저 실행하세요.</div>';
+    return;
+  }
+
+  var WD = ["일", "월", "화", "수", "목", "금", "토"];
+
+  function dayOf(code, date) {
+    var d = (S.data && S.data[code]) || {};
+    return d[date] || null;
+  }
+
+  function toMin(hhmm) {
+    if (!hhmm || hhmm.length < 4) return null;
+    var p = hhmm.split(":");
+    return parseInt(p[0], 10) * 60 + parseInt(p[1], 10);
+  }
+
+  function fmtPrice(n) { return n ? n.toLocaleString("ko-KR") + "원" : ""; }
+
+  function nowMin() {
+    var n = new Date();
+    return n.getHours() * 60 + n.getMinutes();
+  }
+
+  // 현대 방송명은 "[재방] 투명쇼 (패션잡화)" 꼴이다.
+  // 재방 표시와 담당 스튜디오를 떼어내 배지로 보내고 이름만 남긴다.
+  function parsePgm(raw) {
+    var s = (raw || "").trim();
+    if (!s) return null;
+    var rerun = false;
+    if (s.indexOf("[재방]") === 0) {
+      rerun = true;
+      s = s.slice(4).trim();
+    }
+    var studio = "";
+    var m = s.match(/\s*\(([^()]{1,20})\)\s*$/);
+    if (m) {
+      studio = m[1];
+      s = s.slice(0, m.index).trim();
+    }
+    if (!s) s = studio || "방송";
+    return { name: s, rerun: rerun, studio: studio };
+  }
+
+  // 재방 표시는 세 소스가 서로 다른 자리에 다른 말로 넣는다.
+  //   현대   - 방송명(pgm) 앞에 "[재방]"
+  //   CJ     - 편성 제목(title) 앞에 "다시보는"
+  //   카카오 - 상세 API 의 encore 플래그. 수집기가 rerun:true 로 내려준다.
+  // CJ 의 pgm 은 '라이브쇼' 같은 프로그램명이라 재방 여부가 들어오지 않고,
+  // 카카오는 제목에 아무 표시가 없는 앵콜이 있어 문자열로는 판정할 수 없다.
+  function isRerun(p, pgm) {
+    if (p.rerun === true) return true;
+    if (pgm && pgm.rerun) return true;
+    return (p.title || "").trim().indexOf("다시보는") === 0;
+  }
+
+  // 방송명 아래에 붙는 소구 문구.
+  //   현대 - prmoTxtCntn  "[투명쇼] 막스마라 코트 60개월 무이자 월 1만원대~"
+  //   CJ   - bdTit        "다시보는 벨마르슈 런칭 특가..."
+  //   카카오 - displayTitle 둘째 줄
+  //
+  // "다시보는"은 떼지 않고 원문 그대로 둔다. 방송명 앞의 [재방] 이 이 글자를 보고
+  // 붙는 것이라, 여기서 지우면 화면에서 판정 근거를 확인할 방법이 없어진다.
+  //
+  // 다만 앞머리 [대괄호] 가 바로 윗줄 방송명과 같은 말이면 뗀다. 현대와 CJ 둘 다
+  // 프로그램명을 제목 앞에 다시 붙이는 습관이 있어서, 그대로 두면 같은 단어가
+  // 위아래로 두 번 나온다. 정보가 사라지는 것이 아니라 바로 위에 그대로 있다.
+  function subtitle(p, pgm) {
+    var t = (p.title || "").trim();
+    var name = pgm && pgm.name;
+    if (name && t.charAt(0) === "[") {
+      var end = t.indexOf("]");
+      if (end > 0 && t.slice(1, end).trim() === name) t = t.slice(end + 1).trim();
+    }
+    return t;
+  }
+
+  // 편성 데이터는 끝시각이 포함(00:00~00:59 = 60분)이지만 소스가 바뀌어
+  // 배타적(01:00~02:00 = 60분)으로 올 수도 있다. 5분 단위로 떨어지는 쪽을 택한다.
+  function duration(s, e) {
+    if (s === null || e === null || e < s) return null;
+    var d = e - s;
+    return (d + 1) % 5 === 0 ? d + 1 : d;
+  }
+
+  function visible(p) {
+    if (kindFilter === "ALL") return true;
+    var rerun = isRerun(p, parsePgm(p.pgm));
+    return kindFilter === "RERUN" ? rerun : !rerun;
+  }
+
+  function channels() {
+    return S.channels.filter(function (c) { return chFilter === "ALL" || c.code === chFilter; });
+  }
+
+  // ---------- segmented controls ----------
+  function seg(el, items, val, set) {
+    el.innerHTML = "";
+    items.forEach(function (it) {
+      var b = document.createElement("button");
+      b.type = "button";
+      b.textContent = it.label;
+      if (it.value === val) b.className = "on";
+      b.addEventListener("click", function () { set(it.value); render(); });
+      el.appendChild(b);
+    });
+  }
+
+  function renderControls() {
+    var chItems = [{ label: "전체", value: "ALL" }];
+    S.channels.forEach(function (c) { chItems.push({ label: c.code, value: c.code }); });
+    seg(document.getElementById("segCh"), chItems, chFilter, function (v) { chFilter = v; });
+    seg(document.getElementById("segKind"), [
+      { label: "전체", value: "ALL" },
+      { label: "본방", value: "LIVE" },
+      { label: "재방", value: "RERUN" }
+    ], kindFilter, function (v) { kindFilter = v; });
+
+    var d = new Date(current + "T00:00:00");
+    var wd = d.getDay();
+    document.getElementById("curDate").innerHTML =
+      current + ' <span class="wd' + (wd === 0 ? " sun" : wd === 6 ? " sat" : "") + '">(' + WD[wd] + ")</span>";
+
+    var i = S.dates.indexOf(current);
+    document.getElementById("prev").disabled = i <= 0;
+    document.getElementById("next").disabled = i < 0 || i >= S.dates.length - 1;
+  }
+
+  // ---------- day chips ----------
+  function renderDays() {
+    elDays.innerHTML = "";
+    S.dates.forEach(function (date) {
+      var d = new Date(date + "T00:00:00");
+      var total = 0;
+      channels().forEach(function (c) {
+        (dayOf(c.code, date) || []).forEach(function (p) { if (visible(p)) total++; });
+      });
+
+      var b = document.createElement("button");
+      b.type = "button";
+      b.className = "day" + (d.getDay() === 0 ? " sun" : d.getDay() === 6 ? " sat" : "") +
+                    (date === S.today ? " today" : "") + (date === current ? " on" : "");
+      b.innerHTML = '<span class="n">' + (d.getMonth() + 1) + "/" + d.getDate() + " " + WD[d.getDay()] + "</span>" +
+                    '<span class="c">' + (total ? total + "건" : "—") + "</span>";
+      b.addEventListener("click", function () { current = date; render(); });
+      elDays.appendChild(b);
+    });
+  }
+
+  // ---------- slot ----------
+  function slotCard(p, isToday, cur) {
+    var s = toMin(p.start), e = toMin(p.end);
+    // end 가 없으면 live 가 false 로 떨어진다. 끝나는 시각을 모르면 지금 방송
+    // 중인지 판정할 수 없으므로 '방송중' 을 붙이지 않는 것이 맞다.
+    var live = isToday && s !== null && e !== null && cur >= s && cur <= e;
+
+    var a = document.createElement(p.link ? "a" : "div");
+    a.className = "slot" + (live ? " live" : "");
+    if (p.link) { a.href = p.link; a.target = "_blank"; a.rel = "noopener"; }
+
+    var pgm = parsePgm(p.pgm);
+
+    var t = document.createElement("div");
+    t.className = "t";
+    var dur = duration(s, e);
+    // 정상 수집이면 세 채널 다 end 가 온다. 수집이 부분 실패한 슬롯만 "08:30 ~" 가
+    // 되는데, 그때도 60분 같은 값을 지어내지 않는다.
+    t.innerHTML = '<span class="rng">' + p.start + (p.end ? "&ndash;" + p.end : " ~") + "</span>" +
+                  (dur ? '<span class="dur">(' + dur + "&prime;)</span>" : "");
+    if (live) {
+      var bd = document.createElement("span");
+      bd.className = "badge";
+      bd.textContent = "방송중";
+      t.appendChild(bd);
+    }
+    var tag = (pgm && pgm.studio) || p.category;
+    if (tag) {
+      var sb = document.createElement("span");
+      sb.className = "badge studio";
+      sb.textContent = tag;
+      t.appendChild(sb);
+    }
+    a.appendChild(t);
+
+    // 방송명 줄은 항상 만든다. 이름이 없을 때 브랜드가 그 자리를 차지하면
+    // 브랜드가 방송명인 것처럼 읽히기 때문이다.
+    var pg = document.createElement("div");
+    // 재방 표시는 두 소스 모두 방송명 앞의 "[재방]" 으로 통일해서 보여준다.
+    // (현대는 pgm 에, CJ 는 title 에 들어오지만 화면에서는 같은 자리에 온다)
+    if (isRerun(p, pgm)) {
+      var re = document.createElement("span");
+      re.className = "re";
+      re.textContent = "[재방]";
+      pg.appendChild(re);
+      pg.appendChild(document.createTextNode(" "));
+    }
+    if (pgm) {
+      pg.className = "pgm";
+      pg.appendChild(document.createTextNode(pgm.name));
+    } else {
+      pg.className = "pgm unknown";
+      pg.appendChild(document.createTextNode("방송명 미확보"));
+      pg.title = "방송 시작 전에만 받아올 수 있는 값입니다. "
+               + "이 방송이 나가기 전에 수집이 돌지 않아 비어 있습니다.";
+    }
+    a.appendChild(pg);
+
+    // 소구 문구가 없는 슬롯도 줄 자리는 비워둔다. 안 그러면 그 슬롯만 한 줄
+    // 짧아져서 같은 시간대인데 옆 채널과 높이가 안 맞는다.
+    var st = document.createElement("div");
+    st.className = "ttl";
+    st.textContent = subtitle(p, pgm);
+    a.appendChild(st);
+
+    // 브랜드·상품(왼쪽, 길면 말줄임)과 가격(오른쪽, 안 잘림)을 한 줄에 둔다.
+    var left = document.createElement("span");
+    left.className = "left";
+    if (p.brand) {
+      var bs = document.createElement("span");
+      bs.className = "bd";
+      bs.textContent = p.brand;
+      left.appendChild(bs);
+    }
+    if (p.brand && p.product) {
+      var sp = document.createElement("span");
+      sp.className = "sep";
+      sp.textContent = "|";
+      left.appendChild(sp);
+    }
+    if (p.product) left.appendChild(document.createTextNode(p.product));
+
+    var right = document.createElement("span");
+    right.className = "right";
+    if (p.price) {
+      var pr = document.createElement("span");
+      pr.className = "pr";
+      pr.textContent = fmtPrice(p.price);
+      right.appendChild(pr);
+    }
+    if (p.items && p.items.length > 1) {
+      var it = document.createElement("span");
+      it.textContent = "상품 " + p.items.length;
+      right.appendChild(it);
+    }
+
+    if (left.childNodes.length || right.childNodes.length) {
+      var meta = document.createElement("div");
+      meta.className = "meta";
+      meta.title = (p.brand ? p.brand + " | " : "") + (p.product || "");
+      meta.appendChild(left);
+      meta.appendChild(right);
+      a.appendChild(meta);
+    }
+
+    return a;
+  }
+
+  // ---------- board ----------
+  function render() {
+    renderControls();
+    renderDays();
+
+    var date = current;
+    var isToday = date === S.today;
+    var cur = nowMin();
+    var chs = channels();
+
+    board.style.setProperty("--cols", chs.length);
+
+    var buckets = {}, counts = {};
+    chs.forEach(function (c) {
+      buckets[c.code] = {};
+      var day = dayOf(c.code, date);
+      var n = 0;
+      (day || []).forEach(function (p) {
+        if (!visible(p)) return;
+        var m = toMin(p.start);
+        if (m === null) return;
+        n++;
+        var h = Math.floor(m / 60);
+        (buckets[c.code][h] = buckets[c.code][h] || []).push(p);
+      });
+      counts[c.code] = day ? n : null;
+    });
+
+    board.innerHTML = "";
+
+    var head = document.createElement("div");
+    head.className = "head";
+    var hc = document.createElement("div");
+    hc.className = "hcol";
+    hc.textContent = "시간";
+    head.appendChild(hc);
+    chs.forEach(function (c) {
+      var d = document.createElement("div");
+      var n = counts[c.code];
+      d.title = c.name;
+      d.innerHTML = '<span class="pill ' + c.code.toLowerCase() + '">' + c.code + "</span>" +
+                    '<span class="cnt">' + (n === null ? "데이터 없음" : n + "건") + "</span>";
+      head.appendChild(d);
+    });
+    board.appendChild(head);
+
+    var anyData = chs.some(function (c) { return counts[c.code]; });
+    if (!anyData) {
+      var note = document.createElement("div");
+      note.className = "note";
+      note.textContent = kindFilter === "ALL"
+        ? "이 날짜는 아직 편성이 등록되지 않았습니다."
+        : "조건에 맞는 편성이 없습니다.";
+      board.appendChild(note);
+    }
+
+    for (var h = 0; anyData && h < 24; h++) {
+      var has = chs.some(function (c) { return (buckets[c.code][h] || []).length; });
+      if (!has && !showEmpty) continue;
+
+      var row = document.createElement("div");
+      row.className = "row" + (has ? "" : " empty");
+
+      var hh = document.createElement("div");
+      hh.className = "hour";
+      hh.textContent = (h < 10 ? "0" : "") + h + "시";
+      row.appendChild(hh);
+
+      chs.forEach(function (c) {
+        var cell = document.createElement("div");
+        cell.className = "cell cell-" + c.code.toLowerCase();
+        cell.setAttribute("data-ch", c.code);   // 모바일에서 채널 칩으로 쓴다
+        var list = buckets[c.code][h] || [];
+        list.sort(function (a, b) { return toMin(a.start) - toMin(b.start); });
+        list.forEach(function (p) { cell.appendChild(slotCard(p, isToday, cur)); });
+        row.appendChild(cell);
+      });
+
+      // 현재 시간대는 시간 칸에만 표시한다 (가로줄 없음)
+      if (isToday && Math.floor(cur / 60) === h) {
+        row.className += " now";
+        hh.setAttribute("data-t",
+          ((h < 10 ? "0" : "") + h) + ":" + (cur % 60 < 10 ? "0" : "") + (cur % 60));
+      }
+
+      board.appendChild(row);
+    }
+
+    var f = [];
+    S.channels.forEach(function (c) {
+      var u = S.updated_at && S.updated_at[c.code];
+      f.push(c.name + ": " + (u ? u.replace("T", " ").slice(0, 16) + " 수집" : "수집 소스 미연결"));
+    });
+    document.getElementById("foot").innerHTML =
+      f.join(" &nbsp;&middot;&nbsp; ") +
+      '<br>갱신은 <code>update.ps1</code> 실행. 편성은 임박해서 등록되므로 3~4일 뒤부터는 건수가 적은 것이 정상입니다.';
+
+    document.getElementById("meta").textContent =
+      "생성 " + (S.generated_at || "").replace("T", " ").slice(0, 16);
+  }
+
+  function step(delta) {
+    var i = S.dates.indexOf(current);
+    if (i < 0) return;
+    var j = i + delta;
+    if (j < 0 || j >= S.dates.length) return;
+    current = S.dates[j];
+    render();
+  }
+  document.getElementById("prev").addEventListener("click", function () { step(-1); });
+  document.getElementById("next").addEventListener("click", function () { step(1); });
+  document.addEventListener("keydown", function (ev) {
+    if (ev.key === "ArrowLeft") step(-1);
+    if (ev.key === "ArrowRight") step(1);
+  });
+
+  var helpBtn = document.getElementById("helpBtn");
+  var helpBox = document.getElementById("helpBox");
+  helpBtn.addEventListener("click", function () {
+    var open = helpBox.hidden;
+    helpBox.hidden = !open;
+    helpBtn.setAttribute("aria-expanded", String(open));
+  });
+
+  // 소구 문구는 기본 접힘. 좁은 칸에 줄이 많으면 방송명이 눈에 안 들어온다.
+  var ttlBtn = document.getElementById("toggleTtl");
+  ttlBtn.addEventListener("click", function () {
+    var on = board.classList.toggle("ttl-on");
+    this.innerHTML = (on ? "▲" : "▼") + " 소구 문구";
+  });
+
+  document.getElementById("toggleEmpty").addEventListener("click", function () {
+    showEmpty = !showEmpty;
+    this.textContent = showEmpty ? "빈 시간대 접기" : "빈 시간대 펼치기";
+    render();
+  });
+
+  current = S.dates.indexOf(S.today) >= 0 ? S.today : S.dates[0];
+  render();
+  setInterval(function () { if (current === S.today) render(); }, 60000);
+})();
+</script>
+</body>
+</html>
