@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-08",
- "updated_at": "2026-08-29T07:05:25+09:00",
+ "updated_at": "2026-08-29T12:05:36+09:00",
  "days": {
   "2026-08-26": [
    {
@@ -1297,6 +1297,24 @@
     ],
     "title": "[코데즈컴바인] 간절기까지 입기 좋은 데일리 아이템✨",
     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "헨리베글린",
+    "product": "일레니아 마이크로 밴드 스카이",
+    "price": 672840,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249213148",
+    "slot_id": "202608296002",
+    "items": [
+     {
+      "brand": "헨리베글린",
+      "product": "일레니아 마이크로 밴드 스카이",
+      "price": 672840,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249213148"
+     }
+    ],
+    "title": "[헨리베글린] 26FW 신상&시즌오프 쇼라 공개!"
    },
    {
     "start": "10:00",

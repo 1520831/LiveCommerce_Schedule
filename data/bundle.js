@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-08-29T07:05:37+09:00",
+ "generated_at": "2026-08-29T12:05:51+09:00",
  "today": "2026-08-29",
  "dates": [
   "2026-08-28",
@@ -557,6 +557,24 @@ window.SCHEDULE = {
      ],
      "title": "[코데즈컴바인] 간절기까지 입기 좋은 데일리 아이템✨",
      "pgm": "백화점 프리오픈쇼(멀티커머스)"
+    },
+    {
+     "start": "10:00",
+     "end": "10:59",
+     "brand": "헨리베글린",
+     "product": "일레니아 마이크로 밴드 스카이",
+     "price": 672840,
+     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249213148",
+     "slot_id": "202608296002",
+     "items": [
+      {
+       "brand": "헨리베글린",
+       "product": "일레니아 마이크로 밴드 스카이",
+       "price": 672840,
+       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249213148"
+      }
+     ],
+     "title": "[헨리베글린] 26FW 신상&시즌오프 쇼라 공개!"
     },
     {
      "start": "10:00",
@@ -2218,9 +2236,9 @@ window.SCHEDULE = {
      "start": "11:00",
      "end": "11:59",
      "brand": "스테니",
-     "product": "무연마제 통5중 스텐팬 4종(28팬,24팬,24웍,24뚜껑)",
-     "price": 194000,
-     "link": "https://item.cjonstyle.com/item/2073812479?channelCode=30002002",
+     "product": "무연마제 통5중 스텐팬 4종세트(28팬,24팬,28웍,28뚜껑)",
+     "price": 209900,
+     "link": "https://item.cjonstyle.com/item/2091624503?channelCode=30002002",
      "slot_id": "28618",
      "title": "무연마제 스텐팬, 스테니! 현시점 CJ 단독 할인, 베스트셀러 총집합!",
      "pgm": "라이브쇼",
@@ -2423,7 +2441,7 @@ window.SCHEDULE = {
      "end": "19:59",
      "brand": "오야니",
      "product": "26FW 양면 울실크 스카프",
-     "price": 89100,
+     "price": 99000,
      "link": "https://item.cjonstyle.com/item/2089336890?channelCode=30002002",
      "slot_id": "28622",
      "title": "오야니 신상 가방&슈즈 최초 공개 특집 LIVE 5만 원 적립까지!",
@@ -3639,7 +3657,7 @@ window.SCHEDULE = {
      "end": "13:59",
      "brand": "오야니",
      "product": "26FW 양면 울실크 스카프",
-     "price": 89100,
+     "price": 99000,
      "link": "https://item.cjonstyle.com/item/2089336890?channelCode=30002002",
      "slot_id": "28954",
      "title": "다시보는 오야니 신상 가방&슈즈 최초 공개 특집",
@@ -4782,7 +4800,7 @@ window.SCHEDULE = {
    "2026-08-29": [
     {
      "start": "10:00",
-     "end": "11:30",
+     "end": "11:20",
      "brand": "나무팩토리",
      "product": "[꿀피부 선물] 화잘먹 모공 청소템! 딥클렌징 디바이스 진동클렌저 스탠다드",
      "price": 23900,
@@ -4794,7 +4812,7 @@ window.SCHEDULE = {
     },
     {
      "start": "10:00",
-     "end": "11:30",
+     "end": "11:20",
      "brand": "마크니",
      "product": "마크니 데일리백 14종 도트백 백팩 나일론백",
      "price": 29900,
@@ -4806,7 +4824,7 @@ window.SCHEDULE = {
     },
     {
      "start": "10:00",
-     "end": "13:00",
+     "end": "11:21",
      "brand": "휩드",
      "product": "휩드 비건 휘핑 팩클렌저 130g 택2",
      "price": 40000,
@@ -5854,8 +5872,8 @@ window.SCHEDULE = {
   }
  },
  "updated_at": {
-  "HD": "2026-08-29T07:05:25+09:00",
-  "CJ": "2026-08-29T07:05:31+09:00",
-  "KA": "2026-08-29T07:05:37+09:00"
+  "HD": "2026-08-29T12:05:36+09:00",
+  "CJ": "2026-08-29T12:05:43+09:00",
+  "KA": "2026-08-29T12:05:51+09:00"
  }
 };
