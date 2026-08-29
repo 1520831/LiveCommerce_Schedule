@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-08-29T23:39:56+09:00",
+ "updated_at": "2026-08-30T07:06:45+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -536,6 +536,104 @@
     "pgm": "CJ 추석선물세트 특가",
     "title": "추가쿠폰+사은품",
     "category": "식품"
+   }
+  ],
+  "2026-09-04": [
+   {
+    "start": "08:30",
+    "end": "11:30",
+    "brand": "스케쳐스코리아 본사",
+    "product": "[스케쳐스 브랜드데이] 추석 선물 특별전! BEST 워킹화/운동화/아치핏/슬립인스 ~33%+쿠폰",
+    "price": 99000,
+    "link": "https://store.kakao.com/skecherskr/products/66544898",
+    "slot_id": "59338",
+    "pgm": "가을에도 가벼운 스케쳐스",
+    "title": "워킹화/운동화 외 발편한슈즈",
+    "category": "패션"
+   },
+   {
+    "start": "08:30",
+    "end": "11:30",
+    "brand": "에스더블유코리아",
+    "product": "사토노유키 실큰두부 300g 12개, 고소한 상온보관 멸균두부",
+    "price": 48000,
+    "link": "https://store.kakao.com/swkoreahome/products/674625411",
+    "slot_id": "59441",
+    "pgm": "극강의 고소함 실큰두부",
+    "title": "상온 보관 멸균두부 특가",
+    "category": "식품"
+   },
+   {
+    "start": "08:30",
+    "end": "10:00",
+    "brand": "메디힐",
+    "product": "메디힐 더마 패드/에센셜마스크/팩클렌저 모음딜",
+    "price": 60000,
+    "link": "https://store.kakao.com/mediheal/products/727288061",
+    "slot_id": "59474",
+    "pgm": "메디힐 BEST 전품목 할인",
+    "title": "여름 피지각질 클렌징 케어",
+    "category": "뷰티"
+   },
+   {
+    "start": "10:00",
+    "end": "13:00",
+    "brand": "스케쳐스코리아 본사",
+    "product": "[스케쳐스키즈 브랜드데이] 추석 특별 신학기 특가! 슬립인스/반짝 라이트/운동화 ~28%+쿠폰",
+    "price": 69000,
+    "link": "https://store.kakao.com/skecherskr/products/763740620",
+    "slot_id": "59340",
+    "pgm": "스케쳐스 키즈로 새학기 준비",
+    "title": "아이들에게 편한 신발",
+    "category": "패션"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "마이픽",
+    "product": "[자꾸만 생각나는 건강 간식] 왓더파머스 바삭바삭 저당 제로 과자 10종 모음 골라담기",
+    "price": 14900,
+    "link": "https://store.kakao.com/mypick/products/556541963",
+    "slot_id": "59460",
+    "pgm": "왓더파머스 과자 10종",
+    "title": "온 가족 건강 간식 골라담기",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "대상 공식스토어",
+    "product": "행복 10호",
+    "price": 36900,
+    "link": "https://store.kakao.com/daesang/products/406699598",
+    "slot_id": "59021",
+    "pgm": "대상 청정원 쎈딜 라이브",
+    "title": "미리 준비하는 추석 선물세트",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "smartinfini",
+    "product": "[LIVE] 쏠비치 진도  올인클루시브 3인PKG (조식+인피니티풀+레전드히어로즈) ~10/31투숙까지",
+    "price": 245000,
+    "link": "https://store.kakao.com/smartinfini01/products/779181255",
+    "slot_id": "59426",
+    "pgm": "[쏠비치 진도] 3/4패키지",
+    "title": "인추비 무료+추가 특전",
+    "category": "여행"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "오버더",
+    "product": "오버더바이크 실내 자전거 (안장커버 증정)",
+    "price": 389000,
+    "link": "https://store.kakao.com/overthe/products/544676470",
+    "slot_id": "59692",
+    "pgm": "[오버더]가정용 천국의 계단",
+    "title": "카쇼라 역대 특가 LIVE",
+    "category": "리빙"
    }
   ]
  }

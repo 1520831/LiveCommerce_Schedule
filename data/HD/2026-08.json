@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-08",
- "updated_at": "2026-08-29T23:39:42+09:00",
+ "updated_at": "2026-08-30T07:06:30+09:00",
  "days": {
   "2026-08-26": [
    {
@@ -1511,14 +1511,14 @@
     "end": "20:59",
     "brand": "JJ퀸",
     "product": "[JJQUEEN] 로에나 헤어밴드 HR2075 HR2076 HR2077",
-    "price": 83300,
+    "price": 119000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252570251",
     "slot_id": "202608296009",
     "items": [
      {
       "brand": "JJ퀸",
       "product": "[JJQUEEN] 로에나 헤어밴드 HR2075 HR2076 HR2077",
-      "price": 83300,
+      "price": 119000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252570251"
      }
     ],
@@ -1603,25 +1603,6 @@
    }
   ],
   "2026-08-30": [
-   {
-    "start": "00:00",
-    "end": "00:59",
-    "brand": "리스트",
-    "product": "소프트터치루즈핏셔츠TWWSTQ72050 TWWSTQ72050",
-    "price": 159000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252552644",
-    "slot_id": "202608306016",
-    "items": [
-     {
-      "brand": "리스트",
-      "product": "소프트터치루즈핏셔츠TWWSTQ72050 TWWSTQ72050",
-      "price": 159000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252552644"
-     }
-    ],
-    "title": "[리스트] 매일 입을 데일리템 최대 75%▼",
-    "pgm": "[재방] 리스트 (멀티커머스)"
-   },
    {
     "start": "07:00",
     "end": "07:59",
@@ -1741,14 +1722,14 @@
     "end": "14:59",
     "brand": "히말라야코리아",
     "product": "[총 140개입] 히말라야 파티스마트 츄 숙취해소젤리(2개입) 60박스 (+10개입/수분크림/립밤 증정)",
-    "price": 267400,
+    "price": 69900,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252824710",
     "slot_id": "202608306006",
     "items": [
      {
       "brand": "히말라야코리아",
       "product": "[총 140개입] 히말라야 파티스마트 츄 숙취해소젤리(2개입) 60박스 (+10개입/수분크림/립밤 증정)",
-      "price": 267400,
+      "price": 69900,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252824710"
      }
     ],
@@ -1874,14 +1855,14 @@
     "end": "20:59",
     "brand": "ICEBALL",
     "product": "Ice tennis bracelet (3mm)",
-    "price": 191000,
+    "price": 145000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239102751",
     "slot_id": "202608306009",
     "items": [
      {
       "brand": "ICEBALL",
       "product": "Ice tennis bracelet (3mm)",
-      "price": 191000,
+      "price": 145000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239102751"
      }
     ],

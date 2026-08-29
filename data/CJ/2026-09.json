@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-08-29T23:39:48+09:00",
+ "updated_at": "2026-08-30T07:06:36+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -246,7 +246,7 @@
     "end": "21:59",
     "brand": "누트라코스",
     "product": "[잘사는언니들 PICK] 누트라 코스 아미노샷 5박스+메쉬파우치+두피괄사+쇼핑백",
-    "price": 664500,
+    "price": 499000,
     "link": "https://item.cjonstyle.com/item/2091238208?channelCode=30002002",
     "slot_id": "28986",
     "title": "다시보는 잘사는🩷누트라코스 데일리 아미노샷X5박스 앵콜 단톡 특가",
@@ -256,13 +256,14 @@
    {
     "start": "22:00",
     "end": "22:59",
-    "brand": "",
-    "product": "다시보는 잘사는💚캐츠잉글리시 집에서 하는 진짜 학원 영어! 신학기 혜택",
+    "brand": "캐츠잉글리시",
+    "product": "<캐츠잉글리시X잘사는언니들> 초등 1위 영어학습 무료체험 7일",
     "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/28989",
+    "link": "https://item.cjonstyle.com/item/2060455579?channelCode=30002002",
     "slot_id": "28989",
     "title": "다시보는 잘사는💚캐츠잉글리시 집에서 하는 진짜 학원 영어! 신학기 혜택",
-    "pgm": "잘사는 언니들"
+    "pgm": "잘사는 언니들",
+    "category": "서비스·렌탈"
    },
    {
     "start": "23:00",
@@ -654,6 +655,54 @@
     "title": "[투머치쇼X피브레노] 26FW 신상백 론칭 & 호이픽 한정세트까지!",
     "pgm": "김호영의 투머치쇼",
     "category": "여성패션"
+   }
+  ],
+  "2026-09-04": [
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "",
+    "product": "[맘만하니] 올인원 효소 플로렌💕효소+유산균+애사비+이너뷰티~65%✨",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/28852",
+    "slot_id": "28852",
+    "title": "[맘만하니] 올인원 효소 플로렌💕효소+유산균+애사비+이너뷰티~65%✨",
+    "pgm": "맘만하니"
+   },
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "똘똘한쇼",
+    "product": "[똘똘한쇼] 올레오에스테파 시그니처 조기수확 엑스트라버진 500ml 2병 선물 세트",
+    "price": 109000,
+    "link": "https://item.cjonstyle.com/item/2084734767?channelCode=30002002",
+    "slot_id": "29196",
+    "title": "스페인 1위 올레오에스테파 시그니처 조기수확 엑스트라버진 3종 🫒",
+    "pgm": "똘똘한쇼",
+    "category": "식품·건강"
+   },
+   {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "루이까또즈",
+    "product": "엘퀼팅 숄더백 H63QT01BL",
+    "price": 366400,
+    "link": "https://item.cjonstyle.com/item/2091640855?channelCode=30002002",
+    "slot_id": "29039",
+    "title": "다시보는 루이까또즈 26FW 신상 CJ 단독공개🍁",
+    "pgm": "브랜디드 라이브쇼",
+    "category": "잡화·슈즈"
+   },
+   {
+    "start": "14:00",
+    "end": "14:59",
+    "brand": "",
+    "product": "다시보는 [한정수량] 프라이 잡화✨ 썸머세일 막바지 방송에서만 최저가!",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/29041",
+    "slot_id": "29041",
+    "title": "다시보는 [한정수량] 프라이 잡화✨ 썸머세일 막바지 방송에서만 최저가!",
+    "pgm": "라이브쇼"
    }
   ]
  }

@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-08-29T23:39:42+09:00",
+ "updated_at": "2026-08-30T07:06:30+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -654,6 +654,103 @@
     ],
     "title": "[제이바이라라] 간절기 아이템 방송 특가 OPEN❤️",
     "pgm": "[제이바이라라] 의류 (멀티커머스)"
+   }
+  ],
+  "2026-09-04": [
+   {
+    "start": "00:00",
+    "end": "00:59",
+    "brand": "크리스찬디올",
+    "product": "[디올]6S M0505PUQA 39Z 레이디 디올 리본 미니백 아이스 블루",
+    "price": 8300000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251641112",
+    "slot_id": "202609046020",
+    "items": [
+     {
+      "brand": "크리스찬디올",
+      "product": "[디올]6S M0505PUQA 39Z 레이디 디올 리본 미니백 아이스 블루",
+      "price": 8300000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251641112"
+     }
+    ],
+    "title": "[투명쇼] 톰브라운 가디건 월 1만원대 특별가 한정수량",
+    "pgm": "[재방] 투명쇼 (패션잡화)"
+   },
+   {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "시슬리",
+    "product": "[본사 공식] 플래닛 소매 턴업 탈착카라 싱글 트렌치 코트_SACT40561BR",
+    "price": 251900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2243278215",
+    "slot_id": "202609046005",
+    "items": [
+     {
+      "brand": "시슬리",
+      "product": "[본사 공식] 플래닛 소매 턴업 탈착카라 싱글 트렌치 코트_SACT40561BR",
+      "price": 251900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2243278215"
+     }
+    ],
+    "title": "[베네통&시슬리]🍁AUTUMN 35%쿠폰혜택",
+    "pgm": "[베네통/시슬리] 의류 (패션1Lab)"
+   },
+   {
+    "start": "14:00",
+    "end": "14:59",
+    "brand": "김씨언니마켓",
+    "product": "생강청 수제 생강차 600gX3병 김씨언니마켓",
+    "price": 67900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2238849371",
+    "slot_id": "202609046007",
+    "items": [
+     {
+      "brand": "김씨언니마켓",
+      "product": "생강청 수제 생강차 600gX3병 김씨언니마켓",
+      "price": 67900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2238849371"
+     }
+    ],
+    "title": "[김씨언니마켓] 환절기에 꼭 찾게되는 생강청",
+    "pgm": "편성기획 삽입용 (편성)"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "마쟈",
+    "product": "[비밀상점][마쟈] 카메라 프린트 배색 브이넥 스트라이프 니트 ZE08QK004NA",
+    "price": 55900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2236807142",
+    "slot_id": "202609046011",
+    "items": [
+     {
+      "brand": "마쟈",
+      "product": "[비밀상점][마쟈] 카메라 프린트 배색 브이넥 스트라이프 니트 ZE08QK004NA",
+      "price": 55900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2236807142"
+     }
+    ],
+    "title": "[마쟈] 합리적인 가격대✨높은 퀄리티 블라우스/팬츠外",
+    "pgm": "[마쟈] 여성의류 (멀티커머스)"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "삼성금거래소",
+    "product": "말 실버바 Silver Bar 100g",
+    "price": 471000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247975417",
+    "slot_id": "202609046012",
+    "items": [
+     {
+      "brand": "삼성금거래소",
+      "product": "말 실버바 Silver Bar 100g",
+      "price": 471000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247975417"
+     }
+    ],
+    "title": "[삼성금거래소] 풍요의 기원을 담은 순금 골드 코인 ✨",
+    "pgm": "[삼성금거래소] 순금 (패션잡화)"
    }
   ]
  }
