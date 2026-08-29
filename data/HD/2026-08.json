@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-08",
- "updated_at": "2026-08-29T12:05:36+09:00",
+ "updated_at": "2026-08-29T18:07:34+09:00",
  "days": {
   "2026-08-26": [
    {
@@ -1454,14 +1454,14 @@
     "end": "18:59",
     "brand": "로보",
     "product": "스웨이드 3버튼 크롭 자켓",
-    "price": 499000,
+    "price": 399000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252874196",
     "slot_id": "202608296007",
     "items": [
      {
       "brand": "로보",
       "product": "스웨이드 3버튼 크롭 자켓",
-      "price": 499000,
+      "price": 399000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252874196"
      }
     ],
@@ -2002,6 +2002,25 @@
      }
     ],
     "title": "매일을 특별하게 채우는 BCBG 타임리스 실루엣❤️",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "JJ지고트",
+    "product": "잔조직 슬림핏 스퀘어넥 재킷GS5M0JK902 GS5M0JK902",
+    "price": 138180,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252755113",
+    "slot_id": "202608316005",
+    "items": [
+     {
+      "brand": "JJ지고트",
+      "product": "잔조직 슬림핏 스퀘어넥 재킷GS5M0JK902 GS5M0JK902",
+      "price": 138180,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252755113"
+     }
+    ],
+    "title": "[JJ지고트] 화사하게 완성하는 데일리 페미닌룩✨",
     "pgm": "백화점 프리오픈쇼(멀티커머스)"
    },
    {

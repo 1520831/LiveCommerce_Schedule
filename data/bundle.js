@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-08-29T12:05:51+09:00",
+ "generated_at": "2026-08-29T18:07:48+09:00",
  "today": "2026-08-29",
  "dates": [
   "2026-08-28",
@@ -714,14 +714,14 @@ window.SCHEDULE = {
      "end": "18:59",
      "brand": "로보",
      "product": "스웨이드 3버튼 크롭 자켓",
-     "price": 499000,
+     "price": 399000,
      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252874196",
      "slot_id": "202608296007",
      "items": [
       {
        "brand": "로보",
        "product": "스웨이드 3버튼 크롭 자켓",
-       "price": 499000,
+       "price": 399000,
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252874196"
       }
      ],
@@ -1262,6 +1262,25 @@ window.SCHEDULE = {
       }
      ],
      "title": "매일을 특별하게 채우는 BCBG 타임리스 실루엣❤️",
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+    },
+    {
+     "start": "09:00",
+     "end": "09:59",
+     "brand": "JJ지고트",
+     "product": "잔조직 슬림핏 스퀘어넥 재킷GS5M0JK902 GS5M0JK902",
+     "price": 138180,
+     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252755113",
+     "slot_id": "202608316005",
+     "items": [
+      {
+       "brand": "JJ지고트",
+       "product": "잔조직 슬림핏 스퀘어넥 재킷GS5M0JK902 GS5M0JK902",
+       "price": 138180,
+       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252755113"
+      }
+     ],
+     "title": "[JJ지고트] 화사하게 완성하는 데일리 페미닌룩✨",
      "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
@@ -3917,7 +3936,7 @@ window.SCHEDULE = {
      "end": "22:44",
      "brand": "MCRN",
      "product": "[mcrn] 핸드스트랩+미니파우치+크리스탈 체리키링 세트",
-     "price": 95200,
+     "price": 119000,
      "link": "https://item.cjonstyle.com/item/2091719654?channelCode=30002002",
      "slot_id": "28803",
      "title": "굿라이프 x mcrn 폰스트랩 입점 특집! ✨비교필수 파격조건 ✨",
@@ -4836,7 +4855,7 @@ window.SCHEDULE = {
     },
     {
      "start": "11:30",
-     "end": "13:00",
+     "end": "12:32",
      "brand": "자연원",
      "product": "믹스밀 바로데워먹는 야채찜 1kg x 3팩+후무스 1개 랜덤증정",
      "price": 41700,
@@ -4848,7 +4867,7 @@ window.SCHEDULE = {
     },
     {
      "start": "11:30",
-     "end": "13:00",
+     "end": "12:30",
      "brand": "현대백화점 신촌점 톡스토어",
      "product": "SOUP 트위드 계절왔다~ SB3TJM1",
      "price": 50700,
@@ -4860,7 +4879,7 @@ window.SCHEDULE = {
     },
     {
      "start": "11:30",
-     "end": "13:00",
+     "end": "12:30",
      "brand": "예일키즈",
      "product": "[예일키즈] 남여아 공용 SUMMER 시즌오프&가을 선오픈 100종 특가 맨투맨/긴팔티/상하세트/팬츠/잡화 주니어",
      "price": 79000,
@@ -4872,7 +4891,7 @@ window.SCHEDULE = {
     },
     {
      "start": "11:30",
-     "end": "13:00",
+     "end": "12:30",
      "brand": "글래든",
      "product": "[1+1] 비시나 기미 크림 50ml",
      "price": 98000,
@@ -4899,7 +4918,7 @@ window.SCHEDULE = {
      "end": "22:00",
      "brand": "웹투어(주)",
      "product": "위니 인형PKG(인피니티풀 2+1적용)or조식PKG(조식 2+1적용)or룸 업글PKG(조식+칵테일 2인)",
-     "price": 174000,
+     "price": 711000,
      "link": "https://store.kakao.com/webtour/products/712089071",
      "slot_id": "59385",
      "pgm": "윈덤 강원 고성_전객실오션뷰",
@@ -5183,7 +5202,7 @@ window.SCHEDULE = {
      "end": "11:30",
      "brand": "미스터밀크",
      "product": "제주 성이시돌 목장 젤라또 파인트 3개 골라담기",
-     "price": 34900,
+     "price": 53700,
      "link": "https://store.kakao.com/mrmilk/products/383776492",
      "slot_id": "59274",
      "pgm": "제주 젤라또 최대 62%",
@@ -5872,8 +5891,8 @@ window.SCHEDULE = {
   }
  },
  "updated_at": {
-  "HD": "2026-08-29T12:05:36+09:00",
-  "CJ": "2026-08-29T12:05:43+09:00",
-  "KA": "2026-08-29T12:05:51+09:00"
+  "HD": "2026-08-29T18:07:34+09:00",
+  "CJ": "2026-08-29T18:07:40+09:00",
+  "KA": "2026-08-29T18:07:48+09:00"
  }
 };
