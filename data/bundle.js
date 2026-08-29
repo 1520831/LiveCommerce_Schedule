@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-08-29T18:07:48+09:00",
+ "generated_at": "2026-08-29T23:39:57+09:00",
  "today": "2026-08-29",
  "dates": [
   "2026-08-28",
@@ -714,14 +714,14 @@ window.SCHEDULE = {
      "end": "18:59",
      "brand": "로보",
      "product": "스웨이드 3버튼 크롭 자켓",
-     "price": 399000,
+     "price": 499000,
      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252874196",
      "slot_id": "202608296007",
      "items": [
       {
        "brand": "로보",
        "product": "스웨이드 3버튼 크롭 자켓",
-       "price": 399000,
+       "price": 499000,
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252874196"
       }
      ],
@@ -863,6 +863,25 @@ window.SCHEDULE = {
     }
    ],
    "2026-08-30": [
+    {
+     "start": "00:00",
+     "end": "00:59",
+     "brand": "리스트",
+     "product": "소프트터치루즈핏셔츠TWWSTQ72050 TWWSTQ72050",
+     "price": 159000,
+     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252552644",
+     "slot_id": "202608306016",
+     "items": [
+      {
+       "brand": "리스트",
+       "product": "소프트터치루즈핏셔츠TWWSTQ72050 TWWSTQ72050",
+       "price": 159000,
+       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252552644"
+      }
+     ],
+     "title": "[리스트] 매일 입을 데일리템 최대 75%▼",
+     "pgm": "[재방] 리스트 (멀티커머스)"
+    },
     {
      "start": "07:00",
      "end": "07:59",
@@ -2965,9 +2984,9 @@ window.SCHEDULE = {
      "start": "19:30",
      "end": "20:29",
      "brand": "리터니티",
-     "product": "백복령팩 대용량10통+올무 버블부스터1개+스파출라1개",
-     "price": 168000,
-     "link": "https://item.cjonstyle.com/item/2090680221?channelCode=30002002",
+     "product": "백복령 쌀 브라이트닝 팩 150g 1개",
+     "price": 39000,
+     "link": "https://item.cjonstyle.com/item/2081893014?channelCode=30002002",
      "slot_id": "28940",
      "title": "[조윤주가 사는 세상] 리터니티 백복령팩",
      "pgm": "라이브쇼",
@@ -2996,6 +3015,18 @@ window.SCHEDULE = {
      "title": "다시보는 겟잇뷰티💖GLOW UP with [다니엘트루스] 앵콜 방송🌸",
      "pgm": "겟잇뷰티",
      "category": "뷰티"
+    },
+    {
+     "start": "21:00",
+     "end": "21:59",
+     "brand": "라이나생명",
+     "product": "새로담는 간편건강보험_스마트플랜 론칭",
+     "price": 0,
+     "link": "https://item.cjonstyle.com/item/2080966705?channelCode=30002002",
+     "slot_id": "28630",
+     "title": "😎보험 꿀팁 시리즈 / 알찬 보험정보 일타로 쏙! 라이나 암보험",
+     "pgm": "일타보험",
+     "category": "서비스·렌탈"
     },
     {
      "start": "21:00",
@@ -4903,9 +4934,9 @@ window.SCHEDULE = {
     },
     {
      "start": "19:00",
-     "end": "20:30",
+     "end": "20:20",
      "brand": "폴햄",
-     "product": "[폴햄] 최대 86% 썸머 시즌오프! 반팔/반바지/셔츠 15+5% 쿠폰",
+     "product": "최대 86% 썸머 시즌오프! 반팔/반바지/셔츠 15+5% 쿠폰",
      "price": 59900,
      "link": "https://store.kakao.com/polham/products/86761472",
      "slot_id": "59136",
@@ -4915,7 +4946,7 @@ window.SCHEDULE = {
     },
     {
      "start": "19:00",
-     "end": "22:00",
+     "end": "20:21",
      "brand": "웹투어(주)",
      "product": "위니 인형PKG(인피니티풀 2+1적용)or조식PKG(조식 2+1적용)or룸 업글PKG(조식+칵테일 2인)",
      "price": 711000,
@@ -4926,20 +4957,20 @@ window.SCHEDULE = {
      "category": "여행"
     },
     {
-     "start": "19:00",
-     "end": "22:00",
-     "brand": "MADLY MEDLEY",
-     "product": "[임박 티켓] VVIP TICKET 9/6(일)_1DAY",
-     "price": 179000,
-     "link": "https://gift.kakao.com/product/14168753?url=product&cId=14168753",
-     "slot_id": "59617",
-     "pgm": "매들리 메들리 2026",
-     "title": "KC 나플라 악뮤 한로로 등",
-     "category": "컬쳐"
+     "start": "20:09",
+     "end": "21:03",
+     "brand": "터치그라운드 스니커즈",
+     "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+     "price": 55000,
+     "link": "https://store.kakao.com/touchground/products/774098244",
+     "slot_id": "59717",
+     "pgm": "터치그라운드 쿠셔닝슬리퍼",
+     "title": "날도 더워지는데 구매각?!",
+     "category": "패션"
     },
     {
      "start": "20:30",
-     "end": "22:00",
+     "end": "21:30",
      "brand": "모그라미",
      "product": "모그라미 스킨이즘 베이직 남성 드로즈 분모자 팬티 6매 외",
      "price": 66000,
@@ -4951,7 +4982,7 @@ window.SCHEDULE = {
     },
     {
      "start": "20:30",
-     "end": "22:00",
+     "end": "21:30",
      "brand": "레인보우샵",
      "product": "[레인보우샵] 프리미엄 과탄산/베이킹/구연산 세탁세제 외 모음전",
      "price": 14400,
@@ -4963,7 +4994,7 @@ window.SCHEDULE = {
     },
     {
      "start": "20:30",
-     "end": "23:30",
+     "end": "21:54",
      "brand": "웹투어(주)",
      "product": "[파르나스 호텔 제주] 메디테리안 브런치 1박 PKG_객실 1박+ 브런치 +하우스 와인 1병_투숙기간 11월까지",
      "price": 1534000,
@@ -4977,7 +5008,7 @@ window.SCHEDULE = {
     },
     {
      "start": "20:30",
-     "end": "22:00",
+     "end": "21:30",
      "brand": "청년상점",
      "product": "옛날 방앗간 100% 통참깨 참기름 350ml 2병 외 들기름 350ml",
      "price": 19900,
@@ -4986,18 +5017,6 @@ window.SCHEDULE = {
      "pgm": "옛날 참기름 350ml 2병",
      "title": "추석대비 카쇼라특가",
      "category": "식품"
-    },
-    {
-     "start": "22:30",
-     "end": "00:00",
-     "brand": "터치그라운드 스니커즈",
-     "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-     "price": 55000,
-     "link": "https://store.kakao.com/touchground/products/774098244",
-     "slot_id": "59717",
-     "pgm": "터치그라운드 쿠셔닝슬리퍼",
-     "title": "날도 더워지는데 구매각?!",
-     "category": "패션"
     }
    ],
    "2026-08-30": [
@@ -5891,8 +5910,8 @@ window.SCHEDULE = {
   }
  },
  "updated_at": {
-  "HD": "2026-08-29T18:07:34+09:00",
-  "CJ": "2026-08-29T18:07:40+09:00",
-  "KA": "2026-08-29T18:07:48+09:00"
+  "HD": "2026-08-29T23:39:42+09:00",
+  "CJ": "2026-08-29T23:39:48+09:00",
+  "KA": "2026-08-29T23:39:56+09:00"
  }
 };

@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-08",
- "updated_at": "2026-08-29T18:07:34+09:00",
+ "updated_at": "2026-08-29T23:39:42+09:00",
  "days": {
   "2026-08-26": [
    {
@@ -1454,14 +1454,14 @@
     "end": "18:59",
     "brand": "로보",
     "product": "스웨이드 3버튼 크롭 자켓",
-    "price": 399000,
+    "price": 499000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252874196",
     "slot_id": "202608296007",
     "items": [
      {
       "brand": "로보",
       "product": "스웨이드 3버튼 크롭 자켓",
-      "price": 399000,
+      "price": 499000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252874196"
      }
     ],
@@ -1603,6 +1603,25 @@
    }
   ],
   "2026-08-30": [
+   {
+    "start": "00:00",
+    "end": "00:59",
+    "brand": "리스트",
+    "product": "소프트터치루즈핏셔츠TWWSTQ72050 TWWSTQ72050",
+    "price": 159000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252552644",
+    "slot_id": "202608306016",
+    "items": [
+     {
+      "brand": "리스트",
+      "product": "소프트터치루즈핏셔츠TWWSTQ72050 TWWSTQ72050",
+      "price": 159000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252552644"
+     }
+    ],
+    "title": "[리스트] 매일 입을 데일리템 최대 75%▼",
+    "pgm": "[재방] 리스트 (멀티커머스)"
+   },
    {
     "start": "07:00",
     "end": "07:59",

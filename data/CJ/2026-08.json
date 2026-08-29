@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-08",
- "updated_at": "2026-08-29T18:07:40+09:00",
+ "updated_at": "2026-08-29T23:39:48+09:00",
  "days": {
   "2026-08-26": [
    {
@@ -1755,9 +1755,9 @@
     "start": "19:30",
     "end": "20:29",
     "brand": "리터니티",
-    "product": "백복령팩 대용량10통+올무 버블부스터1개+스파출라1개",
-    "price": 168000,
-    "link": "https://item.cjonstyle.com/item/2090680221?channelCode=30002002",
+    "product": "백복령 쌀 브라이트닝 팩 150g 1개",
+    "price": 39000,
+    "link": "https://item.cjonstyle.com/item/2081893014?channelCode=30002002",
     "slot_id": "28940",
     "title": "[조윤주가 사는 세상] 리터니티 백복령팩",
     "pgm": "라이브쇼",
@@ -1786,6 +1786,18 @@
     "title": "다시보는 겟잇뷰티💖GLOW UP with [다니엘트루스] 앵콜 방송🌸",
     "pgm": "겟잇뷰티",
     "category": "뷰티"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "라이나생명",
+    "product": "새로담는 간편건강보험_스마트플랜 론칭",
+    "price": 0,
+    "link": "https://item.cjonstyle.com/item/2080966705?channelCode=30002002",
+    "slot_id": "28630",
+    "title": "😎보험 꿀팁 시리즈 / 알찬 보험정보 일타로 쏙! 라이나 암보험",
+    "pgm": "일타보험",
+    "category": "서비스·렌탈"
    },
    {
     "start": "21:00",
