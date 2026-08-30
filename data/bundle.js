@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-08-30T18:08:02+09:00",
+ "generated_at": "2026-08-30T23:39:48+09:00",
  "today": "2026-08-30",
  "dates": [
   "2026-08-29",
@@ -639,14 +639,14 @@ window.SCHEDULE = {
      "start": "19:00",
      "end": "19:59",
      "brand": "고비",
-     "product": "25SS 고비(GOBI) 실크 캐시미어 판초 가디건",
+     "product": "[30분부터세일] 25SS 고비(GOBI) 실크 캐시미어 판초 가디건",
      "price": 259000,
      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2225729705",
      "slot_id": "202608306008",
      "items": [
       {
        "brand": "고비",
-       "product": "25SS 고비(GOBI) 실크 캐시미어 판초 가디건",
+       "product": "[30분부터세일] 25SS 고비(GOBI) 실크 캐시미어 판초 가디건",
        "price": 259000,
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2225729705"
       }
@@ -696,16 +696,16 @@ window.SCHEDULE = {
      "start": "21:00",
      "end": "21:59",
      "brand": "라사본느리드니옹",
-     "product": "루아르패키지 비누 3P + 세라믹비누받침대 세트",
-     "price": 69900,
-     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250103055",
+     "product": "빈티지 컬렉션 비누 10P + 방송에서 비누 한 개 더 + 쇼핑백",
+     "price": 89000,
+     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249191778",
      "slot_id": "202608306010",
      "items": [
       {
        "brand": "라사본느리드니옹",
-       "product": "루아르패키지 비누 3P + 세라믹비누받침대 세트",
-       "price": 69900,
-       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250103055"
+       "product": "빈티지 컬렉션 비누 10P + 방송에서 비누 한 개 더 + 쇼핑백",
+       "price": 89000,
+       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249191778"
       }
      ],
      "title": "[라사본느리드니옹] 프랑스 직수입 비누🧼",
@@ -1674,14 +1674,14 @@ window.SCHEDULE = {
      "end": "22:59",
      "brand": "비비안",
      "product": "(BR0012C) 샌디즈 데님 노와이어 스포츠 브라 택1 BR0012C",
-     "price": 59000,
+     "price": 53000,
      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252836749",
      "slot_id": "202609036016",
      "items": [
       {
        "brand": "비비안",
        "product": "(BR0012C) 샌디즈 데님 노와이어 스포츠 브라 택1 BR0012C",
-       "price": 59000,
+       "price": 53000,
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252836749"
       }
      ],
@@ -3546,6 +3546,18 @@ window.SCHEDULE = {
      "category": "잡화·슈즈"
     },
     {
+     "start": "17:00",
+     "end": "17:59",
+     "brand": "까사무띠",
+     "product": "(예약배송 9/8일부터)보그 커트러리 4인조 30p 세트_C",
+     "price": 129000,
+     "link": "https://item.cjonstyle.com/item/2092287655?channelCode=30002002",
+     "slot_id": "28828",
+     "title": "까사무띠🤍부케 디너세트& 보그 커트러리 4인조💐최대~77% 💕",
+     "pgm": "라이브쇼",
+     "category": "주방·잡화"
+    },
+    {
      "start": "18:00",
      "end": "18:59",
      "brand": "릴팡",
@@ -4102,7 +4114,7 @@ window.SCHEDULE = {
     },
     {
      "start": "18:00",
-     "end": "19:30",
+     "end": "19:01",
      "brand": "온라인가구닷컴",
      "product": "앳홈 데임 아쿠아텍스 데이베드 소파베드 A(프레임+매트)",
      "price": 306900,
@@ -4114,7 +4126,7 @@ window.SCHEDULE = {
     },
     {
      "start": "19:00",
-     "end": "20:30",
+     "end": "20:20",
      "brand": "우불식당",
      "product": "[우불식당] 즉석우동 8개입 외 냉모밀 불고기한판 기획전",
      "price": 30000,
@@ -4126,7 +4138,7 @@ window.SCHEDULE = {
     },
     {
      "start": "19:00",
-     "end": "22:00",
+     "end": "20:25",
      "brand": "웹투어(주)",
      "product": "[조식 PKG] 오크우드 프리미어 인천_조식 2인+송도현대아울렛 이용권+인추비무료+주중 얼리체크인&레이트체크아웃 제공 등",
      "price": 607000,
@@ -4138,7 +4150,7 @@ window.SCHEDULE = {
     },
     {
      "start": "19:00",
-     "end": "20:30",
+     "end": "20:20",
      "brand": "알래스카",
      "product": "[알래스카] FW 아울렛 특가 맨투맨/후드티/바람막이 15% 쿠폰",
      "price": 69900,
@@ -4150,7 +4162,7 @@ window.SCHEDULE = {
     },
     {
      "start": "20:30",
-     "end": "22:00",
+     "end": "21:30",
      "brand": "르샵 주얼리",
      "product": "[르샵주얼리][무료반품/10%쿠폰]여름마지막 클리어런스 14K귀걸이/목걸이/반지/팔찌",
      "price": 72000,
@@ -4162,19 +4174,19 @@ window.SCHEDULE = {
     },
     {
      "start": "20:30",
-     "end": "22:00",
+     "end": "21:30",
      "brand": "청년상점",
-     "product": "신품종 20Brix 레드클라넷 1kg 2-3수 외 1.5kg",
+     "product": "신품종 15~20Brix 레드클라넷 1kg 2-3수 외 1.5kg",
      "price": 21900,
      "link": "https://store.kakao.com/youngstore/products/780293603",
      "slot_id": "59473",
-     "pgm": "20Brix 레드클라넷 포도",
+     "pgm": "고당도 레드클라넷 포도",
      "title": "신품종 고당도주의보!",
      "category": "식품"
     },
     {
      "start": "20:30",
-     "end": "23:30",
+     "end": "21:55",
      "brand": "smartinfini",
      "product": "[LIVE] 소노벨 비발디파크  스마트 올인 3인/4인PKG (~10월31일투숙까지)",
      "price": 924000,
@@ -4188,7 +4200,7 @@ window.SCHEDULE = {
     },
     {
      "start": "22:30",
-     "end": "00:00",
+     "end": "23:27",
      "brand": "터치그라운드 스니커즈",
      "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
      "price": 55000,
@@ -4886,8 +4898,8 @@ window.SCHEDULE = {
      "price": 154000,
      "link": "https://store.kakao.com/webtour/products/777146405",
      "slot_id": "59425",
-     "pgm": "롤링힐스 호텔_가족여행 추천",
-     "title": "카쇼라 특전&부대시설 무료",
+     "pgm": "롤링힐스_부대시설 무제한",
+     "title": "추가금 없이 즐기는 객실UP",
      "category": "여행"
     },
     {
@@ -5020,8 +5032,8 @@ window.SCHEDULE = {
      "price": 245000,
      "link": "https://store.kakao.com/smartinfini01/products/779181255",
      "slot_id": "59426",
-     "pgm": "[쏠비치 진도] 3/4패키지",
-     "title": "인추비 무료+추가 특전",
+     "pgm": "쏠비치 진도_아름다운 휴양지",
+     "title": "조식+인피니티풀+특전",
      "category": "여행"
     },
     {
@@ -5040,8 +5052,8 @@ window.SCHEDULE = {
   }
  },
  "updated_at": {
-  "HD": "2026-08-30T18:07:47+09:00",
-  "CJ": "2026-08-30T18:07:53+09:00",
-  "KA": "2026-08-30T18:08:02+09:00"
+  "HD": "2026-08-30T23:39:37+09:00",
+  "CJ": "2026-08-30T23:39:42+09:00",
+  "KA": "2026-08-30T23:39:48+09:00"
  }
 };

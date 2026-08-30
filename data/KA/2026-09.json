@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-08-30T18:08:02+09:00",
+ "updated_at": "2026-08-30T23:39:48+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -485,8 +485,8 @@
     "price": 154000,
     "link": "https://store.kakao.com/webtour/products/777146405",
     "slot_id": "59425",
-    "pgm": "롤링힐스 호텔_가족여행 추천",
-    "title": "카쇼라 특전&부대시설 무료",
+    "pgm": "롤링힐스_부대시설 무제한",
+    "title": "추가금 없이 즐기는 객실UP",
     "category": "여행"
    },
    {
@@ -619,8 +619,8 @@
     "price": 245000,
     "link": "https://store.kakao.com/smartinfini01/products/779181255",
     "slot_id": "59426",
-    "pgm": "[쏠비치 진도] 3/4패키지",
-    "title": "인추비 무료+추가 특전",
+    "pgm": "쏠비치 진도_아름다운 휴양지",
+    "title": "조식+인피니티풀+특전",
     "category": "여행"
    },
    {
