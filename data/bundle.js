@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-08-30T12:05:07+09:00",
+ "generated_at": "2026-08-30T18:08:02+09:00",
  "today": "2026-08-30",
  "dates": [
   "2026-08-29",
@@ -1520,14 +1520,14 @@ window.SCHEDULE = {
      "end": "22:59",
      "brand": "레코브",
      "product": "멀티스트라이프가디건 LC31E9KC521X LC31E9KC521X",
-     "price": 31800,
+     "price": 17900,
      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2243430018",
      "slot_id": "202609026014",
      "items": [
       {
        "brand": "레코브",
        "product": "멀티스트라이프가디건 LC31E9KC521X LC31E9KC521X",
-       "price": 31800,
+       "price": 17900,
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2243430018"
       }
      ],
@@ -2557,7 +2557,7 @@ window.SCHEDULE = {
      "start": "20:00",
      "end": "20:59",
      "brand": "시티브리즈",
-     "product": "링클 프리 베이직 셔츠_17COLORS",
+     "product": "[기은세 PICK][최초가 79,000원] 링클 프리 베이직 셔츠_17COLORS",
      "price": 38710,
      "link": "https://item.cjonstyle.com/item/2078516722?channelCode=30002002",
      "slot_id": "28419",
@@ -3155,7 +3155,7 @@ window.SCHEDULE = {
      "start": "23:00",
      "end": "23:59",
      "brand": "시티브리즈",
-     "product": "링클 프리 베이직 셔츠_17COLORS",
+     "product": "[기은세 PICK][최초가 79,000원] 링클 프리 베이직 셔츠_17COLORS",
      "price": 38710,
      "link": "https://item.cjonstyle.com/item/2078516722?channelCode=30002002",
      "slot_id": "28969",
@@ -4064,7 +4064,7 @@ window.SCHEDULE = {
     },
     {
      "start": "11:30",
-     "end": "14:30",
+     "end": "12:34",
      "brand": "유한킴벌리 직영 스토어",
      "product": "하기스 3박스 대용량 특가! 썸머/네이처/밤부/맥스드라이 외 전체 라인",
      "price": 254200,
@@ -4078,7 +4078,7 @@ window.SCHEDULE = {
     },
     {
      "start": "11:30",
-     "end": "14:30",
+     "end": "12:30",
      "brand": "비타그램",
      "product": "\"추석,명절 부모님 효도 선물\" \"업그레이드 버전\" 리모컨 기능있는 발마사지기 종아리마사지기",
      "price": 39900,
@@ -4090,7 +4090,7 @@ window.SCHEDULE = {
     },
     {
      "start": "11:30",
-     "end": "13:00",
+     "end": "12:30",
      "brand": "리얼닥터",
      "product": "리얼닥터 닥터 픽 생유산균 2gx180포 1개(6개월분) 의사가 개발한 유산균 장건강",
      "price": 50000,
@@ -4099,6 +4099,18 @@ window.SCHEDULE = {
      "pgm": "리얼닥터 닥터픽 온가족유산균",
      "title": "대용량 60%~ OFF",
      "category": "식품"
+    },
+    {
+     "start": "18:00",
+     "end": "19:30",
+     "brand": "온라인가구닷컴",
+     "product": "앳홈 데임 아쿠아텍스 데이베드 소파베드 A(프레임+매트)",
+     "price": 306900,
+     "link": "https://store.kakao.com/onlinegagu/products/341458523",
+     "slot_id": "59749",
+     "pgm": "적은 비용으로 고급스러운",
+     "title": "공간으로 만드는 원목가구",
+     "category": "리빙"
     },
     {
      "start": "19:00",
@@ -4117,7 +4129,7 @@ window.SCHEDULE = {
      "end": "22:00",
      "brand": "웹투어(주)",
      "product": "[조식 PKG] 오크우드 프리미어 인천_조식 2인+송도현대아울렛 이용권+인추비무료+주중 얼리체크인&레이트체크아웃 제공 등",
-     "price": 329900,
+     "price": 607000,
      "link": "https://store.kakao.com/webtour/products/717292030",
      "slot_id": "59386",
      "pgm": "[오크우드 프리미어 인천]",
@@ -4289,7 +4301,7 @@ window.SCHEDULE = {
      "end": "18:30",
      "brand": "배곱플땐구이요",
      "product": "구이요 소곱창/대창/막창/특양/족발/보쌈+참소스,새우젓 사은품!",
-     "price": 9900,
+     "price": 5500,
      "link": "https://store.kakao.com/92yo/products/75375550",
      "slot_id": "59501",
      "pgm": "구이요 소곱창 축제!",
@@ -4373,7 +4385,7 @@ window.SCHEDULE = {
      "end": "22:00",
      "brand": "프로즌",
      "product": "[프로즌] 원팩 낙곱새 1+1 (880g+880g)",
-     "price": 32900,
+     "price": 23500,
      "link": "https://store.kakao.com/frozenes/products/380685610",
      "slot_id": "59583",
      "pgm": "프로즌 원팩낙곱새/콩불",
@@ -5028,8 +5040,8 @@ window.SCHEDULE = {
   }
  },
  "updated_at": {
-  "HD": "2026-08-30T07:06:30+09:00",
-  "CJ": "2026-08-30T12:05:01+09:00",
-  "KA": "2026-08-30T12:05:07+09:00"
+  "HD": "2026-08-30T18:07:47+09:00",
+  "CJ": "2026-08-30T18:07:53+09:00",
+  "KA": "2026-08-30T18:08:02+09:00"
  }
 };
