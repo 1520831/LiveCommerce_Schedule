@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-08",
- "updated_at": "2026-08-30T23:39:48+09:00",
+ "updated_at": "2026-08-31T07:06:09+09:00",
  "days": {
   "2026-08-27": [
    {
@@ -615,32 +615,6 @@
    },
    {
     "start": "11:30",
-    "end": "12:34",
-    "brand": "유한킴벌리 직영 스토어",
-    "product": "하기스 3박스 대용량 특가! 썸머/네이처/밤부/맥스드라이 외 전체 라인",
-    "price": 254200,
-    "link": "https://store.kakao.com/ykstore/products/77646294",
-    "slot_id": "59438",
-    "pgm": "하기스 베이비페어",
-    "title": "간절기 썸머&오리지널 라인업",
-    "category": "키즈",
-    "rerun": true,
-    "rerun_of": "58501"
-   },
-   {
-    "start": "11:30",
-    "end": "12:30",
-    "brand": "비타그램",
-    "product": "\"추석,명절 부모님 효도 선물\" \"업그레이드 버전\" 리모컨 기능있는 발마사지기 종아리마사지기",
-    "price": 39900,
-    "link": "https://gift.kakao.com/product/6788717?url=product&cId=6788717",
-    "slot_id": "59493",
-    "pgm": "손/발 등 온열EMS 마사지",
-    "title": "추석 전 부모님 선물 추천",
-    "category": "테크"
-   },
-   {
-    "start": "11:30",
     "end": "12:30",
     "brand": "리얼닥터",
     "product": "리얼닥터 닥터 픽 생유산균 2gx180포 1개(6개월분) 의사가 개발한 유산균 장건강",
@@ -662,18 +636,6 @@
     "pgm": "적은 비용으로 고급스러운",
     "title": "공간으로 만드는 원목가구",
     "category": "리빙"
-   },
-   {
-    "start": "19:00",
-    "end": "20:20",
-    "brand": "우불식당",
-    "product": "[우불식당] 즉석우동 8개입 외 냉모밀 불고기한판 기획전",
-    "price": 30000,
-    "link": "https://store.kakao.com/powderchef/products/711528701",
-    "slot_id": "59347",
-    "pgm": "[우불식당] 불고기/우동",
-    "title": "첫 라이브 특가",
-    "category": "식품"
    },
    {
     "start": "19:00",
@@ -722,32 +684,6 @@
     "pgm": "고당도 레드클라넷 포도",
     "title": "신품종 고당도주의보!",
     "category": "식품"
-   },
-   {
-    "start": "20:30",
-    "end": "21:55",
-    "brand": "smartinfini",
-    "product": "[LIVE] 소노벨 비발디파크  스마트 올인 3인/4인PKG (~10월31일투숙까지)",
-    "price": 924000,
-    "link": "https://store.kakao.com/smartinfini01/products/775575661",
-    "slot_id": "59608",
-    "pgm": "앵콜! 비발디파크 한정딜",
-    "title": "객실+조식+액티비티+특전!",
-    "category": "여행",
-    "rerun": true,
-    "rerun_of": "58988"
-   },
-   {
-    "start": "22:30",
-    "end": "23:27",
-    "brand": "터치그라운드 스니커즈",
-    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-    "price": 55000,
-    "link": "https://store.kakao.com/touchground/products/774098244",
-    "slot_id": "59718",
-    "pgm": "터치그라운드 발편한운동화",
-    "title": "가벼우면서 쿠션감 좋은운동화",
-    "category": "패션"
    }
   ],
   "2026-08-31": [

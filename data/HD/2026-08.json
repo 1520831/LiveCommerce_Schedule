@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-08",
- "updated_at": "2026-08-30T23:39:37+09:00",
+ "updated_at": "2026-08-31T07:05:57+09:00",
  "days": {
   "2026-08-26": [
    {
@@ -1722,38 +1722,19 @@
     "end": "14:59",
     "brand": "히말라야코리아",
     "product": "[총 140개입] 히말라야 파티스마트 츄 숙취해소젤리(2개입) 60박스 (+10개입/수분크림/립밤 증정)",
-    "price": 69900,
+    "price": 267400,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252824710",
     "slot_id": "202608306006",
     "items": [
      {
       "brand": "히말라야코리아",
       "product": "[총 140개입] 히말라야 파티스마트 츄 숙취해소젤리(2개입) 60박스 (+10개입/수분크림/립밤 증정)",
-      "price": 69900,
+      "price": 267400,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252824710"
      }
     ],
     "title": "[히말라야] 파티스마트 츄 숙취해소제",
     "pgm": "[집방] 히말라야 파티스마트 (건강식품1팀)"
-   },
-   {
-    "start": "15:00",
-    "end": "15:59",
-    "brand": "리딩게이트",
-    "product": "온라인 영어 독서 프로그램 12개월 이용권",
-    "price": 197500,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248587828",
-    "slot_id": "202608306020",
-    "items": [
-     {
-      "brand": "리딩게이트",
-      "product": "온라인 영어 독서 프로그램 12개월 이용권",
-      "price": 197500,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248587828"
-     }
-    ],
-    "title": "[리딩게이트/하이도도] 2학기 완벽 대비 핫딜🔥",
-    "pgm": "[재방] 리딩게이트 독서교육 (렌탈)"
    },
    {
     "start": "16:00",
@@ -1855,14 +1836,14 @@
     "end": "20:59",
     "brand": "ICEBALL",
     "product": "Ice tennis bracelet (3mm)",
-    "price": 145000,
+    "price": 131610,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239102751",
     "slot_id": "202608306009",
     "items": [
      {
       "brand": "ICEBALL",
       "product": "Ice tennis bracelet (3mm)",
-      "price": 145000,
+      "price": 131610,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239102751"
      }
     ],
@@ -1971,14 +1952,14 @@
     "end": "07:59",
     "brand": "로제도르",
     "product": "무아르딘 원터치 귀고리(PG)_282300051",
-    "price": 637500,
+    "price": 562000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2209343841",
     "slot_id": "202608316023",
     "items": [
      {
       "brand": "로제도르",
       "product": "무아르딘 원터치 귀고리(PG)_282300051",
-      "price": 637500,
+      "price": 562000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2209343841"
      }
     ],
@@ -1990,14 +1971,14 @@
     "end": "08:59",
     "brand": "BCBG",
     "product": "[비씨비지] 바쿠 JK B6M3J173 B6M3J173",
-    "price": 129000,
+    "price": 219000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251065098",
     "slot_id": "202608316004",
     "items": [
      {
       "brand": "BCBG",
       "product": "[비씨비지] 바쿠 JK B6M3J173 B6M3J173",
-      "price": 129000,
+      "price": 219000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251065098"
      }
     ],

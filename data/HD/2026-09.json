@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-08-30T23:39:37+09:00",
+ "updated_at": "2026-08-31T07:05:57+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -751,6 +751,46 @@
     ],
     "title": "[삼성금거래소] 풍요의 기원을 담은 순금 골드 코인 ✨",
     "pgm": "[삼성금거래소] 순금 (패션잡화)"
+   }
+  ],
+  "2026-09-05": [
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "피네플리츠(FINE PLEATS)",
+    "product": "[FINE PLEATS] 피네 플리츠 베이직 버튼 자켓",
+    "price": 269000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251795427",
+    "slot_id": "202609056003",
+    "items": [
+     {
+      "brand": "피네플리츠(FINE PLEATS)",
+      "product": "[FINE PLEATS] 피네 플리츠 베이직 버튼 자켓",
+      "price": 269000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251795427"
+     }
+    ],
+    "title": "[피네플리츠] 인기 아이템🔥25% 쿠폰+무료반품",
+    "pgm": "[피네플리츠] 의류 (패션1Lab)"
+   },
+   {
+    "start": "14:00",
+    "end": "14:59",
+    "brand": "한민금거래소",
+    "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
+    "price": 290200,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581",
+    "slot_id": "202609056016",
+    "items": [
+     {
+      "brand": "한민금거래소",
+      "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
+      "price": 290200,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581"
+     }
+    ],
+    "title": "[한민금거래소] 금을 생산하는 기업!",
+    "pgm": "[재방] 한민금거래소 (패션잡화)"
    }
   ]
  }

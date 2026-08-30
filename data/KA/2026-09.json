@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-08-30T23:39:48+09:00",
+ "updated_at": "2026-08-31T07:06:09+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -22,7 +22,7 @@
     "end": "10:00",
     "brand": "AP뷰티",
     "product": "리쥬브네이팅 부스터샷엠디세럼 20ml",
-    "price": 88000,
+    "price": 74800,
     "link": "https://gift.kakao.com/product/14058365?url=product&cId=14058365",
     "slot_id": "59548",
     "pgm": "AP뷰티 카카오 단독 론칭",
@@ -299,8 +299,8 @@
     "start": "19:00",
     "end": "22:00",
     "brand": "설화수",
-    "product": "윤조에센스 6세대 90ml 기획세트",
-    "price": 126000,
+    "product": "[추석선물세트] 설화수 윤조에센스 6세대 90ml 기획세트 (+베스트 9종 증정)",
+    "price": 125020,
     "link": "https://gift.kakao.com/product/11142273?url=product&cId=11142273",
     "slot_id": "59455",
     "pgm": "설화수 ~15% 할인+쿠폰",
@@ -398,7 +398,7 @@
     "end": "11:30",
     "brand": "우고래빗",
     "product": "우고래빗 프로틴온 하루견과 (20gx100봉) 단백질간식",
-    "price": 73800,
+    "price": 69900,
     "link": "https://gift.kakao.com/product/13417000?url=product&cId=13417000",
     "slot_id": "59419",
     "pgm": "우고래빗 프리미엄 하루견과",
@@ -517,7 +517,7 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "에뛰드",
-    "product": "라이브 럭키박스",
+    "product": "럭키박스(본품 + 증정)",
     "price": 96000,
     "link": "https://gift.kakao.com/product/14146568?url=product&cId=14146568",
     "slot_id": "59409",
@@ -633,6 +633,32 @@
     "slot_id": "59692",
     "pgm": "[오버더]가정용 천국의 계단",
     "title": "카쇼라 역대 특가 LIVE",
+    "category": "리빙"
+   }
+  ],
+  "2026-09-05": [
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "대상웰라이프 공식몰",
+    "product": "국내 판매 1위 완전균형영양식 뉴케어/당플랜 클래식 200ml 16입 외~",
+    "price": 32900,
+    "link": "https://store.kakao.com/dswellife/products/525496677",
+    "slot_id": "59471",
+    "pgm": "뉴케어X쎈딜 LIVE",
+    "title": "가격도 혜택도 제대로 쎄게!",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "SIMMONS",
+    "product": "",
+    "price": 0,
+    "link": "https://shoppinglive.kakao.com/live/59397",
+    "slot_id": "59397",
+    "pgm": "[공식단독] 시몬스 연중최대",
+    "title": "자스민 특집 라이브",
     "category": "리빙"
    }
   ]
