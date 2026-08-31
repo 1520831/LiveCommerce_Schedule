@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-08-31T17:22:14+09:00",
+ "generated_at": "2026-08-31T17:37:49+09:00",
  "today": "2026-08-31",
  "dates": [
   "2026-08-30",
@@ -488,12 +488,6 @@ window.SCHEDULE = {
        "product": "18KGP 황금브러쉬 대형+소형 세트(미니 브러쉬 클리너2개 증정)",
        "price": 69000,
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253061675"
-      },
-      {
-       "brand": "헤스티아",
-       "product": "우드 돈모 헤어 브러쉬 대형",
-       "price": 29800,
-       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253054656"
       }
      ],
      "title": "[여배우 추천] 헤스티아 프리미엄 18K 도금 브러쉬",
@@ -684,12 +678,6 @@ window.SCHEDULE = {
        "product": "18KGP 황금브러쉬 대형+소형 세트(미니 브러쉬 클리너2개 증정)",
        "price": 69000,
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253061675"
-      },
-      {
-       "brand": "헤스티아",
-       "product": "우드 돈모 헤어 브러쉬 대형",
-       "price": 29800,
-       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253054656"
       }
      ],
      "title": "[여배우 추천] 헤스티아 프리미엄 18K 도금 브러쉬",
@@ -4027,7 +4015,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -4060,7 +4049,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "뷰티"
     },
     {
      "start": "10:00",
@@ -4104,7 +4094,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -4174,7 +4165,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -4196,7 +4188,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "11:00",
@@ -4223,7 +4216,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "패션"
     },
     {
      "start": "11:00",
@@ -4251,7 +4245,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "12:00",
@@ -4297,7 +4292,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "패션"
     },
     {
      "start": "12:00",
@@ -4355,7 +4351,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "15:00",
@@ -4442,7 +4439,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "15:00",
@@ -4488,7 +4486,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "19:00",
@@ -4592,7 +4591,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "19:00",
@@ -4667,7 +4667,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "뷰티"
     },
     {
      "start": "19:00",
@@ -4750,7 +4751,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "19:00",
@@ -4800,7 +4802,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "패션"
     },
     {
      "start": "19:00",
@@ -4819,7 +4822,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "19:20",
@@ -4866,7 +4870,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "19:30",
@@ -4978,7 +4983,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "20:00",
@@ -5008,7 +5014,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "20:00",
@@ -5120,7 +5127,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "뷰티"
     },
     {
      "start": "20:00",
@@ -5231,7 +5239,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "20:00",
@@ -5345,7 +5354,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "20:00",
@@ -5376,7 +5386,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "20:00",
@@ -5410,7 +5421,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "20:40",
@@ -5522,7 +5534,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "21:00",
@@ -5633,7 +5646,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "21:00",
@@ -5667,7 +5681,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     }
    ],
    "2026-08-31": [
@@ -5711,7 +5726,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "취미레저"
     },
     {
      "start": "09:00",
@@ -5815,7 +5831,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "09:00",
@@ -5858,7 +5875,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -5886,7 +5904,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -5910,7 +5929,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -5929,7 +5949,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -5942,7 +5963,8 @@ window.SCHEDULE = {
      "pgm": "[추석+세일 얼리버드][드롱기] 리벨리아로 미리 준비하는 선물!",
      "items": [
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -5980,7 +6002,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -5997,7 +6020,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -6013,7 +6037,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "10:00",
@@ -6030,7 +6055,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -6072,7 +6098,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "10:00",
@@ -6088,7 +6115,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "10:00",
@@ -6132,7 +6160,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -6170,7 +6199,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "10:00",
@@ -6191,7 +6221,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "10:30",
@@ -6223,7 +6254,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -6258,7 +6290,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -6312,7 +6345,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "11:00",
@@ -6332,7 +6366,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -6349,7 +6384,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -6385,7 +6421,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -6439,7 +6476,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -6551,7 +6589,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -6616,7 +6655,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -6645,7 +6685,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -6706,7 +6747,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "11:00",
@@ -6739,7 +6781,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "11:00",
@@ -6826,7 +6869,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -6876,7 +6920,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -6930,7 +6975,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -6963,7 +7009,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -7021,7 +7068,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "패션"
     },
     {
      "start": "11:00",
@@ -7035,7 +7083,8 @@ window.SCHEDULE = {
      "items": [
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -7070,7 +7119,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "11:00",
@@ -7173,7 +7223,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -7232,7 +7283,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "패션"
     },
     {
      "start": "11:00",
@@ -7273,7 +7325,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -7385,7 +7438,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "패션"
     },
     {
      "start": "11:00",
@@ -7408,7 +7462,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -7473,7 +7528,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "12:00",
@@ -7531,7 +7587,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "13:00",
@@ -7551,7 +7608,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "13:07",
@@ -7619,7 +7677,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "14:00",
@@ -7635,7 +7694,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "14:00",
@@ -7657,7 +7717,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "15:00",
@@ -7676,7 +7737,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "17:00",
@@ -7723,7 +7785,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "17:10",
@@ -7767,7 +7830,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "17:50",
@@ -7878,7 +7942,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "18:00",
@@ -7895,7 +7960,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "18:00",
@@ -7909,7 +7975,8 @@ window.SCHEDULE = {
      "items": [
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "18:00",
@@ -7953,7 +8020,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "18:00",
@@ -8065,7 +8133,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "패션"
     },
     {
      "start": "19:00",
@@ -8111,7 +8180,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "취미레저"
     },
     {
      "start": "19:00",
@@ -8203,7 +8273,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "패션"
     },
     {
      "start": "19:00",
@@ -8256,7 +8327,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "19:00",
@@ -8369,7 +8441,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "패션"
     },
     {
      "start": "19:00",
@@ -8404,7 +8477,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "패션"
     },
     {
      "start": "19:00",
@@ -8449,7 +8523,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "패션"
     },
     {
      "start": "19:00",
@@ -8480,7 +8555,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "패션"
     },
     {
      "start": "19:00",
@@ -8543,7 +8619,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "19:00",
@@ -8654,7 +8731,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "19:00",
@@ -8669,7 +8747,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "취미레저"
     },
     {
      "start": "19:20",
@@ -8713,7 +8792,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "19:30",
@@ -8737,7 +8817,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "뷰티"
     },
     {
      "start": "20:00",
@@ -8760,7 +8841,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "20:00",
@@ -8784,7 +8866,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "뷰티"
     },
     {
      "start": "20:00",
@@ -8802,7 +8885,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "20:00",
@@ -8825,7 +8909,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "20:00",
@@ -8849,7 +8934,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "20:00",
@@ -8873,7 +8959,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "뷰티"
     },
     {
      "start": "20:00",
@@ -8960,7 +9047,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "20:00",
@@ -9080,7 +9168,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "20:00",
@@ -9191,7 +9280,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "20:00",
@@ -9304,7 +9394,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "패션"
     },
     {
      "start": "20:00",
@@ -9400,7 +9491,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "21:00",
@@ -9487,7 +9579,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "21:00",
@@ -9503,7 +9596,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "21:00",
@@ -9522,7 +9616,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "21:30",
@@ -9566,7 +9661,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "23:00",
@@ -9585,7 +9681,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     }
    ],
    "2026-09-01": [
@@ -9698,7 +9795,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "06:50",
@@ -9743,7 +9841,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "09:00",
@@ -9788,7 +9887,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "09:30",
@@ -9899,53 +9999,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
-    },
-    {
-     "start": "09:55",
-     "end": "",
-     "brand": "",
-     "product": "📢 자급제 최대혜택 라이브",
-     "price": 0,
-     "link": "https://shoppinglive.naver.com/livebridge/2006186",
-     "slot_id": "2006186",
-     "pgm": "📱[추석+세일 얼리버드]갤럭시 자급제 전모델 특별 추가적립 라이브📱",
-     "items": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -9970,7 +10025,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -10007,7 +10063,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -10028,7 +10085,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -10063,7 +10121,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "10:00",
@@ -10091,7 +10150,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "10:00",
@@ -10152,7 +10212,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "10:00",
@@ -10186,7 +10247,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "10:00",
@@ -10220,7 +10282,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -10264,7 +10327,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -10305,7 +10369,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "10:00",
@@ -10347,7 +10412,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "뷰티"
     },
     {
      "start": "10:00",
@@ -10367,7 +10433,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "10:00",
@@ -10391,7 +10458,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "10:00",
@@ -10503,7 +10571,29 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
+    },
+    {
+     "start": "10:00",
+     "end": "",
+     "brand": "",
+     "product": "사은품+적립+추첨이벤트🎁",
+     "price": 0,
+     "link": "https://shoppinglive.naver.com/livebridge/2003221",
+     "slot_id": "2003221",
+     "pgm": "9/1 오팝스 실크테라피 라이브",
+     "items": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+     ],
+     "category": "뷰티"
     },
     {
      "start": "10:00",
@@ -10532,7 +10622,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "10:00",
@@ -10574,7 +10665,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "10:00",
@@ -10589,7 +10681,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -10607,7 +10700,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -10719,7 +10813,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "뷰티"
     },
     {
      "start": "10:00",
@@ -10755,7 +10850,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -10781,7 +10877,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -10808,7 +10905,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "10:00",
@@ -10829,7 +10927,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -10871,7 +10970,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -10907,7 +11007,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "취미레저"
     },
     {
      "start": "10:30",
@@ -10950,7 +11051,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "10:30",
@@ -10974,7 +11076,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "10:30",
@@ -10991,7 +11094,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "10:30",
@@ -11043,7 +11147,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "10:30",
@@ -11103,7 +11208,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "10:40",
@@ -11148,7 +11254,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -11161,7 +11268,8 @@ window.SCHEDULE = {
      "pgm": "[~66%] NEW 그림자극장 무빙 가격인상 전 마지막 얼리버드 사전예약",
      "items": [
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -11201,7 +11309,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -11225,7 +11334,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -11337,7 +11447,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "뷰티"
     },
     {
      "start": "11:00",
@@ -11363,7 +11474,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -11389,7 +11501,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -11425,7 +11538,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -11438,7 +11552,8 @@ window.SCHEDULE = {
      "pgm": "오브룸 순환식 가습기 신상 런칭! 딱 1시간만! 무빙휠 전원 증정🎁",
      "items": [
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -11456,7 +11571,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -11567,7 +11683,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -11611,7 +11728,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "11:00",
@@ -11647,7 +11765,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -11665,7 +11784,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -11689,7 +11809,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "11:00",
@@ -11731,7 +11852,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -11756,7 +11878,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -11773,7 +11896,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "11:00",
@@ -11796,7 +11920,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -11842,7 +11967,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -11855,7 +11981,8 @@ window.SCHEDULE = {
      "pgm": "[블루밍데이즈] 류수영 PICK! 지니 하이브리드 설치형 음식물처리기",
      "items": [
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -11886,23 +12013,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
-    },
-    {
-     "start": "11:00",
-     "end": "",
-     "brand": "",
-     "product": "네이버 단독 선공개!",
-     "price": 0,
-     "link": "https://shoppinglive.naver.com/livebridge/2007184",
-     "slot_id": "2007184",
-     "pgm": "[LIVE] 위프 에어피스 증정✨9/1 그래비티 180g 2종 단독 출시",
-     "items": [
-      {},
-      {},
-      {},
-      {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -12014,7 +12126,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "11:00",
@@ -12036,7 +12149,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "11:00",
@@ -12054,7 +12168,50 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
+    },
+    {
+     "start": "11:00",
+     "end": "",
+     "brand": "",
+     "product": "오늘의브랜드 x 라이브",
+     "price": 0,
+     "link": "https://shoppinglive.naver.com/livebridge/2009293",
+     "slot_id": "2009293",
+     "pgm": "[이리온몰] 9월 댕냥이도 집사도 풍성한 용돈 잔치 🌕🌾",
+     "items": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+     ],
+     "category": "라이프"
     }
    ],
    "2026-09-02": [
@@ -12101,7 +12258,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "09:00",
@@ -12118,7 +12276,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "09:00",
@@ -12152,7 +12311,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "09:00",
@@ -12197,7 +12357,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "09:30",
@@ -12308,7 +12469,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "09:50",
@@ -12321,7 +12483,8 @@ window.SCHEDULE = {
      "pgm": "LG전자 추석 미리 준비🌕 득템 찬스 얼리버드 대특가전✨",
      "items": [
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -12361,7 +12524,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -12381,7 +12545,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "10:00",
@@ -12440,7 +12605,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "10:00",
@@ -12456,7 +12622,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -12560,7 +12727,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -12593,7 +12761,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -12631,7 +12800,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "10:00",
@@ -12659,7 +12829,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "10:00",
@@ -12675,7 +12846,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "뷰티"
     },
     {
      "start": "10:00",
@@ -12703,7 +12875,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -12751,7 +12924,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "10:00",
@@ -12771,7 +12945,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "뷰티"
     },
     {
      "start": "10:00",
@@ -12804,7 +12979,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "10:30",
@@ -12844,7 +13020,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "10:30",
@@ -12919,7 +13096,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "10:40",
@@ -12964,7 +13142,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -12994,7 +13173,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -13016,7 +13196,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -13041,7 +13222,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -13075,7 +13257,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -13141,7 +13324,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -13177,7 +13361,54 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
+    },
+    {
+     "start": "11:00",
+     "end": "",
+     "brand": "",
+     "product": "추석 전 관리도 MAXCUT",
+     "price": 0,
+     "link": "https://shoppinglive.naver.com/livebridge/1992421",
+     "slot_id": "1992421",
+     "pgm": "[블루밍] 맥스컷 브랜드데이X헬시페스타X추석얼리버드✨뭐든 MAX 증정!",
+     "items": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+     ],
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -13203,7 +13434,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "11:00",
@@ -13224,7 +13456,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -13269,7 +13502,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "11:00",
@@ -13294,7 +13528,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -13310,7 +13545,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -13377,7 +13613,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -13409,7 +13646,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -13422,7 +13660,8 @@ window.SCHEDULE = {
      "pgm": "[하루특가LIVE] 바이타믹스, 압도적 파워! 완벽한 블렌딩!",
      "items": [
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -13535,7 +13774,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -13558,7 +13798,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -13648,7 +13889,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -13664,7 +13906,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -13677,7 +13920,8 @@ window.SCHEDULE = {
      "pgm": "[블루밍] 겉바속촉 무해한 글라스 에어프라이어 (+오븐장갑+실리콘패드)",
      "items": [
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -13691,7 +13935,8 @@ window.SCHEDULE = {
      "items": [
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -13705,7 +13950,8 @@ window.SCHEDULE = {
      "items": [
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -13723,7 +13969,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -13741,7 +13988,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -13759,7 +14007,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -13773,7 +14022,8 @@ window.SCHEDULE = {
      "items": [
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -13786,7 +14036,8 @@ window.SCHEDULE = {
      "pgm": "단 1시간! 릴리브 베이비페어👶역대급 라방 핫딜",
      "items": [
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -13815,7 +14066,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -13835,7 +14087,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -13874,7 +14127,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "11:00",
@@ -13904,7 +14158,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -13933,7 +14188,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -13948,7 +14204,22 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
+    },
+    {
+     "start": "11:00",
+     "end": "",
+     "brand": "",
+     "product": "COMING SOON",
+     "price": 0,
+     "link": "https://shoppinglive.naver.com/livebridge/2015950",
+     "slot_id": "2015950",
+     "pgm": "쿠첸 123밥솥 저당 6인용 추석+세일 얼리버드 론칭",
+     "items": [
+      {}
+     ],
+     "category": "테크"
     },
     {
      "start": "12:00",
@@ -13976,7 +14247,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "12:00",
@@ -13990,7 +14262,8 @@ window.SCHEDULE = {
      "items": [
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "13:00",
@@ -14013,7 +14286,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "13:00",
@@ -14051,7 +14325,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "13:00",
@@ -14069,61 +14344,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
-    },
-    {
-     "start": "14:00",
-     "end": "",
-     "brand": "",
-     "product": "인기상품 입어보기💖",
-     "price": 0,
-     "link": "https://shoppinglive.naver.com/livebridge/2001411",
-     "slot_id": "2001411",
-     "pgm": "[🌟블루밍데이즈🌟] 가을에 입기 좋은 데일리 셔츠자켓💜",
-     "items": [
-      {},
-      {}
-     ]
-    },
-    {
-     "start": "15:00",
-     "end": "",
-     "brand": "",
-     "product": "클릭! 혜택&이벤트 상세보기",
-     "price": 0,
-     "link": "https://shoppinglive.naver.com/livebridge/2002550",
-     "slot_id": "2002550",
-     "pgm": "🍀공간은 넓히고 성능은 AI로! 삼성 비스포크 세탁건조기 라이브!",
-     "items": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-     ]
+     ],
+     "category": "테크"
     }
    ],
    "2026-09-03": [
@@ -14170,7 +14392,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "09:00",
@@ -14189,7 +14412,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "09:00",
@@ -14202,7 +14426,8 @@ window.SCHEDULE = {
      "pgm": "이노시스K 진공블렌더 가을 페스티벌 세일 + 라이브 특가 혜택까지",
      "items": [
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "09:00",
@@ -14247,7 +14472,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "09:30",
@@ -14353,7 +14579,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "09:50",
@@ -14366,7 +14593,8 @@ window.SCHEDULE = {
      "pgm": "LG전자 추석 얼리버드 단독 찬스⚡ 미리 장만하고 풍성한 혜택을!",
      "items": [
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "09:55",
@@ -14400,7 +14628,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -14428,7 +14657,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -14450,7 +14680,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "10:00",
@@ -14477,7 +14708,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "10:00",
@@ -14518,7 +14750,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "10:00",
@@ -14532,7 +14765,8 @@ window.SCHEDULE = {
      "items": [
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "10:00",
@@ -14577,7 +14811,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -14620,7 +14855,29 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
+    },
+    {
+     "start": "10:00",
+     "end": "",
+     "brand": "",
+     "product": "아이블린 전제품 슈퍼 세일",
+     "price": 0,
+     "link": "https://shoppinglive.naver.com/livebridge/2006095",
+     "slot_id": "2006095",
+     "pgm": "[블루밍] 아이블린 아기 장난감 최대 65% 슈퍼 세일",
+     "items": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+     ],
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -14638,7 +14895,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -14678,7 +14936,37 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
+    },
+    {
+     "start": "10:30",
+     "end": "",
+     "brand": "",
+     "product": "라이브에서만 드리는 사은혜택",
+     "price": 0,
+     "link": "https://shoppinglive.naver.com/livebridge/2003333",
+     "slot_id": "2003333",
+     "pgm": "[블루밍데이즈] 역대급 특가!✨ 뒤척임에도 편안한 숙면 베개 만나보세요!",
+     "items": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+     ],
+     "category": "라이프"
     },
     {
      "start": "10:40",
@@ -14723,7 +15011,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -14745,7 +15034,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -14769,7 +15059,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -14800,7 +15091,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -14813,7 +15105,8 @@ window.SCHEDULE = {
      "pgm": "[블루밍데이즈] 신생아 침대 13만원대 & 모기장 증정 LIVE🤎",
      "items": [
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -14826,7 +15119,8 @@ window.SCHEDULE = {
      "pgm": "[블루밍데이즈] 스웨덴 아이코닉 탄산수제조기 아르케🩵",
      "items": [
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -14851,7 +15145,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "패션"
     },
     {
      "start": "11:00",
@@ -14879,7 +15174,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "패션"
     },
     {
      "start": "11:00",
@@ -14903,7 +15199,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "11:00",
@@ -14928,7 +15225,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "11:00",
@@ -15011,7 +15309,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -15028,7 +15327,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -15084,7 +15384,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "11:00",
@@ -15112,7 +15413,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -15136,7 +15438,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -15249,7 +15552,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "11:00",
@@ -15306,7 +15610,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -15332,7 +15637,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -15375,7 +15681,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "12:00",
@@ -15392,7 +15699,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "12:00",
@@ -15452,7 +15760,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "12:00",
@@ -15486,87 +15795,11 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
-     "start": "13:00",
-     "end": "",
-     "brand": "",
-     "product": "보국전자 카본매트 특가 행사",
-     "price": 0,
-     "link": "https://shoppinglive.naver.com/livebridge/1983200",
-     "slot_id": "1983200",
-     "pgm": "[추석+세일] 보국전자 베스트 카본 탄소매트 전기요 특가 LIVE",
-     "items": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-     ]
-    },
-    {
-     "start": "13:00",
-     "end": "",
-     "brand": "",
-     "product": "브랜드위크 갤럭시 자급제",
-     "price": 0,
-     "link": "https://shoppinglive.naver.com/livebridge/2004588",
-     "slot_id": "2004588",
-     "pgm": "[브랜드위크]🎀갤럭시 S26시리즈/Z폴드8/Z플립8 자급제 라이브🎀",
-     "items": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-     ]
-    },
-    {
-     "start": "13:00",
-     "end": "",
-     "brand": "",
-     "product": "🚨라이브한정 최대혜택 증정",
-     "price": 0,
-     "link": "https://shoppinglive.naver.com/livebridge/2007246",
-     "slot_id": "2007246",
-     "pgm": "현대큐밍 9월 첫 방송❤️혜택을 다~드림⭐️ 최대 70만원 증정 찬스✌️",
-     "items": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-     ]
-    },
-    {
-     "start": "13:10",
+     "start": "12:50",
      "end": "",
      "brand": "",
      "product": "⌚갤럭시워치9 울트라2 특가",
@@ -15668,8 +15901,94 @@ window.SCHEDULE = {
       {},
       {},
       {},
+      {},
+      {},
+      {},
+      {},
+      {},
       {}
-     ]
+     ],
+     "category": "테크"
+    },
+    {
+     "start": "13:00",
+     "end": "",
+     "brand": "",
+     "product": "보국전자 카본매트 특가 행사",
+     "price": 0,
+     "link": "https://shoppinglive.naver.com/livebridge/1983200",
+     "slot_id": "1983200",
+     "pgm": "[추석+세일] 보국전자 베스트 카본 탄소매트 전기요 특가 LIVE",
+     "items": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+     ],
+     "category": "테크"
+    },
+    {
+     "start": "13:00",
+     "end": "",
+     "brand": "",
+     "product": "브랜드위크 갤럭시 자급제",
+     "price": 0,
+     "link": "https://shoppinglive.naver.com/livebridge/2004588",
+     "slot_id": "2004588",
+     "pgm": "[브랜드위크]🎀갤럭시 S26시리즈/Z폴드8/Z플립8 자급제 라이브🎀",
+     "items": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+     ],
+     "category": "테크"
+    },
+    {
+     "start": "13:00",
+     "end": "",
+     "brand": "",
+     "product": "🚨라이브한정 최대혜택 증정",
+     "price": 0,
+     "link": "https://shoppinglive.naver.com/livebridge/2007246",
+     "slot_id": "2007246",
+     "pgm": "현대큐밍 9월 첫 방송❤️혜택을 다~드림⭐️ 최대 70만원 증정 찬스✌️",
+     "items": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+     ],
+     "category": "테크"
     },
     {
      "start": "14:00",
@@ -15695,7 +16014,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "14:00",
@@ -15709,7 +16029,8 @@ window.SCHEDULE = {
      "items": [
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "14:00",
@@ -15727,7 +16048,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "14:00",
@@ -15756,7 +16078,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "14:00",
@@ -15776,7 +16099,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "14:00",
@@ -15792,7 +16116,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "15:00",
@@ -15830,7 +16155,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "15:00",
@@ -15844,7 +16170,8 @@ window.SCHEDULE = {
      "items": [
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "15:00",
@@ -15884,7 +16211,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "15:00",
@@ -15898,7 +16226,8 @@ window.SCHEDULE = {
      "items": [
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "15:00",
@@ -15931,7 +16260,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "15:00",
@@ -15973,7 +16303,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "17:00",
@@ -15997,60 +16328,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
-    },
-    {
-     "start": "18:00",
-     "end": "",
-     "brand": "",
-     "product": "클릭! 혜택&이벤트 상세보기",
-     "price": 0,
-     "link": "https://shoppinglive.naver.com/livebridge/2002561",
-     "slot_id": "2002561",
-     "pgm": "🍀공간은 넓히고 성능은 AI로! 삼성 비스포크 세탁건조기 AI 라이브!",
-     "items": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-     ]
-    },
-    {
-     "start": "18:00",
-     "end": "",
-     "brand": "",
-     "product": "국산 꽃게살무침 특가!",
-     "price": 0,
-     "link": "https://shoppinglive.naver.com/livebridge/2007766",
-     "slot_id": "2007766",
-     "pgm": "[목포반찬 게미지다] 100% 국산 꽃게살무침! 라이브 특가 🔥",
-     "items": [
-      {}
-     ]
+     ],
+     "category": "푸드"
     }
    ],
    "2026-09-04": [
@@ -16097,7 +16376,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "09:00",
@@ -16110,7 +16390,8 @@ window.SCHEDULE = {
      "pgm": "[블루밍]💚후회 없는 선택💚엑스트라버진 올리브오일 특가/7,900원",
      "items": [
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "09:00",
@@ -16155,7 +16436,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "09:30",
@@ -16261,7 +16543,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -16299,7 +16582,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "10:00",
@@ -16327,7 +16611,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -16373,7 +16658,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -16386,7 +16672,8 @@ window.SCHEDULE = {
      "pgm": "9월 4일 10시!  네펫쏜 라이브혜택 난리도 아니야~☝🏻",
      "items": [
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "10:30",
@@ -16399,7 +16686,8 @@ window.SCHEDULE = {
      "pgm": "[블루밍] 네이버펫이 쏜다 X 후디스펫 LIVE",
      "items": [
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "10:30",
@@ -16480,7 +16768,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "뷰티"
     },
     {
      "start": "10:30",
@@ -16592,7 +16881,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "10:40",
@@ -16637,7 +16927,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -16703,7 +16994,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -16746,7 +17038,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "11:00",
@@ -16772,7 +17065,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "11:00",
@@ -16801,7 +17095,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -16854,7 +17149,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -16887,7 +17183,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -16905,7 +17202,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -16939,7 +17237,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "패션"
     },
     {
      "start": "11:00",
@@ -17045,7 +17344,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "12:00",
@@ -17079,7 +17379,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "13:00",
@@ -17108,7 +17409,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "14:00",
@@ -17124,7 +17426,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "취미레저"
     },
     {
      "start": "14:00",
@@ -17236,7 +17539,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "14:00",
@@ -17254,7 +17558,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "15:00",
@@ -17294,7 +17599,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "15:00",
@@ -17336,7 +17642,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "16:00",
@@ -17351,7 +17658,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "18:00",
@@ -17376,7 +17684,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "패션"
     },
     {
      "start": "18:00",
@@ -17401,7 +17710,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "18:00",
@@ -17441,7 +17751,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "18:00",
@@ -17483,7 +17794,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "패션"
     },
     {
      "start": "18:00",
@@ -17529,7 +17841,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "19:00",
@@ -17567,7 +17880,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "19:00",
@@ -17580,7 +17894,8 @@ window.SCHEDULE = {
      "pgm": "[블루밍] 한경희 공기청정 BLDC 헤드분리형 날개없는 선풍기💛💫",
      "items": [
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "19:00",
@@ -17632,7 +17947,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "패션"
     },
     {
      "start": "19:00",
@@ -17648,7 +17964,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "19:00",
@@ -17689,7 +18006,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "19:20",
@@ -17734,7 +18052,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "20:00",
@@ -17763,7 +18082,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "패션"
     },
     {
      "start": "20:00",
@@ -17790,7 +18110,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "패션"
     },
     {
      "start": "20:30",
@@ -17801,7 +18122,8 @@ window.SCHEDULE = {
      "link": "https://shoppinglive.naver.com/livebridge/2018239",
      "slot_id": "2018239",
      "pgm": "[베흐트] 최대42%할인+15%쿠폰+증정+방송중이벤트",
-     "planned": true
+     "planned": true,
+     "category": "패션"
     }
    ],
    "2026-09-05": [
@@ -17847,7 +18169,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "09:00",
@@ -17871,7 +18194,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "09:00",
@@ -17903,7 +18227,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "패션"
     },
     {
      "start": "09:00",
@@ -17947,7 +18272,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "09:30",
@@ -18053,7 +18379,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -18089,7 +18416,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "패션"
     },
     {
      "start": "10:00",
@@ -18155,7 +18483,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "10:00",
@@ -18188,7 +18517,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "패션"
     },
     {
      "start": "10:00",
@@ -18222,7 +18552,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -18264,7 +18595,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -18296,7 +18628,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "패션"
     },
     {
      "start": "11:00",
@@ -18402,7 +18735,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "13:00",
@@ -18421,7 +18755,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "14:00",
@@ -18454,7 +18789,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "패션"
     },
     {
      "start": "17:10",
@@ -18498,7 +18834,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "18:00",
@@ -18564,7 +18901,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "18:00",
@@ -18598,7 +18936,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "키즈"
     },
     {
      "start": "19:20",
@@ -18642,7 +18981,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "20:00",
@@ -18695,7 +19035,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "라이프"
     },
     {
      "start": "20:00",
@@ -18712,7 +19053,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "20:00",
@@ -18754,7 +19096,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "테크"
     },
     {
      "start": "21:00",
@@ -18767,7 +19110,8 @@ window.SCHEDULE = {
      "pgm": "시슬리💛9/5(토),오후9시🩷FW인기템 빅EVENT💕",
      "items": [
       {}
-     ]
+     ],
+     "category": "패션"
     }
    ]
   },
@@ -20429,7 +20773,7 @@ window.SCHEDULE = {
      "start": "19:00",
      "end": "20:30",
      "brand": "풀리오",
-     "product": "풀리오 종아리 마사지기 V3",
+     "product": "풀리오 종아리 마사지기 V3+카카오파우치+카카오쇼핑백M증정",
      "price": 149000,
      "link": "https://store.kakao.com/pulio/products/361704724",
      "slot_id": "59478",
@@ -20649,10 +20993,10 @@ window.SCHEDULE = {
   }
  },
  "updated_at": {
-  "HD": "2026-08-31T17:21:49+09:00",
-  "CJ": "2026-08-31T17:21:54+09:00",
-  "NV": "2026-08-31T17:22:14+09:00",
+  "HD": "2026-08-31T17:36:26+09:00",
+  "CJ": "2026-08-31T17:36:32+09:00",
+  "NV": "2026-08-31T17:37:49+09:00",
   "GM": "2026-08-31T10:02:54+09:00",
-  "KA": "2026-08-31T17:22:02+09:00"
+  "KA": "2026-08-31T17:36:39+09:00"
  }
 };
