@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-08-31T13:10:19+09:00",
+ "updated_at": "2026-08-31T13:34:59+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -493,7 +493,7 @@
     "start": "19:00",
     "end": "22:00",
     "brand": "웹투어(주)",
-    "product": "[롤링힐스 호텔 룸온리]",
+    "product": "[롤링힐스 호텔 룸온리] 객실 1박 + 실내수영장&휘트니스 이용무료_라이브 당일구매시 10월 주중 레이트 체크아웃 제공",
     "price": 154000,
     "link": "https://store.kakao.com/webtour/products/777146405",
     "slot_id": "59425",
@@ -696,6 +696,18 @@
     "pgm": "[공식단독] 시몬스 연중최대",
     "title": "자스민 특집 라이브",
     "category": "리빙"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "청년상점",
+    "product": "2026 첫 출하! 아삭달콤 나주 햇 배 3kg 7~9과 외 5kg 산지직송 고당도선별",
+    "price": 18900,
+    "link": "https://store.kakao.com/youngstore/products/781140402",
+    "slot_id": "59763",
+    "pgm": "첫수확!! 나주 햇 배",
+    "title": "3kg 7-9과 만원초반대",
+    "category": "식품"
    }
   ]
  }

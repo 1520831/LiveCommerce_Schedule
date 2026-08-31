@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-08-31T13:10:06+09:00",
+ "updated_at": "2026-08-31T13:34:46+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -887,6 +887,25 @@
    }
   ],
   "2026-09-05": [
+   {
+    "start": "00:00",
+    "end": "00:59",
+    "brand": "버버리",
+    "product": "[버버리]6S 8110378 A1189 칠턴 여성 퀼팅 나일론 자켓 블랙",
+    "price": 1830000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253054984",
+    "slot_id": "202609056020",
+    "items": [
+     {
+      "brand": "버버리",
+      "product": "[버버리]6S 8110378 A1189 칠턴 여성 퀼팅 나일론 자켓 블랙",
+      "price": 1830000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253054984"
+     }
+    ],
+    "title": "[투명쇼] 버버리 60개월 무이자",
+    "pgm": "[재방] 투명쇼 (패션잡화)"
+   },
    {
     "start": "11:00",
     "end": "11:59",

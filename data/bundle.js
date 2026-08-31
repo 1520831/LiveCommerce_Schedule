@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-08-31T13:10:19+09:00",
+ "generated_at": "2026-08-31T13:34:59+09:00",
  "today": "2026-08-31",
  "dates": [
   "2026-08-30",
@@ -264,14 +264,14 @@ window.SCHEDULE = {
      "end": "20:59",
      "brand": "ICEBALL",
      "product": "Ice tennis bracelet (3mm)",
-     "price": 131610,
+     "price": 190000,
      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239102751",
      "slot_id": "202608306009",
      "items": [
       {
        "brand": "ICEBALL",
        "product": "Ice tennis bracelet (3mm)",
-       "price": 131610,
+       "price": 190000,
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239102751"
       }
      ],
@@ -484,6 +484,12 @@ window.SCHEDULE = {
        "product": "18KGP 황금브러쉬 대형+소형 세트(미니 브러쉬 2개 증정)",
        "price": 69000,
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253061675"
+      },
+      {
+       "brand": "헤스티아",
+       "product": "우드 돈모 헤어 브러쉬 대형",
+       "price": 29800,
+       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253054656"
       }
      ],
      "title": "[여배우 추천] 헤스티아 프리미엄 18K 도금 브러쉬",
@@ -1601,6 +1607,25 @@ window.SCHEDULE = {
     }
    ],
    "2026-09-05": [
+    {
+     "start": "00:00",
+     "end": "00:59",
+     "brand": "버버리",
+     "product": "[버버리]6S 8110378 A1189 칠턴 여성 퀼팅 나일론 자켓 블랙",
+     "price": 1830000,
+     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253054984",
+     "slot_id": "202609056020",
+     "items": [
+      {
+       "brand": "버버리",
+       "product": "[버버리]6S 8110378 A1189 칠턴 여성 퀼팅 나일론 자켓 블랙",
+       "price": 1830000,
+       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253054984"
+      }
+     ],
+     "title": "[투명쇼] 버버리 60개월 무이자",
+     "pgm": "[재방] 투명쇼 (패션잡화)"
+    },
     {
      "start": "11:00",
      "end": "11:59",
@@ -4425,7 +4450,7 @@ window.SCHEDULE = {
      "start": "19:00",
      "end": "22:00",
      "brand": "웹투어(주)",
-     "product": "[롤링힐스 호텔 룸온리]",
+     "product": "[롤링힐스 호텔 룸온리] 객실 1박 + 실내수영장&휘트니스 이용무료_라이브 당일구매시 10월 주중 레이트 체크아웃 제공",
      "price": 154000,
      "link": "https://store.kakao.com/webtour/products/777146405",
      "slot_id": "59425",
@@ -4628,6 +4653,18 @@ window.SCHEDULE = {
      "pgm": "[공식단독] 시몬스 연중최대",
      "title": "자스민 특집 라이브",
      "category": "리빙"
+    },
+    {
+     "start": "20:30",
+     "end": "22:00",
+     "brand": "청년상점",
+     "product": "2026 첫 출하! 아삭달콤 나주 햇 배 3kg 7~9과 외 5kg 산지직송 고당도선별",
+     "price": 18900,
+     "link": "https://store.kakao.com/youngstore/products/781140402",
+     "slot_id": "59763",
+     "pgm": "첫수확!! 나주 햇 배",
+     "title": "3kg 7-9과 만원초반대",
+     "category": "식품"
     }
    ]
   },
@@ -5485,9 +5522,9 @@ window.SCHEDULE = {
   }
  },
  "updated_at": {
-  "HD": "2026-08-31T13:10:06+09:00",
-  "CJ": "2026-08-31T13:10:12+09:00",
-  "KA": "2026-08-31T13:10:19+09:00",
+  "HD": "2026-08-31T13:34:46+09:00",
+  "CJ": "2026-08-31T13:34:52+09:00",
+  "KA": "2026-08-31T13:34:59+09:00",
   "GM": "2026-08-31T10:02:54+09:00"
  }
 };

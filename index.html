@@ -24,6 +24,22 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700&display=swap">
 
 <style>
+  /* 제목과 머리글 채널 이름에만 쓰는 G마켓 산스.
+     본문까지 이걸로 바꾸지 않는 이유는 같은 문장이 6% 넓어지기 때문이다
+     (실측 216.8px -> 228.3px). 칸이 좁은 표라 상품명이 더 일찍 잘리고
+     방송명을 줄여야 하는 건수도 늘어난다. 굵기도 3단계뿐이라 본문이 쓰는
+     400/500/600/700 네 단계 위계가 뭉개진다.
+     **Bold 하나만 받는다.** 쓰는 자리가 제목과 채널 이름뿐인데 둘 다 700 이라
+     Medium 은 필요 없다 - 610KB 를 아낀다.
+     이 PC 에는 Gmarket Sans TTF Medium 이 설치돼 있어 웹폰트를 못 받아도
+     비슷하게 나온다(굵기는 가짜 볼드가 된다). */
+  @font-face {
+    font-family: 'Gmarket Sans';
+    font-weight: 700;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansBold.woff') format('woff');
+  }
+
   /* 라이트 전용. 다크모드 대응은 의도적으로 두지 않는다 (hdhs 뷰어와 맞춤). */
   :root {
     color-scheme: light;
@@ -89,7 +105,10 @@
     max-width: 1320px; margin: 0 auto; padding: 0 20px; height: 52px;
     display: flex; align-items: center; gap: 12px;
   }
-  .topbar h1 { margin: 0; font-size: 15px; font-weight: 700; letter-spacing: -.02em; }
+  .topbar h1 {
+    margin: 0; font-size: 15px; font-weight: 700; letter-spacing: -.02em;
+    font-family: "Gmarket Sans", "Gmarket Sans TTF Medium", "Noto Sans KR", sans-serif;
+  }
   .topbar h1 .dot {
     display: inline-block; width: 7px; height: 7px; border-radius: 50%;
     background: var(--now); margin-right: 7px; vertical-align: 1px;
@@ -224,22 +243,24 @@
   }
   .head > div { padding: 11px 10px; display: flex; align-items: center; justify-content: center; gap: 8px; }
   .head .hcol { justify-content: flex-start; font-size: 11.5px; color: var(--muted); padding-left: 12px; }
-  /* 채널 머리글은 칸 전체를 그 채널 색의 파스텔로 채운다. 알약만 칠하던 때보다
-     어느 열이 어느 채널인지 멀리서도 잡힌다. 시간 열(.hcol)은 채널이 아니라
-     그대로 흰 바탕이다. */
-  .head .ch-hd { background: var(--hd-head); }
-  .head .ch-cj { background: var(--cj-head); }
-  .head .ch-ka { background: var(--ka-head); }
-  .head .ch-gm { background: var(--gm-head); }
-  .pill {
-    display: inline-block; padding: 4px 16px; border-radius: 999px;
-    min-width: 58px; text-align: center;
-    color: #fff; font-size: 12.5px; font-weight: 700; letter-spacing: .01em;
+  /* 채널 머리글은 칸 전체를 그 채널 색의 파스텔로 채우고 왼쪽에 막대를 세운다.
+     막대는 아래 편성 카드가 이미 쓰는 어법이다(.slot 의 border-left). 머리글부터
+     카드까지 세로로 같은 색 줄기가 이어져 열을 눈으로 따라가기 쉽다.
+     * { box-sizing: border-box } 라 막대가 칸 너비를 밀지 않는다.
+     시간 열(.hcol)은 채널이 아니라 그대로 흰 바탕이다. */
+  .head .ch-hd { --c: var(--hd); --cbg: var(--hd-head); }
+  .head .ch-cj { --c: var(--cj); --cbg: var(--cj-head); }
+  .head .ch-ka { --c: var(--ka); --cbg: var(--ka-head); }
+  .head .ch-gm { --c: var(--gm); --cbg: var(--gm-head); }
+  .head .ch-hd, .head .ch-cj, .head .ch-ka, .head .ch-gm {
+    background: var(--cbg); border-left: 3px solid var(--c);
   }
-  .pill.hd { background: var(--hd); }
-  .pill.cj { background: var(--cj); }
-  .pill.ka { background: var(--ka); }
-  .pill.gm { background: var(--gm); }
+  /* 채널 이름. 예전에는 진한 알약(둥근 배경)에 흰 글씨였는데 파스텔 칸까지
+     더해지니 같은 색이 두 겹이라 무거웠다. 배경을 빼고 글자색만 채널색으로 둔다. */
+  .chname {
+    font-size: 12.5px; font-weight: 700; letter-spacing: .01em; color: var(--c);
+    font-family: "Gmarket Sans", "Gmarket Sans TTF Medium", "Noto Sans KR", sans-serif;
+  }
 
   /* 채널 로고. 각 사 파비콘을 data URI 로 박았다(파비콘과 같은 이유).
      화면은 16px 인데 소스는 32px 이라 고해상도 화면에서도 또렷하다.
@@ -247,9 +268,13 @@
      그 위에 컬러 로고를 얹으면 서로 뭉갠다. 흰 머리글 위라야 로고 색이 산다.
      현대는 16x16 워드마크뿐이라(글자를 우겨넣은 것) 어느 크기로도 안 읽혀
      넣지 않았다. 쓸 만한 이미지가 생기면 .logo-hd 만 더하면 된다. */
+  /* 로고와 이름은 한 덩어리로 묶는다. 묶지 않으면 머리글 칸의 flex gap(8px)이
+     둘 사이에도 끼어들어 margin 6px 과 겹쳐 14px 이 된다 - 로고가 이름에서
+     동떨어져 보이던 원인이다. 묶으면 gap 은 덩어리와 건수 사이에만 남는다. */
+  .chwrap { display: inline-flex; align-items: center; }
   .chlogo {
-    display: inline-block; width: 16px; height: 16px; margin-right: 6px;
-    vertical-align: -3px; background-size: contain;
+    display: inline-block; width: 16px; height: 16px; margin-right: 5px;
+    background-size: contain;
     background-repeat: no-repeat; background-position: center;
   }
   .logo-cj { background-image: url("data:image/png;base64,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"); }
@@ -401,7 +426,6 @@
     .row.now .hour::before { left: 3px; }
     .stepper .cur { min-width: 128px; font-size: 13px; }
     .ctrl .right { margin-left: 0; width: 100%; }
-    .pill { min-width: 44px; padding: 4px 10px; }
     .head .hcol { font-size: 0; }   /* 44px 칸에서 '시간'이 두 줄로 쪼개진다 */
   }
 
@@ -896,8 +920,10 @@
       d.className = "ch-" + lo;
       // 머리글에는 채널 **이름**을 쓴다. 위쪽 필터 버튼은 좁아서 코드(HD/CJ/…)를
       // 그대로 두므로, 둘을 잇는 것은 색과 로고다.
-      d.innerHTML = (CH_LOGO[c.code] ? '<span class="chlogo logo-' + lo + '"></span>' : "") +
-                    '<span class="pill ' + lo + '">' + c.name + "</span>" +
+      d.innerHTML = '<span class="chwrap">' +
+                      (CH_LOGO[c.code] ? '<span class="chlogo logo-' + lo + '"></span>' : "") +
+                      '<span class="chname">' + c.name + "</span>" +
+                    "</span>" +
                     '<span class="cnt">' + (n === null ? "데이터 없음" : n + "건") + "</span>";
       head.appendChild(d);
     });

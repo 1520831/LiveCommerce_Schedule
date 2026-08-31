@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-08",
- "updated_at": "2026-08-31T13:10:06+09:00",
+ "updated_at": "2026-08-31T13:34:46+09:00",
  "days": {
   "2026-08-26": [
    {
@@ -1836,14 +1836,14 @@
     "end": "20:59",
     "brand": "ICEBALL",
     "product": "Ice tennis bracelet (3mm)",
-    "price": 131610,
+    "price": 190000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239102751",
     "slot_id": "202608306009",
     "items": [
      {
       "brand": "ICEBALL",
       "product": "Ice tennis bracelet (3mm)",
-      "price": 131610,
+      "price": 190000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239102751"
      }
     ],
@@ -2056,6 +2056,12 @@
       "product": "18KGP 황금브러쉬 대형+소형 세트(미니 브러쉬 2개 증정)",
       "price": 69000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253061675"
+     },
+     {
+      "brand": "헤스티아",
+      "product": "우드 돈모 헤어 브러쉬 대형",
+      "price": 29800,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253054656"
      }
     ],
     "title": "[여배우 추천] 헤스티아 프리미엄 18K 도금 브러쉬",
