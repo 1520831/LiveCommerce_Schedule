@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-08-31T14:02:48+09:00",
+ "updated_at": "2026-08-31T14:20:26+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -614,7 +614,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252876922"
      }
     ],
-    "title": "[티르리르] 데일리주얼리 추천 2만원대부터~ + 사은품",
+    "title": "[티르리르] 데일리 주얼리 추천 2만원대~ + 사은품",
     "pgm": "백화점 프리오픈쇼(멀티커머스)"
    },
    {
@@ -633,7 +633,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2227898632"
      }
     ],
-    "title": "[트루엔]이글루캠 쇼라단독가!",
+    "title": "[트루엔] 이글루캠 쇼라 단독가!",
     "pgm": "[이글루캠] (액티브라이프)"
    },
    {
@@ -709,7 +709,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252236969"
      }
     ],
-    "title": "[제이바이라라] 간절기 아이템 방송 특가 OPEN❤️",
+    "title": "[제이바이라라] 간절기 아이템 특별가 OPEN❤️",
     "pgm": "[제이바이라라] 의류 (멀티커머스)"
    }
   ],
@@ -846,6 +846,25 @@
     ],
     "title": "[삼성금거래소] 풍요의 기원을 담은 순금 골드 코인 ✨",
     "pgm": "[삼성금거래소] 순금 (패션잡화)"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "지고트",
+    "product": "루즈핏 레더 자켓(JS9E0JK571) JS9E0JK571",
+    "price": 169000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252154931",
+    "slot_id": "202609046013",
+    "items": [
+     {
+      "brand": "지고트",
+      "product": "루즈핏 레더 자켓(JS9E0JK571) JS9E0JK571",
+      "price": 169000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252154931"
+     }
+    ],
+    "title": "입는 순간 완성되는 하이엔드 페미닌 룩, 지고트❤️",
+    "pgm": "[지고트] 의류 (멀티커머스)"
    },
    {
     "start": "22:00",

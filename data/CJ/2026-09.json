@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-08-31T14:02:54+09:00",
+ "updated_at": "2026-08-31T14:20:33+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -258,9 +258,9 @@
     "start": "19:00",
     "end": "19:59",
     "brand": "셀렙샵에디션",
-    "product": "26FW 마스터핏 테일러드  데님 2종(인디고+브라운)",
+    "product": "26FW FAUX레더 하이넥 셔링 점퍼",
     "price": 89900,
-    "link": "https://item.cjonstyle.com/item/2088363017?channelCode=30002002",
+    "link": "https://item.cjonstyle.com/item/2089336165?channelCode=30002002",
     "slot_id": "28813",
     "title": "4만 원대~ 셀렙샵에디션 기본템, 아우터까지 26FW 신상템 LIVE",
     "pgm": "엣지쇼",
@@ -276,6 +276,18 @@
     "slot_id": "28814",
     "title": "드디어 물량 확보! 네리티아 파운데이션 앵콜 LIVE",
     "pgm": "라이브쇼"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "카피타노",
+    "product": "1905 클래식치약 3종세트",
+    "price": 43900,
+    "link": "https://item.cjonstyle.com/item/2032716361?channelCode=30002002",
+    "slot_id": "28983",
+    "title": "다시보는💚서울에서 만나는 이탈리아 VIVA ITALIA🤍특집 방송❤️",
+    "pgm": "VIVA ITALIA",
+    "category": "주방·잡화"
    },
    {
     "start": "20:00",
@@ -624,6 +636,18 @@
     "category": "가전"
    },
    {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "카피타노",
+    "product": "1905 클래식치약 3종세트",
+    "price": 43900,
+    "link": "https://item.cjonstyle.com/item/2032716361?channelCode=30002002",
+    "slot_id": "29007",
+    "title": "다시보는💚서울에서 만나는 이탈리아 VIVA ITALIA🤍특집 방송❤️",
+    "pgm": "VIVA ITALIA",
+    "category": "주방·잡화"
+   },
+   {
     "start": "20:00",
     "end": "20:59",
     "brand": "로킷아메리카",
@@ -848,6 +872,18 @@
     "pgm": "브티나는 생활"
    },
    {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "베스파",
+    "product": "80주년 에디션 프리마베라 125 클래식 스쿠터 (125cc)",
+    "price": 6590000,
+    "link": "https://item.cjonstyle.com/item/2091510969?channelCode=30002002",
+    "slot_id": "29027",
+    "title": "다시보는💚서울에서 만나는 이탈리아 VIVA ITALIA🤍특집 방송❤️",
+    "pgm": "VIVA ITALIA",
+    "category": "스포츠·아웃도어"
+   },
+   {
     "start": "20:00",
     "end": "20:59",
     "brand": "아쿠아 디 파르마",
@@ -930,6 +966,18 @@
     "title": "다시보는 [삼익가구] 단독론칭 업핏모션데스크 책상 초특가 핫딜!",
     "pgm": "인플루언서LIVE",
     "category": "가구·침구"
+   },
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "베스파",
+    "product": "80주년 에디션 프리마베라 125 클래식 스쿠터 (125cc)",
+    "price": 6590000,
+    "link": "https://item.cjonstyle.com/item/2091510969?channelCode=30002002",
+    "slot_id": "29036",
+    "title": "다시보는💚서울에서 만나는 이탈리아 VIVA ITALIA🤍특집 방송❤️",
+    "pgm": "VIVA ITALIA",
+    "category": "스포츠·아웃도어"
    },
    {
     "start": "11:00",
@@ -1027,6 +1075,18 @@
     "title": "다시보는 [삼익가구] 단독론칭 업핏모션데스크 책상 초특가 핫딜!",
     "pgm": "인플루언서LIVE",
     "category": "가구·침구"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "베스파",
+    "product": "80주년 에디션 프리마베라 125 클래식 스쿠터 (125cc)",
+    "price": 6590000,
+    "link": "https://item.cjonstyle.com/item/2091510969?channelCode=30002002",
+    "slot_id": "29068",
+    "title": "다시보는💚서울에서 만나는 이탈리아 VIVA ITALIA🤍특집 방송❤️",
+    "pgm": "VIVA ITALIA",
+    "category": "스포츠·아웃도어"
    },
    {
     "start": "21:00",

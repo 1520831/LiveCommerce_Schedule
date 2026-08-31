@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-08-31T14:03:01+09:00",
+ "generated_at": "2026-08-31T14:20:40+09:00",
  "today": "2026-08-31",
  "dates": [
   "2026-08-30",
@@ -130,17 +130,11 @@ window.SCHEDULE = {
      "start": "13:00",
      "end": "13:59",
      "brand": "센카",
-     "product": "[SENKA] 2026년 NEW 센카 퍼펙트 휩 페이셜 워시 현대 단독 구성",
-     "price": 66000,
-     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251087368",
+     "product": "[SENKA] 센카 퍼펙트 휩 화이트 클레이 x 5ea",
+     "price": 39000,
+     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2203905452",
      "slot_id": "202608306019",
      "items": [
-      {
-       "brand": "센카",
-       "product": "[SENKA] 2026년 NEW 센카 퍼펙트 휩 페이셜 워시 현대 단독 구성",
-       "price": 66000,
-       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251087368"
-      },
       {
        "brand": "센카",
        "product": "[SENKA] 센카 퍼펙트 휩 화이트 클레이 x 5ea",
@@ -499,17 +493,11 @@ window.SCHEDULE = {
      "start": "13:00",
      "end": "13:59",
      "brand": "센카",
-     "product": "[SENKA] 2026년 NEW 센카 퍼펙트 휩 페이셜 워시 현대 단독 구성",
-     "price": 66000,
-     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251087368",
+     "product": "[SENKA] 센카 퍼펙트 휩 콜라겐인 x 4ea",
+     "price": 34000,
+     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2203905229",
      "slot_id": "202608316018",
      "items": [
-      {
-       "brand": "센카",
-       "product": "[SENKA] 2026년 NEW 센카 퍼펙트 휩 페이셜 워시 현대 단독 구성",
-       "price": 66000,
-       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251087368"
-      },
       {
        "brand": "센카",
        "product": "[SENKA] 센카 퍼펙트 휩 콜라겐인 x 4ea",
@@ -1340,7 +1328,7 @@ window.SCHEDULE = {
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252876922"
       }
      ],
-     "title": "[티르리르] 데일리주얼리 추천 2만원대부터~ + 사은품",
+     "title": "[티르리르] 데일리 주얼리 추천 2만원대~ + 사은품",
      "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
@@ -1359,7 +1347,7 @@ window.SCHEDULE = {
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2227898632"
       }
      ],
-     "title": "[트루엔]이글루캠 쇼라단독가!",
+     "title": "[트루엔] 이글루캠 쇼라 단독가!",
      "pgm": "[이글루캠] (액티브라이프)"
     },
     {
@@ -1435,7 +1423,7 @@ window.SCHEDULE = {
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252236969"
       }
      ],
-     "title": "[제이바이라라] 간절기 아이템 방송 특가 OPEN❤️",
+     "title": "[제이바이라라] 간절기 아이템 특별가 OPEN❤️",
      "pgm": "[제이바이라라] 의류 (멀티커머스)"
     }
    ],
@@ -1572,6 +1560,25 @@ window.SCHEDULE = {
      ],
      "title": "[삼성금거래소] 풍요의 기원을 담은 순금 골드 코인 ✨",
      "pgm": "[삼성금거래소] 순금 (패션잡화)"
+    },
+    {
+     "start": "20:00",
+     "end": "20:59",
+     "brand": "지고트",
+     "product": "루즈핏 레더 자켓(JS9E0JK571) JS9E0JK571",
+     "price": 169000,
+     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252154931",
+     "slot_id": "202609046013",
+     "items": [
+      {
+       "brand": "지고트",
+       "product": "루즈핏 레더 자켓(JS9E0JK571) JS9E0JK571",
+       "price": 169000,
+       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252154931"
+      }
+     ],
+     "title": "입는 순간 완성되는 하이엔드 페미닌 룩, 지고트❤️",
+     "pgm": "[지고트] 의류 (멀티커머스)"
     },
     {
      "start": "22:00",
@@ -2890,9 +2897,9 @@ window.SCHEDULE = {
      "start": "19:00",
      "end": "19:59",
      "brand": "셀렙샵에디션",
-     "product": "26FW 마스터핏 테일러드  데님 2종(인디고+브라운)",
+     "product": "26FW FAUX레더 하이넥 셔링 점퍼",
      "price": 89900,
-     "link": "https://item.cjonstyle.com/item/2088363017?channelCode=30002002",
+     "link": "https://item.cjonstyle.com/item/2089336165?channelCode=30002002",
      "slot_id": "28813",
      "title": "4만 원대~ 셀렙샵에디션 기본템, 아우터까지 26FW 신상템 LIVE",
      "pgm": "엣지쇼",
@@ -2908,6 +2915,18 @@ window.SCHEDULE = {
      "slot_id": "28814",
      "title": "드디어 물량 확보! 네리티아 파운데이션 앵콜 LIVE",
      "pgm": "라이브쇼"
+    },
+    {
+     "start": "19:00",
+     "end": "19:59",
+     "brand": "카피타노",
+     "product": "1905 클래식치약 3종세트",
+     "price": 43900,
+     "link": "https://item.cjonstyle.com/item/2032716361?channelCode=30002002",
+     "slot_id": "28983",
+     "title": "다시보는💚서울에서 만나는 이탈리아 VIVA ITALIA🤍특집 방송❤️",
+     "pgm": "VIVA ITALIA",
+     "category": "주방·잡화"
     },
     {
      "start": "20:00",
@@ -3256,6 +3275,18 @@ window.SCHEDULE = {
      "category": "가전"
     },
     {
+     "start": "19:00",
+     "end": "19:59",
+     "brand": "카피타노",
+     "product": "1905 클래식치약 3종세트",
+     "price": 43900,
+     "link": "https://item.cjonstyle.com/item/2032716361?channelCode=30002002",
+     "slot_id": "29007",
+     "title": "다시보는💚서울에서 만나는 이탈리아 VIVA ITALIA🤍특집 방송❤️",
+     "pgm": "VIVA ITALIA",
+     "category": "주방·잡화"
+    },
+    {
      "start": "20:00",
      "end": "20:59",
      "brand": "로킷아메리카",
@@ -3480,6 +3511,18 @@ window.SCHEDULE = {
      "pgm": "브티나는 생활"
     },
     {
+     "start": "19:00",
+     "end": "19:59",
+     "brand": "베스파",
+     "product": "80주년 에디션 프리마베라 125 클래식 스쿠터 (125cc)",
+     "price": 6590000,
+     "link": "https://item.cjonstyle.com/item/2091510969?channelCode=30002002",
+     "slot_id": "29027",
+     "title": "다시보는💚서울에서 만나는 이탈리아 VIVA ITALIA🤍특집 방송❤️",
+     "pgm": "VIVA ITALIA",
+     "category": "스포츠·아웃도어"
+    },
+    {
      "start": "20:00",
      "end": "20:59",
      "brand": "아쿠아 디 파르마",
@@ -3562,6 +3605,18 @@ window.SCHEDULE = {
      "title": "다시보는 [삼익가구] 단독론칭 업핏모션데스크 책상 초특가 핫딜!",
      "pgm": "인플루언서LIVE",
      "category": "가구·침구"
+    },
+    {
+     "start": "11:00",
+     "end": "11:59",
+     "brand": "베스파",
+     "product": "80주년 에디션 프리마베라 125 클래식 스쿠터 (125cc)",
+     "price": 6590000,
+     "link": "https://item.cjonstyle.com/item/2091510969?channelCode=30002002",
+     "slot_id": "29036",
+     "title": "다시보는💚서울에서 만나는 이탈리아 VIVA ITALIA🤍특집 방송❤️",
+     "pgm": "VIVA ITALIA",
+     "category": "스포츠·아웃도어"
     },
     {
      "start": "11:00",
@@ -3659,6 +3714,18 @@ window.SCHEDULE = {
      "title": "다시보는 [삼익가구] 단독론칭 업핏모션데스크 책상 초특가 핫딜!",
      "pgm": "인플루언서LIVE",
      "category": "가구·침구"
+    },
+    {
+     "start": "19:00",
+     "end": "19:59",
+     "brand": "베스파",
+     "product": "80주년 에디션 프리마베라 125 클래식 스쿠터 (125cc)",
+     "price": 6590000,
+     "link": "https://item.cjonstyle.com/item/2091510969?channelCode=30002002",
+     "slot_id": "29068",
+     "title": "다시보는💚서울에서 만나는 이탈리아 VIVA ITALIA🤍특집 방송❤️",
+     "pgm": "VIVA ITALIA",
+     "category": "스포츠·아웃도어"
     },
     {
      "start": "21:00",
@@ -5588,9 +5655,9 @@ window.SCHEDULE = {
   }
  },
  "updated_at": {
-  "HD": "2026-08-31T14:02:48+09:00",
-  "CJ": "2026-08-31T14:02:54+09:00",
-  "KA": "2026-08-31T14:03:01+09:00",
+  "HD": "2026-08-31T14:20:26+09:00",
+  "CJ": "2026-08-31T14:20:33+09:00",
+  "KA": "2026-08-31T14:20:40+09:00",
   "GM": "2026-08-31T10:02:54+09:00"
  }
 };
