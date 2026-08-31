@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-08-31T17:37:49+09:00",
+ "generated_at": "2026-08-31T18:08:06+09:00",
  "today": "2026-08-31",
  "dates": [
   "2026-08-30",
@@ -167,6 +167,24 @@ window.SCHEDULE = {
      ],
      "title": "[히말라야] 파티스마트 츄 숙취해소제",
      "pgm": "[집방] 히말라야 파티스마트 (건강식품1팀)"
+    },
+    {
+     "start": "15:00",
+     "end": "15:59",
+     "brand": "리딩게이트",
+     "product": "온라인 영어 독서 프로그램 12개월 이용권",
+     "price": 432000,
+     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248587828",
+     "slot_id": "202608306020",
+     "items": [
+      {
+       "brand": "리딩게이트",
+       "product": "온라인 영어 독서 프로그램 12개월 이용권",
+       "price": 432000,
+       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248587828"
+      }
+     ],
+     "title": "[리딩게이트/하이도도] 2학기 완벽 대비 핫딜🔥"
     },
     {
      "start": "16:00",
@@ -644,6 +662,25 @@ window.SCHEDULE = {
      ],
      "title": "[한국금거래소] 골드바 + 실버바 특집",
      "pgm": "[한국금거래소] 금 (패션잡화)"
+    },
+    {
+     "start": "19:00",
+     "end": "19:59",
+     "brand": "리딩게이트",
+     "product": "온라인 영어 독서 프로그램 12개월 이용권",
+     "price": 432000,
+     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248587828",
+     "slot_id": "202608316024",
+     "items": [
+      {
+       "brand": "리딩게이트",
+       "product": "온라인 영어 독서 프로그램 12개월 이용권",
+       "price": 432000,
+       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248587828"
+      }
+     ],
+     "title": "[리딩게이트/하이도도] 2학기 완벽 대비 핫딜🔥",
+     "pgm": "[재방] 리딩게이트 독서교육 (렌탈)"
     },
     {
      "start": "20:00",
@@ -2475,13 +2512,14 @@ window.SCHEDULE = {
     {
      "start": "18:00",
      "end": "18:59",
-     "brand": "천하일미",
-     "product": "홍석천 이원일 떡갈비 160g 전통/매콤 15팩 총30장",
-     "price": 32500,
-     "link": "https://item.cjonstyle.com/item/2003075249?channelCode=30002002",
+     "brand": "자연의정",
+     "product": "[26년 8월 수확] 햇 홍로사과 가정용 선물용 특품 사이즈/중량별",
+     "price": 7900,
+     "link": "https://item.cjonstyle.com/item/2076729862?channelCode=30002002",
      "slot_id": "28797",
      "title": "🧡추석맞이 대잔치🧡 햇 홍로사과 & 해남 꿀고구마 & 견과류 외",
-     "pgm": "푸드온다"
+     "pgm": "푸드온다",
+     "category": "식품·건강"
     },
     {
      "start": "18:00",
@@ -2536,7 +2574,7 @@ window.SCHEDULE = {
      "end": "19:59",
      "brand": "칼라거펠트",
      "product": "25FW FAUX 밍크 롱 코트",
-     "price": 239000,
+     "price": 79000,
      "link": "https://item.cjonstyle.com/item/2072623811?channelCode=30002002",
      "slot_id": "28800",
      "title": "엣지쇼❤️칼라걸페트/채컬렉티브 신상품&이월상품 방송중 할인",
@@ -3670,6 +3708,18 @@ window.SCHEDULE = {
     {
      "start": "19:00",
      "end": "19:59",
+     "brand": "더엣지",
+     "product": "26FW 이중직 아플리케 자수스웻2종",
+     "price": 62910,
+     "link": "https://item.cjonstyle.com/item/2089601230?channelCode=30002002",
+     "slot_id": "28849",
+     "title": "엣지쇼X더엣지 신상 최초공개! 방송중에만 할인",
+     "pgm": "엣지쇼",
+     "category": "여성패션"
+    },
+    {
+     "start": "19:00",
+     "end": "19:59",
      "brand": "베스파",
      "product": "80주년 에디션 프리마베라 125 클래식 스쿠터 (125cc)",
      "price": 6590000,
@@ -3849,6 +3899,17 @@ window.SCHEDULE = {
     {
      "start": "19:00",
      "end": "19:59",
+     "brand": "",
+     "product": "락포트 26FW 최신상 최초공개💗미리주문10%쿠폰",
+     "price": 0,
+     "link": "https://mlive.cjonstyle.com/m/preview/28859",
+     "slot_id": "28859",
+     "title": "락포트 26FW 최신상 최초공개💗미리주문10%쿠폰",
+     "pgm": "엣지쇼"
+    },
+    {
+     "start": "19:00",
+     "end": "19:59",
      "brand": "한샘",
      "product": "엠마 컴포트 천연면피가죽 4인용 소파 3종/택1",
      "price": 1178190,
@@ -3880,6 +3941,17 @@ window.SCHEDULE = {
      "title": "데스커 더블쿠폰 특가💖 카드 10%+적립 10%+구매인증 찬스!",
      "pgm": "하우스윗",
      "category": "가구·침구"
+    },
+    {
+     "start": "21:00",
+     "end": "21:59",
+     "brand": "",
+     "product": "크록스 인기 베스트 상품✨단 하루 최대 특가",
+     "price": 0,
+     "link": "https://mlive.cjonstyle.com/m/preview/28864",
+     "slot_id": "28864",
+     "title": "크록스 인기 베스트 상품✨단 하루 최대 특가",
+     "pgm": "라이브쇼"
     },
     {
      "start": "23:00",
@@ -7742,7 +7814,7 @@ window.SCHEDULE = {
     },
     {
      "start": "17:00",
-     "end": "",
+     "end": "18:01",
      "brand": "",
      "product": "정수기 특집 라이브!",
      "price": 0,
@@ -8819,30 +8891,6 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티"
-    },
-    {
-     "start": "20:00",
-     "end": "",
-     "brand": "",
-     "product": "8월 바디랩 블루밍데이즈",
-     "price": 0,
-     "link": "https://shoppinglive.naver.com/livebridge/1971390",
-     "slot_id": "1971390",
-     "pgm": "8월 바디랩 블루밍데이즈",
-     "items": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-     ],
-     "category": "푸드"
     },
     {
      "start": "20:00",
@@ -10582,7 +10630,7 @@ window.SCHEDULE = {
      "price": 0,
      "link": "https://shoppinglive.naver.com/livebridge/2003221",
      "slot_id": "2003221",
-     "pgm": "9/1 오팝스 실크테라피 라이브",
+     "pgm": "⭐오팝스X헤어부티크 OPEN! 특별 혜택+추가할인까지!⭐",
      "items": [
       {},
       {},
@@ -11078,6 +11126,28 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드"
+    },
+    {
+     "start": "10:30",
+     "end": "",
+     "brand": "",
+     "product": "📢 개당 9,900원부터✨",
+     "price": 0,
+     "link": "https://shoppinglive.naver.com/livebridge/1989518",
+     "slot_id": "1989518",
+     "pgm": "~72% 닥터바이오 블루밍데이즈 1+1+1 특가 LIVE ! 🧡",
+     "items": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+     ],
+     "category": "키즈"
     },
     {
      "start": "10:30",
@@ -12170,48 +12240,6 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드"
-    },
-    {
-     "start": "11:00",
-     "end": "",
-     "brand": "",
-     "product": "오늘의브랜드 x 라이브",
-     "price": 0,
-     "link": "https://shoppinglive.naver.com/livebridge/2009293",
-     "slot_id": "2009293",
-     "pgm": "[이리온몰] 9월 댕냥이도 집사도 풍성한 용돈 잔치 🌕🌾",
-     "items": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-     ],
-     "category": "라이프"
     }
    ],
    "2026-09-02": [
@@ -12278,41 +12306,6 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드"
-    },
-    {
-     "start": "09:00",
-     "end": "",
-     "brand": "",
-     "product": "📢 자급제 최대혜택 라이브",
-     "price": 0,
-     "link": "https://shoppinglive.naver.com/livebridge/2006187",
-     "slot_id": "2006187",
-     "pgm": "📱 Z폴더블8 / S26시리즈 / A37 추가적립 라이브📱",
-     "items": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-     ],
-     "category": "테크"
     },
     {
      "start": "09:00",
@@ -14346,6 +14339,21 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크"
+    },
+    {
+     "start": "14:00",
+     "end": "",
+     "brand": "",
+     "product": "인기상품 입어보기💖",
+     "price": 0,
+     "link": "https://shoppinglive.naver.com/livebridge/2001411",
+     "slot_id": "2001411",
+     "pgm": "[🌟블루밍데이즈🌟] 가을에 입기 좋은 데일리 셔츠자켓💜",
+     "items": [
+      {},
+      {}
+     ],
+     "category": "패션"
     }
    ],
    "2026-09-03": [
@@ -20189,7 +20197,7 @@ window.SCHEDULE = {
     },
     {
      "start": "17:00",
-     "end": "18:30",
+     "end": "18:00",
      "brand": "배곱플땐구이요",
      "product": "구이요 소곱창/대창/막창/특양/족발/보쌈+참소스,새우젓 사은품!",
      "price": 9900,
@@ -20201,7 +20209,7 @@ window.SCHEDULE = {
     },
     {
      "start": "17:00",
-     "end": "18:30",
+     "end": "18:00",
      "brand": "동국제약",
      "product": "[동국제약] 마데카멜라캡처 스팟토닝 앰플패드 60매(1통)+추가20매 외 멜라캡처앰플패드 리필특가 .기미 착붙팩 외.앰플가득",
      "price": 28000,
@@ -20538,6 +20546,18 @@ window.SCHEDULE = {
      "pgm": "온가족 세제 레드루트",
      "title": "식세기세제 런칭 라이브!",
      "category": "키즈"
+    },
+    {
+     "start": "14:30",
+     "end": "16:00",
+     "brand": "닥터안스에그",
+     "product": "[닥터안스에그] 무항생제 인증 수의사 계란 햇달걀/대란/특란 (30구+30구)",
+     "price": 27000,
+     "link": "https://store.kakao.com/ahnilfarm/products/145039582",
+     "slot_id": "59781",
+     "pgm": "[30구 + 30구]",
+     "title": "닥터안스에그 무항생제 특가전",
+     "category": "식품"
     },
     {
      "start": "16:30",
@@ -20993,10 +21013,10 @@ window.SCHEDULE = {
   }
  },
  "updated_at": {
-  "HD": "2026-08-31T17:36:26+09:00",
-  "CJ": "2026-08-31T17:36:32+09:00",
-  "NV": "2026-08-31T17:37:49+09:00",
+  "HD": "2026-08-31T18:06:58+09:00",
+  "CJ": "2026-08-31T18:07:04+09:00",
+  "NV": "2026-08-31T18:08:06+09:00",
   "GM": "2026-08-31T10:02:54+09:00",
-  "KA": "2026-08-31T17:36:39+09:00"
+  "KA": "2026-08-31T18:07:09+09:00"
  }
 };

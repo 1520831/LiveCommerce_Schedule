@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-08-31T17:36:39+09:00",
+ "updated_at": "2026-08-31T18:07:09+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -258,6 +258,18 @@
     "pgm": "온가족 세제 레드루트",
     "title": "식세기세제 런칭 라이브!",
     "category": "키즈"
+   },
+   {
+    "start": "14:30",
+    "end": "16:00",
+    "brand": "닥터안스에그",
+    "product": "[닥터안스에그] 무항생제 인증 수의사 계란 햇달걀/대란/특란 (30구+30구)",
+    "price": 27000,
+    "link": "https://store.kakao.com/ahnilfarm/products/145039582",
+    "slot_id": "59781",
+    "pgm": "[30구 + 30구]",
+    "title": "닥터안스에그 무항생제 특가전",
+    "category": "식품"
    },
    {
     "start": "16:30",

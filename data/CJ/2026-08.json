@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-08",
- "updated_at": "2026-08-31T17:36:32+09:00",
+ "updated_at": "2026-08-31T18:07:04+09:00",
  "days": {
   "2026-08-26": [
    {
@@ -2548,13 +2548,14 @@
    {
     "start": "18:00",
     "end": "18:59",
-    "brand": "천하일미",
-    "product": "홍석천 이원일 떡갈비 160g 전통/매콤 15팩 총30장",
-    "price": 32500,
-    "link": "https://item.cjonstyle.com/item/2003075249?channelCode=30002002",
+    "brand": "자연의정",
+    "product": "[26년 8월 수확] 햇 홍로사과 가정용 선물용 특품 사이즈/중량별",
+    "price": 7900,
+    "link": "https://item.cjonstyle.com/item/2076729862?channelCode=30002002",
     "slot_id": "28797",
     "title": "🧡추석맞이 대잔치🧡 햇 홍로사과 & 해남 꿀고구마 & 견과류 외",
-    "pgm": "푸드온다"
+    "pgm": "푸드온다",
+    "category": "식품·건강"
    },
    {
     "start": "18:00",
@@ -2609,7 +2610,7 @@
     "end": "19:59",
     "brand": "칼라거펠트",
     "product": "25FW FAUX 밍크 롱 코트",
-    "price": 239000,
+    "price": 79000,
     "link": "https://item.cjonstyle.com/item/2072623811?channelCode=30002002",
     "slot_id": "28800",
     "title": "엣지쇼❤️칼라걸페트/채컬렉티브 신상품&이월상품 방송중 할인",

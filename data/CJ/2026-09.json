@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-08-31T17:36:32+09:00",
+ "updated_at": "2026-08-31T18:07:04+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -950,6 +950,18 @@
    {
     "start": "19:00",
     "end": "19:59",
+    "brand": "더엣지",
+    "product": "26FW 이중직 아플리케 자수스웻2종",
+    "price": 62910,
+    "link": "https://item.cjonstyle.com/item/2089601230?channelCode=30002002",
+    "slot_id": "28849",
+    "title": "엣지쇼X더엣지 신상 최초공개! 방송중에만 할인",
+    "pgm": "엣지쇼",
+    "category": "여성패션"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
     "brand": "베스파",
     "product": "80주년 에디션 프리마베라 125 클래식 스쿠터 (125cc)",
     "price": 6590000,
@@ -1129,6 +1141,17 @@
    {
     "start": "19:00",
     "end": "19:59",
+    "brand": "",
+    "product": "락포트 26FW 최신상 최초공개💗미리주문10%쿠폰",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/28859",
+    "slot_id": "28859",
+    "title": "락포트 26FW 최신상 최초공개💗미리주문10%쿠폰",
+    "pgm": "엣지쇼"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
     "brand": "한샘",
     "product": "엠마 컴포트 천연면피가죽 4인용 소파 3종/택1",
     "price": 1178190,
@@ -1160,6 +1183,17 @@
     "title": "데스커 더블쿠폰 특가💖 카드 10%+적립 10%+구매인증 찬스!",
     "pgm": "하우스윗",
     "category": "가구·침구"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "",
+    "product": "크록스 인기 베스트 상품✨단 하루 최대 특가",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/28864",
+    "slot_id": "28864",
+    "title": "크록스 인기 베스트 상품✨단 하루 최대 특가",
+    "pgm": "라이브쇼"
    },
    {
     "start": "23:00",

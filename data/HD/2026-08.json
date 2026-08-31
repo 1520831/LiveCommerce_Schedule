@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-08",
- "updated_at": "2026-08-31T17:36:26+09:00",
+ "updated_at": "2026-08-31T18:06:58+09:00",
  "days": {
   "2026-08-26": [
    {
@@ -1737,6 +1737,24 @@
     "pgm": "[집방] 히말라야 파티스마트 (건강식품1팀)"
    },
    {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "리딩게이트",
+    "product": "온라인 영어 독서 프로그램 12개월 이용권",
+    "price": 432000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248587828",
+    "slot_id": "202608306020",
+    "items": [
+     {
+      "brand": "리딩게이트",
+      "product": "온라인 영어 독서 프로그램 12개월 이용권",
+      "price": 432000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248587828"
+     }
+    ],
+    "title": "[리딩게이트/하이도도] 2학기 완벽 대비 핫딜🔥"
+   },
+   {
     "start": "16:00",
     "end": "16:59",
     "brand": "골든클레프",
@@ -2212,6 +2230,25 @@
     ],
     "title": "[한국금거래소] 골드바 + 실버바 특집",
     "pgm": "[한국금거래소] 금 (패션잡화)"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "리딩게이트",
+    "product": "온라인 영어 독서 프로그램 12개월 이용권",
+    "price": 432000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248587828",
+    "slot_id": "202608316024",
+    "items": [
+     {
+      "brand": "리딩게이트",
+      "product": "온라인 영어 독서 프로그램 12개월 이용권",
+      "price": 432000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248587828"
+     }
+    ],
+    "title": "[리딩게이트/하이도도] 2학기 완벽 대비 핫딜🔥",
+    "pgm": "[재방] 리딩게이트 독서교육 (렌탈)"
    },
    {
     "start": "20:00",
