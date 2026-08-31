@@ -2,7 +2,7 @@
  "company": "GM",
  "channel": "glive",
  "month": "2026-09",
- "updated_at": "2026-08-31T09:02:47+09:00",
+ "updated_at": "2026-08-31T10:02:54+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -13,7 +13,8 @@
     "price": 45000,
     "link": "https://m.gmarket.co.kr/vi/product/2488689945",
     "slot_id": "254016",
-    "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻2"
+    "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻2",
+    "category": "스포츠·아웃도어"
    },
    {
     "start": "10:00",
@@ -23,7 +24,8 @@
     "price": 1369000,
     "link": "https://m.gmarket.co.kr/vi/product/4373331717",
     "slot_id": "252078",
-    "pgm": "한가위빅세일🎉  삼성 가전 특집"
+    "pgm": "한가위빅세일🎉  삼성 가전 특집",
+    "category": "가전"
    },
    {
     "start": "10:00",
@@ -33,7 +35,8 @@
     "price": 24130,
     "link": "https://m.gmarket.co.kr/vi/product/2440886089",
     "slot_id": "254023",
-    "pgm": "김정문알로에"
+    "pgm": "김정문알로에",
+    "category": "뷰티"
    },
    {
     "start": "11:00",
@@ -43,7 +46,8 @@
     "price": 349000,
     "link": "https://m.gmarket.co.kr/vi/product/2135968487",
     "slot_id": "252079",
-    "pgm": "🌕 한가위 빅세일 X 필립스"
+    "pgm": "🌕 한가위 빅세일 X 필립스",
+    "category": "가전"
    },
    {
     "start": "11:00",
@@ -53,7 +57,8 @@
     "price": 587970,
     "link": "https://m.gmarket.co.kr/vi/product/4820889553",
     "slot_id": "252080",
-    "pgm": "한가위빅세일엔 역시 쿠쿠! 밥솥부터 음처기까지"
+    "pgm": "한가위빅세일엔 역시 쿠쿠! 밥솥부터 음처기까지",
+    "category": "가전"
    },
    {
     "start": "11:00",
@@ -63,7 +68,8 @@
     "price": 400000,
     "link": "https://m.gmarket.co.kr/vi/product/4689794124",
     "slot_id": "252081",
-    "pgm": "풀무원 스팀쿡 에어프라이어 한가위 빅세일"
+    "pgm": "풀무원 스팀쿡 에어프라이어 한가위 빅세일",
+    "category": "가전"
    },
    {
     "start": "12:00",
@@ -73,7 +79,8 @@
     "price": 890000,
     "link": "https://m.gmarket.co.kr/vi/product/3937925279",
     "slot_id": "252076",
-    "pgm": "추석 LG가전 첫 라이브❤️ 역대급 추석 혜택 와르르"
+    "pgm": "추석 LG가전 첫 라이브❤️ 역대급 추석 혜택 와르르",
+    "category": "가전"
    },
    {
     "start": "13:00",
@@ -83,7 +90,8 @@
     "price": 33900,
     "link": "https://m.gmarket.co.kr/vi/product/4798232078",
     "slot_id": "254056",
-    "pgm": "시원하고 깔끔한 맛! 전라도식 국내산 포기김치"
+    "pgm": "시원하고 깔끔한 맛! 전라도식 국내산 포기김치",
+    "category": "식품·건강"
    },
    {
     "start": "13:00",
@@ -93,7 +101,8 @@
     "price": 19900,
     "link": "https://m.gmarket.co.kr/vi/product/4833857200",
     "slot_id": "254057",
-    "pgm": "피부에 쉬는 시간을 선물하는 고농축 세럼"
+    "pgm": "피부에 쉬는 시간을 선물하는 고농축 세럼",
+    "category": "뷰티"
    },
    {
     "start": "14:00",
@@ -103,7 +112,30 @@
     "price": 20290,
     "link": "https://m.gmarket.co.kr/vi/product/3383368133",
     "slot_id": "254020",
-    "pgm": "국민 물티슈 베베앙 🤍 8,980원부터 골라담기!"
+    "pgm": "국민 물티슈 베베앙 🤍 8,980원부터 골라담기!",
+    "category": "유아동"
+   },
+   {
+    "start": "15:00",
+    "end": "16:00",
+    "brand": "먼스앤데이즈",
+    "product": "(500ml 바디워시 2개) 먼스앤데이즈 퍼퓸케어 바디워시 500ml 5종 택 1  (총 1L)",
+    "price": 24900,
+    "link": "https://m.gmarket.co.kr/vi/product/4180516445",
+    "slot_id": "254061",
+    "pgm": "시간이 지나도 변함없이 머무르는 먼스앤데이즈의 향기",
+    "category": "뷰티"
+   },
+   {
+    "start": "15:00",
+    "end": "16:00",
+    "brand": "빅히트패션",
+    "product": "1+1 빅히트 패션 남여공용 냉감 아이스 오버핏 얼음 반팔 라운드 티셔츠",
+    "price": 31280,
+    "link": "https://m.gmarket.co.kr/vi/product/4450541913",
+    "slot_id": "254062",
+    "pgm": "아직 끝나지 않은 늦더위! 냉감 반팔티 1+1",
+    "category": "여성패션"
    },
    {
     "start": "16:00",
@@ -113,7 +145,8 @@
     "price": 23900,
     "link": "https://m.gmarket.co.kr/vi/product/4806237811",
     "slot_id": "254058",
-    "pgm": "금쪽부부 PICK! 굿핏 지압 스텝퍼"
+    "pgm": "금쪽부부 PICK! 굿핏 지압 스텝퍼",
+    "category": "스포츠·아웃도어"
    },
    {
     "start": "17:00",
@@ -123,7 +156,30 @@
     "price": 11900,
     "link": "https://m.gmarket.co.kr/vi/product/4537801914",
     "slot_id": "254059",
-    "pgm": "러닝 마라톤 테니스 등산 작업까지 해결!"
+    "pgm": "러닝 마라톤 테니스 등산 작업까지 해결!",
+    "category": "스포츠·아웃도어"
+   },
+   {
+    "start": "17:00",
+    "end": "18:03",
+    "brand": "드레이브",
+    "product": "(NEW 브랜드 10%쿠폰) DRAEV 남자 국내제작 천연소가죽 5cm 키높이 미끄럼방지 쿠션 발편한 투벨트 샌들",
+    "price": 54450,
+    "link": "https://m.gmarket.co.kr/vi/product/4780890069",
+    "slot_id": "254063",
+    "pgm": "장인의 손길로 완성되는 DRAEV",
+    "category": "뷰티"
+   },
+   {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "쿨티아",
+    "product": "쿨티아 프로폴리스 토탈케어 가글 500ml 1개",
+    "price": 9900,
+    "link": "https://m.gmarket.co.kr/vi/product/4628131650",
+    "slot_id": "254064",
+    "pgm": "입냄새 30초면 끝! 프로폴리스 가글 쿨티아 특가",
+    "category": "주방·잡화"
    },
    {
     "start": "18:00",
@@ -133,7 +189,8 @@
     "price": 15700,
     "link": "https://m.gmarket.co.kr/vi/product/4775604377",
     "slot_id": "254060",
-    "pgm": "편리하게 먹을 수 있는 간편한 김치!"
+    "pgm": "편리하게 먹을 수 있는 간편한 김치!",
+    "category": "식품·건강"
    },
    {
     "start": "19:00",
@@ -143,7 +200,8 @@
     "price": 3300000,
     "link": "https://m.gmarket.co.kr/vi/product/4603726742",
     "slot_id": "252092",
-    "pgm": "⚡긴급! 바디프랜드 스마일캐시 20만원 추가적립"
+    "pgm": "⚡긴급! 바디프랜드 스마일캐시 20만원 추가적립",
+    "category": "가전"
    },
    {
     "start": "19:00",
@@ -153,7 +211,8 @@
     "price": 374000,
     "link": "https://m.gmarket.co.kr/vi/product/4326592699",
     "slot_id": "254017",
-    "pgm": "스타배송으로 빠르게! LG모니터 연합전 🖥️"
+    "pgm": "스타배송으로 빠르게! LG모니터 연합전 🖥️",
+    "category": "디지털·PC"
    },
    {
     "start": "20:00",
@@ -163,17 +222,19 @@
     "price": 1640000,
     "link": "https://m.gmarket.co.kr/vi/product/4680717087",
     "slot_id": "252085",
-    "pgm": "한가위 빅세일🌕 로보락 S10 MaxV Ultra"
+    "pgm": "한가위 빅세일🌕 로보락 S10 MaxV Ultra",
+    "category": "가전"
    },
    {
     "start": "20:00",
     "end": "21:00",
     "brand": "삼성",
-    "product": "갤럭시 S26 자급제 256GB",
-    "price": 1240800,
+    "product": "갤럭시 S26 자급제 256GB ㅣ체감114만원(꼭맴버십)ㅣ무이자카드할인",
+    "price": 1245800,
     "link": "https://m.gmarket.co.kr/vi/product/4674925720",
     "slot_id": "254024",
-    "pgm": "한가위 빅세일🎉 삼성 갤럭시 총집합! 스마일캐시 적립"
+    "pgm": "한가위 빅세일🎉 삼성 갤럭시 총집합! 스마일캐시 적립",
+    "category": "디지털·PC"
    },
    {
     "start": "21:00",
@@ -183,7 +244,8 @@
     "price": 399000,
     "link": "https://m.gmarket.co.kr/vi/product/4355529087",
     "slot_id": "252071",
-    "pgm": "[설빅세일] LG그램&모니터 한가위 인기라인!"
+    "pgm": "[설빅세일] LG그램&모니터 한가위 인기라인!",
+    "category": "디지털·PC"
    },
    {
     "start": "21:00",
@@ -193,7 +255,8 @@
     "price": 3499000,
     "link": "https://m.gmarket.co.kr/vi/product/4261463575",
     "slot_id": "252072",
-    "pgm": "삼성 갤럭시북"
+    "pgm": "삼성 갤럭시북",
+    "category": "디지털·PC"
    },
    {
     "start": "21:00",
@@ -203,7 +266,8 @@
     "price": 73920,
     "link": "https://m.gmarket.co.kr/vi/product/1577510972",
     "slot_id": "254011",
-    "pgm": "종근당건강×한가위빅세일! 얼리버드 추석 역대급 혜택✨"
+    "pgm": "종근당건강×한가위빅세일! 얼리버드 추석 역대급 혜택✨",
+    "category": "식품·건강"
    },
    {
     "start": "21:00",
@@ -213,7 +277,8 @@
     "price": 64800,
     "link": "https://m.gmarket.co.kr/vi/product/4777384598",
     "slot_id": "254012",
-    "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻3"
+    "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻3",
+    "category": "식품·건강"
    },
    {
     "start": "22:00",
@@ -223,7 +288,8 @@
     "price": 1466300,
     "link": "https://m.gmarket.co.kr/vi/product/4812117383",
     "slot_id": "254013",
-    "pgm": "인텔"
+    "pgm": "한가위 빅세일🌝 인텔 연합전",
+    "category": "디지털·PC"
    }
   ],
   "2026-09-02": [
@@ -245,7 +311,8 @@
     "price": 0,
     "link": "https://player.sauceflex.com/broadcast/lkebay-6ce4e6beb49949dab2ef6c7e7a6e9882",
     "slot_id": "252097",
-    "pgm": "[뷰-파인더] 아벤느"
+    "pgm": "[뷰-파인더] 아벤느",
+    "category": "뷰티"
    },
    {
     "start": "10:00",
@@ -255,7 +322,8 @@
     "price": 0,
     "link": "https://player.sauceflex.com/broadcast/lkebay-4dec63a8dd78419b80a3a5bfcbfcba22",
     "slot_id": "254027",
-    "pgm": "🌕 한가위 빅세일 X 유한킴벌리"
+    "pgm": "🌕 한가위 빅세일 X 유한킴벌리",
+    "category": "주방·잡화"
    },
    {
     "start": "11:00",
@@ -265,7 +333,8 @@
     "price": 0,
     "link": "https://player.sauceflex.com/broadcast/lkebay-0376967bd72b438b918bb6afb77a3f18",
     "slot_id": "254054",
-    "pgm": "드리미"
+    "pgm": "드리미",
+    "category": "가전"
    },
    {
     "start": "12:00",
@@ -275,7 +344,8 @@
     "price": 99000,
     "link": "https://m.gmarket.co.kr/vi/product/4814168781",
     "slot_id": "252087",
-    "pgm": "스케쳐스 FW 인기 슈즈 지마켓 단독 온라인 최저가⭐"
+    "pgm": "스케쳐스 FW 인기 슈즈 지마켓 단독 온라인 최저가⭐",
+    "category": "잡화·슈즈"
    },
    {
     "start": "12:00",
@@ -285,7 +355,8 @@
     "price": 197380,
     "link": "https://m.gmarket.co.kr/vi/product/4573293941",
     "slot_id": "254014",
-    "pgm": "새로워진 리딩게이트와✏️2학기 영어학습 완벽대비🫧"
+    "pgm": "새로워진 리딩게이트와✏️2학기 영어학습 완벽대비🫧",
+    "category": "유아동"
    },
    {
     "start": "20:00",
@@ -295,7 +366,8 @@
     "price": 590000,
     "link": "https://m.gmarket.co.kr/vi/product/4822243340",
     "slot_id": "254018",
-    "pgm": "한가위 빅세일🎉 로보락 Qrevo L Pro 명절특가"
+    "pgm": "한가위 빅세일🎉 로보락 Qrevo L Pro 명절특가",
+    "category": "가전"
    },
    {
     "start": "20:00",
@@ -305,7 +377,8 @@
     "price": 0,
     "link": "https://player.sauceflex.com/broadcast/lkebay-1f8bce687b0e4e589100fd7453eaa73c",
     "slot_id": "254019",
-    "pgm": "[설빅세일] MSI 노트북&PC &모니터 특가라인업!"
+    "pgm": "[설빅세일] MSI 노트북&PC &모니터 특가라인업!",
+    "category": "디지털·PC"
    },
    {
     "start": "21:00",
@@ -315,7 +388,8 @@
     "price": 1689000,
     "link": "https://m.gmarket.co.kr/vi/product/3401549975",
     "slot_id": "252082",
-    "pgm": "삼성 가전 다품목 한가위빅세일 특가 🎁"
+    "pgm": "삼성 가전 다품목 한가위빅세일 특가 🎁",
+    "category": "디지털·PC"
    },
    {
     "start": "21:00",
@@ -325,7 +399,8 @@
     "price": 263180,
     "link": "https://m.gmarket.co.kr/vi/product/4758384927",
     "slot_id": "252083",
-    "pgm": "한가위빅세일 다이슨 첫 라이브! 확실히 꺽인 가격!"
+    "pgm": "한가위빅세일 다이슨 첫 라이브! 확실히 꺽인 가격!",
+    "category": "가전"
    },
    {
     "start": "21:00",
@@ -345,7 +420,8 @@
     "price": 589000,
     "link": "https://m.gmarket.co.kr/vi/product/4787100530",
     "slot_id": "252088",
-    "pgm": "팬스타크루즈 투나잇 PKG #온천#쇼핑#먹방#승선권"
+    "pgm": "팬스타크루즈 투나잇 PKG #온천#쇼핑#먹방#승선권",
+    "category": "서비스·렌탈"
    },
    {
     "start": "22:00",
@@ -355,7 +431,8 @@
     "price": 599000,
     "link": "https://m.gmarket.co.kr/vi/product/4441064335",
     "slot_id": "252104",
-    "pgm": "삼성 모니터"
+    "pgm": "삼성 모니터",
+    "category": "디지털·PC"
    }
   ],
   "2026-09-03": [
@@ -377,7 +454,8 @@
     "price": 0,
     "link": "https://player.sauceflex.com/broadcast/lkebay-082c31d6cb0644478a037266fc7ffc6b",
     "slot_id": "252090",
-    "pgm": "센텔리안"
+    "pgm": "센텔리안",
+    "category": "뷰티"
    },
    {
     "start": "12:00",
@@ -387,7 +465,8 @@
     "price": 0,
     "link": "https://player.sauceflex.com/broadcast/lkebay-54cdb7d656f34fedb42a029b62395d65",
     "slot_id": "252091",
-    "pgm": "리얼메디"
+    "pgm": "리얼메디",
+    "category": "식품·건강"
    },
    {
     "start": "14:00",
@@ -397,7 +476,8 @@
     "price": 23900,
     "link": "https://m.gmarket.co.kr/vi/product/1917673345",
     "slot_id": "252106",
-    "pgm": "G라이브 X 하이베러"
+    "pgm": "G라이브 X 하이베러",
+    "category": "주방·잡화"
    },
    {
     "start": "19:00",
@@ -407,7 +487,8 @@
     "price": 890000,
     "link": "https://m.gmarket.co.kr/vi/product/3937925279",
     "slot_id": "252098",
-    "pgm": "9/3 LG가전"
+    "pgm": "9/3 LG가전",
+    "category": "가전"
    },
    {
     "start": "20:00",
@@ -417,7 +498,8 @@
     "price": 549000,
     "link": "https://m.gmarket.co.kr/vi/product/4724040580",
     "slot_id": "252084",
-    "pgm": "모바"
+    "pgm": "모바",
+    "category": "가전"
    },
    {
     "start": "20:00",
@@ -427,7 +509,8 @@
     "price": 0,
     "link": "https://player.sauceflex.com/broadcast/lkebay-c44216cd2663491a8cdb5a285c705d4b",
     "slot_id": "252110",
-    "pgm": "쿠쿠데이 얼리버드 혜택✨ 쿠쿠렌탈 정수기!"
+    "pgm": "쿠쿠데이 얼리버드 혜택✨ 쿠쿠렌탈 정수기!",
+    "category": "서비스·렌탈"
    },
    {
     "start": "21:00",
@@ -437,7 +520,8 @@
     "price": 0,
     "link": "https://player.sauceflex.com/broadcast/lkebay-f7989d2dd97d4e99aa0e9a17b299ce97",
     "slot_id": "252093",
-    "pgm": "하나투어"
+    "pgm": "하나투어",
+    "category": "서비스·렌탈"
    },
    {
     "start": "21:00",
@@ -447,7 +531,8 @@
     "price": 0,
     "link": "https://player.sauceflex.com/broadcast/lkebay-9b8fc209c3e04ea2aa93f5c4ed94e950",
     "slot_id": "254025",
-    "pgm": "한가위빅세일x헨켈 인기템 총집합🛒"
+    "pgm": "한가위빅세일x헨켈 인기템 총집합🛒",
+    "category": "주방·잡화"
    },
    {
     "start": "22:00",
@@ -457,7 +542,8 @@
     "price": 0,
     "link": "https://player.sauceflex.com/broadcast/lkebay-fd4e79e266b64276a2be27df7ba8fa71",
     "slot_id": "252094",
-    "pgm": "신제품 출시 브라운 NEVO 특별 혜택 라이브!"
+    "pgm": "신제품 출시 브라운 NEVO 특별 혜택 라이브!",
+    "category": "가전"
    },
    {
     "start": "22:00",
@@ -467,7 +553,8 @@
     "price": 0,
     "link": "https://player.sauceflex.com/broadcast/lkebay-d5f931d9d7734f5d9bf751a6e796319d",
     "slot_id": "252095",
-    "pgm": "마이크로소프트"
+    "pgm": "마이크로소프트",
+    "category": "디지털·PC"
    }
   ],
   "2026-09-04": [
@@ -479,7 +566,8 @@
     "price": 244140,
     "link": "https://m.gmarket.co.kr/vi/product/3308099823",
     "slot_id": "252109",
-    "pgm": "쿠첸"
+    "pgm": "쿠첸",
+    "category": "가전"
    },
    {
     "start": "11:00",
@@ -489,7 +577,8 @@
     "price": 0,
     "link": "https://player.sauceflex.com/broadcast/lkebay-48e4abdbda67449583ed3f41486a0245",
     "slot_id": "254050",
-    "pgm": "한가위🌕로보락 S10 MaxV Ultra로 효도 완성"
+    "pgm": "한가위🌕로보락 S10 MaxV Ultra로 효도 완성",
+    "category": "가전"
    },
    {
     "start": "20:00",
@@ -499,7 +588,8 @@
     "price": 0,
     "link": "https://player.sauceflex.com/broadcast/lkebay-b2db4608cecf4cacb85b21e0b2cc7367",
     "slot_id": "252105",
-    "pgm": "엔비디아"
+    "pgm": "엔비디아",
+    "category": "디지털·PC"
    },
    {
     "start": "21:00",
@@ -519,7 +609,8 @@
     "price": 0,
     "link": "https://player.sauceflex.com/broadcast/lkebay-8e329e74ca2f44668cb7c1db769dd193",
     "slot_id": "254051",
-    "pgm": "한가위빅세일🎉  AMD"
+    "pgm": "한가위빅세일🎉  AMD",
+    "category": "디지털·PC"
    },
    {
     "start": "22:00",
@@ -529,7 +620,8 @@
     "price": 0,
     "link": "https://player.sauceflex.com/broadcast/lkebay-65596c9b4b944c57b2f5c494daac074b",
     "slot_id": "252108",
-    "pgm": "삼양 초특가 LIVE 🧡"
+    "pgm": "삼양 초특가 LIVE 🧡",
+    "category": "식품·건강"
    }
   ]
  }

@@ -5,6 +5,17 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="color-scheme" content="light">
 <title>라이브커머스 편성표</title>
+
+<!-- 본문 폰트. 예전에는 font-family 첫머리에 Pretendard 를 적어두고 정작
+     불러오는 코드가 없어서, 늘 다음 순서인 맑은 고딕으로 떨어지고 있었다.
+     맑은 고딕은 같은 문자열이 10% 가까이 넓어(실측 247px vs 225px) 칸이 좁은
+     이 표에서 상품명이 더 일찍 잘린다.
+     display=swap 이라 폰트를 받는 동안에도 글자가 안 보이지 않고, 인터넷이
+     끊기면 아래 대비 폰트로 그냥 넘어간다. -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700&display=swap">
+
 <style>
   /* 라이트 전용. 다크모드 대응은 의도적으로 두지 않는다 (hdhs 뷰어와 맞춤). */
   :root {
@@ -26,9 +37,16 @@
     --cj-bg:     #F6F3FA;
     --ka:        #8A6D00;
     --ka-bg:     #FBF7E8;
-    /* 브랜드명 전용. 채널색(빨강·보라·올리브) 어느 것과도 안 겹쳐야, 같은 슬롯
-       안에서 시간(채널색)과 브랜드가 서로 다른 정보라는 게 색으로 드러난다.
-       어느 채널이든 브랜드는 이 색이라 세로로 훑을 때 브랜드만 따로 읽힌다. */
+    /* G마켓 로고색은 #01A900 인데 흰 글씨 대비가 3.15:1 밖에 안 나온다.
+       색상각(120°)과 채도(100%)를 그대로 두고 밝기만 낮춰 5.20:1 로 맞췄다.
+       카카오도 같은 이유로 브랜드 노랑 대신 어두운 올리브를 쓴다. */
+    --gm:        #017F00;
+    --gm-bg:     #F1F8F1;
+    /* 브랜드명 전용. 채널색(빨강·보라·올리브·초록) 어느 것과도 안 겹쳐야, 같은
+       슬롯 안에서 시간(채널색)과 브랜드가 서로 다른 정보라는 게 색으로 드러난다.
+       어느 채널이든 브랜드는 이 색이라 세로로 훑을 때 브랜드만 따로 읽힌다.
+       청록(180°)이라 G마켓 초록(120°)과 60° 떨어져 있다 - 채널색이 놓인
+       빨강(350°)·올리브(47°)·초록(120°)·보라(272°) 사이에서 가장 넓은 틈이다. */
     --brand:     #0F6E6E;
     --now:       #E8590C;
     --live-bg:   #FFF7EF;
@@ -40,7 +58,9 @@
     margin: 0;
     background: var(--paper);
     color: var(--ink);
-    font-family: Pretendard, "Malgun Gothic", -apple-system, system-ui, sans-serif;
+    /* 위에서 웹폰트로 받아온다. 못 받으면(오프라인 등) 설치된 같은 폰트 ->
+       맑은 고딕 순으로 넘어간다. */
+    font-family: "Noto Sans KR", "Malgun Gothic", -apple-system, system-ui, sans-serif;
     font-size: 14px;
     line-height: 1.5;
     -webkit-font-smoothing: antialiased;
@@ -198,6 +218,7 @@
   .pill.hd { background: var(--hd); }
   .pill.cj { background: var(--cj); }
   .pill.ka { background: var(--ka); }
+  .pill.gm { background: var(--gm); }
   .head .cnt { font-size: 11.5px; color: var(--muted); font-variant-numeric: tabular-nums; }
 
   .row { border-top: 1px solid var(--line-soft); min-height: 44px; position: relative; }
@@ -223,6 +244,7 @@
   .cell-hd .slot { background: var(--hd-bg); border-left-color: var(--hd); }
   .cell-cj .slot { background: var(--cj-bg); border-left-color: var(--cj); }
   .cell-ka .slot { background: var(--ka-bg); border-left-color: var(--ka); }
+  .cell-gm .slot { background: var(--gm-bg); border-left-color: var(--gm); }
   .slot:hover { filter: brightness(.975); }
 
   .slot .t {
@@ -233,17 +255,32 @@
   .cell-hd .slot .t .rng { color: var(--hd); }
   .cell-cj .slot .t .rng { color: var(--cj); }
   .cell-ka .slot .t .rng { color: var(--ka); }
+  .cell-gm .slot .t .rng { color: var(--gm); }
   .slot .t .dur { color: var(--muted); }
 
-  /* 줄마다 크기를 다르게 줘서 방송명 -> 제목 -> 브랜드·상품 순으로 눈이 흐르게 한다.
-     같은 크기로 쌓으면 어디를 먼저 볼지 정할 수 없어 읽기가 느려진다.
+  /* 세 줄(방송명 -> 소구 문구 -> 브랜드·상품)의 읽는 순서는 크기가 아니라
+     굵기와 색으로 매긴다. 크기까지 키우면 좁은 칸에서 방송명만 튀어 부담스럽다.
      채널 구분은 배경 틴트·좌측 막대·시간 색이 맡고, 방송명은 대비를 위해 먹색으로 둔다. */
+  /* 방송명도 한 줄로 묶는다. 두 줄이 되면 그 슬롯만 높아져 같은 시간대인데
+     옆 채널과 높이가 안 맞는다(.ttl/.meta 와 같은 이유다). 다만 여기는 바로
+     말줄임하지 않고 fitPgm() 이 글자를 줄여 넣어본 뒤, 그래도 넘칠 때만
+     말줄임이 걸린다 - 방송명은 잘리면 무엇인지 알 수 없기 때문이다. */
   .slot .pgm {
-    font-weight: 700; font-size: 14px; letter-spacing: -.02em;
-    color: var(--ink); line-height: 1.35; margin-bottom: 2px;
-    overflow-wrap: anywhere;
+    /* 아래 브랜드·상품 줄(.meta)과 같은 12px 다. 예전에는 14px 로 키워
+       크기로 순서를 매겼는데 칸이 좁아 방송명만 도드라져 부담스러웠다.
+       크기는 맞추고 굵기(700)와 먹색으로만 앞세운다 - .meta 는 400/회색,
+       .ttl 은 400/중간색이라 크기가 같아도 읽는 순서는 유지된다. */
+    font-weight: 700; font-size: 12px; letter-spacing: -.02em;
+    color: var(--ink); margin-bottom: 2px;
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+    /* 줄 높이를 em 이 아니라 px 로 못박는다. em 이면 fitPgm 이 글자를 줄일 때
+       줄 높이까지 같이 줄어서, 한 줄로 맞춰도 그 슬롯만 낮아진다(실측 72px
+       vs 76px). 어차피 nowrap 이라 항상 한 줄이므로 높이는 고정이어야 한다.
+       .ttl 과 같은 17px 로 둬 세 줄의 줄 간격을 고르게 맞춘다. */
+    line-height: 17px; min-height: 17px;
   }
-  .slot .pgm .re { font-weight: 500; font-size: 12.5px; color: var(--muted); }
+  /* em 으로 둬야 fitPgm 이 부모를 줄일 때 같이 줄어든다. px 면 혼자 남는다. */
+  .slot .pgm .re { font-weight: 500; font-size: .89em; color: var(--muted); }
   /* 방송명을 못 받은 슬롯. 브랜드가 방송명처럼 읽히지 않게 자리는 지키되 죽인다 */
   .slot .pgm.unknown {
     font-weight: 500; font-size: 12px; font-style: italic;
@@ -258,7 +295,10 @@
     display: block;
     font-size: 12.5px; color: var(--ink-soft); letter-spacing: -.01em; margin-bottom: 2px;
     overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
-    min-height: 1.25em;   /* 문구가 없어도 줄 자리는 지킨다 */
+    /* 문구가 없어도 줄 자리는 지킨다. 1.25em 으로 두면 빈 줄이 글자 있는 줄보다
+       3px 낮아서, 문구가 드문드문 오는 채널만 슬롯이 낮아진다(G마켓은 쿠폰이
+       있을 때만 온다 - 실측 94px vs 97px). 픽셀로 못박아 둘을 같게 만든다. */
+    line-height: 17px; min-height: 17px;
   }
 
   /* 브랜드·상품과 가격을 한 줄에 둔다. 상품명이 길면 왼쪽만 줄고 가격은 안 잘린다. */
@@ -282,16 +322,23 @@
     background: transparent; color: var(--muted); font-weight: 500;
     border: 1px solid var(--line); padding: 0 4px;
   }
-  .slot.live { background: var(--live-bg) !important; border-left-color: var(--now) !important; }
-  .slot.live::after {
-    content: ""; position: absolute; inset: 0; pointer-events: none;
-    box-shadow: inset 0 0 0 1px var(--now);
+  /* 방송중 표시.
+     예전에는 카드 안쪽에 1px 주황 테두리를 한 바퀴 둘렀는데, 그 선이 위아래
+     슬롯 구분선 바로 옆에 붙어 선이 두 줄로 겹쳐 보였다. 특히 두 시간짜리
+     편성처럼 카드가 클수록 눈에 띄었다.
+     선을 지우고, 이 표가 채널을 알리는 방식(배경 틴트·좌측 막대·시간 색)을
+     그대로 빌려 쓴다. 방식이 같으니 새로 배울 것이 없고 선도 늘지 않는다.
+     여기에 '방송중' 배지까지 넷이 같은 주황으로 묶여 충분히 도드라진다. */
+  .slot.live {
+    background: var(--live-bg) !important;
+    border-left-color: var(--now) !important;
   }
+  .slot.live .t .rng { color: var(--now); font-weight: 700; }
 
   /* ---------- 현재 시각 ----------
      표를 가로지르는 줄은 슬롯 글자를 덮어서 쓰지 않는다. 시간 칸 안에서만
-     점과 배지로 알린다. 지금 나가는 방송은 '방송중' 배지와 주황 테두리가
-     따로 말하고 있으므로 줄이 없어도 잃는 정보가 없다. */
+     점과 배지로 알린다. 지금 나가는 방송은 '방송중' 배지와 주황 배경·막대·
+     시간이 따로 말하고 있으므로 줄이 없어도 잃는 정보가 없다. */
   .row.now .hour { background: var(--live-bg); color: var(--now); font-weight: 700; }
   .row.now .hour::before {
     content: ""; position: absolute; left: 6px; top: 11px;
@@ -379,9 +426,10 @@
     .cell-hd::before { background: var(--hd); }
     .cell-cj::before { background: var(--cj); }
     .cell-ka::before { background: var(--ka); }
+    .cell-gm::before { background: var(--gm); }
 
     .slot { padding: 8px 12px 10px; }
-    .slot .pgm { font-size: 15px; }
+    .slot .pgm { font-size: 12.5px; line-height: 18px; min-height: 18px; }
     .slot .ttl { font-size: 13px; }
     .slot .meta { font-size: 12.5px; flex-wrap: wrap; }
     .slot .meta .left { flex: 1 1 100%; white-space: normal; }
@@ -860,6 +908,85 @@
 
     document.getElementById("meta").textContent =
       "생성 " + (S.generated_at || "").replace("T", " ").slice(0, 16);
+
+    fitPgm();
+  }
+
+  // 방송명이 칸보다 길면 글자를 줄여 한 줄에 넣는다.
+  //
+  // CSS 만으로는 자동 축소가 안 돼서 그린 뒤 재본다. 말줄임으로 끝내지 않는
+  // 이유는 방송명이 잘리면 그 방송이 무엇인지 알 수 없기 때문이다 - 소구
+  // 문구나 상품명과 달리 대체할 정보가 없다.
+  //
+  // PGM_MIN_PX 아래로는 줄이지 않는다. 그보다 작아지면 읽으려고 눈을 붙여야
+  // 해서 한 줄로 맞춘 보람이 없다. 거기까지 줄여도 넘치면 CSS 말줄임이 받는다.
+  var PGM_MIN_PX = 10.5;
+
+  function fitPgm() {
+    var els = document.querySelectorAll(".board .slot .pgm");
+    if (!els.length) return;
+
+    // 읽기와 쓰기를 섞으면 슬롯마다 레이아웃을 다시 잡느라 느려진다.
+    // 지우기 -> 한 번에 재기 -> 넘치는 것만 고치기 순으로 나눈다.
+    var i, el;
+    for (i = 0; i < els.length; i++) els[i].style.fontSize = "";
+
+    var jobs = [];
+    for (i = 0; i < els.length; i++) {
+      el = els[i];
+      var cw = el.clientWidth;
+      if (cw < 20) continue;                    // 아직 레이아웃이 안 잡힌 칸
+      if (el.scrollWidth <= cw) continue;       // 이미 한 줄에 들어간다
+      jobs.push({ el: el, cw: cw, sw: el.scrollWidth,
+                  base: parseFloat(getComputedStyle(el).fontSize) || 14 });
+    }
+
+    for (i = 0; i < jobs.length; i++) {
+      var t = jobs[i];
+      // 글자 폭은 크기에 거의 비례하므로 한 번에 근사치를 잡는다.
+      // 0.25px 단위로 끊어 같은 길이의 방송명끼리 크기가 들쭉날쭉하지 않게 한다.
+      var size = Math.max(PGM_MIN_PX,
+                          Math.min(t.base, Math.floor(t.base * t.cw / t.sw * 4) / 4));
+      t.el.style.fontSize = size + "px";
+
+      // 근사치는 빗나간다 - 특히 웹폰트가 아직 안 왔을 때 잰 폭으로 잡으면
+      // 대비 폰트(맑은 고딕)가 10% 넓어서 필요 이상으로 작아진다.
+      // 그래서 한 방향으로만 가지 않고, 들어가면 키우고 넘치면 줄여
+      // **실제로 들어가는 가장 큰 크기**를 찾는다.
+      var k = 0;
+      if (t.el.scrollWidth <= t.el.clientWidth) {
+        while (k++ < 12 && size + 0.25 <= t.base) {
+          t.el.style.fontSize = (size + 0.25) + "px";
+          if (t.el.scrollWidth > t.el.clientWidth) {
+            t.el.style.fontSize = size + "px";     // 한 단계 되돌린다
+            break;
+          }
+          size += 0.25;
+        }
+      } else {
+        while (k++ < 12 && size > PGM_MIN_PX) {
+          size = Math.max(PGM_MIN_PX, size - 0.25);
+          t.el.style.fontSize = size + "px";
+          if (t.el.scrollWidth <= t.el.clientWidth) break;
+        }
+      }
+
+      // 원래 크기 그대로 들어가면 인라인 값을 지워 CSS 에 다시 맡긴다.
+      if (size >= t.base) t.el.style.fontSize = "";
+    }
+  }
+
+  // 창 폭이 바뀌면 칸 너비가 달라져 다시 맞춰야 한다.
+  var fitTimer = null;
+  window.addEventListener("resize", function () {
+    clearTimeout(fitTimer);
+    fitTimer = setTimeout(fitPgm, 120);
+  });
+
+  // 웹폰트가 늦게 도착하면 글자 폭이 바뀐다. 첫 계산은 대비 폰트로 잰
+  // 값이라 빗나가므로, 폰트가 준비되면 한 번 더 맞춘다.
+  if (document.fonts && document.fonts.ready) {
+    document.fonts.ready.then(function () { fitPgm(); });
   }
 
   function step(delta) {

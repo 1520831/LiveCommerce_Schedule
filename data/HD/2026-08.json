@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-08",
- "updated_at": "2026-08-31T09:20:24+09:00",
+ "updated_at": "2026-08-31T11:43:18+09:00",
  "days": {
   "2026-08-26": [
    {
@@ -1816,14 +1816,14 @@
     "start": "19:00",
     "end": "19:59",
     "brand": "고비",
-    "product": "[30분부터세일] 25SS 고비(GOBI) 실크 캐시미어 판초 가디건",
+    "product": "25SS 고비(GOBI) 실크 캐시미어 판초 가디건",
     "price": 259000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2225729705",
     "slot_id": "202608306008",
     "items": [
      {
       "brand": "고비",
-      "product": "[30분부터세일] 25SS 고비(GOBI) 실크 캐시미어 판초 가디건",
+      "product": "25SS 고비(GOBI) 실크 캐시미어 판초 가디건",
       "price": 259000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2225729705"
      }
@@ -1854,14 +1854,14 @@
     "start": "20:00",
     "end": "20:59",
     "brand": "다이슨",
-    "product": "[2026 NEW] 다이슨 슈퍼소닉 트래블 헤어드라이어 [세라믹 핑크]+ 유니버셜 스탠드",
+    "product": "슈퍼소닉 트래블 헤어드라이어 [세라믹 핑크] + 유니버셜 스탠드 +플라이어웨이 스무더 노즐",
     "price": 399000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250038935",
     "slot_id": "202608306024",
     "items": [
      {
       "brand": "다이슨",
-      "product": "[2026 NEW] 다이슨 슈퍼소닉 트래블 헤어드라이어 [세라믹 핑크]+ 유니버셜 스탠드",
+      "product": "슈퍼소닉 트래블 헤어드라이어 [세라믹 핑크] + 유니버셜 스탠드 +플라이어웨이 스무더 노즐",
       "price": 399000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250038935"
      }
@@ -2027,11 +2027,17 @@
     "start": "11:00",
     "end": "11:59",
     "brand": "에클랏",
-    "product": "18K 벨리시모(Bellissimo) 네크리스",
-    "price": 899000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252750197",
+    "product": "18K 벨리시모(Bellissimo) 브레이슬릿",
+    "price": 499000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252750201",
     "slot_id": "202608316007",
     "items": [
+     {
+      "brand": "에클랏",
+      "product": "18K 벨리시모(Bellissimo) 브레이슬릿",
+      "price": 499000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252750201"
+     },
      {
       "brand": "에클랏",
       "product": "18K 벨리시모(Bellissimo) 네크리스",
@@ -2046,16 +2052,16 @@
     "start": "12:00",
     "end": "12:59",
     "brand": "헤스티아",
-    "product": "우드 돈모 헤어 브러쉬 대형",
-    "price": 29800,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253054656",
+    "product": "18KGP 황금브러쉬 대형+소형 세트(미니 브러쉬 2개 증정)",
+    "price": 69000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253061675",
     "slot_id": "202608316017",
     "items": [
      {
       "brand": "헤스티아",
-      "product": "우드 돈모 헤어 브러쉬 대형",
-      "price": 29800,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253054656"
+      "product": "18KGP 황금브러쉬 대형+소형 세트(미니 브러쉬 2개 증정)",
+      "price": 69000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253061675"
      }
     ],
     "title": "[여배우 추천] 헤스티아 프리미엄 18K 도금 브러쉬",
@@ -2084,16 +2090,16 @@
     "start": "14:00",
     "end": "14:59",
     "brand": "샐러디 앳 홈",
-    "product": "샐러디 고단백 저당 두부 부리또 (2입)",
-    "price": 9000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251541167",
+    "product": "샐러디 고단백 저당 두부 부리또 3종 SET (10입)",
+    "price": 37900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252244037",
     "slot_id": "202608316008",
     "items": [
      {
       "brand": "샐러디 앳 홈",
-      "product": "샐러디 고단백 저당 두부 부리또 (2입)",
-      "price": 9000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251541167"
+      "product": "샐러디 고단백 저당 두부 부리또 3종 SET (10입)",
+      "price": 37900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252244037"
      }
     ],
     "title": "[샐러디] 저당 고단백 두부 부리또",
@@ -2157,6 +2163,25 @@
     "pgm": "[해외직구] 일본 현지 방송"
    },
    {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "JJ지고트",
+    "product": "잔조직 슬림핏 스퀘어넥 재킷GS5M0JK902 GS5M0JK902",
+    "price": 138180,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252755113",
+    "slot_id": "202608316025",
+    "items": [
+     {
+      "brand": "JJ지고트",
+      "product": "잔조직 슬림핏 스퀘어넥 재킷GS5M0JK902 GS5M0JK902",
+      "price": 138180,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252755113"
+     }
+    ],
+    "title": "[JJ지고트] 화사하게 완성하는 데일리 페미닌룩✨",
+    "pgm": "[재방] JJ지고트 의류 (멀티커머스)"
+   },
+   {
     "start": "18:00",
     "end": "18:59",
     "brand": "미닉스",
@@ -2174,6 +2199,25 @@
     ],
     "title": "[미닉스] 최신상 미니건조기 더 에어드라이 론칭 특집전",
     "pgm": "[미닉스] 미니건조기 (가전)"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "한국금거래소",
+    "product": "X 현대홈쇼핑 VIP 골드바 3.75g",
+    "price": 1004000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239425835",
+    "slot_id": "202608316013",
+    "items": [
+     {
+      "brand": "한국금거래소",
+      "product": "X 현대홈쇼핑 VIP 골드바 3.75g",
+      "price": 1004000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239425835"
+     }
+    ],
+    "title": "[한국금거래소] 골드바 + 실버바 특집",
+    "pgm": "[한국금거래소] 금 (패션잡화)"
    },
    {
     "start": "20:00",
@@ -2212,6 +2256,25 @@
     ],
     "title": "[아이더] 방송 중 특별가! 쿠폰 + 카드할인",
     "pgm": "[아이더] 아웃도어 (멀티커머스)"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "VIPKID",
+    "product": "VIPKid 북미 원어민 어린이 화상영어 3개월(24회)",
+    "price": 629000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248764034",
+    "slot_id": "202608316026",
+    "items": [
+     {
+      "brand": "VIPKID",
+      "product": "VIPKid 북미 원어민 어린이 화상영어 3개월(24회)",
+      "price": 629000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248764034"
+     }
+    ],
+    "title": "[VIPKID] 새학기 특집 쇼라 핫딜🔥",
+    "pgm": "[재방] VIPKID 화상영어 (렌탈)"
    },
    {
     "start": "23:00",

@@ -2,7 +2,7 @@
  "company": "GM",
  "channel": "glive",
  "month": "2026-08",
- "updated_at": "2026-08-31T09:02:47+09:00",
+ "updated_at": "2026-08-31T10:02:54+09:00",
  "days": {
   "2026-08-30": [
    {
@@ -15,7 +15,8 @@
     "slot_id": "252089",
     "pgm": "[앵콜]17%+5%혜택|시드니BEST패키지#연휴출발가능",
     "rerun": true,
-    "title": "17% 쿠폰"
+    "title": "17% 쿠폰",
+    "category": "서비스·렌탈"
    },
    {
     "start": "21:00",
@@ -26,7 +27,8 @@
     "link": "https://m.gmarket.co.kr/vi/product/1274338554",
     "slot_id": "254010",
     "pgm": "[앵콜] 벨리에르 미리 준비하는 사계절 이불 특가!",
-    "rerun": true
+    "rerun": true,
+    "category": "가구·침구"
    }
   ],
   "2026-08-31": [
@@ -38,17 +40,19 @@
     "price": 59000,
     "link": "https://m.gmarket.co.kr/vi/product/2185722050",
     "slot_id": "252074",
-    "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻1"
+    "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻1",
+    "category": "스포츠·아웃도어"
    },
    {
     "start": "10:00",
     "end": "11:00",
     "brand": "케라시스",
-    "product": "케라시스 아르간오일 7X 샴푸/트리트먼트 800ml 2개 +증정(트래블키트 2개)",
-    "price": 22100,
+    "product": "케라시스 아르간오일 7X 샴푸/트리트먼트 800ml 2개 +(라이브한정)아르간오일 100ml 2개",
+    "price": 21100,
     "link": "https://m.gmarket.co.kr/vi/product/4519579087",
     "slot_id": "252066",
-    "pgm": "한가위빅세일x애경 헤어템 총출동! 특가 LIVE"
+    "pgm": "한가위빅세일x애경 헤어템 총출동! 특가 LIVE",
+    "category": "뷰티"
    },
    {
     "start": "11:00",
@@ -58,7 +62,8 @@
     "price": 287890,
     "link": "https://m.gmarket.co.kr/vi/product/4609933402",
     "slot_id": "252075",
-    "pgm": "필립스✨인기 가전 연합전! 면도기/전동칫솔/커피머신까지"
+    "pgm": "필립스✨인기 가전 연합전! 면도기/전동칫솔/커피머신까지",
+    "category": "가전"
    },
    {
     "start": "12:00",
@@ -68,7 +73,8 @@
     "price": 129000,
     "link": "https://m.gmarket.co.kr/vi/product/4354098474",
     "slot_id": "252062",
-    "pgm": "박지윤샀지윤🎁바이탈플랜트"
+    "pgm": "박지윤샀지윤🎁바이탈플랜트",
+    "category": "주방·잡화"
    },
    {
     "start": "13:00",
@@ -78,7 +84,8 @@
     "price": 34900,
     "link": "https://m.gmarket.co.kr/vi/product/4746737739",
     "slot_id": "254037",
-    "pgm": "부산 대표 맛집의 비법 레시피 갈비탕"
+    "pgm": "부산 대표 맛집의 비법 레시피 갈비탕",
+    "category": "식품·건강"
    },
    {
     "start": "13:00",
@@ -88,7 +95,8 @@
     "price": 11200,
     "link": "https://m.gmarket.co.kr/vi/product/4633244501",
     "slot_id": "254038",
-    "pgm": "당일생산 전라도 이모들의 손맛이 담긴 겉절이"
+    "pgm": "당일생산 전라도 이모들의 손맛이 담긴 겉절이",
+    "category": "식품·건강"
    },
    {
     "start": "15:00",
@@ -98,7 +106,8 @@
     "price": 11240,
     "link": "https://m.gmarket.co.kr/vi/product/4007046900",
     "slot_id": "254039",
-    "pgm": "야망떡집 잔기지떡 40개입 단 하루 특가"
+    "pgm": "야망떡집 잔기지떡 40개입 단 하루 특가",
+    "category": "식품·건강"
    },
    {
     "start": "15:00",
@@ -108,7 +117,8 @@
     "price": 33300,
     "link": "https://m.gmarket.co.kr/vi/product/4446795018",
     "slot_id": "254043",
-    "pgm": "스트레스 풀리는 매운 힐링, 청춘불판 국물닭발"
+    "pgm": "스트레스 풀리는 매운 힐링, 청춘불판 국물닭발",
+    "category": "식품·건강"
    },
    {
     "start": "16:00",
@@ -118,7 +128,8 @@
     "price": 22500,
     "link": "https://m.gmarket.co.kr/vi/product/4777166390",
     "slot_id": "254044",
-    "pgm": "따뜻한 온기 담긴 집밥, 온한상 육개장"
+    "pgm": "따뜻한 온기 담긴 집밥, 온한상 육개장",
+    "category": "식품·건강"
    },
    {
     "start": "16:00",
@@ -129,7 +140,8 @@
     "link": "https://m.gmarket.co.kr/vi/product/4628760367",
     "slot_id": "254045",
     "pgm": "건강한 일상을 연구하는 라이프케어 브랜드 서울랩스",
-    "title": "12% 쿠폰"
+    "title": "12% 쿠폰",
+    "category": "식품·건강"
    },
    {
     "start": "17:00",
@@ -140,7 +152,8 @@
     "link": "https://m.gmarket.co.kr/vi/product/4292025387",
     "slot_id": "254040",
     "pgm": "일상에 특별함을 더하는 라이프스타일 퍼플코리아",
-    "title": "12% 쿠폰"
+    "title": "12% 쿠폰",
+    "category": "식품·건강"
    },
    {
     "start": "17:00",
@@ -151,7 +164,8 @@
     "link": "https://m.gmarket.co.kr/vi/product/4620763593",
     "slot_id": "254041",
     "pgm": "문제성 손발톱엔 케라좀 큐어솔루션 알파",
-    "title": "10% 쿠폰"
+    "title": "10% 쿠폰",
+    "category": "식품·건강"
    },
    {
     "start": "18:00",
@@ -161,7 +175,8 @@
     "price": 18870,
     "link": "https://m.gmarket.co.kr/vi/product/2481711416",
     "slot_id": "254042",
-    "pgm": "매일 쓰는 애터미 치약 플러스 5개입"
+    "pgm": "매일 쓰는 애터미 치약 플러스 5개입",
+    "category": "주방·잡화"
    },
    {
     "start": "18:00",
@@ -171,7 +186,8 @@
     "price": 14150,
     "link": "https://m.gmarket.co.kr/vi/product/4771575262",
     "slot_id": "254046",
-    "pgm": "100% 국내산 농산물로 만든 당일 생산 수제 석박지"
+    "pgm": "100% 국내산 농산물로 만든 당일 생산 수제 석박지",
+    "category": "식품·건강"
    },
    {
     "start": "19:00",
@@ -181,7 +197,8 @@
     "price": 354070,
     "link": "https://m.gmarket.co.kr/vi/product/4747841229",
     "slot_id": "252103",
-    "pgm": "한가위 빅세일✨필수 생활 가전 연합전!"
+    "pgm": "한가위 빅세일✨필수 생활 가전 연합전!",
+    "category": "가전"
    },
    {
     "start": "20:00",
@@ -191,17 +208,19 @@
     "price": 238000,
     "link": "https://m.gmarket.co.kr/vi/product/4366060941",
     "slot_id": "254053",
-    "pgm": "[디지털연합] 빅세일 첫날 최대, 최고 혜택으로 뭉쳤다"
+    "pgm": "[디지털연합] 빅세일 첫날 최대, 최고 혜택으로 뭉쳤다",
+    "category": "디지털·PC"
    },
    {
     "start": "21:00",
     "end": "22:00",
     "brand": "LG생활건강",
-    "product": "피지 모락셀라 액체세제 코튼향 2.1L 용기",
+    "product": "피지 모락셀라 액체세제 코튼향 2.1L 용기 +증정) 부스터 코튼향 3p",
     "price": 20350,
     "link": "https://m.gmarket.co.kr/vi/product/4278580679",
     "slot_id": "252077",
-    "pgm": "생필품은 역시 LG생활건강⭐ 특가 LIVE"
+    "pgm": "생필품은 역시 LG생활건강⭐ 특가 LIVE",
+    "category": "주방·잡화"
    },
    {
     "start": "22:00",
@@ -211,7 +230,8 @@
     "price": 3649000,
     "link": "https://m.gmarket.co.kr/vi/product/4638159692",
     "slot_id": "254052",
-    "pgm": "[설빅세일] 한정 수량! 초특가 할인 PC 연합전!"
+    "pgm": "[설빅세일] 한정 수량! 초특가 할인 PC 연합전!",
+    "category": "디지털·PC"
    }
   ]
  }
