@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-08-31T07:06:03+09:00",
+ "updated_at": "2026-08-31T09:20:31+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -39,6 +39,18 @@
     "slot_id": "28806",
     "title": "도깨비방망이😈헤리티지 무선 블렌더 ~44%🥘유진이랑 공구",
     "pgm": "인플루언서LIVE"
+   },
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "WMF",
+    "product": "키친미니스미니그릴",
+    "price": 169000,
+    "link": "https://item.cjonstyle.com/item/2084733183?channelCode=30002002",
+    "slot_id": "28973",
+    "title": "[이비쿡스XWMF]이비쿡스가 선택한 WMF! 홈캠핑 감성의 미니그릴!",
+    "pgm": "ONSTAR LIVE",
+    "category": "주방·잡화"
    },
    {
     "start": "11:00",
@@ -89,7 +101,7 @@
    },
    {
     "start": "12:00",
-    "end": "12:59",
+    "end": "13:00",
     "brand": "설화수",
     "product": "윤조에센스 6세대 90ml 기획세트",
     "price": 126000,
@@ -372,6 +384,17 @@
     "title": "다시보는 발 편한 르무통👟 단 하루 CJ 단독 최저가!",
     "pgm": "라이브쇼",
     "category": "잡화·슈즈"
+   },
+   {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "",
+    "product": "[보로탈코] 벨벳팅 바디크림/데오드란트 (카드10% + 적립10%)",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/28827",
+    "slot_id": "28827",
+    "title": "[보로탈코] 벨벳팅 바디크림/데오드란트 (카드10% + 적립10%)",
+    "pgm": "VIVA ITALIA"
    },
    {
     "start": "17:00",
@@ -673,13 +696,14 @@
    {
     "start": "10:00",
     "end": "10:59",
-    "brand": "",
-    "product": "[맘만하니] 올인원 효소 플로렌💕효소+유산균+애사비+이너뷰티~65%✨",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/28852",
+    "brand": "플로렌(FLOREN)",
+    "product": "[210만 고역가] 브로멜라인 파인애플효소 순수발효효소 탄단지분해 애사비 파인스노우 9박스+본품 3박스",
+    "price": 479400,
+    "link": "https://item.cjonstyle.com/item/2091629765?channelCode=30002002",
     "slot_id": "28852",
     "title": "[맘만하니] 올인원 효소 플로렌💕효소+유산균+애사비+이너뷰티~65%✨",
-    "pgm": "맘만하니"
+    "pgm": "맘만하니",
+    "category": "식품·건강"
    },
    {
     "start": "11:00",
@@ -698,7 +722,7 @@
     "end": "12:59",
     "brand": "루이까또즈",
     "product": "엘퀼팅 숄더백 H63QT01BL",
-    "price": 366400,
+    "price": 412200,
     "link": "https://item.cjonstyle.com/item/2091640855?channelCode=30002002",
     "slot_id": "29039",
     "title": "다시보는 루이까또즈 26FW 신상 CJ 단독공개🍁",

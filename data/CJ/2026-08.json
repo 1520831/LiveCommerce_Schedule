@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-08",
- "updated_at": "2026-08-31T07:06:03+09:00",
+ "updated_at": "2026-08-31T09:20:31+09:00",
  "days": {
   "2026-08-26": [
    {
@@ -2033,7 +2033,7 @@
     "end": "14:59",
     "brand": "베베숲",
     "product": "[내일도착] 도하상점PICK 시그니처 위드레드 70매 캡 20팩 + 센시티브 휴대 4팩",
-    "price": 53790,
+    "price": 34900,
     "link": "https://item.cjonstyle.com/item/2090535475?channelCode=30002002",
     "slot_id": "28936",
     "title": "다시보는 맘만하니💙베베숲X도하상점 시그니처레드 단독세트 첫런칭",
@@ -2433,7 +2433,7 @@
     "price": 790000,
     "link": "https://item.cjonstyle.com/item/2090038442?channelCode=30002002",
     "slot_id": "28795",
-    "title": "이태리 직수입 프리미엄 다운 \"봄부기\" 파격혜택!!",
+    "title": "이태리 직수입 프리미엄 다운 \"봄부기\" 최초공개! 파격혜택!",
     "pgm": "스튜디오B",
     "category": "스포츠·아웃도어"
    },
@@ -2547,14 +2547,13 @@
    {
     "start": "18:00",
     "end": "18:59",
-    "brand": "자연의정",
-    "product": "[26년 8월 수확] 햇 홍로사과 가정용 선물용 특품 사이즈/중량별",
-    "price": 7900,
-    "link": "https://item.cjonstyle.com/item/2076729862?channelCode=30002002",
+    "brand": "천하일미",
+    "product": "홍석천 이원일 떡갈비 160g 전통/매콤 15팩 총30장",
+    "price": 32500,
+    "link": "https://item.cjonstyle.com/item/2003075249?channelCode=30002002",
     "slot_id": "28797",
     "title": "🧡추석맞이 대잔치🧡 햇 홍로사과 & 해남 꿀고구마 & 견과류 외",
-    "pgm": "푸드온다",
-    "category": "식품·건강"
+    "pgm": "푸드온다"
    },
    {
     "start": "18:00",
@@ -2716,7 +2715,7 @@
     "end": "21:59",
     "brand": "룸모",
     "product": "파스타 면+소스 5종세트",
-    "price": 35100,
+    "price": 21900,
     "link": "https://item.cjonstyle.com/item/2091200351?channelCode=30002002",
     "slot_id": "28965",
     "title": "[룸모&폰티X율아맘]이탈리아 정통 파스타&스파게티 할인",
@@ -2773,7 +2772,7 @@
    },
    {
     "start": "23:00",
-    "end": "23:59",
+    "end": "00:00",
     "brand": "시티브리즈",
     "product": "[기은세 PICK][최초가 79,000원] 링클 프리 베이직 셔츠_17COLORS",
     "price": 38710,

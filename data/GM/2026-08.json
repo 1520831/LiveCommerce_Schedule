@@ -1,0 +1,218 @@
+{
+ "company": "GM",
+ "channel": "glive",
+ "month": "2026-08",
+ "updated_at": "2026-08-31T09:02:47+09:00",
+ "days": {
+  "2026-08-30": [
+   {
+    "start": "20:00",
+    "end": "21:01",
+    "brand": "교원투어",
+    "product": "놀러가G | 시드니 핵심만 쏙 호주 베스트셀러 6일/7일 패키지 vs 항공 ONLY",
+    "price": 1599000,
+    "link": "https://m.gmarket.co.kr/vi/product/4821395225",
+    "slot_id": "252089",
+    "pgm": "[앵콜]17%+5%혜택|시드니BEST패키지#연휴출발가능",
+    "rerun": true,
+    "title": "17% 쿠폰"
+   },
+   {
+    "start": "21:00",
+    "end": "22:00",
+    "brand": "벨리에르",
+    "product": "(이불 균일가 14320원/사이즈무관)벨리에르 사계절 고온워싱 차렵이불(SS~SK)KC인증알러지 염료테스트 완료",
+    "price": 17900,
+    "link": "https://m.gmarket.co.kr/vi/product/1274338554",
+    "slot_id": "254010",
+    "pgm": "[앵콜] 벨리에르 미리 준비하는 사계절 이불 특가!",
+    "rerun": true
+   }
+  ],
+  "2026-08-31": [
+   {
+    "start": "07:00",
+    "end": "10:00",
+    "brand": "쇼핑마라톤",
+    "product": "(스케쳐스 공식) 26FW 엣지라이드/런닝화/슬립인스/운동화/스포츠운동화 외 인기 슈즈 모음",
+    "price": 59000,
+    "link": "https://m.gmarket.co.kr/vi/product/2185722050",
+    "slot_id": "252074",
+    "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻1"
+   },
+   {
+    "start": "10:00",
+    "end": "11:00",
+    "brand": "케라시스",
+    "product": "케라시스 아르간오일 7X 샴푸/트리트먼트 800ml 2개 +증정(트래블키트 2개)",
+    "price": 22100,
+    "link": "https://m.gmarket.co.kr/vi/product/4519579087",
+    "slot_id": "252066",
+    "pgm": "한가위빅세일x애경 헤어템 총출동! 특가 LIVE"
+   },
+   {
+    "start": "11:00",
+    "end": "12:00",
+    "brand": "필립스",
+    "product": "24.9만)PHILIPS 필립스 i9000 시리즈 전기면도기 다크 슬레이트 X9002/20 +맥세이프 보조배터리/코털제거기",
+    "price": 287890,
+    "link": "https://m.gmarket.co.kr/vi/product/4609933402",
+    "slot_id": "252075",
+    "pgm": "필립스✨인기 가전 연합전! 면도기/전동칫솔/커피머신까지"
+   },
+   {
+    "start": "12:00",
+    "end": "13:00",
+    "brand": "바이탈플랜트",
+    "product": "바이탈플랜트 롤팬 오리지널 자동회전냄비 25cm 6개 컬러",
+    "price": 129000,
+    "link": "https://m.gmarket.co.kr/vi/product/4354098474",
+    "slot_id": "252062",
+    "pgm": "박지윤샀지윤🎁바이탈플랜트"
+   },
+   {
+    "start": "13:00",
+    "end": "14:00",
+    "brand": "로가온",
+    "product": "해운대암소갈비집 뼈없는 갈비탕 800g X 4팩 (총 3.2kg) 부산 60년 맛집의 깊은 국물 살코기 듬뿍 갈비탕",
+    "price": 34900,
+    "link": "https://m.gmarket.co.kr/vi/product/4746737739",
+    "slot_id": "254037",
+    "pgm": "부산 대표 맛집의 비법 레시피 갈비탕"
+   },
+   {
+    "start": "13:00",
+    "end": "14:02",
+    "brand": "남도청년",
+    "product": "100% 국내산 배추 겉절이 김치 2kg 당일 생산",
+    "price": 11200,
+    "link": "https://m.gmarket.co.kr/vi/product/4633244501",
+    "slot_id": "254038",
+    "pgm": "당일생산 전라도 이모들의 손맛이 담긴 겉절이"
+   },
+   {
+    "start": "15:00",
+    "end": "16:00",
+    "brand": "야망떡집",
+    "product": "야망떡집 팥앙금 잔기지떡 40개입",
+    "price": 11240,
+    "link": "https://m.gmarket.co.kr/vi/product/4007046900",
+    "slot_id": "254039",
+    "pgm": "야망떡집 잔기지떡 40개입 단 하루 특가"
+   },
+   {
+    "start": "15:00",
+    "end": "16:02",
+    "brand": "청춘불판",
+    "product": "청춘불판 국물닭발 900g 3팩 매운 닭발 양념 닭발 불닭발 캠핑 혼술 안주 간편식",
+    "price": 33300,
+    "link": "https://m.gmarket.co.kr/vi/product/4446795018",
+    "slot_id": "254043",
+    "pgm": "스트레스 풀리는 매운 힐링, 청춘불판 국물닭발"
+   },
+   {
+    "start": "16:00",
+    "end": "17:03",
+    "brand": "로가온",
+    "product": "온한상 산더미 육개장 630g X 5팩 (총 3.15kg) 결대로 찢은 양지부터 야채까지 산더미처럼 쌓이는 건더기",
+    "price": 22500,
+    "link": "https://m.gmarket.co.kr/vi/product/4777166390",
+    "slot_id": "254044",
+    "pgm": "따뜻한 온기 담긴 집밥, 온한상 육개장"
+   },
+   {
+    "start": "16:00",
+    "end": "17:04",
+    "brand": "서울랩스",
+    "product": "엑스트라버진 올리브오일 100% 500ml 2병 스페인산 피쿠알 품종 햇올리브",
+    "price": 27900,
+    "link": "https://m.gmarket.co.kr/vi/product/4628760367",
+    "slot_id": "254045",
+    "pgm": "건강한 일상을 연구하는 라이프케어 브랜드 서울랩스",
+    "title": "12% 쿠폰"
+   },
+   {
+    "start": "17:00",
+    "end": "18:01",
+    "brand": "퍼플고릴라",
+    "product": "부엉이 오래가는 스팀 온열 안대 아이마스크 일회용 눈찜질팩 케어 12매입",
+    "price": 5900,
+    "link": "https://m.gmarket.co.kr/vi/product/4292025387",
+    "slot_id": "254040",
+    "pgm": "일상에 특별함을 더하는 라이프스타일 퍼플코리아",
+    "title": "12% 쿠폰"
+   },
+   {
+    "start": "17:00",
+    "end": "18:04",
+    "brand": "케라좀",
+    "product": "(8/31 라이브특가 2.7만) 케라좀 공식 큐어 솔루션 알파 문제성 발톱 손톱 의약외품 앰플 영양제 30ml 1개",
+    "price": 31500,
+    "link": "https://m.gmarket.co.kr/vi/product/4620763593",
+    "slot_id": "254041",
+    "pgm": "문제성 손발톱엔 케라좀 큐어솔루션 알파",
+    "title": "10% 쿠폰"
+   },
+   {
+    "start": "18:00",
+    "end": "19:00",
+    "brand": "행복더하기ok",
+    "product": "8/31 단하루 한가위빅세일 1.6만 초특가) 애터미 치약 플러스 5ea",
+    "price": 18870,
+    "link": "https://m.gmarket.co.kr/vi/product/2481711416",
+    "slot_id": "254042",
+    "pgm": "매일 쓰는 애터미 치약 플러스 5개입"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "남도청년",
+    "product": "당일제조 국내산 전라도식 석박지 5kg",
+    "price": 14150,
+    "link": "https://m.gmarket.co.kr/vi/product/4771575262",
+    "slot_id": "254046",
+    "pgm": "100% 국내산 농산물로 만든 당일 생산 수제 석박지"
+   },
+   {
+    "start": "19:00",
+    "end": "20:00",
+    "brand": "소형가전연합",
+    "product": "APP전용특가 본사직영 위닉스 26년형 인버터 컴팩트건조기S 4kg HS4E400-OWK",
+    "price": 354070,
+    "link": "https://m.gmarket.co.kr/vi/product/4747841229",
+    "slot_id": "252103",
+    "pgm": "한가위 빅세일✨필수 생활 가전 연합전!"
+   },
+   {
+    "start": "20:00",
+    "end": "21:00",
+    "brand": "디지털 연합",
+    "product": "뮤패드 K8 램8G/용량128G 다크그레이",
+    "price": 238000,
+    "link": "https://m.gmarket.co.kr/vi/product/4366060941",
+    "slot_id": "254053",
+    "pgm": "[디지털연합] 빅세일 첫날 최대, 최고 혜택으로 뭉쳤다"
+   },
+   {
+    "start": "21:00",
+    "end": "22:00",
+    "brand": "LG생활건강",
+    "product": "피지 모락셀라 액체세제 코튼향 2.1L 용기",
+    "price": 20350,
+    "link": "https://m.gmarket.co.kr/vi/product/4278580679",
+    "slot_id": "252077",
+    "pgm": "생필품은 역시 LG생활건강⭐ 특가 LIVE"
+   },
+   {
+    "start": "22:00",
+    "end": "23:00",
+    "brand": "PC연합",
+    "product": "갤럭시북6 프로 NT960XJG-K72A 최종309만 울트라7/32GB/256GB/윈11 노트북",
+    "price": 3649000,
+    "link": "https://m.gmarket.co.kr/vi/product/4638159692",
+    "slot_id": "254052",
+    "pgm": "[설빅세일] 한정 수량! 초특가 할인 PC 연합전!"
+   }
+  ]
+ }
+}

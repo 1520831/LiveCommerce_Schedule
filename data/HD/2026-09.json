@@ -2,9 +2,28 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-08-31T07:05:57+09:00",
+ "updated_at": "2026-08-31T09:20:24+09:00",
  "days": {
   "2026-09-01": [
+   {
+    "start": "00:00",
+    "end": "00:59",
+    "brand": "테크니골드",
+    "product": "18K 내추럴 리프 오픈링",
+    "price": 949000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252499737",
+    "slot_id": "202609016020",
+    "items": [
+     {
+      "brand": "테크니골드",
+      "product": "18K 내추럴 리프 오픈링",
+      "price": 949000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252499737"
+     }
+    ],
+    "title": "[노블리타] 20만원대 18K 끈팔찌 최대 52%🔻",
+    "pgm": "[재방] 노블리타 (노블레스)"
+   },
    {
     "start": "07:00",
     "end": "07:59",
@@ -193,7 +212,26 @@
      }
     ],
     "title": "[밋앤밀] 난각번호 1번 유정란 라이브 특별가",
-    "pgm": "편성기획 삽입용 (편성)"
+    "pgm": "[잭슨코리아] 유정란"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "꼼데가르송",
+    "product": "[무교][꼼데가르송]6S AX T228 051 1 더블 하트 스트라이프 롱슬리브 티셔츠 네이비 화이트",
+    "price": 189000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252983640",
+    "slot_id": "202609016011",
+    "items": [
+     {
+      "brand": "꼼데가르송",
+      "product": "[무교][꼼데가르송]6S AX T228 051 1 더블 하트 스트라이프 롱슬리브 티셔츠 네이비 화이트",
+      "price": 189000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252983640"
+     }
+    ],
+    "title": "[꼼데가르송] 티셔츠, 가디건 FW 의류 특집",
+    "pgm": "[꼼데가르송] 의류"
    },
    {
     "start": "21:00",
@@ -211,7 +249,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253009934"
      }
     ],
-    "title": "[아너드] 프리미엄 국내 당일여행🚂 군위 사유원",
+    "title": "[아너드] 프리미엄 국내 당일여행🚌 군위 사유원",
     "pgm": "[아너드투어] 버스투어 패키지 (여행)"
    },
    {
@@ -255,6 +293,25 @@
     "pgm": "[재방] 투명쇼 (패션잡화)"
    },
    {
+    "start": "07:00",
+    "end": "07:59",
+    "brand": "테크니골드",
+    "product": "18K 내추럴 리프 오픈링",
+    "price": 949000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252499737",
+    "slot_id": "202609026020",
+    "items": [
+     {
+      "brand": "테크니골드",
+      "product": "18K 내추럴 리프 오픈링",
+      "price": 949000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252499737"
+     }
+    ],
+    "title": "[노블리타] 20만원대 18K 끈팔찌 최대 52%🔻",
+    "pgm": "[재방] 노블리타 (노블레스)"
+   },
+   {
     "start": "08:00",
     "end": "08:59",
     "brand": "어드림오브씨드",
@@ -270,7 +327,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250417100"
      }
     ],
-    "title": "[어드림오브시드] 시즌 마감 역대급 초특가",
+    "title": "[어드림오브시드] 시즌 마감 역대급 특별가",
     "pgm": "[어드림오브씨드] 의류 (멀티커머스)"
    },
    {
@@ -289,7 +346,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253005002"
      }
     ],
-    "title": "[JJQUEEN]헤어악세사리/브로치/주얼리外 득템찬스!",
+    "title": "[JJQUEEN] 헤어악세사리/브로치/주얼리 外",
     "pgm": "백화점 프리오픈쇼(멀티커머스)"
    },
    {
@@ -346,7 +403,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2237146321"
      }
     ],
-    "title": "♥맛춤가게♥ 콤비타 마누카 꿀 특별전",
+    "title": "맛춤가게💗 콤비타 마누카 꿀 특별전",
     "pgm": "맛춤가게 (식품)"
    },
    {
@@ -384,7 +441,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2241023551"
      }
     ],
-    "title": "한상궁 인기 김치 & 소백밀크 요거트 30% ▼",
+    "title": "한상궁 인기 김치 & 소백밀크 요거트 30%▼",
     "pgm": "[한상궁/소백밀크] 김치&요거트 (일반식품2)"
    },
    {
@@ -403,7 +460,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252993652"
      }
     ],
-    "title": "[예천 맛뜰리:예] 추석 특집전",
+    "title": "[예천 맛뜰리:예] 추석 특집전🎁",
     "pgm": "[예천] 큐브된장국"
    },
    {
@@ -422,7 +479,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2229162489"
      }
     ],
-    "title": "고비 오픈런 상품 8개! 초특가 캐시미어",
+    "title": "[고비] 오픈런 상품 8개! 캐시미어 특별가",
     "pgm": "현대쇼룸 (패션)"
    },
    {
@@ -479,7 +536,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2243430018"
      }
     ],
-    "title": "[레코브] 26FW 신상오픈💥간절기 데일리룩 1만원대",
+    "title": "[레코브] 26FW 신상오픈! 간절기 데일리룩 1만원대",
     "pgm": "[레코브] 여성의류 (멀티커머스)"
    },
    {
@@ -498,7 +555,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247253640"
      }
     ],
-    "title": "[CC콜렉트] 26 봄~가을 베스트 UP TO 73%▼",
+    "title": "[CC콜렉트] 봄부터 가을 베스트 UP TO 73%▼",
     "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ],
@@ -713,6 +770,25 @@
     ],
     "title": "[김씨언니마켓] 환절기에 꼭 찾게되는 생강청",
     "pgm": "편성기획 삽입용 (편성)"
+   },
+   {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "캘빈클라인",
+    "product": "[캘빈클라인 진] 여성 릴렉스 크롭 집업 후디 스웻셔츠(47F236G) 47F236G",
+    "price": 107460,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2245173510",
+    "slot_id": "202609046008",
+    "items": [
+     {
+      "brand": "캘빈클라인",
+      "product": "[캘빈클라인 진] 여성 릴렉스 크롭 집업 후디 스웻셔츠(47F236G) 47F236G",
+      "price": 107460,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2245173510"
+     }
+    ],
+    "title": "캘빈클라인진 지금 입기 좋은 데님 최대~73%▼",
+    "pgm": "[CK진] 의류 (멀티커머스)"
    },
    {
     "start": "18:00",
