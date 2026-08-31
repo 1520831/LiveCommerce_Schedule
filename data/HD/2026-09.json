@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-08-31T23:39:41+09:00",
+ "updated_at": "2026-09-01T07:06:03+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -105,14 +105,14 @@
     "end": "11:59",
     "brand": "도노도노",
     "product": "[모모래빗] 에코씽씽 썸머 팬티 기저귀 여아용 8팩+8팩(총16팩)",
-    "price": 169800,
+    "price": 140400,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2234419577",
     "slot_id": "202609016005",
     "items": [
      {
       "brand": "도노도노",
       "product": "[모모래빗] 에코씽씽 썸머 팬티 기저귀 여아용 8팩+8팩(총16팩)",
-      "price": 169800,
+      "price": 140400,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2234419577"
      }
     ],
@@ -124,14 +124,14 @@
     "end": "12:59",
     "brand": "쿠쿠",
     "product": "10%쿠폰 쿠쿠 트윈프레셔 마스터셰프 저당밥솥 사일런스 오브제 6인용 CRP-OHNLLR0610FGW",
-    "price": 575000,
+    "price": 518000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2240336805",
     "slot_id": "202609016006",
     "items": [
      {
       "brand": "쿠쿠",
       "product": "10%쿠폰 쿠쿠 트윈프레셔 마스터셰프 저당밥솥 사일런스 오브제 6인용 CRP-OHNLLR0610FGW",
-      "price": 575000,
+      "price": 518000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2240336805"
      }
     ],
@@ -1076,6 +1076,103 @@
     ],
     "title": "수지PICK! 인기 데님/티셔츠 최대 68% ▼",
     "pgm": "현대렐라쇼 (멀티커머스)"
+   }
+  ],
+  "2026-09-06": [
+   {
+    "start": "00:00",
+    "end": "00:59",
+    "brand": "한민금거래소",
+    "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
+    "price": 278600,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581",
+    "slot_id": "202609066012",
+    "items": [
+     {
+      "brand": "한민금거래소",
+      "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
+      "price": 278600,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581"
+     }
+    ],
+    "title": "[한민금거래소] 금을 생산하는 기업!",
+    "pgm": "[재방] 한민금거래소 (패션잡화)"
+   },
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "유한킴벌리생활",
+    "product": "[좋은느낌] 썸머 입는오버나이트(25) 중/대 x3 +(증)썸머입오중4P",
+    "price": 22900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2233609138",
+    "slot_id": "202609066001",
+    "items": [
+     {
+      "brand": "유한킴벌리생활",
+      "product": "[좋은느낌] 썸머 입는오버나이트(25) 중/대 x3 +(증)썸머입오중4P",
+      "price": 22900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2233609138"
+     }
+    ],
+    "title": "[좋은느낌/화이트] 여름 라스트 찬스! 썸머생리대 특가",
+    "pgm": "[집방] 좋은느낌 생리대 (액티브라이프)"
+   },
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "세원팜스",
+    "product": "황홀감 상주곶감 반건시 20과 800g 실속형",
+    "price": 19800,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253014955",
+    "slot_id": "202609066002",
+    "items": [
+     {
+      "brand": "세원팜스",
+      "product": "황홀감 상주곶감 반건시 20과 800g 실속형",
+      "price": 19800,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253014955"
+     }
+    ],
+    "title": "26년 추석선물 미리 준비! 반건시 30% 쿠폰",
+    "pgm": "[세원팜스] 곶감 (일반식품2)"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "베르만(BERMAN)",
+    "product": "[독일 베르만] 플립 EX 확장형 캐리어 20인치 [아이보리/블랙]",
+    "price": 256000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251988909",
+    "slot_id": "202609066007",
+    "items": [
+     {
+      "brand": "베르만(BERMAN)",
+      "product": "[독일 베르만] 플립 EX 확장형 캐리어 20인치 [아이보리/블랙]",
+      "price": 256000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251988909"
+     }
+    ],
+    "title": "[베르만] 새로운 프리미엄 지퍼형 캐리어 단독공개",
+    "pgm": "[베르만] 캐리어 (패션잡화)"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "아서앤그레이스",
+    "product": "샤를린 18 오닉스 블랙",
+    "price": 1560000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2203827020",
+    "slot_id": "202609066008",
+    "items": [
+     {
+      "brand": "아서앤그레이스",
+      "product": "샤를린 18 오닉스 블랙",
+      "price": 1560000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2203827020"
+     }
+    ],
+    "title": "[아서앤그레이스] 국내 명품 장인들이 만드는 명품 가방",
+    "pgm": "[아서앤그레이스] 가방/지갑 (패션잡화)"
    }
   ]
  }

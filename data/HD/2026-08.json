@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-08",
- "updated_at": "2026-08-31T23:39:41+09:00",
+ "updated_at": "2026-09-01T07:06:03+09:00",
  "days": {
   "2026-08-26": [
    {
@@ -1970,14 +1970,14 @@
     "end": "07:59",
     "brand": "로제도르",
     "product": "무아르딘 원터치 귀고리(PG)_282300051",
-    "price": 562000,
+    "price": 637500,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2209343841",
     "slot_id": "202608316023",
     "items": [
      {
       "brand": "로제도르",
       "product": "무아르딘 원터치 귀고리(PG)_282300051",
-      "price": 562000,
+      "price": 637500,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2209343841"
      }
     ],
@@ -2001,25 +2001,6 @@
      }
     ],
     "title": "매일을 특별하게 채우는 BCBG 타임리스 실루엣❤️",
-    "pgm": "백화점 프리오픈쇼(멀티커머스)"
-   },
-   {
-    "start": "09:00",
-    "end": "09:59",
-    "brand": "JJ지고트",
-    "product": "잔조직 슬림핏 스퀘어넥 재킷GS5M0JK902 GS5M0JK902",
-    "price": 138180,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252755113",
-    "slot_id": "202608316005",
-    "items": [
-     {
-      "brand": "JJ지고트",
-      "product": "잔조직 슬림핏 스퀘어넥 재킷GS5M0JK902 GS5M0JK902",
-      "price": 138180,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252755113"
-     }
-    ],
-    "title": "[JJ지고트] 화사하게 완성하는 데일리 페미닌룩✨",
     "pgm": "백화점 프리오픈쇼(멀티커머스)"
    },
    {
@@ -2175,25 +2156,6 @@
     "pgm": "[해외직구] 일본 현지 방송"
    },
    {
-    "start": "17:00",
-    "end": "17:59",
-    "brand": "JJ지고트",
-    "product": "잔조직 슬림핏 스퀘어넥 재킷GS5M0JK902 GS5M0JK902",
-    "price": 138180,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252755113",
-    "slot_id": "202608316025",
-    "items": [
-     {
-      "brand": "JJ지고트",
-      "product": "잔조직 슬림핏 스퀘어넥 재킷GS5M0JK902 GS5M0JK902",
-      "price": 138180,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252755113"
-     }
-    ],
-    "title": "[JJ지고트] 화사하게 완성하는 데일리 페미닌룩✨",
-    "pgm": "[재방] JJ지고트 의류 (멀티커머스)"
-   },
-   {
     "start": "18:00",
     "end": "18:59",
     "brand": "미닉스",
@@ -2230,25 +2192,6 @@
     ],
     "title": "[한국금거래소] 골드바 + 실버바 특집",
     "pgm": "[한국금거래소] 금 (패션잡화)"
-   },
-   {
-    "start": "19:00",
-    "end": "19:59",
-    "brand": "리딩게이트",
-    "product": "온라인 영어 독서 프로그램 12개월 이용권",
-    "price": 197500,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248587828",
-    "slot_id": "202608316024",
-    "items": [
-     {
-      "brand": "리딩게이트",
-      "product": "온라인 영어 독서 프로그램 12개월 이용권",
-      "price": 197500,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248587828"
-     }
-    ],
-    "title": "[리딩게이트/하이도도] 2학기 완벽 대비 핫딜🔥",
-    "pgm": "[재방] 리딩게이트 독서교육 (렌탈)"
    },
    {
     "start": "20:00",
@@ -2325,24 +2268,6 @@
     ],
     "title": "[VIPKID] 새학기 특집 쇼라 핫딜🔥",
     "pgm": "[재방] VIPKID 화상영어 (렌탈)"
-   },
-   {
-    "start": "23:00",
-    "end": "23:59",
-    "brand": "주크",
-    "product": "테일러드 더블 버튼 기본 자켓 (Z262MSF015) Z262MSF015",
-    "price": 139650,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251049286",
-    "slot_id": "202608316016",
-    "items": [
-     {
-      "brand": "주크",
-      "product": "테일러드 더블 버튼 기본 자켓 (Z262MSF015) Z262MSF015",
-      "price": 139650,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251049286"
-     }
-    ],
-    "title": "[쥬크] 26S/S 베스트 아이템 최종 혜택가 방송!"
    }
   ]
  }

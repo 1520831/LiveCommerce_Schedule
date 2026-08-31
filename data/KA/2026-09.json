@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-08-31T23:39:54+09:00",
+ "updated_at": "2026-09-01T07:06:17+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -719,6 +719,80 @@
     "slot_id": "59763",
     "pgm": "첫수확!! 나주 햇 배",
     "title": "3kg 7-9과 만원초반대",
+    "category": "식품"
+   }
+  ],
+  "2026-09-06": [
+   {
+    "start": "10:00",
+    "end": "13:00",
+    "brand": "belif",
+    "product": "뉴메로 10 에센스 대용량 썸머 에디션 외 5종",
+    "price": 71000,
+    "link": "https://store.kakao.com/belif/products/10134823",
+    "slot_id": "59465",
+    "pgm": "빌리프 뉴메로 에센스 외",
+    "title": "라이브 당일 클렌징폼 증정",
+    "category": "뷰티"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "파스텔 야돔",
+    "product": "파스텔 야돔 포켓 인헤일러 6개입 오리지널 세트",
+    "price": 15900,
+    "link": "https://store.kakao.com/pastelyadom/products/406702467",
+    "slot_id": "59676",
+    "pgm": "파스텔 야돔 환절기 필수템",
+    "title": "라이브 특가",
+    "category": "리빙"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "꽃님이",
+    "product": "초가을 제철생화 기획전",
+    "price": 15900,
+    "link": "https://store.kakao.com/cotenim/products/457773167",
+    "slot_id": "59714",
+    "pgm": "가을 제철생화 1+1다발",
+    "title": "10900원 무료배송!",
+    "category": "리빙"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "집에서 먹자",
+    "product": "곱이고운 소곱창/대창/막창/모둠곱창+참소스증정",
+    "price": 19900,
+    "link": "https://store.kakao.com/foodsignal/products/51386380",
+    "slot_id": "59671",
+    "pgm": "소곱창 4900원 무배!",
+    "title": "많이 기다리셨죠?",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "명인이영자옥돔 주식회사",
+    "product": "대한민국 옥돔명인 이영자명인의 제주옥돔 200g x 5마리",
+    "price": 120000,
+    "link": "https://store.kakao.com/sookdom/products/780412445",
+    "slot_id": "59722",
+    "pgm": "[명인이영자옥돔]제주옥돔",
+    "title": "베스트셀러 라이브특가",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "청년상점",
+    "product": "2026 제주직송 하우스 감귤 2kg 로얄과 외 4kg / 당도선별 하우스재배",
+    "price": 29900,
+    "link": "https://store.kakao.com/youngstore/products/783680017",
+    "slot_id": "59765",
+    "pgm": "제주직송 하우스 감귤",
+    "title": "로얄과 2kg 카쇼라특가",
     "category": "식품"
    }
   ]
