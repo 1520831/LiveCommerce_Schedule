@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-08-31T11:43:23+09:00",
+ "updated_at": "2026-08-31T12:05:12+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -158,6 +158,18 @@
     "title": "다시보는 락포트 FW 특집❤️ 메리제인, 양털로퍼, 부츠까지",
     "pgm": "라이브쇼",
     "category": "잡화·슈즈"
+   },
+   {
+    "start": "14:00",
+    "end": "14:59",
+    "brand": "아르떼미데",
+    "product": "톨로메오 메가 플로어램프 360",
+    "price": 1863000,
+    "link": "https://item.cjonstyle.com/item/2072109738?channelCode=30002002",
+    "slot_id": "29244",
+    "title": "다시보는✨로망을 실현할 시간! 💗아르떼미데 조명, 역대급 최고 혜택!",
+    "pgm": "인플루언서LIVE",
+    "category": "가전"
    },
    {
     "start": "15:00",
@@ -446,6 +458,18 @@
     "category": "뷰티"
    },
    {
+    "start": "13:00",
+    "end": "13:59",
+    "brand": "아르떼미데",
+    "product": "톨로메오 메가 플로어램프 360",
+    "price": 1863000,
+    "link": "https://item.cjonstyle.com/item/2072109738?channelCode=30002002",
+    "slot_id": "29245",
+    "title": "다시보는✨로망을 실현할 시간! 💗아르떼미데 조명, 역대급 최고 혜택!",
+    "pgm": "인플루언서LIVE",
+    "category": "가전"
+   },
+   {
     "start": "15:00",
     "end": "15:59",
     "brand": "똘똘한쇼",
@@ -560,7 +584,7 @@
     "price": 267000,
     "link": "https://item.cjonstyle.com/item/2090309944?channelCode=30002002",
     "slot_id": "28834",
-    "title": "브티나는생활X로킷아메리카NMN💚역대 최고 혜택 구성+경품+배송비무료",
+    "title": "브티나는생활X로킷아메리카NMN💚역대 최고 혜택 구성+경품 찬스!",
     "pgm": "브티나는 생활"
    },
    {
@@ -871,6 +895,18 @@
     "slot_id": "29041",
     "title": "다시보는 [한정수량] 프라이 잡화✨ 썸머세일 막바지 방송에서만 최저가!",
     "pgm": "라이브쇼"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "델레스트",
+    "product": "[최초가 168,000] 26FW 스트리노 크로스 폰 백 블랙 DSO2001BGS",
+    "price": 139000,
+    "link": "https://item.cjonstyle.com/item/2091056007?channelCode=30002002",
+    "slot_id": "28425",
+    "title": "델레스트 26FW 신상 단독 공개 & 이네스바이 BEST템 최저가🤎",
+    "pgm": "브랜디드 라이브쇼",
+    "category": "잡화·슈즈"
    },
    {
     "start": "20:00",

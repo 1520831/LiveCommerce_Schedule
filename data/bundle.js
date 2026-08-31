@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-08-31T11:43:29+09:00",
+ "generated_at": "2026-08-31T12:05:18+09:00",
  "today": "2026-08-31",
  "dates": [
   "2026-08-30",
@@ -465,12 +465,6 @@ window.SCHEDULE = {
        "product": "18K 벨리시모(Bellissimo) 브레이슬릿",
        "price": 499000,
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252750201"
-      },
-      {
-       "brand": "에클랏",
-       "product": "18K 벨리시모(Bellissimo) 네크리스",
-       "price": 899000,
-       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252750197"
       }
      ],
      "title": "[노블리타] 에클랏 신상공개! 월 7천원대~",
@@ -2748,6 +2742,18 @@ window.SCHEDULE = {
      "category": "잡화·슈즈"
     },
     {
+     "start": "14:00",
+     "end": "14:59",
+     "brand": "아르떼미데",
+     "product": "톨로메오 메가 플로어램프 360",
+     "price": 1863000,
+     "link": "https://item.cjonstyle.com/item/2072109738?channelCode=30002002",
+     "slot_id": "29244",
+     "title": "다시보는✨로망을 실현할 시간! 💗아르떼미데 조명, 역대급 최고 혜택!",
+     "pgm": "인플루언서LIVE",
+     "category": "가전"
+    },
+    {
      "start": "15:00",
      "end": "15:59",
      "brand": "똘똘한쇼",
@@ -3034,6 +3040,18 @@ window.SCHEDULE = {
      "category": "뷰티"
     },
     {
+     "start": "13:00",
+     "end": "13:59",
+     "brand": "아르떼미데",
+     "product": "톨로메오 메가 플로어램프 360",
+     "price": 1863000,
+     "link": "https://item.cjonstyle.com/item/2072109738?channelCode=30002002",
+     "slot_id": "29245",
+     "title": "다시보는✨로망을 실현할 시간! 💗아르떼미데 조명, 역대급 최고 혜택!",
+     "pgm": "인플루언서LIVE",
+     "category": "가전"
+    },
+    {
      "start": "15:00",
      "end": "15:59",
      "brand": "똘똘한쇼",
@@ -3148,7 +3166,7 @@ window.SCHEDULE = {
      "price": 267000,
      "link": "https://item.cjonstyle.com/item/2090309944?channelCode=30002002",
      "slot_id": "28834",
-     "title": "브티나는생활X로킷아메리카NMN💚역대 최고 혜택 구성+경품+배송비무료",
+     "title": "브티나는생활X로킷아메리카NMN💚역대 최고 혜택 구성+경품 찬스!",
      "pgm": "브티나는 생활"
     },
     {
@@ -3459,6 +3477,18 @@ window.SCHEDULE = {
      "slot_id": "29041",
      "title": "다시보는 [한정수량] 프라이 잡화✨ 썸머세일 막바지 방송에서만 최저가!",
      "pgm": "라이브쇼"
+    },
+    {
+     "start": "20:00",
+     "end": "20:59",
+     "brand": "델레스트",
+     "product": "[최초가 168,000] 26FW 스트리노 크로스 폰 백 블랙 DSO2001BGS",
+     "price": 139000,
+     "link": "https://item.cjonstyle.com/item/2091056007?channelCode=30002002",
+     "slot_id": "28425",
+     "title": "델레스트 26FW 신상 단독 공개 & 이네스바이 BEST템 최저가🤎",
+     "pgm": "브랜디드 라이브쇼",
+     "category": "잡화·슈즈"
     },
     {
      "start": "20:00",
@@ -3954,7 +3984,7 @@ window.SCHEDULE = {
      "start": "19:00",
      "end": "22:00",
      "brand": "웹투어(주)",
-     "product": "[파크로쉬 리조트 앤 웰니스] 아쿠아 클럽 & 웰니스 클럽 무료, 일~금 투숙시 웰컴 드링크 제공 외 투숙일 ~12/20까지",
+     "product": "[파크로쉬 리조트 앤 웰니스] 조식 PKG,아쿠아클럽&웰니스클럽 무료,일~금 투숙 시 웰컴드링크 제공 외 투숙일 ~12/20",
      "price": 299000,
      "link": "https://store.kakao.com/webtour/products/714713767",
      "slot_id": "59423",
@@ -5414,9 +5444,9 @@ window.SCHEDULE = {
   }
  },
  "updated_at": {
-  "HD": "2026-08-31T11:43:18+09:00",
-  "CJ": "2026-08-31T11:43:23+09:00",
-  "KA": "2026-08-31T11:43:29+09:00",
+  "HD": "2026-08-31T12:05:06+09:00",
+  "CJ": "2026-08-31T12:05:12+09:00",
+  "KA": "2026-08-31T12:05:18+09:00",
   "GM": "2026-08-31T10:02:54+09:00"
  }
 };
