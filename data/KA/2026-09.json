@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-08-31T14:45:09+09:00",
+ "updated_at": "2026-08-31T17:22:02+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -260,18 +260,6 @@
     "category": "키즈"
    },
    {
-    "start": "16:00",
-    "end": "17:30",
-    "brand": "더리얼푸드마켓",
-    "product": "[26년 햇배/산지직송] 국내산 나주배 가정용 3kg 5kg 7kg",
-    "price": 15900,
-    "link": "https://store.kakao.com/realfoodmarkets/products/780733812",
-    "slot_id": "59715",
-    "pgm": "나주배 라이브 단독 특가!",
-    "title": "한정수량 무료배송",
-    "category": "식품"
-   },
-   {
     "start": "16:30",
     "end": "18:00",
     "brand": "해남농장고구마",
@@ -347,7 +335,7 @@
     "start": "20:30",
     "end": "23:30",
     "brand": "비욘드",
-    "product": "비욘드 딥 모이스처(바디워시/에멀전/스크럽 외), 선착순 1천명 목욕 바구니 증정(1인 1개)",
+    "product": "비욘드 딥 모이스처(바디워시/에멀전/스크럽 외), 선착순 1천명 목욕 바구니 증정(주소지 기준 1개)",
     "price": 42000,
     "link": "https://store.kakao.com/beyond/products/727907610",
     "slot_id": "59324",
@@ -440,18 +428,6 @@
     "pgm": "동국제약 초이스딜 특가",
     "title": "유어핏 레그슬리브 83%할인",
     "category": "리빙"
-   },
-   {
-    "start": "11:00",
-    "end": "12:30",
-    "brand": "더리얼푸드마켓",
-    "product": "제주 하우스 고당도 감귤 2kg 소과/로얄과",
-    "price": 16900,
-    "link": "https://store.kakao.com/realfoodmarkets/products/782407103",
-    "slot_id": "59721",
-    "pgm": "[톡딜라이브] 새콤달콤!",
-    "title": "고당도 하우스 감귤 라이브",
-    "category": "식품"
    },
    {
     "start": "11:30",
@@ -652,7 +628,7 @@
     "end": "22:00",
     "brand": "오버더",
     "product": "오버더바이크 실내 자전거 (안장커버 증정)",
-    "price": 389000,
+    "price": 679000,
     "link": "https://store.kakao.com/overthe/products/544676470",
     "slot_id": "59692",
     "pgm": "[오버더]가정용 천국의 계단",
@@ -681,9 +657,21 @@
     "price": 365000,
     "link": "https://store.kakao.com/wonderbra/products/149005166",
     "slot_id": "59341",
-    "pgm": "원더브라 베스트상품 총집합",
-    "title": "SS 최신상 단독 구성",
+    "pgm": "하루종일 편안한 원더브라",
+    "title": "라이브 중 무료교환/무료반품",
     "category": "패션"
+   },
+   {
+    "start": "10:00",
+    "end": "13:00",
+    "brand": "성분에디터 공식 스토어",
+    "product": "모공탄력/기미토닝/광채수딩/트러블케어 마스크팩 쟁임데이! 장당 600원대로 1일 1팩",
+    "price": 160000,
+    "link": "https://store.kakao.com/sungboon/products/195897458",
+    "slot_id": "59457",
+    "pgm": "성분에디터 마스크팩 ~81%",
+    "title": "마스크팩 쟁이기 라이브",
+    "category": "뷰티"
    },
    {
     "start": "11:30",

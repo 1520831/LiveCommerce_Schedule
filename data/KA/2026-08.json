@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-08",
- "updated_at": "2026-08-31T14:45:09+09:00",
+ "updated_at": "2026-08-31T17:22:02+09:00",
  "days": {
   "2026-08-27": [
    {
@@ -788,7 +788,7 @@
     "end": "12:31",
     "brand": "젤리스푼",
     "product": "[젤리스푼] 가을신상 아동복 시즌오픈 특가 - 래쉬가드/상하복/반팔티/원피스 외",
-    "price": 14900,
+    "price": 79900,
     "link": "https://store.kakao.com/jelispoon/products/247071360",
     "slot_id": "59475",
     "pgm": "젤리스푼 가을 그랜드오픈!",
@@ -800,7 +800,7 @@
     "end": "18:30",
     "brand": "배곱플땐구이요",
     "product": "구이요 소곱창/대창/막창/특양/족발/보쌈+참소스,새우젓 사은품!",
-    "price": 5500,
+    "price": 9900,
     "link": "https://store.kakao.com/92yo/products/75375550",
     "slot_id": "59501",
     "pgm": "구이요 소곱창 축제!",
@@ -884,7 +884,7 @@
     "end": "22:00",
     "brand": "프로즌",
     "product": "[프로즌] 원팩 낙곱새 1+1 (880g+880g)",
-    "price": 23500,
+    "price": 32900,
     "link": "https://store.kakao.com/frozenes/products/380685610",
     "slot_id": "59583",
     "pgm": "프로즌 원팩낙곱새/콩불",

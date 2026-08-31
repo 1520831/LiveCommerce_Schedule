@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-08",
- "updated_at": "2026-08-31T14:44:57+09:00",
+ "updated_at": "2026-08-31T17:21:49+09:00",
  "days": {
   "2026-08-26": [
    {
@@ -1722,14 +1722,14 @@
     "end": "14:59",
     "brand": "히말라야코리아",
     "product": "[총 140개입] 히말라야 파티스마트 츄 숙취해소젤리(2개입) 60박스 (+10개입/수분크림/립밤 증정)",
-    "price": 267400,
+    "price": 99000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252824710",
     "slot_id": "202608306006",
     "items": [
      {
       "brand": "히말라야코리아",
       "product": "[총 140개입] 히말라야 파티스마트 츄 숙취해소젤리(2개입) 60박스 (+10개입/수분크림/립밤 증정)",
-      "price": 267400,
+      "price": 99000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252824710"
      }
     ],
@@ -1854,14 +1854,14 @@
     "start": "20:00",
     "end": "20:59",
     "brand": "다이슨",
-    "product": "슈퍼소닉 트래블 헤어드라이어 [세라믹 핑크] + 유니버셜 스탠드 +플라이어웨이 스무더 노즐",
+    "product": "[2026 NEW] 다이슨 슈퍼소닉 트래블 헤어드라이어 [세라믹 핑크]+ 유니버셜 스탠드",
     "price": 399000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250038935",
     "slot_id": "202608306024",
     "items": [
      {
       "brand": "다이슨",
-      "product": "슈퍼소닉 트래블 헤어드라이어 [세라믹 핑크] + 유니버셜 스탠드 +플라이어웨이 스무더 노즐",
+      "product": "[2026 NEW] 다이슨 슈퍼소닉 트래블 헤어드라이어 [세라믹 핑크]+ 유니버셜 스탠드",
       "price": 399000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250038935"
      }
@@ -1873,14 +1873,14 @@
     "start": "21:00",
     "end": "21:59",
     "brand": "라사본느리드니옹",
-    "product": "빈티지 컬렉션 비누 10P + 방송에서 비누 한 개 더 + 쇼핑백",
+    "product": "빈티지 컬렉션 비누 10P",
     "price": 89000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249191778",
     "slot_id": "202608306010",
     "items": [
      {
       "brand": "라사본느리드니옹",
-      "product": "빈티지 컬렉션 비누 10P + 방송에서 비누 한 개 더 + 쇼핑백",
+      "product": "빈티지 컬렉션 비누 10P",
       "price": 89000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249191778"
      }
@@ -1933,14 +1933,14 @@
     "end": "00:59",
     "brand": "한민금거래소",
     "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-    "price": 290200,
+    "price": 278600,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581",
     "slot_id": "202608316022",
     "items": [
      {
       "brand": "한민금거래소",
       "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-      "price": 290200,
+      "price": 278600,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581"
      }
     ],
@@ -2046,11 +2046,17 @@
     "start": "12:00",
     "end": "12:59",
     "brand": "헤스티아",
-    "product": "우드 돈모 헤어 브러쉬 대형",
-    "price": 29800,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253054656",
+    "product": "18KGP 황금브러쉬 대형+소형 세트(미니 브러쉬 클리너2개 증정)",
+    "price": 69000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253061675",
     "slot_id": "202608316017",
     "items": [
+     {
+      "brand": "헤스티아",
+      "product": "18KGP 황금브러쉬 대형+소형 세트(미니 브러쉬 클리너2개 증정)",
+      "price": 69000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253061675"
+     },
      {
       "brand": "헤스티아",
       "product": "우드 돈모 헤어 브러쉬 대형",
@@ -2085,14 +2091,14 @@
     "end": "14:59",
     "brand": "샐러디 앳 홈",
     "product": "샐러디 고단백 저당 두부 부리또 3종 SET (10입)",
-    "price": 29900,
+    "price": 37900,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252244037",
     "slot_id": "202608316008",
     "items": [
      {
       "brand": "샐러디 앳 홈",
       "product": "샐러디 고단백 저당 두부 부리또 3종 SET (10입)",
-      "price": 29900,
+      "price": 37900,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252244037"
      }
     ],
@@ -2179,14 +2185,14 @@
     "start": "18:00",
     "end": "18:59",
     "brand": "미닉스",
-    "product": "[26년형 최신상] 미닉스 미니건조기 5kg 더 에어드라이 [MNMD-200G]",
+    "product": "[26년형 최신상] 미닉스 미니건조기 5kg 더 에어드라이 [MNMD-200G] (사은품 : 건조기시트)",
     "price": 499000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252655754",
     "slot_id": "202608316012",
     "items": [
      {
       "brand": "미닉스",
-      "product": "[26년형 최신상] 미닉스 미니건조기 5kg 더 에어드라이 [MNMD-200G]",
+      "product": "[26년형 최신상] 미닉스 미니건조기 5kg 더 에어드라이 [MNMD-200G] (사은품 : 건조기시트)",
       "price": 499000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252655754"
      }
@@ -2233,6 +2239,31 @@
     "pgm": "현명쇼(노블레스)"
    },
    {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "헤스티아",
+    "product": "18KGP 황금브러쉬 대형+소형 세트(미니 브러쉬 클리너2개 증정)",
+    "price": 69000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253061675",
+    "slot_id": "202608316027",
+    "items": [
+     {
+      "brand": "헤스티아",
+      "product": "18KGP 황금브러쉬 대형+소형 세트(미니 브러쉬 클리너2개 증정)",
+      "price": 69000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253061675"
+     },
+     {
+      "brand": "헤스티아",
+      "product": "우드 돈모 헤어 브러쉬 대형",
+      "price": 29800,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253054656"
+     }
+    ],
+    "title": "[여배우 추천] 헤스티아 프리미엄 18K 도금 브러쉬",
+    "pgm": "[재방] 헤스티아 도금 브러쉬 (리빙)"
+   },
+   {
     "start": "22:00",
     "end": "22:59",
     "brand": "아이더",
@@ -2269,25 +2300,6 @@
     ],
     "title": "[VIPKID] 새학기 특집 쇼라 핫딜🔥",
     "pgm": "[재방] VIPKID 화상영어 (렌탈)"
-   },
-   {
-    "start": "23:00",
-    "end": "23:59",
-    "brand": "주크",
-    "product": "테일러드 더블 버튼 기본 자켓 (Z262MSF015) Z262MSF015",
-    "price": 139650,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251049286",
-    "slot_id": "202608316016",
-    "items": [
-     {
-      "brand": "주크",
-      "product": "테일러드 더블 버튼 기본 자켓 (Z262MSF015) Z262MSF015",
-      "price": 139650,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251049286"
-     }
-    ],
-    "title": "[쥬크] 26S/S 베스트 아이템 최종 혜택가 방송!",
-    "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ]
  }

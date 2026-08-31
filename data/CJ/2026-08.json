@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-08",
- "updated_at": "2026-08-31T14:45:02+09:00",
+ "updated_at": "2026-08-31T17:21:54+09:00",
  "days": {
   "2026-08-26": [
    {
@@ -2140,7 +2140,7 @@
     "start": "19:00",
     "end": "19:59",
     "brand": "누트라코스",
-    "product": "[잘사는언니들 PICK] 누트라 코스 아미노샷 5박스+메쉬파우치+두피괄사+쇼핑백",
+    "product": "[잘사는언니들 PICK] 누트라 코스 아미노샷 5박스+두피괄사+(파우치or수면안대)+쇼핑백",
     "price": 499000,
     "link": "https://item.cjonstyle.com/item/2091238208?channelCode=30002002",
     "slot_id": "28631",
@@ -2187,7 +2187,7 @@
    {
     "start": "20:00",
     "end": "20:59",
-    "brand": "캐츠잉글리시",
+    "brand": "",
     "product": "<캐츠잉글리시X잘사는언니들> 초등 1위 영어학습 무료체험 7일",
     "price": 0,
     "link": "https://item.cjonstyle.com/item/2060455579?channelCode=30002002",
@@ -2596,9 +2596,9 @@
     "start": "19:00",
     "end": "19:59",
     "brand": "나스",
-    "product": "[라이브]라이트 리플렉팅 세럼 쿠션 더블 패키지 [+미니블러쉬,파우치]",
-    "price": 102600,
-    "link": "https://item.cjonstyle.com/item/2057792712?channelCode=30002002",
+    "product": "[라이브]NEW 인세이셔블 리퀴드 블러쉬 [+핑거퍼프,거울]",
+    "price": 43350,
+    "link": "https://item.cjonstyle.com/item/2091237409?channelCode=30002002",
     "slot_id": "28799",
     "title": "김해나 매드딜🖤나스 초특급 메가딜+초특급 사은품",
     "pgm": "김해나의 매드딜",
@@ -2632,7 +2632,7 @@
     "start": "19:00",
     "end": "19:59",
     "brand": "누트라코스",
-    "product": "[잘사는언니들 PICK] 누트라 코스 아미노샷 5박스+메쉬파우치+두피괄사+쇼핑백",
+    "product": "[잘사는언니들 PICK] 누트라 코스 아미노샷 5박스+두피괄사+(파우치or수면안대)+쇼핑백",
     "price": 499000,
     "link": "https://item.cjonstyle.com/item/2091238208?channelCode=30002002",
     "slot_id": "28962",
@@ -2667,13 +2667,14 @@
    {
     "start": "20:00",
     "end": "20:59",
-    "brand": "",
-    "product": "비아신세계 특별 기획❤️ 푸꾸옥 뉴월드 리조트",
+    "brand": "비아신세계",
+    "product": "1주년 럭셔리 튀르키예 9일 #아시아나비즈니스 #시라간캠핀스키",
     "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/28801",
+    "link": "https://item.cjonstyle.com/item/2091718693?channelCode=30002002",
     "slot_id": "28801",
     "title": "비아신세계 특별 기획❤️ 푸꾸옥 뉴월드 리조트",
-    "pgm": "트래블edit"
+    "pgm": "트래블edit",
+    "category": "서비스·렌탈"
    },
    {
     "start": "20:00",
@@ -2726,7 +2727,7 @@
    {
     "start": "21:00",
     "end": "21:59",
-    "brand": "캐츠잉글리시",
+    "brand": "",
     "product": "<캐츠잉글리시X잘사는언니들> 초등 1위 영어학습 무료체험 7일",
     "price": 0,
     "link": "https://item.cjonstyle.com/item/2060455579?channelCode=30002002",

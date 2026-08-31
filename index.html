@@ -65,6 +65,11 @@
        카카오도 같은 이유로 브랜드 노랑 대신 어두운 올리브를 쓴다. */
     --gm:        #017F00;
     --gm-bg:     #F1F8F1;
+    /* 네이버 브랜드색은 초록인데 G마켓이 이미 초록이라 두 열이 헷갈린다.
+       기존 채널색(빨강 350°·올리브 47°·초록 120°·보라 272°)과 브랜드명
+       청록(180°) 사이에서 가장 넓게 빈 자리가 파랑(215°)이라 거기를 썼다. */
+    --nv:        #1A62C7;
+    --nv-bg:     #F1F5FC;
     /* 머리글 칸 전체를 채우는 파스텔. 네 색의 **밝기를 0.78 로 맞춰** 한 채널만
        무거워 보이지 않게 했다(흰색에 14~18% 섞은 값이라 비율은 색마다 다르다).
        슬롯 틴트(0.91~0.92)보다 진해서 머리글이 표 본문과 구분된다. */
@@ -72,6 +77,7 @@
     --cj-head:   #E9E2EF;
     --ka-head:   #EAE5D1;
     --gm-head:   #D6EAD5;
+    --nv-head:   #DAE6F6;
     /* 브랜드명 전용. 채널색(빨강·보라·올리브·초록) 어느 것과도 안 겹쳐야, 같은
        슬롯 안에서 시간(채널색)과 브랜드가 서로 다른 정보라는 게 색으로 드러난다.
        어느 채널이든 브랜드는 이 색이라 세로로 훑을 때 브랜드만 따로 읽힌다.
@@ -242,7 +248,9 @@
     position: sticky; top: 52px; z-index: 10;
   }
   .head > div { padding: 11px 10px; display: flex; align-items: center; justify-content: center; gap: 8px; }
-  .head .hcol { justify-content: flex-start; font-size: 11.5px; color: var(--muted); padding-left: 12px; }
+  /* 시간 칸도 가운데로 둔다. 왼쪽 정렬이면 채널 이름들만 가운데라
+     '시간'만 옆으로 삐져나온 것처럼 보인다. */
+  .head .hcol { justify-content: center; font-size: 11.5px; color: var(--muted); }
   /* 채널 머리글은 칸 전체를 그 채널 색의 파스텔로 채우고 왼쪽에 막대를 세운다.
      막대는 아래 편성 카드가 이미 쓰는 어법이다(.slot 의 border-left). 머리글부터
      카드까지 세로로 같은 색 줄기가 이어져 열을 눈으로 따라가기 쉽다.
@@ -252,7 +260,8 @@
   .head .ch-cj { --c: var(--cj); --cbg: var(--cj-head); }
   .head .ch-ka { --c: var(--ka); --cbg: var(--ka-head); }
   .head .ch-gm { --c: var(--gm); --cbg: var(--gm-head); }
-  .head .ch-hd, .head .ch-cj, .head .ch-ka, .head .ch-gm {
+  .head .ch-nv { --c: var(--nv); --cbg: var(--nv-head); }
+  .head .ch-hd, .head .ch-cj, .head .ch-ka, .head .ch-gm, .head .ch-nv {
     background: var(--cbg); border-left: 3px solid var(--c);
     /* **이름만** 칸 가운데에 두고 건수는 그 오른쪽에 매단다.
        둘을 한 덩어리로 가운데 정렬하면 건수 폭만큼 이름이 왼쪽으로 밀린다.
@@ -317,6 +326,7 @@
   .logo-hd { --lw: 26px; background-image: url("data:image/png;base64,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"); }
   .logo-cj { background-image: url("data:image/png;base64,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"); }
   .logo-ka { background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB10lEQVR42u1XP0gCURz+3p0UBdJBQ9BkS0FLkY6B2hYIQks4iVS2NdjQJuXWIo5hhOlSjZJrpHuWjtqQLUnQcHERLfprOC89PS3PPzfkBw8ev/d83/d+v+/9DoER/juYMhHAsxg3dyCAnxm6AAE8u+UWLpbZ5OawM8AZSQ4A7IFbvDSKHAAY8TZSRZbmAbcDSFwDpbJ6t9sOCGYgmQH2PEAmKw8FXhcwZQYSKXm9Gc37AYB4G6nGUZSIiGhtl1rWiIjSd0TTzvq8eT1XkH+rhY39ljNNuvImSkC+CNit9Zgyb7xh6BQIRTubUHfxFCK3vb2Av7wC3QKSGTWxfaUm4F7tiZsTeYQDA8rAjwCrHBOlNmX70AybenpDmaxMrJSh8fYAEE8N0AONhEG/rvp3zkA4oE5nIKzhgzQQ3JF7h5YAr6vuDUDuD/HULwKeX7Rv8i7VGklDmvPF+t58Uf1Mtc7Q8EdrJxwicvR5xRlJ7qwWPJyR5CIqZEqTFOnlMAsbs1kwvqpFIqJSbrEBKq++6tOxiEp/Sn/IzTqaPzAxzrI1+FbcBuf0tu2rls4MEdAteV8FpEmKdEsOAHyvxA5mtgjgJ9arj/4vGNBSHMwsCODZ6B/OCHrxDTNzBicnMxhgAAAAAElFTkSuQmCC"); }
+  .logo-nv { background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABy0lEQVR42u2Wv0vVURTAP+fe7+MJiUkQlYougltL/4DR4uTQFkUoiENIq1vi7JIRRA05hNiciw5OuTQUBC2KgzqEmIhEj3r1/d7T4I94+m7n9Z75HZ4HDny533vPPfdzftwr7vXAIxnomSQH0YWNCfG7o0qOkpBBvg4EbXYHstwJnOeA4UBIaaelYqjET36JgMhBQQfaKYJW2trjB7ikwRCkgZ2+FxVDb7695/bnx+ALBw7ATu/zk8ZX7sHf98cRFFOPyWDrDR603YI0jc7Zp2fbdgQwtYpMXbnL9aQTshCdU4ttm4BWP11RCsx1PeRC8ERLWWsi8O8hOJS+4jWmr96HkNUdAjsJjf9Dl/pZ+vopvlYaLkO7TzzrHomvFTWqQPfLKKoRAqVQPvpudS1xAoZ9RxBMrSJj6y/tNleDbZtAhOD83geebi0aT57/SAD1jG/O8bG00SABq1lo/HTlELiz8oRSVo4TsBtRnQQyAfWsfv/C2NrM2efA0QnF82p7mdnt5bpyQPzbYbWuY/R4LQo4D+L+7JSlJ70VdwrXMUn1blZBR0AKdXXSJBrjM3sRqTT9o7TpCeScA156L6t0XLxZU0M6ZdV3mxO/AW50oeTaFJuvAAAAAElFTkSuQmCC"); }
   .logo-gm { background-image: url("data:image/png;base64,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"); }
   /* 파스텔 바탕에서는 --muted(회색)가 2.67:1 밖에 안 나와 안 읽힌다.
      한 단계 진한 --ink-soft 로 올리면 6.89:1 이다. */
@@ -346,6 +356,7 @@
   .cell-cj .slot { background: var(--cj-bg); border-left-color: var(--cj); }
   .cell-ka .slot { background: var(--ka-bg); border-left-color: var(--ka); }
   .cell-gm .slot { background: var(--gm-bg); border-left-color: var(--gm); }
+  .cell-nv .slot { background: var(--nv-bg); border-left-color: var(--nv); }
   .slot:hover { filter: brightness(.975); }
 
   .slot .t {
@@ -357,6 +368,7 @@
   .cell-cj .slot .t .rng { color: var(--cj); }
   .cell-ka .slot .t .rng { color: var(--ka); }
   .cell-gm .slot .t .rng { color: var(--gm); }
+  .cell-nv .slot .t .rng { color: var(--nv); }
   .slot .t .dur { color: var(--muted); }
 
   /* 세 줄(방송명 -> 소구 문구 -> 브랜드·상품)의 읽는 순서는 크기가 아니라
@@ -435,6 +447,30 @@
     border-left-color: var(--now) !important;
   }
   .slot.live .t .rng { color: var(--now); font-weight: 700; }
+
+  /* 방송중 표시는 천천히 숨쉬듯 깜빡인다.
+     3.2초 한 주기에 ease-in-out 이라 눈에 띄되 시선을 잡아채지 않는다.
+     깜빡임이 빠르면 표를 읽는 내내 거슬리고, 켜졌다 꺼지는 식(0->1)이면
+     글자가 사라져 읽기가 끊긴다. 그래서 **꺼지지 않고 진해졌다 옅어진다.**
+     배경 틴트와 '방송중' 배지 둘 다 같은 박자로 움직여 하나로 읽힌다. */
+  @keyframes liveBreath {
+    0%, 100% { background: var(--live-bg); }
+    50%      { background: #FFE8D2; }
+  }
+  @keyframes badgeBreath {
+    0%, 100% { opacity: 1; }
+    50%      { opacity: .55; }
+  }
+  .slot.live { animation: liveBreath 3.2s ease-in-out infinite; }
+  .slot.live .badge:not(.studio) { animation: badgeBreath 3.2s ease-in-out infinite; }
+  .row.now .hour::after { animation: badgeBreath 3.2s ease-in-out infinite; }
+
+  /* 움직임을 줄여달라고 설정한 사용자에게는 깜빡이지 않는다. */
+  @media (prefers-reduced-motion: reduce) {
+    .slot.live,
+    .slot.live .badge:not(.studio),
+    .row.now .hour::after { animation: none; }
+  }
 
   /* ---------- 현재 시각 ----------
      표를 가로지르는 줄은 슬롯 글자를 덮어서 쓰지 않는다. 시간 칸 안에서만
@@ -527,6 +563,7 @@
     .cell-cj::before { background: var(--cj); }
     .cell-ka::before { background: var(--ka); }
     .cell-gm::before { background: var(--gm); }
+    .cell-nv::before { background: var(--nv); }
 
     .slot { padding: 8px 12px 10px; }
     .slot .pgm { font-size: 12.5px; line-height: 18px; min-height: 18px; }
@@ -559,6 +596,7 @@
     <div class="seg" id="segCh"></div>
     <div class="seg" id="segKind"></div>
     <div class="right">
+      <button class="ghost" id="toggleNv" type="button">네이버 기획만</button>
       <button class="ghost" id="toggleTtl" type="button">&#9660; 소구 문구</button>
       <button class="ghost" id="toggleEmpty" type="button">빈 시간대 펼치기</button>
       <button class="help" id="helpBtn" type="button"
@@ -595,7 +633,19 @@
         <td>방송명</td>
         <td>방송명이 <code>[앵콜]</code> 으로 시작</td>
       </tr>
+      <tr>
+        <td><b>NV</b> 네이버 쇼핑라이브</td>
+        <td>방송 정보</td>
+        <td><code>encore</code> 플래그가 참 (앵콜 방송)</td>
+      </tr>
     </table>
+    <p>
+      <b>네이버는 기본적으로 기획 방송만 보여줍니다.</b> 하루 300건이 넘는데
+      대부분이 업체가 상시로 돌리는 방송이라, 전부 켜면 그 열 하나가 행 높이를
+      스무 배로 늘려 표를 읽을 수 없습니다. 위쪽 <code>네이버 기획만</code>
+      버튼으로 전부 펼 수 있고, 데이터는 업체 방송까지 모두 모아 둡니다.
+      기획 여부는 네이버가 주는 <code>type</code> 값으로 가릅니다.
+    </p>
     <ul>
       <li>CJ는 <code>다시보는🔥…</code> 처럼 <b>띄어쓰기 없이</b> 이모지가 붙는 경우가
           있어(수집분 59건 중 7건) 앞 4글자만 보고 판정합니다.</li>
@@ -643,6 +693,12 @@
   var showEmpty = false;     // 편성 있는 시간대만. '빈 시간대 펼치기'로 24시간 전부 편다
   var chFilter = "ALL";
   var kindFilter = "ALL";    // ALL | LIVE | RERUN
+  // 네이버는 방송이 너무 많다(하루 300건 넘음). 대부분은 업체가 상시로 돌리는
+  // 방송이고 그 사이에 네이버가 편성한 기획 방송이 섞여 있다. 전부 켜면 그
+  // 열 하나가 행 높이를 스무 배로 늘려 표가 표 구실을 못 한다(실측 1,135px).
+  // 그래서 기본은 기획만 보여주고 버튼으로 전부 펼 수 있게 한다.
+  // 데이터는 업체 방송까지 다 모아 둔다 - 나중에 기준이 바뀌어도 되살릴 수 있게.
+  var nvPlannedOnly = true;
   var current = null;
 
   if (!S) {
@@ -827,7 +883,9 @@
       bd.textContent = "방송중";
       t.appendChild(bd);
     }
-    var tag = (pgm && pgm.studio) || p.category;
+    // 네이버는 카테고리가 없는 대신 기획 여부를 이 자리에 보여준다.
+    // '전체'로 펼쳤을 때 무엇이 기획인지 바로 구분되게 하려는 것이다.
+    var tag = (pgm && pgm.studio) || p.category || (p.planned ? "기획" : "");
     if (tag) {
       var sb = document.createElement("span");
       sb.className = "badge studio";
@@ -910,7 +968,9 @@
   }
 
   // 로고를 가진 채널.
-  var CH_LOGO = { HD: 1, CJ: 1, KA: 1, GM: 1 };
+  // 네이버는 쇼핑라이브 파비콘이 카카오와 똑같은 빨간 LIVE 말풍선이라
+  // 16px 에서 구분이 안 된다. 그래서 네이버 초록 N 을 쓴다.
+  var CH_LOGO = { HD: 1, CJ: 1, KA: 1, GM: 1, NV: 1 };
 
   // ---------- board ----------
   function render() {
@@ -931,6 +991,7 @@
       var n = 0;
       (day || []).forEach(function (p) {
         if (!visible(p)) return;
+        if (c.code === "NV" && nvPlannedOnly && !p.planned) return;
         var m = toMin(p.start);
         if (m === null) return;
         n++;
@@ -1129,6 +1190,12 @@
   ttlBtn.addEventListener("click", function () {
     var on = board.classList.toggle("ttl-on");
     this.innerHTML = (on ? "▲" : "▼") + " 소구 문구";
+  });
+
+  document.getElementById("toggleNv").addEventListener("click", function () {
+    nvPlannedOnly = !nvPlannedOnly;
+    this.textContent = nvPlannedOnly ? "네이버 기획만" : "네이버 전체";
+    render();
   });
 
   document.getElementById("toggleEmpty").addEventListener("click", function () {

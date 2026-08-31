@@ -2,24 +2,18 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-08-31T14:44:57+09:00",
+ "updated_at": "2026-08-31T17:21:49+09:00",
  "days": {
   "2026-09-01": [
    {
     "start": "00:00",
     "end": "00:59",
-    "brand": "테크니골드",
-    "product": "18K 내추럴 리프 오픈링",
-    "price": 949000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252499737",
+    "brand": "에클랏",
+    "product": "18K 쿠폴라(Cupola) 네크리스",
+    "price": 999000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252750124",
     "slot_id": "202609016020",
     "items": [
-     {
-      "brand": "테크니골드",
-      "product": "18K 내추럴 리프 오픈링",
-      "price": 949000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252499737"
-     },
      {
       "brand": "에클랏",
       "product": "18K 쿠폴라(Cupola) 네크리스",
@@ -91,16 +85,16 @@
     "start": "10:00",
     "end": "10:59",
     "brand": "발렌시아가",
-    "product": "르 시티 스몰 토트백 811442 2ABEK 1000 블랙",
-    "price": 2914000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250930650",
+    "product": "르 시티 미디엄 토트백 865760 2ACLR 1000 블랙",
+    "price": 3793000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252370378",
     "slot_id": "202609016004",
     "items": [
      {
       "brand": "발렌시아가",
-      "product": "르 시티 스몰 토트백 811442 2ABEK 1000 블랙",
-      "price": 2914000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250930650"
+      "product": "르 시티 미디엄 토트백 865760 2ACLR 1000 블랙",
+      "price": 3793000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252370378"
      }
     ],
     "title": "[투명쇼] 인기 명품 60개월 무이자 혜택!",
@@ -240,6 +234,25 @@
     "pgm": "[꼼데가르송] 의류"
    },
    {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "아이러브경북",
+    "product": "승혜축산 무항생제 한돈 선물세트 1.4kg",
+    "price": 48900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253036975",
+    "slot_id": "202609016013",
+    "items": [
+     {
+      "brand": "아이러브경북",
+      "product": "승혜축산 무항생제 한돈 선물세트 1.4kg",
+      "price": 48900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253036975"
+     }
+    ],
+    "title": "드디어 왔다! 무항생제 한돈 특별가!",
+    "pgm": "[위팩토리] 햇고구마/한돈 (일반식품2)"
+   },
+   {
     "start": "21:00",
     "end": "21:59",
     "brand": "아너드",
@@ -301,18 +314,12 @@
    {
     "start": "07:00",
     "end": "07:59",
-    "brand": "테크니골드",
-    "product": "18K 내추럴 리프 오픈링",
-    "price": 949000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252499737",
+    "brand": "에클랏",
+    "product": "18K 쿠폴라(Cupola) 네크리스",
+    "price": 999000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252750124",
     "slot_id": "202609026020",
     "items": [
-     {
-      "brand": "테크니골드",
-      "product": "18K 내추럴 리프 오픈링",
-      "price": 949000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252499737"
-     },
      {
       "brand": "에클랏",
       "product": "18K 쿠폴라(Cupola) 네크리스",
@@ -346,17 +353,11 @@
     "start": "09:00",
     "end": "09:59",
     "brand": "퀸",
-    "product": "[제이제이퀸] 세레나 집게핀 HR2120 HR2120",
-    "price": 83300,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253005002",
+    "product": "[제이제이퀸] 크로바 집게핀 HR1623 HR1623",
+    "price": 62300,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252192843",
     "slot_id": "202609026002",
     "items": [
-     {
-      "brand": "퀸",
-      "product": "[제이제이퀸] 세레나 집게핀 HR2120 HR2120",
-      "price": 83300,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253005002"
-     },
      {
       "brand": "퀸",
       "product": "[제이제이퀸] 크로바 집게핀 HR1623 HR1623",
@@ -482,6 +483,25 @@
     "pgm": "[예천] 큐브된장국"
    },
    {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "밋앤밀",
+    "product": "[농할] [밋앤밀] 국내산 산지직송 창녕 고당도 애플망고 특대과 3kg (6-8과)",
+    "price": 130800,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252626146",
+    "slot_id": "202609026009",
+    "items": [
+     {
+      "brand": "밋앤밀",
+      "product": "[농할] [밋앤밀] 국내산 산지직송 창녕 고당도 애플망고 특대과 3kg (6-8과)",
+      "price": 130800,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252626146"
+     }
+    ],
+    "title": "[밋앤밀] 산지직송 국내산 애플망고 라이브 특별가",
+    "pgm": "편성기획 삽입용 (편성)"
+   },
+   {
     "start": "19:00",
     "end": "19:59",
     "brand": "고비",
@@ -504,14 +524,14 @@
     "start": "20:00",
     "end": "20:59",
     "brand": "랑콤",
-    "product": "[8월] UV 엑스퍼트 톤업 로지 블룸 50ml 세트 (+UV 30ml)",
+    "product": "[9월] UV 엑스퍼트 톤업 로지 블룸 50ml 세트 (+UV 30ml)",
     "price": 99000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2138128747",
     "slot_id": "202609026012",
     "items": [
      {
       "brand": "랑콤",
-      "product": "[8월] UV 엑스퍼트 톤업 로지 블룸 50ml 세트 (+UV 30ml)",
+      "product": "[9월] UV 엑스퍼트 톤업 로지 블룸 50ml 세트 (+UV 30ml)",
       "price": 99000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2138128747"
      }
@@ -653,6 +673,44 @@
     ],
     "title": "[트루엔] 이글루캠 쇼라 단독가!",
     "pgm": "[이글루캠] (액티브라이프)"
+   },
+   {
+    "start": "14:00",
+    "end": "14:59",
+    "brand": "슈프림그로스",
+    "product": "완도산 활 전복 1kg (6-7미) / 대왕 사이즈",
+    "price": 36900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248658715",
+    "slot_id": "202609036009",
+    "items": [
+     {
+      "brand": "슈프림그로스",
+      "product": "완도산 활 전복 1kg (6-7미) / 대왕 사이즈",
+      "price": 36900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248658715"
+     }
+    ],
+    "title": "Hmall 인기 수산물 전복 & 갈치 쇼라 특집!",
+    "pgm": "[슈프림그로스 外] 제주 갈치/전복 (일반식품2)"
+   },
+   {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "밋앤밀",
+    "product": "[농할] [밋앤밀] 국내산 경북 영천 산지직송 추희자두 왕특 2Kg (120g 이상)",
+    "price": 30600,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252697103",
+    "slot_id": "202609036011",
+    "items": [
+     {
+      "brand": "밋앤밀",
+      "product": "[농할] [밋앤밀] 국내산 경북 영천 산지직송 추희자두 왕특 2Kg (120g 이상)",
+      "price": 30600,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252697103"
+     }
+    ],
+    "title": "[밋앤밀] 새콤달콤한 추희자두 라이브 특별가",
+    "pgm": "편성기획 삽입용 (편성)"
    },
    {
     "start": "20:00",
@@ -851,14 +909,14 @@
     "end": "19:59",
     "brand": "삼성금거래소",
     "product": "말 실버바 Silver Bar 100g",
-    "price": 471000,
+    "price": 450000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247975417",
     "slot_id": "202609046012",
     "items": [
      {
       "brand": "삼성금거래소",
       "product": "말 실버바 Silver Bar 100g",
-      "price": 471000,
+      "price": 450000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247975417"
      }
     ],
@@ -967,14 +1025,14 @@
     "end": "14:59",
     "brand": "한민금거래소",
     "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-    "price": 290200,
+    "price": 278600,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581",
     "slot_id": "202609056016",
     "items": [
      {
       "brand": "한민금거래소",
       "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-      "price": 290200,
+      "price": 278600,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581"
      }
     ],
