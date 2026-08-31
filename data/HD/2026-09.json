@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-08-31T12:05:06+09:00",
+ "updated_at": "2026-08-31T13:00:20+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -846,6 +846,25 @@
     ],
     "title": "[삼성금거래소] 풍요의 기원을 담은 순금 골드 코인 ✨",
     "pgm": "[삼성금거래소] 순금 (패션잡화)"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "테팔",
+    "product": "매직핸즈 IH 세리니티 유칼립투스 6p",
+    "price": 299000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249927561",
+    "slot_id": "202609046015",
+    "items": [
+     {
+      "brand": "테팔",
+      "product": "매직핸즈 IH 세리니티 유칼립투스 6p",
+      "price": 299000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249927561"
+     }
+    ],
+    "title": "[테팔] 매직핸즈 & 엑스퍼트 시리즈",
+    "pgm": "[앤드윈] 테팔 주방용품 (편성)"
    },
    {
     "start": "23:00",

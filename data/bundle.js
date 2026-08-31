@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-08-31T12:05:18+09:00",
+ "generated_at": "2026-08-31T13:00:32+09:00",
  "today": "2026-08-31",
  "dates": [
   "2026-08-30",
@@ -493,11 +493,17 @@ window.SCHEDULE = {
      "start": "13:00",
      "end": "13:59",
      "brand": "센카",
-     "product": "[SENKA] 센카 퍼펙트 휩 콜라겐인 x 4ea",
-     "price": 34000,
-     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2203905229",
+     "product": "[SENKA] 2026년 NEW 센카 퍼펙트 휩 페이셜 워시 현대 단독 구성",
+     "price": 66000,
+     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251087368",
      "slot_id": "202608316018",
      "items": [
+      {
+       "brand": "센카",
+       "product": "[SENKA] 2026년 NEW 센카 퍼펙트 휩 페이셜 워시 현대 단독 구성",
+       "price": 66000,
+       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251087368"
+      },
       {
        "brand": "센카",
        "product": "[SENKA] 센카 퍼펙트 휩 콜라겐인 x 4ea",
@@ -1560,6 +1566,25 @@ window.SCHEDULE = {
      ],
      "title": "[삼성금거래소] 풍요의 기원을 담은 순금 골드 코인 ✨",
      "pgm": "[삼성금거래소] 순금 (패션잡화)"
+    },
+    {
+     "start": "22:00",
+     "end": "22:59",
+     "brand": "테팔",
+     "product": "매직핸즈 IH 세리니티 유칼립투스 6p",
+     "price": 299000,
+     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249927561",
+     "slot_id": "202609046015",
+     "items": [
+      {
+       "brand": "테팔",
+       "product": "매직핸즈 IH 세리니티 유칼립투스 6p",
+       "price": 299000,
+       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249927561"
+      }
+     ],
+     "title": "[테팔] 매직핸즈 & 엑스퍼트 시리즈",
+     "pgm": "[앤드윈] 테팔 주방용품 (편성)"
     },
     {
      "start": "23:00",
@@ -2766,6 +2791,17 @@ window.SCHEDULE = {
      "category": "식품·건강"
     },
     {
+     "start": "17:00",
+     "end": "17:59",
+     "brand": "시몬스",
+     "product": "[2개묶음] D2178A. 뷰티레스트 자스민. 퀸+슈퍼싱글 침대.",
+     "price": 6607500,
+     "link": "https://item.cjonstyle.com/item/2004764557?channelCode=30002002",
+     "slot_id": "29215",
+     "title": "다시보는 굿라이프 x 시몬스 입점 특집 ✨역대급 파격조건 ✨",
+     "pgm": "굿라이프"
+    },
+    {
      "start": "18:00",
      "end": "18:59",
      "brand": "리베니프",
@@ -2949,9 +2985,9 @@ window.SCHEDULE = {
      "start": "10:00",
      "end": "10:59",
      "brand": "하베브릭스",
-     "product": "[공구]  바람개비 아기체육관+ 6in1 변신큐브",
-     "price": 138000,
-     "link": "https://item.cjonstyle.com/item/2084416293?channelCode=30002002",
+     "product": "[짱구 pick] 첫 몬테소리 꼬마몬테북+기차놀이+푸시푸시 자동차+회전 링쌓기",
+     "price": 311000,
+     "link": "https://item.cjonstyle.com/item/2092459354?channelCode=30002002",
      "slot_id": "28822",
      "title": "희아패밀리x하베브릭스💗회전볼 러닝테이블 최초 공개! 최대 61% 할인",
      "pgm": "인플루언서LIVE",
@@ -3265,6 +3301,17 @@ window.SCHEDULE = {
      "title": "[삼익가구] 단독론칭 업핏모션데스크 책상 초특가 핫딜! 최대 67%OFF",
      "pgm": "인플루언서LIVE",
      "category": "가구·침구"
+    },
+    {
+     "start": "11:00",
+     "end": "11:59",
+     "brand": "",
+     "product": "드엘리사 Pick, 세라젬 NEW M4부터 인기 모델 M6, V5까지💕",
+     "price": 0,
+     "link": "https://mlive.cjonstyle.com/m/preview/28415",
+     "slot_id": "28415",
+     "title": "드엘리사 Pick, 세라젬 NEW M4부터 인기 모델 M6, V5까지💕",
+     "pgm": "드엘리사적인시선"
     },
     {
      "start": "11:00",
@@ -3776,7 +3823,7 @@ window.SCHEDULE = {
     },
     {
      "start": "11:30",
-     "end": "13:00",
+     "end": "12:31",
      "brand": "심플아이콘",
      "product": "칼로쿡 전자레인지 멀티구이 팬냄비3p세트+추가구성 실리콘찜판",
      "price": 89000,
@@ -3788,7 +3835,7 @@ window.SCHEDULE = {
     },
     {
      "start": "11:30",
-     "end": "13:00",
+     "end": "12:31",
      "brand": "젤리스푼",
      "product": "[젤리스푼] 가을신상 아동복 시즌오픈 특가 - 래쉬가드/상하복/반팔티/원피스 외",
      "price": 14900,
@@ -5444,9 +5491,9 @@ window.SCHEDULE = {
   }
  },
  "updated_at": {
-  "HD": "2026-08-31T12:05:06+09:00",
-  "CJ": "2026-08-31T12:05:12+09:00",
-  "KA": "2026-08-31T12:05:18+09:00",
+  "HD": "2026-08-31T13:00:20+09:00",
+  "CJ": "2026-08-31T13:00:26+09:00",
+  "KA": "2026-08-31T13:00:32+09:00",
   "GM": "2026-08-31T10:02:54+09:00"
  }
 };

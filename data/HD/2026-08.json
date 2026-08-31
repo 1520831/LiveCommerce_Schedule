@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-08",
- "updated_at": "2026-08-31T12:05:06+09:00",
+ "updated_at": "2026-08-31T13:00:20+09:00",
  "days": {
   "2026-08-26": [
    {
@@ -2065,11 +2065,17 @@
     "start": "13:00",
     "end": "13:59",
     "brand": "센카",
-    "product": "[SENKA] 센카 퍼펙트 휩 콜라겐인 x 4ea",
-    "price": 34000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2203905229",
+    "product": "[SENKA] 2026년 NEW 센카 퍼펙트 휩 페이셜 워시 현대 단독 구성",
+    "price": 66000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251087368",
     "slot_id": "202608316018",
     "items": [
+     {
+      "brand": "센카",
+      "product": "[SENKA] 2026년 NEW 센카 퍼펙트 휩 페이셜 워시 현대 단독 구성",
+      "price": 66000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251087368"
+     },
      {
       "brand": "센카",
       "product": "[SENKA] 센카 퍼펙트 휩 콜라겐인 x 4ea",
