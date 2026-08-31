@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-08",
- "updated_at": "2026-08-31T13:34:46+09:00",
+ "updated_at": "2026-08-31T14:02:48+09:00",
  "days": {
   "2026-08-26": [
    {
@@ -1712,6 +1712,12 @@
       "product": "[SENKA] 2026년 NEW 센카 퍼펙트 휩 페이셜 워시 현대 단독 구성",
       "price": 66000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251087368"
+     },
+     {
+      "brand": "센카",
+      "product": "[SENKA] 센카 퍼펙트 휩 화이트 클레이 x 5ea",
+      "price": 39000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2203905452"
      }
     ],
     "title": "[센카, 츠바키] 클렌저 & 헤어케어 모음💦",
@@ -2046,17 +2052,11 @@
     "start": "12:00",
     "end": "12:59",
     "brand": "헤스티아",
-    "product": "18KGP 황금브러쉬 대형+소형 세트(미니 브러쉬 2개 증정)",
-    "price": 69000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253061675",
+    "product": "우드 돈모 헤어 브러쉬 대형",
+    "price": 29800,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253054656",
     "slot_id": "202608316017",
     "items": [
-     {
-      "brand": "헤스티아",
-      "product": "18KGP 황금브러쉬 대형+소형 세트(미니 브러쉬 2개 증정)",
-      "price": 69000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253061675"
-     },
      {
       "brand": "헤스티아",
       "product": "우드 돈모 헤어 브러쉬 대형",
@@ -2081,6 +2081,12 @@
       "product": "[SENKA] 2026년 NEW 센카 퍼펙트 휩 페이셜 워시 현대 단독 구성",
       "price": 66000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251087368"
+     },
+     {
+      "brand": "센카",
+      "product": "[SENKA] 센카 퍼펙트 휩 콜라겐인 x 4ea",
+      "price": 34000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2203905229"
      }
     ],
     "title": "[센카, 츠바키] 클렌저 & 헤어케어 모음💦",
@@ -2091,14 +2097,14 @@
     "end": "14:59",
     "brand": "샐러디 앳 홈",
     "product": "샐러디 고단백 저당 두부 부리또 3종 SET (10입)",
-    "price": 37900,
+    "price": 29900,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252244037",
     "slot_id": "202608316008",
     "items": [
      {
       "brand": "샐러디 앳 홈",
       "product": "샐러디 고단백 저당 두부 부리또 3종 SET (10입)",
-      "price": 37900,
+      "price": 29900,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252244037"
      }
     ],
@@ -2281,14 +2287,14 @@
     "end": "23:59",
     "brand": "주크",
     "product": "테일러드 더블 버튼 기본 자켓 (Z262MSF015) Z262MSF015",
-    "price": 399000,
+    "price": 139650,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251049286",
     "slot_id": "202608316016",
     "items": [
      {
       "brand": "주크",
       "product": "테일러드 더블 버튼 기본 자켓 (Z262MSF015) Z262MSF015",
-      "price": 399000,
+      "price": 139650,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251049286"
      }
     ],

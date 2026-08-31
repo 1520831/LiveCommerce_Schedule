@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-08-31T13:34:59+09:00",
+ "generated_at": "2026-08-31T14:03:01+09:00",
  "today": "2026-08-31",
  "dates": [
   "2026-08-30",
@@ -140,6 +140,12 @@ window.SCHEDULE = {
        "product": "[SENKA] 2026년 NEW 센카 퍼펙트 휩 페이셜 워시 현대 단독 구성",
        "price": 66000,
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251087368"
+      },
+      {
+       "brand": "센카",
+       "product": "[SENKA] 센카 퍼펙트 휩 화이트 클레이 x 5ea",
+       "price": 39000,
+       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2203905452"
       }
      ],
      "title": "[센카, 츠바키] 클렌저 & 헤어케어 모음💦",
@@ -474,17 +480,11 @@ window.SCHEDULE = {
      "start": "12:00",
      "end": "12:59",
      "brand": "헤스티아",
-     "product": "18KGP 황금브러쉬 대형+소형 세트(미니 브러쉬 2개 증정)",
-     "price": 69000,
-     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253061675",
+     "product": "우드 돈모 헤어 브러쉬 대형",
+     "price": 29800,
+     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253054656",
      "slot_id": "202608316017",
      "items": [
-      {
-       "brand": "헤스티아",
-       "product": "18KGP 황금브러쉬 대형+소형 세트(미니 브러쉬 2개 증정)",
-       "price": 69000,
-       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253061675"
-      },
       {
        "brand": "헤스티아",
        "product": "우드 돈모 헤어 브러쉬 대형",
@@ -509,6 +509,12 @@ window.SCHEDULE = {
        "product": "[SENKA] 2026년 NEW 센카 퍼펙트 휩 페이셜 워시 현대 단독 구성",
        "price": 66000,
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251087368"
+      },
+      {
+       "brand": "센카",
+       "product": "[SENKA] 센카 퍼펙트 휩 콜라겐인 x 4ea",
+       "price": 34000,
+       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2203905229"
       }
      ],
      "title": "[센카, 츠바키] 클렌저 & 헤어케어 모음💦",
@@ -519,14 +525,14 @@ window.SCHEDULE = {
      "end": "14:59",
      "brand": "샐러디 앳 홈",
      "product": "샐러디 고단백 저당 두부 부리또 3종 SET (10입)",
-     "price": 37900,
+     "price": 29900,
      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252244037",
      "slot_id": "202608316008",
      "items": [
       {
        "brand": "샐러디 앳 홈",
        "product": "샐러디 고단백 저당 두부 부리또 3종 SET (10입)",
-       "price": 37900,
+       "price": 29900,
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252244037"
       }
      ],
@@ -709,14 +715,14 @@ window.SCHEDULE = {
      "end": "23:59",
      "brand": "주크",
      "product": "테일러드 더블 버튼 기본 자켓 (Z262MSF015) Z262MSF015",
-     "price": 399000,
+     "price": 139650,
      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251049286",
      "slot_id": "202608316016",
      "items": [
       {
        "brand": "주크",
        "product": "테일러드 더블 버튼 기본 자켓 (Z262MSF015) Z262MSF015",
-       "price": 399000,
+       "price": 139650,
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251049286"
       }
      ],
@@ -2430,9 +2436,9 @@ window.SCHEDULE = {
      "start": "19:00",
      "end": "19:59",
      "brand": "나스",
-     "product": "[라이브]NEW 인세이셔블 리퀴드 블러쉬 [+핑거퍼프,거울]",
-     "price": 43350,
-     "link": "https://item.cjonstyle.com/item/2091237409?channelCode=30002002",
+     "product": "[라이브]라이트 리플렉팅 세럼 쿠션 더블 패키지 [+미니블러쉬,파우치]",
+     "price": 102600,
+     "link": "https://item.cjonstyle.com/item/2057792712?channelCode=30002002",
      "slot_id": "28799",
      "title": "김해나 매드딜🖤나스 초특급 메가딜+초특급 사은품",
      "pgm": "매드딜",
@@ -2694,9 +2700,9 @@ window.SCHEDULE = {
      "start": "10:00",
      "end": "10:59",
      "brand": "나스",
-     "product": "[라이브]NEW 인세이셔블 리퀴드 블러쉬 [+핑거퍼프,거울]",
-     "price": 43350,
-     "link": "https://item.cjonstyle.com/item/2091237409?channelCode=30002002",
+     "product": "[라이브]라이트 리플렉팅 세럼 쿠션 더블 패키지 [+미니블러쉬,파우치]",
+     "price": 102600,
+     "link": "https://item.cjonstyle.com/item/2057792712?channelCode=30002002",
      "slot_id": "28974",
      "title": "다시보는 김해나 매드딜🖤나스 초특급 메가딜+초특급 사은품",
      "pgm": "매드딜",
@@ -2710,7 +2716,7 @@ window.SCHEDULE = {
      "price": 1300000,
      "link": "https://item.cjonstyle.com/item/2039924158?channelCode=30002002",
      "slot_id": "28807",
-     "title": "✨까사림 공구! 브레빌 커피머신 876, 881 인상 전 마지막 공구!",
+     "title": "✨까사림 공구!브레빌 876, 881 이 가격 마지막! 월10만원대~",
      "pgm": "까사로그",
      "category": "가전"
     },
@@ -2725,6 +2731,18 @@ window.SCHEDULE = {
      "title": "뒤 돌아보게 하는 향💗 롤리타 램피카 최저가 77% OFF💗",
      "pgm": "라이브쇼",
      "category": "뷰티"
+    },
+    {
+     "start": "11:00",
+     "end": "11:59",
+     "brand": "하랑한복",
+     "product": "[한정수량]보예랑 여아용 아동 한복 세트",
+     "price": 69000,
+     "link": "https://item.cjonstyle.com/item/2091959407?channelCode=30002002",
+     "slot_id": "28975",
+     "title": "[하랑한복X도하상점]도하상점PICK! 추석 한복 미리 준비해요",
+     "pgm": "인플루언서LIVE",
+     "category": "여성패션"
     },
     {
      "start": "11:00",
@@ -2808,6 +2826,18 @@ window.SCHEDULE = {
      "title": "[똘똘한쇼] 강원 춘천 산지직송 포슬포슬 미니 단호박2kg 4kg",
      "pgm": "똘똘한쇼",
      "category": "식품·건강"
+    },
+    {
+     "start": "16:00",
+     "end": "16:59",
+     "brand": "에끌무아",
+     "product": "[BEST볼륨세트] 더블트러플 샴푸 500ml 2개 + 트리트먼트 150ml 2개 + 노워시 100ml 2개 + 증 3종",
+     "price": 81900,
+     "link": "https://item.cjonstyle.com/item/2091148821?channelCode=30002002",
+     "slot_id": "29238",
+     "title": "다시보는 김해나 매드딜🖤탈모케어 퍼퓸샴푸 에끌무아",
+     "pgm": "매드딜",
+     "category": "뷰티"
     },
     {
      "start": "17:00",
@@ -3041,7 +3071,7 @@ window.SCHEDULE = {
      "end": "11:59",
      "brand": "지금이야",
      "product": "24K 순금 999.9 포나인 금테크 골드바 3.75g",
-     "price": 937100,
+     "price": 914200,
      "link": "https://item.cjonstyle.com/item/2040269388?channelCode=30002002",
      "slot_id": "28824",
      "title": "한정 수량 골드&실버바 지금이 기회! 지금이야 오직 방송 중에만 특가",
@@ -3192,6 +3222,18 @@ window.SCHEDULE = {
     {
      "start": "19:00",
      "end": "19:59",
+     "brand": "에르헴",
+     "product": "26FW 캐시미어100 아틀리에 비딩 자수 가디건 1종",
+     "price": 170100,
+     "link": "https://item.cjonstyle.com/item/2091086936?channelCode=30002002",
+     "slot_id": "28831",
+     "title": "💕에르헴 26FW 신상",
+     "pgm": "엣지쇼",
+     "category": "여성패션"
+    },
+    {
+     "start": "19:00",
+     "end": "19:59",
      "brand": "에이스침대",
      "product": "BMA1139-E CA3등급/SS(슈퍼싱글사이즈)",
      "price": 1048780,
@@ -3298,6 +3340,18 @@ window.SCHEDULE = {
     }
    ],
    "2026-09-03": [
+    {
+     "start": "09:00",
+     "end": "09:59",
+     "brand": "에끌무아",
+     "product": "[BEST볼륨세트] 더블트러플 샴푸 500ml 2개 + 트리트먼트 150ml 2개 + 노워시 100ml 2개 + 증 3종",
+     "price": 81900,
+     "link": "https://item.cjonstyle.com/item/2091148821?channelCode=30002002",
+     "slot_id": "29239",
+     "title": "다시보는 김해나 매드딜🖤탈모케어 퍼퓸샴푸 에끌무아",
+     "pgm": "매드딜",
+     "category": "뷰티"
+    },
     {
      "start": "10:00",
      "end": "10:59",
@@ -4117,6 +4171,18 @@ window.SCHEDULE = {
      "pgm": "BBQ 닭다리직화구이바베큐",
      "title": "치킨 외 골라담기 57%할인",
      "category": "식품"
+    },
+    {
+     "start": "22:30",
+     "end": "00:00",
+     "brand": "터치그라운드 스니커즈",
+     "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+     "price": 55000,
+     "link": "https://store.kakao.com/touchground/products/774098244",
+     "slot_id": "59768",
+     "pgm": "터치그라운드 발편한운동화",
+     "title": "가벼우면서 쿠션감 좋은운동화",
+     "category": "패션"
     }
    ],
    "2026-09-02": [
@@ -5522,9 +5588,9 @@ window.SCHEDULE = {
   }
  },
  "updated_at": {
-  "HD": "2026-08-31T13:34:46+09:00",
-  "CJ": "2026-08-31T13:34:52+09:00",
-  "KA": "2026-08-31T13:34:59+09:00",
+  "HD": "2026-08-31T14:02:48+09:00",
+  "CJ": "2026-08-31T14:02:54+09:00",
+  "KA": "2026-08-31T14:03:01+09:00",
   "GM": "2026-08-31T10:02:54+09:00"
  }
 };

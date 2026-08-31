@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-08-31T13:34:52+09:00",
+ "updated_at": "2026-08-31T14:02:54+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -68,9 +68,9 @@
     "start": "10:00",
     "end": "10:59",
     "brand": "나스",
-    "product": "[라이브]NEW 인세이셔블 리퀴드 블러쉬 [+핑거퍼프,거울]",
-    "price": 43350,
-    "link": "https://item.cjonstyle.com/item/2091237409?channelCode=30002002",
+    "product": "[라이브]라이트 리플렉팅 세럼 쿠션 더블 패키지 [+미니블러쉬,파우치]",
+    "price": 102600,
+    "link": "https://item.cjonstyle.com/item/2057792712?channelCode=30002002",
     "slot_id": "28974",
     "title": "다시보는 김해나 매드딜🖤나스 초특급 메가딜+초특급 사은품",
     "pgm": "매드딜",
@@ -84,7 +84,7 @@
     "price": 1300000,
     "link": "https://item.cjonstyle.com/item/2039924158?channelCode=30002002",
     "slot_id": "28807",
-    "title": "✨까사림 공구! 브레빌 커피머신 876, 881 인상 전 마지막 공구!",
+    "title": "✨까사림 공구!브레빌 876, 881 이 가격 마지막! 월10만원대~",
     "pgm": "까사로그",
     "category": "가전"
    },
@@ -99,6 +99,18 @@
     "title": "뒤 돌아보게 하는 향💗 롤리타 램피카 최저가 77% OFF💗",
     "pgm": "라이브쇼",
     "category": "뷰티"
+   },
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "하랑한복",
+    "product": "[한정수량]보예랑 여아용 아동 한복 세트",
+    "price": 69000,
+    "link": "https://item.cjonstyle.com/item/2091959407?channelCode=30002002",
+    "slot_id": "28975",
+    "title": "[하랑한복X도하상점]도하상점PICK! 추석 한복 미리 준비해요",
+    "pgm": "인플루언서LIVE",
+    "category": "여성패션"
    },
    {
     "start": "11:00",
@@ -182,6 +194,18 @@
     "title": "[똘똘한쇼] 강원 춘천 산지직송 포슬포슬 미니 단호박2kg 4kg",
     "pgm": "똘똘한쇼",
     "category": "식품·건강"
+   },
+   {
+    "start": "16:00",
+    "end": "16:59",
+    "brand": "에끌무아",
+    "product": "[BEST볼륨세트] 더블트러플 샴푸 500ml 2개 + 트리트먼트 150ml 2개 + 노워시 100ml 2개 + 증 3종",
+    "price": 81900,
+    "link": "https://item.cjonstyle.com/item/2091148821?channelCode=30002002",
+    "slot_id": "29238",
+    "title": "다시보는 김해나 매드딜🖤탈모케어 퍼퓸샴푸 에끌무아",
+    "pgm": "매드딜",
+    "category": "뷰티"
    },
    {
     "start": "17:00",
@@ -415,7 +439,7 @@
     "end": "11:59",
     "brand": "지금이야",
     "product": "24K 순금 999.9 포나인 금테크 골드바 3.75g",
-    "price": 937100,
+    "price": 914200,
     "link": "https://item.cjonstyle.com/item/2040269388?channelCode=30002002",
     "slot_id": "28824",
     "title": "한정 수량 골드&실버바 지금이 기회! 지금이야 오직 방송 중에만 특가",
@@ -566,6 +590,18 @@
    {
     "start": "19:00",
     "end": "19:59",
+    "brand": "에르헴",
+    "product": "26FW 캐시미어100 아틀리에 비딩 자수 가디건 1종",
+    "price": 170100,
+    "link": "https://item.cjonstyle.com/item/2091086936?channelCode=30002002",
+    "slot_id": "28831",
+    "title": "💕에르헴 26FW 신상",
+    "pgm": "엣지쇼",
+    "category": "여성패션"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
     "brand": "에이스침대",
     "product": "BMA1139-E CA3등급/SS(슈퍼싱글사이즈)",
     "price": 1048780,
@@ -672,6 +708,18 @@
    }
   ],
   "2026-09-03": [
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "에끌무아",
+    "product": "[BEST볼륨세트] 더블트러플 샴푸 500ml 2개 + 트리트먼트 150ml 2개 + 노워시 100ml 2개 + 증 3종",
+    "price": 81900,
+    "link": "https://item.cjonstyle.com/item/2091148821?channelCode=30002002",
+    "slot_id": "29239",
+    "title": "다시보는 김해나 매드딜🖤탈모케어 퍼퓸샴푸 에끌무아",
+    "pgm": "매드딜",
+    "category": "뷰티"
+   },
    {
     "start": "10:00",
     "end": "10:59",
