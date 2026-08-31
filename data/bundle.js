@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-08-31T13:00:32+09:00",
+ "generated_at": "2026-08-31T13:10:19+09:00",
  "today": "2026-08-31",
  "dates": [
   "2026-08-30",
@@ -17,11 +17,11 @@ window.SCHEDULE = {
   },
   {
    "code": "CJ",
-   "name": "CJ 라이브쇼"
+   "name": "CJ온스타일 라이브쇼"
   },
   {
    "code": "KA",
-   "name": "카카오 쇼핑라이브"
+   "name": "카카오 라이브쇼핑"
   },
   {
    "code": "GM",
@@ -130,16 +130,16 @@ window.SCHEDULE = {
      "start": "13:00",
      "end": "13:59",
      "brand": "센카",
-     "product": "[SENKA] 센카 퍼펙트 휩 화이트 클레이 x 5ea",
-     "price": 39000,
-     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2203905452",
+     "product": "[SENKA] 2026년 NEW 센카 퍼펙트 휩 페이셜 워시 현대 단독 구성",
+     "price": 66000,
+     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251087368",
      "slot_id": "202608306019",
      "items": [
       {
        "brand": "센카",
-       "product": "[SENKA] 센카 퍼펙트 휩 화이트 클레이 x 5ea",
-       "price": 39000,
-       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2203905452"
+       "product": "[SENKA] 2026년 NEW 센카 퍼펙트 휩 페이셜 워시 현대 단독 구성",
+       "price": 66000,
+       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251087368"
       }
      ],
      "title": "[센카, 츠바키] 클렌저 & 헤어케어 모음💦",
@@ -503,12 +503,6 @@ window.SCHEDULE = {
        "product": "[SENKA] 2026년 NEW 센카 퍼펙트 휩 페이셜 워시 현대 단독 구성",
        "price": 66000,
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251087368"
-      },
-      {
-       "brand": "센카",
-       "product": "[SENKA] 센카 퍼펙트 휩 콜라겐인 x 4ea",
-       "price": 34000,
-       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2203905229"
       }
      ],
      "title": "[센카, 츠바키] 클렌저 & 헤어케어 모음💦",
@@ -5491,9 +5485,9 @@ window.SCHEDULE = {
   }
  },
  "updated_at": {
-  "HD": "2026-08-31T13:00:20+09:00",
-  "CJ": "2026-08-31T13:00:26+09:00",
-  "KA": "2026-08-31T13:00:32+09:00",
+  "HD": "2026-08-31T13:10:06+09:00",
+  "CJ": "2026-08-31T13:10:12+09:00",
+  "KA": "2026-08-31T13:10:19+09:00",
   "GM": "2026-08-31T10:02:54+09:00"
  }
 };

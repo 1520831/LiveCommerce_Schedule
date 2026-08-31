@@ -49,6 +49,13 @@
        카카오도 같은 이유로 브랜드 노랑 대신 어두운 올리브를 쓴다. */
     --gm:        #017F00;
     --gm-bg:     #F1F8F1;
+    /* 머리글 칸 전체를 채우는 파스텔. 네 색의 **밝기를 0.78 로 맞춰** 한 채널만
+       무거워 보이지 않게 했다(흰색에 14~18% 섞은 값이라 비율은 색마다 다르다).
+       슬롯 틴트(0.91~0.92)보다 진해서 머리글이 표 본문과 구분된다. */
+    --hd-head:   #F8DFE3;
+    --cj-head:   #E9E2EF;
+    --ka-head:   #EAE5D1;
+    --gm-head:   #D6EAD5;
     /* 브랜드명 전용. 채널색(빨강·보라·올리브·초록) 어느 것과도 안 겹쳐야, 같은
        슬롯 안에서 시간(채널색)과 브랜드가 서로 다른 정보라는 게 색으로 드러난다.
        어느 채널이든 브랜드는 이 색이라 세로로 훑을 때 브랜드만 따로 읽힌다.
@@ -217,6 +224,13 @@
   }
   .head > div { padding: 11px 10px; display: flex; align-items: center; justify-content: center; gap: 8px; }
   .head .hcol { justify-content: flex-start; font-size: 11.5px; color: var(--muted); padding-left: 12px; }
+  /* 채널 머리글은 칸 전체를 그 채널 색의 파스텔로 채운다. 알약만 칠하던 때보다
+     어느 열이 어느 채널인지 멀리서도 잡힌다. 시간 열(.hcol)은 채널이 아니라
+     그대로 흰 바탕이다. */
+  .head .ch-hd { background: var(--hd-head); }
+  .head .ch-cj { background: var(--cj-head); }
+  .head .ch-ka { background: var(--ka-head); }
+  .head .ch-gm { background: var(--gm-head); }
   .pill {
     display: inline-block; padding: 4px 16px; border-radius: 999px;
     min-width: 58px; text-align: center;
@@ -241,7 +255,9 @@
   .logo-cj { background-image: url("data:image/png;base64,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"); }
   .logo-ka { background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB10lEQVR42u1XP0gCURz+3p0UBdJBQ9BkS0FLkY6B2hYIQks4iVS2NdjQJuXWIo5hhOlSjZJrpHuWjtqQLUnQcHERLfprOC89PS3PPzfkBw8ev/d83/d+v+/9DoER/juYMhHAsxg3dyCAnxm6AAE8u+UWLpbZ5OawM8AZSQ4A7IFbvDSKHAAY8TZSRZbmAbcDSFwDpbJ6t9sOCGYgmQH2PEAmKw8FXhcwZQYSKXm9Gc37AYB4G6nGUZSIiGhtl1rWiIjSd0TTzvq8eT1XkH+rhY39ljNNuvImSkC+CNit9Zgyb7xh6BQIRTubUHfxFCK3vb2Av7wC3QKSGTWxfaUm4F7tiZsTeYQDA8rAjwCrHBOlNmX70AybenpDmaxMrJSh8fYAEE8N0AONhEG/rvp3zkA4oE5nIKzhgzQQ3JF7h5YAr6vuDUDuD/HULwKeX7Rv8i7VGklDmvPF+t58Uf1Mtc7Q8EdrJxwicvR5xRlJ7qwWPJyR5CIqZEqTFOnlMAsbs1kwvqpFIqJSbrEBKq++6tOxiEp/Sn/IzTqaPzAxzrI1+FbcBuf0tu2rls4MEdAteV8FpEmKdEsOAHyvxA5mtgjgJ9arj/4vGNBSHMwsCODZ6B/OCHrxDTNzBicnMxhgAAAAAElFTkSuQmCC"); }
   .logo-gm { background-image: url("data:image/png;base64,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"); }
-  .head .cnt { font-size: 11.5px; color: var(--muted); font-variant-numeric: tabular-nums; }
+  /* 파스텔 바탕에서는 --muted(회색)가 2.67:1 밖에 안 나와 안 읽힌다.
+     한 단계 진한 --ink-soft 로 올리면 6.89:1 이다. */
+  .head .cnt { font-size: 11.5px; color: var(--ink-soft); font-variant-numeric: tabular-nums; }
 
   .row { border-top: 1px solid var(--line-soft); min-height: 44px; position: relative; }
   .head + .row { border-top: 0; }
@@ -503,12 +519,12 @@
         <td>방송명이 <code>[재방]</code> 으로 시작</td>
       </tr>
       <tr>
-        <td><b>CJ</b> CJ 라이브쇼</td>
+        <td><b>CJ</b> CJ온스타일 라이브쇼</td>
         <td>회차 제목</td>
         <td>제목이 <code>다시보는</code> 으로 시작</td>
       </tr>
       <tr>
-        <td><b>KA</b> 카카오 쇼핑라이브</td>
+        <td><b>KA</b> 카카오 라이브쇼핑</td>
         <td>방송 상세</td>
         <td><code>encore</code> 플래그가 참 (앵콜 방송)</td>
       </tr>
@@ -877,8 +893,11 @@
       var lo = c.code.toLowerCase();
       // 로고가 있는 채널만 붙인다. 없는 채널에 빈 자리를 두면 알약이 서로
       // 어긋나 보인다(현대는 쓸 만한 로고가 없어 빠져 있다).
+      d.className = "ch-" + lo;
+      // 머리글에는 채널 **이름**을 쓴다. 위쪽 필터 버튼은 좁아서 코드(HD/CJ/…)를
+      // 그대로 두므로, 둘을 잇는 것은 색과 로고다.
       d.innerHTML = (CH_LOGO[c.code] ? '<span class="chlogo logo-' + lo + '"></span>' : "") +
-                    '<span class="pill ' + lo + '">' + c.code + "</span>" +
+                    '<span class="pill ' + lo + '">' + c.name + "</span>" +
                     '<span class="cnt">' + (n === null ? "데이터 없음" : n + "건") + "</span>";
       head.appendChild(d);
     });
