@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-08-31T14:20:40+09:00",
+ "generated_at": "2026-08-31T14:45:09+09:00",
  "today": "2026-08-31",
  "dates": [
   "2026-08-30",
@@ -21,7 +21,7 @@ window.SCHEDULE = {
   },
   {
    "code": "KA",
-   "name": "카카오 라이브쇼핑"
+   "name": "카카오 쇼핑라이브"
   },
   {
    "code": "GM",
@@ -733,6 +733,12 @@ window.SCHEDULE = {
        "product": "18K 내추럴 리프 오픈링",
        "price": 949000,
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252499737"
+      },
+      {
+       "brand": "에클랏",
+       "product": "18K 쿠폴라(Cupola) 네크리스",
+       "price": 999000,
+       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252750124"
       }
      ],
      "title": "[노블리타] 20만원대 18K 끈팔찌 최대 52%🔻",
@@ -1020,6 +1026,12 @@ window.SCHEDULE = {
        "product": "18K 내추럴 리프 오픈링",
        "price": 949000,
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252499737"
+      },
+      {
+       "brand": "에클랏",
+       "product": "18K 쿠폴라(Cupola) 네크리스",
+       "price": 999000,
+       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252750124"
       }
      ],
      "title": "[노블리타] 20만원대 18K 끈팔찌 최대 52%🔻",
@@ -1058,6 +1070,12 @@ window.SCHEDULE = {
        "product": "[제이제이퀸] 세레나 집게핀 HR2120 HR2120",
        "price": 83300,
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253005002"
+      },
+      {
+       "brand": "퀸",
+       "product": "[제이제이퀸] 크로바 집게핀 HR1623 HR1623",
+       "price": 62300,
+       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252192843"
       }
      ],
      "title": "[JJQUEEN] 헤어악세사리/브로치/주얼리 外",
@@ -2083,7 +2101,7 @@ window.SCHEDULE = {
      "start": "21:00",
      "end": "21:59",
      "brand": "락포트",
-     "product": "[공식정품] NEW 새틴 메리제인 스니커즈",
+     "product": "[공식정품] NEW 트루테크 새틴 메리제인 스니커즈",
      "price": 149000,
      "link": "https://item.cjonstyle.com/item/2089145922?channelCode=30002002",
      "slot_id": "28634",
@@ -2412,7 +2430,7 @@ window.SCHEDULE = {
      "link": "https://item.cjonstyle.com/item/2091148821?channelCode=30002002",
      "slot_id": "28798",
      "title": "김해나 매드딜🖤탈모케어 퍼퓸샴푸 에끌무아 ~60% 미친 딜 특가",
-     "pgm": "매드딜",
+     "pgm": "김해나의 매드딜",
      "category": "뷰티"
     },
     {
@@ -2448,7 +2466,7 @@ window.SCHEDULE = {
      "link": "https://item.cjonstyle.com/item/2057792712?channelCode=30002002",
      "slot_id": "28799",
      "title": "김해나 매드딜🖤나스 초특급 메가딜+초특급 사은품",
-     "pgm": "매드딜",
+     "pgm": "김해나의 매드딜",
      "category": "뷰티"
     },
     {
@@ -2683,13 +2701,14 @@ window.SCHEDULE = {
     {
      "start": "10:00",
      "end": "10:59",
-     "brand": "",
-     "product": "도깨비방망이😈헤리티지 무선 블렌더 ~44%🥘유진이랑 공구",
-     "price": 0,
-     "link": "https://mlive.cjonstyle.com/m/preview/28806",
+     "brand": "도깨비방망이",
+     "product": "헤리티지 프리미엄 1995 마스터 무선 핸드블렌더",
+     "price": 199800,
+     "link": "https://item.cjonstyle.com/item/2090731086?channelCode=30002002",
      "slot_id": "28806",
      "title": "도깨비방망이😈헤리티지 무선 블렌더 ~44%🥘유진이랑 공구",
-     "pgm": "인플루언서LIVE"
+     "pgm": "인플루언서LIVE",
+     "category": "가전"
     },
     {
      "start": "10:00",
@@ -2712,7 +2731,7 @@ window.SCHEDULE = {
      "link": "https://item.cjonstyle.com/item/2057792712?channelCode=30002002",
      "slot_id": "28974",
      "title": "다시보는 김해나 매드딜🖤나스 초특급 메가딜+초특급 사은품",
-     "pgm": "매드딜",
+     "pgm": "김해나의 매드딜",
      "category": "뷰티"
     },
     {
@@ -2802,7 +2821,7 @@ window.SCHEDULE = {
      "start": "13:00",
      "end": "13:59",
      "brand": "락포트",
-     "product": "[공식정품] NEW 새틴 메리제인 스니커즈",
+     "product": "[공식정품] NEW 트루테크 새틴 메리제인 스니커즈",
      "price": 149000,
      "link": "https://item.cjonstyle.com/item/2089145922?channelCode=30002002",
      "slot_id": "28979",
@@ -2843,7 +2862,7 @@ window.SCHEDULE = {
      "link": "https://item.cjonstyle.com/item/2091148821?channelCode=30002002",
      "slot_id": "29238",
      "title": "다시보는 김해나 매드딜🖤탈모케어 퍼퓸샴푸 에끌무아",
-     "pgm": "매드딜",
+     "pgm": "김해나의 매드딜",
      "category": "뷰티"
     },
     {
@@ -2908,13 +2927,26 @@ window.SCHEDULE = {
     {
      "start": "19:00",
      "end": "19:59",
-     "brand": "",
-     "product": "드디어 물량 확보! 네리티아 파운데이션 앵콜 LIVE",
-     "price": 0,
-     "link": "https://mlive.cjonstyle.com/m/preview/28814",
+     "brand": "네리티아",
+     "product": "세럼 파운데이션 6개 + 팩 2개 + 광채 콩 앰플 1개",
+     "price": 299400,
+     "link": "https://item.cjonstyle.com/item/2092080051?channelCode=30002002",
      "slot_id": "28814",
      "title": "드디어 물량 확보! 네리티아 파운데이션 앵콜 LIVE",
-     "pgm": "라이브쇼"
+     "pgm": "라이브쇼",
+     "category": "뷰티"
+    },
+    {
+     "start": "19:00",
+     "end": "19:59",
+     "brand": "LG전자",
+     "product": "LG 휘센 뷰I프로 에어컨 6시리즈_콜드프리 1등급 공청 18+6 2IN1  FQ18GV6EE2",
+     "price": 3815200,
+     "link": "https://item.cjonstyle.com/item/2083799996?channelCode=30002002",
+     "slot_id": "28982",
+     "title": "다시보는 LG전자 에어컨+전기레인지 특집조건 방송🚨",
+     "pgm": "라이브쇼",
+     "category": "가전"
     },
     {
      "start": "19:00",
@@ -3380,7 +3412,7 @@ window.SCHEDULE = {
      "link": "https://item.cjonstyle.com/item/2091148821?channelCode=30002002",
      "slot_id": "29239",
      "title": "다시보는 김해나 매드딜🖤탈모케어 퍼퓸샴푸 에끌무아",
-     "pgm": "매드딜",
+     "pgm": "김해나의 매드딜",
      "category": "뷰티"
     },
     {
@@ -3605,6 +3637,18 @@ window.SCHEDULE = {
      "title": "다시보는 [삼익가구] 단독론칭 업핏모션데스크 책상 초특가 핫딜!",
      "pgm": "인플루언서LIVE",
      "category": "가구·침구"
+    },
+    {
+     "start": "11:00",
+     "end": "11:59",
+     "brand": "디스커버리",
+     "product": "여성 퀼팅 사파리 워크 자켓 DWPD36056",
+     "price": 130730,
+     "link": "https://item.cjonstyle.com/item/2091729214?channelCode=30002002",
+     "slot_id": "28854",
+     "title": "🎇디스커버리 F/W 역시즌 이월 상품 특가",
+     "pgm": "라이브쇼",
+     "category": "스포츠·아웃도어"
     },
     {
      "start": "11:00",
@@ -5655,9 +5699,9 @@ window.SCHEDULE = {
   }
  },
  "updated_at": {
-  "HD": "2026-08-31T14:20:26+09:00",
-  "CJ": "2026-08-31T14:20:33+09:00",
-  "KA": "2026-08-31T14:20:40+09:00",
+  "HD": "2026-08-31T14:44:57+09:00",
+  "CJ": "2026-08-31T14:45:02+09:00",
+  "KA": "2026-08-31T14:45:09+09:00",
   "GM": "2026-08-31T10:02:54+09:00"
  }
 };

@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-08-31T14:20:26+09:00",
+ "updated_at": "2026-08-31T14:44:57+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -19,6 +19,12 @@
       "product": "18K 내추럴 리프 오픈링",
       "price": 949000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252499737"
+     },
+     {
+      "brand": "에클랏",
+      "product": "18K 쿠폴라(Cupola) 네크리스",
+      "price": 999000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252750124"
      }
     ],
     "title": "[노블리타] 20만원대 18K 끈팔찌 최대 52%🔻",
@@ -306,6 +312,12 @@
       "product": "18K 내추럴 리프 오픈링",
       "price": 949000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252499737"
+     },
+     {
+      "brand": "에클랏",
+      "product": "18K 쿠폴라(Cupola) 네크리스",
+      "price": 999000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252750124"
      }
     ],
     "title": "[노블리타] 20만원대 18K 끈팔찌 최대 52%🔻",
@@ -344,6 +356,12 @@
       "product": "[제이제이퀸] 세레나 집게핀 HR2120 HR2120",
       "price": 83300,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253005002"
+     },
+     {
+      "brand": "퀸",
+      "product": "[제이제이퀸] 크로바 집게핀 HR1623 HR1623",
+      "price": 62300,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252192843"
      }
     ],
     "title": "[JJQUEEN] 헤어악세사리/브로치/주얼리 外",

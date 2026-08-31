@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-08",
- "updated_at": "2026-08-31T14:20:33+09:00",
+ "updated_at": "2026-08-31T14:45:02+09:00",
  "days": {
   "2026-08-26": [
    {
@@ -2236,7 +2236,7 @@
     "start": "21:00",
     "end": "21:59",
     "brand": "락포트",
-    "product": "[공식정품] NEW 새틴 메리제인 스니커즈",
+    "product": "[공식정품] NEW 트루테크 새틴 메리제인 스니커즈",
     "price": 149000,
     "link": "https://item.cjonstyle.com/item/2089145922?channelCode=30002002",
     "slot_id": "28634",
@@ -2565,7 +2565,7 @@
     "link": "https://item.cjonstyle.com/item/2091148821?channelCode=30002002",
     "slot_id": "28798",
     "title": "김해나 매드딜🖤탈모케어 퍼퓸샴푸 에끌무아 ~60% 미친 딜 특가",
-    "pgm": "매드딜",
+    "pgm": "김해나의 매드딜",
     "category": "뷰티"
    },
    {
@@ -2601,7 +2601,7 @@
     "link": "https://item.cjonstyle.com/item/2057792712?channelCode=30002002",
     "slot_id": "28799",
     "title": "김해나 매드딜🖤나스 초특급 메가딜+초특급 사은품",
-    "pgm": "매드딜",
+    "pgm": "김해나의 매드딜",
     "category": "뷰티"
    },
    {
