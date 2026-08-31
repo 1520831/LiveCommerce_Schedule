@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-08-31T18:07:09+09:00",
+ "updated_at": "2026-08-31T23:39:54+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -579,9 +579,9 @@
     "start": "08:30",
     "end": "10:00",
     "brand": "메디힐",
-    "product": "메디힐 더마 패드/에센셜마스크/팩클렌저 모음딜",
-    "price": 60000,
-    "link": "https://store.kakao.com/mediheal/products/727288061",
+    "product": "메디힐 에센셜 마스크 50매 (7종 택 3)",
+    "price": 47400,
+    "link": "https://store.kakao.com/mediheal/products/730643719",
     "slot_id": "59474",
     "pgm": "메디힐 BEST 전품목 할인",
     "title": "여름 피지각질 클렌징 케어",

@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-08",
- "updated_at": "2026-08-31T18:06:58+09:00",
+ "updated_at": "2026-08-31T23:39:41+09:00",
  "days": {
   "2026-08-26": [
    {
@@ -1741,14 +1741,14 @@
     "end": "15:59",
     "brand": "리딩게이트",
     "product": "온라인 영어 독서 프로그램 12개월 이용권",
-    "price": 432000,
+    "price": 197500,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248587828",
     "slot_id": "202608306020",
     "items": [
      {
       "brand": "리딩게이트",
       "product": "온라인 영어 독서 프로그램 12개월 이용권",
-      "price": 432000,
+      "price": 197500,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248587828"
      }
     ],
@@ -2197,14 +2197,14 @@
     "start": "18:00",
     "end": "18:59",
     "brand": "미닉스",
-    "product": "[26년형 최신상] 미닉스 미니건조기 5kg 더 에어드라이 [MNMD-200G] (사은품 : 건조기시트)",
+    "product": "[26년형 최신상] 미닉스 미니건조기 5kg 더 에어드라이 [MNMD-200G]",
     "price": 499000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252655754",
     "slot_id": "202608316012",
     "items": [
      {
       "brand": "미닉스",
-      "product": "[26년형 최신상] 미닉스 미니건조기 5kg 더 에어드라이 [MNMD-200G] (사은품 : 건조기시트)",
+      "product": "[26년형 최신상] 미닉스 미니건조기 5kg 더 에어드라이 [MNMD-200G]",
       "price": 499000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252655754"
      }
@@ -2236,14 +2236,14 @@
     "end": "19:59",
     "brand": "리딩게이트",
     "product": "온라인 영어 독서 프로그램 12개월 이용권",
-    "price": 432000,
+    "price": 197500,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248587828",
     "slot_id": "202608316024",
     "items": [
      {
       "brand": "리딩게이트",
       "product": "온라인 영어 독서 프로그램 12개월 이용권",
-      "price": 432000,
+      "price": 197500,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248587828"
      }
     ],
@@ -2325,6 +2325,24 @@
     ],
     "title": "[VIPKID] 새학기 특집 쇼라 핫딜🔥",
     "pgm": "[재방] VIPKID 화상영어 (렌탈)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "주크",
+    "product": "테일러드 더블 버튼 기본 자켓 (Z262MSF015) Z262MSF015",
+    "price": 139650,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251049286",
+    "slot_id": "202608316016",
+    "items": [
+     {
+      "brand": "주크",
+      "product": "테일러드 더블 버튼 기본 자켓 (Z262MSF015) Z262MSF015",
+      "price": 139650,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251049286"
+     }
+    ],
+    "title": "[쥬크] 26S/S 베스트 아이템 최종 혜택가 방송!"
    }
   ]
  }

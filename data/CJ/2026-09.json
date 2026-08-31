@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-08-31T18:07:04+09:00",
+ "updated_at": "2026-08-31T23:39:48+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -213,7 +213,7 @@
     "end": "17:59",
     "brand": "시몬스",
     "product": "[2개묶음] D2178A. 뷰티레스트 자스민. 퀸+슈퍼싱글 침대.",
-    "price": 6607500,
+    "price": 5374100,
     "link": "https://item.cjonstyle.com/item/2004764557?channelCode=30002002",
     "slot_id": "29215",
     "title": "다시보는 굿라이프 x 시몬스 입점 특집 ✨역대급 파격조건 ✨",
@@ -282,14 +282,13 @@
    {
     "start": "19:00",
     "end": "19:59",
-    "brand": "LG전자",
-    "product": "LG 휘센 뷰I프로 에어컨 6시리즈_콜드프리 1등급 공청 18+6 2IN1  FQ18GV6EE2",
-    "price": 3815200,
-    "link": "https://item.cjonstyle.com/item/2083799996?channelCode=30002002",
+    "brand": "",
+    "product": "다시보는 LG전자 에어컨+전기레인지 특집조건 방송🚨",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/28982",
     "slot_id": "28982",
     "title": "다시보는 LG전자 에어컨+전기레인지 특집조건 방송🚨",
-    "pgm": "라이브쇼",
-    "category": "가전"
+    "pgm": "라이브쇼"
    },
    {
     "start": "19:00",
@@ -356,7 +355,7 @@
     "end": "21:59",
     "brand": "카르텔",
     "product": "콤포니빌리 수납장 3단 화이트 Componibili 3round White",
-    "price": 359000,
+    "price": 269250,
     "link": "https://item.cjonstyle.com/item/2091946952?channelCode=30002002",
     "slot_id": "28817",
     "title": "프리미엄 브랜드 카르텔! 공식수입사 정품! 첫 모바일 론칭 특가 라이브❤",
