@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-09-01T16:12:16+09:00",
+ "updated_at": "2026-09-01T16:33:39+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -863,8 +863,8 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "모모마켓",
-    "product": "홍대쭈꾸미 300g 5팩 500g 4팩 수제양념 쭈꾸미볶음 냉동간편식",
-    "price": 54500,
+    "product": "홍대쭈꾸미 300g 6팩 500g 4팩 수제양념 쭈꾸미볶음 냉동간편식",
+    "price": 52300,
     "link": "https://store.kakao.com/momomarket/products/617722614",
     "slot_id": "59813",
     "pgm": "홍대쭈꾸미 300g 6팩 외",

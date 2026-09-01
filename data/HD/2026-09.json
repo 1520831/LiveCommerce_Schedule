@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-01T16:12:02+09:00",
+ "updated_at": "2026-09-01T16:33:25+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -825,6 +825,25 @@
     ],
     "title": "Hmall 인기 수산물 전복 & 갈치 쇼라 특집!",
     "pgm": "[슈프림그로스 外] 제주 갈치/전복 (일반식품2)"
+   },
+   {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "가히",
+    "product": "스틱 파운데이션+포켓 브러시",
+    "price": 34900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250661411",
+    "slot_id": "202609036021",
+    "items": [
+     {
+      "brand": "가히",
+      "product": "스틱 파운데이션+포켓 브러시",
+      "price": 34900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250661411"
+     }
+    ],
+    "title": "가히 오프라인 대란템⭐ 스틱 파운데이션",
+    "pgm": "[가히] 뷰티 (뷰티2)"
    },
    {
     "start": "17:00",
