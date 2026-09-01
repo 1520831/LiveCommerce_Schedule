@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-09-01T07:06:10+09:00",
+ "updated_at": "2026-09-01T10:14:22+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -46,7 +46,7 @@
     "end": "10:59",
     "brand": "도깨비방망이",
     "product": "헤리티지 프리미엄 1995 마스터 무선 핸드블렌더",
-    "price": 199800,
+    "price": 139000,
     "link": "https://item.cjonstyle.com/item/2090731086?channelCode=30002002",
     "slot_id": "28806",
     "title": "도깨비방망이😈헤리티지 무선 블렌더 ~44%🥘유진이랑 공구",
@@ -58,7 +58,7 @@
     "end": "10:59",
     "brand": "WMF",
     "product": "키친미니스미니그릴",
-    "price": 169000,
+    "price": 119000,
     "link": "https://item.cjonstyle.com/item/2084733183?channelCode=30002002",
     "slot_id": "28973",
     "title": "[이비쿡스XWMF]이비쿡스가 선택한 WMF! 홈캠핑 감성의 미니그릴!",
@@ -449,6 +449,42 @@
   ],
   "2026-09-02": [
    {
+    "start": "08:00",
+    "end": "08:59",
+    "brand": "보테가지오띠",
+    "product": "토르나부오니 3컬러",
+    "price": 1100000,
+    "link": "https://item.cjonstyle.com/item/2091648628?channelCode=30002002",
+    "slot_id": "29253",
+    "title": "다시보는 보테가지오띠 X 오복하우스👜 CJ 단독 런칭 초특가!",
+    "pgm": "오복하우스 다복한타임",
+    "category": "잡화·슈즈"
+   },
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "로보",
+    "product": "25FW 리버시블 후드 숏 무스탕",
+    "price": 1190000,
+    "link": "https://item.cjonstyle.com/item/2073791119?channelCode=30002002",
+    "slot_id": "29223",
+    "title": "다시보는 FW 얼리버드 특가! 무스탕&스웨이드 방송 중 추가 할인",
+    "pgm": "엣지쇼",
+    "category": "여성패션"
+   },
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "레드루트",
+    "product": "[도하상점] 3PACK 컬러 케어 세탁 부시팅 캡슐 표백제",
+    "price": 35900,
+    "link": "https://item.cjonstyle.com/item/2091782544?channelCode=30002002",
+    "slot_id": "29236",
+    "title": "다시보는 도하상점&레드루트 캡슐표백제 CJ론칭 공구",
+    "pgm": "인플루언서LIVE",
+    "category": "유아동"
+   },
+   {
     "start": "10:00",
     "end": "11:19",
     "brand": "",
@@ -482,6 +518,18 @@
     "title": "카루셀리 PICK💖 2026 네바 커트러리 최신상 컬러 단독공개!",
     "pgm": "오늘도 카루셀리PICK",
     "category": "주방·잡화"
+   },
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "롤리타렘피카",
+    "product": "롤리타 렘피카 EDP 100ml + 바이얼 샘플 향수 1.5ml 2개 + 선물용 쇼핑백",
+    "price": 48270,
+    "link": "https://item.cjonstyle.com/item/2081040520?channelCode=30002002",
+    "slot_id": "28991",
+    "title": "다시보는 뒤 돌아보게 하는 향💗 롤리타 램피카 최저가💗",
+    "pgm": "라이브쇼",
+    "category": "뷰티"
    },
    {
     "start": "10:20",
@@ -519,6 +567,18 @@
     "pgm": "인플루언서LIVE"
    },
    {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "맛있는家",
+    "product": "아임에코 가벼운샘 생수 무라벨 부드러운 연수  2L, 6병",
+    "price": 3850,
+    "link": "https://item.cjonstyle.com/item/2066652180?channelCode=30002002",
+    "slot_id": "28993",
+    "title": "왔다장보러📢생수+영양삼계탕+오로바일렌+함박스테이크+손질왕낙지 外",
+    "pgm": "왔다! 장보러",
+    "category": "식품·건강"
+   },
+   {
     "start": "12:00",
     "end": "12:59",
     "brand": "",
@@ -543,7 +603,7 @@
    },
    {
     "start": "12:00",
-    "end": "12:59",
+    "end": "13:00",
     "brand": "설화수",
     "product": "윤조에센스 6세대 90ml 기획세트",
     "price": 126000,
@@ -552,6 +612,18 @@
     "title": "다시보는 겟잇뷰티Special💜 소비요정이 픽한 럭스 뷰티 신상템",
     "pgm": "겟잇뷰티 스페셜",
     "category": "뷰티"
+   },
+   {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "도깨비방망이",
+    "product": "헤리티지 프리미엄 1995 마스터 무선 핸드블렌더",
+    "price": 139000,
+    "link": "https://item.cjonstyle.com/item/2090731086?channelCode=30002002",
+    "slot_id": "28995",
+    "title": "도깨비방망이/(0901 10시재방)도깨비방망이",
+    "pgm": "인플루언서LIVE",
+    "category": "가전"
    },
    {
     "start": "13:00",
@@ -794,6 +866,18 @@
    }
   ],
   "2026-09-03": [
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "레드루트",
+    "product": "[도하상점] 3PACK 컬러 케어 세탁 부시팅 캡슐 표백제",
+    "price": 35900,
+    "link": "https://item.cjonstyle.com/item/2091782544?channelCode=30002002",
+    "slot_id": "29237",
+    "title": "다시보는 도하상점&레드루트 캡슐표백제 CJ론칭 공구",
+    "pgm": "인플루언서LIVE",
+    "category": "유아동"
+   },
    {
     "start": "09:00",
     "end": "09:59",
@@ -1102,6 +1186,18 @@
     "title": "스페인 1위 올레오에스테파 시그니처 조기수확 엑스트라버진 3종 🫒",
     "pgm": "똘똘한쇼",
     "category": "식품·건강"
+   },
+   {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "도깨비방망이",
+    "product": "헤리티지 프리미엄 1995 마스터 무선 핸드블렌더",
+    "price": 139000,
+    "link": "https://item.cjonstyle.com/item/2090731086?channelCode=30002002",
+    "slot_id": "29038",
+    "title": "다시보는 도깨비방망이😈 헤리티지 무선 블렌더🥘유진이랑 공구",
+    "pgm": "인플루언서LIVE",
+    "category": "가전"
    },
    {
     "start": "12:00",

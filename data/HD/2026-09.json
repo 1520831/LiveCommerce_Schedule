@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-01T07:06:03+09:00",
+ "updated_at": "2026-09-01T10:14:16+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -47,16 +47,16 @@
     "start": "08:00",
     "end": "08:59",
     "brand": "에고이스트",
-    "product": "[아울렛][BLUE LABEL] 컬러 체리 포인트 부클 풀오버 ER2OKL52 ER2OKL52",
-    "price": 39600,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253058475",
+    "product": "[BLUE LABEL] 크롭 페이크 무스탕 베스트 ER4OMV51 ER4OMV51",
+    "price": 99600,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253037425",
     "slot_id": "202609016002",
     "items": [
      {
       "brand": "에고이스트",
-      "product": "[아울렛][BLUE LABEL] 컬러 체리 포인트 부클 풀오버 ER2OKL52 ER2OKL52",
-      "price": 39600,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253058475"
+      "product": "[BLUE LABEL] 크롭 페이크 무스탕 베스트 ER4OMV51 ER4OMV51",
+      "price": 99600,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253037425"
      }
     ],
     "title": "[에고이스트] 스페이스원 아울렛 첫방송💥",
@@ -85,16 +85,16 @@
     "start": "10:00",
     "end": "10:59",
     "brand": "발렌시아가",
-    "product": "르 시티 미디엄 토트백 865760 2ACLR 1000 블랙",
-    "price": 3793000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252370378",
+    "product": "르 시티 스몰 토트백 811442 2ABEK 1000 블랙",
+    "price": 3314000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250930650",
     "slot_id": "202609016004",
     "items": [
      {
       "brand": "발렌시아가",
-      "product": "르 시티 미디엄 토트백 865760 2ACLR 1000 블랙",
-      "price": 3793000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252370378"
+      "product": "르 시티 스몰 토트백 811442 2ABEK 1000 블랙",
+      "price": 3314000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250930650"
      }
     ],
     "title": "[투명쇼] 인기 명품 60개월 무이자 혜택!",
@@ -232,6 +232,25 @@
     ],
     "title": "[꼼데가르송] 티셔츠, 가디건 FW 의류 특집",
     "pgm": "[꼼데가르송] 의류"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "지금이야",
+    "product": "정미년 양띠 카드형 골드바 3.75g 24K 순금 999.9 포나인",
+    "price": 1004700,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252874132",
+    "slot_id": "202609016012",
+    "items": [
+     {
+      "brand": "지금이야",
+      "product": "정미년 양띠 카드형 골드바 3.75g 24K 순금 999.9 포나인",
+      "price": 1004700,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252874132"
+     }
+    ],
+    "title": "[지금이야] 골드바 + 실버바 핫딜!",
+    "pgm": "[지금이야] 금 (패션잡화)"
    },
    {
     "start": "20:00",
@@ -499,7 +518,7 @@
      }
     ],
     "title": "[밋앤밀] 산지직송 국내산 애플망고 라이브 특별가",
-    "pgm": "편성기획 삽입용 (편성)"
+    "pgm": "[잭슨코리아] 애플망고"
    },
    {
     "start": "19:00",
@@ -710,7 +729,7 @@
      }
     ],
     "title": "[밋앤밀] 새콤달콤한 추희자두 라이브 특별가",
-    "pgm": "편성기획 삽입용 (편성)"
+    "pgm": "[잭슨코리아] 추희 자두"
    },
    {
     "start": "20:00",
@@ -1002,6 +1021,25 @@
     "pgm": "[재방] 투명쇼 (패션잡화)"
    },
    {
+    "start": "07:00",
+    "end": "07:59",
+    "brand": "에클랏",
+    "product": "18K 벨리시모(Bellissimo) 브레이슬릿",
+    "price": 499000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252750201",
+    "slot_id": "202609056013",
+    "items": [
+     {
+      "brand": "에클랏",
+      "product": "18K 벨리시모(Bellissimo) 브레이슬릿",
+      "price": 499000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252750201"
+     }
+    ],
+    "title": "[노블리타] 에클랏 신상공개! 월 7천원대~",
+    "pgm": "[재방] 노블리타 (노블레스)"
+   },
+   {
     "start": "11:00",
     "end": "11:59",
     "brand": "피네플리츠(FINE PLEATS)",
@@ -1025,14 +1063,14 @@
     "end": "14:59",
     "brand": "한민금거래소",
     "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-    "price": 278600,
+    "price": 279000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581",
     "slot_id": "202609056016",
     "items": [
      {
       "brand": "한민금거래소",
       "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-      "price": 278600,
+      "price": 279000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581"
      }
     ],
@@ -1084,19 +1122,38 @@
     "end": "00:59",
     "brand": "한민금거래소",
     "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-    "price": 278600,
+    "price": 279000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581",
     "slot_id": "202609066012",
     "items": [
      {
       "brand": "한민금거래소",
       "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-      "price": 278600,
+      "price": 279000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581"
      }
     ],
     "title": "[한민금거래소] 금을 생산하는 기업!",
     "pgm": "[재방] 한민금거래소 (패션잡화)"
+   },
+   {
+    "start": "07:00",
+    "end": "07:59",
+    "brand": "에클랏",
+    "product": "18K 벨리시모(Bellissimo) 브레이슬릿",
+    "price": 499000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252750201",
+    "slot_id": "202609066013",
+    "items": [
+     {
+      "brand": "에클랏",
+      "product": "18K 벨리시모(Bellissimo) 브레이슬릿",
+      "price": 499000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252750201"
+     }
+    ],
+    "title": "[노블리타] 에클랏 신상공개! 월 7천원대~",
+    "pgm": "[재방] 노블리타 (노블레스)"
    },
    {
     "start": "10:00",
@@ -1135,6 +1192,25 @@
     ],
     "title": "26년 추석선물 미리 준비! 반건시 30% 쿠폰",
     "pgm": "[세원팜스] 곶감 (일반식품2)"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "한민금거래소",
+    "product": "[LIVE.한민금거래소] 병오년 버건디 말 카드형 골드바 24K 순금 3.75g",
+    "price": 992500,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251968130",
+    "slot_id": "202609066006",
+    "items": [
+     {
+      "brand": "한민금거래소",
+      "product": "[LIVE.한민금거래소] 병오년 버건디 말 카드형 골드바 24K 순금 3.75g",
+      "price": 992500,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251968130"
+     }
+    ],
+    "title": "[한민금거래소] 골드바 최대 60개월 무이자 혜택!",
+    "pgm": "[한민금거래소] 금 (패션잡화)"
    },
    {
     "start": "21:00",

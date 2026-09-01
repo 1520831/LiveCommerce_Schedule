@@ -452,8 +452,8 @@
   }
   .slot.live .t .rng { color: var(--now); font-weight: 700; }
 
-  /* 방송중 표시는 천천히 숨쉬듯 깜빡인다.
-     3.2초 한 주기에 ease-in-out 이라 눈에 띄되 시선을 잡아채지 않는다.
+  /* 방송중 표시는 숨쉬듯 깜빡인다.
+     1.8초 한 주기에 ease-in-out 이라 눈에 띄되 시선을 잡아채지 않는다.
      깜빡임이 빠르면 표를 읽는 내내 거슬리고, 켜졌다 꺼지는 식(0->1)이면
      글자가 사라져 읽기가 끊긴다. 그래서 **꺼지지 않고 진해졌다 옅어진다.**
      배경 틴트와 '방송중' 배지 둘 다 같은 박자로 움직여 하나로 읽힌다. */
@@ -465,9 +465,9 @@
     0%, 100% { opacity: 1; }
     50%      { opacity: .55; }
   }
-  .slot.live { animation: liveBreath 3.2s ease-in-out infinite; }
-  .slot.live .badge:not(.studio) { animation: badgeBreath 3.2s ease-in-out infinite; }
-  .row.now .hour::after { animation: badgeBreath 3.2s ease-in-out infinite; }
+  .slot.live { animation: liveBreath 1.8s ease-in-out infinite; }
+  .slot.live .badge:not(.studio) { animation: badgeBreath 1.8s ease-in-out infinite; }
+  .row.now .hour::after { animation: badgeBreath 1.8s ease-in-out infinite; }
 
   /* 움직임을 줄여달라고 설정한 사용자에게는 깜빡이지 않는다. */
   @media (prefers-reduced-motion: reduce) {
