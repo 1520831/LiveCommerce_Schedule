@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-09-01T23:49:57+09:00",
+ "updated_at": "2026-09-02T07:09:51+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -69,12 +69,12 @@
     "start": "19:00",
     "end": "20:22",
     "brand": "웹투어(주)",
-    "product": "[파크로쉬 리조트앤웰니스] 조식 패키지&주중 특가_아쿠아 클럽(수영장/사우나)+웰니스 클럽+주중 특전_12/20 투숙까지!",
+    "product": "[파크로쉬 리조트앤웰니스] 2인/4인 조식패키지_아쿠아 클럽(수영장/사우나)+웰니스 클럽+주중 특전_12/20 투숙까지 오픈!",
     "price": 700000,
     "link": "https://store.kakao.com/webtour/products/714713767",
     "slot_id": "59423",
     "pgm": "[파크로쉬 리조트앤웰니스]",
-    "title": "수영장+웰니스+특전 21만~",
+    "title": "조식+수영장+웰니스 29만~",
     "category": "여행"
    },
    {
@@ -136,18 +136,6 @@
     "pgm": "BBQ 닭다리직화구이바베큐",
     "title": "치킨 외 골라담기 57%할인",
     "category": "식품"
-   },
-   {
-    "start": "21:48",
-    "end": "22:35",
-    "brand": "터치그라운드 스니커즈",
-    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-    "price": 55000,
-    "link": "https://store.kakao.com/touchground/products/774098244",
-    "slot_id": "59768",
-    "pgm": "터치그라운드 발편한운동화",
-    "title": "가벼우면서 쿠션감 좋은운동화",
-    "category": "패션"
    }
   ],
   "2026-09-02": [
@@ -400,7 +388,7 @@
     "end": "11:30",
     "brand": "빅토리아 슈즈",
     "product": "빅토리아슈즈 오다 메리제인 (1049926-AZUL)",
-    "price": 89000,
+    "price": 29900,
     "link": "https://gift.kakao.com/product/14083556?url=product&cId=14083556",
     "slot_id": "59337",
     "pgm": "가을의 시작 빅토리아슈즈",
@@ -905,6 +893,260 @@
     "slot_id": "59813",
     "pgm": "홍대쭈꾸미 300g 6팩 외",
     "title": "수제양념 5분조리 간편식",
+    "category": "식품"
+   }
+  ],
+  "2026-09-07": [
+   {
+    "start": "08:30",
+    "end": "11:30",
+    "brand": "에픽테토스",
+    "product": "[고수분진정]에픽테토스 자작나무 고수분 진정스킨 80ml",
+    "price": 34800,
+    "link": "https://store.kakao.com/epictetos/products/360030641",
+    "slot_id": "59628",
+    "pgm": "에픽테토스 1+1 라이브특가",
+    "title": "쿠폰+카카오페이머니 할인",
+    "category": "뷰티"
+   },
+   {
+    "start": "08:30",
+    "end": "11:30",
+    "brand": "마미케어공식스토어",
+    "product": "[마미케어] 전국 약국 입점! 프리미엄 오쏘타민 비타민C 기미앰플 최대혜택 / 순수비타민 15%+10년 묵은 기미개선+팩 증정",
+    "price": 316000,
+    "link": "https://store.kakao.com/mommycare/products/513864073",
+    "slot_id": "59631",
+    "pgm": "마미케어 기미앰플 ~88%",
+    "title": "전 구매 마스크팩 추가 증정",
+    "category": "뷰티"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "샘표 공식 스토어",
+    "product": "차오차이 짜장/마파/짬뽕/마라탕 3+3+3 골라담기(+2개 증정)",
+    "price": 19900,
+    "link": "https://store.kakao.com/semiemarket/products/344194955",
+    "slot_id": "59322",
+    "pgm": "맛있는 중화요리는 차오차이!",
+    "title": "마라탕면 출시 기념 라이브",
+    "category": "식품"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "설로인",
+    "product": "설로인 1++ 숙성한우 선물 성심 세트 800g (1++ 꽃등심+로스등심+채끝+깍둑등심)",
+    "price": 161100,
+    "link": "https://gift.kakao.com/product/12826186?url=product&cId=12826186",
+    "slot_id": "59451",
+    "pgm": "설로인X손종원셰프",
+    "title": "추석맞이 한우 선물세트",
+    "category": "식품"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "피죤공식몰",
+    "product": "초고농축피죤 오리지널 섬유유연제 포켓몬에디션 1.3Lx3개+스프레이피죤120mlx1개p증정",
+    "price": 17900,
+    "link": "https://store.kakao.com/pigeon/products/11107262",
+    "slot_id": "59529",
+    "pgm": "포켓몬에디션으로 만나는 피죤",
+    "title": "카쇼라 혜택+추가사은품",
+    "category": "리빙"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "모다모다 스토어",
+    "product": "[모다모다] 블랙 샴푸*3+버블 샴푸 본품+핸드 타올+블랙 샴푸 듀얼 샘플 5매",
+    "price": 153000,
+    "link": "https://store.kakao.com/modamoda/products/347753768",
+    "slot_id": "59550",
+    "pgm": "모다모다와 미리 준비하는",
+    "title": "추석 맞이 새치케어 특가전!",
+    "category": "뷰티"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "케라셀",
+    "product": "[11년연속 미국판매 1위] 케라셀네일 리뉴얼 10ml 손톱영양제 발톱영양제 영양 강화 보습 케어제",
+    "price": 27800,
+    "link": "https://store.kakao.com/kerasal/products/88048136",
+    "slot_id": "59651",
+    "pgm": "11년 연속 미국1위 케라셀",
+    "title": "42%할인 +쿠폰 +증정",
+    "category": "뷰티"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "도로시",
+    "product": "[9/7월 카쇼라][선물포장]실버 베젤 모이사나이트 목걸이_1캐럿",
+    "price": 106500,
+    "link": "https://gift.kakao.com/product/13510542?url=product&cId=13510542",
+    "slot_id": "59255",
+    "pgm": "도로시주얼리 베젤 주얼리",
+    "title": "~64%전 고객 사은품 증정",
+    "category": "패션"
+   },
+   {
+    "start": "11:30",
+    "end": "14:30",
+    "brand": "농협안심한우",
+    "product": "농협안심한우 1+등급 '등안채 스페셜 구이' 한우세트 900g(등심300g+안심300g+채끝300g)",
+    "price": 109000,
+    "link": "https://gift.kakao.com/product/14076458?url=product&cId=14076458",
+    "slot_id": "59568",
+    "pgm": "농협안심한우 1+등안채스페셜",
+    "title": "한우선물세트외 인기구이세트",
+    "category": "식품"
+   },
+   {
+    "start": "17:00",
+    "end": "20:00",
+    "brand": "유한킴벌리 직영 스토어",
+    "product": "하기스 3박스 대용량 특가! 썸머/네이처/밤부/맥스드라이 외",
+    "price": 254200,
+    "link": "https://store.kakao.com/ykstore/products/89929327",
+    "slot_id": "58726",
+    "pgm": "하기스 오리지널&썸머 라인업",
+    "title": "쿠폰 + 페이머니 할인까지",
+    "category": "키즈"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "베지밀",
+    "product": "[베지밀] 고단백 플레인 190mlx48팩 외 25종",
+    "price": 48000,
+    "link": "https://store.kakao.com/edaymall/products/42836082",
+    "slot_id": "59412",
+    "pgm": "고단백라인/케어2종 주문 시",
+    "title": "주문 건 당 [고체탈취제]",
+    "category": "식품"
+   },
+   {
+    "start": "18:00",
+    "end": "19:30",
+    "brand": "밤비코",
+    "product": "천연실크100% 스카프 F/W신상 트윌 캐시미어 울실크 쁘띠 외 100종 스카프링 명절 선물포장가능",
+    "price": 86000,
+    "link": "https://store.kakao.com/bambiko/products/285765489",
+    "slot_id": "59772",
+    "pgm": "실크100% 스카프 명절선물",
+    "title": "울캐시미어 100종 모음전",
+    "category": "패션"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "동원공식샵",
+    "product": "동원 케바삭 고추마요/후라이드 치킨 250g x 5개",
+    "price": 39900,
+    "link": "https://store.kakao.com/dongwonfnb/products/194992433",
+    "slot_id": "59268",
+    "pgm": "동원 케바삭치킨 신제품 출시",
+    "title": "미리 준비하는 추석 선물",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "쿠쿠전자(주)",
+    "product": "",
+    "price": 0,
+    "link": "https://shoppinglive.kakao.com/live/59357",
+    "slot_id": "59357",
+    "pgm": "큐브 메가 3L 음식물처리기",
+    "title": "런칭라이브! with김규원",
+    "category": "테크"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "한끼통살 스토어",
+    "product": "한끼통살 한끼팩 15팩 (BEST/순한맛/매운맛)",
+    "price": 49900,
+    "link": "https://store.kakao.com/hankkitongsal/products/70651815",
+    "slot_id": "59410",
+    "pgm": "한끼통살 닭가슴살~56%",
+    "title": "+ 카카오 톡딜위크 추가할인",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "온다",
+    "product": "[노보텔 앰배서더 서울 용산] 슈페리어 객실 패키지(캐쥬얼 와인 2set / 조식 2인 / 인스타일 디너 2인 PKG)",
+    "price": 234100,
+    "link": "https://store.kakao.com/ondaselect/products/776229771",
+    "slot_id": "59427",
+    "pgm": "서울드래곤시티_감각적 휴식",
+    "title": "객실 패키지 23만~",
+    "category": "여행"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "에스트라",
+    "product": "[크림 쟁이기] 아토베리어365 크림 80ml 4개 (옵션-크림4개 / 크림2개+로션2개 / 크림2개+수딩2개)",
+    "price": 99000,
+    "link": "https://store.kakao.com/aestura1/products/292820470",
+    "slot_id": "59732",
+    "pgm": "에스트라 추석맞이 기획전",
+    "title": "선착순 클렌징폼 30g 증정",
+    "category": "뷰티"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "할리스 공식 스토어",
+    "product": "[할리스] 캡슐커피 6종 3BOX+2BOX (총 50개입) / 드립백 3종 3BOX+3BOX (총 30개입)",
+    "price": 42500,
+    "link": "https://store.kakao.com/hollys/products/118217337",
+    "slot_id": "59411",
+    "pgm": "할리스 명절 선물세트/인기",
+    "title": "캡슐커피 등 음료 특가전",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "TRUECOOK",
+    "product": "트루쿡 올스텐 데일리 나이프 주방칼 풀세트 외",
+    "price": 49500,
+    "link": "https://store.kakao.com/ssdbrothers/products/733814362",
+    "slot_id": "59502",
+    "pgm": "트루쿡 칼/도마/조리도구/",
+    "title": "쿡웨어 톡딜위크 LIVE!",
+    "category": "리빙"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "앤유즈",
+    "product": "앤유즈 에이프릴즈 달빛 기초 3종세트(미스트+에센스+크림)",
+    "price": 140000,
+    "link": "https://store.kakao.com/nyouse/products/734417894",
+    "slot_id": "59528",
+    "pgm": "앤유즈 연중 3대 행사",
+    "title": "추석 기획전",
+    "category": "뷰티"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "닥터블릿",
+    "product": "푸응 나이트버닝프로 1박스",
+    "price": 71900,
+    "link": "https://store.kakao.com/doctorblet/products/224023384",
+    "slot_id": "59543",
+    "pgm": "닥터블릿 나이트버닝 프로",
+    "title": "멈춘 체지방 다시 태울 시간",
     "category": "식품"
    }
   ]
