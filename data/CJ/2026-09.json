@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-09-01T14:12:30+09:00",
+ "updated_at": "2026-09-01T14:38:14+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -761,6 +761,18 @@
     "category": "뷰티"
    },
    {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "제너럴아이디어",
+    "product": "온도컷 크루넥 하프 가디건 [4COL] /GF2LKC539",
+    "price": 46550,
+    "link": "https://item.cjonstyle.com/item/2086459746?channelCode=30002002",
+    "slot_id": "29003",
+    "title": "다시보는 제너럴아이디어 26SS 클리어런스! 최저가 보장💫",
+    "pgm": "라이브쇼",
+    "category": "여성패션"
+   },
+   {
     "start": "18:00",
     "end": "18:59",
     "brand": "릴팡",
@@ -783,6 +795,18 @@
     "title": "영양언니 출연! 베르가못 100% 착즙 주스🍋 폴리페놀 만땅✨✨",
     "pgm": "라이브쇼",
     "category": "식품·건강"
+   },
+   {
+    "start": "18:00",
+    "end": "18:54",
+    "brand": "FM에셋",
+    "product": "보험검진서비스",
+    "price": 0,
+    "link": "https://item.cjonstyle.com/item/2081256767?channelCode=30002002",
+    "slot_id": "29004",
+    "title": "FM에셋 보험 설계, 무료상담만 해도 사은품 증정",
+    "pgm": "라이브쇼",
+    "category": "서비스·렌탈"
    },
    {
     "start": "18:00",
@@ -1157,14 +1181,13 @@
    {
     "start": "20:00",
     "end": "20:59",
-    "brand": "소노호텔앤리조트",
-    "product": "0903[홍천 비발디파크] 소노펠리체 수영장&사우나+특전",
-    "price": 262000,
-    "link": "https://item.cjonstyle.com/item/2092515247?channelCode=30002002",
+    "brand": "",
+    "product": "🌳무려 ~85% 혜택 [강원도 홍천] 소노펠리체/빌리지/소노캄 단독특가",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/28850",
     "slot_id": "28850",
-    "title": "⚡무려 ~85% 혜택⚡[강원도 홍천] 소노펠리체/빌리지/소노캄 단독특가",
-    "pgm": "럭셔리체크인",
-    "category": "서비스·렌탈"
+    "title": "🌳무려 ~85% 혜택 [강원도 홍천] 소노펠리체/빌리지/소노캄 단독특가",
+    "pgm": "럭셔리체크인"
    },
    {
     "start": "20:00",
@@ -1395,13 +1418,14 @@
    {
     "start": "21:00",
     "end": "21:59",
-    "brand": "",
-    "product": "크록스 인기 베스트 상품✨단 하루 최대 특가",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/28864",
+    "brand": "크록스",
+    "product": "클래식플랫폼클로그 206750",
+    "price": 63920,
+    "link": "https://item.cjonstyle.com/item/2083166469?channelCode=30002002",
     "slot_id": "28864",
     "title": "크록스 인기 베스트 상품✨단 하루 최대 특가",
-    "pgm": "라이브쇼"
+    "pgm": "라이브쇼",
+    "category": "잡화·슈즈"
    },
    {
     "start": "23:00",

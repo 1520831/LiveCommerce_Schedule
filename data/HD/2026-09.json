@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-01T14:12:24+09:00",
+ "updated_at": "2026-09-01T14:38:08+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -95,6 +95,12 @@
       "product": "켄트 롱 나일론 후드 패딩 8131873 블랙",
       "price": 2453000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252697629"
+     },
+     {
+      "brand": "발렌시아가",
+      "product": "르 시티 미디엄 토트백 865760 2ACLR 1000 블랙",
+      "price": 4258000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252370378"
      }
     ],
     "title": "[투명쇼] 인기 명품 60개월 무이자 혜택!",
@@ -194,6 +200,25 @@
     ],
     "title": "현대백화점 인기 명품 전병, 이대명과 26,000원대~",
     "pgm": "[이대명과] 식품 (멀티커머스)"
+   },
+   {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "우정한우",
+    "product": "[농할]국내산 암소한우 1+등심300g냉장",
+    "price": 39100,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251991617",
+    "slot_id": "202609016027",
+    "items": [
+     {
+      "brand": "우정한우",
+      "product": "[농할]국내산 암소한우 1+등심300g냉장",
+      "price": 39100,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251991617"
+     }
+    ],
+    "title": "쿠폰 + 농할 더블 혜택! 한우 베스트 3종 최저가도전",
+    "pgm": "[재방] 우정한우 (일반식품2)"
    },
    {
     "start": "16:00",
@@ -304,6 +329,12 @@
       "product": "켄트 롱 나일론 후드 패딩 8131873 블랙",
       "price": 2453000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252697629"
+     },
+     {
+      "brand": "발렌시아가",
+      "product": "르 시티 미디엄 토트백 865760 2ACLR 1000 블랙",
+      "price": 4258000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252370378"
      }
     ],
     "title": "[투명쇼] 인기 명품 60개월 무이자 혜택!",
@@ -736,14 +767,14 @@
     "end": "08:59",
     "brand": "레노마",
     "product": "[레노마 셔츠] 긴팔 링클프리 스판 24종 남성 정장 와이셔츠 남방 컬렉션 RZS024WH",
-    "price": 38000,
+    "price": 35000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252765983",
     "slot_id": "202609036002",
     "items": [
      {
       "brand": "레노마",
       "product": "[레노마 셔츠] 긴팔 링클프리 스판 24종 남성 정장 와이셔츠 남방 컬렉션 RZS024WH",
-      "price": 38000,
+      "price": 35000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252765983"
      }
     ],
@@ -869,14 +900,14 @@
     "end": "21:59",
     "brand": "한국귀금속보석거래소",
     "product": "24K 순금 카드 행운의 2달러 1g",
-    "price": 296100,
+    "price": 295400,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2207119105",
     "slot_id": "202609036015",
     "items": [
      {
       "brand": "한국귀금속보석거래소",
       "product": "24K 순금 카드 행운의 2달러 1g",
-      "price": 296100,
+      "price": 295400,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2207119105"
      }
     ],
@@ -996,7 +1027,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2243278215"
      }
     ],
-    "title": "[베네통&시슬리]🍁AUTUMN 35%쿠폰혜택",
+    "title": "[베네통&시슬리] AUTUMN 35% 쿠폰 혜택",
     "pgm": "[베네통/시슬리] 의류 (패션1Lab)"
    },
    {
@@ -1015,7 +1046,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253010375"
      }
     ],
-    "title": "[쏘헤어]아르간오일 탈모샴푸 50%▼ + 바디워시까지",
+    "title": "[쏘헤어] 아르간오일 탈모샴푸 50%▼ + 바디워시까지",
     "pgm": "[쏘헤어] 샴푸/트리트먼트 (뷰티)"
    },
    {
@@ -1053,7 +1084,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2245173510"
      }
     ],
-    "title": "캘빈클라인진 지금 입기 좋은 데님 최대~73%▼",
+    "title": "[캘빈클라인진] 지금 입기 좋은 데님 최대 73%▼",
     "pgm": "[CK진] 의류 (멀티커머스)"
    },
    {
@@ -1072,7 +1103,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2236807142"
      }
     ],
-    "title": "[마쟈] 합리적인 가격대✨높은 퀄리티 블라우스/팬츠外",
+    "title": "[마쟈] 합리적인 가격대✨ 높은 퀄리티 블라우스 外",
     "pgm": "[마쟈] 여성의류 (멀티커머스)"
    },
    {
@@ -1080,14 +1111,14 @@
     "end": "19:59",
     "brand": "삼성금거래소",
     "product": "말 실버바 Silver Bar 100g",
-    "price": 450000,
+    "price": 452000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247975417",
     "slot_id": "202609046012",
     "items": [
      {
       "brand": "삼성금거래소",
       "product": "말 실버바 Silver Bar 100g",
-      "price": 450000,
+      "price": 452000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247975417"
      }
     ],
@@ -1290,17 +1321,11 @@
     "start": "19:00",
     "end": "19:59",
     "brand": "Playback",
-    "product": "[PlayBack] 랩 배기 팬츠",
-    "price": 149000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252809146",
+    "product": "[PlayBack] 에어포스 모헤어가디건",
+    "price": 420000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253143560",
     "slot_id": "202609056006",
     "items": [
-     {
-      "brand": "Playback",
-      "product": "[PlayBack] 랩 배기 팬츠",
-      "price": 149000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252809146"
-     },
      {
       "brand": "Playback",
       "product": "[PlayBack] 에어포스 모헤어가디건",
@@ -1431,16 +1456,16 @@
     "start": "10:00",
     "end": "10:59",
     "brand": "유한킴벌리생활",
-    "product": "[좋은느낌] 썸머 입는오버나이트(25) 중/대 x3 +(증)썸머입오중4P",
-    "price": 22900,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2233609138",
+    "product": "[좋은느낌] 썸머 데이패드 생리대 대용량팩 중/대 x4",
+    "price": 64800,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253126252",
     "slot_id": "202609066001",
     "items": [
      {
       "brand": "유한킴벌리생활",
-      "product": "[좋은느낌] 썸머 입는오버나이트(25) 중/대 x3 +(증)썸머입오중4P",
-      "price": 22900,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2233609138"
+      "product": "[좋은느낌] 썸머 데이패드 생리대 대용량팩 중/대 x4",
+      "price": 64800,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253126252"
      }
     ],
     "title": "[좋은느낌/화이트] 여름 라스트 찬스! 썸머생리대 특가",
