@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-01T14:38:08+09:00",
+ "updated_at": "2026-09-01T15:35:17+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -84,18 +84,12 @@
    {
     "start": "10:00",
     "end": "10:59",
-    "brand": "버버리",
-    "product": "켄트 롱 나일론 후드 패딩 8131873 블랙",
-    "price": 2453000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252697629",
+    "brand": "발렌시아가",
+    "product": "르 시티 미디엄 토트백 865760 2ACLR 1000 블랙",
+    "price": 4258000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252370378",
     "slot_id": "202609016004",
     "items": [
-     {
-      "brand": "버버리",
-      "product": "켄트 롱 나일론 후드 패딩 8131873 블랙",
-      "price": 2453000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252697629"
-     },
      {
       "brand": "발렌시아가",
       "product": "르 시티 미디엄 토트백 865760 2ACLR 1000 블랙",
@@ -318,18 +312,12 @@
    {
     "start": "18:00",
     "end": "18:59",
-    "brand": "버버리",
-    "product": "켄트 롱 나일론 후드 패딩 8131873 블랙",
-    "price": 2453000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252697629",
+    "brand": "발렌시아가",
+    "product": "르 시티 미디엄 토트백 865760 2ACLR 1000 블랙",
+    "price": 4258000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252370378",
     "slot_id": "202609016026",
     "items": [
-     {
-      "brand": "버버리",
-      "product": "켄트 롱 나일론 후드 패딩 8131873 블랙",
-      "price": 2453000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252697629"
-     },
      {
       "brand": "발렌시아가",
       "product": "르 시티 미디엄 토트백 865760 2ACLR 1000 블랙",
@@ -1122,7 +1110,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247975417"
      }
     ],
-    "title": "[삼성금거래소] 풍요의 기원을 담은 순금 골드 코인 ✨",
+    "title": "[삼성금거래소] 풍요의 기원을 담은 순금 골드 코인✨",
     "pgm": "[삼성금거래소] 순금 (패션잡화)"
    },
    {
@@ -1160,7 +1148,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252893320"
      }
     ],
-    "title": "이청청디자이너의 LIE317 최초공개!",
+    "title": "이청청 디자이너의 LIE317 최초 공개!",
     "pgm": "[LIE37] 의류 (패션2Lab)"
    },
    {
@@ -1198,7 +1186,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2229112867"
      }
     ],
-    "title": "[코데즈컴바인] 베이직 캐주얼룩💥최대 70%▼",
+    "title": "[코데즈컴바인] 베이직 캐주얼룩💥 최대 70%▼",
     "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ],
@@ -1259,6 +1247,25 @@
     ],
     "title": "[현명쇼] 프라다 신상 선글라스 4만▼",
     "pgm": "[재방] 현명쇼 (노블레스팀)"
+   },
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "스튜디오톰보이",
+    "product": "[톰보이] 신세틱 레더 블루종 점퍼 9176161971",
+    "price": 209000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249535402",
+    "slot_id": "202609056001",
+    "items": [
+     {
+      "brand": "스튜디오톰보이",
+      "product": "[톰보이] 신세틱 레더 블루종 점퍼 9176161971",
+      "price": 209000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249535402"
+     }
+    ],
+    "title": "[스튜디오톰보이] 방송특가OPEN✨ UP TO 64%▼",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
    },
    {
     "start": "11:00",

@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-01T14:39:32+09:00",
+ "generated_at": "2026-09-01T15:36:44+09:00",
  "today": "2026-09-01",
  "dates": [
   "2026-08-31",
@@ -439,18 +439,12 @@ window.SCHEDULE = {
     {
      "start": "10:00",
      "end": "10:59",
-     "brand": "버버리",
-     "product": "켄트 롱 나일론 후드 패딩 8131873 블랙",
-     "price": 2453000,
-     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252697629",
+     "brand": "발렌시아가",
+     "product": "르 시티 미디엄 토트백 865760 2ACLR 1000 블랙",
+     "price": 4258000,
+     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252370378",
      "slot_id": "202609016004",
      "items": [
-      {
-       "brand": "버버리",
-       "product": "켄트 롱 나일론 후드 패딩 8131873 블랙",
-       "price": 2453000,
-       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252697629"
-      },
       {
        "brand": "발렌시아가",
        "product": "르 시티 미디엄 토트백 865760 2ACLR 1000 블랙",
@@ -673,18 +667,12 @@ window.SCHEDULE = {
     {
      "start": "18:00",
      "end": "18:59",
-     "brand": "버버리",
-     "product": "켄트 롱 나일론 후드 패딩 8131873 블랙",
-     "price": 2453000,
-     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252697629",
+     "brand": "발렌시아가",
+     "product": "르 시티 미디엄 토트백 865760 2ACLR 1000 블랙",
+     "price": 4258000,
+     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252370378",
      "slot_id": "202609016026",
      "items": [
-      {
-       "brand": "버버리",
-       "product": "켄트 롱 나일론 후드 패딩 8131873 블랙",
-       "price": 2453000,
-       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252697629"
-      },
       {
        "brand": "발렌시아가",
        "product": "르 시티 미디엄 토트백 865760 2ACLR 1000 블랙",
@@ -1477,7 +1465,7 @@ window.SCHEDULE = {
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247975417"
       }
      ],
-     "title": "[삼성금거래소] 풍요의 기원을 담은 순금 골드 코인 ✨",
+     "title": "[삼성금거래소] 풍요의 기원을 담은 순금 골드 코인✨",
      "pgm": "[삼성금거래소] 순금 (패션잡화)"
     },
     {
@@ -1515,7 +1503,7 @@ window.SCHEDULE = {
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252893320"
       }
      ],
-     "title": "이청청디자이너의 LIE317 최초공개!",
+     "title": "이청청 디자이너의 LIE317 최초 공개!",
      "pgm": "[LIE37] 의류 (패션2Lab)"
     },
     {
@@ -1553,7 +1541,7 @@ window.SCHEDULE = {
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2229112867"
       }
      ],
-     "title": "[코데즈컴바인] 베이직 캐주얼룩💥최대 70%▼",
+     "title": "[코데즈컴바인] 베이직 캐주얼룩💥 최대 70%▼",
      "pgm": "현대렐라쇼 (멀티커머스)"
     }
    ],
@@ -1614,6 +1602,25 @@ window.SCHEDULE = {
      ],
      "title": "[현명쇼] 프라다 신상 선글라스 4만▼",
      "pgm": "[재방] 현명쇼 (노블레스팀)"
+    },
+    {
+     "start": "09:00",
+     "end": "09:59",
+     "brand": "스튜디오톰보이",
+     "product": "[톰보이] 신세틱 레더 블루종 점퍼 9176161971",
+     "price": 209000,
+     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249535402",
+     "slot_id": "202609056001",
+     "items": [
+      {
+       "brand": "스튜디오톰보이",
+       "product": "[톰보이] 신세틱 레더 블루종 점퍼 9176161971",
+       "price": 209000,
+       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249535402"
+      }
+     ],
+     "title": "[스튜디오톰보이] 방송특가OPEN✨ UP TO 64%▼",
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "11:00",
@@ -3268,6 +3275,18 @@ window.SCHEDULE = {
     {
      "start": "19:00",
      "end": "19:59",
+     "brand": "리페라",
+     "product": "쿼드엑스 + 펄스 젤 100ml 2개",
+     "price": 449000,
+     "link": "https://item.cjonstyle.com/item/2091144096?channelCode=30002002",
+     "slot_id": "29006",
+     "title": "다시보는 신개념 중안부 디바이스 <리페라 쿼드 엑스> 최초 공개",
+     "pgm": "브랜디드 라이브쇼",
+     "category": "뷰티"
+    },
+    {
+     "start": "19:00",
+     "end": "19:59",
      "brand": "카피타노",
      "product": "1905 클래식치약 3종세트",
      "price": 43900,
@@ -3311,6 +3330,18 @@ window.SCHEDULE = {
      "title": "다시보는 [매드뷰티X연작] 화잘먹 치트키 연작, 베스트시리즈 할인!",
      "pgm": "매드라이브",
      "category": "뷰티"
+    },
+    {
+     "start": "20:00",
+     "end": "20:59",
+     "brand": "맛있는家",
+     "product": "내일도착 [프로즌] 원팩마라탕 보통맛 1+1 (450g+450g)",
+     "price": 15900,
+     "link": "https://item.cjonstyle.com/item/2048646683?channelCode=30002002",
+     "slot_id": "29009",
+     "title": "왔다장보러📢호랑이김치+마라탕+토마토주스+캐나다 크래커+갑오징어+농협한우",
+     "pgm": "왔다! 장보러",
+     "category": "식품·건강"
     },
     {
      "start": "21:00",
@@ -3437,9 +3468,9 @@ window.SCHEDULE = {
      "start": "11:00",
      "end": "11:59",
      "brand": "온모락",
-     "product": "100% 1등급 한우 사태로 만든 진짜 사태 곰탕 1팩",
-     "price": 15000,
-     "link": "https://item.cjonstyle.com/item/2091790799?channelCode=30002002",
+     "product": "100% 1등급 한우 사태로 만든 진짜 사태 곰탕 8팩",
+     "price": 105000,
+     "link": "https://item.cjonstyle.com/item/2092134027?channelCode=30002002",
      "slot_id": "28841",
      "title": "[온모락X러브모모] 국내산 1등급 한우 100%🐮프리미엄 곰탕 온모락✨",
      "pgm": "푸드온다",
@@ -3591,11 +3622,11 @@ window.SCHEDULE = {
      "start": "20:00",
      "end": "20:59",
      "brand": "",
-     "product": "🌳무려 ~85% 혜택 [강원도 홍천] 소노펠리체/빌리지/소노캄 단독특가",
+     "product": "~85%🌳[홍천] 소노펠리체/빌리지/소노캄 롱스테이+무제한 오션월드?!",
      "price": 0,
      "link": "https://mlive.cjonstyle.com/m/preview/28850",
      "slot_id": "28850",
-     "title": "🌳무려 ~85% 혜택 [강원도 홍천] 소노펠리체/빌리지/소노캄 단독특가",
+     "title": "~85%🌳[홍천] 소노펠리체/빌리지/소노캄 롱스테이+무제한 오션월드?!",
      "pgm": "럭셔리체크인"
     },
     {
@@ -3706,6 +3737,17 @@ window.SCHEDULE = {
      "title": "스페인 1위 올레오에스테파 시그니처 조기수확 엑스트라버진 3종 🫒",
      "pgm": "똘똘한쇼",
      "category": "식품·건강"
+    },
+    {
+     "start": "11:30",
+     "end": "12:34",
+     "brand": "",
+     "product": "애프터 잇솔지 🔥셀렙샵에디션 베스트상품 한정수량 할인",
+     "price": 0,
+     "link": "https://mlive.cjonstyle.com/m/preview/28856",
+     "slot_id": "28856",
+     "title": "애프터 잇솔지 🔥셀렙샵에디션 베스트상품 한정수량 할인",
+     "pgm": "잇솔지"
     },
     {
      "start": "12:00",
@@ -3823,6 +3865,18 @@ window.SCHEDULE = {
      "title": "데스커 더블쿠폰 특가💖 카드 10%+적립 10%+구매인증 찬스!",
      "pgm": "하우스윗",
      "category": "가구·침구"
+    },
+    {
+     "start": "21:00",
+     "end": "21:59",
+     "brand": "애드아보아",
+     "product": "26FW 캐시미어100 투웨이 가디건",
+     "price": 134100,
+     "link": "https://item.cjonstyle.com/item/2091528238?channelCode=30002002",
+     "slot_id": "28863",
+     "title": "최초 공개 기념 SALE 애드아보아&드베로타 26FW 마지막 추가 할인",
+     "pgm": "스타일 나래이션",
+     "category": "여성패션"
     },
     {
      "start": "21:00",
@@ -3982,6 +4036,18 @@ window.SCHEDULE = {
      "slot_id": "28872",
      "title": "[잘사는언니들] 프롬파이토 우리 아이 키 쑥쑥! 쑥쑥시리즈 역대급 할인!",
      "pgm": "잘사는 언니들",
+     "category": "식품·건강"
+    },
+    {
+     "start": "19:00",
+     "end": "19:59",
+     "brand": "맛있는家",
+     "product": "내일도착 [프로즌] 원팩마라탕 보통맛 1+1 (450g+450g)",
+     "price": 15900,
+     "link": "https://item.cjonstyle.com/item/2048646683?channelCode=30002002",
+     "slot_id": "29096",
+     "title": "왔다장보러📢호랑이김치+마라탕+토마토주스+캐나다 크래커+갑오징어+농협한우",
+     "pgm": "왔다! 장보러",
      "category": "식품·건강"
     },
     {
@@ -9485,7 +9551,7 @@ window.SCHEDULE = {
     },
     {
      "start": "14:00",
-     "end": "",
+     "end": "15:15",
      "brand": "LAVOIR",
      "product": "[2+2] NEW 퍼퓸 캡슐세제 아이리스 120개",
      "price": 56000,
@@ -9509,7 +9575,7 @@ window.SCHEDULE = {
     },
     {
      "start": "14:00",
-     "end": "",
+     "end": "15:01",
      "brand": "비스포크",
      "product": "삼성 얼음 정수기 비스포크 AI 얼음정수기 스탠드 예쁜 일시불 비스코프 직수 냉온 정수",
      "price": 2349000,
@@ -9594,7 +9660,7 @@ window.SCHEDULE = {
     },
     {
      "start": "14:00",
-     "end": "",
+     "end": "15:00",
      "brand": "갤럭시",
      "product": "[공식] 삼성전자 갤럭시 버즈4 프로 블루투스 이어폰 SM-R640 블랙",
      "price": 359000,
@@ -9614,7 +9680,7 @@ window.SCHEDULE = {
     },
     {
      "start": "14:00",
-     "end": "",
+     "end": "14:46",
      "brand": "홍성 한우가",
      "product": "[홍성한우가] 프리미엄 한우선물세트 1.8 kg 명절 집들이 축하선물 구이용",
      "price": 150000,
@@ -9629,10 +9695,10 @@ window.SCHEDULE = {
     },
     {
      "start": "14:00",
-     "end": "",
+     "end": "15:03",
      "brand": "비쎌",
      "product": "비쎌 슬림 스팀청소기 DELUXE 패키지 그레이블루",
-     "price": 252900,
+     "price": 262900,
      "link": "https://shoppinglive.naver.com/livebridge/2016251",
      "slot_id": "2016251",
      "pgm": "청소가 기다려지는 마법✨ 비쎌 슬림스팀청소기💖",
@@ -9784,12 +9850,14 @@ window.SCHEDULE = {
      "end": "",
      "brand": "오디세이",
      "product": "삼성 오디세이 OLED G7 LS32HG730 80.3cm 4K UHD 게이밍모니터",
-     "price": 1380000,
+     "price": 1371000,
      "link": "https://shoppinglive.naver.com/livebridge/2009274",
      "slot_id": "2009274",
      "pgm": "🕊️ 추석 얼리버드 쿠폰! 게이밍&작업용 모니터 특가 할인전",
      "title": "TV와 게이밍모니터를 한눈에",
      "items": [
+      {},
+      {},
       {},
       {},
       {},
@@ -10525,7 +10593,6 @@ window.SCHEDULE = {
       {},
       {},
       {},
-      {},
       {}
      ],
      "category": "푸드"
@@ -11025,7 +11092,7 @@ window.SCHEDULE = {
      "end": "",
      "brand": "무아르무스",
      "product": "[무아르무스] 헤일 코튼 라운드넥 헨리넥 니트 [네이비]",
-     "price": 76500,
+     "price": 118000,
      "link": "https://shoppinglive.naver.com/livebridge/2004847",
      "slot_id": "2004847",
      "pgm": "[블루밍] MUARMUS 26FW 가을 신상 첫 공개",
@@ -11210,7 +11277,6 @@ window.SCHEDULE = {
      "pgm": "9/1 명절음식 찐조합 베스트 음료 특집! 2부",
      "title": "펩시제로 외 인기상품 특가",
      "items": [
-      {},
       {},
       {},
       {},
@@ -11658,7 +11724,7 @@ window.SCHEDULE = {
      "end": "",
      "brand": "메이튼",
      "product": "메이튼 무선 안드로이드 오토 프로 X 유튜브 동글 연결",
-     "price": 195000,
+     "price": 224000,
      "link": "https://shoppinglive.naver.com/livebridge/2008094",
      "slot_id": "2008094",
      "pgm": "[메이튼 브랜드데이] 한가위 맞이 차량용품 특가! 풍성한 라이브 혜택",
@@ -13195,7 +13261,7 @@ window.SCHEDULE = {
      "end": "",
      "brand": "바이오메라",
      "product": "바이오메라 프로바이오틱스 키즈 우유맛4+딸기맛4+블루베리 4개 1년 보장세트",
-     "price": 409200,
+     "price": 315000,
      "link": "https://shoppinglive.naver.com/livebridge/1991171",
      "slot_id": "1991171",
      "pgm": "[블루밍데이즈] 우리 아이 건강템👶🏻 바이오메라 어텀~❔",
@@ -13589,8 +13655,11 @@ window.SCHEDULE = {
      "link": "https://shoppinglive.naver.com/livebridge/2001939",
      "slot_id": "2001939",
      "pgm": "[하루특가LIVE] 바이타믹스, 압도적 파워! 완벽한 블렌딩!",
-     "title": "바이타믹스 라이브",
+     "title": "단독 혜택+무이자12개월",
      "items": [
+      {},
+      {},
+      {},
       {}
      ],
      "category": "테크"
@@ -14339,56 +14408,6 @@ window.SCHEDULE = {
     {
      "start": "14:00",
      "end": "",
-     "brand": "모윰",
-     "product": "[모윰] 올실리콘 마카롱 쪽쪽이(전용케이스 포함) 2개세트 - 단계 선택 / 1단계 망고샤베트",
-     "price": 26900,
-     "link": "https://shoppinglive.naver.com/livebridge/1990894",
-     "slot_id": "1990894",
-     "pgm": "[블루밍] 모윰 키즈 메가위크 초특가 LIVE🎁",
-     "title": "원데이 사은품 팡팡🎉",
-     "items": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-     ],
-     "category": "키즈"
-    },
-    {
-     "start": "14:00",
-     "end": "",
      "brand": "리즈데이즈",
      "product": "[찐믿사템 / 정상가 25800 ] 아반스 탄탄핏 코튼 포켓 봄 가을 펜던트 세미크롭 셔츠 자켓",
      "price": 24000,
@@ -14401,6 +14420,24 @@ window.SCHEDULE = {
       {}
      ],
      "category": "패션"
+    },
+    {
+     "start": "14:00",
+     "end": "",
+     "brand": "시케아 성수",
+     "product": "SIKEA 시케아 성수 국내산 식혜 100ml / 정말 맛있는 전통음료 센스있는 MZ선물",
+     "price": 1800,
+     "link": "https://shoppinglive.naver.com/livebridge/2016080",
+     "slot_id": "2016080",
+     "pgm": "[시케아 식혜] 명절선물추천 라이브!",
+     "title": "[시케아 식혜] 명절선물추천",
+     "items": [
+      {},
+      {},
+      {},
+      {}
+     ],
+     "category": "푸드"
     }
    ],
    "2026-09-03": [
@@ -15486,13 +15523,17 @@ window.SCHEDULE = {
      "start": "11:00",
      "end": "",
      "brand": "씨씨콜렉트",
-     "product": "씨씨콜렉트 리본타이 레이어드 블라우스 E263MSC105",
-     "price": 137400,
+     "product": "씨씨콜렉트 테일러드 원버튼 싱글 자켓 E263MSF112",
+     "price": 191400,
      "link": "https://shoppinglive.naver.com/livebridge/1999096",
      "slot_id": "1999096",
      "pgm": "📌롯데광명 파격적인 특가 「CC콜렉트」💗단하루 70% 할인",
      "title": "​✨ 단하루!! 특별한 혜택",
      "items": [
+      {},
+      {},
+      {},
+      {},
       {},
       {},
       {},
@@ -18482,7 +18523,7 @@ window.SCHEDULE = {
      "end": "",
      "brand": "올리브데올리브",
      "product": "올리브데올리브 코듀로이 카라넥 누빔 점퍼 YW6SM132",
-     "price": 189600,
+     "price": 94800,
      "link": "https://shoppinglive.naver.com/livebridge/2003148",
      "slot_id": "2003148",
      "pgm": "올리브데올리브 플러스위크 Super LIVE 특가 💕",
@@ -18874,120 +18915,6 @@ window.SCHEDULE = {
       {}
      ],
      "category": "패션"
-    },
-    {
-     "start": "20:00",
-     "end": "",
-     "brand": "알로소",
-     "product": "알로소 사티모션 리클라이너 가죽소파 소프트프리모/클라우드, 1인용",
-     "price": 2430000,
-     "link": "https://shoppinglive.naver.com/livebridge/2009494",
-     "slot_id": "2009494",
-     "pgm": "[Alloso] 디자인 마이애미 서울 전시 기념 ~25% + GIFT",
-     "title": "알로소 베스트 소파 혜택",
-     "items": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-     ],
-     "category": "라이프"
     },
     {
      "start": "20:30",
@@ -20598,37 +20525,6 @@ window.SCHEDULE = {
     {
      "start": "10:00",
      "end": "",
-     "brand": "하루틴",
-     "product": "[손흥민 PICK]  하루틴 리포좀 비타민C 30정, 6개",
-     "price": 62900,
-     "link": "https://shoppinglive.naver.com/livebridge/2005143",
-     "slot_id": "2005143",
-     "pgm": "[블루밍X슈퍼적립위크🎁] 최대 15% 추가 적립 LIVE♥️",
-     "title": "[블루밍] 최대 15% 적립",
-     "items": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-     ],
-     "category": "푸드"
-    },
-    {
-     "start": "10:00",
-     "end": "",
      "brand": "아임낫어베이비",
      "product": "아임낫어베이비 키즈 산양유 인텐시브 로션 150ml, 플로럴프루티, 3개",
      "price": 46500,
@@ -20670,6 +20566,119 @@ window.SCHEDULE = {
      "pgm": "[AI라이브] 🍁삼성 세탁기 건조기 비스포크 콤보🍂",
      "title": "AI가 바꾸는 세탁생활!",
      "items": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+     ],
+     "category": "테크"
+    },
+    {
+     "start": "10:40",
+     "end": "",
+     "brand": "갤럭시",
+     "product": "삼성 갤럭시 워치8 (강화유리 2매 패키지) 실버, 40mm, 블루투스",
+     "price": 419000,
+     "link": "https://shoppinglive.naver.com/livebridge/2012504",
+     "slot_id": "2012504",
+     "pgm": "🍐추석세일! 갤럭시 워치9 울트라2 갤럭시워치8 클래식 스마트싱스🟡",
+     "title": "⌚갤럭시워치9 울트라2 특가",
+     "items": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
       {},
       {},
       {},
@@ -20841,114 +20850,6 @@ window.SCHEDULE = {
       {}
      ],
      "category": "패션"
-    },
-    {
-     "start": "11:00",
-     "end": "",
-     "brand": "갤럭시",
-     "product": "삼성 갤럭시 워치9 (강화유리 2매 패키지) 크림, 40mm, 블루투스",
-     "price": 499000,
-     "link": "https://shoppinglive.naver.com/livebridge/2012504",
-     "slot_id": "2012504",
-     "pgm": "🍐추석세일! 갤럭시 워치9 울트라2 갤럭시워치8 클래식 스마트싱스🟡",
-     "title": "⌚갤럭시워치9 울트라2 특가",
-     "items": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-     ],
-     "category": "테크"
     },
     {
      "start": "14:00",
@@ -22484,7 +22385,7 @@ window.SCHEDULE = {
      "end": "20:22",
      "brand": "에스트라",
      "product": "[크림쟁이기] 아토베리어365 크림 80ml 4개 (옵션-크림4개 / 크림2+로션2개 / 크림2개+수딩크림2개)",
-     "price": 105600,
+     "price": 100000,
      "link": "https://gift.kakao.com/product/2940337?url=product&cId=2940337",
      "slot_id": "59208",
      "pgm": "에스트라 아모레굿딜",
@@ -22836,7 +22737,7 @@ window.SCHEDULE = {
      "end": "20:30",
      "brand": "올록담",
      "product": "올록담 올리브3 EVOO 올리브오일 캡슐 올리브유",
-     "price": 38200,
+     "price": 228800,
      "link": "https://store.kakao.com/ollocdam/products/579487658",
      "slot_id": "59219",
      "pgm": "[올록담] 올리브3 추석맞이",
@@ -23224,6 +23125,17 @@ window.SCHEDULE = {
      "category": "여행"
     },
     {
+     "start": "20:00",
+     "end": "21:30",
+     "brand": "단골아저씨",
+     "product": "(농할)김천 샤인머스켓 특품2kg(2-3수) GAP",
+     "price": 34900,
+     "link": "https://store.kakao.com/mrdangol/products/288039270",
+     "slot_id": "59812",
+     "pgm": "(농할) 김천직송 샤인머스켓",
+     "category": "식품"
+    },
+    {
      "start": "20:30",
      "end": "22:00",
      "brand": "오버더",
@@ -23387,11 +23299,11 @@ window.SCHEDULE = {
   }
  },
  "updated_at": {
-  "HD": "2026-09-01T14:38:08+09:00",
-  "CJ": "2026-09-01T14:38:14+09:00",
-  "NV": "2026-09-01T14:39:31+09:00",
+  "HD": "2026-09-01T15:35:17+09:00",
+  "CJ": "2026-09-01T15:35:24+09:00",
+  "NV": "2026-09-01T15:36:44+09:00",
   "GM": "2026-08-31T10:02:54+09:00",
-  "KA": "2026-09-01T14:38:21+09:00"
+  "KA": "2026-09-01T15:35:32+09:00"
  },
  "fixed": {
   "rows": [
@@ -23430,6 +23342,15 @@ window.SCHEDULE = {
      2,
      2
     ],
+    "wd_dur": [
+     60,
+     60,
+     null,
+     60,
+     60,
+     null,
+     null
+    ],
     "manual": true
    },
    {
@@ -23447,7 +23368,7 @@ window.SCHEDULE = {
     ],
     "kind": "daily",
     "tier": "fixed",
-    "hits": 6,
+    "hits": 7,
     "span": 11,
     "wd_hits": [
      0,
@@ -23455,7 +23376,7 @@ window.SCHEDULE = {
      1,
      1,
      2,
-     1,
+     2,
      0
     ],
     "wd_span": [
@@ -23466,6 +23387,15 @@ window.SCHEDULE = {
      2,
      2,
      2
+    ],
+    "wd_dur": [
+     null,
+     60,
+     60,
+     60,
+     60,
+     60,
+     null
     ],
     "manual": true
    },
@@ -23498,6 +23428,15 @@ window.SCHEDULE = {
      2,
      2
     ],
+    "wd_dur": [
+     null,
+     60,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
     "manual": false
    },
    {
@@ -23528,6 +23467,15 @@ window.SCHEDULE = {
      2,
      2,
      2
+    ],
+    "wd_dur": [
+     60,
+     null,
+     60,
+     null,
+     null,
+     null,
+     null
     ],
     "manual": false
    },
@@ -23566,6 +23514,15 @@ window.SCHEDULE = {
      2,
      2
     ],
+    "wd_dur": [
+     60,
+     60,
+     60,
+     60,
+     60,
+     null,
+     null
+    ],
     "manual": false
    },
    {
@@ -23597,6 +23554,15 @@ window.SCHEDULE = {
      2,
      2,
      2
+    ],
+    "wd_dur": [
+     null,
+     60,
+     60,
+     60,
+     null,
+     null,
+     null
     ],
     "manual": false
    },
@@ -23633,6 +23599,15 @@ window.SCHEDULE = {
      2,
      2
     ],
+    "wd_dur": [
+     60,
+     60,
+     60,
+     60,
+     60,
+     null,
+     null
+    ],
     "manual": true
    },
    {
@@ -23663,6 +23638,15 @@ window.SCHEDULE = {
      2,
      2,
      2
+    ],
+    "wd_dur": [
+     null,
+     60,
+     null,
+     null,
+     null,
+     null,
+     null
     ],
     "manual": false
    },
@@ -23695,6 +23679,15 @@ window.SCHEDULE = {
      2,
      2
     ],
+    "wd_dur": [
+     60,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
     "manual": false
    },
    {
@@ -23725,6 +23718,15 @@ window.SCHEDULE = {
      2,
      2,
      2
+    ],
+    "wd_dur": [
+     null,
+     60,
+     60,
+     null,
+     null,
+     null,
+     null
     ],
     "manual": false
    },
@@ -23757,6 +23759,15 @@ window.SCHEDULE = {
      2,
      2
     ],
+    "wd_dur": [
+     null,
+     60,
+     60,
+     null,
+     null,
+     null,
+     null
+    ],
     "manual": false
    },
    {
@@ -23787,6 +23798,15 @@ window.SCHEDULE = {
      2,
      2,
      2
+    ],
+    "wd_dur": [
+     null,
+     null,
+     null,
+     60,
+     null,
+     null,
+     null
     ],
     "manual": false
    },
@@ -23819,6 +23839,15 @@ window.SCHEDULE = {
      2,
      2
     ],
+    "wd_dur": [
+     60,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
     "manual": true
    },
    {
@@ -23849,6 +23878,15 @@ window.SCHEDULE = {
      2,
      2,
      2
+    ],
+    "wd_dur": [
+     null,
+     60,
+     null,
+     null,
+     null,
+     null,
+     null
     ],
     "manual": true
    },
@@ -23881,6 +23919,15 @@ window.SCHEDULE = {
      2,
      2
     ],
+    "wd_dur": [
+     65,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
     "manual": false
    },
    {
@@ -23912,6 +23959,15 @@ window.SCHEDULE = {
      2,
      2
     ],
+    "wd_dur": [
+     null,
+     60,
+     60,
+     60,
+     60,
+     null,
+     null
+    ],
     "manual": false
    },
    {
@@ -23922,7 +23978,7 @@ window.SCHEDULE = {
      "수"
     ],
     "kind": "weekly",
-    "tier": "cand",
+    "tier": "fixed",
     "hits": 1,
     "span": 11,
     "wd_hits": [
@@ -23943,7 +23999,16 @@ window.SCHEDULE = {
      2,
      2
     ],
-    "manual": false
+    "wd_dur": [
+     null,
+     null,
+     60,
+     null,
+     null,
+     null,
+     null
+    ],
+    "manual": true
    },
    {
     "ch": "CJ",
@@ -23976,6 +24041,15 @@ window.SCHEDULE = {
      2,
      2
     ],
+    "wd_dur": [
+     null,
+     60,
+     60,
+     60,
+     null,
+     null,
+     null
+    ],
     "manual": false
    },
    {
@@ -24006,6 +24080,15 @@ window.SCHEDULE = {
      2,
      2,
      2
+    ],
+    "wd_dur": [
+     60,
+     null,
+     null,
+     null,
+     null,
+     60,
+     null
     ],
     "manual": false
    },
@@ -24038,6 +24121,15 @@ window.SCHEDULE = {
      2,
      2
     ],
+    "wd_dur": [
+     60,
+     null,
+     null,
+     60,
+     60,
+     null,
+     60
+    ],
     "manual": false
    },
    {
@@ -24069,6 +24161,15 @@ window.SCHEDULE = {
      2,
      2
     ],
+    "wd_dur": [
+     60,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
     "manual": false
    },
    {
@@ -24099,6 +24200,15 @@ window.SCHEDULE = {
      2,
      2,
      2
+    ],
+    "wd_dur": [
+     60,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
     ],
     "manual": false
    },
@@ -24137,6 +24247,15 @@ window.SCHEDULE = {
      2,
      2
     ],
+    "wd_dur": [
+     60,
+     60,
+     60,
+     60,
+     60,
+     60,
+     null
+    ],
     "manual": false
    },
    {
@@ -24167,6 +24286,15 @@ window.SCHEDULE = {
      2,
      2,
      2
+    ],
+    "wd_dur": [
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     60
     ],
     "manual": false
    },
@@ -24200,6 +24328,15 @@ window.SCHEDULE = {
      2,
      2
     ],
+    "wd_dur": [
+     null,
+     null,
+     60,
+     null,
+     null,
+     null,
+     60
+    ],
     "manual": true
    },
    {
@@ -24230,6 +24367,15 @@ window.SCHEDULE = {
      2,
      2,
      2
+    ],
+    "wd_dur": [
+     60,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
     ],
     "manual": false
    },
@@ -24262,6 +24408,15 @@ window.SCHEDULE = {
      2,
      2
     ],
+    "wd_dur": [
+     null,
+     null,
+     null,
+     60,
+     null,
+     null,
+     null
+    ],
     "manual": false
    },
    {
@@ -24292,6 +24447,15 @@ window.SCHEDULE = {
      2,
      2,
      2
+    ],
+    "wd_dur": [
+     null,
+     null,
+     null,
+     60,
+     null,
+     null,
+     null
     ],
     "manual": false
    },
@@ -24324,6 +24488,15 @@ window.SCHEDULE = {
      2,
      2
     ],
+    "wd_dur": [
+     60,
+     null,
+     null,
+     null,
+     60,
+     null,
+     null
+    ],
     "manual": false
    },
    {
@@ -24354,6 +24527,15 @@ window.SCHEDULE = {
      2,
      2,
      2
+    ],
+    "wd_dur": [
+     null,
+     null,
+     60,
+     null,
+     null,
+     null,
+     null
     ],
     "manual": false
    },
@@ -24386,6 +24568,15 @@ window.SCHEDULE = {
      2,
      2
     ],
+    "wd_dur": [
+     null,
+     60,
+     null,
+     null,
+     null,
+     null,
+     60
+    ],
     "manual": false
    },
    {
@@ -24416,6 +24607,15 @@ window.SCHEDULE = {
      2,
      2,
      2
+    ],
+    "wd_dur": [
+     null,
+     null,
+     60,
+     null,
+     null,
+     null,
+     null
     ],
     "manual": false
    },
@@ -24448,6 +24648,15 @@ window.SCHEDULE = {
      2,
      2
     ],
+    "wd_dur": [
+     60,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
     "manual": false
    },
    {
@@ -24478,6 +24687,15 @@ window.SCHEDULE = {
      2,
      2,
      2
+    ],
+    "wd_dur": [
+     null,
+     60,
+     null,
+     null,
+     null,
+     null,
+     null
     ],
     "manual": false
    },
@@ -24510,6 +24728,15 @@ window.SCHEDULE = {
      2,
      2
     ],
+    "wd_dur": [
+     null,
+     null,
+     60,
+     null,
+     null,
+     null,
+     null
+    ],
     "manual": true
    },
    {
@@ -24540,6 +24767,15 @@ window.SCHEDULE = {
      2,
      2,
      2
+    ],
+    "wd_dur": [
+     120,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
     ],
     "manual": true
    },
@@ -24572,6 +24808,15 @@ window.SCHEDULE = {
      2,
      2
     ],
+    "wd_dur": [
+     null,
+     null,
+     null,
+     65,
+     null,
+     null,
+     null
+    ],
     "manual": false
    },
    {
@@ -24602,6 +24847,15 @@ window.SCHEDULE = {
      2,
      2,
      2
+    ],
+    "wd_dur": [
+     null,
+     60,
+     null,
+     null,
+     null,
+     null,
+     null
     ],
     "manual": false
    },
@@ -24634,6 +24888,15 @@ window.SCHEDULE = {
      2,
      2
     ],
+    "wd_dur": [
+     null,
+     null,
+     65,
+     null,
+     null,
+     null,
+     null
+    ],
     "manual": false
    },
    {
@@ -24664,6 +24927,15 @@ window.SCHEDULE = {
      2,
      2,
      2
+    ],
+    "wd_dur": [
+     60,
+     null,
+     60,
+     null,
+     null,
+     null,
+     null
     ],
     "manual": false
    },
@@ -24697,6 +24969,15 @@ window.SCHEDULE = {
      2,
      2
     ],
+    "wd_dur": [
+     60,
+     null,
+     60,
+     null,
+     null,
+     null,
+     null
+    ],
     "manual": false
    },
    {
@@ -24727,6 +25008,15 @@ window.SCHEDULE = {
      2,
      2,
      2
+    ],
+    "wd_dur": [
+     null,
+     60,
+     null,
+     null,
+     null,
+     null,
+     null
     ],
     "manual": false
    },
@@ -24759,6 +25049,15 @@ window.SCHEDULE = {
      2,
      2
     ],
+    "wd_dur": [
+     null,
+     null,
+     60,
+     null,
+     null,
+     null,
+     null
+    ],
     "manual": true
    },
    {
@@ -24789,6 +25088,15 @@ window.SCHEDULE = {
      2,
      2,
      2
+    ],
+    "wd_dur": [
+     60,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
     ],
     "manual": false
    },
@@ -24827,6 +25135,15 @@ window.SCHEDULE = {
      2,
      2
     ],
+    "wd_dur": [
+     null,
+     60,
+     60,
+     60,
+     60,
+     60,
+     60
+    ],
     "manual": true
    }
   ],
@@ -24863,6 +25180,7 @@ window.SCHEDULE = {
    }
   },
   "rule": {
+   "slot_min": 60,
    "min_daily_hits": 3,
    "min_daily_ratio": 0.5,
    "min_daily_weekdays": 3,
