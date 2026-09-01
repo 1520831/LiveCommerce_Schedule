@@ -188,6 +188,11 @@
     border: 1px solid var(--line); border-radius: 8px; padding: 7px 13px; cursor: pointer;
   }
   .ghost:hover { background: var(--surface-2); }
+  /* 켜면 보이는 것이 줄어드는 버튼이라, 켜져 있다는 것이 분명해야 한다.
+     다른 ghost 버튼들은 문구가 바뀌어 상태를 알리지만 이건 켬/끔이라
+     문구로는 알 수가 없다. */
+  .ghost.on { background: var(--ink); border-color: var(--ink); color: #fff; }
+  .ghost.on:hover { background: var(--ink); }
   .help {
     font: inherit; font-size: 13px; font-weight: 700; line-height: 1;
     width: 30px; height: 30px; border-radius: 50%; cursor: pointer;
@@ -719,8 +724,8 @@
     </div>
     <div class="seg" id="segCh"></div>
     <div class="seg" id="segKind"></div>
-    <div class="seg" id="segCast"></div>
     <div class="right">
+      <button class="ghost" id="toggleCast" type="button">셀럽/인플</button>
       <button class="ghost" id="toggleNv" type="button">네이버 기획만</button>
       <button class="ghost" id="toggleTtl" type="button">&#9660; 소구 문구</button>
       <button class="ghost" id="toggleEmpty" type="button">빈 시간대 펼치기</button>
@@ -837,9 +842,9 @@
   var showEmpty = false;     // 편성 있는 시간대만. '빈 시간대 펼치기'로 24시간 전부 편다
   var chFilter = "ALL";
   var kindFilter = "ALL";    // ALL | LIVE | RERUN
-  // ALL | ANY(둘 다) | celeb | influencer.
-  // CJ 만 가릴 수 있다 - 다른 채널은 API 에 출연자 단서가 없다.
-  var castFilter = "ALL";
+  // 켜면 셀럽·인플루언서가 나오는 방송만 남긴다. CJ 만 가릴 수 있다 -
+  // 다른 채널은 API 에 출연자 단서가 없다.
+  var castOnly = false;
   // 네이버는 방송이 너무 많다(하루 300건 넘음). 대부분은 업체가 상시로 돌리는
   // 방송이고 그 사이에 네이버가 편성한 기획 방송이 섞여 있다. 전부 켜면 그
   // 열 하나가 행 높이를 스무 배로 늘려 표가 표 구실을 못 한다(실측 1,135px).
@@ -941,10 +946,7 @@
   }
 
   function visible(p) {
-    if (castFilter !== "ALL") {
-      if (!p.cast) return false;
-      if (castFilter !== "ANY" && p.cast !== castFilter) return false;
-    }
+    if (castOnly && !p.cast) return false;
     if (kindFilter === "ALL") return true;
     var rerun = isRerun(p, parsePgm(p.pgm));
     return kindFilter === "RERUN" ? rerun : !rerun;
@@ -976,12 +978,6 @@
       { label: "본방", value: "LIVE" },
       { label: "재방", value: "RERUN" }
     ], kindFilter, function (v) { kindFilter = v; });
-    seg(document.getElementById("segCast"), [
-      { label: "전체", value: "ALL" },
-      { label: "셀럽·인플", value: "ANY" },
-      { label: "연예인", value: "celeb" },
-      { label: "인플루언서", value: "influencer" }
-    ], castFilter, function (v) { castFilter = v; });
 
     var d = new Date(current + "T00:00:00");
     var wd = d.getDay();
@@ -1242,7 +1238,7 @@
     // 셀럽·인플루언서로 거르면 CJ 말고는 걸릴 것이 없다. 다른 채널은 API 에
     // 출연자 단서가 아예 없어서 못 가리는 것이지 없는 것이 아니다. 그 열들을
     // 빈 채로 세워두면 '저 채널은 셀럽 방송이 없다' 는 거짓 인상을 준다.
-    if (castFilter !== "ALL") {
+    if (castOnly) {
       var kept = chs.filter(function (c) { return counts[c.code]; });
       if (kept.length) chs = kept;
     }
@@ -1665,6 +1661,12 @@
   ttlBtn.addEventListener("click", function () {
     var on = board.classList.toggle("ttl-on");
     this.innerHTML = (on ? "▲" : "▼") + " 소구 문구";
+  });
+
+  document.getElementById("toggleCast").addEventListener("click", function () {
+    castOnly = !castOnly;
+    this.classList.toggle("on", castOnly);
+    render();
   });
 
   document.getElementById("toggleNv").addEventListener("click", function () {

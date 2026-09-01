@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-09-01T16:33:32+09:00",
+ "updated_at": "2026-09-01T16:55:16+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -1665,14 +1665,15 @@
    {
     "start": "22:00",
     "end": "22:59",
-    "brand": "",
-    "product": "다시보는 [은세로운발견] 아이그너 26FW 신상을 방송에서만 이 가격에?",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/29053",
+    "brand": "아이그너",
+    "product": "버튼탑 티셔츠",
+    "price": 116100,
+    "link": "https://item.cjonstyle.com/item/2089799390?channelCode=30002002",
     "slot_id": "29053",
     "title": "다시보는 [은세로운발견] 아이그너 26FW 신상을 방송에서만 이 가격에?",
     "pgm": "은세로운 발견",
-    "pgm_cd": "1075"
+    "pgm_cd": "1075",
+    "category": "여성패션"
    },
    {
     "start": "23:00",
@@ -1692,14 +1693,15 @@
    {
     "start": "10:00",
     "end": "10:59",
-    "brand": "",
-    "product": "다시보는 [은세로운발견] 아이그너 26FW 신상을 방송에서만 이 가격에?",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/29057",
+    "brand": "아이그너",
+    "product": "버튼탑 티셔츠",
+    "price": 116100,
+    "link": "https://item.cjonstyle.com/item/2089799390?channelCode=30002002",
     "slot_id": "29057",
     "title": "다시보는 [은세로운발견] 아이그너 26FW 신상을 방송에서만 이 가격에?",
     "pgm": "은세로운 발견",
-    "pgm_cd": "1075"
+    "pgm_cd": "1075",
+    "category": "여성패션"
    },
    {
     "start": "15:45",
@@ -1800,7 +1802,7 @@
     "price": 1243550,
     "link": "https://item.cjonstyle.com/item/2024094309?channelCode=30002002",
     "slot_id": "29076",
-    "title": "다시보는 데스커 더블쿠폰 특가💖 카드 10%+적립 10% 찬스!",
+    "title": "다시보는 데스커 더블쿠폰 특가💖 카드 7%+적립 10% 찬스!",
     "pgm": "하우스윗",
     "pgm_cd": "1048",
     "category": "가구·침구"
@@ -1836,14 +1838,15 @@
    {
     "start": "12:00",
     "end": "12:59",
-    "brand": "",
-    "product": "다시보는 [은세로운발견] 아이그너 26FW 신상을 방송에서만 이 가격에?",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/29086",
+    "brand": "아이그너",
+    "product": "버튼탑 티셔츠",
+    "price": 116100,
+    "link": "https://item.cjonstyle.com/item/2089799390?channelCode=30002002",
     "slot_id": "29086",
     "title": "다시보는 [은세로운발견] 아이그너 26FW 신상을 방송에서만 이 가격에?",
     "pgm": "은세로운 발견",
-    "pgm_cd": "1075"
+    "pgm_cd": "1075",
+    "category": "여성패션"
    },
    {
     "start": "13:00",
@@ -1944,7 +1947,7 @@
     "price": 1243550,
     "link": "https://item.cjonstyle.com/item/2024094309?channelCode=30002002",
     "slot_id": "29101",
-    "title": "다시보는 데스커 더블쿠폰 특가💖 카드 10%+적립 10% 찬스!",
+    "title": "다시보는 데스커 더블쿠폰 특가💖 카드 7%+적립 10% 찬스!",
     "pgm": "하우스윗",
     "pgm_cd": "1048",
     "category": "가구·침구"
