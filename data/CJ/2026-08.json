@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-08",
- "updated_at": "2026-09-01T13:17:25+09:00",
+ "updated_at": "2026-09-01T14:12:30+09:00",
  "days": {
   "2026-08-26": [
    {
@@ -2596,18 +2596,6 @@
    {
     "start": "19:00",
     "end": "19:59",
-    "brand": "나스",
-    "product": "[라이브]NEW 인세이셔블 리퀴드 블러쉬 [+핑거퍼프,거울]",
-    "price": 43350,
-    "link": "https://item.cjonstyle.com/item/2091237409?channelCode=30002002",
-    "slot_id": "28799",
-    "title": "김해나 매드딜🖤나스 초특급 메가딜+초특급 사은품",
-    "pgm": "김해나의 매드딜",
-    "category": "뷰티"
-   },
-   {
-    "start": "19:00",
-    "end": "19:59",
     "brand": "칼라거펠트",
     "product": "25FW FAUX 밍크 롱 코트",
     "price": 239000,
@@ -2742,7 +2730,7 @@
     "end": "22:44",
     "brand": "MCRN",
     "product": "[mcrn] 핸드스트랩+미니파우치+크리스탈 체리키링 세트",
-    "price": 119000,
+    "price": 90440,
     "link": "https://item.cjonstyle.com/item/2091719654?channelCode=30002002",
     "slot_id": "28803",
     "title": "굿라이프 x mcrn 폰스트랩 입점 특집! ✨비교필수 파격조건 ✨",

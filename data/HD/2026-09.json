@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-01T13:17:18+09:00",
+ "updated_at": "2026-09-01T14:12:24+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -215,6 +215,25 @@
     "pgm": "[키라니아] 샴푸 (뷰티1)"
    },
    {
+    "start": "16:00",
+    "end": "16:59",
+    "brand": "에고이스트",
+    "product": "[BLUE LABEL] 크롭 페이크 무스탕 베스트 ER4OMV51 ER4OMV51",
+    "price": 99600,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253037425",
+    "slot_id": "202609016022",
+    "items": [
+     {
+      "brand": "에고이스트",
+      "product": "[BLUE LABEL] 크롭 페이크 무스탕 베스트 ER4OMV51 ER4OMV51",
+      "price": 99600,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253037425"
+     }
+    ],
+    "title": "[에고이스트] 스페이스원 아울렛 첫방송💥",
+    "pgm": "[재방] 에고이스트 의류 (멀티커머스)"
+   },
+   {
     "start": "17:00",
     "end": "17:59",
     "brand": "밋앤밀",
@@ -308,6 +327,25 @@
     ],
     "title": "[지금이야] 골드바 + 실버바 핫딜!",
     "pgm": "[지금이야] 금 (패션잡화)"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "도노도노",
+    "product": "[모모래빗] 에코씽씽 썸머 팬티 기저귀 여아용 8팩+8팩(총16팩)",
+    "price": 140400,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2234419577",
+    "slot_id": "202609016025",
+    "items": [
+     {
+      "brand": "도노도노",
+      "product": "[모모래빗] 에코씽씽 썸머 팬티 기저귀 여아용 8팩+8팩(총16팩)",
+      "price": 140400,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2234419577"
+     }
+    ],
+    "title": "[모모래빗] 추석 연휴 전 에코씽씽 기저귀 쟁이기 찬스",
+    "pgm": "[재방] 모모래빗 기저귀 (액티브라이프팀)"
    },
    {
     "start": "20:00",
@@ -1262,6 +1300,12 @@
       "product": "[PlayBack] 랩 배기 팬츠",
       "price": 149000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252809146"
+     },
+     {
+      "brand": "Playback",
+      "product": "[PlayBack] 에어포스 모헤어가디건",
+      "price": 420000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253143560"
      }
     ],
     "title": "[플레이백] 최대 505 OFF 특가전",

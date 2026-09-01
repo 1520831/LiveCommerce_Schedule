@@ -528,6 +528,74 @@
     .head .hcol { font-size: 0; }   /* 44px 칸에서 '시간'이 두 줄로 쪼개진다 */
   }
 
+  /* ---------- 탭 ---------- */
+  /* 편성표(오늘 무엇을 하는가)와 고정PGM(평소 무엇을 하는가)은 보는 목적이
+     달라서 필터도 조작도 겹치지 않는다. 한 화면에 섞으면 날짜 스테퍼가
+     고정PGM 에서 아무 일도 안 하는 채로 남는다. 그래서 갈랐다. */
+  .tabs {
+    display: flex; gap: 3px; margin-bottom: 12px;
+    border-bottom: 1px solid var(--line);
+  }
+  .tabs button {
+    font: inherit; font-size: 13.5px; font-weight: 600; color: var(--muted);
+    background: none; border: 0; border-bottom: 2px solid transparent;
+    padding: 9px 16px; margin-bottom: -1px; cursor: pointer;
+  }
+  .tabs button:hover { color: var(--ink-soft); }
+  .tabs button.on { color: var(--accent); border-bottom-color: var(--accent); }
+
+  /* ---------- 고정PGM ---------- */
+  /* 편성표와 같은 격자를 쓴다(.head/.row). 열이 채널에서 요일로 바뀔 뿐이라
+     같은 어법을 쓰는 편이 눈에 익다. 시간 열 너비도 그대로 58px 이다. */
+  .fxhead .wcol { justify-content: center; font-size: 12px; font-weight: 700; }
+  .fxhead .wcol.sat { color: #2F6FD0; }
+  .fxhead .wcol.sun { color: var(--hd); }
+  .fxrow { border-top: 1px solid var(--line-soft); }
+  .fxrow .hour {
+    display: flex; align-items: flex-start; justify-content: center;
+    padding: 10px 4px; font-size: 12px; color: var(--muted);
+    font-variant-numeric: tabular-nums; background: var(--stripe);
+    border-right: 1px solid var(--line-soft);
+  }
+  .fxcell { padding: 5px; display: flex; flex-direction: column; gap: 5px;
+            border-right: 1px solid var(--line-soft); min-width: 0; }
+  .fxcell:last-child { border-right: 0; }
+
+  /* 카드. 편성표 슬롯과 같이 왼쪽에 채널색 막대를 세워 어느 채널인지
+     배지를 읽기 전에 색으로 먼저 알게 한다. */
+  .fx {
+    border-left: 3px solid var(--c); background: var(--cbg);
+    border-radius: 0 6px 6px 0; padding: 6px 8px; min-width: 0;
+  }
+  .fx-hd { --c: var(--hd); --cbg: var(--hd-bg); }
+  .fx-cj { --c: var(--cj); --cbg: var(--cj-bg); }
+  .fx-ka { --c: var(--ka); --cbg: var(--ka-bg); }
+  .fx-gm { --c: var(--gm); --cbg: var(--gm-bg); }
+  .fx-nv { --c: var(--nv); --cbg: var(--nv-bg); }
+  .fx .nm {
+    font-size: 12px; font-weight: 700; color: var(--ink); line-height: 16px;
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  }
+  .fx .sub {
+    font-size: 10.5px; color: var(--muted); margin-top: 2px;
+    font-variant-numeric: tabular-nums;
+  }
+  .fx .chip {
+    display: inline-block; font-size: 9.5px; font-weight: 700; color: #fff;
+    background: var(--c); border-radius: 3px; padding: 1px 4px; margin-right: 4px;
+    vertical-align: 1px;
+  }
+  /* 재방·수동등록은 글자가 아니라 테두리로 알린다. 카드가 작아서 배지를
+     하나 더 얹으면 프로그램 이름이 밀린다. */
+  .fx.rerun { opacity: .72; }
+  .fx.manual { box-shadow: inset 0 0 0 1px var(--c); }
+
+  .fxempty { padding: 40px 20px; text-align: center; color: var(--muted); font-size: 13px; }
+  .fxnote {
+    margin-top: 10px; font-size: 11.5px; color: var(--muted); line-height: 1.7;
+  }
+  .fxnote b { color: var(--ink-soft); }
+
   /* ---------- 모바일 ----------
      3열 격자는 폰 너비에 물리적으로 안 들어간다. 한 칸이 110px 남짓이라
      방송명 한 줄도 못 담고 글자가 세로로 쪼개진다. 그래서 시간대별로 세로로
@@ -538,6 +606,17 @@
     .topbar .in { padding: 0 12px; gap: 8px; }
     .topbar h1 { font-size: 14px; }
     .topbar .meta, .topbar .contact { font-size: 10.5px; }
+
+    /* 고정PGM 은 요일 일곱 열이 고정이라 폰 너비에 접을 수가 없다. 편성표처럼
+       세로로 쌓으면 '요일별로 견준다' 는 표의 목적 자체가 사라진다. 그래서
+       가로로 민다. 스크롤 컨테이너가 되면 sticky 가 이 상자 기준으로 잡혀
+       머리글이 엉뚱한 데 붙으므로 머리글 고정은 폰에서 뗀다. */
+    .tabs button { font-size: 13px; padding: 9px 12px; }
+    #fxBoard { overflow-x: auto; }
+    #fxBoard .fxhead { position: static; }
+    #fxBoard .fxhead, #fxBoard .fxrow { min-width: 660px; }
+    .fx .nm { font-size: 11.5px; }
+    .fxnote { font-size: 11px; }
 
     .ctrl { gap: 8px; margin-bottom: 8px; }
     .stepper { flex: 1 1 100%; justify-content: space-between; }
@@ -612,6 +691,13 @@
 </div>
 
 <div class="wrap">
+
+  <div class="tabs" id="tabs">
+    <button type="button" class="on" data-view="schedule">편성표</button>
+    <button type="button" data-view="fixed">고정PGM</button>
+  </div>
+
+  <div id="viewSchedule">
 
   <div class="ctrl">
     <div class="stepper">
@@ -710,6 +796,17 @@
   <div class="boardnote">방송을 누르면 상품 페이지가 열립니다</div>
 
   <div class="board" id="board"></div>
+
+  </div><!-- /viewSchedule -->
+
+  <div id="viewFixed" hidden>
+    <div class="ctrl">
+      <div class="seg" id="fxSegWd"></div>
+      <div class="seg" id="fxSegCh"></div>
+    </div>
+    <div class="board" id="fxBoard"></div>
+    <div class="fxnote" id="fxNote"></div>
+  </div>
 
   <footer id="foot"></footer>
 </div>
@@ -836,14 +933,14 @@
   }
 
   // ---------- segmented controls ----------
-  function seg(el, items, val, set) {
+  function seg(el, items, val, set, redraw) {
     el.innerHTML = "";
     items.forEach(function (it) {
       var b = document.createElement("button");
       b.type = "button";
       b.textContent = it.label;
       if (it.value === val) b.className = "on";
-      b.addEventListener("click", function () { set(it.value); render(); });
+      b.addEventListener("click", function () { set(it.value); (redraw || render)(); });
       el.appendChild(b);
     });
   }
@@ -1270,6 +1367,193 @@
   if (document.fonts && document.fonts.ready) {
     document.fonts.ready.then(function () { fitPgm(); });
   }
+
+  // ---------- 고정PGM ----------
+  //
+  // '고정PGM' 은 같은 시각에 되풀이해 편성되는 프로그램이다. 편성표가 '오늘
+  // 무엇을 하는가' 라면 이쪽은 '평소 무엇을 하는가' 다.
+  //
+  // 판정은 여기서 하지 않는다. 번들에는 D-1~D+5, 이레치만 들어 있어 반복이
+  // 보이지 않기 때문이다. scrapers/fixed_pgm.py 가 월 파일 전체를 훑어
+  // 계산한 결과를 S.fixed 로 받아 그리기만 한다.
+
+  var FXWD = ["월", "화", "수", "목", "금", "토", "일"];
+  var FX = (S.fixed && S.fixed.rows) || [];
+  var fxWd = "ALL";
+  var fxCh = "ALL";
+  var fxBoard = document.getElementById("fxBoard");
+
+  function fxRows() {
+    return FX.filter(function (r) {
+      if (fxCh !== "ALL" && r.ch !== fxCh) return false;
+      if (fxWd !== "ALL" && r.days.indexOf(fxWd) < 0) return false;
+      return true;
+    });
+  }
+
+  // 카드 밑줄. 매일형은 전체 수집일 대비, 요일형은 **그 요일이 지나간 횟수**
+  // 대비로 적는다. 요일 칸에 전체 횟수를 적으면 다른 요일에서 번 횟수까지
+  // 얹혀 실제보다 고정적으로 보인다.
+  function fxSub(r, wd) {
+    if (r.manual && !r.span) return "직접 등록";
+    if (r.kind === "daily") return "매일 · " + r.span + "일 중 " + r.hits + "회";
+    var i = FXWD.indexOf(wd);
+    var span = r.wd_span ? r.wd_span[i] : 0;
+    var hits = r.wd_hits ? r.wd_hits[i] : 0;
+    return span ? (span + "번 중 " + hits + "회") : (hits + "회");
+  }
+
+  function fxCard(r, wd) {
+    var el = document.createElement("div");
+    el.className = "fx fx-" + r.ch.toLowerCase()
+                 + (r.rerun ? " rerun" : "") + (r.manual ? " manual" : "");
+    var nm = document.createElement("div");
+    nm.className = "nm";
+    var chip = document.createElement("span");
+    chip.className = "chip";
+    chip.textContent = r.ch;
+    nm.appendChild(chip);
+    nm.appendChild(document.createTextNode(r.pgm));
+    el.appendChild(nm);
+    var sub = document.createElement("div");
+    sub.className = "sub";
+    sub.textContent = fxSub(r, wd);
+    el.appendChild(sub);
+    el.title = r.pgm + "  " + r.start + "  " + fxSub(r, wd)
+             + (r.rerun ? "  재방송" : "") + (r.manual ? "  직접 등록" : "");
+    return el;
+  }
+
+  function fxControls() {
+    var wds = [{ value: "ALL", label: "전체" }];
+    FXWD.forEach(function (w) { wds.push({ value: w, label: w }); });
+    seg(document.getElementById("fxSegWd"), wds, fxWd,
+        function (v) { fxWd = v; }, renderFixed);
+
+    var chs = [{ value: "ALL", label: "전체" }];
+    S.channels.forEach(function (c) {
+      for (var i = 0; i < FX.length; i++) {
+        if (FX[i].ch === c.code) { chs.push({ value: c.code, label: c.code }); return; }
+      }
+    });
+    seg(document.getElementById("fxSegCh"), chs, fxCh,
+        function (v) { fxCh = v; }, renderFixed);
+  }
+
+  function renderFixed() {
+    fxControls();
+    fxNote();
+
+    var rows = fxRows();
+    var cols = fxWd === "ALL" ? FXWD : [fxWd];
+
+    fxBoard.style.setProperty("--cols", cols.length);
+    fxBoard.innerHTML = "";
+
+    if (!rows.length) {
+      var e = document.createElement("div");
+      e.className = "fxempty";
+      e.textContent = FX.length
+        ? "이 조건에 맞는 고정PGM 이 없습니다."
+        : "아직 고정PGM 이 없습니다. 수집이 더 쌓이면 나타납니다.";
+      fxBoard.appendChild(e);
+      return;
+    }
+
+    var head = document.createElement("div");
+    head.className = "head fxhead";
+    var hc = document.createElement("div");
+    hc.className = "hcol";
+    hc.textContent = "시간";
+    head.appendChild(hc);
+    cols.forEach(function (w) {
+      var d = document.createElement("div");
+      d.className = "wcol" + (w === "토" ? " sat" : w === "일" ? " sun" : "");
+      d.textContent = w;
+      head.appendChild(d);
+    });
+    fxBoard.appendChild(head);
+
+    var starts = [];
+    rows.forEach(function (r) { if (starts.indexOf(r.start) < 0) starts.push(r.start); });
+    starts.sort();
+
+    starts.forEach(function (st) {
+      var row = document.createElement("div");
+      row.className = "row fxrow";
+      var h = document.createElement("div");
+      h.className = "hour";
+      h.textContent = st;
+      row.appendChild(h);
+      cols.forEach(function (w) {
+        var cell = document.createElement("div");
+        cell.className = "fxcell";
+        rows.forEach(function (r) {
+          if (r.start === st && r.days.indexOf(w) >= 0) cell.appendChild(fxCard(r, w));
+        });
+        row.appendChild(cell);
+      });
+      fxBoard.appendChild(row);
+    });
+  }
+
+  // 판정 기준과 표본 크기를 표 밑에 그대로 적는다. 지금은 수집이 열이틀치라
+  // 요일형 문턱이 2회로 낮다 - 숫자를 숨기면 화면이 실제보다 확신에 차 보인다.
+  function fxNote() {
+    var meta = (S.fixed && S.fixed.meta) || {};
+    var on = [], off = [], span = null;
+    S.channels.forEach(function (c) {
+      var m = meta[c.code];
+      if (!m) return;
+      if (m.auto) {
+        on.push(c.name + " " + m.span + "일");
+        if (!span && m.from) span = m.from + " ~ " + m.to;
+      } else {
+        off.push(c.name);
+      }
+    });
+    var html =
+      '<b>판정 기준</b> — 같은 시각에 되풀이 편성되면 고정PGM 으로 봅니다. ' +
+      '<b>매일형</b>은 수집일의 절반 이상, 서로 다른 요일 3개 이상에서 잡힌 것이라 ' +
+      '요일 일곱 칸을 모두 채웁니다. <b>요일형</b>은 그 요일에만 2회 이상 잡힌 것입니다. ' +
+      '흐린 카드는 재방송, 테두리 있는 카드는 직접 등록한 것입니다.';
+    if (on.length) {
+      html += '<br><b>자동 판정</b> — ' + on.join(' · ')
+            + (span ? ' (' + span + ')' : '');
+    }
+    if (off.length) {
+      html += '<br><b>자동 판정을 끈 채널</b> — ' + off.join(' · ')
+            + '. 이 채널들은 방송명이 프로그램 이름이 아니라 회차별 제목이라 '
+            + '프로그램 개념이 없습니다. 켜면 한 판매자가 매일 같은 제목으로 돌리는 '
+            + '상시 방송이 고정PGM 으로 잡혀 표를 덮습니다. '
+            + '<code>data/fixed_pgm.json</code> 에 직접 등록하는 편이 정확합니다.';
+    }
+    html += '<br><b>요일형 문턱이 2회로 낮은 것은 표본이 없어서지 확신이 있어서가 '
+          + '아닙니다.</b> 수집을 시작한 지 얼마 안 돼 요일당 표본이 둘뿐입니다. '
+          + '카드의 <code>2번 중 2회</code> 를 같이 보고 판단하세요. 데이터가 쌓일수록 '
+          + '요일 패턴은 저절로 선명해집니다.';
+    document.getElementById("fxNote").innerHTML = html;
+  }
+
+  // ---------- 탭 ----------
+  var viewEls = {
+    schedule: document.getElementById("viewSchedule"),
+    fixed: document.getElementById("viewFixed")
+  };
+  var tabBar = document.getElementById("tabs");
+  var tabBtns = tabBar.querySelectorAll("button");
+  Array.prototype.forEach.call(tabBtns, function (b) {
+    b.addEventListener("click", function () {
+      var v = b.getAttribute("data-view");
+      Array.prototype.forEach.call(tabBtns, function (x) {
+        x.classList.toggle("on", x === b);
+      });
+      viewEls.schedule.hidden = v !== "schedule";
+      viewEls.fixed.hidden = v !== "fixed";
+      // 숨은 동안에는 폭을 잴 수 없어 방송명 줄이기가 어긋난다. 돌아올 때 다시 잰다.
+      if (v === "fixed") renderFixed(); else fitPgm();
+    });
+  });
 
   function step(delta) {
     var i = S.dates.indexOf(current);

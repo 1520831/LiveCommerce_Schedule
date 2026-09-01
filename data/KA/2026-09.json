@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-09-01T13:17:31+09:00",
+ "updated_at": "2026-09-01T14:12:36+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -21,7 +21,7 @@
     "start": "08:30",
     "end": "09:51",
     "brand": "AP뷰티",
-    "product": "리쥬브네이팅 부스터샷엠디세럼 20ml",
+    "product": "MD세럼 20ml 세트 (+블랙파우치+추가 증정+고급 포장 서비스)",
     "price": 74800,
     "link": "https://gift.kakao.com/product/14058365?url=product&cId=14058365",
     "slot_id": "59548",
@@ -51,18 +51,6 @@
     "slot_id": "59391",
     "pgm": "메디슨벨 마시는 샐러드",
     "title": "라이브에서만 이 가격~32%",
-    "category": "식품"
-   },
-   {
-    "start": "14:00",
-    "end": "15:30",
-    "brand": "그로우앤프레시",
-    "product": "2026 첫 출하!! 아삭달콤 햇 홍로사과 2kg",
-    "price": 29900,
-    "link": "https://store.kakao.com/grownfresh/products/782009097",
-    "slot_id": "59752",
-    "pgm": "2026 첫 출하!!",
-    "title": "아삭달콤 햇 홍로사과",
     "category": "식품"
    },
    {
@@ -209,6 +197,18 @@
     "slot_id": "59381",
     "pgm": "정성한가득 교동한과",
     "title": "라이브 초특가",
+    "category": "식품"
+   },
+   {
+    "start": "11:00",
+    "end": "12:30",
+    "brand": "더리얼푸드마켓",
+    "product": "오월향 1등급 아카시아꿀 밤꿀 야생화꿀 토종꿀 1.2kg 2.4kg",
+    "price": 50000,
+    "link": "https://store.kakao.com/realfoodmarkets/products/288024470",
+    "slot_id": "59804",
+    "pgm": "리얼 찐 천연 꿀~!",
+    "title": "오늘만 라이브 특가 진행!",
     "category": "식품"
    },
    {

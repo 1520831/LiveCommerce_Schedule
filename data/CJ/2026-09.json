@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-09-01T13:17:25+09:00",
+ "updated_at": "2026-09-01T14:12:30+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -225,7 +225,7 @@
     "start": "18:00",
     "end": "18:59",
     "brand": "리베니프",
-    "product": "[탄력+리프팅]  리마지 실프팅 앰플 4box +  (증) 석고마스크팩 2box (8매)",
+    "product": "[탄력+리프팅]  리마지 실프팅 앰플 4box + (증) 석고마스크팩 2box (8매)",
     "price": 65000,
     "link": "https://item.cjonstyle.com/item/2046455506?channelCode=30002002",
     "slot_id": "28812",
@@ -714,6 +714,18 @@
    },
    {
     "start": "16:00",
+    "end": "17:00",
+    "brand": "브레빌",
+    "product": "바리스타 익스프레스™ 임프레스 실버 BES876",
+    "price": 1220000,
+    "link": "https://item.cjonstyle.com/item/2039924158?channelCode=30002002",
+    "slot_id": "29001",
+    "title": "다시보는✨까사림 공구! 브레빌 876, 881 이 공구가격 마지막!",
+    "pgm": "까사림의 감성하우스",
+    "category": "가전"
+   },
+   {
+    "start": "16:00",
     "end": "16:59",
     "brand": "르무통",
     "product": "메이트 발 편한 메리노울  운동화 (9 COLOR)",
@@ -735,6 +747,18 @@
     "title": "까사무띠🤍부케 디너세트& 보그 커트러리 4인조💐최대~77% 💕",
     "pgm": "라이브쇼",
     "category": "주방·잡화"
+   },
+   {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "포맨트",
+    "product": "시그니처퍼퓸코튼허그50ml 더블+샤쉐",
+    "price": 74000,
+    "link": "https://item.cjonstyle.com/item/2053643131?channelCode=30002002",
+    "slot_id": "28996",
+    "title": "다시보는 포맨트 CJ 단독 세트 최저가 찬스✨",
+    "pgm": "라이브쇼",
+    "category": "뷰티"
    },
    {
     "start": "18:00",
@@ -1048,6 +1072,18 @@
     "category": "식품·건강"
    },
    {
+    "start": "16:00",
+    "end": "17:00",
+    "brand": "브레빌",
+    "product": "바리스타 익스프레스™ 임프레스 실버 BES876",
+    "price": 1220000,
+    "link": "https://item.cjonstyle.com/item/2039924158?channelCode=30002002",
+    "slot_id": "29023",
+    "title": "다시보는✨까사림 공구! 브레빌 876, 881 이 공구가격 마지막!",
+    "pgm": "까사림의 감성하우스",
+    "category": "가전"
+   },
+   {
     "start": "18:00",
     "end": "18:59",
     "brand": "자코모",
@@ -1121,13 +1157,14 @@
    {
     "start": "20:00",
     "end": "20:59",
-    "brand": "",
-    "product": "⚡무려 ~85% 혜택⚡[강원도 홍천] 소노펠리체/빌리지/소노캄 단독특가",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/28850",
+    "brand": "소노호텔앤리조트",
+    "product": "0903[홍천 비발디파크] 소노펠리체 수영장&사우나+특전",
+    "price": 262000,
+    "link": "https://item.cjonstyle.com/item/2092515247?channelCode=30002002",
     "slot_id": "28850",
     "title": "⚡무려 ~85% 혜택⚡[강원도 홍천] 소노펠리체/빌리지/소노캄 단독특가",
-    "pgm": "럭셔리체크인"
+    "pgm": "럭셔리체크인",
+    "category": "서비스·렌탈"
    },
    {
     "start": "20:00",
@@ -1284,6 +1321,18 @@
     "slot_id": "29041",
     "title": "다시보는 [한정수량] 프라이 잡화✨ 썸머세일 막바지 방송에서만 최저가!",
     "pgm": "라이브쇼"
+   },
+   {
+    "start": "16:00",
+    "end": "17:00",
+    "brand": "브레빌",
+    "product": "바리스타 익스프레스™ 임프레스 실버 BES876",
+    "price": 1220000,
+    "link": "https://item.cjonstyle.com/item/2039924158?channelCode=30002002",
+    "slot_id": "29042",
+    "title": "다시보는✨까사림 공구! 브레빌 876, 881 이 공구가격 마지막!",
+    "pgm": "까사림의 감성하우스",
+    "category": "가전"
    },
    {
     "start": "17:00",
