@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-08",
- "updated_at": "2026-09-01T11:07:21+09:00",
+ "updated_at": "2026-09-01T12:09:38+09:00",
  "days": {
   "2026-08-27": [
    {
@@ -770,18 +770,6 @@
     "pgm": "칼로쿡 전자레인지",
     "title": "멀티 구이팬 3P 세트",
     "category": "리빙"
-   },
-   {
-    "start": "11:30",
-    "end": "12:31",
-    "brand": "젤리스푼",
-    "product": "[젤리스푼] 가을신상 아동복 시즌오픈 특가 - 래쉬가드/상하복/반팔티/원피스 외",
-    "price": 14900,
-    "link": "https://store.kakao.com/jelispoon/products/247071360",
-    "slot_id": "59475",
-    "pgm": "젤리스푼 가을 그랜드오픈!",
-    "title": "굿바이썸머 세일",
-    "category": "키즈"
    },
    {
     "start": "17:00",

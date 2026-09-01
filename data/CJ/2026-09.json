@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-09-01T11:07:14+09:00",
+ "updated_at": "2026-09-01T12:09:32+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -140,13 +140,14 @@
    {
     "start": "12:00",
     "end": "12:59",
-    "brand": "",
-    "product": "ORT🌳40주년 앵콜 특집 x 핫세맘 공구",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/28810",
+    "brand": "옥스포드리딩트리",
+    "product": "[CJX핫세맘] 1+~12단계 ORT사운드북 풀세트_펜포함 437종",
+    "price": 1876000,
+    "link": "https://item.cjonstyle.com/item/2054077663?channelCode=30002002",
     "slot_id": "28810",
-    "title": "ORT🌳40주년 앵콜 특집 x 핫세맘 공구",
-    "pgm": "인플루언서LIVE"
+    "title": "옥스포드리딩트리🌳40주년 앵콜 특집 x 핫세맘 공구",
+    "pgm": "인플루언서LIVE",
+    "category": "유아동"
    },
    {
     "start": "12:00",
@@ -212,18 +213,19 @@
     "start": "17:00",
     "end": "17:59",
     "brand": "시몬스",
-    "product": "[2개묶음] D2178A. 뷰티레스트 자스민. 퀸+슈퍼싱글 침대.",
-    "price": 5374100,
-    "link": "https://item.cjonstyle.com/item/2004764557?channelCode=30002002",
+    "product": "올로 클래식. 뷰티레스트 바이브. 킹오브킹 침대",
+    "price": 6045000,
+    "link": "https://item.cjonstyle.com/item/2076705770?channelCode=30002002",
     "slot_id": "29215",
     "title": "다시보는 굿라이프 x 시몬스 입점 특집 ✨역대급 파격조건 ✨",
-    "pgm": "굿라이프"
+    "pgm": "굿라이프",
+    "category": "가구·침구"
    },
    {
     "start": "18:00",
     "end": "18:59",
     "brand": "리베니프",
-    "product": "[탄력+리프팅]  리마지 실프팅 앰플 4box +  (증) 석고마스크팩 2box",
+    "product": "[탄력+리프팅]  리마지 실프팅 앰플 4box +  (증) 석고마스크팩 2box (8매)",
     "price": 65000,
     "link": "https://item.cjonstyle.com/item/2046455506?channelCode=30002002",
     "slot_id": "28812",
@@ -653,13 +655,14 @@
    {
     "start": "14:00",
     "end": "14:59",
-    "brand": "",
-    "product": "다시보는 ORT🌳40주년 앵콜 특집 x 핫세맘 공구",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/28997",
+    "brand": "옥스포드리딩트리",
+    "product": "[CJX핫세맘] 1+~12단계 ORT사운드북 풀세트_펜포함 437종",
+    "price": 1876000,
+    "link": "https://item.cjonstyle.com/item/2054077663?channelCode=30002002",
     "slot_id": "28997",
     "title": "다시보는 ORT🌳40주년 앵콜 특집 x 핫세맘 공구",
-    "pgm": "인플루언서LIVE"
+    "pgm": "인플루언서LIVE",
+    "category": "유아동"
    },
    {
     "start": "14:00",
@@ -672,6 +675,18 @@
     "title": "다시보는 여성 패션 대전🤍 던스트/라코스테 최초 최저가 도전!",
     "pgm": "라이브쇼",
     "category": "여성패션"
+   },
+   {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "WMF",
+    "product": "키친미니스미니그릴",
+    "price": 119000,
+    "link": "https://item.cjonstyle.com/item/2084733183?channelCode=30002002",
+    "slot_id": "28999",
+    "title": "다시보는 [이비쿡스XWMF] 이비쿡스가 선택한 홈캠핑 감성의 미니그릴!",
+    "pgm": "ONSTAR LIVE",
+    "category": "주방·잡화"
    },
    {
     "start": "15:00",

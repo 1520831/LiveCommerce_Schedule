@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-01T11:07:07+09:00",
+ "updated_at": "2026-09-01T12:09:26+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -84,18 +84,12 @@
    {
     "start": "10:00",
     "end": "10:59",
-    "brand": "발렌시아가",
-    "product": "르 시티 미디엄 토트백 865760 2ACLR 1000 블랙",
-    "price": 4258000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252370378",
+    "brand": "버버리",
+    "product": "켄트 롱 나일론 후드 패딩 8131873 블랙",
+    "price": 2453000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252697629",
     "slot_id": "202609016004",
     "items": [
-     {
-      "brand": "발렌시아가",
-      "product": "르 시티 미디엄 토트백 865760 2ACLR 1000 블랙",
-      "price": 4258000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252370378"
-     },
      {
       "brand": "버버리",
       "product": "켄트 롱 나일론 후드 패딩 8131873 블랙",
@@ -168,14 +162,14 @@
     "end": "15:59",
     "brand": "이대명과",
     "product": "(H몰) 해운대 2-1호(600gX2) 2개",
-    "price": 38640,
+    "price": 38220,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251337878",
     "slot_id": "202609016014",
     "items": [
      {
       "brand": "이대명과",
       "product": "(H몰) 해운대 2-1호(600gX2) 2개",
-      "price": 38640,
+      "price": 38220,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251337878"
      }
     ],
@@ -257,6 +251,25 @@
     ],
     "title": "[꼼데가르송] 티셔츠, 가디건 FW 의류 특집",
     "pgm": "[꼼데가르송] 의류"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "버버리",
+    "product": "켄트 롱 나일론 후드 패딩 8131873 블랙",
+    "price": 2453000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252697629",
+    "slot_id": "202609016026",
+    "items": [
+     {
+      "brand": "버버리",
+      "product": "켄트 롱 나일론 후드 패딩 8131873 블랙",
+      "price": 2453000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252697629"
+     }
+    ],
+    "title": "[투명쇼] 인기 명품 60개월 무이자 혜택!",
+    "pgm": "[재방] 투명쇼 (패션잡화)"
    },
    {
     "start": "19:00",
@@ -854,6 +867,25 @@
     "pgm": "[재방] 투명쇼 (패션잡화)"
    },
    {
+    "start": "08:00",
+    "end": "08:59",
+    "brand": "레노마",
+    "product": "[뤼드레노마] 배색 포인트 중기장 니트  풀오버 R2G12KPO070 R2G12KPO070",
+    "price": 42000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253004996",
+    "slot_id": "202609046001",
+    "items": [
+     {
+      "brand": "레노마",
+      "product": "[뤼드레노마] 배색 포인트 중기장 니트  풀오버 R2G12KPO070 R2G12KPO070",
+      "price": 42000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253004996"
+     }
+    ],
+    "title": "최대 85%▼ 지금부터 입기 좋은 더레노마❤️",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
     "start": "12:00",
     "end": "12:59",
     "brand": "시슬리",
@@ -987,6 +1019,25 @@
     "pgm": "[지고트] 의류 (멀티커머스)"
    },
    {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "LIE317(라이)",
+    "product": "[LIE] 라이 심볼 리핏 자수 로고 오버사이즈 맨투맨 I00B06",
+    "price": 245000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252893320",
+    "slot_id": "202609046014",
+    "items": [
+     {
+      "brand": "LIE317(라이)",
+      "product": "[LIE] 라이 심볼 리핏 자수 로고 오버사이즈 맨투맨 I00B06",
+      "price": 245000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252893320"
+     }
+    ],
+    "title": "이청청디자이너의 LIE317 최초공개!",
+    "pgm": "[LIE37] 의류 (패션2Lab)"
+   },
+   {
     "start": "22:00",
     "end": "22:59",
     "brand": "테팔",
@@ -1065,6 +1116,25 @@
     "pgm": "[재방] 노블리타 (노블레스)"
    },
    {
+    "start": "08:00",
+    "end": "08:59",
+    "brand": "프라다",
+    "product": "사피아노 로고 호보백(1N204TN)",
+    "price": 2900000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252344241",
+    "slot_id": "202609056014",
+    "items": [
+     {
+      "brand": "프라다",
+      "product": "사피아노 로고 호보백(1N204TN)",
+      "price": 2900000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252344241"
+     }
+    ],
+    "title": "[현명쇼] 프라다 신상 선글라스 4만▼",
+    "pgm": "[재방] 현명쇼 (노블레스팀)"
+   },
+   {
     "start": "11:00",
     "end": "11:59",
     "brand": "피네플리츠(FINE PLEATS)",
@@ -1103,6 +1173,25 @@
     "pgm": "[재방] 한민금거래소 (패션잡화)"
    },
    {
+    "start": "16:00",
+    "end": "17:59",
+    "brand": "프라다",
+    "product": "사피아노 로고 호보백(1N204TN)",
+    "price": 2900000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252344241",
+    "slot_id": "202609056018",
+    "items": [
+     {
+      "brand": "프라다",
+      "product": "사피아노 로고 호보백(1N204TN)",
+      "price": 2900000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252344241"
+     }
+    ],
+    "title": "[현명쇼] 버버리 트렌치코트 60만▼ 타임딜",
+    "pgm": "[재방] 현명쇼 (노블레스팀)"
+   },
+   {
     "start": "19:00",
     "end": "19:59",
     "brand": "Playback",
@@ -1139,6 +1228,25 @@
     ],
     "title": "✨세컨스킨✨ 한정수량~방송중 특별 혜택까지❤️",
     "pgm": "[세컨스킨] 여성의류 (멀티커머스)"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "멜라비앙카",
+    "product": "[Mela Bianca][정가 29000원]벤루 헤어 타이 MHE26018",
+    "price": 29000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253146180",
+    "slot_id": "202609056010",
+    "items": [
+     {
+      "brand": "멜라비앙카",
+      "product": "[Mela Bianca][정가 29000원]벤루 헤어 타이 MHE26018",
+      "price": 29000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253146180"
+     }
+    ],
+    "title": "[멜라비앙카] 데일리 헤어주얼리🤍",
+    "pgm": "[멜라비앙카] 헤어주얼리 (패션잡화)"
    },
    {
     "start": "23:00",
@@ -1200,6 +1308,25 @@
     "pgm": "[재방] 노블리타 (노블레스)"
    },
    {
+    "start": "08:00",
+    "end": "09:59",
+    "brand": "버버리",
+    "product": "파크게이트 다이아몬드 퀼팅 롱 후드 코트(80842091)",
+    "price": 1799000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2238094366",
+    "slot_id": "202609066014",
+    "items": [
+     {
+      "brand": "버버리",
+      "product": "파크게이트 다이아몬드 퀼팅 롱 후드 코트(80842091)",
+      "price": 1799000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2238094366"
+     }
+    ],
+    "title": "[현명쇼] 버버리 아우터 막바지 역시즌 특집!",
+    "pgm": "[재방] 현명쇼 (노블레스팀)"
+   },
+   {
     "start": "10:00",
     "end": "10:59",
     "brand": "유한킴벌리생활",
@@ -1236,6 +1363,25 @@
     ],
     "title": "26년 추석선물 미리 준비! 반건시 30% 쿠폰",
     "pgm": "[세원팜스] 곶감 (일반식품2)"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "프라다",
+    "product": "포코노 나일론 버킷백(1BH038)",
+    "price": 2649000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2243743047",
+    "slot_id": "202609066016",
+    "items": [
+     {
+      "brand": "프라다",
+      "product": "포코노 나일론 버킷백(1BH038)",
+      "price": 2649000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2243743047"
+     }
+    ],
+    "title": "[명품특별전] 프라다 버킷백 20점 한정수량 !",
+    "pgm": "[재방] 명품특별전 (노블레스)"
    },
    {
     "start": "20:00",
@@ -1293,6 +1439,25 @@
     ],
     "title": "[아서앤그레이스] 국내 명품 장인들이 만드는 명품 가방",
     "pgm": "[아서앤그레이스] 가방/지갑 (패션잡화)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "파슨스",
+    "product": "Pure Line String Blouse [WHRT9BL02]",
+    "price": 89000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253150936",
+    "slot_id": "202609066009",
+    "items": [
+     {
+      "brand": "파슨스",
+      "product": "Pure Line String Blouse [WHRT9BL02]",
+      "price": 89000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253150936"
+     }
+    ],
+    "title": "[파슨스] 최대 83%▼ 매일 입을 간절기 데일리룩!",
+    "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ]
  }

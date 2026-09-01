@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-09-01T11:07:21+09:00",
+ "updated_at": "2026-09-01T12:09:38+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -54,18 +54,6 @@
     "category": "식품"
    },
    {
-    "start": "11:00",
-    "end": "12:30",
-    "brand": "파파야나인",
-    "product": "봄봄 A형 트롤리 기저귀갈이대 기저귀교환대 기갈대 모빌세트",
-    "price": 149000,
-    "link": "https://store.kakao.com/papaya9/products/715103809",
-    "slot_id": "59643",
-    "pgm": "[봄봄] 출산준비 필수템",
-    "title": "A형 기저귀갈이대+방수패드",
-    "category": "키즈"
-   },
-   {
     "start": "14:00",
     "end": "15:30",
     "brand": "그로우앤프레시",
@@ -81,7 +69,7 @@
     "start": "17:00",
     "end": "18:30",
     "brand": "동국제약",
-    "product": "[동국제약] 쿠션쟁이기.(본품2+리필1+쿠션2개)마데카 멜라 캡처 토닝 에이징 커버 쿠션 21호 or 23호 택1+커버쿠션리필",
+    "product": "[동국제약] 쿠션쟁이기.(본품2+리필1+퍼프2개)마데카 멜라 캡처 토닝 에이징 커버 쿠션 21호 or 23호 택1+커버쿠션리필",
     "price": 120000,
     "link": "https://store.kakao.com/dkpharm/products/735795851",
     "slot_id": "59558",
@@ -296,6 +284,18 @@
     "category": "식품"
    },
    {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "현대시티아울렛 가산점",
+    "product": "[쉬즈미스] 가을 이너/자켓/팬츠 셋업 외 할인전",
+    "price": 178000,
+    "link": "https://store.kakao.com/hoagasan/products/66852813",
+    "slot_id": "59794",
+    "pgm": "쉬즈미스 가을 데일리 아이템",
+    "title": "니트/셔츠 외 이너&셋업전",
+    "category": "패션"
+   },
+   {
     "start": "19:00",
     "end": "20:30",
     "brand": "올록담",
@@ -466,6 +466,18 @@
     "pgm": "동국제약 초이스딜 특가",
     "title": "유어핏 레그슬리브 83%할인",
     "category": "리빙"
+   },
+   {
+    "start": "11:00",
+    "end": "12:30",
+    "brand": "산양산삼대표브랜드 다온",
+    "product": "임업진흥원 합격품, 7년근 산양산삼 7뿌리 (작은사이즈)",
+    "price": 70000,
+    "link": "https://store.kakao.com/daonsan3/products/536816016",
+    "slot_id": "59795",
+    "pgm": "[다온]임업진흥 품질 검사",
+    "title": "합 산양산삼 특가 라이브",
+    "category": "식품"
    },
    {
     "start": "11:30",

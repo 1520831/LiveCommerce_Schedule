@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-08",
- "updated_at": "2026-09-01T11:07:07+09:00",
+ "updated_at": "2026-09-01T12:09:26+09:00",
  "days": {
   "2026-08-26": [
    {
@@ -2179,14 +2179,14 @@
     "end": "19:59",
     "brand": "한국금거래소",
     "product": "X 현대홈쇼핑 VIP 골드바 3.75g",
-    "price": 1004000,
+    "price": 1001500,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239425835",
     "slot_id": "202608316013",
     "items": [
      {
       "brand": "한국금거래소",
       "product": "X 현대홈쇼핑 VIP 골드바 3.75g",
-      "price": 1004000,
+      "price": 1001500,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239425835"
      }
     ],
