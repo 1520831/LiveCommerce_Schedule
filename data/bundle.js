@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-01T10:36:52+09:00",
+ "generated_at": "2026-09-01T10:47:21+09:00",
  "today": "2026-09-01",
  "dates": [
   "2026-08-31",
@@ -440,16 +440,16 @@ window.SCHEDULE = {
      "start": "10:00",
      "end": "10:59",
      "brand": "발렌시아가",
-     "product": "르 시티 스몰 토트백 811442 2ABEK 1000 블랙",
-     "price": 3314000,
-     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250930650",
+     "product": "르 시티 미디엄 토트백 865760 2ACLR 1000 블랙",
+     "price": 4258000,
+     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252370378",
      "slot_id": "202609016004",
      "items": [
       {
        "brand": "발렌시아가",
-       "product": "르 시티 스몰 토트백 811442 2ABEK 1000 블랙",
-       "price": 3314000,
-       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250930650"
+       "product": "르 시티 미디엄 토트백 865760 2ACLR 1000 블랙",
+       "price": 4258000,
+       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252370378"
       }
      ],
      "title": "[투명쇼] 인기 명품 60개월 무이자 혜택!",
@@ -7691,8 +7691,8 @@ window.SCHEDULE = {
      "start": "10:30",
      "end": "",
      "brand": "아이얌",
-     "product": "아이얌 유기농쌀과자 떡뻥세트 (자색고구마, 시금치, 백미, 사과 각 2개씩 총 8개)",
-     "price": 22000,
+     "product": "아이얌 아기밀 이유식 진밥 3종 골라담기 10팩+10팩",
+     "price": 33000,
      "link": "https://shoppinglive.naver.com/livebridge/1985340",
      "slot_id": "1985340",
      "pgm": "일동후디스 키즈 메가위크_올해의 국민템 🏆",
@@ -8269,26 +8269,6 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크"
-    },
-    {
-     "start": "11:00",
-     "end": "",
-     "brand": "오가닉그라운드",
-     "product": "1+1 오가닉그라운드 아기 베이비 고보습크림 150ml 4중 속보습 진정크림",
-     "price": 79000,
-     "link": "https://shoppinglive.naver.com/livebridge/1989156",
-     "slot_id": "1989156",
-     "pgm": "[키즈메가위크] 오가닉그라운드 환절기 대비 보습템 1+1",
-     "title": "키즈메가위크 최대 혜택!",
-     "items": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-     ],
-     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -8951,8 +8931,8 @@ window.SCHEDULE = {
      "price": 51400,
      "link": "https://shoppinglive.naver.com/livebridge/2009293",
      "slot_id": "2009293",
-     "pgm": "[이리온몰] 9월 댕냥이도 집사도 풍성한 용돈 잔치 🌕🌾",
-     "title": "오늘의브랜드 x 라이브",
+     "pgm": "[이리온몰x추석특집] 9월 ~55% 혜택가 LIVE 🌕🌾",
+     "title": "오늘 하루! 캔 전원 증정",
      "items": [
       {},
       {},
@@ -9160,6 +9140,28 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크"
+    },
+    {
+     "start": "11:00",
+     "end": "",
+     "brand": "와이업",
+     "product": "와이업 푸쉬고 유아 어린이 타는 캐리어 트라이크 아기 휴대용 유모차 유모카",
+     "price": 279000,
+     "link": "https://shoppinglive.naver.com/livebridge/2013578",
+     "slot_id": "2013578",
+     "pgm": "[👶🏻키즈메가위크! 올해의 국민템🏆] 푸쉬고 & 티코 쇼핑라이브",
+     "title": "와이업 트라이크 데이 🤎",
+     "items": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+     ],
+     "category": "키즈"
     }
    ],
    "2026-09-02": [
@@ -9756,41 +9758,6 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크"
-    },
-    {
-     "start": "10:00",
-     "end": "",
-     "brand": "덴트릭스",
-     "product": "[버블보블 에디션] 덴트릭스 크러쉬 민트볼 오리지널 20입 2개+소다팝 20입 2개",
-     "price": 18900,
-     "link": "https://shoppinglive.naver.com/livebridge/1990272",
-     "slot_id": "1990272",
-     "pgm": "입 안 가득 퍼지는 상쾌함! 덴트릭스 신상 출시🪥❤️",
-     "title": "소통만 해도 기프티콘 증정!",
-     "items": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-     ],
-     "category": "라이프"
     },
     {
      "start": "10:00",
@@ -11599,6 +11566,22 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크"
+    },
+    {
+     "start": "12:00",
+     "end": "",
+     "brand": "툴앤툴",
+     "product": "툴앤툴 피톤치드 연무기 방역소독기 케어로 F1+1500ml+4.5M연장멀티탭 화장실냄새제거 새집증후군 옷장탈취 담배냄새",
+     "price": 199000,
+     "link": "https://shoppinglive.naver.com/livebridge/2013690",
+     "slot_id": "2013690",
+     "pgm": "툴앤툴 피톤치드 연무기 케어로 F1세트 최대 33% 할인+사은품 증정",
+     "title": "33%할인+연무액2500ml",
+     "items": [
+      {},
+      {}
+     ],
+     "category": "라이프"
     }
    ],
    "2026-09-03": [
@@ -20604,10 +20587,10 @@ window.SCHEDULE = {
   }
  },
  "updated_at": {
-  "HD": "2026-09-01T10:35:40+09:00",
-  "CJ": "2026-09-01T10:35:45+09:00",
-  "NV": "2026-09-01T10:36:52+09:00",
+  "HD": "2026-09-01T10:46:10+09:00",
+  "CJ": "2026-09-01T10:46:15+09:00",
+  "NV": "2026-09-01T10:47:21+09:00",
   "GM": "2026-08-31T10:02:54+09:00",
-  "KA": "2026-09-01T10:35:52+09:00"
+  "KA": "2026-09-01T10:46:20+09:00"
  }
 };

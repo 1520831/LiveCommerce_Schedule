@@ -695,6 +695,11 @@
       <li><code>방송명 미확보</code> — 현대는 방송명을 <b>방송 시작 전에만</b> 받을 수
           있습니다. 수집이 돌기 전에 이미 나간 방송은 이름을 영영 못 받습니다.</li>
       <li>슬롯의 회색 배지는 담당 스튜디오(현대) 또는 카테고리(카카오)입니다.</li>
+      <li><b>네이버는 끝나는 시각이 없습니다.</b> 판매자가 끄는 시점이 종료라
+          예정 종료시각을 주지 않습니다. 시간이 <code>10:00 ~</code> 로 보이는
+          것은 그 때문이고, <code>방송중</code> 은 <b>1시간 방송으로 가정해</b>
+          표시합니다. 다른 채널의 <code>방송중</code> 은 실제 종료시각으로
+          판정한 것입니다.</li>
       <li>편성은 임박해서 등록되므로 <b>3~4일 뒤부터 건수가 적은 것이 정상</b>입니다.
           수집 실패가 아닙니다.</li>
     </ul>
@@ -932,11 +937,32 @@
   }
 
   // ---------- slot ----------
-  function slotCard(p, isToday, cur) {
+  /* 종료 시각이 아예 없는 채널의 가정 방송 길이(분).
+
+     네이버는 API 에 **끝나는 시각이 없다.** 예정 종료시각 자체가 없고
+     endDate 는 방송이 끝난 뒤에야 채워진다(실측: ONAIR 인 방송도 null).
+     판매자가 끄는 시점이 종료라서 그렇다. 그래서 end 를 기다리면 네이버
+     열에는 '방송중' 이 영영 안 뜬다.
+
+     편성이 정시 1시간 단위로 잡히므로 60분으로 가정한다. **가정이라는 점은
+     숨기지 않는다** - 시간 표시는 '10:00 ~' 그대로 둬서 종료시각을 모른다는
+     사실이 그대로 보이게 하고, 도움말에도 적어 두었다.
+
+     다른 채널은 여기 넣지 않는다. 거기서 end 가 비는 것은 수집이 부분 실패한
+     경우라, 길이를 지어내면 실패를 정상인 것처럼 덮어버린다. */
+  var ASSUMED_MIN = { NV: 60 };
+
+  function slotCard(p, isToday, cur, ch) {
     var s = toMin(p.start), e = toMin(p.end);
-    // end 가 없으면 live 가 false 로 떨어진다. 끝나는 시각을 모르면 지금 방송
-    // 중인지 판정할 수 없으므로 '방송중' 을 붙이지 않는 것이 맞다.
-    var live = isToday && s !== null && e !== null && cur >= s && cur <= e;
+    var live;
+    if (e !== null) {
+      live = isToday && s !== null && cur >= s && cur <= e;
+    } else {
+      // 종료시각이 없는 채널만 가정 길이로 판정한다. 끝나는 시각을 모르는
+      // 다른 채널(수집 실패)은 예전처럼 '방송중' 을 붙이지 않는다.
+      var span = ASSUMED_MIN[ch];
+      live = !!span && isToday && s !== null && cur >= s && cur < s + span;
+    }
 
     var a = document.createElement(p.link ? "a" : "div");
     a.className = "slot" + (live ? " live" : "");
@@ -1137,7 +1163,7 @@
         cell.setAttribute("data-ch", c.code);   // 모바일에서 채널 칩으로 쓴다
         var list = buckets[c.code][h] || [];
         list.sort(function (a, b) { return toMin(a.start) - toMin(b.start); });
-        list.forEach(function (p) { cell.appendChild(slotCard(p, isToday, cur)); });
+        list.forEach(function (p) { cell.appendChild(slotCard(p, isToday, cur, c.code)); });
         row.appendChild(cell);
       });
 
