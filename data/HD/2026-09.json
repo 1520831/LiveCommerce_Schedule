@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-01T15:55:21+09:00",
+ "updated_at": "2026-09-01T16:01:18+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -979,6 +979,25 @@
     ],
     "title": "걷기 좋은 계절, 스케쳐스 최대 42% OFF!",
     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "클랍",
+    "product": "[사용기한임박] 클랍 픽토큐어 3박스+앰플토닉 1개+미스트 스프레이 1개",
+    "price": 129000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253150947",
+    "slot_id": "202609046004",
+    "items": [
+     {
+      "brand": "클랍",
+      "product": "[사용기한임박] 클랍 픽토큐어 3박스+앰플토닉 1개+미스트 스프레이 1개",
+      "price": 129000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253150947"
+     }
+    ],
+    "title": "하반기 최초 공개 클랍 쇼라 핫딜✨",
+    "pgm": "[클랍] 기초 (뷰티브랜드)"
    },
    {
     "start": "12:00",

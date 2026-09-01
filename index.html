@@ -597,6 +597,16 @@
      테두리 대신 채널색 글씨로 세운다. */
   .fx .dur { color: var(--c); font-weight: 700; }
 
+  /* 등록해둔 편성이 실제와 어긋날 때. 표 위에 둔다 - 표 안에서는 '없는 것'을
+     그릴 자리가 없어서 어긋남이 눈에 띄지 않는다. */
+  .fxwarn {
+    background: var(--hd-bg); border: 1px solid var(--hd); border-left-width: 3px;
+    border-radius: 8px; padding: 10px 12px; margin-bottom: 10px;
+    font-size: 12px; line-height: 1.8; color: var(--ink-soft);
+  }
+  .fxwarn b { color: var(--hd); }
+  .fxwarn ul { margin: 4px 0 0; padding-left: 18px; }
+
   .fxempty { padding: 40px 20px; text-align: center; color: var(--muted); font-size: 13px; }
   .fxnote {
     margin-top: 10px; font-size: 11.5px; color: var(--muted); line-height: 1.7;
@@ -814,6 +824,7 @@
         <button class="ghost" id="fxToggleCand" type="button">후보 숨기기</button>
       </div>
     </div>
+    <div class="fxwarn" id="fxWarn" hidden></div>
     <div class="board" id="fxBoard"></div>
     <div class="fxnote" id="fxNote"></div>
   </div>
@@ -1478,8 +1489,38 @@
     renderFixed();
   });
 
+  // 등록해둔 편성이 실제와 어긋나면 표 위에 띄운다. 확정으로 박아두면 편성이
+  // 바뀌어도 표는 조용히 옛말을 하게 되므로, 데이터가 스스로 이의를 걸게 한다.
+  function fxWarn() {
+    var w = (S.fixed && S.fixed.warn) || {};
+    var gone = w.gone || [], extra = w.extra || [];
+    var el = document.getElementById("fxWarn");
+    if (!gone.length && !extra.length) { el.hidden = true; return; }
+    var h = "";
+    if (gone.length) {
+      h += "<b>등록해둔 편성이 안 보입니다 (" + gone.length + ")</b><ul>";
+      gone.forEach(function (x) {
+        h += "<li>" + x.ch + " " + x.start + " " + x.pgm + " — " + x.wd
+           + "요일이 " + x.span + "번 지나가는 동안 한 번도 없었습니다</li>";
+      });
+      h += "</ul>";
+    }
+    if (extra.length) {
+      h += (gone.length ? "<br>" : "")
+         + "<b>등록 안 한 요일에 나옵니다 (" + extra.length + ")</b><ul>";
+      extra.forEach(function (x) {
+        h += "<li>" + x.ch + " " + x.start + " " + x.pgm + " — " + x.wd
+           + "요일 " + x.span + "번 중 " + x.hits + "회</li>";
+      });
+      h += "</ul>";
+    }
+    el.innerHTML = h;
+    el.hidden = false;
+  }
+
   function renderFixed() {
     fxControls();
+    fxWarn();
     var nCand = 0;
     FX.forEach(function (r) { if (r.tier === "cand") nCand++; });
     fxCandBtn.textContent = (fxShowCand ? "후보 숨기기" : "후보 보기") + " (" + nCand + ")";
