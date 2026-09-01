@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-01T15:35:17+09:00",
+ "updated_at": "2026-09-01T15:55:21+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -156,25 +156,6 @@
     ],
     "title": "쿠폰 + 농할 더블 혜택! 한우 베스트 3종 최저가도전",
     "pgm": "[우정한우] 한우 (일반식품2)"
-   },
-   {
-    "start": "14:00",
-    "end": "14:59",
-    "brand": "코아시스",
-    "product": "[지베르니] 듀이 립 글레이즈 BEST 트리오",
-    "price": 30000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253068238",
-    "slot_id": "202609016008",
-    "items": [
-     {
-      "brand": "코아시스",
-      "product": "[지베르니] 듀이 립 글레이즈 BEST 트리오",
-      "price": 30000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253068238"
-     }
-    ],
-    "title": "[지베르니] 매쉬 쿠션&아이라이너&립까지 1만원대~",
-    "pgm": "[코아시스] 지베르니 (뷰티브랜드)"
    },
    {
     "start": "15:00",
@@ -773,14 +754,14 @@
     "start": "09:00",
     "end": "09:59",
     "brand": "티르리르",
-    "product": "14K 핑크골드 블루 토파즈 포인트 귀걸이 TEJK4P00056S TEJK4P00056S",
+    "product": "[라이브] 14K 핑크골드 블루 토파즈 포인트 귀걸이 TEJK4P00056S TEJK4P00056S",
     "price": 399000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252876922",
     "slot_id": "202609036003",
     "items": [
      {
       "brand": "티르리르",
-      "product": "14K 핑크골드 블루 토파즈 포인트 귀걸이 TEJK4P00056S TEJK4P00056S",
+      "product": "[라이브] 14K 핑크골드 블루 토파즈 포인트 귀걸이 TEJK4P00056S TEJK4P00056S",
       "price": 399000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252876922"
      }
@@ -1521,14 +1502,14 @@
     "end": "20:59",
     "brand": "한민금거래소",
     "product": "[LIVE.한민금거래소] 병오년 버건디 말 카드형 골드바 24K 순금 3.75g",
-    "price": 992500,
+    "price": 989600,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251968130",
     "slot_id": "202609066006",
     "items": [
      {
       "brand": "한민금거래소",
       "product": "[LIVE.한민금거래소] 병오년 버건디 말 카드형 골드바 24K 순금 3.75g",
-      "price": 992500,
+      "price": 989600,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251968130"
      }
     ],

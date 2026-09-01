@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-09-01T15:35:24+09:00",
+ "updated_at": "2026-09-01T15:55:27+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -490,10 +490,10 @@
    {
     "start": "10:00",
     "end": "11:19",
-    "brand": "",
-    "product": "맘만하니🏠리베로와 함께하는 쥔장집에 놀러오시유💌집들이 방송",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/28821",
+    "brand": "빈다(Vinda)",
+    "product": "빈다 4D Deluxe 엠보싱 롤화장지 4겹, 23m, 30롤, 2팩",
+    "price": 44000,
+    "link": "https://item.cjonstyle.com/item/98552910?channelCode=30002002",
     "slot_id": "28821",
     "title": "맘만하니🏠리베로와 함께하는 쥔장집에 놀러오시유💌집들이 방송",
     "pgm": "맘만하니"
@@ -976,6 +976,18 @@
     "category": "잡화·슈즈"
    },
    {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "아이그너",
+    "product": "버튼탑 티셔츠",
+    "price": 116100,
+    "link": "https://item.cjonstyle.com/item/2089799390?channelCode=30002002",
+    "slot_id": "29011",
+    "title": "다시보는 [은세로운발견] 아이그너 26FW 신상을 방송에서만 이 가격에?",
+    "pgm": "은세로운 발견",
+    "category": "여성패션"
+   },
+   {
     "start": "22:00",
     "end": "22:59",
     "brand": "다이슨",
@@ -986,6 +998,42 @@
     "title": "다시보는 MAD 다이슨💞 슈퍼소닉 트래블 NEW 블루 컬러 출시✨",
     "pgm": "매드라이브",
     "category": "뷰티"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "이야이야앤프렌즈",
+    "product": "올레샷_그리스산 레몬즙 스틱 4박스+올리브오일 스틱형 4박스+레몬 샷잔 1개",
+    "price": 149000,
+    "link": "https://item.cjonstyle.com/item/2062762963?channelCode=30002002",
+    "slot_id": "29013",
+    "title": "다시보는 [팝혜진PICK] 이야이야앤프렌즈🍋올레샷🍅올토샷 역대최대핫딜",
+    "pgm": "팝-혜진 스토어",
+    "category": "식품·건강"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "더엣지",
+    "product": "26FW 올데이코어 핑거홀 시어니트 4종",
+    "price": 69900,
+    "link": "https://item.cjonstyle.com/item/2088593964?channelCode=30002002",
+    "slot_id": "29014",
+    "title": "다시보는 더엣지 26FW 신상 할인 찬스!",
+    "pgm": "엣지쇼",
+    "category": "여성패션"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "MCRN",
+    "product": "[mcrn] 핸드스트랩+미니파우치+크리스탈 체리키링 세트",
+    "price": 90440,
+    "link": "https://item.cjonstyle.com/item/2091719654?channelCode=30002002",
+    "slot_id": "29015",
+    "title": "다시보는 굿라이프 x mcrn 폰스트랩 입점 특집! ✨비교필수 파격조건✨",
+    "pgm": "굿라이프",
+    "category": "잡화·슈즈"
    }
   ],
   "2026-09-03": [
@@ -1238,6 +1286,17 @@
    },
    {
     "start": "21:00",
+    "end": "21:59",
+    "brand": "",
+    "product": "옷장정리 할 때 필수템! 살림의기술 논슬립 옷걸이✨",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/28853",
+    "slot_id": "28853",
+    "title": "옷장정리 할 때 필수템! 살림의기술 논슬립 옷걸이✨",
+    "pgm": "라이브쇼"
+   },
+   {
+    "start": "21:00",
     "end": "22:00",
     "brand": "시티브리즈",
     "product": "[기은세 PICK][최초가 79,000원] 링클 프리 베이직 셔츠_17COLORS",
@@ -1475,6 +1534,17 @@
     "category": "잡화·슈즈"
    },
    {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "",
+    "product": "다시보는 [은세로운발견] 아이그너 26FW 신상을 방송에서만 이 가격에?",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/29053",
+    "slot_id": "29053",
+    "title": "다시보는 [은세로운발견] 아이그너 26FW 신상을 방송에서만 이 가격에?",
+    "pgm": "은세로운 발견"
+   },
+   {
     "start": "23:00",
     "end": "00:00",
     "brand": "시티브리즈",
@@ -1488,6 +1558,17 @@
    }
   ],
   "2026-09-05": [
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "",
+    "product": "다시보는 [은세로운발견] 아이그너 26FW 신상을 방송에서만 이 가격에?",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/29057",
+    "slot_id": "29057",
+    "title": "다시보는 [은세로운발견] 아이그너 26FW 신상을 방송에서만 이 가격에?",
+    "pgm": "은세로운 발견"
+   },
    {
     "start": "17:00",
     "end": "17:59",
@@ -1587,6 +1668,17 @@
     "category": "가구·침구"
    },
    {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "",
+    "product": "다시보는 [은세로운발견] 아이그너 26FW 신상을 방송에서만 이 가격에?",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/29086",
+    "slot_id": "29086",
+    "title": "다시보는 [은세로운발견] 아이그너 26FW 신상을 방송에서만 이 가격에?",
+    "pgm": "은세로운 발견"
+   },
+   {
     "start": "13:00",
     "end": "13:59",
     "brand": "한샘",
@@ -1597,6 +1689,18 @@
     "title": "다시보는 [맘만하니] 한샘 후학기 특집전🩷",
     "pgm": "맘만하니",
     "category": "가구·침구"
+   },
+   {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "더엣지",
+    "product": "26FW 올데이코어 핑거홀 시어니트 4종",
+    "price": 69900,
+    "link": "https://item.cjonstyle.com/item/2088593964?channelCode=30002002",
+    "slot_id": "29093",
+    "title": "다시보는 더엣지 26FW 신상 할인 찬스!",
+    "pgm": "엣지쇼",
+    "category": "여성패션"
    },
    {
     "start": "18:00",

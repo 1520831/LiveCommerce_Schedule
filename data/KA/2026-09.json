@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-09-01T15:35:32+09:00",
+ "updated_at": "2026-09-01T15:55:34+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -721,6 +721,18 @@
     "pgm": "[캘빈클라인스포츠] 역시즌",
     "title": "앵콜 기획전 특가",
     "category": "패션"
+   },
+   {
+    "start": "22:00",
+    "end": "01:00",
+    "brand": "바비브라운",
+    "product": "[추석 Lip Set] 엑스트라 립 세트 (+ 미니 립 세럼 베어핑크 증정)",
+    "price": 98000,
+    "link": "https://gift.kakao.com/product/14184805?url=product&cId=14184805",
+    "slot_id": "59561",
+    "pgm": "바비브라운이 준비한",
+    "title": "추석 선물 set ~25%",
+    "category": "뷰티"
    }
   ],
   "2026-09-05": [
@@ -856,6 +868,18 @@
     "slot_id": "59765",
     "pgm": "제주직송 하우스 감귤",
     "title": "로얄과 2kg 카쇼라특가",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "모모마켓",
+    "product": "홍대쭈꾸미 300g 5팩 500g 4팩 수제양념 쭈꾸미볶음 냉동간편식",
+    "price": 54500,
+    "link": "https://store.kakao.com/momomarket/products/617722614",
+    "slot_id": "59813",
+    "pgm": "홍대쭈꾸미 300g 6팩 외",
+    "title": "수제양념 5분조리 간편식",
     "category": "식품"
    }
   ]
