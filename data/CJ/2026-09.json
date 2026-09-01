@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-09-01T16:55:16+09:00",
+ "updated_at": "2026-09-01T18:13:45+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -646,7 +646,7 @@
     "end": "12:59",
     "brand": "GNM 자연의품격",
     "product": "[조정석 종합비타민+밀크씨슬+루테인+알티지오메가3] GNM 올인원 뉴트리션 멀티비타민 3박스 / 비오틴 비타민BCD 아연 마그네슘",
-    "price": 118660,
+    "price": 103120,
     "link": "https://item.cjonstyle.com/item/2010095039?channelCode=30002002",
     "slot_id": "28826",
     "title": "자연의품격 올인원 뉴트리션 비타민, 추석 선물 미리 준비하세요!",
@@ -1175,6 +1175,19 @@
     "category": "가구·침구"
    },
    {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "밀크마일",
+    "product": "스노잉뽀글덤블폴라플리스러버버니점퍼",
+    "price": 32900,
+    "link": "https://item.cjonstyle.com/item/2091947391?channelCode=30002002",
+    "slot_id": "29016",
+    "title": "[밀크마일x마이희로]마이희로PICK!합리적인 쇼핑으로 가을등원룩 준비완료",
+    "pgm": "ONSTAR LIVE",
+    "pgm_cd": "1027",
+    "category": "여성패션"
+   },
+   {
     "start": "11:00",
     "end": "11:59",
     "brand": "세라젬",
@@ -1213,6 +1226,18 @@
     "pgm_cd": "1100"
    },
    {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "",
+    "product": "[두둥맘대로] 더예 한복🧒우리 아이 추석 인기 스타 되는 법✨",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/29018",
+    "slot_id": "29018",
+    "title": "[두둥맘대로] 더예 한복🧒우리 아이 추석 인기 스타 되는 법✨",
+    "pgm": "두둥맘대로",
+    "pgm_cd": "1119"
+   },
+   {
     "start": "12:00",
     "end": "12:59",
     "brand": "나우케어",
@@ -1220,7 +1245,7 @@
     "price": 239400,
     "link": "https://item.cjonstyle.com/item/2083421234?channelCode=30002002",
     "slot_id": "28843",
-    "title": "추석 선물 특집🎁나우케어 콜레스타/오메가 스타 최대 54% 할인!",
+    "title": "추석 선물 특집🎁콜레스타/오메가 스타 최대 54% 할인!",
     "pgm": "라이브쇼",
     "pgm_cd": "0217",
     "category": "식품·건강"
