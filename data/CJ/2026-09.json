@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-09-01T18:13:45+09:00",
+ "updated_at": "2026-09-01T23:49:50+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -286,7 +286,7 @@
     "price": 89900,
     "link": "https://item.cjonstyle.com/item/2089336165?channelCode=30002002",
     "slot_id": "28813",
-    "title": "4만 원대~ 셀렙샵에디션 기본템, 아우터까지 26FW 신상템 LIVE",
+    "title": "5만 원대~ 셀렙샵에디션 기본템, 아우터까지 26FW 신상템 LIVE",
     "pgm": "엣지쇼",
     "pgm_cd": "0223",
     "category": "여성패션"
@@ -750,7 +750,7 @@
     "end": "15:59",
     "brand": "아디다스언더웨어",
     "product": "[최초가119,000]프레쉬 클라이마클 브라팬티 4종세트",
-    "price": 98100,
+    "price": 90250,
     "link": "https://item.cjonstyle.com/item/2085742174?channelCode=30002002",
     "slot_id": "29000",
     "title": "다시보는 CJ 최초 최저가 단행! 아디다스 언더웨어 특가전",
@@ -1382,14 +1382,15 @@
    {
     "start": "20:00",
     "end": "20:59",
-    "brand": "",
-    "product": "~85%🌳[홍천] 소노펠리체/빌리지/소노캄 롱스테이+무제한 오션월드?!",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/28850",
+    "brand": "소노호텔앤리조트",
+    "product": "[홍천 비발디파크] 소노캄 조식+(무제한)오션월드 패키지",
+    "price": 276000,
+    "link": "https://item.cjonstyle.com/item/2092514464?channelCode=30002002",
     "slot_id": "28850",
     "title": "~85%🌳[홍천] 소노펠리체/빌리지/소노캄 롱스테이+무제한 오션월드?!",
     "pgm": "럭셔리체크인",
-    "pgm_cd": "0220"
+    "pgm_cd": "0220",
+    "category": "서비스·렌탈"
    },
    {
     "start": "20:00",
@@ -1420,7 +1421,7 @@
     "start": "21:00",
     "end": "21:59",
     "brand": "살림의기술",
-    "product": "프롬졸리 X CJ X  360도회전 논슬립 스틸 옷걸이 50P+논슬립 바지걸이 20P+슬림 셔츠전용 10P (맨/우먼 택1)",
+    "product": "[공구80P세트]360도회전 논슬립 스틸 옷걸이 50P+바지걸이 20P+셔츠전용 10P (맨/우먼 택1)",
     "price": 75800,
     "link": "https://item.cjonstyle.com/item/2092570897?channelCode=30002002",
     "slot_id": "28853",

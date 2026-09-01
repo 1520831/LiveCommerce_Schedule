@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-01T18:13:39+09:00",
+ "updated_at": "2026-09-01T23:49:44+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -314,14 +314,14 @@
     "end": "19:59",
     "brand": "지금이야",
     "product": "정미년 양띠 카드형 골드바 3.75g 24K 순금 999.9 포나인",
-    "price": 994200,
+    "price": 1004700,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252874132",
     "slot_id": "202609016012",
     "items": [
      {
       "brand": "지금이야",
       "product": "정미년 양띠 카드형 골드바 3.75g 24K 순금 999.9 포나인",
-      "price": 994200,
+      "price": 1004700,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252874132"
      }
     ],
@@ -384,6 +384,42 @@
     ],
     "title": "[아너드] 프리미엄 국내 당일여행🚌 군위 사유원",
     "pgm": "[아너드투어] 버스투어 패키지 (여행)"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "지금이야",
+    "product": "정미년 양띠 카드형 골드바 3.75g 24K 순금 999.9 포나인",
+    "price": 1004700,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252874132",
+    "slot_id": "202609016024",
+    "items": [
+     {
+      "brand": "지금이야",
+      "product": "정미년 양띠 카드형 골드바 3.75g 24K 순금 999.9 포나인",
+      "price": 1004700,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252874132"
+     }
+    ],
+    "title": "[지금이야] 골드바 + 실버바 핫딜!"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "리스트",
+    "product": "백 플리츠 포인트 셔츠 TWWSTQ62040 TWWSTQ62040",
+    "price": 79200,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253075013",
+    "slot_id": "202609016016",
+    "items": [
+     {
+      "brand": "리스트",
+      "product": "백 플리츠 포인트 셔츠 TWWSTQ62040 TWWSTQ62040",
+      "price": 79200,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253075013"
+     }
+    ],
+    "title": "[리스트] 최대 60%▼ 간절기 레더자켓/셔츠 外"
    },
    {
     "start": "23:00",
