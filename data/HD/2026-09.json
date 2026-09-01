@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-01T10:14:16+09:00",
+ "updated_at": "2026-09-01T10:32:29+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -1076,6 +1076,25 @@
     ],
     "title": "[한민금거래소] 금을 생산하는 기업!",
     "pgm": "[재방] 한민금거래소 (패션잡화)"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "Playback",
+    "product": "[PlayBack] 랩 배기 팬츠",
+    "price": 149000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252809146",
+    "slot_id": "202609056006",
+    "items": [
+     {
+      "brand": "Playback",
+      "product": "[PlayBack] 랩 배기 팬츠",
+      "price": 149000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252809146"
+     }
+    ],
+    "title": "[플레이백] 최대 505 OFF 특가전",
+    "pgm": "[플레이백] 패션 의류 (패션1Lab)"
    },
    {
     "start": "21:00",
