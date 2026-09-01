@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-09-01T16:01:26+09:00",
+ "updated_at": "2026-09-01T16:12:08+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -1568,6 +1568,30 @@
     "slot_id": "29057",
     "title": "다시보는 [은세로운발견] 아이그너 26FW 신상을 방송에서만 이 가격에?",
     "pgm": "은세로운 발견"
+   },
+   {
+    "start": "15:45",
+    "end": "16:49",
+    "brand": "더엣지",
+    "product": "26FW 올데이코어 핑거홀 시어니트 4종",
+    "price": 69900,
+    "link": "https://item.cjonstyle.com/item/2088593964?channelCode=30002002",
+    "slot_id": "28865",
+    "title": "애프터 잇솔지 🔥더엣지 보이핏자켓 外 한정수량 할인",
+    "pgm": "잇솔지",
+    "category": "여성패션"
+   },
+   {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "알텐바흐",
+    "product": "[특별가] 디펜더스 프라이팬(22팬) 인덕션 후라이팬 22팬 단품",
+    "price": 64900,
+    "link": "https://item.cjonstyle.com/item/2052075249?channelCode=30002002",
+    "slot_id": "28866",
+    "title": "추석 전 구매하세요! 알텐바흐 후라이팬/냄비/밧드/가위/믹싱볼 특가!",
+    "pgm": "라이브쇼",
+    "category": "주방·잡화"
    },
    {
     "start": "17:00",
