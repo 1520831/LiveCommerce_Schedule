@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-01T12:09:26+09:00",
+ "updated_at": "2026-09-01T13:17:18+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -156,6 +156,25 @@
     ],
     "title": "쿠폰 + 농할 더블 혜택! 한우 베스트 3종 최저가도전",
     "pgm": "[우정한우] 한우 (일반식품2)"
+   },
+   {
+    "start": "14:00",
+    "end": "14:59",
+    "brand": "코아시스",
+    "product": "[지베르니] 듀이 립 글레이즈 BEST 트리오",
+    "price": 30000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253068238",
+    "slot_id": "202609016008",
+    "items": [
+     {
+      "brand": "코아시스",
+      "product": "[지베르니] 듀이 립 글레이즈 BEST 트리오",
+      "price": 30000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253068238"
+     }
+    ],
+    "title": "[지베르니] 매쉬 쿠션&아이라이너&립까지 1만원대~",
+    "pgm": "[코아시스] 지베르니 (뷰티브랜드)"
    },
    {
     "start": "15:00",
@@ -713,6 +732,25 @@
     "pgm": "백화점 프리오픈쇼(멀티커머스)"
    },
    {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "발렌시아가",
+    "product": "BB로고 모나코 소프트 미디엄 슬링백 숄더백 787902 2AA41 1000",
+    "price": 1518000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252752222",
+    "slot_id": "202609036004",
+    "items": [
+     {
+      "brand": "발렌시아가",
+      "product": "BB로고 모나코 소프트 미디엄 슬링백 숄더백 787902 2AA41 1000",
+      "price": 1518000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252752222"
+     }
+    ],
+    "title": "[투명쇼] 발렌시아가 신상 최저가 도전",
+    "pgm": "투명쇼 (패션잡화)"
+   },
+   {
     "start": "13:00",
     "end": "13:59",
     "brand": "이글루",
@@ -883,6 +921,25 @@
      }
     ],
     "title": "최대 85%▼ 지금부터 입기 좋은 더레노마❤️",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "스케쳐스",
+    "product": "스케쳐스 여성 디럭스 컴포트 2.0 (슬립인스) SL0WPCGX241/242/243/CGY091/092 KT SL0WPCGY091",
+    "price": 129000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252812948",
+    "slot_id": "202609046002",
+    "items": [
+     {
+      "brand": "스케쳐스",
+      "product": "스케쳐스 여성 디럭스 컴포트 2.0 (슬립인스) SL0WPCGX241/242/243/CGY091/092 KT SL0WPCGY091",
+      "price": 129000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252812948"
+     }
+    ],
+    "title": "걷기 좋은 계절, 스케쳐스 최대 42% OFF!",
     "pgm": "백화점 프리오픈쇼(멀티커머스)"
    },
    {
