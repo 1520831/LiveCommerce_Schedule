@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-01T10:46:10+09:00",
+ "updated_at": "2026-09-01T11:07:07+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -95,6 +95,12 @@
       "product": "르 시티 미디엄 토트백 865760 2ACLR 1000 블랙",
       "price": 4258000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252370378"
+     },
+     {
+      "brand": "버버리",
+      "product": "켄트 롱 나일론 후드 패딩 8131873 블랙",
+      "price": 2453000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252697629"
      }
     ],
     "title": "[투명쇼] 인기 명품 60개월 무이자 혜택!",
@@ -213,6 +219,25 @@
     ],
     "title": "[밋앤밀] 난각번호 1번 유정란 라이브 특별가",
     "pgm": "[잭슨코리아] 유정란"
+   },
+   {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "헤지스",
+    "product": "HIHE6F009N2 뜨왈드주이 네이비 리본스트랩 버킷햇 HIHE6F009E910",
+    "price": 93400,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251238290",
+    "slot_id": "202609016023",
+    "items": [
+     {
+      "brand": "헤지스",
+      "product": "HIHE6F009N2 뜨왈드주이 네이비 리본스트랩 버킷햇 HIHE6F009E910",
+      "price": 93400,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251238290"
+     }
+    ],
+    "title": "[헤지스ACC] 26FW 신상 핸드백 쇼라 OPEN🩷",
+    "pgm": "[재방] 헤지스 잡화 (멀티커머스)"
    },
    {
     "start": "18:00",
@@ -1055,7 +1080,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251795427"
      }
     ],
-    "title": "[피네플리츠] 인기 아이템🔥25% 쿠폰+무료반품",
+    "title": "[피네플리츠] 인기 아이템🔥25% 쿠폰+무료교환",
     "pgm": "[피네플리츠] 의류 (패션1Lab)"
    },
    {

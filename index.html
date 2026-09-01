@@ -149,6 +149,23 @@
   .stepper .cur .wd { color: var(--muted); font-weight: 500; }
   .stepper .cur .wd.sat { color: #2F6FD0; }
   .stepper .cur .wd.sun { color: var(--hd); }
+  /* 달력 버튼. 하루씩 넘기는 ‹ › 바로 옆에 둬서 '날짜를 옮기는 것들'을 한
+     덩어리로 묶는다. 날짜 띠에 있을 때는 표 위쪽까지 눈을 내려야 했다.
+     네이티브 <input type=date> 를 그대로 쓴다 - OS 달력이 열려서 직접 만든
+     달력보다 익숙하고 키보드/스크린리더 대응도 따라온다. */
+  .stepper .cal { position: relative; display: inline-flex; align-items: center;
+                  justify-content: center; width: 30px; height: 30px;
+                  border-radius: 6px; cursor: pointer; font-size: 13px; }
+  .stepper .cal:hover { background: var(--surface-2); }
+  /* ‹ › 와 달력을 가르는 실선. 여는 동작이 다르다는 것을 눈으로 알린다. */
+  .stepper .cal { margin-left: 3px; border-left: 1px solid var(--line-soft);
+                  padding-left: 3px; border-radius: 0 6px 6px 0; }
+  /* 입력칸은 안 보이게 버튼 전체를 덮는다. showPicker() 가 없는 브라우저에서도
+     이 덮개 덕분에 눌러서 달력이 열린다. */
+  .stepper .cal input {
+    position: absolute; inset: 0; width: 100%; height: 100%;
+    opacity: 0; cursor: pointer; border: 0; padding: 0;
+  }
 
   .seg {
     display: flex; gap: 3px; background: var(--surface);
@@ -225,28 +242,6 @@
   .day.on { background: var(--ink); border-color: var(--ink); }
   .day.on .n, .day.on .c, .day.on::before { color: #fff; }
 
-  /* 달력 칩. 날짜 띠가 길어서 먼 날짜는 한참 스크롤해야 닿는다. 띠 왼쪽에
-     달라붙어(sticky) 있으니 어디까지 밀어놨든 바로 누를 수 있다.
-     네이티브 <input type=date> 를 그대로 쓴다 - OS 달력이 열려서 직접 만든
-     달력보다 익숙하고 키보드/스크린리더 대응도 따라온다. */
-  .day.cal {
-    position: sticky; left: 0; z-index: 2;
-    border-style: dashed; color: var(--accent); padding-right: 11px;
-  }
-  .day.cal .n { font-size: 13px; }
-  .day.cal:hover { background: var(--surface-2); border-color: var(--accent); }
-  /* 스크롤된 칩이 달력 칩에 딱 붙어 나오면 겹쳐 보인다. 오른쪽에 띠 배경색
-     여백을 만들어 그 밑으로 사라지게 한다. */
-  .day.cal::after {
-    content: ""; position: absolute; left: 100%; top: -1px; bottom: -1px;
-    width: 6px; background: var(--paper);
-  }
-  /* 입력칸은 안 보이게 칩 전체를 덮는다. showPicker() 가 없는 브라우저에서도
-     이 덮개 덕분에 눌러서 달력이 열린다. */
-  .day.cal input {
-    position: absolute; inset: 0; width: 100%; height: 100%;
-    opacity: 0; cursor: pointer; border: 0; padding: 0;
-  }
 
   /* 슬롯마다 '바로가기'를 달면 같은 말이 수십 번 반복된다. 표 위에 한 번만 적는다. */
   .boardnote {
@@ -619,6 +614,7 @@
       <button type="button" id="prev" title="이전 날짜">&#8249;</button>
       <div class="cur" id="curDate"></div>
       <button type="button" id="next" title="다음 날짜">&#8250;</button>
+      <label class="cal" id="calBtn" title="달력에서 날짜 고르기"></label>
     </div>
     <div class="seg" id="segCh"></div>
     <div class="seg" id="segKind"></div>
@@ -866,43 +862,47 @@
     var i = S.dates.indexOf(current);
     document.getElementById("prev").disabled = i <= 0;
     document.getElementById("next").disabled = i < 0 || i >= S.dates.length - 1;
+    // 날짜 칩이나 ‹ › 로 옮겼을 때도 달력이 그 날짜를 가리키게 맞춰둔다.
+    if (calInput) calInput.value = current;
   }
 
-  // ---------- day chips ----------
-  /* 편성이 있는 날만 고를 수 있게 min/max 를 데이터 범위로 묶는다. 범위 밖은
+  // ---------- 달력 버튼 ----------
+  /* 스테퍼 안에 한 번만 만들고 이후에는 값만 갈아끼운다. 매번 새로 만들면
+     달력이 열려 있는 동안 render() 가 돌 때 버튼이 통째로 사라진다.
+
+     편성이 있는 날만 고를 수 있게 min/max 를 데이터 범위로 묶는다. 범위 밖은
      달력에서 아예 못 고르니 '그런 날짜 없다'는 안내를 따로 만들 필요가 없다.
      범위 안이라도 데이터가 빠진 날이 있을 수 있어 한 번 더 확인한다. */
-  function calChip() {
-    var wrap = document.createElement("label");
-    wrap.className = "day cal";
-    wrap.title = "달력에서 날짜 고르기";
+  var calInput = null;
+
+  function initCal() {
+    var wrap = document.getElementById("calBtn");
+    if (!wrap) return;
 
     var icon = document.createElement("span");
-    icon.className = "n";
     icon.textContent = String.fromCodePoint(0x1F4C5);
     wrap.appendChild(icon);
 
-    var inp = document.createElement("input");
-    inp.type = "date";
-    inp.value = current;
-    inp.min = S.dates[0];
-    inp.max = S.dates[S.dates.length - 1];
-    inp.setAttribute("aria-label", "날짜 선택");
-    wrap.appendChild(inp);
+    calInput = document.createElement("input");
+    calInput.type = "date";
+    calInput.min = S.dates[0];
+    calInput.max = S.dates[S.dates.length - 1];
+    calInput.setAttribute("aria-label", "날짜 선택");
+    wrap.appendChild(calInput);
 
     /* 라벨을 누르면 덮개 입력칸이 한 번 더 눌려 달력이 두 번 열릴 수 있다.
        기본 동작을 막고 showPicker() 로 직접 연다. 이 함수가 없는 브라우저는
        막지 않고 덮개 입력칸의 기본 동작에 맡긴다. */
     wrap.addEventListener("click", function (ev) {
-      if (typeof inp.showPicker !== "function") return;
+      if (typeof calInput.showPicker !== "function") return;
       ev.preventDefault();
-      try { inp.showPicker(); } catch (err) { inp.focus(); }
+      try { calInput.showPicker(); } catch (err) { calInput.focus(); }
     });
 
-    inp.addEventListener("change", function () {
-      var v = inp.value;
+    calInput.addEventListener("change", function () {
+      var v = calInput.value;
       if (!v || v === current) return;
-      if (S.dates.indexOf(v) < 0) { inp.value = current; return; }
+      if (S.dates.indexOf(v) < 0) { calInput.value = current; return; }
       current = v;
       render();
       // 고른 날짜 칩이 띠 밖에 있으면 어디로 갔는지 안 보인다. 끌어와 준다.
@@ -911,13 +911,11 @@
         on.scrollIntoView({ block: "nearest", inline: "center" });
       }
     });
-
-    return wrap;
   }
 
+  // ---------- day chips ----------
   function renderDays() {
     elDays.innerHTML = "";
-    elDays.appendChild(calChip());
     S.dates.forEach(function (date) {
       var d = new Date(date + "T00:00:00");
       var total = 0;
@@ -1312,6 +1310,7 @@
   });
 
   current = S.dates.indexOf(S.today) >= 0 ? S.today : S.dates[0];
+  initCal();          // render() 가 값을 맞추므로 그 전에 만들어 둔다
   render();
   setInterval(function () { if (current === S.today) render(); }, 60000);
 })();
