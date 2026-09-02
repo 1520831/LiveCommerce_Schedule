@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-02T18:57:49+09:00",
+ "generated_at": "2026-09-02T19:15:49+09:00",
  "today": "2026-09-02",
  "dates": [
   "2026-09-01",
@@ -7361,7 +7361,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -21807,8 +21807,7 @@ window.SCHEDULE = {
      "slot_id": "59587",
      "pgm": "동국제약 초이스딜 특가",
      "title": "더마데카크림 외 87%할인",
-     "category": "뷰티",
-     "hot": 10
+     "category": "뷰티"
     },
     {
      "start": "09:30",
@@ -22839,7 +22838,7 @@ window.SCHEDULE = {
    "2026-09-01",
    "2026-09-02"
   ],
-  "matched": 14,
+  "matched": 13,
   "unmatched": 3
  },
  "fixed": {
