@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-02T18:13:48+09:00",
+ "updated_at": "2026-09-02T23:46:15+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -67,14 +67,14 @@
     "end": "09:59",
     "brand": "헤지스",
     "product": "HIHE6F009N2 뜨왈드주이 네이비 리본스트랩 버킷햇 HIHE6F009E910",
-    "price": 93400,
+    "price": 94400,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251238290",
     "slot_id": "202609016003",
     "items": [
      {
       "brand": "헤지스",
       "product": "HIHE6F009N2 뜨왈드주이 네이비 리본스트랩 버킷햇 HIHE6F009E910",
-      "price": 93400,
+      "price": 94400,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251238290"
      }
     ],
@@ -257,14 +257,14 @@
     "end": "17:59",
     "brand": "헤지스",
     "product": "HIHE6F009N2 뜨왈드주이 네이비 리본스트랩 버킷햇 HIHE6F009E910",
-    "price": 93400,
+    "price": 94400,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251238290",
     "slot_id": "202609016023",
     "items": [
      {
       "brand": "헤지스",
       "product": "HIHE6F009N2 뜨왈드주이 네이비 리본스트랩 버킷햇 HIHE6F009E910",
-      "price": 93400,
+      "price": 94400,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251238290"
      }
     ],
@@ -467,14 +467,14 @@
     "end": "08:59",
     "brand": "어드림오브씨드",
     "product": "26SS 코튼테리 티셔츠",
-    "price": 85000,
+    "price": 69000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250417100",
     "slot_id": "202609026001",
     "items": [
      {
       "brand": "어드림오브씨드",
       "product": "26SS 코튼테리 티셔츠",
-      "price": 85000,
+      "price": 69000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250417100"
      }
     ],
@@ -695,14 +695,14 @@
     "end": "19:59",
     "brand": "어드림오브씨드",
     "product": "26SS 코튼테리 티셔츠",
-    "price": 85000,
+    "price": 69000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250417100",
     "slot_id": "202609026023",
     "items": [
      {
       "brand": "어드림오브씨드",
       "product": "26SS 코튼테리 티셔츠",
-      "price": 85000,
+      "price": 69000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250417100"
      }
     ],
@@ -731,17 +731,17 @@
    {
     "start": "21:00",
     "end": "21:59",
-    "brand": "버버리",
-    "product": "빅포켓 스트라이프 백팩(8121465)",
-    "price": 1199000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252699328",
+    "brand": "프라다",
+    "product": "리나일론 숄더백(1BH226)",
+    "price": 3049000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252836187",
     "slot_id": "202609026013",
     "items": [
      {
-      "brand": "버버리",
-      "product": "빅포켓 스트라이프 백팩(8121465)",
-      "price": 1199000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252699328"
+      "brand": "프라다",
+      "product": "리나일론 숄더백(1BH226)",
+      "price": 3049000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252836187"
      }
     ],
     "title": "[현명쇼] 버버리 트렌치코트 마지막 월 2만원대 타임딜",
@@ -806,6 +806,25 @@
    }
   ],
   "2026-09-03": [
+   {
+    "start": "00:00",
+    "end": "00:59",
+    "brand": "수앤진골드",
+    "product": "달항아리 골드바 24K 순금 0.52g",
+    "price": 175000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252646884",
+    "slot_id": "202609036020",
+    "items": [
+     {
+      "brand": "수앤진골드",
+      "product": "달항아리 골드바 24K 순금 0.52g",
+      "price": 175000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252646884"
+     }
+    ],
+    "title": "[수앤진골드] 추석 선물 특집전",
+    "pgm": "[재방] 수앤진골드 순금 (패션잡화)"
+   },
    {
     "start": "07:00",
     "end": "07:59",
@@ -881,6 +900,25 @@
     ],
     "title": "[투명쇼] 발렌시아가 신상 최저가 도전",
     "pgm": "투명쇼 (패션잡화)"
+   },
+   {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "이롬",
+    "product": "[직][이롬]황성주박사의 이롬 더 진한 약콩 콩물두유 4박스(60팩)",
+    "price": 89000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252573341",
+    "slot_id": "202609036006",
+    "items": [
+     {
+      "brand": "이롬",
+      "product": "[직][이롬]황성주박사의 이롬 더 진한 약콩 콩물두유 4박스(60팩)",
+      "price": 89000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252573341"
+     }
+    ],
+    "title": "[이롬] 더 진한 약콩 콩물 두유",
+    "pgm": "[이롬] 두유外 (건강식품1)"
    },
    {
     "start": "13:00",
