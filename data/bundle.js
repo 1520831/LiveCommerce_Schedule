@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-02T21:12:42+09:00",
+ "generated_at": "2026-09-02T21:36:29+09:00",
  "today": "2026-09-02",
  "dates": [
   "2026-09-01",
@@ -2666,7 +2666,7 @@ window.SCHEDULE = {
      "pgm_cd": "1052",
      "category": "유아동",
      "cast": "influencer",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -10575,7 +10575,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "20:00",
@@ -20976,7 +20976,7 @@ window.SCHEDULE = {
      "slot_id": "254018",
      "pgm": "한가위🎉 로보락 Qrevo L Pro 특가 최초공개",
      "category": "가전",
-     "hot": 1
+     "hot": 3
     },
     {
      "start": "20:00",
@@ -20999,7 +20999,7 @@ window.SCHEDULE = {
      "slot_id": "252082",
      "pgm": "삼성 가전 한가위빅세일 특가! 스마일캐시 추가 증정🎁",
      "category": "가전",
-     "hot": 6
+     "hot": 1
     },
     {
      "start": "21:00",
