@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-02T13:20:56+09:00",
+ "generated_at": "2026-09-02T14:18:33+09:00",
  "today": "2026-09-02",
  "dates": [
   "2026-09-01",
@@ -1974,7 +1974,8 @@ window.SCHEDULE = {
      "pgm": "까사림의 감성하우스",
      "pgm_cd": "1068",
      "category": "가전",
-     "cast": "influencer"
+     "cast": "influencer",
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -2041,7 +2042,8 @@ window.SCHEDULE = {
      "pgm": "인플루언서LIVE",
      "pgm_cd": "1052",
      "category": "유아동",
-     "cast": "influencer"
+     "cast": "influencer",
+     "hot": 9
     },
     {
      "start": "12:00",
@@ -2441,7 +2443,8 @@ window.SCHEDULE = {
      "pgm": "인플루언서LIVE",
      "pgm_cd": "1052",
      "category": "유아동",
-     "cast": "influencer"
+     "cast": "influencer",
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -2481,7 +2484,8 @@ window.SCHEDULE = {
      "title": "지스튜디오 애프터파티💕 TV에서는 못다보여준 최신상템 방송중 특가할인",
      "pgm": "라이브쇼",
      "pgm_cd": "0146",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -7477,7 +7481,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -7907,7 +7912,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -8106,7 +8112,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -8560,7 +8567,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -21088,7 +21096,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4316626833",
      "slot_id": "252078",
      "pgm": "한가위빅세일🎉  삼성 가전 특집",
-     "category": "가전"
+     "category": "가전",
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -21338,7 +21347,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4679710503",
      "slot_id": "252085",
      "pgm": "역대급 최저가🌕 로보락 S10 MaxV Ultra",
-     "category": "가전"
+     "category": "가전",
+     "hot": 1
     },
     {
      "start": "20:00",
@@ -21349,7 +21359,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4674925720",
      "slot_id": "254024",
      "pgm": "스마일캐시 최대 5만+구매인증 추첨🎉갤럭시 총집합💙",
-     "category": "디지털·PC"
+     "category": "디지털·PC",
+     "hot": 5
     },
     {
      "start": "21:00",
@@ -21360,7 +21371,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4355529087",
      "slot_id": "252071",
      "pgm": "[한가위빅세일] LG그램&모니터 한가위 인기라인!",
-     "category": "디지털·PC"
+     "category": "디지털·PC",
+     "hot": 7
     },
     {
      "start": "21:00",
@@ -21449,7 +21461,8 @@ window.SCHEDULE = {
      "slot_id": "252123",
      "pgm": "[앵콜]추석 LG가전 첫라이브❤️역대급 추석혜택 와르르",
      "rerun": true,
-     "category": "가전"
+     "category": "가전",
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -22501,7 +22514,8 @@ window.SCHEDULE = {
      "slot_id": "59587",
      "pgm": "동국제약 초이스딜 특가",
      "title": "더마데카크림 외 87%할인",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 7
     },
     {
      "start": "09:30",
@@ -23491,6 +23505,15 @@ window.SCHEDULE = {
   "celeb",
   "influencer"
  ],
+ "hot": {
+  "top": 10,
+  "dates": [
+   "2026-09-01",
+   "2026-09-02"
+  ],
+  "matched": 14,
+  "unmatched": 4
+ },
  "fixed": {
   "rows": [
    {
