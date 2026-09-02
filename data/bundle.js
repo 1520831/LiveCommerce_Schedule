@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-02T20:43:02+09:00",
+ "generated_at": "2026-09-02T20:55:19+09:00",
  "today": "2026-09-02",
  "dates": [
   "2026-09-01",
@@ -2907,7 +2907,7 @@ window.SCHEDULE = {
      "pgm_cd": "1068",
      "category": "가전",
      "cast": "influencer",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "16:00",
@@ -9835,7 +9835,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "18:00",
@@ -10576,7 +10576,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 8
+     "hot": 5
     },
     {
      "start": "20:00",
@@ -20755,7 +20755,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]추석 LG가전 첫라이브❤️역대급 추석혜택 와르르",
      "rerun": true,
      "category": "가전",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "11:00",
