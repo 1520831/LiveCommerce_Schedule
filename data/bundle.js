@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-02T16:15:49+09:00",
+ "generated_at": "2026-09-02T16:30:04+09:00",
  "today": "2026-09-02",
  "dates": [
   "2026-09-01",
@@ -2536,7 +2536,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "0146",
      "category": "여성패션",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -2736,7 +2736,8 @@ window.SCHEDULE = {
      "pgm": "까사림의 감성하우스",
      "pgm_cd": "1068",
      "category": "가전",
-     "cast": "influencer"
+     "cast": "influencer",
+     "hot": 8
     },
     {
      "start": "16:00",
@@ -8272,7 +8273,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -23705,8 +23706,8 @@ window.SCHEDULE = {
    "2026-09-01",
    "2026-09-02"
   ],
-  "matched": 14,
-  "unmatched": 4
+  "matched": 15,
+  "unmatched": 3
  },
  "fixed": {
   "rows": [
