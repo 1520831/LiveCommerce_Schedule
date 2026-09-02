@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-03T07:12:18+09:00",
+ "generated_at": "2026-09-03T07:24:32+09:00",
  "today": "2026-09-03",
  "dates": [
   "2026-09-02",
@@ -453,7 +453,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 데일리 명품 쇼핑 득템 찬스!",
-     "pgm": "[재방] 투명쇼 (패션잡화)"
+     "pgm": "[재방] 투명쇼 (패션잡화)",
+     "hot": 5
     },
     {
      "start": "08:00",
@@ -18260,7 +18261,7 @@ window.SCHEDULE = {
      "slot_id": "254022",
      "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻6",
      "category": "식품·건강",
-     "hot": 4
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -20114,8 +20115,8 @@ window.SCHEDULE = {
    "2026-09-02",
    "2026-09-03"
   ],
-  "matched": 4,
-  "unmatched": 12
+  "matched": 5,
+  "unmatched": 11
  },
  "fixed": {
   "rows": [
