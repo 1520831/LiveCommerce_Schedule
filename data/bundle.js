@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-02T20:55:19+09:00",
+ "generated_at": "2026-09-02T21:12:42+09:00",
  "today": "2026-09-02",
  "dates": [
   "2026-09-01",
@@ -2666,7 +2666,7 @@ window.SCHEDULE = {
      "pgm_cd": "1052",
      "category": "유아동",
      "cast": "influencer",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -2907,7 +2907,7 @@ window.SCHEDULE = {
      "pgm_cd": "1068",
      "category": "가전",
      "cast": "influencer",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "16:00",
@@ -7790,8 +7790,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 10
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -8444,8 +8443,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -9835,7 +9833,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "18:00",
@@ -10512,7 +10510,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 2
     },
     {
      "start": "20:00",
@@ -10576,7 +10575,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "20:00",
@@ -20754,8 +20753,7 @@ window.SCHEDULE = {
      "slot_id": "252123",
      "pgm": "[앵콜]추석 LG가전 첫라이브❤️역대급 추석혜택 와르르",
      "rerun": true,
-     "category": "가전",
-     "hot": 8
+     "category": "가전"
     },
     {
      "start": "11:00",
@@ -21000,7 +20998,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4373331717",
      "slot_id": "252082",
      "pgm": "삼성 가전 한가위빅세일 특가! 스마일캐시 추가 증정🎁",
-     "category": "가전"
+     "category": "가전",
+     "hot": 6
     },
     {
      "start": "21:00",
@@ -22839,7 +22838,7 @@ window.SCHEDULE = {
    "2026-09-01",
    "2026-09-02"
   ],
-  "matched": 14,
+  "matched": 13,
   "unmatched": 3
  },
  "fixed": {
