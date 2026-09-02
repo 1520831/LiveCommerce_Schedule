@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-09-02T13:19:51+09:00",
+ "updated_at": "2026-09-02T14:23:11+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -1024,7 +1024,7 @@
     "end": "21:59",
     "brand": "LG전자",
     "product": "LG 디오스 AI 오브제 글라스 6도어 더블매직 냉장고_M876GBB232 M876GBC232",
-    "price": 3678400,
+    "price": 3484800,
     "link": "https://item.cjonstyle.com/item/2088286173?channelCode=30002002",
     "slot_id": "28837",
     "title": "LG전자 냉장고 글라스 6도어+전자레인지! 오늘 하루 최대 혜택🎁",
@@ -1329,6 +1329,19 @@
     "category": "식품·건강"
    },
    {
+    "start": "14:00",
+    "end": "14:59",
+    "brand": "산리오",
+    "product": "[다미댁 pick][정상가 248,000원][각인상품] 헬로키티주얼리 시그니처 실버 에나멜 미아방지 목걸이 HLSN366",
+    "price": 134100,
+    "link": "https://item.cjonstyle.com/item/2079843469?channelCode=30002002",
+    "slot_id": "29242",
+    "title": "다시보는 [산리오 목걸이X다미댁] 헬로키티 미아방지 주얼리 할인",
+    "pgm": "ONSTAR LIVE",
+    "pgm_cd": "1027",
+    "category": "잡화·슈즈"
+   },
+   {
     "start": "15:00",
     "end": "15:59",
     "brand": "똘똘한쇼",
@@ -1355,6 +1368,19 @@
     "category": "가전"
    },
    {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "스튜디오톰보이",
+    "product": "코듀로이카라 롱 다운점퍼 9105414105",
+    "price": 199600,
+    "link": "https://item.cjonstyle.com/item/2073332216?channelCode=30002002",
+    "slot_id": "29024",
+    "title": "다시보는 공홈보다 저렴한 톰보이 역시즌 단독 특가❤️",
+    "pgm": "스타일온",
+    "pgm_cd": "1049",
+    "category": "여성패션"
+   },
+   {
     "start": "18:00",
     "end": "18:59",
     "brand": "자코모",
@@ -1378,6 +1404,19 @@
     "pgm": "라이브쇼",
     "pgm_cd": "1008",
     "category": "주방·잡화"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "아로셀",
+    "product": "[주름 관리 정착 패키지 / 56매] 보툴케어 프라임 톡스 마스크 49매 + 슈퍼 콜라겐 마스크 7매 + [갈바닉 아이크림]",
+    "price": 179000,
+    "link": "https://item.cjonstyle.com/item/2091341547?channelCode=30002002",
+    "slot_id": "29025",
+    "title": "다시보는 아로셀 슈퍼 페스타✨여배우 내돈내산 찐템 최대 할인",
+    "pgm": "차예련 pgm",
+    "pgm_cd": "1137",
+    "category": "뷰티"
    },
    {
     "start": "18:00",
@@ -1553,6 +1592,19 @@
    {
     "start": "10:00",
     "end": "10:59",
+    "brand": "아로셀",
+    "product": "[주름 관리 정착 패키지 / 56매] 보툴케어 프라임 톡스 마스크 49매 + 슈퍼 콜라겐 마스크 7매 + [갈바닉 아이크림]",
+    "price": 179000,
+    "link": "https://item.cjonstyle.com/item/2091341547?channelCode=30002002",
+    "slot_id": "29034",
+    "title": "다시보는 아로셀 슈퍼 페스타✨여배우 내돈내산 찐템 최대 할인",
+    "pgm": "차예련 pgm",
+    "pgm_cd": "1137",
+    "category": "뷰티"
+   },
+   {
+    "start": "10:00",
+    "end": "10:59",
     "brand": "삼익가구",
     "product": "업핏 모션데스크 1400 오픈 책장 세트 시리즈",
     "price": 1399000,
@@ -1651,6 +1703,19 @@
     "title": "다시보는 루이까또즈 26FW 신상 CJ 단독공개🍁",
     "pgm": "브랜디드 라이브쇼",
     "pgm_cd": "1136",
+    "category": "잡화·슈즈"
+   },
+   {
+    "start": "13:00",
+    "end": "13:59",
+    "brand": "산리오",
+    "product": "[다미댁 pick][정상가 248,000원][각인상품] 헬로키티주얼리 시그니처 실버 에나멜 미아방지 목걸이 HLSN366",
+    "price": 134100,
+    "link": "https://item.cjonstyle.com/item/2079843469?channelCode=30002002",
+    "slot_id": "29243",
+    "title": "다시보는 [산리오 목걸이X다미댁] 헬로키티 미아방지 주얼리 할인",
+    "pgm": "ONSTAR LIVE",
+    "pgm_cd": "1027",
     "category": "잡화·슈즈"
    },
    {
@@ -1913,6 +1978,19 @@
     "category": "스포츠·아웃도어"
    },
    {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "아로셀",
+    "product": "[주름 관리 정착 패키지 / 56매] 보툴케어 프라임 톡스 마스크 49매 + 슈퍼 콜라겐 마스크 7매 + [갈바닉 아이크림]",
+    "price": 179000,
+    "link": "https://item.cjonstyle.com/item/2091341547?channelCode=30002002",
+    "slot_id": "29071",
+    "title": "다시보는 아로셀 슈퍼 페스타✨여배우 내돈내산 찐템 최대 할인",
+    "pgm": "차예련 pgm",
+    "pgm_cd": "1137",
+    "category": "뷰티"
+   },
+   {
     "start": "21:00",
     "end": "21:59",
     "brand": "에싸",
@@ -2112,6 +2190,19 @@
     "category": "유아동"
    },
    {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "아로셀",
+    "product": "[주름 관리 정착 패키지 / 56매] 보툴케어 프라임 톡스 마스크 49매 + 슈퍼 콜라겐 마스크 7매 + [갈바닉 아이크림]",
+    "price": 179000,
+    "link": "https://item.cjonstyle.com/item/2091341547?channelCode=30002002",
+    "slot_id": "29258",
+    "title": "다시보는 아로셀 슈퍼 페스타✨여배우 내돈내산 찐템 최대 할인",
+    "pgm": "차예련 pgm",
+    "pgm_cd": "1137",
+    "category": "뷰티"
+   },
+   {
     "start": "11:00",
     "end": "11:59",
     "brand": "루씨에어",
@@ -2148,6 +2239,18 @@
     "pgm": "스튜디오B",
     "pgm_cd": "1108",
     "category": "스포츠·아웃도어"
+   },
+   {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "",
+    "product": "스탠펜과 코팅팬 어느것도 만족하지 못했다면? 해답은 티리난지 피렌체!",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/29111",
+    "slot_id": "29111",
+    "title": "스탠펜과 코팅팬 어느것도 만족하지 못했다면? 해답은 티리난지 피렌체!",
+    "pgm": "인플루언서LIVE",
+    "pgm_cd": "1052"
    },
    {
     "start": "19:00",

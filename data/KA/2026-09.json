@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-09-02T13:19:57+09:00",
+ "updated_at": "2026-09-02T14:23:19+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -143,9 +143,9 @@
     "start": "08:30",
     "end": "09:51",
     "brand": "일리윤",
-    "product": "[몬스터팩] \"쫀쫀장벽크림\" 일리윤 세라마이드 아토 집중크림 4개 [230ml * 4EA] (+가방 +키트 증정)",
-    "price": 56000,
-    "link": "https://gift.kakao.com/product/14136249?url=product&cId=14136249",
+    "product": "[몬스터팩] \"소아과테스트 완료\" 일리윤 레드이치 케어크림 990ml 기획 [330ml x 3] (+가방 +키트 증정)",
+    "price": 52600,
+    "link": "https://gift.kakao.com/product/5329579?url=product&cId=5329579",
     "slot_id": "59472",
     "pgm": "일리윤 수분&보습 라이브",
     "title": "보습끝장! 전고객 로션 증정",
@@ -233,18 +233,6 @@
     "slot_id": "59781",
     "pgm": "[30구 + 30구]",
     "title": "닥터안스에그 무항생제 특가전",
-    "category": "식품"
-   },
-   {
-    "start": "16:30",
-    "end": "18:00",
-    "brand": "해남농장고구마",
-    "product": "해남농장 햇꿀고구마 농장직송 베니하루카",
-    "price": 28900,
-    "link": "https://store.kakao.com/gogumamania/products/780743391",
-    "slot_id": "59623",
-    "pgm": "해남농장 햇꿀고구마 출시",
-    "title": "달콤한 첫 수확 라이브특가",
     "category": "식품"
    },
    {
@@ -705,8 +693,8 @@
     "start": "10:00",
     "end": "13:00",
     "brand": "원더브라",
-    "product": "[1번] *카쇼라중 구매 시 무료교환/반품* 볼륨 스포츠 아웃밴드 노와이어 브라4+팬티5 9종세트",
-    "price": 365000,
+    "product": "[1번] *카쇼라중 구매시 무료교환/반품*  일체형 볼륨몰드 노와이어 브라4+팬티4 8종세트",
+    "price": 360000,
     "link": "https://store.kakao.com/wonderbra/products/149005166",
     "slot_id": "59341",
     "pgm": "하루종일 편안한 원더브라",
@@ -784,18 +772,6 @@
     "pgm": "첫수확!! 나주 햇 배",
     "title": "3kg 7-9과 만원초반대",
     "category": "식품"
-   },
-   {
-    "start": "20:30",
-    "end": "22:00",
-    "brand": "단디잇",
-    "product": "82만 요리유튜버가 만든 밥도둑 매콤찬 고추다짐이 250g",
-    "price": 11900,
-    "link": "https://store.kakao.com/dandiit/products/738640799",
-    "slot_id": "59841",
-    "pgm": "매콤찬 고추다짐이",
-    "title": "카쇼라 단독 할인!",
-    "category": "식품"
    }
   ],
   "2026-09-06": [
@@ -822,6 +798,18 @@
     "pgm": "스누피/산리오 콜라보",
     "title": "락앤락 최대 60% OFF",
     "category": "리빙"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "해남농장고구마",
+    "product": "해남농장 햇꿀고구마 농장직송 베니하루카",
+    "price": 28900,
+    "link": "https://store.kakao.com/gogumamania/products/780743391",
+    "slot_id": "59623",
+    "pgm": "해남농장 햇꿀고구마 출시",
+    "title": "달콤한 첫 수확 라이브특가",
+    "category": "식품"
    },
    {
     "start": "11:30",
@@ -881,6 +869,18 @@
     "slot_id": "59765",
     "pgm": "제주직송 하우스 감귤",
     "title": "로얄과 2kg 카쇼라특가",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "모모마켓",
+    "product": "홍대쭈꾸미 300g 6팩 500g 4팩 수제양념 쭈꾸미볶음 냉동간편식",
+    "price": 52300,
+    "link": "https://store.kakao.com/momomarket/products/617722614",
+    "slot_id": "59813",
+    "pgm": "홍대쭈꾸미 300g 6팩 외",
+    "title": "수제양념 5분조리 간편식",
     "category": "식품"
    }
   ],
@@ -1118,7 +1118,7 @@
     "end": "22:00",
     "brand": "앤유즈",
     "product": "앤유즈 에이프릴즈 달빛 기초 3종세트(미스트+에센스+크림)",
-    "price": 140000,
+    "price": 157000,
     "link": "https://store.kakao.com/nyouse/products/734417894",
     "slot_id": "59528",
     "pgm": "앤유즈 연중 3대 행사",

@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-02T13:19:45+09:00",
+ "updated_at": "2026-09-02T14:23:05+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -523,17 +523,11 @@
     "start": "11:00",
     "end": "11:59",
     "brand": "라클라우드",
-    "product": "[1+1][정가 29만원] 라클라우드 천연 라텍스 베개",
-    "price": 89000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2228422946",
+    "product": "[퀸(Q)]라클라우드 호텔식 침구 세트",
+    "price": 139000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2228421755",
     "slot_id": "202609026004",
     "items": [
-     {
-      "brand": "라클라우드",
-      "product": "[1+1][정가 29만원] 라클라우드 천연 라텍스 베개",
-      "price": 89000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2228422946"
-     },
      {
       "brand": "라클라우드",
       "product": "[퀸(Q)]라클라우드 호텔식 침구 세트",
@@ -549,14 +543,14 @@
     "end": "12:59",
     "brand": "콤비타",
     "product": "2. [맛춤가게 단독] [콤비타] UMF20+ 마누카꿀 250g 2병 + UMF20+ 스냅팩(5g 12입) 4박스 + 쇼핑백2개",
-    "price": 514800,
+    "price": 759000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2237146321",
     "slot_id": "202609026005",
     "items": [
      {
       "brand": "콤비타",
       "product": "2. [맛춤가게 단독] [콤비타] UMF20+ 마누카꿀 250g 2병 + UMF20+ 스냅팩(5g 12입) 4박스 + 쇼핑백2개",
-      "price": 514800,
+      "price": 759000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2237146321"
      }
     ],
@@ -657,6 +651,25 @@
     ],
     "title": "[수앤진골드] 골드바 + 실버바 핫딜!",
     "pgm": "[수앤진골드] 순금 주얼리 (패션잡화)"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "메종마르지엘라",
+    "product": "메종마르지엘라 S54WD0039 P6414 T8013 MM6 재패니즈 메쉬 미디움 토트백",
+    "price": 459000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252473502",
+    "slot_id": "202609026022",
+    "items": [
+     {
+      "brand": "메종마르지엘라",
+      "product": "메종마르지엘라 S54WD0039 P6414 T8013 MM6 재패니즈 메쉬 미디움 토트백",
+      "price": 459000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252473502"
+     }
+    ],
+    "title": "[투명쇼] 더로우 가방 60개월 무이자 찬스!",
+    "pgm": "[재방] 투명쇼 (패션잡화)"
    },
    {
     "start": "19:00",
@@ -906,6 +919,25 @@
     ],
     "title": "[밋앤밀] 새콤달콤한 추희자두 라이브 특별가",
     "pgm": "[잭슨코리아] 추희 자두"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "단톤",
+    "product": "반팔티 DT-C0403",
+    "price": 130000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253108377",
+    "slot_id": "202609036012",
+    "items": [
+     {
+      "brand": "단톤",
+      "product": "반팔티 DT-C0403",
+      "price": 130000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253108377"
+     }
+    ],
+    "title": "[단톤] FW 인기 의류 / 잡화 in 도쿄 신주쿠",
+    "pgm": "[해외직구] 일본 현지 방송"
    },
    {
     "start": "20:00",
@@ -1809,18 +1841,37 @@
     "pgm": "[호정과/팀도미노] 약과/홍로사과 (일반식품2)"
    },
    {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "해외직구",
+    "product": "히라오카쇼텐 시즈오카 티백 4종 세트",
+    "price": 99000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253156187",
+    "slot_id": "202609076010",
+    "items": [
+     {
+      "brand": "해외직구",
+      "product": "히라오카쇼텐 시즈오카 티백 4종 세트",
+      "price": 99000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253156187"
+     }
+    ],
+    "title": "[말차] 시즈오카 최고급 말차💚 현지 말차밭 Live",
+    "pgm": "[해외직구] 일본 현지 방송"
+   },
+   {
     "start": "19:00",
     "end": "19:59",
     "brand": "국제표준금거래소",
     "product": "보름달 골드바 1g",
-    "price": 307000,
+    "price": 299000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253143576",
     "slot_id": "202609076012",
     "items": [
      {
       "brand": "국제표준금거래소",
       "product": "보름달 골드바 1g",
-      "price": 307000,
+      "price": 299000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253143576"
      }
     ],
