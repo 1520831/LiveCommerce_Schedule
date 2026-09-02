@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-03T00:05:10+09:00",
+ "generated_at": "2026-09-03T00:31:28+09:00",
  "today": "2026-09-03",
  "dates": [
   "2026-09-02",
@@ -435,7 +435,7 @@ window.SCHEDULE = {
      ],
      "title": "[수앤진골드] 추석 선물 특집전",
      "pgm": "[재방] 수앤진골드 순금 (패션잡화)",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "07:00",
@@ -17889,7 +17889,7 @@ window.SCHEDULE = {
    "2026-09-03"
   ],
   "matched": 7,
-  "unmatched": 2
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
