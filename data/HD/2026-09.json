@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-02T23:46:15+09:00",
+ "updated_at": "2026-09-03T07:10:46+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -581,14 +581,14 @@
     "end": "14:59",
     "brand": "한상궁김치",
     "product": "겉절이 2kg",
-    "price": 12500,
+    "price": 12400,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2241023551",
     "slot_id": "202609026007",
     "items": [
      {
       "brand": "한상궁김치",
       "product": "겉절이 2kg",
-      "price": 12500,
+      "price": 12400,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2241023551"
      }
     ],
@@ -1020,14 +1020,14 @@
     "end": "19:59",
     "brand": "주닥",
     "product": "[Hmall 한정][1+1] 허거 자연원물 100% 아로마 온열 찜질팩",
-    "price": 138000,
+    "price": 96600,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252694625",
     "slot_id": "202609036013",
     "items": [
      {
       "brand": "주닥",
       "product": "[Hmall 한정][1+1] 허거 자연원물 100% 아로마 온열 찜질팩",
-      "price": 138000,
+      "price": 96600,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252694625"
      }
     ],
@@ -1729,14 +1729,14 @@
     "end": "10:59",
     "brand": "유한킴벌리생활",
     "product": "[좋은느낌] 썸머 데이패드 생리대 대용량팩 중/대 x4",
-    "price": 64800,
+    "price": 32400,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253126252",
     "slot_id": "202609066001",
     "items": [
      {
       "brand": "유한킴벌리생활",
       "product": "[좋은느낌] 썸머 데이패드 생리대 대용량팩 중/대 x4",
-      "price": 64800,
+      "price": 32400,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253126252"
      }
     ],
@@ -2105,6 +2105,198 @@
     ],
     "title": "[헤이데이무드] 샤워가운 선물세트 & 라이브 구매사은품",
     "pgm": "[헤이데이무드] 타월/로브 (멀티커머스)"
+   }
+  ],
+  "2026-09-08": [
+   {
+    "start": "08:00",
+    "end": "08:59",
+    "brand": "듀퐁",
+    "product": "[에스티듀퐁]F W 매니저 엄선 luxurious 긴소매 와이셔츠 일반핏 슬림핏 모음전 SE6FM22SE6FM22LS999SWH",
+    "price": 59000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252956044",
+    "slot_id": "202609086004",
+    "items": [
+     {
+      "brand": "듀퐁",
+      "product": "[에스티듀퐁]F W 매니저 엄선 luxurious 긴소매 와이셔츠 일반핏 슬림핏 모음전 SE6FM22SE6FM22LS999SWH",
+      "price": 59000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252956044"
+     }
+    ],
+    "title": "[듀퐁] 26FW 프리미엄 남성 셔츠 LIVE",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "소다",
+    "product": "여성  소다 신상 3센치 메리제인 펌프스   (ARF508 LS10) ARF508LS10",
+    "price": 296100,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250444142",
+    "slot_id": "202609086005",
+    "items": [
+     {
+      "brand": "소다",
+      "product": "여성  소다 신상 3센치 메리제인 펌프스   (ARF508 LS10) ARF508LS10",
+      "price": 296100,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250444142"
+     }
+    ],
+    "title": "[소다] 메리제인/로퍼/스니커즈 外 득템찬스",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "도노도노",
+    "product": "4세대 아기 트롤리 기저귀 갈이대 + 방수패드 세트",
+    "price": 189000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2212786035",
+    "slot_id": "202609086007",
+    "items": [
+     {
+      "brand": "도노도노",
+      "product": "4세대 아기 트롤리 기저귀 갈이대 + 방수패드 세트",
+      "price": 189000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2212786035"
+     }
+    ],
+    "title": "[도노도노] 신생아 육아필수템 기저귀갈이대♥️",
+    "pgm": "육아일기"
+   },
+   {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "르무통",
+    "product": "[시크릿가] 르무통 메이트 발 편한 메리노울 운동화",
+    "price": 119900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2210550064",
+    "slot_id": "202609086008",
+    "items": [
+     {
+      "brand": "르무통",
+      "product": "[시크릿가] 르무통 메이트 발 편한 메리노울 운동화",
+      "price": 119900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2210550064"
+     }
+    ],
+    "title": "르무통과 함께 하는 추석, 편했으면 좋겠습니다",
+    "pgm": "[르무통] 제화 (패션잡화)"
+   },
+   {
+    "start": "13:00",
+    "end": "13:59",
+    "brand": "워커힐",
+    "product": "시그니처 LA갈비 세트 (400g x 8팩)",
+    "price": 119900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2226417660",
+    "slot_id": "202609086002",
+    "items": [
+     {
+      "brand": "워커힐",
+      "product": "시그니처 LA갈비 세트 (400g x 8팩)",
+      "price": 119900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2226417660"
+     }
+    ],
+    "title": "추석 특집! 워커힐LA갈비 깜짝 할인 찬스!",
+    "pgm": "[워커힐] LA갈비 外 (일반식품1)"
+   },
+   {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "엘렌주얼리",
+    "product": "[엘렌쥬얼리] 14K 랩 다이아몬드 타이니 박스 체인 금 반지",
+    "price": 122800,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252372676",
+    "slot_id": "202609086010",
+    "items": [
+     {
+      "brand": "엘렌주얼리",
+      "product": "[엘렌쥬얼리] 14K 랩 다이아몬드 타이니 박스 체인 금 반지",
+      "price": 122800,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252372676"
+     }
+    ],
+    "title": "[엘렌] 데일리 주얼리로 추천♥️",
+    "pgm": "[엘렌] 주얼리 (패션잡화)"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "도로시",
+    "product": "14k 클래식 랩 다이아몬드 4프롱 참 펜던트 5부_IGI",
+    "price": 741000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2235161267",
+    "slot_id": "202609086013",
+    "items": [
+     {
+      "brand": "도로시",
+      "product": "14k 클래식 랩 다이아몬드 4프롱 참 펜던트 5부_IGI",
+      "price": 741000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2235161267"
+     }
+    ],
+    "title": "[도로시] 18K 골드 x 랩 다이아몬드BEST 특가",
+    "pgm": "[도로시]주얼리 (패션잡화)"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "LG전자",
+    "product": "LG 퓨리케어 오브제컬렉션 얼음정수기 구독/렌탈",
+    "price": 3736800,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250072699",
+    "slot_id": "202609086014",
+    "items": [
+     {
+      "brand": "LG전자",
+      "product": "LG 퓨리케어 오브제컬렉션 얼음정수기 구독/렌탈",
+      "price": 3736800,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250072699"
+     }
+    ],
+    "title": "[LG정수기] 구독/렌탈 AI정수기 론칭 핫딜",
+    "pgm": "[LG] 정수기 (렌탈)"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "바디프랜드",
+    "product": "[공식인증리퍼] 바디프랜드 팔콘2026 헬스케어로봇 안마의자 무상AS 1년 (뉴팔콘)",
+    "price": 3500000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252561962",
+    "slot_id": "202609086003",
+    "items": [
+     {
+      "brand": "바디프랜드",
+      "product": "[공식인증리퍼] 바디프랜드 팔콘2026 헬스케어로봇 안마의자 무상AS 1년 (뉴팔콘)",
+      "price": 3500000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252561962"
+     }
+    ],
+    "title": "[바디프랜드] 한가위페스타 리퍼 대전",
+    "pgm": "[바디프랜드] 안마의자 (렌탈)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "리바이스",
+    "product": "남성 505 레귤러 진 00505-4891 00505-4891",
+    "price": 99000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251969464",
+    "slot_id": "202609086017",
+    "items": [
+     {
+      "brand": "리바이스",
+      "product": "남성 505 레귤러 진 00505-4891 00505-4891",
+      "price": 99000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251969464"
+     }
+    ],
+    "title": "리바이스 인기 데님라인 방송중 최대47%▼",
+    "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ]
  }
