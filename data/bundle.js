@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-02T19:57:27+09:00",
+ "generated_at": "2026-09-02T20:13:26+09:00",
  "today": "2026-09-02",
  "dates": [
   "2026-09-01",
@@ -7360,8 +7360,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프",
-     "hot": 10
+     "category": "라이프"
     },
     {
      "start": "10:00",
@@ -9836,7 +9835,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "18:00",
@@ -20977,7 +20976,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4822243340",
      "slot_id": "254018",
      "pgm": "한가위🎉 로보락 Qrevo L Pro 특가 최초공개",
-     "category": "가전"
+     "category": "가전",
+     "hot": 9
     },
     {
      "start": "20:00",
