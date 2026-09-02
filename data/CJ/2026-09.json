@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-09-02T12:08:39+09:00",
+ "updated_at": "2026-09-02T13:03:51+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -257,7 +257,7 @@
     "end": "18:59",
     "brand": "쿠론",
     "product": "포제르 보우(Faugeres Bow) 우븐 크로스 25_RCBRX26611CMX",
-    "price": 298000,
+    "price": 268200,
     "link": "https://item.cjonstyle.com/item/2090869530?channelCode=30002002",
     "slot_id": "28980",
     "title": "다시보는 [은세로운 발견] 쿠론 FW 최신상 최대 할인✨",
@@ -543,9 +543,9 @@
     "start": "10:00",
     "end": "10:59",
     "brand": "하베브릭스",
-    "product": "[짱구 pick] 첫 몬테소리 꼬마몬테북+기차놀이+푸시푸시 자동차+회전 링쌓기",
-    "price": 147000,
-    "link": "https://item.cjonstyle.com/item/2092459354?channelCode=30002002",
+    "product": "[공구]  바람개비 아기체육관+ 6in1 변신큐브",
+    "price": 85000,
+    "link": "https://item.cjonstyle.com/item/2084416293?channelCode=30002002",
     "slot_id": "28822",
     "title": "희아패밀리x하베브릭스💗회전볼 러닝테이블 최초 공개! 최대 61% 할인",
     "pgm": "인플루언서LIVE",
@@ -1486,14 +1486,15 @@
    {
     "start": "20:40",
     "end": "21:44",
-    "brand": "",
-    "product": "[투머치쇼X피브레노] 26FW 신상백 론칭 & 호이픽 한정세트까지!",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/28426",
+    "brand": "피브레노",
+    "product": "[호이픽] 디에이이치 투 톤 뚜띠 백 톨 43 올리브 SET",
+    "price": 536000,
+    "link": "https://item.cjonstyle.com/item/2092290312?channelCode=30002002",
     "slot_id": "28426",
     "title": "[투머치쇼X피브레노] 26FW 신상백 론칭 & 호이픽 한정세트까지!",
     "pgm": "김호영의 투머치쇼",
-    "pgm_cd": "1083"
+    "pgm_cd": "1083",
+    "category": "잡화·슈즈"
    },
    {
     "start": "21:00",

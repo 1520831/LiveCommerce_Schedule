@@ -597,9 +597,9 @@
   /* 후보 = 그 요일이 아직 한 번밖에 안 지나가서 1/1 인 것. 확정과 같은 무게로
      그리면 표가 실제보다 확신에 차 보인다. 배경을 빼고 막대를 점선으로 끊어
      '아직 덜 여문 것' 을 색이 아니라 형태로 알린다.
-     수동 등록에는 따로 표시를 두지 않는다 - 한때 테두리를 둘렀는데 확정이
-     대부분 수동이라 칸마다 상자가 그려져 표를 읽기가 아팠다. 밑줄의
-     '직접 등록' 으로 충분하다. */
+     수동 등록에는 아무 표시도 두지 않는다 - 한때 테두리를 둘렀는데 확정이
+     대부분 수동이라 칸마다 상자가 그려져 표를 읽기가 아팠고, 밑줄에 적던
+     '직접 등록' 도 뺐다(어떻게 등록됐는지는 보는 사람의 관심사가 아니다). */
   .fx.cand { background: none; border-left-style: dashed; }
   .fx.cand .nm { font-weight: 600; color: var(--ink-soft); }
   /* 흔한 한 시간이 아닌 편성. 다음 시간대까지 먹으므로 눈에 걸려야 한다.
@@ -825,7 +825,10 @@
       </div>
     </div>
     <div class="board" id="fxBoard"></div>
-    <div class="fxnote" id="fxNote"></div>
+    <!-- 판정 기준 설명. 화면에는 안 내보낸다 - 팀이 보는 것은 '무엇을 언제
+         하는가' 지 이 표를 어떻게 만들었는가가 아니다. 내용은 fxNote() 에
+         그대로 있으니 확인할 일이 있으면 hidden 만 걷는다. -->
+    <div class="fxnote" id="fxNote" hidden></div>
   </div>
 
   <footer id="foot"></footer>
@@ -1437,7 +1440,10 @@
   function fxSub(r, wd) {
     // 수동 확정분에 요일별 관측 횟수를 적으면 '수요일 2번 중 0회' 처럼
     // 아직 못 본 요일에서 0 이 찍혀 확정인데 없어 보인다.
-    if (r.manual) return "직접 등록";
+    // 수동 확정분은 밑줄에 적을 말이 없다. '직접 등록' 은 보는 사람에게
+    // 쓸모가 없고(무엇을 하는지가 아니라 어떻게 등록됐는지다) 카드마다 붙어
+    // 정작 읽어야 할 '2번 중 2회' 를 묻는다. 빈 문자열이면 밑줄을 안 그린다.
+    if (r.manual) return "";
     if (r.kind === "daily") return "매일 · " + r.span + "일 중 " + r.hits + "회";
     var i = FXWD.indexOf(wd);
     var span = r.wd_span ? r.wd_span[i] : 0;
@@ -1467,19 +1473,23 @@
     nm.appendChild(chip);
     nm.appendChild(document.createTextNode(r.pgm));
     el.appendChild(nm);
-    var sub = document.createElement("div");
-    sub.className = "sub";
-    sub.textContent = fxSub(r, wd);
+    var subText = fxSub(r, wd);
     var dur = fxDur(r, wd);
-    if (dur) {
-      sub.appendChild(document.createTextNode(" · "));
-      var ds = document.createElement("span");
-      ds.className = "dur";
-      ds.textContent = dur;
-      sub.appendChild(ds);
+    if (subText || dur) {
+      var sub = document.createElement("div");
+      sub.className = "sub";
+      sub.textContent = subText;
+      if (dur) {
+        if (subText) sub.appendChild(document.createTextNode(" · "));
+        var ds = document.createElement("span");
+        ds.className = "dur";
+        ds.textContent = dur;
+        sub.appendChild(ds);
+      }
+      el.appendChild(sub);
     }
-    el.appendChild(sub);
-    el.title = r.pgm + "  " + r.start + "  " + fxSub(r, wd)
+    el.title = r.pgm + "  " + r.start
+             + (subText ? "  " + subText : "")
              + (dur ? "  " + dur : "");
     return el;
   }
