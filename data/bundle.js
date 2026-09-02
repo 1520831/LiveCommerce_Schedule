@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-02T20:13:26+09:00",
+ "generated_at": "2026-09-02T20:29:28+09:00",
  "today": "2026-09-02",
  "dates": [
   "2026-09-01",
@@ -2907,7 +2907,7 @@ window.SCHEDULE = {
      "pgm_cd": "1068",
      "category": "가전",
      "cast": "influencer",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "16:00",
@@ -7791,7 +7791,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -8445,7 +8445,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -9835,7 +9835,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "18:00",
@@ -20754,7 +20754,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]추석 LG가전 첫라이브❤️역대급 추석혜택 와르르",
      "rerun": true,
      "category": "가전",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -20977,7 +20977,7 @@ window.SCHEDULE = {
      "slot_id": "254018",
      "pgm": "한가위🎉 로보락 Qrevo L Pro 특가 최초공개",
      "category": "가전",
-     "hot": 9
+     "hot": 3
     },
     {
      "start": "20:00",
@@ -20988,7 +20988,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4672022224",
      "slot_id": "254019",
      "pgm": "[한가위빅세일]MSI 노트북&PC &모니터 특가라인업!",
-     "category": "디지털·PC"
+     "category": "디지털·PC",
+     "hot": 5
     },
     {
      "start": "21:00",
@@ -22838,7 +22839,7 @@ window.SCHEDULE = {
    "2026-09-01",
    "2026-09-02"
   ],
-  "matched": 13,
+  "matched": 14,
   "unmatched": 3
  },
  "fixed": {
