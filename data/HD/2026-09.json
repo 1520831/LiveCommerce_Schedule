@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-02T13:03:46+09:00",
+ "updated_at": "2026-09-02T13:19:45+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -533,6 +533,12 @@
       "product": "[1+1][정가 29만원] 라클라우드 천연 라텍스 베개",
       "price": 89000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2228422946"
+     },
+     {
+      "brand": "라클라우드",
+      "product": "[퀸(Q)]라클라우드 호텔식 침구 세트",
+      "price": 139000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2228421755"
      }
     ],
     "title": "[라클라우드] 창고 대개방 클리어런스",
@@ -600,14 +606,14 @@
     "end": "16:59",
     "brand": "회룡포장수진품",
     "product": "40초 큐브 된장국 기본맛 5개입 - 경북 예천 맛뜰리:예",
-    "price": 12000,
+    "price": 9000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252993652",
     "slot_id": "202609026008",
     "items": [
      {
       "brand": "회룡포장수진품",
       "product": "40초 큐브 된장국 기본맛 5개입 - 경북 예천 맛뜰리:예",
-      "price": 12000,
+      "price": 9000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252993652"
      }
     ],

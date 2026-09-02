@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-02T13:05:01+09:00",
+ "generated_at": "2026-09-02T13:20:56+09:00",
  "today": "2026-09-02",
  "dates": [
   "2026-09-01",
@@ -563,6 +563,12 @@ window.SCHEDULE = {
        "product": "[1+1][정가 29만원] 라클라우드 천연 라텍스 베개",
        "price": 89000,
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2228422946"
+      },
+      {
+       "brand": "라클라우드",
+       "product": "[퀸(Q)]라클라우드 호텔식 침구 세트",
+       "price": 139000,
+       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2228421755"
       }
      ],
      "title": "[라클라우드] 창고 대개방 클리어런스",
@@ -630,14 +636,14 @@ window.SCHEDULE = {
      "end": "16:59",
      "brand": "회룡포장수진품",
      "product": "40초 큐브 된장국 기본맛 5개입 - 경북 예천 맛뜰리:예",
-     "price": 12000,
+     "price": 9000,
      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252993652",
      "slot_id": "202609026008",
      "items": [
       {
        "brand": "회룡포장수진품",
        "product": "40초 큐브 된장국 기본맛 5개입 - 경북 예천 맛뜰리:예",
-       "price": 12000,
+       "price": 9000,
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252993652"
       }
      ],
@@ -16220,7 +16226,6 @@ window.SCHEDULE = {
       {},
       {},
       {},
-      {},
       {}
      ],
      "category": "푸드"
@@ -16692,7 +16697,6 @@ window.SCHEDULE = {
      "pgm": "[유한양행] 브랜드데이 단 하루 특가 LIVE✨",
      "title": "유한양행 단 하루 특가✨",
      "items": [
-      {},
       {},
       {},
       {},
@@ -22479,9 +22483,9 @@ window.SCHEDULE = {
      "start": "08:30",
      "end": "09:51",
      "brand": "일리윤",
-     "product": "[몬스터팩] \"소아과테스트 완료\" 일리윤 레드이치 케어크림 990ml 기획 [330ml x 3] (+가방 +키트 증정)",
-     "price": 52600,
-     "link": "https://gift.kakao.com/product/5329579?url=product&cId=5329579",
+     "product": "[몬스터팩] \"쫀쫀장벽크림\" 일리윤 세라마이드 아토 집중크림 4개 [230ml * 4EA] (+가방 +키트 증정)",
+     "price": 56000,
+     "link": "https://gift.kakao.com/product/14136249?url=product&cId=14136249",
      "slot_id": "59472",
      "pgm": "일리윤 수분&보습 라이브",
      "title": "보습끝장! 전고객 로션 증정",
@@ -23417,9 +23421,9 @@ window.SCHEDULE = {
      "start": "19:00",
      "end": "20:30",
      "brand": "에스트라",
-     "product": "NEW 아토베리어365 세라-히알 속수분 앰플 30ml",
-     "price": 26400,
-     "link": "https://store.kakao.com/aestura1/products/473126094",
+     "product": "[크림 쟁이기] 아토베리어365 크림 80ml 4개 (옵션-크림4개 / 크림2개+로션2개 / 크림2개+수딩2개)",
+     "price": 132000,
+     "link": "https://store.kakao.com/aestura1/products/292820470",
      "slot_id": "59732",
      "pgm": "에스트라 추석맞이 기획전",
      "title": "선착순 클렌징폼 30g 증정",
@@ -23477,11 +23481,11 @@ window.SCHEDULE = {
   }
  },
  "updated_at": {
-  "HD": "2026-09-02T13:03:46+09:00",
-  "CJ": "2026-09-02T13:03:51+09:00",
-  "NV": "2026-09-02T13:05:01+09:00",
+  "HD": "2026-09-02T13:19:45+09:00",
+  "CJ": "2026-09-02T13:19:51+09:00",
+  "NV": "2026-09-02T13:20:56+09:00",
   "GM": "2026-09-02T12:58:41+09:00",
-  "KA": "2026-09-02T13:03:57+09:00"
+  "KA": "2026-09-02T13:19:57+09:00"
  },
  "cast_kinds": [
   "celeb",

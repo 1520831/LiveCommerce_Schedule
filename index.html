@@ -1425,13 +1425,18 @@
   var fxShowCand = true;   // 후보까지 보여준다. 표본이 쌓이면 대부분 확정으로 옮겨간다
   var fxBoard = document.getElementById("fxBoard");
 
+  // 한 칸 안의 차례 = 여기서 정한 차례다(칸마다 이 순서대로 걸러 담는다).
+  // 여러 요일에 걸친 편성을 위로 올린다 - 월~금 하는 프로그램이 칸마다 첫
+  // 줄에 오면 다섯 칸을 가로로 잇는 한 줄이 되어 '평소 무엇을 하는가' 가
+  // 한눈에 읽힌다. 하루짜리를 위에 두면 그 줄이 칸마다 어긋나 끊긴다.
+  // 요일 수가 같으면 수집기가 준 차례(시각 · 채널 · 이름)를 그대로 둔다.
   function fxRows() {
     return FX.filter(function (r) {
       if (fxCh !== "ALL" && r.ch !== fxCh) return false;
       if (fxWd !== "ALL" && r.days.indexOf(fxWd) < 0) return false;
       if (!fxShowCand && r.tier === "cand") return false;
       return true;
-    });
+    }).sort(function (a, b) { return b.days.length - a.days.length; });
   }
 
   // 카드 밑줄. 매일형은 전체 수집일 대비, 요일형은 **그 요일이 지나간 횟수**
