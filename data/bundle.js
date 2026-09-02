@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-02T21:51:35+09:00",
+ "generated_at": "2026-09-02T22:09:39+09:00",
  "today": "2026-09-02",
  "dates": [
   "2026-09-01",
@@ -2906,8 +2906,7 @@ window.SCHEDULE = {
      "pgm": "까사림의 감성하우스",
      "pgm_cd": "1068",
      "category": "가전",
-     "cast": "influencer",
-     "hot": 10
+     "cast": "influencer"
     },
     {
      "start": "16:00",
@@ -22838,7 +22837,7 @@ window.SCHEDULE = {
    "2026-09-01",
    "2026-09-02"
   ],
-  "matched": 13,
+  "matched": 12,
   "unmatched": 3
  },
  "fixed": {
