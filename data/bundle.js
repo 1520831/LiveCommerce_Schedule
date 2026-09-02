@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-03T00:57:06+09:00",
+ "generated_at": "2026-09-03T07:09:07+09:00",
  "today": "2026-09-03",
  "dates": [
   "2026-09-02",
@@ -434,8 +434,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[수앤진골드] 추석 선물 특집전",
-     "pgm": "[재방] 수앤진골드 순금 (패션잡화)",
-     "hot": 3
+     "pgm": "[재방] 수앤진골드 순금 (패션잡화)"
     },
     {
      "start": "07:00",
@@ -16250,7 +16249,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4811952230",
      "slot_id": "254022",
      "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻6",
-     "category": "식품·건강"
+     "category": "식품·건강",
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -17889,7 +17889,7 @@ window.SCHEDULE = {
    "2026-09-03"
   ],
   "matched": 7,
-  "unmatched": 5
+  "unmatched": 9
  },
  "fixed": {
   "rows": [
