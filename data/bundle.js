@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-02T18:31:25+09:00",
+ "generated_at": "2026-09-02T18:47:32+09:00",
  "today": "2026-09-02",
  "dates": [
   "2026-09-01",
@@ -2706,8 +2706,7 @@ window.SCHEDULE = {
      "title": "지스튜디오 애프터파티💕 TV에서는 못다보여준 최신상템 방송중 특가할인",
      "pgm": "라이브쇼",
      "pgm_cd": "0146",
-     "category": "여성패션",
-     "hot": 10
+     "category": "여성패션"
     },
     {
      "start": "11:00",
@@ -7362,7 +7361,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -7793,7 +7792,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -9837,7 +9836,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 8
+     "hot": 6
     },
     {
      "start": "18:00",
@@ -21809,7 +21808,7 @@ window.SCHEDULE = {
      "pgm": "동국제약 초이스딜 특가",
      "title": "더마데카크림 외 87%할인",
      "category": "뷰티",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "09:30",
@@ -22840,7 +22839,7 @@ window.SCHEDULE = {
    "2026-09-01",
    "2026-09-02"
   ],
-  "matched": 15,
+  "matched": 14,
   "unmatched": 3
  },
  "fixed": {
