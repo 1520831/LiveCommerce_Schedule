@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-09-02T14:23:19+09:00",
+ "updated_at": "2026-09-02T18:14:01+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -213,7 +213,7 @@
    },
    {
     "start": "14:00",
-    "end": "15:30",
+    "end": "15:00",
     "brand": "핫트",
     "product": "[무료배송] 레드루트 온가족 식세기세제 외 세제,섬유유연제 모음전",
     "price": 21900,
@@ -225,7 +225,7 @@
    },
    {
     "start": "14:30",
-    "end": "16:00",
+    "end": "15:31",
     "brand": "닥터안스에그",
     "product": "[닥터안스에그] 무항생제 인증 수의사 계란 햇달걀/대란/특란 (30구+30구)",
     "price": 27000,
@@ -237,10 +237,10 @@
    },
    {
     "start": "17:00",
-    "end": "18:30",
+    "end": "18:01",
     "brand": "순수식품",
     "product": "순수식품 알파CD 5박스(총70포) 파인애플맛 맥스3600 외 다이어트 커피/차전자피/콜라겐 등 골라담기",
-    "price": 32900,
+    "price": 75000,
     "link": "https://store.kakao.com/soonsoofood/products/576799946",
     "slot_id": "59358",
     "pgm": "순수식품 알파CD 파인애플맛",
@@ -249,7 +249,7 @@
    },
    {
     "start": "17:00",
-    "end": "18:30",
+    "end": "17:59",
     "brand": "현대시티아울렛 가산점",
     "product": "[쉬즈미스] 가을 이너/자켓/팬츠 셋업 외 할인전",
     "price": 178000,
@@ -260,11 +260,23 @@
     "category": "패션"
    },
    {
+    "start": "17:30",
+    "end": "17:58",
+    "brand": "해남농장고구마",
+    "product": "26년 햇 나주배 신고 프리미엄 명절 선물세트 나주배농장 산지직송",
+    "price": 75000,
+    "link": "https://store.kakao.com/gogumamania/products/785153464",
+    "slot_id": "59859",
+    "pgm": "해남농장 햇꿀고구마 출시",
+    "title": "달콤한 첫 수확 라이브특가",
+    "category": "식품"
+   },
+   {
     "start": "19:00",
     "end": "20:30",
     "brand": "올록담",
     "product": "올록담 올리브3 EVOO 올리브오일 캡슐 올리브유",
-    "price": 31600,
+    "price": 228800,
     "link": "https://store.kakao.com/ollocdam/products/579487658",
     "slot_id": "59219",
     "pgm": "[올록담] 올리브3 추석맞이",
@@ -276,7 +288,7 @@
     "end": "22:00",
     "brand": "웹투어(주)",
     "product": "[풀만 앰배서더 서울 이스트폴] 오늘만 3종 추가 혜택_한강뷰 객실UP/조식+객실UP/이브닝 디너 코스 패키지_수영장 외",
-    "price": 329000,
+    "price": 990000,
     "link": "https://store.kakao.com/webtour/products/675232630",
     "slot_id": "59424",
     "pgm": "풀만 앰배서더 서울 이스트폴",
@@ -508,7 +520,7 @@
     "end": "21:30",
     "brand": "땡이아빠 땡마켓",
     "product": "제주도 블랙망고수박 이색 제철 수박 고당도 흑수박 국내산 산지직송 3kg/5kg/6kg",
-    "price": 9940,
+    "price": 12540,
     "link": "https://store.kakao.com/ttangsmarket/products/771811542",
     "slot_id": "59829",
     "pgm": "제주 망고 수박 3~4kg",
@@ -564,6 +576,18 @@
     "category": "여행",
     "rerun": true,
     "rerun_of": "59386"
+   },
+   {
+    "start": "22:30",
+    "end": "00:00",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 55000,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "59858",
+    "pgm": "터치그라운드 발편한운동화",
+    "title": "가벼우면서 쿠션감 좋은운동화",
+    "category": "패션"
    }
   ],
   "2026-09-04": [
@@ -772,6 +796,18 @@
     "pgm": "첫수확!! 나주 햇 배",
     "title": "3kg 7-9과 만원초반대",
     "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "단디잇",
+    "product": "82만 요리유튜버가 만든 밥도둑 매콤찬 고추다짐이 250g",
+    "price": 11900,
+    "link": "https://store.kakao.com/dandiit/products/738640799",
+    "slot_id": "59841",
+    "pgm": "매콤찬 고추다짐이",
+    "title": "카쇼라 단독 할인!",
+    "category": "식품"
    }
   ],
   "2026-09-06": [
@@ -798,18 +834,6 @@
     "pgm": "스누피/산리오 콜라보",
     "title": "락앤락 최대 60% OFF",
     "category": "리빙"
-   },
-   {
-    "start": "11:30",
-    "end": "13:00",
-    "brand": "해남농장고구마",
-    "product": "해남농장 햇꿀고구마 농장직송 베니하루카",
-    "price": 28900,
-    "link": "https://store.kakao.com/gogumamania/products/780743391",
-    "slot_id": "59623",
-    "pgm": "해남농장 햇꿀고구마 출시",
-    "title": "달콤한 첫 수확 라이브특가",
-    "category": "식품"
    },
    {
     "start": "11:30",
@@ -1028,6 +1052,17 @@
     "pgm": "실크100% 스카프 명절선물",
     "title": "울캐시미어 100종 모음전",
     "category": "패션"
+   },
+   {
+    "start": "18:00",
+    "end": "19:30",
+    "brand": "대상 공식스토어",
+    "product": "행복 10호",
+    "price": 36900,
+    "link": "https://store.kakao.com/daesang/products/406699598",
+    "slot_id": "59854",
+    "pgm": "청정원&종가 쎈딜 라이브",
+    "category": "식품"
    },
    {
     "start": "19:00",
