@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-03T08:27:44+09:00",
+ "generated_at": "2026-09-03T08:39:23+09:00",
  "today": "2026-09-03",
  "dates": [
   "2026-09-02",
@@ -6666,7 +6666,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "09:00",
@@ -19050,7 +19050,8 @@ window.SCHEDULE = {
      "slot_id": "59491",
      "pgm": "린제이 쿨티트리 모델링팩~",
      "title": "외 13종 +팩도구+앰플증정",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -20115,8 +20116,8 @@ window.SCHEDULE = {
    "2026-09-02",
    "2026-09-03"
   ],
-  "matched": 5,
-  "unmatched": 11
+  "matched": 6,
+  "unmatched": 10
  },
  "fixed": {
   "rows": [
