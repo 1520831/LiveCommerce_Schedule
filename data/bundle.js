@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-03T20:49:36+09:00",
+ "generated_at": "2026-09-03T20:59:19+09:00",
  "today": "2026-09-03",
  "dates": [
   "2026-09-02",
@@ -10403,7 +10403,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "19:00",
@@ -21808,7 +21808,7 @@ window.SCHEDULE = {
      "slot_id": "252098",
      "pgm": "🌕한가위빅세일! LG가전 BEST 특집",
      "category": "가전",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "19:00",
@@ -21843,7 +21843,7 @@ window.SCHEDULE = {
      "slot_id": "252084",
      "pgm": "G마켓 한가위 빅세일 X 모바 P70PU 최대 혜택!",
      "category": "가전",
-     "hot": 8
+     "hot": 6
     },
     {
      "start": "20:00",
