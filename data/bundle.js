@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-03T19:55:46+09:00",
+ "generated_at": "2026-09-03T20:10:11+09:00",
  "today": "2026-09-03",
  "dates": [
   "2026-09-02",
@@ -3064,8 +3064,7 @@ window.SCHEDULE = {
      "pgm": "까사림의 감성하우스",
      "pgm_cd": "1068",
      "category": "가전",
-     "cast": "influencer",
-     "hot": 9
+     "cast": "influencer"
     },
     {
      "start": "17:00",
@@ -7495,7 +7494,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -8602,7 +8601,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "패션",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -9745,7 +9744,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "18:00",
@@ -21809,7 +21808,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4434361765",
      "slot_id": "252098",
      "pgm": "🌕한가위빅세일! LG가전 BEST 특집",
-     "category": "가전"
+     "category": "가전",
+     "hot": 10
     },
     {
      "start": "19:00",
