@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-04T08:20:54+09:00",
+ "generated_at": "2026-09-04T08:40:42+09:00",
  "today": "2026-09-04",
  "dates": [
   "2026-09-03",
@@ -6927,7 +6927,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 7
     },
     {
      "start": "08:00",
@@ -20322,7 +20322,8 @@ window.SCHEDULE = {
      "slot_id": "59441",
      "pgm": "극강의 고소함 실큰두부",
      "title": "상온 보관 멸균두부 특가",
-     "category": "식품"
+     "category": "식품",
+     "hot": 3
     },
     {
      "start": "08:30",
@@ -21518,8 +21519,8 @@ window.SCHEDULE = {
    "2026-09-03",
    "2026-09-04"
   ],
-  "matched": 8,
-  "unmatched": 10
+  "matched": 9,
+  "unmatched": 9
  },
  "fixed": {
   "rows": [
