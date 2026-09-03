@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-03T20:38:14+09:00",
+ "generated_at": "2026-09-03T20:49:36+09:00",
  "today": "2026-09-03",
  "dates": [
   "2026-09-02",
@@ -8600,8 +8600,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "패션",
-     "hot": 8
+     "category": "패션"
     },
     {
      "start": "11:00",
@@ -21843,7 +21842,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4724040580",
      "slot_id": "252084",
      "pgm": "G마켓 한가위 빅세일 X 모바 P70PU 최대 혜택!",
-     "category": "가전"
+     "category": "가전",
+     "hot": 8
     },
     {
      "start": "20:00",
