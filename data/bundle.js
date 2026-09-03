@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-03T09:59:18+09:00",
+ "generated_at": "2026-09-03T10:21:02+09:00",
  "today": "2026-09-03",
  "dates": [
   "2026-09-02",
@@ -2604,7 +2604,8 @@ window.SCHEDULE = {
      "slot_id": "28839",
      "title": "맘만하니💙더청송 환절기 케어 우리집티/연근티 최초 공개",
      "pgm": "맘만하니",
-     "pgm_cd": "0099"
+     "pgm_cd": "0099",
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -6972,7 +6973,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 5
     },
     {
      "start": "09:55",
@@ -7021,7 +7023,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 9
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -7193,7 +7195,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -7220,7 +7223,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -7403,7 +7407,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -18261,7 +18266,7 @@ window.SCHEDULE = {
      "slot_id": "254022",
      "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻6",
      "category": "식품·건강",
-     "hot": 1
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -19050,8 +19055,7 @@ window.SCHEDULE = {
      "slot_id": "59491",
      "pgm": "린제이 쿨티트리 모델링팩~",
      "title": "외 13종 +팩도구+앰플증정",
-     "category": "뷰티",
-     "hot": 3
+     "category": "뷰티"
     },
     {
      "start": "10:00",
@@ -20116,8 +20120,8 @@ window.SCHEDULE = {
    "2026-09-02",
    "2026-09-03"
   ],
-  "matched": 6,
-  "unmatched": 10
+  "matched": 10,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
