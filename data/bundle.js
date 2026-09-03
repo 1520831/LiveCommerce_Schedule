@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-03T11:12:51+09:00",
+ "generated_at": "2026-09-03T14:12:04+09:00",
  "today": "2026-09-03",
  "dates": [
   "2026-09-02",
@@ -2659,7 +2659,7 @@ window.SCHEDULE = {
      "pgm": "드엘리사적인시선",
      "pgm_cd": "1053",
      "cast": "influencer",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "11:00",
@@ -7022,7 +7022,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -7223,7 +7223,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -7407,7 +7407,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -8305,7 +8305,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -8504,7 +8505,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "패션",
-     "hot": 8
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -18266,8 +18267,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/1928144098",
      "slot_id": "254022",
      "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻6",
-     "category": "유아동",
-     "hot": 9
+     "category": "유아동"
     },
     {
      "start": "08:00",
