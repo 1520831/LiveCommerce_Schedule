@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-09-03T14:25:15+09:00",
+ "updated_at": "2026-09-03T18:14:02+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -541,9 +541,9 @@
     "start": "10:00",
     "end": "10:59",
     "brand": "하베브릭스",
-    "product": "[공구]  바람개비 아기체육관+ 6in1 변신큐브",
-    "price": 85000,
-    "link": "https://item.cjonstyle.com/item/2084416293?channelCode=30002002",
+    "product": "[짱구 pick] 첫 몬테소리 꼬마몬테북+기차놀이+푸시푸시 자동차+회전 링쌓기",
+    "price": 147000,
+    "link": "https://item.cjonstyle.com/item/2092459354?channelCode=30002002",
     "slot_id": "28822",
     "title": "희아패밀리x하베브릭스💗회전볼 러닝테이블 최초 공개! 최대 61% 할인",
     "pgm": "인플루언서LIVE",
@@ -1205,7 +1205,7 @@
     "start": "11:00",
     "end": "11:59",
     "brand": "세라젬",
-    "product": "[9/3목 11시 드엘리사 PICK 공동구매]  [NEW]  파우제 M4 안마의자",
+    "product": "[드엘리사 PICK 공동구매][러그포함]  [NEW]  파우제 M4 안마의자",
     "price": 2185000,
     "link": "https://item.cjonstyle.com/item/2091728423?channelCode=30002002",
     "slot_id": "28415",
@@ -1633,7 +1633,7 @@
     "start": "10:00",
     "end": "10:59",
     "brand": "플로렌(FLOREN)",
-    "product": "[210만 고역가] 브로멜라인 파인애플효소 순수발효효소 탄단지분해 애사비 파인스노우 9박스+본품 3박스",
+    "product": "[210만 고역가] 브로멜라인 파인애플효소 순수발효효소 탄단지분해 애사비 파인스노우 9박스+ 3박스 더",
     "price": 564000,
     "link": "https://item.cjonstyle.com/item/2091629765?channelCode=30002002",
     "slot_id": "28852",
@@ -1673,7 +1673,7 @@
     "end": "11:59",
     "brand": "디스커버리",
     "product": "여성 퀼팅 사파리 워크 자켓 DWPD36056",
-    "price": 130730,
+    "price": 127240,
     "link": "https://item.cjonstyle.com/item/2091729214?channelCode=30002002",
     "slot_id": "28854",
     "title": "🎇디스커버리 F/W 역시즌 이월 상품 특가",
@@ -1801,20 +1801,21 @@
    {
     "start": "14:00",
     "end": "14:59",
-    "brand": "",
-    "product": "다시보는 [한정수량] 프라이 잡화✨ 썸머세일 막바지 방송에서만 최저가!",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/29041",
+    "brand": "프라이(FRYE)",
+    "product": "26SS 램스킨 위빙 호보백",
+    "price": 199100,
+    "link": "https://item.cjonstyle.com/item/2080959902?channelCode=30002002",
     "slot_id": "29041",
     "title": "다시보는 [한정수량] 프라이 잡화✨ 썸머세일 막바지 방송에서만 최저가!",
     "pgm": "라이브쇼",
-    "pgm_cd": "0214"
+    "pgm_cd": "0214",
+    "category": "잡화·슈즈"
    },
    {
     "start": "15:00",
     "end": "15:59",
     "brand": "세라젬",
-    "product": "[9/3목 11시 드엘리사 PICK 공동구매]  [NEW]  파우제 M4 안마의자",
+    "product": "[드엘리사 PICK 공동구매][러그포함]  [NEW]  파우제 M4 안마의자",
     "price": 2185000,
     "link": "https://item.cjonstyle.com/item/2091728423?channelCode=30002002",
     "slot_id": "28933",
@@ -2173,6 +2174,32 @@
     "category": "스포츠·아웃도어"
    },
    {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "칼라거펠트",
+    "product": "슈레이스 플랫슈즈",
+    "price": 30000,
+    "link": "https://item.cjonstyle.com/item/2064917632?channelCode=30002002",
+    "slot_id": "29061",
+    "title": "다시보는 칼라거펠트 잡화 클리어런스!",
+    "pgm": "라이브쇼",
+    "pgm_cd": "1008",
+    "category": "잡화·슈즈"
+   },
+   {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "나스",
+    "product": "[라이브]NEW 인세이셔블 리퀴드 블러쉬 [+핑거퍼프,거울]",
+    "price": 43350,
+    "link": "https://item.cjonstyle.com/item/2091237409?channelCode=30002002",
+    "slot_id": "29528",
+    "title": "다시보는 김해나 매드딜🖤나스 초특급 메가딜+초특급 사은품",
+    "pgm": "김해나의 매드딜",
+    "pgm_cd": "1132",
+    "category": "뷰티"
+   },
+   {
     "start": "13:00",
     "end": "13:59",
     "brand": "플로스",
@@ -2186,10 +2213,23 @@
     "category": "가구·침구"
    },
    {
+    "start": "13:00",
+    "end": "13:59",
+    "brand": "도노도노",
+    "product": "NEW 사계절 모달인견 양면 낮잠이불 풀세트(베개솜 조절/건조기 가능)",
+    "price": 149000,
+    "link": "https://item.cjonstyle.com/item/2048127422?channelCode=30002002",
+    "slot_id": "29246",
+    "title": "다시보는 맘만하니🧸 도노도노 9월 입소 준비🌙",
+    "pgm": "맘만하니",
+    "pgm_cd": "0099",
+    "category": "유아동"
+   },
+   {
     "start": "14:00",
     "end": "14:59",
     "brand": "세라젬",
-    "product": "[9/3목 11시 드엘리사 PICK 공동구매]  [NEW]  파우제 M4 안마의자",
+    "product": "[드엘리사 PICK 공동구매][러그포함]  [NEW]  파우제 M4 안마의자",
     "price": 2185000,
     "link": "https://item.cjonstyle.com/item/2091728423?channelCode=30002002",
     "slot_id": "28934",
@@ -2197,6 +2237,19 @@
     "pgm": "드엘리사적인시선",
     "pgm_cd": "1053",
     "category": "주방·잡화"
+   },
+   {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "소노호텔앤리조트",
+    "product": "[홍천 비발디파크] 소노캄 조식+(무제한)오션월드 패키지",
+    "price": 276000,
+    "link": "https://item.cjonstyle.com/item/2092514464?channelCode=30002002",
+    "slot_id": "29506",
+    "title": "다시보는🌳[홍천] 소노펠리체/빌리지/소노캄 롱스테이+무제한 오션월드?!",
+    "pgm": "럭셔리체크인",
+    "pgm_cd": "0220",
+    "category": "서비스·렌탈"
    },
    {
     "start": "15:45",
@@ -2210,6 +2263,19 @@
     "pgm": "잇솔지",
     "pgm_cd": "1109",
     "category": "여성패션"
+   },
+   {
+    "start": "16:00",
+    "end": "16:59",
+    "brand": "헬렌스타인",
+    "product": "프렌치 워셔블 양모 차렵이불 S/Q",
+    "price": 127360,
+    "link": "https://item.cjonstyle.com/item/2068170672?channelCode=30002002",
+    "slot_id": "29063",
+    "title": "다시보는 헬렌스타인 프렌치 양모 런칭! 백화점 퀄리티 호텔식무드 완성",
+    "pgm": "라이브쇼",
+    "pgm_cd": "0214",
+    "category": "가구·침구"
    },
    {
     "start": "16:00",
@@ -2236,6 +2302,19 @@
     "pgm": "라이브쇼",
     "pgm_cd": "1007",
     "category": "주방·잡화"
+   },
+   {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "에이스침대",
+    "product": "BMA1139-E CA3등급/SS(슈퍼싱글사이즈)",
+    "price": 994560,
+    "link": "https://item.cjonstyle.com/item/2083792918?channelCode=30002002",
+    "slot_id": "29064",
+    "title": "다시보는😴꿀잠의 비결 에이스침대 9월 가장 저렴한 날!",
+    "pgm": "라이브쇼",
+    "pgm_cd": "0146",
+    "category": "가구·침구"
    },
    {
     "start": "17:00",
@@ -2292,14 +2371,15 @@
    {
     "start": "19:00",
     "end": "19:59",
-    "brand": "",
-    "product": "뉴욕 본사 협업 오리지널 베라왕💕 스페셜픽 텐텐텐 특집",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/28868",
+    "brand": "베라왕",
+    "product": "26FW 오비트 올인원 탑 3종",
+    "price": 89900,
+    "link": "https://item.cjonstyle.com/item/2090402439?channelCode=30002002",
     "slot_id": "28868",
     "title": "뉴욕 본사 협업 오리지널 베라왕💕 스페셜픽 텐텐텐 특집",
     "pgm": "엣지쇼",
-    "pgm_cd": "0223"
+    "pgm_cd": "0223",
+    "category": "여성패션"
    },
    {
     "start": "19:00",
@@ -2343,6 +2423,18 @@
    {
     "start": "20:00",
     "end": "20:59",
+    "brand": "한샘",
+    "product": "엠마 컴포트 천연면피가죽 4인용 소파 3종/택1",
+    "price": 1178190,
+    "link": "https://item.cjonstyle.com/item/68875060?channelCode=30002002",
+    "slot_id": "29070",
+    "title": "다시보는 💛소파페스타💛 한샘 가구 최대 40% 파격 데이!",
+    "pgm": "라이브쇼",
+    "pgm_cd": "0146"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
     "brand": "아로셀",
     "product": "[주름 관리 정착 패키지 / 56매] 보툴케어 프라임 톡스 마스크 49매 + 슈퍼 콜라겐 마스크 7매 + [갈바닉 아이크림]",
     "price": 179000,
@@ -2365,6 +2457,31 @@
     "pgm": "라이브쇼",
     "pgm_cd": "1007",
     "category": "가구·침구"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "LG전자",
+    "product": "LG 디오스 AI 오브제 글라스 4도어 냉장고 1등급  H876GBB011 H876GGA011",
+    "price": 2380000,
+    "link": "https://item.cjonstyle.com/item/2083798840?channelCode=30002002",
+    "slot_id": "29072",
+    "title": "다시보는 LG전자 지금 구매해야 가장 싸다! 특집조건 방송에서 확인!",
+    "pgm": "라이브쇼",
+    "pgm_cd": "1006",
+    "category": "가전"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "",
+    "product": "다시보는 김치파는언니 최은희 출연! 후김치 3종+김치찌개 3종",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/29073",
+    "slot_id": "29073",
+    "title": "다시보는 김치파는언니 최은희 출연! 후김치 3종+김치찌개 3종",
+    "pgm": "인플루언서LIVE",
+    "pgm_cd": "1052"
    },
    {
     "start": "22:00",
@@ -2404,6 +2521,18 @@
     "pgm": "하우스윗",
     "pgm_cd": "1048",
     "category": "가구·침구"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "",
+    "product": "다시보는 26FW 최초 공개, 블라우스 잘하는 보르고세시아&드베로타",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/29077",
+    "slot_id": "29077",
+    "title": "다시보는 26FW 최초 공개, 블라우스 잘하는 보르고세시아&드베로타",
+    "pgm": "엣지쇼",
+    "pgm_cd": "0223"
    }
   ],
   "2026-09-06": [
@@ -2463,7 +2592,7 @@
     "start": "14:00",
     "end": "14:59",
     "brand": "세라젬",
-    "product": "[9/3목 11시 드엘리사 PICK 공동구매]  [NEW]  파우제 M4 안마의자",
+    "product": "[드엘리사 PICK 공동구매][러그포함]  [NEW]  파우제 M4 안마의자",
     "price": 2185000,
     "link": "https://item.cjonstyle.com/item/2091728423?channelCode=30002002",
     "slot_id": "28960",
@@ -2577,6 +2706,19 @@
     "category": "식품·건강"
    },
    {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "에이스침대",
+    "product": "BMA1139-E CA3등급/SS(슈퍼싱글사이즈)",
+    "price": 994560,
+    "link": "https://item.cjonstyle.com/item/2083792918?channelCode=30002002",
+    "slot_id": "29097",
+    "title": "다시보는😴꿀잠의 비결 에이스침대 9월 가장 저렴한 날!",
+    "pgm": "라이브쇼",
+    "pgm_cd": "0146",
+    "category": "가구·침구"
+   },
+   {
     "start": "20:00",
     "end": "20:59",
     "brand": "",
@@ -2651,6 +2793,44 @@
     "pgm": "하우스윗",
     "pgm_cd": "1048",
     "category": "가구·침구"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "",
+    "product": "다시보는 김치파는언니 최은희 출연! 후김치 3종+김치찌개 3종",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/29102",
+    "slot_id": "29102",
+    "title": "다시보는 김치파는언니 최은희 출연! 후김치 3종+김치찌개 3종",
+    "pgm": "인플루언서LIVE",
+    "pgm_cd": "1052"
+   },
+   {
+    "start": "22:00",
+    "end": "23:00",
+    "brand": "LG전자",
+    "product": "LG 스탠 바이미2_27LX6TPGA",
+    "price": 1170400,
+    "link": "https://item.cjonstyle.com/item/2088268753?channelCode=30002002",
+    "slot_id": "29103",
+    "title": "다시보는 전자전능⚡LG전자 스바미2 맥스&냉장고(4도어), 최대쿠폰 적용",
+    "pgm": "전자전능",
+    "pgm_cd": "1020",
+    "category": "가전"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "소노호텔앤리조트",
+    "product": "[홍천 비발디파크] 소노캄 조식+(무제한)오션월드 패키지",
+    "price": 276000,
+    "link": "https://item.cjonstyle.com/item/2092514464?channelCode=30002002",
+    "slot_id": "29507",
+    "title": "다시보는🌳[홍천] 소노펠리체/빌리지/소노캄 롱스테이+무제한 오션월드?!",
+    "pgm": "럭셔리체크인",
+    "pgm_cd": "0220",
+    "category": "서비스·렌탈"
    }
   ],
   "2026-09-07": [
@@ -2682,6 +2862,18 @@
    {
     "start": "10:00",
     "end": "10:59",
+    "brand": "",
+    "product": "[아스크라X아밍제이] 프리미엄 그리스 올리브오일🫒 아스크라 CJ론칭✨",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/29106",
+    "slot_id": "29106",
+    "title": "[아스크라X아밍제이] 프리미엄 그리스 올리브오일🫒 아스크라 CJ론칭✨",
+    "pgm": "헬스프로",
+    "pgm_cd": "1055"
+   },
+   {
+    "start": "10:00",
+    "end": "10:59",
     "brand": "아로셀",
     "product": "[주름 관리 정착 패키지 / 56매] 보툴케어 프라임 톡스 마스크 49매 + 슈퍼 콜라겐 마스크 7매 + [갈바닉 아이크림]",
     "price": 179000,
@@ -2695,14 +2887,15 @@
    {
     "start": "11:00",
     "end": "11:59",
-    "brand": "",
-    "product": "특별혜택방송✨공부습관 들이는데 이만한 게 없어요! 아이스크림 홈런🍦",
+    "brand": "아이스크림홈런",
+    "product": "[개학 시작 아이스크림 홈런]초등 스마트러닝 무료체험",
     "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/29107",
+    "link": "https://item.cjonstyle.com/item/2076585125?channelCode=30002002",
     "slot_id": "29107",
     "title": "특별혜택방송✨공부습관 들이는데 이만한 게 없어요! 아이스크림 홈런🍦",
     "pgm": "라이브쇼",
-    "pgm_cd": "0213"
+    "pgm_cd": "0213",
+    "category": "서비스·렌탈"
    },
    {
     "start": "11:00",
@@ -2716,6 +2909,18 @@
     "pgm": "집가구싶다",
     "pgm_cd": "1102",
     "category": "가전"
+   },
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "",
+    "product": "다시보는 맘만하니🧸 도노도노 9월 입소 준비🌙",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/29260",
+    "slot_id": "29260",
+    "title": "다시보는 맘만하니🧸 도노도노 9월 입소 준비🌙",
+    "pgm": "맘만하니",
+    "pgm_cd": "0099"
    },
    {
     "start": "11:30",
@@ -2784,7 +2989,7 @@
     "start": "18:00",
     "end": "18:59",
     "brand": "",
-    "product": "마지담 콩콩세트 (순콩기름+순콩기름)",
+    "product": "마지담 콩콩세트 (국산콩100% 순콩기름+순콩기름) / 쇼핑백동봉",
     "price": 69000,
     "link": "https://item.cjonstyle.com/item/2092479009?channelCode=30002002",
     "slot_id": "29113",
@@ -2843,6 +3048,19 @@
     "pgm": "맘만하니",
     "pgm_cd": "0099",
     "category": "가구·침구"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "나스",
+    "product": "[라이브]NEW 인세이셔블 리퀴드 블러쉬 [+핑거퍼프,거울]",
+    "price": 43350,
+    "link": "https://item.cjonstyle.com/item/2091237409?channelCode=30002002",
+    "slot_id": "29525",
+    "title": "다시보는 김해나 매드딜🖤나스 초특급 메가딜+초특급 사은품",
+    "pgm": "김해나의 매드딜",
+    "pgm_cd": "1132",
+    "category": "뷰티"
    },
    {
     "start": "20:00",
@@ -2941,6 +3159,18 @@
     "start": "10:00",
     "end": "10:59",
     "brand": "",
+    "product": "맘만하니&마이크로킥보드 가을 첫라이브! 맥시t프로 디럭스 최다재고 확보",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/29123",
+    "slot_id": "29123",
+    "title": "맘만하니&마이크로킥보드 가을 첫라이브! 맥시t프로 디럭스 최다재고 확보",
+    "pgm": "맘만하니",
+    "pgm_cd": "0099"
+   },
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "",
     "product": "[러브모모] 첫 방송❤️하이드로플라스크 키즈 텀블러 리뉴얼 최초 공개✨",
     "price": 0,
     "link": "https://mlive.cjonstyle.com/m/preview/29124",
@@ -2970,7 +3200,7 @@
     "price": 429000,
     "link": "https://item.cjonstyle.com/item/2092156460?channelCode=30002002",
     "slot_id": "29125",
-    "title": "[맘만하니] 인스파이어 5성급 뷔페/레스토랑 균일가패키지 ~61%🍽️",
+    "title": "[맘만하니] 인스파이어 5성급 뷔페/레스토랑 균일가패키지 ~63%🍽️",
     "pgm": "맘만하니",
     "pgm_cd": "0099",
     "category": "서비스·렌탈"
@@ -3012,6 +3242,18 @@
     "pgm": "인플루언서LIVE",
     "pgm_cd": "1052",
     "category": "유아동"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "",
+    "product": "카루셀리PICK X 마지스(MAGIS) 전상품 최저가 혜택 라이브",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/29133",
+    "slot_id": "29133",
+    "title": "카루셀리PICK X 마지스(MAGIS) 전상품 최저가 혜택 라이브",
+    "pgm": "오늘도 카루셀리PICK",
+    "pgm_cd": "1071"
    },
    {
     "start": "19:00",

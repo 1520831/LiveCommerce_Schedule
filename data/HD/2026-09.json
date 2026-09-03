@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-03T14:25:09+09:00",
+ "updated_at": "2026-09-03T18:13:56+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -638,14 +638,14 @@
     "end": "18:59",
     "brand": "수앤진골드",
     "product": "달항아리 골드바 24K 순금 0.52g",
-    "price": 175000,
+    "price": 264000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252646884",
     "slot_id": "202609026010",
     "items": [
      {
       "brand": "수앤진골드",
       "product": "달항아리 골드바 24K 순금 0.52g",
-      "price": 175000,
+      "price": 264000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252646884"
      }
     ],
@@ -811,14 +811,14 @@
     "end": "00:59",
     "brand": "수앤진골드",
     "product": "달항아리 골드바 24K 순금 0.52g",
-    "price": 175000,
+    "price": 264000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252646884",
     "slot_id": "202609036020",
     "items": [
      {
       "brand": "수앤진골드",
       "product": "달항아리 골드바 24K 순금 0.52g",
-      "price": 175000,
+      "price": 264000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252646884"
      }
     ],
@@ -1037,14 +1037,14 @@
     "start": "18:00",
     "end": "18:59",
     "brand": "단톤",
-    "product": "반팔티 DT-C0403",
+    "product": "반팔티 DT-C0197",
     "price": 130000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253108377",
     "slot_id": "202609036012",
     "items": [
      {
       "brand": "단톤",
-      "product": "반팔티 DT-C0403",
+      "product": "반팔티 DT-C0197",
       "price": 130000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253108377"
      }
@@ -1224,6 +1224,25 @@
     ],
     "title": "걷기 좋은 계절, 스케쳐스 최대 42% OFF!",
     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "미우미우",
+    "product": "미우미우 5BZ043 2IBQ F0RS5 캔버스 앤 레더 멀티 포켓 백팩",
+    "price": 3200000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253196077",
+    "slot_id": "202609046003",
+    "items": [
+     {
+      "brand": "미우미우",
+      "product": "미우미우 5BZ043 2IBQ F0RS5 캔버스 앤 레더 멀티 포켓 백팩",
+      "price": 3200000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253196077"
+     }
+    ],
+    "title": "[투명쇼] 인기 명품 60개월 나눠서 부담없이~",
+    "pgm": "투명쇼 (패션잡화)"
    },
    {
     "start": "11:00",
@@ -1516,16 +1535,16 @@
     "start": "08:00",
     "end": "08:59",
     "brand": "프라다",
-    "product": "사피아노 로고 호보백(1N204TN)",
-    "price": 2900000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252344241",
+    "product": "캣아이 오버사이즈 선글라스(0PR14WS)",
+    "price": 519000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252660023",
     "slot_id": "202609056014",
     "items": [
      {
       "brand": "프라다",
-      "product": "사피아노 로고 호보백(1N204TN)",
-      "price": 2900000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252344241"
+      "product": "캣아이 오버사이즈 선글라스(0PR14WS)",
+      "price": 519000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252660023"
      }
     ],
     "title": "[현명쇼] 프라다 신상 선글라스 4만▼",
@@ -1608,18 +1627,37 @@
     "pgm": "[위팩토리] 캠벨포도/샤인머스캣 (일반식품2)"
    },
    {
+    "start": "13:00",
+    "end": "13:59",
+    "brand": "지프레세",
+    "product": "[G.prese] 지프레세 플리츠 데님 셔츠 재킷",
+    "price": 169000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248345329",
+    "slot_id": "202609056015",
+    "items": [
+     {
+      "brand": "지프레세",
+      "product": "[G.prese] 지프레세 플리츠 데님 셔츠 재킷",
+      "price": 169000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248345329"
+     }
+    ],
+    "title": "[지프레세] 첫공개 & 15%▼ 플리츠 원피스 外",
+    "pgm": "[재방] 지프레세 의류 (패션3Lab)"
+   },
+   {
     "start": "14:00",
     "end": "14:59",
     "brand": "한민금거래소",
     "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-    "price": 274500,
+    "price": 276200,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581",
     "slot_id": "202609056016",
     "items": [
      {
       "brand": "한민금거래소",
       "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-      "price": 274500,
+      "price": 276200,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581"
      }
     ],
@@ -1630,16 +1668,16 @@
     "start": "16:00",
     "end": "17:59",
     "brand": "프라다",
-    "product": "사피아노 로고 호보백(1N204TN)",
-    "price": 2900000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252344241",
+    "product": "리나일론 숄더백(1BH226)",
+    "price": 3049000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252836187",
     "slot_id": "202609056018",
     "items": [
      {
       "brand": "프라다",
-      "product": "사피아노 로고 호보백(1N204TN)",
-      "price": 2900000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252344241"
+      "product": "리나일론 숄더백(1BH226)",
+      "price": 3049000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252836187"
      }
     ],
     "title": "[현명쇼] 버버리 트렌치코트 60만▼ 타임딜",
@@ -1766,14 +1804,14 @@
     "end": "00:59",
     "brand": "한민금거래소",
     "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-    "price": 274500,
+    "price": 276200,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581",
     "slot_id": "202609066012",
     "items": [
      {
       "brand": "한민금거래소",
       "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-      "price": 274500,
+      "price": 276200,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581"
      }
     ],
@@ -1822,19 +1860,19 @@
     "start": "10:00",
     "end": "10:59",
     "brand": "유한킴벌리생활",
-    "product": "[좋은느낌] 썸머 데이패드 생리대 대용량팩 중/대 x4",
-    "price": 32400,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253126252",
+    "product": "[좋은느낌] 오리지널 입는오버나이트 소/중/대 8x4",
+    "price": 25400,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2149887056",
     "slot_id": "202609066001",
     "items": [
      {
       "brand": "유한킴벌리생활",
-      "product": "[좋은느낌] 썸머 데이패드 생리대 대용량팩 중/대 x4",
-      "price": 32400,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253126252"
+      "product": "[좋은느낌] 오리지널 입는오버나이트 소/중/대 8x4",
+      "price": 25400,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2149887056"
      }
     ],
-    "title": "[좋은느낌/화이트] 라스트 찬스! 썸머 생리대 특별가",
+    "title": "[좋은느낌&화이트] 생리대 BEST 특별가",
     "pgm": "[집방] 좋은느낌 생리대 (액티브라이프)"
    },
    {
@@ -1955,16 +1993,16 @@
     "start": "20:00",
     "end": "20:59",
     "brand": "한민금거래소",
-    "product": "[LIVE.한민금거래소] 병오년 버건디 말 카드형 골드바 24K 순금 3.75g",
-    "price": 972700,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251968130",
+    "product": "[LIVE.한민금거래소] 병오년 블랙 말 카드형 골드바 24K 순금 7.5g",
+    "price": 1933600,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251968936",
     "slot_id": "202609066006",
     "items": [
      {
       "brand": "한민금거래소",
-      "product": "[LIVE.한민금거래소] 병오년 버건디 말 카드형 골드바 24K 순금 3.75g",
-      "price": 972700,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251968130"
+      "product": "[LIVE.한민금거래소] 병오년 블랙 말 카드형 골드바 24K 순금 7.5g",
+      "price": 1933600,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251968936"
      }
     ],
     "title": "[한민금거래소] 골드바 최대 60개월 무이자 혜택!",
@@ -2053,14 +2091,14 @@
     "end": "09:59",
     "brand": "요이츠",
     "product": "블록배색 반목 자카드 티셔츠_YJ03WRPBL03 YJ03WRPBL",
-    "price": 99000,
+    "price": 69000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253149823",
     "slot_id": "202609076004",
     "items": [
      {
       "brand": "요이츠",
       "product": "블록배색 반목 자카드 티셔츠_YJ03WRPBL03 YJ03WRPBL",
-      "price": 99000,
+      "price": 69000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253149823"
      }
     ],
@@ -2163,6 +2201,25 @@
     "pgm": "[호정과/팀도미노] 약과/홍로사과 (일반식품2)"
    },
    {
+    "start": "16:00",
+    "end": "16:59",
+    "brand": "마리나비",
+    "product": "리페어 아이크림 30ml",
+    "price": 60000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251115199",
+    "slot_id": "202609076009",
+    "items": [
+     {
+      "brand": "마리나비",
+      "product": "리페어 아이크림 30ml",
+      "price": 60000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251115199"
+     }
+    ],
+    "title": "[마리나비] 최대 70%▼ 완도 바다를 담은 스킨케어♥",
+    "pgm": "[마리나비] 스킨케어 (액티브라이프)"
+   },
+   {
     "start": "17:00",
     "end": "17:59",
     "brand": "해외직구",
@@ -2216,7 +2273,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252609617"
      }
     ],
-    "title": "[현명쇼] 가을특집 1부✨ 버버리 월 5천원대",
+    "title": "[현명쇼] 버버리 월 5천원대 전상품 무이자 60개월",
     "pgm": "현명쇼(노블레스)"
    },
    {
