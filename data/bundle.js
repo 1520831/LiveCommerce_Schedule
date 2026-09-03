@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-03T18:58:00+09:00",
+ "generated_at": "2026-09-03T19:16:34+09:00",
  "today": "2026-09-03",
  "dates": [
   "2026-09-02",
@@ -3065,7 +3065,7 @@ window.SCHEDULE = {
      "pgm_cd": "1068",
      "category": "가전",
      "cast": "influencer",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "17:00",
@@ -3090,8 +3090,7 @@ window.SCHEDULE = {
      "slot_id": "28846",
      "title": "자코모 역대급 10% 10% 10% 최대 혜택 LIVE❤️",
      "pgm": "VIVA ITALIA",
-     "pgm_cd": "1133",
-     "hot": 9
+     "pgm_cd": "1133"
     },
     {
      "start": "18:00",
@@ -7496,7 +7495,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -8603,7 +8602,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "패션",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -9745,7 +9744,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 8
     },
     {
      "start": "18:00",
@@ -22892,7 +22892,8 @@ window.SCHEDULE = {
      "slot_id": "59396",
      "pgm": "[공식단독] 시몬스 연중최대",
      "title": "자스민 특집 라이브",
-     "category": "리빙"
+     "category": "리빙",
+     "hot": 2
     },
     {
      "start": "19:00",
@@ -23896,7 +23897,7 @@ window.SCHEDULE = {
    "2026-09-02",
    "2026-09-03"
   ],
-  "matched": 8,
+  "matched": 9,
   "unmatched": 6
  },
  "fixed": {
