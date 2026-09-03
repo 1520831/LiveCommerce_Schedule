@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-04T08:46:32+09:00",
+ "generated_at": "2026-09-04T08:56:14+09:00",
  "today": "2026-09-04",
  "dates": [
   "2026-09-03",
@@ -20310,7 +20310,7 @@ window.SCHEDULE = {
      "pgm": "추석에도 가벼운 스케쳐스",
      "title": "워킹화/운동화 외 발편한슈즈",
      "category": "패션",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "08:30",
@@ -20323,7 +20323,7 @@ window.SCHEDULE = {
      "pgm": "극강의 고소함 실큰두부",
      "title": "상온 보관 멸균두부 특가",
      "category": "식품",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "08:30",
