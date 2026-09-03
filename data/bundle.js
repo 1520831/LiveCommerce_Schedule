@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-03T22:16:15+09:00",
+ "generated_at": "2026-09-03T22:31:31+09:00",
  "today": "2026-09-03",
  "dates": [
   "2026-09-02",
@@ -21942,7 +21942,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4638159692",
      "slot_id": "252095",
      "pgm": "[한가위 빅세일] 마이크로소프트 노트북 연합전",
-     "category": "디지털·PC"
+     "category": "디지털·PC",
+     "hot": 9
     },
     {
      "start": "23:00",
@@ -23897,7 +23898,7 @@ window.SCHEDULE = {
    "2026-09-02",
    "2026-09-03"
   ],
-  "matched": 9,
+  "matched": 10,
   "unmatched": 5
  },
  "fixed": {
