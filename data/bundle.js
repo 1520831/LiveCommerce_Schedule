@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-03T10:52:05+09:00",
+ "generated_at": "2026-09-03T11:12:51+09:00",
  "today": "2026-09-03",
  "dates": [
   "2026-09-02",
@@ -2604,8 +2604,7 @@ window.SCHEDULE = {
      "slot_id": "28839",
      "title": "맘만하니💙더청송 환절기 케어 우리집티/연근티 최초 공개",
      "pgm": "맘만하니",
-     "pgm_cd": "0099",
-     "hot": 8
+     "pgm_cd": "0099"
     },
     {
      "start": "10:00",
@@ -2619,8 +2618,7 @@ window.SCHEDULE = {
      "pgm": "인플루언서LIVE",
      "pgm_cd": "1052",
      "category": "가구·침구",
-     "cast": "influencer",
-     "hot": 10
+     "cast": "influencer"
     },
     {
      "start": "10:00",
@@ -2660,7 +2658,8 @@ window.SCHEDULE = {
      "title": "드엘리사 Pick, 세라젬 NEW M4부터 인기 모델 M6, V5까지💕",
      "pgm": "드엘리사적인시선",
      "pgm_cd": "1053",
-     "cast": "influencer"
+     "cast": "influencer",
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -6974,8 +6973,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 6
+     "category": "테크"
     },
     {
      "start": "09:55",
@@ -7024,7 +7022,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -7197,7 +7195,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -7225,7 +7223,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -8505,7 +8503,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "패션"
+     "category": "패션",
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -18268,7 +18267,7 @@ window.SCHEDULE = {
      "slot_id": "254022",
      "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻6",
      "category": "유아동",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "08:00",
@@ -20545,7 +20544,7 @@ window.SCHEDULE = {
    "2026-09-02",
    "2026-09-03"
   ],
-  "matched": 11,
+  "matched": 10,
   "unmatched": 5
  },
  "fixed": {
