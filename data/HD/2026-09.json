@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-03T18:13:56+09:00",
+ "updated_at": "2026-09-03T23:46:10+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -886,11 +886,17 @@
     "start": "10:00",
     "end": "10:59",
     "brand": "발렌시아가",
-    "product": "BB로고 모나코 소프트 미디엄 슬링백 숄더백 787902 2AA41 1000",
-    "price": 1518000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252752222",
+    "product": "B로고 크러쉬 퀄팅 미디엄 체인 숄더백 716393 210J0 2906",
+    "price": 1770000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252752210",
     "slot_id": "202609036004",
     "items": [
+     {
+      "brand": "발렌시아가",
+      "product": "B로고 크러쉬 퀄팅 미디엄 체인 숄더백 716393 210J0 2906",
+      "price": 1770000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252752210"
+     },
      {
       "brand": "발렌시아가",
       "product": "BB로고 모나코 소프트 미디엄 슬링백 숄더백 787902 2AA41 1000",
@@ -1094,11 +1100,17 @@
     "start": "20:00",
     "end": "20:59",
     "brand": "발렌시아가",
-    "product": "BB로고 모나코 소프트 미디엄 슬링백 숄더백 787902 2AA41 1000",
-    "price": 1518000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252752222",
+    "product": "B로고 크러쉬 퀄팅 미디엄 체인 숄더백 716393 210J0 2906",
+    "price": 1770000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252752210",
     "slot_id": "202609036022",
     "items": [
+     {
+      "brand": "발렌시아가",
+      "product": "B로고 크러쉬 퀄팅 미디엄 체인 숄더백 716393 210J0 2906",
+      "price": 1770000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252752210"
+     },
      {
       "brand": "발렌시아가",
       "product": "BB로고 모나코 소프트 미디엄 슬링백 숄더백 787902 2AA41 1000",
@@ -1133,14 +1145,14 @@
     "end": "22:59",
     "brand": "비비안",
     "product": "(BR0012C) 샌디즈 데님 노와이어 스포츠 브라 택1 BR0012C",
-    "price": 53000,
+    "price": 59000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252836749",
     "slot_id": "202609036016",
     "items": [
      {
       "brand": "비비안",
       "product": "(BR0012C) 샌디즈 데님 노와이어 스포츠 브라 택1 BR0012C",
-      "price": 53000,
+      "price": 59000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252836749"
      }
     ],
