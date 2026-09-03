@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-03T18:32:49+09:00",
+ "generated_at": "2026-09-03T18:48:12+09:00",
  "today": "2026-09-03",
  "dates": [
   "2026-09-02",
@@ -3090,7 +3090,8 @@ window.SCHEDULE = {
      "slot_id": "28846",
      "title": "자코모 역대급 10% 10% 10% 최대 혜택 LIVE❤️",
      "pgm": "VIVA ITALIA",
-     "pgm_cd": "1133"
+     "pgm_cd": "1133",
+     "hot": 9
     },
     {
      "start": "18:00",
@@ -23895,8 +23896,8 @@ window.SCHEDULE = {
    "2026-09-02",
    "2026-09-03"
   ],
-  "matched": 7,
-  "unmatched": 7
+  "matched": 8,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
