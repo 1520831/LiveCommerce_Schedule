@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-03T19:32:05+09:00",
+ "generated_at": "2026-09-03T19:46:06+09:00",
  "today": "2026-09-03",
  "dates": [
   "2026-09-02",
@@ -3065,7 +3065,7 @@ window.SCHEDULE = {
      "pgm_cd": "1068",
      "category": "가전",
      "cast": "influencer",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "17:00",
@@ -10404,7 +10404,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 8
     },
     {
      "start": "19:00",
@@ -23897,8 +23898,8 @@ window.SCHEDULE = {
    "2026-09-02",
    "2026-09-03"
   ],
-  "matched": 9,
-  "unmatched": 6
+  "matched": 10,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
