@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-04T00:20:27+09:00",
+ "generated_at": "2026-09-04T00:39:03+09:00",
  "today": "2026-09-04",
  "dates": [
   "2026-09-03",
@@ -427,7 +427,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 톰브라운 가디건 월 1만원대 특별가 한정수량",
      "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "08:00",
@@ -18679,7 +18679,7 @@ window.SCHEDULE = {
    "2026-09-04"
   ],
   "matched": 6,
-  "unmatched": 7
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
