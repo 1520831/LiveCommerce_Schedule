@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-03T10:39:43+09:00",
+ "generated_at": "2026-09-03T10:52:05+09:00",
  "today": "2026-09-03",
  "dates": [
   "2026-09-02",
@@ -2619,7 +2619,8 @@ window.SCHEDULE = {
      "pgm": "인플루언서LIVE",
      "pgm_cd": "1052",
      "category": "가구·침구",
-     "cast": "influencer"
+     "cast": "influencer",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -20544,8 +20545,8 @@ window.SCHEDULE = {
    "2026-09-02",
    "2026-09-03"
   ],
-  "matched": 10,
-  "unmatched": 6
+  "matched": 11,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
