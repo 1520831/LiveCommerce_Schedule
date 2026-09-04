@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-04T09:37:49+09:00",
+ "generated_at": "2026-09-04T09:51:31+09:00",
  "today": "2026-09-04",
  "dates": [
   "2026-09-03",
@@ -20336,7 +20336,7 @@ window.SCHEDULE = {
      "pgm": "메디힐 BEST 전품목 할인",
      "title": "여름 피지각질 클렌징 케어",
      "category": "뷰티",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "10:00",
