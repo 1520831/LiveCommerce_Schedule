@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-05T08:10:25+09:00",
+ "generated_at": "2026-09-05T08:26:28+09:00",
  "today": "2026-09-05",
  "dates": [
   "2026-09-04",
@@ -470,7 +470,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 버버리 60개월 무이자",
      "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "07:00",
@@ -490,7 +490,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 에클랏 신상공개! 월 7천원대~",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "08:00",
@@ -510,7 +510,7 @@ window.SCHEDULE = {
      ],
      "title": "[현명쇼] 프라다 신상 선글라스 4만▼",
      "pgm": "[재방] 현명쇼 (노블레스팀)",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "09:00",
@@ -23804,7 +23804,7 @@ window.SCHEDULE = {
    "2026-09-05"
   ],
   "matched": 10,
-  "unmatched": 5
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
