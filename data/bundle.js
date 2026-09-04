@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-04T10:57:04+09:00",
+ "generated_at": "2026-09-04T11:13:20+09:00",
  "today": "2026-09-04",
  "dates": [
   "2026-09-03",
@@ -2460,8 +2460,7 @@ window.SCHEDULE = {
      "title": "[맘만하니] 올인원 효소 플로렌💕효소+유산균+애사비+이너뷰티~65%✨",
      "pgm": "맘만하니",
      "pgm_cd": "0099",
-     "category": "식품·건강",
-     "hot": 8
+     "category": "식품·건강"
     },
     {
      "start": "10:00",
@@ -7289,8 +7288,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 3
+     "category": "푸드"
     },
     {
      "start": "10:00",
@@ -7321,7 +7319,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -7464,7 +7462,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 9
     },
     {
      "start": "10:30",
@@ -7626,7 +7625,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "10:30",
@@ -19331,7 +19330,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/2191515947",
      "slot_id": "252120",
      "pgm": "⭐️크록스 연중 최대혜택⭐️추석 빅세일 라스트 찬스!",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -19353,7 +19352,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4679710503",
      "slot_id": "254050",
      "pgm": "✨추석은 G마켓 로보락! S10 MaxV Ultra",
-     "category": "가전"
+     "category": "가전",
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -20316,7 +20316,7 @@ window.SCHEDULE = {
      "pgm": "추석에도 가벼운 스케쳐스",
      "title": "워킹화/운동화 외 발편한슈즈",
      "category": "패션",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "08:30",
@@ -21525,7 +21525,7 @@ window.SCHEDULE = {
    "2026-09-04"
   ],
   "matched": 14,
-  "unmatched": 4
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
