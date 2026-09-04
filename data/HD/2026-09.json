@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-04T23:44:52+09:00",
+ "updated_at": "2026-09-05T07:10:11+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -1324,14 +1324,14 @@
     "end": "14:59",
     "brand": "김씨언니마켓",
     "product": "생강청 수제 생강차 600gX3병 김씨언니마켓",
-    "price": 41900,
+    "price": 67900,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2238849371",
     "slot_id": "202609046007",
     "items": [
      {
       "brand": "김씨언니마켓",
       "product": "생강청 수제 생강차 600gX3병 김씨언니마켓",
-      "price": 41900,
+      "price": 67900,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2238849371"
      }
     ],
@@ -1399,14 +1399,14 @@
     "end": "17:59",
     "brand": "밋앤밀",
     "product": "[정채움] 삼겹살 2kg 세트 (구이용 400g 3팩 + 수육용 400g 2팩)",
-    "price": 34200,
+    "price": 34900,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253177603",
     "slot_id": "202609046010",
     "items": [
      {
       "brand": "밋앤밀",
       "product": "[정채움] 삼겹살 2kg 세트 (구이용 400g 3팩 + 수육용 400g 2팩)",
-      "price": 34200,
+      "price": 34900,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253177603"
      }
     ],
@@ -1436,14 +1436,14 @@
     "end": "18:59",
     "brand": "마쟈",
     "product": "카메라 프린트 배색 브이넥 스트라이프 니트 ZE08QK004NA",
-    "price": 39000,
+    "price": 55900,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2236807142",
     "slot_id": "202609046011",
     "items": [
      {
       "brand": "마쟈",
       "product": "카메라 프린트 배색 브이넥 스트라이프 니트 ZE08QK004NA",
-      "price": 39000,
+      "price": 55900,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2236807142"
      }
     ],
@@ -1455,14 +1455,14 @@
     "end": "19:59",
     "brand": "삼성금거래소",
     "product": "말 실버바 Silver Bar 100g",
-    "price": 430000,
+    "price": 450000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247975417",
     "slot_id": "202609046012",
     "items": [
      {
       "brand": "삼성금거래소",
       "product": "말 실버바 Silver Bar 100g",
-      "price": 430000,
+      "price": 450000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247975417"
      }
     ],
@@ -1666,14 +1666,14 @@
     "end": "10:59",
     "brand": "아이러브경북",
     "product": "쿠라빌 국산 프로폴리스 100ml",
-    "price": 76900,
+    "price": 49900,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251747158",
     "slot_id": "202609056002",
     "items": [
      {
       "brand": "아이러브경북",
       "product": "쿠라빌 국산 프로폴리스 100ml",
-      "price": 76900,
+      "price": 49900,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251747158"
      }
     ],
@@ -1818,14 +1818,14 @@
     "end": "19:59",
     "brand": "Playback",
     "product": "[PlayBack] 에어포스 모헤어가디건",
-    "price": 420000,
+    "price": 336000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253143560",
     "slot_id": "202609056006",
     "items": [
      {
       "brand": "Playback",
       "product": "[PlayBack] 에어포스 모헤어가디건",
-      "price": 420000,
+      "price": 336000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253143560"
      }
     ],
@@ -2238,14 +2238,14 @@
     "end": "23:59",
     "brand": "파슨스",
     "product": "퓨어 라인 스트링 블라우스 [WHRT9BL02]",
-    "price": 89000,
+    "price": 53400,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253150936",
     "slot_id": "202609066009",
     "items": [
      {
       "brand": "파슨스",
       "product": "퓨어 라인 스트링 블라우스 [WHRT9BL02]",
-      "price": 89000,
+      "price": 53400,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253150936"
      }
     ],
@@ -3074,6 +3074,103 @@
     ],
     "title": "타미진 인기 상품 방송 중 최대 20% 쿠폰",
     "pgm": "현대렐라쇼 (멀티커머스)"
+   }
+  ],
+  "2026-09-10": [
+   {
+    "start": "08:00",
+    "end": "08:59",
+    "brand": "BCBG",
+    "product": "[비씨비지] 원스킬 SK (B5F8S233) B5F8S233",
+    "price": 279000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253199459",
+    "slot_id": "202609106002",
+    "items": [
+     {
+      "brand": "BCBG",
+      "product": "[비씨비지] 원스킬 SK (B5F8S233) B5F8S233",
+      "price": 279000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253199459"
+     }
+    ],
+    "title": "BCBG 9월 클래식룩! 추가 적립 혜택까지❤️",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "슈콤마보니",
+    "product": "슈콤마보니 아치 슬링백 슈즈 (블랙) DG2DA26501BLK DG2DA26501BLK",
+    "price": 348000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252711443",
+    "slot_id": "202609106003",
+    "items": [
+     {
+      "brand": "슈콤마보니",
+      "product": "슈콤마보니 아치 슬링백 슈즈 (블랙) DG2DA26501BLK DG2DA26501BLK",
+      "price": 348000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252711443"
+     }
+    ],
+    "title": "[슈콤마보니] 26FW 신상품 + 시즌오프 특별가!",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "크록스",
+    "product": "공용 에코 클로그 207937-2YJ 본/멀티 HM",
+    "price": 74900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252765012",
+    "slot_id": "202609106005",
+    "items": [
+     {
+      "brand": "크록스",
+      "product": "공용 에코 클로그 207937-2YJ 본/멀티 HM",
+      "price": 74900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252765012"
+     }
+    ],
+    "title": "[크록스] 클로그 쇼라 특별 혜택가🩴",
+    "pgm": "[크록스] 슈즈 (멀티커머스)"
+   },
+   {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "아이러브경북",
+    "product": "다정다감푸드 마음담은 반건시 2호",
+    "price": 42200,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250313243",
+    "slot_id": "202609106009",
+    "items": [
+     {
+      "brand": "아이러브경북",
+      "product": "다정다감푸드 마음담은 반건시 2호",
+      "price": 42200,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250313243"
+     }
+    ],
+    "title": "상주 특산물 곶감 선물세트&씨없는 적포도 레드클라렛!",
+    "pgm": "[위팩토리] 곶감/샤인머스캣 (일반식품2)"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "샹테카이",
+    "product": "[샹테카이] (라이브) 퓨처 스킨 쿠션 세트 (+쿠션 리필 증정)",
+    "price": 219000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252975800",
+    "slot_id": "202609106015",
+    "items": [
+     {
+      "brand": "샹테카이",
+      "product": "[샹테카이] (라이브) 퓨처 스킨 쿠션 세트 (+쿠션 리필 증정)",
+      "price": 219000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252975800"
+     }
+    ],
+    "title": "[샹테카이] 26FW 리미티드 아이/치크 마지막물량",
+    "pgm": "[샹테카이] 뷰티 (멀티커머스)"
    }
   ]
  }
