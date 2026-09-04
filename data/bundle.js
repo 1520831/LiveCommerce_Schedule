@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-04T09:51:31+09:00",
+ "generated_at": "2026-09-04T10:07:23+09:00",
  "today": "2026-09-04",
  "dates": [
   "2026-09-03",
@@ -19325,7 +19325,8 @@ window.SCHEDULE = {
      "price": 38900,
      "link": "https://m.gmarket.co.kr/vi/product/2191515947",
      "slot_id": "252120",
-     "pgm": "⭐️크록스 연중 최대혜택⭐️추석 빅세일 라스트 찬스!"
+     "pgm": "⭐️크록스 연중 최대혜택⭐️추석 빅세일 라스트 찬스!",
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -20323,7 +20324,7 @@ window.SCHEDULE = {
      "pgm": "극강의 고소함 실큰두부",
      "title": "상온 보관 멸균두부 특가",
      "category": "식품",
-     "hot": 2
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -20335,8 +20336,7 @@ window.SCHEDULE = {
      "slot_id": "59474",
      "pgm": "메디힐 BEST 전품목 할인",
      "title": "여름 피지각질 클렌징 케어",
-     "category": "뷰티",
-     "hot": 7
+     "category": "뷰티"
     },
     {
      "start": "10:00",
