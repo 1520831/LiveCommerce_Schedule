@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-04T20:12:59+09:00",
+ "generated_at": "2026-09-04T20:29:22+09:00",
  "today": "2026-09-04",
  "dates": [
   "2026-09-03",
@@ -22870,7 +22870,7 @@ window.SCHEDULE = {
      "slot_id": "254050",
      "pgm": "✨추석은 G마켓 로보락! S10 MaxV Ultra",
      "category": "가전",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -23068,7 +23068,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4747655463",
      "slot_id": "252105",
      "pgm": "ACER x 엔비디아 한가위 빅세일 특가!",
-     "category": "디지털·PC"
+     "category": "디지털·PC",
+     "hot": 10
     },
     {
      "start": "20:00",
@@ -23080,7 +23081,7 @@ window.SCHEDULE = {
      "slot_id": "252121",
      "pgm": "추석맞이, 풍성한 혜택과 라인업 LG 울트라기어🎁",
      "category": "디지털·PC",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "20:00",
@@ -25151,8 +25152,8 @@ window.SCHEDULE = {
    "2026-09-03",
    "2026-09-04"
   ],
-  "matched": 14,
-  "unmatched": 4
+  "matched": 15,
+  "unmatched": 3
  },
  "fixed": {
   "rows": [
