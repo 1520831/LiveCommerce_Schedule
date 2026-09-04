@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-05T08:36:41+09:00",
+ "generated_at": "2026-09-05T08:46:22+09:00",
  "today": "2026-09-05",
  "dates": [
   "2026-09-04",
@@ -489,8 +489,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[노블리타] 에클랏 신상공개! 월 7천원대~",
-     "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 9
+     "pgm": "[재방] 노블리타 (노블레스)"
     },
     {
      "start": "08:00",
@@ -510,7 +509,7 @@ window.SCHEDULE = {
      ],
      "title": "[현명쇼] 프라다 신상 선글라스 4만▼",
      "pgm": "[재방] 현명쇼 (노블레스팀)",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "09:00",
@@ -23803,8 +23802,8 @@ window.SCHEDULE = {
    "2026-09-04",
    "2026-09-05"
   ],
-  "matched": 10,
-  "unmatched": 6
+  "matched": 9,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
