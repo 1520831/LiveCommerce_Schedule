@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-09-04T07:10:42+09:00",
+ "updated_at": "2026-09-04T12:09:41+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -481,9 +481,9 @@
     "start": "20:30",
     "end": "21:31",
     "brand": "에뛰드",
-    "product": "럭키박스(본품 + 증정)",
-    "price": 38000,
-    "link": "https://gift.kakao.com/product/14146568?url=product&cId=14146568",
+    "product": "[에뛰드X가나디] 포근 픽싱 틴트 듀오세트 + 가나디 미니 키링 증정",
+    "price": 21000,
+    "link": "https://gift.kakao.com/product/13013136?url=product&cId=13013136",
     "slot_id": "59409",
     "pgm": "단 1시간! 에뛰드 단독",
     "title": "럭키박스&1+1 혜택!",
@@ -505,7 +505,7 @@
   "2026-09-04": [
    {
     "start": "08:30",
-    "end": "11:30",
+    "end": "09:51",
     "brand": "스케쳐스코리아 본사",
     "product": "[스케쳐스 브랜드데이] 추석 선물 지금이 기회! BEST 워킹화/운동화/아치핏/슬립인스 ~33%+쿠폰",
     "price": 99000,
@@ -517,7 +517,7 @@
    },
    {
     "start": "08:30",
-    "end": "11:30",
+    "end": "09:51",
     "brand": "에스더블유코리아",
     "product": "사토노유키 실큰두부 300g 12개, 고소한 상온보관 멸균두부",
     "price": 48000,
@@ -529,7 +529,7 @@
    },
    {
     "start": "08:30",
-    "end": "10:00",
+    "end": "09:51",
     "brand": "메디힐",
     "product": "메디힐 더마 패드/에센셜마스크/팩클렌저 모음딜",
     "price": 60000,
@@ -540,8 +540,20 @@
     "category": "뷰티"
    },
    {
+    "start": "09:38",
+    "end": "10:50",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49900,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "59865",
+    "pgm": "터치그라운드 쿠셔닝슬리퍼",
+    "title": "날도 더워지는데 구매각?!",
+    "category": "패션"
+   },
+   {
     "start": "10:00",
-    "end": "13:00",
+    "end": "11:04",
     "brand": "스케쳐스코리아 본사",
     "product": "[스케쳐스키즈 브랜드데이] 신학기 추석 특가! 슬립인스/반짝 라이트/운동화 ~28%+쿠폰",
     "price": 69000,
@@ -553,7 +565,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:00",
     "brand": "마이픽",
     "product": "[자꾸만 생각나는 건강 간식] 왓더파머스 바삭바삭 저당 제로 과자 10종 모음 골라담기",
     "price": 62000,
@@ -640,24 +652,12 @@
     "end": "01:00",
     "brand": "바비브라운",
     "product": "[추석 Lip Set] 엑스트라 립 세트 (+ 미니 립 세럼 베어핑크 증정)",
-    "price": 98000,
+    "price": 78400,
     "link": "https://gift.kakao.com/product/14184805?url=product&cId=14184805",
     "slot_id": "59561",
     "pgm": "바비브라운이 준비한",
     "title": "추석 선물 set ~25%",
     "category": "뷰티"
-   },
-   {
-    "start": "22:30",
-    "end": "00:00",
-    "brand": "터치그라운드 스니커즈",
-    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-    "price": 49900,
-    "link": "https://store.kakao.com/touchground/products/774098244",
-    "slot_id": "59865",
-    "pgm": "터치그라운드 쿠셔닝슬리퍼",
-    "title": "날도 더워지는데 구매각?!",
-    "category": "패션"
    }
   ],
   "2026-09-05": [
@@ -756,6 +756,18 @@
     "pgm": "매콤찬 고추다짐이",
     "title": "카쇼라 단독 할인!",
     "category": "식품"
+   },
+   {
+    "start": "22:30",
+    "end": "00:00",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49900,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "59903",
+    "pgm": "터치그라운드 발편한운동화",
+    "title": "가벼우면서 쿠션감 좋은운동화",
+    "category": "패션"
    }
   ],
   "2026-09-06": [
@@ -880,6 +892,18 @@
     "category": "여행",
     "rerun": true,
     "rerun_of": "59423"
+   },
+   {
+    "start": "22:30",
+    "end": "00:00",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49900,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "59904",
+    "pgm": "터치그라운드 쿠셔닝슬리퍼",
+    "title": "날도 더워지는데 구매각?!",
+    "category": "패션"
    }
   ],
   "2026-09-07": [
@@ -972,7 +996,7 @@
     "end": "13:00",
     "brand": "도로시",
     "product": "[9/7월 카쇼라][선물포장]실버 베젤 모이사나이트 목걸이_1캐럿",
-    "price": 106500,
+    "price": 142000,
     "link": "https://gift.kakao.com/product/13510542?url=product&cId=13510542",
     "slot_id": "59255",
     "pgm": "도로시주얼리 베젤 주얼리",
@@ -1054,9 +1078,9 @@
     "start": "19:00",
     "end": "20:30",
     "brand": "쿠쿠전자(주)",
-    "product": "",
-    "price": 0,
-    "link": "https://shoppinglive.kakao.com/live/59357",
+    "product": "쿠쿠 에코웨일 큐브 메가 3L 음식물처리기 눌음방지 (국내 생산)",
+    "price": 769000,
+    "link": "https://store.kakao.com/cuckooel/products/779037456",
     "slot_id": "59357",
     "pgm": "큐브 메가 3L 음식물처리기",
     "title": "런칭라이브! with김규원",
@@ -1126,9 +1150,9 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "앤유즈",
-    "product": "앤유즈 에이프릴즈 달빛 기초 3종세트(미스트+에센스+크림)",
-    "price": 157000,
-    "link": "https://store.kakao.com/nyouse/products/734417894",
+    "product": "앤유즈 에이프릴즈 달빛 크림 1+1",
+    "price": 110000,
+    "link": "https://store.kakao.com/nyouse/products/733678088",
     "slot_id": "59528",
     "pgm": "앤유즈 연중 3대 행사",
     "title": "추석 기획전",
@@ -1145,6 +1169,18 @@
     "pgm": "닥터블릿 나이트버닝 프로",
     "title": "멈춘 체지방 다시 태울 시간",
     "category": "식품"
+   },
+   {
+    "start": "22:30",
+    "end": "00:00",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49900,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "59905",
+    "pgm": "터치그라운드 발편한운동화",
+    "title": "가벼우면서 쿠션감 좋은운동화",
+    "category": "패션"
    }
   ],
   "2026-09-08": [
@@ -1308,7 +1344,7 @@
     "end": "22:00",
     "brand": "VANS 공식 온라인스토어",
     "product": "[반스 공식] 가을 BEST 스니커즈 & 메리제인 특가전 최대~63%",
-    "price": 19000,
+    "price": 29000,
     "link": "https://store.kakao.com/vans/products/617607556",
     "slot_id": "59342",
     "pgm": "온가족 데일리슈즈 반스",
@@ -1637,8 +1673,8 @@
     "price": 238000,
     "link": "https://store.kakao.com/smartinfini01/products/781498192",
     "slot_id": "59428",
-    "pgm": "소노벨 천안_휴식의 즐거움",
-    "title": "객실+조식+오션+부대시설",
+    "pgm": "소노벨 천안_패키지 23만~",
+    "title": "조식+워터파크+키즈클럽 외",
     "category": "여행"
    },
    {
@@ -1669,7 +1705,7 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "동국제약 뉴트리션",
-    "product": "[바글이X동국제약] 초특가 싹쓸이 건강대전~84% / 올인원 멀티비타민외+무설탕캔디 딸기맛 증정",
+    "product": "[바글이X동국제약] 싹쓸이 건강대전~84% / 올인원 멀티비타민외+무설탕캔디 딸기맛 증정",
     "price": 70000,
     "link": "https://store.kakao.com/dknutrition/products/365491097",
     "slot_id": "59444",
@@ -1700,6 +1736,20 @@
     "pgm": "이너시아 유기농생리대 모음전",
     "title": "식물성 천연흡수체&순면커버",
     "category": "리빙"
+   },
+   {
+    "start": "20:30",
+    "end": "23:30",
+    "brand": "웹투어(주)",
+    "product": "[풀만 앰배서더 서울 이스트폴] 한강뷰 객실UP/조식+객실UP/이브닝 디너 코스 패키지_소인 조식 무료 특전_수영장/피트니스",
+    "price": 990000,
+    "link": "https://store.kakao.com/webtour/products/675232630",
+    "slot_id": "59902",
+    "pgm": "앵콜! 풀만 서울 이스트폴",
+    "title": "객실 UP & 조식 패키지",
+    "category": "여행",
+    "rerun": true,
+    "rerun_of": "59424"
    }
   ]
  }
