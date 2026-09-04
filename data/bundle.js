@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-04T19:15:08+09:00",
+ "generated_at": "2026-09-04T19:30:17+09:00",
  "today": "2026-09-04",
  "dates": [
   "2026-09-03",
@@ -8939,7 +8939,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "13:00",
@@ -22962,8 +22962,7 @@ window.SCHEDULE = {
      "slot_id": "252153",
      "pgm": "[앵콜]🌕한가위빅세일! LG가전 BEST 특집",
      "rerun": true,
-     "category": "가전",
-     "hot": 10
+     "category": "가전"
     },
     {
      "start": "15:00",
@@ -25152,8 +25151,8 @@ window.SCHEDULE = {
    "2026-09-03",
    "2026-09-04"
   ],
-  "matched": 15,
-  "unmatched": 3
+  "matched": 14,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
