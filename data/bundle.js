@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-04T20:43:40+09:00",
+ "generated_at": "2026-09-04T20:54:56+09:00",
  "today": "2026-09-04",
  "dates": [
   "2026-09-03",
@@ -3039,7 +3039,7 @@ window.SCHEDULE = {
      "pgm_cd": "1068",
      "category": "가전",
      "cast": "influencer",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "16:00",
@@ -3182,7 +3182,7 @@ window.SCHEDULE = {
      "pgm": "하우스윗",
      "pgm_cd": "1048",
      "category": "가구·침구",
-     "hot": 10
+     "hot": 7
     },
     {
      "start": "20:00",
@@ -8070,7 +8070,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -22869,7 +22869,7 @@ window.SCHEDULE = {
      "slot_id": "254050",
      "pgm": "✨추석은 G마켓 로보락! S10 MaxV Ultra",
      "category": "가전",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "11:00",
@@ -23068,7 +23068,7 @@ window.SCHEDULE = {
      "slot_id": "252105",
      "pgm": "ACER x 엔비디아 한가위 빅세일 특가!",
      "category": "디지털·PC",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "20:00",
@@ -23080,7 +23080,7 @@ window.SCHEDULE = {
      "slot_id": "252121",
      "pgm": "추석맞이, 풍성한 혜택과 라인업 LG 울트라기어🎁",
      "category": "디지털·PC",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "20:00",
