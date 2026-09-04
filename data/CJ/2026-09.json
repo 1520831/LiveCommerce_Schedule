@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-09-04T18:14:02+09:00",
+ "updated_at": "2026-09-04T23:44:58+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -1358,9 +1358,9 @@
     "start": "16:00",
     "end": "17:00",
     "brand": "브레빌",
-    "product": "바리스타 익스프레스™ 임프레스 실버 BES876",
+    "product": "바리스타 익스프레스™ 임프레스 화이트 BES876",
     "price": 1220000,
-    "link": "https://item.cjonstyle.com/item/2039924158?channelCode=30002002",
+    "link": "https://item.cjonstyle.com/item/2039924151?channelCode=30002002",
     "slot_id": "29023",
     "title": "다시보는✨까사림 공구! 브레빌 876, 881 이 공구가격 마지막!",
     "pgm": "까사림의 감성하우스",
@@ -1826,9 +1826,9 @@
     "start": "16:00",
     "end": "17:00",
     "brand": "브레빌",
-    "product": "바리스타 익스프레스™ 임프레스 실버 BES876",
+    "product": "바리스타 익스프레스™ 임프레스 화이트 BES876",
     "price": 1220000,
-    "link": "https://item.cjonstyle.com/item/2039924158?channelCode=30002002",
+    "link": "https://item.cjonstyle.com/item/2039924151?channelCode=30002002",
     "slot_id": "29042",
     "title": "다시보는✨까사림 공구! 브레빌 876, 881 이 공구가격 마지막!",
     "pgm": "까사림의 감성하우스",
@@ -1904,7 +1904,7 @@
     "end": "19:59",
     "brand": "락포트",
     "product": "[공식정품] NEW 트루테크 새틴 메리제인 스니커즈",
-    "price": 134100,
+    "price": 149000,
     "link": "https://item.cjonstyle.com/item/2089145922?channelCode=30002002",
     "slot_id": "28859",
     "title": "락포트 26FW 최신상 최초공개💗미리주문10%쿠폰",
@@ -2567,7 +2567,7 @@
     "end": "09:59",
     "brand": "락포트",
     "product": "[공식정품] NEW 트루테크 새틴 메리제인 스니커즈",
-    "price": 134100,
+    "price": 149000,
     "link": "https://item.cjonstyle.com/item/2089145922?channelCode=30002002",
     "slot_id": "29080",
     "title": "다시보는 락포트 26FW 최신상 최초공개💗",
@@ -2864,15 +2864,14 @@
    {
     "start": "20:00",
     "end": "20:59",
-    "brand": "보떼덤",
-    "product": "[보떼덤]엘리시어 에센스3EA+샘플2EA",
-    "price": 189000,
-    "link": "https://item.cjonstyle.com/item/2092471346?channelCode=30002002",
+    "brand": "",
+    "product": "잘사는💚에스테틱 물광템 보떼덤 에센스 최초 공개!",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/28873",
     "slot_id": "28873",
     "title": "잘사는💚에스테틱 물광템 보떼덤 에센스 최초 공개!",
     "pgm": "잘사는 언니들",
-    "pgm_cd": "1028",
-    "category": "뷰티"
+    "pgm_cd": "1028"
    },
    {
     "start": "20:00",
@@ -3253,7 +3252,7 @@
     "start": "17:00",
     "end": "17:59",
     "brand": "무랄리아",
-    "product": "햇올리브유  랍스터 500ml",
+    "product": "무랄리아 햇 올리브오일 랍스터 500ml",
     "price": 89000,
     "link": "https://item.cjonstyle.com/item/2092476173?channelCode=30002002",
     "slot_id": "29112",
@@ -3499,7 +3498,7 @@
     "end": "22:59",
     "brand": "락포트",
     "product": "[공식정품] NEW 트루테크 새틴 메리제인 스니커즈",
-    "price": 134100,
+    "price": 149000,
     "link": "https://item.cjonstyle.com/item/2089145922?channelCode=30002002",
     "slot_id": "29274",
     "title": "다시보는 락포트 26FW 최신상 최초공개💗",
@@ -3523,15 +3522,14 @@
    {
     "start": "23:00",
     "end": "23:59",
-    "brand": "보떼덤",
-    "product": "[보떼덤]엘리시어 에센스3EA+샘플2EA",
-    "price": 189000,
-    "link": "https://item.cjonstyle.com/item/2092471346?channelCode=30002002",
+    "brand": "",
+    "product": "다시보는 잘사는💚에스테틱 물광템 보떼덤 에센스 최초 공개!",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/29276",
     "slot_id": "29276",
     "title": "다시보는 잘사는💚에스테틱 물광템 보떼덤 에센스 최초 공개!",
     "pgm": "잘사는 언니들",
-    "pgm_cd": "1028",
-    "category": "뷰티"
+    "pgm_cd": "1028"
    },
    {
     "start": "23:00",
@@ -3727,6 +3725,18 @@
     "category": "가구·침구"
    },
    {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "",
+    "product": "스틸웍스/스틸웍스 믹싱볼",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/29130",
+    "slot_id": "29130",
+    "title": "스틸웍스/스틸웍스 믹싱볼",
+    "pgm": "류니키친",
+    "pgm_cd": "1088"
+   },
+   {
     "start": "19:00",
     "end": "19:59",
     "brand": "신영와코루",
@@ -3793,6 +3803,19 @@
    {
     "start": "20:00",
     "end": "20:59",
+    "brand": "LG전자",
+    "product": "2026 NEW LG 스타일러 스티머 5벌+바지1벌 블랙틴트미러_SC5GMR80S",
+    "price": 2204000,
+    "link": "https://item.cjonstyle.com/item/2087720245?channelCode=30002002",
+    "slot_id": "29135",
+    "title": "영업1번지📢LG전자 앵콜 스타일러 ~34% 냉장고 ~39% 빠른 배송",
+    "pgm": "영업1번지",
+    "pgm_cd": "1121",
+    "category": "가전"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
     "brand": "에싸",
     "product": "마제티 4인 스윙기능 크라비츠 패브릭 소파",
     "price": 2828520,
@@ -3806,14 +3829,15 @@
    {
     "start": "21:00",
     "end": "21:59",
-    "brand": "",
-    "product": "아이그너 26FW 신상 의류 / 가방 / 신발✨ 방송 중에만 이 가격!",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/29137",
+    "brand": "아이그너",
+    "product": "카라 셔츠 배색 풀오버",
+    "price": 143100,
+    "link": "https://item.cjonstyle.com/item/2089149753?channelCode=30002002",
     "slot_id": "29137",
     "title": "아이그너 26FW 신상 의류 / 가방 / 신발✨ 방송 중에만 이 가격!",
     "pgm": "라이브쇼",
-    "pgm_cd": "1008"
+    "pgm_cd": "1008",
+    "category": "여성패션"
    },
    {
     "start": "21:00",
@@ -3946,6 +3970,19 @@
    {
     "start": "17:00",
     "end": "17:59",
+    "brand": "락포트",
+    "product": "토탈모션 안냐 레이스업 TOTAL MOTION AANYA LACEUP (CJ2560)",
+    "price": 134400,
+    "link": "https://item.cjonstyle.com/item/2031068566?channelCode=30002002",
+    "slot_id": "28774",
+    "title": "매일 신는 락포트 26FW 신상 최초 공개! 6만 원대~ 무료 교환 혜택",
+    "pgm": "브랜디드 라이브쇼",
+    "pgm_cd": "1130",
+    "category": "잡화·슈즈"
+   },
+   {
+    "start": "17:00",
+    "end": "17:59",
     "brand": "삼익가구",
     "product": "업핏 모션데스크 1400 오픈 책장 세트 시리즈",
     "price": 549000,
@@ -3955,6 +3992,19 @@
     "pgm": "인플루언서LIVE",
     "pgm_cd": "1052",
     "category": "가구·침구"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "CJ제일제당",
+    "product": "비비고 고단백 올리브오일 연어스테이크 60gx4개+틸라피아스테이크 70g x4개",
+    "price": 49200,
+    "link": "https://item.cjonstyle.com/item/2081407212?channelCode=30002002",
+    "slot_id": "29143",
+    "title": "강추혜 특집🥟유용욱 셰프 갈비만두🐟연어 스테이크 특가",
+    "pgm": "푸드온다",
+    "pgm_cd": "1018",
+    "category": "식품·건강"
    },
    {
     "start": "18:00",
@@ -3980,6 +4030,18 @@
     "title": "엣지쇼❤️셀렙샵 버니 풀오버 최초공개 外",
     "pgm": "엣지쇼",
     "pgm_cd": "0223"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "",
+    "product": "[준성담 X 비아신세계] 이탈리아의 예술에서 풍경으로, 그리고 삶 속으로",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/29146",
+    "slot_id": "29146",
+    "title": "[준성담 X 비아신세계] 이탈리아의 예술에서 풍경으로, 그리고 삶 속으로",
+    "pgm": "VIVA ITALIA",
+    "pgm_cd": "1133"
    },
    {
     "start": "19:00",

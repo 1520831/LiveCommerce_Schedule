@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-09-04T18:14:10+09:00",
+ "updated_at": "2026-09-04T23:45:08+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -589,19 +589,7 @@
    },
    {
     "start": "19:00",
-    "end": "22:00",
-    "brand": "대상 공식스토어",
-    "product": "행복 10호",
-    "price": 36900,
-    "link": "https://store.kakao.com/daesang/products/406699598",
-    "slot_id": "59021",
-    "pgm": "대상 청정원 쎈딜 라이브",
-    "title": "미리 준비하는 추석 선물세트",
-    "category": "식품"
-   },
-   {
-    "start": "19:00",
-    "end": "22:00",
+    "end": "20:21",
     "brand": "smartinfini",
     "product": "[LIVE] 쏠비치 진도  올인클루시브 3인PKG (조식+인피니티풀+레전드히어로즈) ~10/31투숙까지",
     "price": 857000,
@@ -613,7 +601,7 @@
    },
    {
     "start": "20:00",
-    "end": "21:30",
+    "end": "20:58",
     "brand": "단골아저씨",
     "product": "(농할) GAP 김천 샤인머스켓 2kg(2-3수) 특품 [당도보장] 산지직송",
     "price": 34900,
@@ -625,7 +613,7 @@
    },
    {
     "start": "20:30",
-    "end": "22:00",
+    "end": "21:31",
     "brand": "오버더",
     "product": "오버더바이크 실내 자전거 (안장커버 증정)",
     "price": 679000,
@@ -637,7 +625,7 @@
    },
    {
     "start": "20:30",
-    "end": "22:00",
+    "end": "21:33",
     "brand": "폰드그룹몰",
     "product": "[어패럴카쇼라] (9/4) 캘빈클라인 스포츠,퍼포먼스,진스 종합 특가전",
     "price": 129000,
@@ -649,7 +637,7 @@
    },
    {
     "start": "22:00",
-    "end": "01:00",
+    "end": "23:21",
     "brand": "바비브라운",
     "product": "[추석 Lip Set] 엑스트라 립 세트 (+ 미니 립 세럼 베어핑크 증정)",
     "price": 78400,
@@ -1392,7 +1380,7 @@
     "end": "20:30",
     "brand": "메디큐브 에이지알",
     "product": "[BEST] '올인원 홈케어' 부스터프로X2 (+사은품)",
-    "price": 358000,
+    "price": 359000,
     "link": "https://gift.kakao.com/product/9157629?url=product&cId=9157629",
     "slot_id": "59785",
     "pgm": "메디큐브 추석 선물대첩",
@@ -1403,9 +1391,9 @@
     "start": "19:00",
     "end": "20:30",
     "brand": "쿤달 KUNDAL",
-    "product": "[추석선물] 명절 선물 세트 2구 (샴푸+트리트먼트)",
-    "price": 27800,
-    "link": "https://store.kakao.com/kundal/products/410418964",
+    "product": "[1+1] 쿤달 샴푸 트리트먼트 바디워시 외 헤어바디 전품목",
+    "price": 56500,
+    "link": "https://store.kakao.com/kundal/products/374589622",
     "slot_id": "59786",
     "pgm": "쿤달 50%+7% 더블할인",
     "title": "바디로션 추가증정!!!",
