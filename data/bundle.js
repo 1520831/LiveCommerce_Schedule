@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-04T21:12:09+09:00",
+ "generated_at": "2026-09-04T21:36:27+09:00",
  "today": "2026-09-04",
  "dates": [
   "2026-09-03",
@@ -3039,7 +3039,7 @@ window.SCHEDULE = {
      "pgm_cd": "1068",
      "category": "가전",
      "cast": "influencer",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "16:00",
@@ -3182,7 +3182,7 @@ window.SCHEDULE = {
      "pgm": "하우스윗",
      "pgm_cd": "1048",
      "category": "가구·침구",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "20:00",
@@ -23067,7 +23067,7 @@ window.SCHEDULE = {
      "slot_id": "252105",
      "pgm": "ACER x 엔비디아 한가위 빅세일 특가!",
      "category": "디지털·PC",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "20:00",
@@ -23114,7 +23114,8 @@ window.SCHEDULE = {
      "slot_id": "252177",
      "pgm": "[앵콜]로보락 감사제🎉Qrevo L Pro 최초 공개",
      "rerun": true,
-     "category": "가전"
+     "category": "가전",
+     "hot": 4
     },
     {
      "start": "21:00",
@@ -25150,7 +25151,7 @@ window.SCHEDULE = {
    "2026-09-03",
    "2026-09-04"
   ],
-  "matched": 13,
+  "matched": 14,
   "unmatched": 3
  },
  "fixed": {
