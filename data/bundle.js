@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-04T15:21:25+09:00",
+ "generated_at": "2026-09-04T15:42:52+09:00",
  "today": "2026-09-04",
  "dates": [
   "2026-09-03",
@@ -2668,7 +2668,7 @@ window.SCHEDULE = {
      "pgm_cd": "1109",
      "category": "여성패션",
      "cast": "influencer",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "12:00",
@@ -21107,7 +21107,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]🌕한가위빅세일! LG가전 BEST 특집",
      "rerun": true,
      "category": "가전",
-     "hot": 10
+     "hot": 8
     },
     {
      "start": "15:00",
