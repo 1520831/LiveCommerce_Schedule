@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-04T19:57:28+09:00",
+ "generated_at": "2026-09-04T20:12:59+09:00",
  "today": "2026-09-04",
  "dates": [
   "2026-09-03",
@@ -3039,7 +3039,7 @@ window.SCHEDULE = {
      "pgm_cd": "1068",
      "category": "가전",
      "cast": "influencer",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "16:00",
@@ -8069,7 +8069,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -8363,7 +8363,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "10:30",
@@ -8938,8 +8938,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "13:00",
@@ -10170,7 +10169,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "19:00",
@@ -22848,7 +22847,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/2191515947",
      "slot_id": "252120",
      "pgm": "⭐️크록스 연중 최대혜택⭐️추석 빅세일 라스트 찬스!",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -23080,7 +23079,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4777310119",
      "slot_id": "252121",
      "pgm": "추석맞이, 풍성한 혜택과 라인업 LG 울트라기어🎁",
-     "category": "디지털·PC"
+     "category": "디지털·PC",
+     "hot": 2
     },
     {
      "start": "20:00",
