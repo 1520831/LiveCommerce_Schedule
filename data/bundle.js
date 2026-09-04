@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-04T20:54:56+09:00",
+ "generated_at": "2026-09-04T21:12:09+09:00",
  "today": "2026-09-04",
  "dates": [
   "2026-09-03",
@@ -8069,8 +8069,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 10
+     "category": "푸드"
     },
     {
      "start": "10:00",
@@ -23068,7 +23067,7 @@ window.SCHEDULE = {
      "slot_id": "252105",
      "pgm": "ACER x 엔비디아 한가위 빅세일 특가!",
      "category": "디지털·PC",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "20:00",
@@ -25151,7 +25150,7 @@ window.SCHEDULE = {
    "2026-09-03",
    "2026-09-04"
   ],
-  "matched": 14,
+  "matched": 13,
   "unmatched": 3
  },
  "fixed": {
