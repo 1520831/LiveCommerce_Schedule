@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-04T10:07:23+09:00",
+ "generated_at": "2026-09-04T10:19:02+09:00",
  "today": "2026-09-04",
  "dates": [
   "2026-09-03",
@@ -7288,7 +7288,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -19326,7 +19327,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/2191515947",
      "slot_id": "252120",
      "pgm": "⭐️크록스 연중 최대혜택⭐️추석 빅세일 라스트 찬스!",
-     "hot": 5
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -20324,7 +20325,7 @@ window.SCHEDULE = {
      "pgm": "극강의 고소함 실큰두부",
      "title": "상온 보관 멸균두부 특가",
      "category": "식품",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "08:30",
@@ -21520,8 +21521,8 @@ window.SCHEDULE = {
    "2026-09-03",
    "2026-09-04"
   ],
-  "matched": 10,
-  "unmatched": 9
+  "matched": 11,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
