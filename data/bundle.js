@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-04T16:14:24+09:00",
+ "generated_at": "2026-09-04T16:29:41+09:00",
  "today": "2026-09-04",
  "dates": [
   "2026-09-03",
@@ -2668,7 +2668,7 @@ window.SCHEDULE = {
      "pgm_cd": "1109",
      "category": "여성패션",
      "cast": "influencer",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "12:00",
@@ -2776,7 +2776,8 @@ window.SCHEDULE = {
      "pgm": "까사림의 감성하우스",
      "pgm_cd": "1068",
      "category": "가전",
-     "cast": "influencer"
+     "cast": "influencer",
+     "hot": 7
     },
     {
      "start": "16:00",
@@ -21106,7 +21107,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]🌕한가위빅세일! LG가전 BEST 특집",
      "rerun": true,
      "category": "가전",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "15:00",
@@ -23235,8 +23236,8 @@ window.SCHEDULE = {
    "2026-09-03",
    "2026-09-04"
   ],
-  "matched": 13,
-  "unmatched": 5
+  "matched": 14,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
