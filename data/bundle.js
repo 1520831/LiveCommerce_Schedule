@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-04T20:29:22+09:00",
+ "generated_at": "2026-09-04T20:43:40+09:00",
  "today": "2026-09-04",
  "dates": [
   "2026-09-03",
@@ -3181,7 +3181,8 @@ window.SCHEDULE = {
      "title": "데스커 더블쿠폰 특가💖 카드 10%+적립 10%+구매인증 찬스!",
      "pgm": "하우스윗",
      "pgm_cd": "1048",
-     "category": "가구·침구"
+     "category": "가구·침구",
+     "hot": 10
     },
     {
      "start": "20:00",
@@ -8069,7 +8070,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -8362,8 +8363,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티",
-     "hot": 9
+     "category": "뷰티"
     },
     {
      "start": "10:30",
@@ -22846,8 +22846,7 @@ window.SCHEDULE = {
      "price": 38900,
      "link": "https://m.gmarket.co.kr/vi/product/2191515947",
      "slot_id": "252120",
-     "pgm": "⭐️크록스 연중 최대혜택⭐️추석 빅세일 라스트 찬스!",
-     "hot": 8
+     "pgm": "⭐️크록스 연중 최대혜택⭐️추석 빅세일 라스트 찬스!"
     },
     {
      "start": "11:00",
@@ -23069,7 +23068,7 @@ window.SCHEDULE = {
      "slot_id": "252105",
      "pgm": "ACER x 엔비디아 한가위 빅세일 특가!",
      "category": "디지털·PC",
-     "hot": 10
+     "hot": 6
     },
     {
      "start": "20:00",
@@ -25152,7 +25151,7 @@ window.SCHEDULE = {
    "2026-09-03",
    "2026-09-04"
   ],
-  "matched": 15,
+  "matched": 14,
   "unmatched": 3
  },
  "fixed": {
