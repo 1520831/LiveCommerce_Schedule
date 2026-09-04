@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-09-04T12:09:41+09:00",
+ "updated_at": "2026-09-04T18:14:10+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -576,15 +576,15 @@
     "category": "식품"
    },
    {
-    "start": "11:30",
-    "end": "13:00",
-    "brand": "돌쇠네농산물",
-    "product": "아삭함과 당도는 기본 실속형 로얄과 신고배",
-    "price": 30000,
-    "link": "https://store.kakao.com/dol4525/products/784422619",
-    "slot_id": "59897",
-    "pgm": "26년 햇 신고배 첫출하!",
-    "title": "돌쇠 곳간LIVE!",
+    "start": "14:10",
+    "end": "14:24",
+    "brand": "그로우앤프레시",
+    "product": "26년 특품 고당도 샤인머스켓 1kg외 2kg",
+    "price": 21500,
+    "link": "https://store.kakao.com/grownfresh/products/783709017",
+    "slot_id": "59916",
+    "pgm": "탱글한 과즙!",
+    "title": "샤인머스캣 맛보세요",
     "category": "식품"
    },
    {
@@ -690,7 +690,7 @@
     "end": "13:00",
     "brand": "대상웰라이프 공식몰",
     "product": "국내 판매 1위 완전균형영양식 뉴케어/당플랜 클래식 외~",
-    "price": 32900,
+    "price": 40000,
     "link": "https://store.kakao.com/dswellife/products/525496677",
     "slot_id": "59471",
     "pgm": "뉴케어X쎈딜 LIVE",
@@ -792,7 +792,7 @@
     "link": "https://store.kakao.com/locknlock01/products/697256408",
     "slot_id": "59834",
     "pgm": "스누피/산리오 콜라보",
-    "title": "락앤락 최대 60% OFF",
+    "title": "락앤락 최대 76% OFF",
     "category": "리빙"
    },
    {
@@ -800,7 +800,7 @@
     "end": "13:00",
     "brand": "해남농장고구마",
     "product": "해남농장 햇꿀고구마 농장직송 베니하루카",
-    "price": 28900,
+    "price": 14900,
     "link": "https://store.kakao.com/gogumamania/products/780743391",
     "slot_id": "59623",
     "pgm": "해남농장 햇꿀고구마 출시",
@@ -1114,9 +1114,9 @@
     "start": "19:00",
     "end": "20:30",
     "brand": "에스트라",
-    "product": "[크림 쟁이기] 아토베리어365 크림 80ml 4개 (옵션-크림4개 / 크림2개+로션2개 / 크림2개+수딩2개)",
+    "product": "[로션쟁이기] 아토베리어365 로션 150ml x 4개",
     "price": 132000,
-    "link": "https://store.kakao.com/aestura1/products/292820470",
+    "link": "https://store.kakao.com/aestura1/products/287182567",
     "slot_id": "59732",
     "pgm": "에스트라 추석맞이 기획전",
     "title": "선착순 클렌징폼 30g 증정",
@@ -1150,12 +1150,12 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "앤유즈",
-    "product": "앤유즈 에이프릴즈 달빛 크림 1+1",
-    "price": 110000,
-    "link": "https://store.kakao.com/nyouse/products/733678088",
+    "product": "앤유즈 에이프릴즈 달빛 기초 3종세트(미스트+에센스+크림)",
+    "price": 157000,
+    "link": "https://store.kakao.com/nyouse/products/734417894",
     "slot_id": "59528",
-    "pgm": "앤유즈 연중 3대 행사",
-    "title": "추석 기획전",
+    "pgm": "앤유즈 연중 3대 빅 행사",
+    "title": "추석 기획전 1+1 득템!",
     "category": "뷰티"
    },
    {
@@ -1212,7 +1212,7 @@
     "start": "08:30",
     "end": "10:00",
     "brand": "그레인온",
-    "product": "그레인온 골드 카무트효소G 3개월 (2g x 90포)",
+    "product": "그레인온 골드 카무트효소G 기획세트 (2g x 100포) + 파로저당단백칩",
     "price": 34900,
     "link": "https://store.kakao.com/grainon/products/469647666",
     "slot_id": "59484",
@@ -1228,7 +1228,7 @@
     "price": 52000,
     "link": "https://store.kakao.com/primera/products/617927589",
     "slot_id": "59629",
-    "pgm": "프리메라 8월 역대급 혜택",
+    "pgm": "프리메라 9월 역대급 혜택",
     "title": "쿠폰+카카오페이머니 할인까지",
     "category": "뷰티"
    },
@@ -1293,6 +1293,18 @@
     "category": "키즈"
    },
    {
+    "start": "16:00",
+    "end": "17:30",
+    "brand": "더리얼푸드마켓",
+    "product": "제주 하우스 고당도 감귤 2kg 소과/로얄과",
+    "price": 18900,
+    "link": "https://store.kakao.com/realfoodmarkets/products/782407103",
+    "slot_id": "59930",
+    "pgm": "새콤달콤! 제주 하우스 감귤",
+    "title": "라이브 단 1시간만 특가",
+    "category": "식품"
+   },
+   {
     "start": "17:00",
     "end": "18:30",
     "brand": "명태잡는날",
@@ -1302,6 +1314,18 @@
     "slot_id": "59626",
     "pgm": "엄마 손맛 그대로~ 우엉조림",
     "title": "우리 가족 맛있는 밥도둑",
+    "category": "식품"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "만수동떡볶이만떡",
+    "product": "떡볶이 7가지맛 내맘대로 무료배송 300g 밀키트 만수동떡볶이 만떡",
+    "price": 3400,
+    "link": "https://store.kakao.com/mantteok/products/678920045",
+    "slot_id": "59935",
+    "pgm": "2800원 떡볶이 7가지맛",
+    "title": "9+2 5+1 만떡 초특가",
     "category": "식품"
    },
    {
@@ -1477,7 +1501,7 @@
     "start": "08:30",
     "end": "10:00",
     "brand": "아토팜",
-    "product": "[1+1] 아토팜 브랜드위크 보습/워시/선케어/키즈 BEST+최대 3.5만원 상단 사은품 증정",
+    "product": "[1+1] 아토팜 브랜드위크 보습/워시/선케어/키즈 BEST+최대 3.5만원 상당 사은품 증정",
     "price": 76000,
     "link": "https://store.kakao.com/atopalm/products/217734984",
     "slot_id": "59567",
@@ -1570,6 +1594,18 @@
     "category": "키즈"
    },
    {
+    "start": "11:00",
+    "end": "12:30",
+    "brand": "소이조이 공식몰",
+    "product": "소이조이 8종 버라이어티팩 16개입",
+    "price": 25900,
+    "link": "https://store.kakao.com/soyjoy/products/514881627",
+    "slot_id": "59914",
+    "pgm": "내 입에 내몸에 당당한 간식",
+    "title": "소이조이 첫 톡딜 LIVE",
+    "category": "식품"
+   },
+   {
     "start": "11:30",
     "end": "13:00",
     "brand": "솔가 공식스토어",
@@ -1642,6 +1678,18 @@
     "category": "식품"
    },
    {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "신선하랑",
+    "product": "국내산 100% 담백한 뒷다리살 찌개용 고기 1kg ~ 4kg",
+    "price": 11900,
+    "link": "https://store.kakao.com/ssharang/products/712520797",
+    "slot_id": "59923",
+    "pgm": "국내산 찌개고기 특가",
+    "title": "1kg 단돈 10400원",
+    "category": "식품"
+   },
+   {
     "start": "19:00",
     "end": "20:30",
     "brand": "오필리",
@@ -1663,6 +1711,18 @@
     "slot_id": "59280",
     "pgm": "종근당건강 X 톡딜위크",
     "title": "최대 7%+7% 중복할인",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "레오나르디",
+    "product": "[추석선물] 레오나르디 화이트발사믹콘디멘토 500ml 외",
+    "price": 54000,
+    "link": "https://store.kakao.com/leonardi/products/398142823",
+    "slot_id": "59281",
+    "pgm": "레오나르디 발사믹 명절특가",
+    "title": "방송중 구매자 쇼핑백 증정",
     "category": "식품"
    },
    {
