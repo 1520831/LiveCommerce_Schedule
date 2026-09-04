@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-04T18:57:52+09:00",
+ "generated_at": "2026-09-04T19:15:08+09:00",
  "today": "2026-09-04",
  "dates": [
   "2026-09-03",
@@ -2930,8 +2930,7 @@ window.SCHEDULE = {
      "pgm": "잇솔지",
      "pgm_cd": "1109",
      "category": "여성패션",
-     "cast": "influencer",
-     "hot": 10
+     "cast": "influencer"
     },
     {
      "start": "12:00",
@@ -3040,7 +3039,7 @@ window.SCHEDULE = {
      "pgm_cd": "1068",
      "category": "가전",
      "cast": "influencer",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "16:00",
@@ -8070,7 +8069,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -8364,7 +8363,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "10:30",
@@ -8940,7 +8939,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "13:00",
@@ -10170,7 +10169,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 2
     },
     {
      "start": "19:00",
@@ -22848,7 +22848,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/2191515947",
      "slot_id": "252120",
      "pgm": "⭐️크록스 연중 최대혜택⭐️추석 빅세일 라스트 찬스!",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -22963,7 +22963,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]🌕한가위빅세일! LG가전 BEST 특집",
      "rerun": true,
      "category": "가전",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "15:00",
