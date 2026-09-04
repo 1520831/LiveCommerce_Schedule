@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-05T00:08:49+09:00",
+ "generated_at": "2026-09-05T00:39:41+09:00",
  "today": "2026-09-05",
  "dates": [
   "2026-09-04",
@@ -470,7 +470,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 버버리 60개월 무이자",
      "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "07:00",
@@ -21119,7 +21119,7 @@ window.SCHEDULE = {
    "2026-09-05"
   ],
   "matched": 8,
-  "unmatched": 2
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
