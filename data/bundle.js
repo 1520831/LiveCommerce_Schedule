@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-04T10:19:02+09:00",
+ "generated_at": "2026-09-04T10:30:30+09:00",
  "today": "2026-09-04",
  "dates": [
   "2026-09-03",
@@ -2460,7 +2460,8 @@ window.SCHEDULE = {
      "title": "[맘만하니] 올인원 효소 플로렌💕효소+유산균+애사비+이너뷰티~65%✨",
      "pgm": "맘만하니",
      "pgm_cd": "0099",
-     "category": "식품·건강"
+     "category": "식품·건강",
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -7319,7 +7320,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -19327,7 +19329,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/2191515947",
      "slot_id": "252120",
      "pgm": "⭐️크록스 연중 최대혜택⭐️추석 빅세일 라스트 찬스!",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "11:00",
@@ -20312,7 +20314,7 @@ window.SCHEDULE = {
      "pgm": "추석에도 가벼운 스케쳐스",
      "title": "워킹화/운동화 외 발편한슈즈",
      "category": "패션",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "08:30",
@@ -20324,8 +20326,7 @@ window.SCHEDULE = {
      "slot_id": "59441",
      "pgm": "극강의 고소함 실큰두부",
      "title": "상온 보관 멸균두부 특가",
-     "category": "식품",
-     "hot": 6
+     "category": "식품"
     },
     {
      "start": "08:30",
@@ -21521,8 +21522,8 @@ window.SCHEDULE = {
    "2026-09-03",
    "2026-09-04"
   ],
-  "matched": 11,
-  "unmatched": 8
+  "matched": 12,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
