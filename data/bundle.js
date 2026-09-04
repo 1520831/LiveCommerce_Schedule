@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-04T14:59:03+09:00",
+ "generated_at": "2026-09-04T15:21:25+09:00",
  "today": "2026-09-04",
  "dates": [
   "2026-09-03",
@@ -7933,7 +7933,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "10:30",
@@ -8540,8 +8540,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "14:00",
@@ -8674,7 +8673,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 6
+     "hot": 4
     },
     {
      "start": "14:00",
@@ -20993,7 +20992,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/2191515947",
      "slot_id": "252120",
      "pgm": "⭐️크록스 연중 최대혜택⭐️추석 빅세일 라스트 찬스!",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -21107,7 +21106,8 @@ window.SCHEDULE = {
      "slot_id": "252153",
      "pgm": "[앵콜]🌕한가위빅세일! LG가전 BEST 특집",
      "rerun": true,
-     "category": "가전"
+     "category": "가전",
+     "hot": 10
     },
     {
      "start": "15:00",
