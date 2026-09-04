@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-04T10:47:31+09:00",
+ "generated_at": "2026-09-04T10:57:04+09:00",
  "today": "2026-09-04",
  "dates": [
   "2026-09-03",
@@ -2461,7 +2461,7 @@ window.SCHEDULE = {
      "pgm": "맘만하니",
      "pgm_cd": "0099",
      "category": "식품·건강",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -7320,7 +7320,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -7463,8 +7464,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "10:30",
@@ -7626,7 +7626,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 8
+     "hot": 6
     },
     {
      "start": "10:30",
@@ -7741,7 +7741,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "11:00",
@@ -19331,7 +19331,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/2191515947",
      "slot_id": "252120",
      "pgm": "⭐️크록스 연중 최대혜택⭐️추석 빅세일 라스트 찬스!",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -21525,7 +21525,7 @@ window.SCHEDULE = {
    "2026-09-04"
   ],
   "matched": 14,
-  "unmatched": 5
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
