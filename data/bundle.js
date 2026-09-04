@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-04T10:30:30+09:00",
+ "generated_at": "2026-09-04T10:47:31+09:00",
  "today": "2026-09-04",
  "dates": [
   "2026-09-03",
@@ -2461,7 +2461,7 @@ window.SCHEDULE = {
      "pgm": "맘만하니",
      "pgm_cd": "0099",
      "category": "식품·건강",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -7320,8 +7320,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -7464,7 +7463,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 9
     },
     {
      "start": "10:30",
@@ -7625,7 +7625,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 8
     },
     {
      "start": "10:30",
@@ -7739,7 +7740,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -20314,7 +20316,7 @@ window.SCHEDULE = {
      "pgm": "추석에도 가벼운 스케쳐스",
      "title": "워킹화/운동화 외 발편한슈즈",
      "category": "패션",
-     "hot": 2
+     "hot": 5
     },
     {
      "start": "08:30",
@@ -21522,8 +21524,8 @@ window.SCHEDULE = {
    "2026-09-03",
    "2026-09-04"
   ],
-  "matched": 12,
-  "unmatched": 7
+  "matched": 14,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
