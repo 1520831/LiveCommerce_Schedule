@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-04T12:11:17+09:00",
+ "generated_at": "2026-09-04T12:29:53+09:00",
  "today": "2026-09-04",
  "dates": [
   "2026-09-03",
@@ -7933,7 +7933,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "10:30",
@@ -20992,7 +20992,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/2191515947",
      "slot_id": "252120",
      "pgm": "⭐️크록스 연중 최대혜택⭐️추석 빅세일 라스트 찬스!",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "11:00",
