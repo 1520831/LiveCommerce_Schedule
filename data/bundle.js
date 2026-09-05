@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-06T07:55:05+09:00",
+ "generated_at": "2026-09-06T08:07:57+09:00",
  "today": "2026-09-06",
  "dates": [
   "2026-09-05",
@@ -415,8 +415,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[노블리타] 에클랏 신상공개! 월 7천원대~",
-     "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 6
+     "pgm": "[재방] 노블리타 (노블레스)"
     },
     {
      "start": "08:00",
@@ -435,7 +434,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[현명쇼] 버버리 아우터 막바지 역시즌 특집!",
-     "pgm": "[재방] 현명쇼 (노블레스팀)"
+     "pgm": "[재방] 현명쇼 (노블레스팀)",
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -5827,7 +5827,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 8
     },
     {
      "start": "09:30",
@@ -22200,8 +22201,8 @@ window.SCHEDULE = {
    "2026-09-05",
    "2026-09-06"
   ],
-  "matched": 5,
-  "unmatched": 10
+  "matched": 6,
+  "unmatched": 9
  },
  "fixed": {
   "rows": [
