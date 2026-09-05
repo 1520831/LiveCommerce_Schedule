@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-05T18:56:13+09:00",
+ "generated_at": "2026-09-05T19:10:17+09:00",
  "today": "2026-09-05",
  "dates": [
   "2026-09-04",
@@ -2707,7 +2707,7 @@ window.SCHEDULE = {
      "pgm_cd": "1109",
      "category": "여성패션",
      "cast": "influencer",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "16:00",
@@ -8247,7 +8247,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -22313,7 +22313,7 @@ window.SCHEDULE = {
      "pgm": "하루종일 편안한 원더브라",
      "title": "라이브 중 무료교환/무료반품",
      "category": "패션",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -22361,7 +22361,8 @@ window.SCHEDULE = {
      "slot_id": "59397",
      "pgm": "[공식단독] 시몬스 연중최대",
      "title": "자스민 특집 라이브",
-     "category": "리빙"
+     "category": "리빙",
+     "hot": 1
     },
     {
      "start": "19:00",
@@ -23815,8 +23816,8 @@ window.SCHEDULE = {
    "2026-09-04",
    "2026-09-05"
   ],
-  "matched": 10,
-  "unmatched": 5
+  "matched": 11,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
