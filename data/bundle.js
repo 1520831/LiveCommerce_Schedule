@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-05T10:37:14+09:00",
+ "generated_at": "2026-09-05T10:47:43+09:00",
  "today": "2026-09-05",
  "dates": [
   "2026-09-04",
@@ -22313,7 +22313,7 @@ window.SCHEDULE = {
      "pgm": "성분에디터 마스크팩 ~81%",
      "title": "마스크팩 쟁이기 라이브",
      "category": "뷰티",
-     "hot": 10
+     "hot": 9
     },
     {
      "start": "11:30",
