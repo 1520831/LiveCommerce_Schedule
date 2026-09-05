@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-05T23:38:54+09:00",
+ "generated_at": "2026-09-05T23:42:43+09:00",
  "today": "2026-09-05",
  "dates": [
   "2026-09-04",
@@ -770,6 +770,12 @@ window.SCHEDULE = {
        "product": "[Mela Bianca][정가 69000원]세레니 헤어 스크런치 MHE26010",
        "price": 69000,
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253146320"
+      },
+      {
+       "brand": "멜라비앙카",
+       "product": "[타임찬스1][Mela Bianca][정가 29000원]벤루 헤어 타이 MHE26018",
+       "price": 20300,
+       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253146180"
       }
      ],
      "title": "[멜라비앙카] 데일리 헤어 주얼리🤍",
@@ -2420,7 +2426,7 @@ window.SCHEDULE = {
      "end": "20:59",
      "brand": "르네디피",
      "product": "26FW 에센셜 플리셰 니트 3종",
-     "price": 80910,
+     "price": 89900,
      "link": "https://item.cjonstyle.com/item/2087312371?channelCode=30002002",
      "slot_id": "29048",
      "title": "다시보는🎇까사렐,르네디피 신상론칭",
@@ -2554,7 +2560,7 @@ window.SCHEDULE = {
      "end": "10:04",
      "brand": "지스튜디오",
      "product": "26FW 캐시미어100 브이넥 루즈핏 니트",
-     "price": 116100,
+     "price": 129000,
      "link": "https://item.cjonstyle.com/item/2088726099?channelCode=30002002",
      "slot_id": "29055",
      "title": "다시보는 지스튜디오 애프터파티💕최신상템 방송 중 특가 할인",
@@ -2698,9 +2704,9 @@ window.SCHEDULE = {
      "start": "15:45",
      "end": "16:49",
      "brand": "더엣지",
-     "product": "26FW 루즈 스트레이트 링사 데님 2종",
+     "product": "26FW 올데이코어 탄탄 보이핏 자켓",
      "price": 89900,
-     "link": "https://item.cjonstyle.com/item/2089553083?channelCode=30002002",
+     "link": "https://item.cjonstyle.com/item/2089409958?channelCode=30002002",
      "slot_id": "28865",
      "title": "애프터 잇솔지 🔥더엣지 보이핏자켓 外 한정수량 할인",
      "pgm": "잇솔지",
@@ -2820,7 +2826,7 @@ window.SCHEDULE = {
      "end": "19:59",
      "brand": "베라왕",
      "product": "26FW 오비트 올인원 탑 3종",
-     "price": 80910,
+     "price": 89900,
      "link": "https://item.cjonstyle.com/item/2090402439?channelCode=30002002",
      "slot_id": "28868",
      "title": "뉴욕 동일 레이블 오리지널 베라왕💕 스페셜픽 텐텐텐 특집",
@@ -2939,7 +2945,7 @@ window.SCHEDULE = {
      "end": "22:59",
      "brand": "르네디피",
      "product": "26FW 에센셜 플리셰 니트 3종",
-     "price": 80910,
+     "price": 89900,
      "link": "https://item.cjonstyle.com/item/2087312371?channelCode=30002002",
      "slot_id": "29074",
      "title": "다시보는🎇까사렐,르네디피 신상론칭",
@@ -3321,14 +3327,15 @@ window.SCHEDULE = {
     {
      "start": "20:00",
      "end": "20:59",
-     "brand": "",
-     "product": "잘사는💚에스테틱 물광템 보떼덤 에센스 최초 공개!",
-     "price": 0,
-     "link": "https://mlive.cjonstyle.com/m/preview/28873",
+     "brand": "보떼덤",
+     "product": "[잘사는언니들] 엘리시어 에센스3EA+체험분 2매",
+     "price": 189000,
+     "link": "https://item.cjonstyle.com/item/2092471346?channelCode=30002002",
      "slot_id": "28873",
      "title": "잘사는💚에스테틱 물광템 보떼덤 에센스 최초 공개!",
      "pgm": "잘사는 언니들",
-     "pgm_cd": "1028"
+     "pgm_cd": "1028",
+     "category": "뷰티"
     },
     {
      "start": "20:00",
@@ -3441,7 +3448,7 @@ window.SCHEDULE = {
      "end": "23:59",
      "brand": "베라왕",
      "product": "26FW 오비트 올인원 탑 3종",
-     "price": 80910,
+     "price": 89900,
      "link": "https://item.cjonstyle.com/item/2090402439?channelCode=30002002",
      "slot_id": "29104",
      "title": "다시보는 뉴욕 동일 레이블 오리지널 베라왕💕",
@@ -3692,7 +3699,7 @@ window.SCHEDULE = {
      "end": "17:04",
      "brand": "지스튜디오",
      "product": "26FW 캐시미어100 브이넥 루즈핏 니트",
-     "price": 116100,
+     "price": 129000,
      "link": "https://item.cjonstyle.com/item/2088726099?channelCode=30002002",
      "slot_id": "29266",
      "title": "다시보는 지스튜디오 애프터파티💕최신상템 방송 중 특가 할인",
@@ -3991,14 +3998,15 @@ window.SCHEDULE = {
     {
      "start": "23:00",
      "end": "23:59",
-     "brand": "",
-     "product": "다시보는 잘사는💚에스테틱 물광템 보떼덤 에센스 최초 공개!",
-     "price": 0,
-     "link": "https://mlive.cjonstyle.com/m/preview/29276",
+     "brand": "보떼덤",
+     "product": "[잘사는언니들] 엘리시어 에센스3EA+체험분 2매",
+     "price": 189000,
+     "link": "https://item.cjonstyle.com/item/2092471346?channelCode=30002002",
      "slot_id": "29276",
      "title": "다시보는 잘사는💚에스테틱 물광템 보떼덤 에센스 최초 공개!",
      "pgm": "잘사는 언니들",
-     "pgm_cd": "1028"
+     "pgm_cd": "1028",
+     "category": "뷰티"
     },
     {
      "start": "23:00",
@@ -4436,7 +4444,7 @@ window.SCHEDULE = {
      "end": "17:04",
      "brand": "지스튜디오",
      "product": "26FW 캐시미어100 브이넥 루즈핏 니트",
-     "price": 116100,
+     "price": 129000,
      "link": "https://item.cjonstyle.com/item/2088726099?channelCode=30002002",
      "slot_id": "29316",
      "title": "다시보는 지스튜디오 애프터파티💕최신상템 방송 중 특가 할인",
@@ -8868,7 +8876,7 @@ window.SCHEDULE = {
     },
     {
      "start": "16:50",
-     "end": "",
+     "end": "18:48",
      "brand": "갤럭시",
      "product": "삼성 갤럭시 워치9 스마트워치 강화유리 패키지 크림, 40mm, 블루투스",
      "price": 499000,
@@ -8914,7 +8922,7 @@ window.SCHEDULE = {
     },
     {
      "start": "18:00",
-     "end": "",
+     "end": "19:02",
      "brand": "유한양행",
      "product": "[100주년기획] 엘레나 질유산균 임산부 수유부 프로바이오틱스 100캡슐, 1개",
      "price": 84000,
@@ -8981,7 +8989,7 @@ window.SCHEDULE = {
     },
     {
      "start": "18:00",
-     "end": "",
+     "end": "18:32",
      "brand": "에센셜토이",
      "product": "[과일 세트] 에센셜토이 원목 소꿉놀이 과일자르기 장난감 역할놀이 세트 (내장 자석)",
      "price": 42900,
@@ -9017,7 +9025,7 @@ window.SCHEDULE = {
     },
     {
      "start": "19:00",
-     "end": "",
+     "end": "20:58",
      "brand": "갤럭시",
      "product": "삼성 갤럭시 워치9 스마트워치 강화유리 패키지 크림, 40mm, 블루투스",
      "price": 499000,
@@ -9063,7 +9071,7 @@ window.SCHEDULE = {
     },
     {
      "start": "19:20",
-     "end": "",
+     "end": "21:21",
      "brand": "갤럭시",
      "product": "삼성 갤럭시 워치8 (강화유리 2매 패키지) 실버, 40mm, 블루투스",
      "price": 419000,
@@ -9176,7 +9184,7 @@ window.SCHEDULE = {
     },
     {
      "start": "20:00",
-     "end": "",
+     "end": "21:11",
      "brand": "씰리",
      "product": "씰리 베루스 매트리스 31cm, SS(슈퍼싱글), 미디엄",
      "price": 1809500,
@@ -9231,7 +9239,7 @@ window.SCHEDULE = {
     },
     {
      "start": "20:00",
-     "end": "",
+     "end": "21:00",
      "brand": "고려은단",
      "product": "고려은단 관절 올케어 콘드로이친·MSM·NAG 30포, 3개",
      "price": 143900,
@@ -9251,7 +9259,7 @@ window.SCHEDULE = {
     },
     {
      "start": "20:00",
-     "end": "",
+     "end": "22:00",
      "brand": "비스포크AI콤보",
      "product": "삼성 WD80H25BHY 비스포크 AI콤보 세탁25kg 건조18kg 26년형 일체형 1등급",
      "price": 3299000,
@@ -9295,7 +9303,7 @@ window.SCHEDULE = {
     },
     {
      "start": "21:00",
-     "end": "",
+     "end": "22:16",
      "brand": "시슬리",
      "product": "시슬리 라인배색 루즈핏 니트 가디건 SAKCC3461",
      "price": 99000,
@@ -9311,13 +9319,20 @@ window.SCHEDULE = {
       {},
       {},
       {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
       {}
      ],
      "category": "패션"
     },
     {
      "start": "21:00",
-     "end": "",
+     "end": "23:00",
      "brand": "CUCKOO",
      "product": "[브랜드데이] 쿠쿠 제로100 미니 얼음 정수기 CP-AQS100EWH",
      "price": 4191600,
@@ -9682,7 +9697,7 @@ window.SCHEDULE = {
      "end": "",
      "brand": "에버콜라겐",
      "product": "뉴트리 에버콜라겐 인앤업비오틴 업 42주 (6주x7개) GPH 저분자 트리 펩타이드 콜라겐",
-     "price": 252500,
+     "price": 245500,
      "link": "https://shoppinglive.naver.com/livebridge/2000377",
      "slot_id": "2000377",
      "pgm": "[블루밍] 단,하루 역대급 혜택 🎉스타브랜드 특가 방송",
@@ -10571,7 +10586,7 @@ window.SCHEDULE = {
      "end": "",
      "brand": "에버콜라겐",
      "product": "뉴트리 에버콜라겐 인앤업비오틴 업 18주 GPH 저분자 트리 펩타이드 콜라겐",
-     "price": 112600,
+     "price": 110500,
      "link": "https://shoppinglive.naver.com/livebridge/2000391",
      "slot_id": "2000391",
      "pgm": "단, 하루 스타브랜드 마지막 방송🔥🔥",
@@ -11099,7 +11114,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "20:00",
@@ -11169,7 +11185,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "푸드"
     },
     {
      "start": "20:00",
@@ -11203,7 +11219,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "패션"
+     "category": "푸드"
     },
     {
      "start": "20:00",
@@ -11237,7 +11253,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "푸드"
     },
     {
      "start": "20:00",
@@ -11265,7 +11281,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "20:00",
@@ -11309,7 +11326,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "푸드"
     },
     {
      "start": "20:00",
@@ -11354,7 +11371,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "푸드"
     },
     {
      "start": "20:00",
@@ -11467,7 +11484,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "푸드"
     },
     {
      "start": "20:00",
@@ -11532,7 +11549,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "푸드"
     },
     {
      "start": "20:00",
@@ -11647,7 +11664,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "푸드"
     },
     {
      "start": "20:00",
@@ -11755,7 +11772,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "푸드"
     },
     {
      "start": "20:00",
@@ -11871,7 +11888,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "푸드"
     },
     {
      "start": "20:00",
@@ -11911,7 +11928,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "category": "푸드"
     },
     {
      "start": "20:00",
@@ -12006,7 +12024,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "패션"
+     "category": "푸드"
     },
     {
      "start": "21:00",
@@ -12051,7 +12069,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "푸드"
     },
     {
      "start": "21:00",
@@ -12071,7 +12089,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "푸드"
     },
     {
      "start": "22:00",
@@ -12141,7 +12159,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "푸드"
     }
    ],
    "2026-09-07": [
@@ -17572,7 +17590,7 @@ window.SCHEDULE = {
      "end": "",
      "brand": "에버콜라겐",
      "product": "뉴트리 에버콜라겐 인앤업비오틴 업 18주 GPH 저분자 트리 펩타이드 콜라겐",
-     "price": 112600,
+     "price": 110500,
      "link": "https://shoppinglive.naver.com/livebridge/2000407",
      "slot_id": "2000407",
      "pgm": "9/9",
@@ -22354,20 +22372,7 @@ window.SCHEDULE = {
     },
     {
      "start": "19:00",
-     "end": "22:00",
-     "brand": "SIMMONS",
-     "product": "[시몬스 공식] 가장 많이 판매된 침대세트 자스민 + D2178A 프레임",
-     "price": 3870000,
-     "link": "https://store.kakao.com/simmons/products/738852837",
-     "slot_id": "59397",
-     "pgm": "[공식단독] 시몬스 연중최대",
-     "title": "자스민 특집 라이브",
-     "category": "리빙",
-     "hot": 1
-    },
-    {
-     "start": "19:00",
-     "end": "22:00",
+     "end": "20:21",
      "brand": "헉슬리",
      "product": "헤어 샴푸 750mL 1+1 패키지",
      "price": 48000,
@@ -22379,7 +22384,7 @@ window.SCHEDULE = {
     },
     {
      "start": "20:30",
-     "end": "22:00",
+     "end": "21:30",
      "brand": "청년상점",
      "product": "첫 출하! 아삭달콤 나주 햇 배 3kg 5~6과 외 5kg 산지직송 고당도선별",
      "price": 22000,
@@ -22391,10 +22396,10 @@ window.SCHEDULE = {
     },
     {
      "start": "20:30",
-     "end": "22:00",
+     "end": "21:30",
      "brand": "단디잇",
      "product": "82만 요리유튜버가 만든 밥도둑 매콤찬 고추다짐이 250g",
-     "price": 11900,
+     "price": 33800,
      "link": "https://store.kakao.com/dandiit/products/738640799",
      "slot_id": "59841",
      "pgm": "매콤찬 고추다짐이",
@@ -22403,7 +22408,7 @@ window.SCHEDULE = {
     },
     {
      "start": "22:30",
-     "end": "00:00",
+     "end": "23:26",
      "brand": "터치그라운드 스니커즈",
      "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
      "price": 49900,
@@ -23801,11 +23806,11 @@ window.SCHEDULE = {
   }
  },
  "updated_at": {
-  "HD": "2026-09-05T18:12:17+09:00",
-  "CJ": "2026-09-05T18:12:23+09:00",
-  "NV": "2026-09-05T18:13:29+09:00",
+  "HD": "2026-09-05T23:41:27+09:00",
+  "CJ": "2026-09-05T23:41:33+09:00",
+  "NV": "2026-09-05T23:42:37+09:00",
   "GM": "2026-09-04T08:05:41+09:00",
-  "KA": "2026-09-05T18:12:33+09:00"
+  "KA": "2026-09-05T23:41:43+09:00"
  },
  "cast_kinds": [
   "celeb",
@@ -23817,8 +23822,8 @@ window.SCHEDULE = {
    "2026-09-04",
    "2026-09-05"
   ],
-  "matched": 12,
-  "unmatched": 2
+  "matched": 11,
+  "unmatched": 3
  },
  "fixed": {
   "rows": [

@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-05T18:12:17+09:00",
+ "updated_at": "2026-09-05T23:41:27+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -1903,6 +1903,12 @@
       "product": "[Mela Bianca][정가 69000원]세레니 헤어 스크런치 MHE26010",
       "price": 69000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253146320"
+     },
+     {
+      "brand": "멜라비앙카",
+      "product": "[타임찬스1][Mela Bianca][정가 29000원]벤루 헤어 타이 MHE26018",
+      "price": 20300,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253146180"
      }
     ],
     "title": "[멜라비앙카] 데일리 헤어 주얼리🤍",
