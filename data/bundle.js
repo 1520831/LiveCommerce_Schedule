@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-05T19:48:41+09:00",
+ "generated_at": "2026-09-05T19:58:09+09:00",
  "today": "2026-09-05",
  "dates": [
   "2026-09-04",
@@ -2826,7 +2826,8 @@ window.SCHEDULE = {
      "title": "뉴욕 동일 레이블 오리지널 베라왕💕 스페셜픽 텐텐텐 특집",
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 8
     },
     {
      "start": "19:00",
@@ -8247,7 +8248,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -23816,8 +23817,8 @@ window.SCHEDULE = {
    "2026-09-04",
    "2026-09-05"
   ],
-  "matched": 11,
-  "unmatched": 4
+  "matched": 12,
+  "unmatched": 3
  },
  "fixed": {
   "rows": [
