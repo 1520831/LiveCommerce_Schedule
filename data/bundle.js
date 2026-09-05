@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-06T07:21:13+09:00",
+ "generated_at": "2026-09-06T07:35:31+09:00",
  "today": "2026-09-06",
  "dates": [
   "2026-09-05",
@@ -415,7 +415,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[노블리타] 에클랏 신상공개! 월 7천원대~",
-     "pgm": "[재방] 노블리타 (노블레스)"
+     "pgm": "[재방] 노블리타 (노블레스)",
+     "hot": 6
     },
     {
      "start": "08:00",
@@ -22199,8 +22200,8 @@ window.SCHEDULE = {
    "2026-09-05",
    "2026-09-06"
   ],
-  "matched": 4,
-  "unmatched": 11
+  "matched": 5,
+  "unmatched": 10
  },
  "fixed": {
   "rows": [
