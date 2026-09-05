@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-05T10:20:48+09:00",
+ "generated_at": "2026-09-05T10:37:14+09:00",
  "today": "2026-09-05",
  "dates": [
   "2026-09-04",
@@ -2559,8 +2559,7 @@ window.SCHEDULE = {
      "title": "다시보는 지스튜디오 애프터파티💕최신상템 방송 중 특가 할인",
      "pgm": "라이브쇼",
      "pgm_cd": "0214",
-     "category": "여성패션",
-     "hot": 3
+     "category": "여성패션"
     },
     {
      "start": "10:00",
@@ -8181,7 +8180,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -22299,7 +22299,8 @@ window.SCHEDULE = {
      "slot_id": "59341",
      "pgm": "하루종일 편안한 원더브라",
      "title": "라이브 중 무료교환/무료반품",
-     "category": "패션"
+     "category": "패션",
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -22311,7 +22312,8 @@ window.SCHEDULE = {
      "slot_id": "59457",
      "pgm": "성분에디터 마스크팩 ~81%",
      "title": "마스크팩 쟁이기 라이브",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 10
     },
     {
      "start": "11:30",
@@ -23801,8 +23803,8 @@ window.SCHEDULE = {
    "2026-09-04",
    "2026-09-05"
   ],
-  "matched": 8,
-  "unmatched": 8
+  "matched": 10,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
