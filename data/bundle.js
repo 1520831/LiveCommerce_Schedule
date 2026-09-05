@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-05T15:47:49+09:00",
+ "generated_at": "2026-09-05T15:57:15+09:00",
  "today": "2026-09-05",
  "dates": [
   "2026-09-04",
@@ -2706,7 +2706,8 @@ window.SCHEDULE = {
      "pgm": "잇솔지",
      "pgm_cd": "1109",
      "category": "여성패션",
-     "cast": "influencer"
+     "cast": "influencer",
+     "hot": 6
     },
     {
      "start": "16:00",
@@ -8246,7 +8247,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -22367,7 +22368,7 @@ window.SCHEDULE = {
      "pgm": "성분에디터 마스크팩 ~81%",
      "title": "마스크팩 쟁이기 라이브",
      "category": "뷰티",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "11:30",
@@ -23857,8 +23858,8 @@ window.SCHEDULE = {
    "2026-09-04",
    "2026-09-05"
   ],
-  "matched": 10,
-  "unmatched": 5
+  "matched": 11,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
