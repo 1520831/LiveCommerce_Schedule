@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-05T18:08:14+09:00",
+ "generated_at": "2026-09-05T18:13:35+09:00",
  "today": "2026-09-05",
  "dates": [
   "2026-09-04",
@@ -115,16 +115,16 @@ window.SCHEDULE = {
      "start": "11:00",
      "end": "11:59",
      "brand": "클랍",
-     "product": "[사용기한임박] 클랍 픽토큐어 3박스+앰플토닉 1개+미스트 스프레이 1개",
-     "price": 129000,
-     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253150947",
+     "product": "[사용기한임박] 클랍 30데이 앰플 2박스 비타민A크림 50ml 1개(+증정 안전캡 2개 오프너 2개)",
+     "price": 199000,
+     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252275081",
      "slot_id": "202609046004",
      "items": [
       {
        "brand": "클랍",
-       "product": "[사용기한임박] 클랍 픽토큐어 3박스+앰플토닉 1개+미스트 스프레이 1개",
-       "price": 129000,
-       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253150947"
+       "product": "[사용기한임박] 클랍 30데이 앰플 2박스 비타민A크림 50ml 1개(+증정 안전캡 2개 오프너 2개)",
+       "price": 199000,
+       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252275081"
       }
      ],
      "title": "하반기 최초 공개 클랍 쇼라 핫딜✨",
@@ -397,16 +397,16 @@ window.SCHEDULE = {
      "start": "21:00",
      "end": "21:59",
      "brand": "클랍",
-     "product": "[사용기한임박] 클랍 픽토큐어 3박스+앰플토닉 1개+미스트 스프레이 1개",
-     "price": 129000,
-     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253150947",
+     "product": "[사용기한임박] 클랍 30데이 앰플 2박스 비타민A크림 50ml 1개(+증정 안전캡 2개 오프너 2개)",
+     "price": 199000,
+     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252275081",
      "slot_id": "202609046026",
      "items": [
       {
        "brand": "클랍",
-       "product": "[사용기한임박] 클랍 픽토큐어 3박스+앰플토닉 1개+미스트 스프레이 1개",
-       "price": 129000,
-       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253150947"
+       "product": "[사용기한임박] 클랍 30데이 앰플 2박스 비타민A크림 50ml 1개(+증정 안전캡 2개 오프너 2개)",
+       "price": 199000,
+       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252275081"
       }
      ],
      "title": "사용기한임박 클랍 쇼라 핫딜✨",
@@ -2328,9 +2328,9 @@ window.SCHEDULE = {
      "start": "18:00",
      "end": "18:59",
      "brand": "마메종",
-     "product": "툴스 모어 그릴러 세트 4color MADE IN JAPAN",
-     "price": 61500,
-     "link": "https://item.cjonstyle.com/item/2082986958?channelCode=30002002",
+     "product": "툴스 오븐 그릴러 S MADE IN JAPAN",
+     "price": 43700,
+     "link": "https://item.cjonstyle.com/item/2042378469?channelCode=30002002",
      "slot_id": "29045",
      "title": "다시보는 [보드레 단독] 일본 장인들의 핸드메이드 쿡웨어💛마메종 툴스",
      "pgm": "라이브쇼",
@@ -2739,9 +2739,9 @@ window.SCHEDULE = {
      "start": "17:00",
      "end": "17:59",
      "brand": "알텐바흐",
-     "product": "디펜더스S 프라이팬 NEW 3종세트 (24팬+28웍+28커버)",
-     "price": 239000,
-     "link": "https://item.cjonstyle.com/item/2091542322?channelCode=30002002",
+     "product": "[특별가] 디펜더스 프라이팬 밧드 3종 세트(28팬+브런치팬+밧드L)",
+     "price": 174900,
+     "link": "https://item.cjonstyle.com/item/2092568224?channelCode=30002002",
      "slot_id": "28866",
      "title": "추석 전 구매하세요! 알텐바흐 후라이팬/냄비/밧드/가위/믹싱볼 특가!",
      "pgm": "라이브쇼",
@@ -2820,7 +2820,7 @@ window.SCHEDULE = {
      "end": "19:59",
      "brand": "베라왕",
      "product": "26FW 오비트 올인원 탑 3종",
-     "price": 89900,
+     "price": 80910,
      "link": "https://item.cjonstyle.com/item/2090402439?channelCode=30002002",
      "slot_id": "28868",
      "title": "뉴욕 동일 레이블 오리지널 베라왕💕 스페셜픽 텐텐텐 특집",
@@ -3440,7 +3440,7 @@ window.SCHEDULE = {
      "end": "23:59",
      "brand": "베라왕",
      "product": "26FW 오비트 올인원 탑 3종",
-     "price": 89900,
+     "price": 80910,
      "link": "https://item.cjonstyle.com/item/2090402439?channelCode=30002002",
      "slot_id": "29104",
      "title": "다시보는 뉴욕 동일 레이블 오리지널 베라왕💕",
@@ -4562,7 +4562,7 @@ window.SCHEDULE = {
      "end": "21:59",
      "brand": "코르딕스",
      "product": "루프 기내용 캐리어 20 사이즈",
-     "price": 270000,
+     "price": 300000,
      "link": "https://item.cjonstyle.com/item/2092223993?channelCode=30002002",
      "slot_id": "29151",
      "title": "브티X코르딕스 신상 OPEN💙 블루 뉴컬러 단독물량+파우치 증정!",
@@ -5734,7 +5734,7 @@ window.SCHEDULE = {
      "end": "11:59",
      "brand": "폴레드",
      "product": "폴레드 에어러브5 듀라론 공기청정 무선리모콘 통풍 쿨시트 유모차용 라이너 (보조배터리 미포함)",
-     "price": 69000,
+     "price": 159000,
      "link": "https://shoppinglive.naver.com/livebridge/2014825",
      "slot_id": "2014825",
      "pgm": "[메가위크] 폴레드 에어러브 통풍시트 최대 ~75% 할인",
@@ -8421,7 +8421,7 @@ window.SCHEDULE = {
     },
     {
      "start": "10:20",
-     "end": "",
+     "end": "12:18",
      "brand": "갤럭시",
      "product": "삼성 갤럭시 워치9 스마트워치 강화유리 패키지 크림, 40mm, 블루투스",
      "price": 499000,
@@ -8592,26 +8592,8 @@ window.SCHEDULE = {
      "category": "테크"
     },
     {
-     "start": "12:00",
-     "end": "",
-     "brand": "에어르",
-     "product": "[의사개발] 에어르 슬릭 무선 청소기 + 자동먼지비움",
-     "price": 249000,
-     "link": "https://shoppinglive.naver.com/livebridge/2021177",
-     "slot_id": "2021177",
-     "pgm": "[추석 한가위 세일] 에어르 전제품 초특가 할인!",
-     "title": "추석 한가위 얼리버드 특가!",
-     "rerun": true,
-     "items": [
-      {},
-      {},
-      {}
-     ],
-     "category": "테크"
-    },
-    {
      "start": "12:30",
-     "end": "",
+     "end": "14:28",
      "brand": "갤럭시",
      "product": "삼성 갤럭시 워치9 스마트워치 강화유리 패키지 크림, 40mm, 블루투스",
      "price": 499000,
@@ -8657,7 +8639,7 @@ window.SCHEDULE = {
     },
     {
      "start": "13:00",
-     "end": "",
+     "end": "14:00",
      "brand": "펫또마망",
      "product": "펫또마망 강아지 미끄럼방지 풋크림 슬개골탈구 예방 보습제 30ml, 2개",
      "price": 39900,
@@ -8677,39 +8659,8 @@ window.SCHEDULE = {
      "category": "라이프"
     },
     {
-     "start": "14:00",
-     "end": "",
-     "brand": "리즈데이즈",
-     "product": "[추석+세일/정상가 26900] 라즈니 트위드 헤어리 골드버튼 포켓 봄 니트 가디건 자켓",
-     "price": 24210,
-     "link": "https://shoppinglive.naver.com/livebridge/2001426",
-     "slot_id": "2001426",
-     "pgm": "[🌟블루밍데이즈🌟] 퀄리티 좋은 자켓으로 다양하게 코디하기❣️",
-     "title": "인기상품 입어보기💖",
-     "items": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-     ],
-     "category": "패션"
-    },
-    {
      "start": "15:00",
-     "end": "",
+     "end": "16:00",
      "brand": "워시콤보",
      "product": "LG 오브제컬렉션 워시콤보 미니워시 FH25WAX 올인원 세탁기 건조기 일체형 화이트",
      "price": 3478000,
@@ -8804,7 +8755,7 @@ window.SCHEDULE = {
     },
     {
      "start": "16:00",
-     "end": "",
+     "end": "17:57",
      "brand": "JBL",
      "product": "삼성공식파트너 JBL BAR 1300 MK2 11.1.4채널 사운드바 홈시어터 TV스피커",
      "price": 1699000,
@@ -9352,6 +9303,13 @@ window.SCHEDULE = {
      "pgm": "시슬리💛9/5(토),오후9시🩷FW인기템 빅EVENT💕",
      "title": "라이브진행시 더블쿠폰 증정!",
      "items": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
       {}
      ],
      "category": "패션"
@@ -22371,7 +22329,7 @@ window.SCHEDULE = {
     },
     {
      "start": "11:30",
-     "end": "13:00",
+     "end": "12:33",
      "brand": "대상웰라이프 공식몰",
      "product": "국내 판매 1위 완전균형영양식 뉴케어/당플랜 클래식 외~",
      "price": 40000,
@@ -22383,7 +22341,7 @@ window.SCHEDULE = {
     },
     {
      "start": "11:30",
-     "end": "13:00",
+     "end": "12:30",
      "brand": "JARDIN",
      "product": "[쟈뎅] 편의점 인기 커피/에이드 10+10 골라담기 (+ 1.5L 추가선택)",
      "price": 24400,
@@ -22484,7 +22442,7 @@ window.SCHEDULE = {
      "end": "13:00",
      "brand": "해남농장고구마",
      "product": "해남농장 햇꿀고구마 농장직송 베니하루카",
-     "price": 14900,
+     "price": 28900,
      "link": "https://store.kakao.com/gogumamania/products/780743391",
      "slot_id": "59623",
      "pgm": "해남농장 햇꿀고구마 출시",
@@ -23841,11 +23799,11 @@ window.SCHEDULE = {
   }
  },
  "updated_at": {
-  "HD": "2026-09-05T12:09:11+09:00",
-  "CJ": "2026-09-05T12:09:18+09:00",
-  "NV": "2026-09-05T12:10:18+09:00",
+  "HD": "2026-09-05T18:12:17+09:00",
+  "CJ": "2026-09-05T18:12:23+09:00",
+  "NV": "2026-09-05T18:13:29+09:00",
   "GM": "2026-09-04T08:05:41+09:00",
-  "KA": "2026-09-05T12:09:27+09:00"
+  "KA": "2026-09-05T18:12:33+09:00"
  },
  "cast_kinds": [
   "celeb",
