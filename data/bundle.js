@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-05T12:10:47+09:00",
+ "generated_at": "2026-09-05T12:23:48+09:00",
  "today": "2026-09-05",
  "dates": [
   "2026-09-04",
@@ -8246,7 +8246,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -22354,7 +22354,7 @@ window.SCHEDULE = {
      "pgm": "하루종일 편안한 원더브라",
      "title": "라이브 중 무료교환/무료반품",
      "category": "패션",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "10:00",
