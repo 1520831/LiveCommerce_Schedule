@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-06T08:07:57+09:00",
+ "generated_at": "2026-09-06T08:20:10+09:00",
  "today": "2026-09-06",
  "dates": [
   "2026-09-05",
@@ -435,7 +435,7 @@ window.SCHEDULE = {
      ],
      "title": "[현명쇼] 버버리 아우터 막바지 역시즌 특집!",
      "pgm": "[재방] 현명쇼 (노블레스팀)",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -2251,7 +2251,8 @@ window.SCHEDULE = {
      "title": "다시보는 셀렙샵에디션 기본템, 아우터까지 26FW 신상템",
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 10
     },
     {
      "start": "09:00",
@@ -5827,8 +5828,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 8
+     "category": "테크"
     },
     {
      "start": "09:30",
@@ -22202,7 +22202,7 @@ window.SCHEDULE = {
    "2026-09-06"
   ],
   "matched": 6,
-  "unmatched": 9
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
