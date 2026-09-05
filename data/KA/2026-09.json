@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-09-05T23:41:43+09:00",
+ "updated_at": "2026-09-06T07:09:53+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -720,18 +720,6 @@
     "pgm": "매콤찬 고추다짐이",
     "title": "카쇼라 단독 할인!",
     "category": "식품"
-   },
-   {
-    "start": "22:30",
-    "end": "23:26",
-    "brand": "터치그라운드 스니커즈",
-    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-    "price": 49900,
-    "link": "https://store.kakao.com/touchground/products/774098244",
-    "slot_id": "59903",
-    "pgm": "터치그라운드 발편한운동화",
-    "title": "가벼우면서 쿠션감 좋은운동화",
-    "category": "패션"
    }
   ],
   "2026-09-06": [
@@ -914,7 +902,7 @@
     "end": "11:30",
     "brand": "샘표 공식 스토어",
     "product": "차오차이 짜장/마파/짬뽕/마라탕 3+3+3 골라담기(+2개 증정)",
-    "price": 19900,
+    "price": 35900,
     "link": "https://store.kakao.com/semiemarket/products/344194955",
     "slot_id": "59322",
     "pgm": "맛있는 중화요리는 차오차이!",
@@ -2116,6 +2104,236 @@
     "pgm": "풀무원 스팀쿡 15L!",
     "title": "편백찜기+요거트메이커 증정",
     "category": "테크"
+   }
+  ],
+  "2026-09-11": [
+   {
+    "start": "08:30",
+    "end": "11:30",
+    "brand": "드시모네",
+    "product": "드시모네 365포도 3BOX(총 3개월분) + 커피 증정",
+    "price": 144000,
+    "link": "https://store.kakao.com/desimone/products/257681972",
+    "slot_id": "59283",
+    "pgm": "드시모네 장면역 특허유산균",
+    "title": "7%쿠폰+7%페이 중복할인",
+    "category": "식품"
+   },
+   {
+    "start": "08:30",
+    "end": "11:30",
+    "brand": "동아제약 공식몰",
+    "product": "독일 명품 비타민 오쏘몰 이뮨 30입 단독 할인 특가 외 오쏘몰 인기 상품 모음전",
+    "price": 129000,
+    "link": "https://store.kakao.com/dongapharm/products/265604437",
+    "slot_id": "59284",
+    "pgm": "독일 명품비타민 오쏘몰",
+    "title": "오쏘몰바이탈 10입 특가찬스",
+    "category": "식품"
+   },
+   {
+    "start": "08:30",
+    "end": "11:30",
+    "brand": "CJ제일제당 공식 스토어",
+    "product": "CJ 햇반 작은공기 130g x 48입(잡곡12/발아현미12/흑미12/100%현미12) 외 백미/잡곡 24/36입 구성",
+    "price": 59000,
+    "link": "https://store.kakao.com/cheiljedang/products/285464862",
+    "slot_id": "59285",
+    "pgm": "제일제당으로 준비하는 추석",
+    "title": "햇반 스팸 선물세트 외",
+    "category": "식품"
+   },
+   {
+    "start": "08:30",
+    "end": "10:00",
+    "brand": "바이오가",
+    "product": "바이오가 바디+헤어 BSET 모음",
+    "price": 25500,
+    "link": "https://store.kakao.com/biorga/products/353507044",
+    "slot_id": "59374",
+    "pgm": "바이오가 등드름 바디워시",
+    "title": "3개월 대용량 단독 기획!",
+    "category": "뷰티"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "케이푸드",
+    "product": "농협안심한우 1++등급 불고기 200gX3팩",
+    "price": 39900,
+    "link": "https://store.kakao.com/kfoodmall/products/293437656",
+    "slot_id": "59476",
+    "pgm": "케이푸드 농협 1++등급",
+    "title": "불고기200gx3팩",
+    "category": "식품"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "내츄럴플러스",
+    "product": "내츄럴플러스 루테인 비타민D 2000IU 3박스(6개월분)+쇼핑백 외 건강식품",
+    "price": 22900,
+    "link": "https://store.kakao.com/naturalplus/products/174642572",
+    "slot_id": "59479",
+    "pgm": "내츄럴플러스 추석건강선물",
+    "title": "루테인 비타민D 라이브ON!",
+    "category": "식품"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "춘천 감자밭",
+    "product": "\"전국에서 줄 서서 먹는\" 감자밭 오리지널 감자빵 외 모음전",
+    "price": 33000,
+    "link": "https://store.kakao.com/gamzabatt/products/99477001",
+    "slot_id": "59498",
+    "pgm": "줄 서서 먹는 춘천 감자밭",
+    "title": "PICK 새참도시락 모음전",
+    "category": "식품"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "예가한복",
+    "product": "[예가한복] WN7034 이서나래 여아한복/아동한복",
+    "price": 69000,
+    "link": "https://store.kakao.com/yegahanbok/products/780857346",
+    "slot_id": "59577",
+    "pgm": "예가한복 추석",
+    "title": "아동한복 최대~58%",
+    "category": "키즈"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "전라도청년",
+    "product": "[전라도 청년] 100% 저온압착 통참깨 천년참기름 350ml+350ml 외",
+    "price": 18900,
+    "link": "https://store.kakao.com/jeollayouth/products/286699019",
+    "slot_id": "59487",
+    "pgm": "[라이브 특가] 천년참기름",
+    "title": "방송 중 역대급 혜택",
+    "category": "식품"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "락토필듀오",
+    "product": "락토필듀오 유산균 영양제 모음전",
+    "price": 90000,
+    "link": "https://store.kakao.com/lactophilduo/products/404419054",
+    "slot_id": "59688",
+    "pgm": "락토필듀오 얼리추석 특가",
+    "title": "선물세트 라이브 할인",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "치즈앤푸드CNF",
+    "product": "[카쇼라위크] 라꽁비에뜨 & 에쉬레 프랑스 AOP 포션버터 & 그랑퍼마주 크리스탈 씨솔트버터 & 대파베이컨 크림치즈",
+    "price": 57900,
+    "link": "https://store.kakao.com/cnfpublic/products/587222372",
+    "slot_id": "59286",
+    "pgm": "라꽁비에뜨&에쉬레 버터",
+    "title": "크리스탈 씨솔트버터 외",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "베라쇼",
+    "product": "[베라쇼] 노부영 베이비 베스트/베스트/스테디 베스트/마더구스 세이펜 (펜 미포함)",
+    "price": 350000,
+    "link": "https://store.kakao.com/liveshopping/products/766907674",
+    "slot_id": "59582",
+    "pgm": "우리 아이 첫 영어 노부영",
+    "title": "베스트셀러 라이브 특가",
+    "category": "키즈"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "LG생활건강",
+    "product": "[빨래쉰내제거] 피지 모락셀라 냄새제거 부스터 캡슐 26개입 (5향 중 택1) 외 모음",
+    "price": 21100,
+    "link": "https://store.kakao.com/lgcare/products/521334610",
+    "slot_id": "59685",
+    "pgm": "피지모락셀라 최고혁신상 수상",
+    "title": "기념 최대 47%+증정품",
+    "category": "리빙"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "프렘",
+    "product": "프렘 아델 IH프라이팬&냄비 4종세트",
+    "price": 99000,
+    "link": "https://store.kakao.com/prem/products/726351871",
+    "slot_id": "59689",
+    "pgm": "프렘 아델 프라이팬&냄비",
+    "title": "얼리추석 라이브 특가",
+    "category": "리빙"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "폴인푸드",
+    "product": "[1+1+보틀] 어나더레벨 단백질쉐이크 630g 2병 (11가지맛)",
+    "price": 47800,
+    "link": "https://store.kakao.com/fallinfood/products/236532003",
+    "slot_id": "59489",
+    "pgm": "어나더레벨 단백질쉐이크",
+    "title": "라이브특가 1병 15298원",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "BBQ 본사 직영",
+    "product": "[BBQ] 스모크 바베큐 치킨 560g(4개입/1팩) x 3세트 외 골라담기",
+    "price": 59400,
+    "link": "https://store.kakao.com/15889282/products/596459720",
+    "slot_id": "59521",
+    "pgm": "BBQ스모크바베큐치킨X3세트",
+    "title": "최대 57% 할인 특가!",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "동국제약",
+    "product": "[동국제약] 덴트릭스 구강세정기 소닉펄스 컨트롤샷+노즐+치약 2개 증정 휴대용 무선 구강세정기",
+    "price": 99000,
+    "link": "https://store.kakao.com/dkpharm/products/414045024",
+    "slot_id": "59618",
+    "pgm": "동국제약 톡딜위크 특가",
+    "title": "구강세정기 최대 74% 할인",
+    "category": "리빙"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "열광한우",
+    "product": "[열광한우] 1++등급 한우 선물세트 구이용 모듬 1kg 외",
+    "price": 159000,
+    "link": "https://store.kakao.com/ykbeef/products/779472669",
+    "slot_id": "59625",
+    "pgm": "열광한우 1++한우선물세트",
+    "title": "톡딜위크 쿠폰+페이중복할인",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "화이니카",
+    "product": "[전광렬PICK] 화이니카 치탄플러스 분말치약 구강관리 구취케어",
+    "price": 39900,
+    "link": "https://store.kakao.com/whinica/products/494957619",
+    "slot_id": "59691",
+    "pgm": "화이니카 한가위 기획전",
+    "title": "사은품&단독특가",
+    "category": "리빙"
    }
   ]
  }
