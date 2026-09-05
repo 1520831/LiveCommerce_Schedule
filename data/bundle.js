@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-05T17:54:39+09:00",
+ "generated_at": "2026-09-05T18:08:14+09:00",
  "today": "2026-09-05",
  "dates": [
   "2026-09-04",
@@ -22367,8 +22367,7 @@ window.SCHEDULE = {
      "slot_id": "59457",
      "pgm": "성분에디터 마스크팩 ~81%",
      "title": "마스크팩 쟁이기 라이브",
-     "category": "뷰티",
-     "hot": 10
+     "category": "뷰티"
     },
     {
      "start": "11:30",
@@ -23858,8 +23857,8 @@ window.SCHEDULE = {
    "2026-09-04",
    "2026-09-05"
   ],
-  "matched": 11,
-  "unmatched": 4
+  "matched": 10,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
