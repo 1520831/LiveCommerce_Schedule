@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-05T08:56:09+09:00",
+ "generated_at": "2026-09-05T09:17:35+09:00",
  "today": "2026-09-05",
  "dates": [
   "2026-09-04",
@@ -469,8 +469,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 버버리 60개월 무이자",
-     "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 5
+     "pgm": "[재방] 투명쇼 (패션잡화)"
     },
     {
      "start": "07:00",
@@ -508,8 +507,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[현명쇼] 프라다 신상 선글라스 4만▼",
-     "pgm": "[재방] 현명쇼 (노블레스팀)",
-     "hot": 10
+     "pgm": "[재방] 현명쇼 (노블레스팀)"
     },
     {
      "start": "09:00",
@@ -2561,7 +2559,8 @@ window.SCHEDULE = {
      "title": "다시보는 지스튜디오 애프터파티💕최신상템 방송 중 특가 할인",
      "pgm": "라이브쇼",
      "pgm_cd": "0214",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -7783,7 +7782,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 5
     },
     {
      "start": "09:00",
@@ -7955,7 +7955,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 7
     },
     {
      "start": "09:30",
@@ -23802,8 +23803,8 @@ window.SCHEDULE = {
    "2026-09-04",
    "2026-09-05"
   ],
-  "matched": 9,
-  "unmatched": 7
+  "matched": 10,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
