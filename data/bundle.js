@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-05T10:07:45+09:00",
+ "generated_at": "2026-09-05T10:20:48+09:00",
  "today": "2026-09-05",
  "dates": [
   "2026-09-04",
@@ -2560,7 +2560,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "0214",
      "category": "여성패션",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -7782,8 +7782,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 8
+     "category": "푸드"
     },
     {
      "start": "09:00",
@@ -7955,8 +7954,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "09:30",
@@ -23803,8 +23801,8 @@ window.SCHEDULE = {
    "2026-09-04",
    "2026-09-05"
   ],
-  "matched": 10,
-  "unmatched": 6
+  "matched": 8,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
