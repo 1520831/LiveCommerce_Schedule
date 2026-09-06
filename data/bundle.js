@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-06T10:55:24+09:00",
+ "generated_at": "2026-09-06T11:09:38+09:00",
  "today": "2026-09-06",
  "dates": [
   "2026-09-05",
@@ -6327,7 +6327,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "패션"
+     "category": "패션",
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -22204,8 +22205,8 @@ window.SCHEDULE = {
    "2026-09-05",
    "2026-09-06"
   ],
-  "matched": 9,
-  "unmatched": 7
+  "matched": 10,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
