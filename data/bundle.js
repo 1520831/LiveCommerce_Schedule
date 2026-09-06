@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-06T09:15:26+09:00",
+ "generated_at": "2026-09-06T09:41:48+09:00",
  "today": "2026-09-06",
  "dates": [
   "2026-09-05",
@@ -435,7 +435,7 @@ window.SCHEDULE = {
      ],
      "title": "[현명쇼] 버버리 아우터 막바지 역시즌 특집!",
      "pgm": "[재방] 현명쇼 (노블레스팀)",
-     "hot": 5
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -2252,7 +2252,7 @@ window.SCHEDULE = {
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
      "category": "여성패션",
-     "hot": 3
+     "hot": 6
     },
     {
      "start": "09:00",
@@ -22202,7 +22202,7 @@ window.SCHEDULE = {
    "2026-09-06"
   ],
   "matched": 6,
-  "unmatched": 8
+  "unmatched": 9
  },
  "fixed": {
   "rows": [
