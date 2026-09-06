@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-06T20:36:47+09:00",
+ "generated_at": "2026-09-06T20:46:42+09:00",
  "today": "2026-09-06",
  "dates": [
   "2026-09-05",
@@ -7627,7 +7627,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 10
     },
     {
      "start": "20:00",
@@ -22203,8 +22204,8 @@ window.SCHEDULE = {
    "2026-09-05",
    "2026-09-06"
   ],
-  "matched": 11,
-  "unmatched": 5
+  "matched": 12,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
