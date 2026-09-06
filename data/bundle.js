@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-06T11:38:22+09:00",
+ "generated_at": "2026-09-06T11:49:39+09:00",
  "today": "2026-09-06",
  "dates": [
   "2026-09-05",
@@ -20582,7 +20582,7 @@ window.SCHEDULE = {
      "pgm": "빌리프 뉴메로 에센스 외",
      "title": "라이브 당일 클렌징폼 증정",
      "category": "뷰티",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "10:00",
