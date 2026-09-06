@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-06T19:41:15+09:00",
+ "generated_at": "2026-09-06T19:54:49+09:00",
  "today": "2026-09-06",
  "dates": [
   "2026-09-05",
@@ -2520,8 +2520,7 @@ window.SCHEDULE = {
      "title": "🎇아디다스 컴뱃스포츠",
      "pgm": "라이브쇼",
      "pgm_cd": "1007",
-     "category": "스포츠·아웃도어",
-     "hot": 10
+     "category": "스포츠·아웃도어"
     },
     {
      "start": "18:00",
@@ -20641,7 +20640,7 @@ window.SCHEDULE = {
      "pgm": "소곱창 4900원 무배!",
      "title": "많이 기다리셨죠?",
      "category": "식품",
-     "hot": 8
+     "hot": 6
     },
     {
      "start": "20:30",
@@ -22203,8 +22202,8 @@ window.SCHEDULE = {
    "2026-09-05",
    "2026-09-06"
   ],
-  "matched": 11,
-  "unmatched": 5
+  "matched": 10,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
