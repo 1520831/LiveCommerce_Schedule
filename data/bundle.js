@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-07T08:36:40+09:00",
+ "generated_at": "2026-09-07T08:46:26+09:00",
  "today": "2026-09-07",
  "dates": [
   "2026-09-06",
@@ -2095,8 +2095,7 @@ window.SCHEDULE = {
      "title": "다시보는 애드아보아&드베로타 26FW 마지막 추가 할인",
      "pgm": "라이브쇼",
      "pgm_cd": "1007",
-     "category": "여성패션",
-     "hot": 2
+     "category": "여성패션"
     },
     {
      "start": "09:00",
@@ -6007,7 +6006,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 1
     },
     {
      "start": "09:00",
@@ -18948,8 +18948,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4812117383",
      "slot_id": "254026",
      "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻7",
-     "category": "디지털·PC",
-     "hot": 3
+     "category": "디지털·PC"
     },
     {
      "start": "08:00",
@@ -19955,7 +19954,8 @@ window.SCHEDULE = {
      "slot_id": "59628",
      "pgm": "에픽테토스 1+1 라이브특가",
      "title": "쿠폰+카카오페이머니 할인",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 3
     },
     {
      "start": "08:30",
@@ -19968,7 +19968,7 @@ window.SCHEDULE = {
      "pgm": "마미케어 기미앰플 ~88%",
      "title": "전 구매 마스크팩 추가 증정",
      "category": "뷰티",
-     "hot": 8
+     "hot": 2
     },
     {
      "start": "10:00",
