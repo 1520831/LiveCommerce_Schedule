@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-06T17:40:06+09:00",
+ "generated_at": "2026-09-06T17:51:12+09:00",
  "today": "2026-09-06",
  "dates": [
   "2026-09-05",
@@ -2522,7 +2522,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "1007",
      "category": "스포츠·아웃도어",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "18:00",
