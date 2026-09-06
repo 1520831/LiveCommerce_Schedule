@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-06T17:25:58+09:00",
+ "generated_at": "2026-09-06T17:40:06+09:00",
  "today": "2026-09-06",
  "dates": [
   "2026-09-05",
@@ -2417,7 +2417,7 @@ window.SCHEDULE = {
      "pgm_cd": "1053",
      "category": "주방·잡화",
      "cast": "influencer",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "14:00",
@@ -2521,7 +2521,8 @@ window.SCHEDULE = {
      "title": "🎇아디다스 컴뱃스포츠",
      "pgm": "라이브쇼",
      "pgm_cd": "1007",
-     "category": "스포츠·아웃도어"
+     "category": "스포츠·아웃도어",
+     "hot": 5
     },
     {
      "start": "18:00",
@@ -6137,7 +6138,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -20711,7 +20712,7 @@ window.SCHEDULE = {
      "pgm": "빌리프 뉴메로 에센스 외",
      "title": "라이브 당일 클렌징폼 증정",
      "category": "뷰티",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -22333,8 +22334,8 @@ window.SCHEDULE = {
    "2026-09-05",
    "2026-09-06"
   ],
-  "matched": 9,
-  "unmatched": 7
+  "matched": 10,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
