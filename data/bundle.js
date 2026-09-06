@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-06T19:15:06+09:00",
+ "generated_at": "2026-09-06T19:28:44+09:00",
  "today": "2026-09-06",
  "dates": [
   "2026-09-05",
@@ -2521,7 +2521,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "1007",
      "category": "스포츠·아웃도어",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "18:00",
@@ -2560,7 +2560,8 @@ window.SCHEDULE = {
      "title": "[잘사는언니들] 프롬파이토 우리 아이 키 쑥쑥! 쑥쑥시리즈 역대급 할인!",
      "pgm": "잘사는 언니들",
      "pgm_cd": "1028",
-     "category": "식품·건강"
+     "category": "식품·건강",
+     "hot": 6
     },
     {
      "start": "19:00",
@@ -6106,7 +6107,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -6149,8 +6150,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 9
+     "category": "푸드"
     },
     {
      "start": "10:00",
@@ -7254,7 +7254,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "패션",
-     "hot": 5
+     "hot": 2
     },
     {
      "start": "19:00",
@@ -20639,7 +20639,8 @@ window.SCHEDULE = {
      "slot_id": "59671",
      "pgm": "소곱창 4900원 무배!",
      "title": "많이 기다리셨죠?",
-     "category": "식품"
+     "category": "식품",
+     "hot": 9
     },
     {
      "start": "20:30",
@@ -22201,8 +22202,8 @@ window.SCHEDULE = {
    "2026-09-05",
    "2026-09-06"
   ],
-  "matched": 9,
-  "unmatched": 7
+  "matched": 10,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
