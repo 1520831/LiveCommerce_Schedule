@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-06T21:14:57+09:00",
+ "generated_at": "2026-09-06T21:34:09+09:00",
  "today": "2026-09-06",
  "dates": [
   "2026-09-05",
@@ -2560,7 +2560,7 @@ window.SCHEDULE = {
      "pgm": "잘사는 언니들",
      "pgm_cd": "1028",
      "category": "식품·건강",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "19:00",
@@ -6106,7 +6106,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -7300,7 +7300,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "19:20",
@@ -7627,8 +7627,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티",
-     "hot": 10
+     "category": "뷰티"
     },
     {
      "start": "20:00",
@@ -8276,8 +8275,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티",
-     "hot": 9
+     "category": "뷰티"
     },
     {
      "start": "20:00",
@@ -20053,7 +20051,8 @@ window.SCHEDULE = {
      "slot_id": "252149",
      "pgm": "[앵콜]역대급최저가🌕 로보락S10 MaxV Ultra",
      "rerun": true,
-     "category": "가전"
+     "category": "가전",
+     "hot": 4
     }
    ],
    "2026-09-07": [
@@ -20643,7 +20642,7 @@ window.SCHEDULE = {
      "pgm": "소곱창 4900원 무배!",
      "title": "많이 기다리셨죠?",
      "category": "식품",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "20:30",
@@ -22205,8 +22204,8 @@ window.SCHEDULE = {
    "2026-09-05",
    "2026-09-06"
   ],
-  "matched": 13,
-  "unmatched": 3
+  "matched": 12,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
