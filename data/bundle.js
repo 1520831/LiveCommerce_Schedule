@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-06T19:54:49+09:00",
+ "generated_at": "2026-09-06T20:08:09+09:00",
  "today": "2026-09-06",
  "dates": [
   "2026-09-05",
@@ -2560,7 +2560,7 @@ window.SCHEDULE = {
      "pgm": "잘사는 언니들",
      "pgm_cd": "1028",
      "category": "식품·건강",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "19:00",
@@ -6106,7 +6106,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -20640,7 +20640,7 @@ window.SCHEDULE = {
      "pgm": "소곱창 4900원 무배!",
      "title": "많이 기다리셨죠?",
      "category": "식품",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "20:30",
