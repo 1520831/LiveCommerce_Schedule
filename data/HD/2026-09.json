@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-06T07:09:39+09:00",
+ "updated_at": "2026-09-06T12:09:18+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -1990,16 +1990,16 @@
     "start": "10:00",
     "end": "10:59",
     "brand": "유한킴벌리생활",
-    "product": "[좋은느낌] 오리지널 입는오버나이트 소/중/대 8x4 +(증)입오버4P",
-    "price": 25400,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2149887056",
+    "product": "[화이트] 제로필 생리대 중형 14매 체험팩 09487M2",
+    "price": 3500,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252242474",
     "slot_id": "202609066001",
     "items": [
      {
       "brand": "유한킴벌리생활",
-      "product": "[좋은느낌] 오리지널 입는오버나이트 소/중/대 8x4 +(증)입오버4P",
-      "price": 25400,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2149887056"
+      "product": "[화이트] 제로필 생리대 중형 14매 체험팩 09487M2",
+      "price": 3500,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252242474"
      }
     ],
     "title": "[좋은느낌&화이트] 생리대 BEST 특별가",
@@ -2099,6 +2099,25 @@
     ],
     "title": "[다우닝] 20%쿠폰+3% 깜짝쿠폰",
     "pgm": "[재방] 다우닝 소파 (리빙)"
+   },
+   {
+    "start": "16:00",
+    "end": "16:59",
+    "brand": "바툼",
+    "product": "욕실 온풍기 4.0 벽걸이 전기 가정용 화장실 온풍기 욕실난방기",
+    "price": 99000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252620443",
+    "slot_id": "202609066015",
+    "items": [
+     {
+      "brand": "바툼",
+      "product": "욕실 온풍기 4.0 벽걸이 전기 가정용 화장실 온풍기 욕실난방기",
+      "price": 99000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252620443"
+     }
+    ],
+    "title": "[바툼] 욕실 사계절 필수템! 온라인 최저가 도전",
+    "pgm": "[재방] 바툼 욕실 냉온풍기 (가전)"
    },
    {
     "start": "17:00",
