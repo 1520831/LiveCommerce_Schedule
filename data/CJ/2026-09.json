@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-09-06T18:12:59+09:00",
+ "updated_at": "2026-09-06T23:42:15+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -2787,7 +2787,7 @@
     "start": "17:30",
     "end": "18:34",
     "brand": "아디다스 컴뱃스포츠",
-    "product": "[+티셔츠추가]남성 하이드로 5.0 Plus 퍼포먼스 수트 4종",
+    "product": "남성 하이드로 5.0 Plus 퍼포먼스 수트 4종",
     "price": 149000,
     "link": "https://item.cjonstyle.com/item/2091073922?channelCode=30002002",
     "slot_id": "28871",
@@ -2869,7 +2869,7 @@
     "price": 189000,
     "link": "https://item.cjonstyle.com/item/2092471346?channelCode=30002002",
     "slot_id": "28873",
-    "title": "잘사는💚에스테틱 물광템 보떼덤 에센스 최초 공개!",
+    "title": "잘사는💚에스테틱 물광템💚보떼덤 진주 물광 에센스 최초 공개!",
     "pgm": "잘사는 언니들",
     "pgm_cd": "1028",
     "category": "뷰티"
@@ -2904,7 +2904,7 @@
     "start": "21:00",
     "end": "21:59",
     "brand": "비비안",
-    "product": "[26FW 최신상]스킨핏 심리스 원사이즈 팬티패키지",
+    "product": "[26FW 최신상]스킨핏 심리스 마이원 팬티패키지",
     "price": 62910,
     "link": "https://item.cjonstyle.com/item/2090218220?channelCode=30002002",
     "slot_id": "28875",
@@ -3485,7 +3485,7 @@
     "start": "21:00",
     "end": "21:59",
     "brand": "비비안",
-    "product": "[26FW 최신상]스킨핏 심리스 원사이즈 팬티패키지",
+    "product": "[26FW 최신상]스킨핏 심리스 마이원 팬티패키지",
     "price": 62910,
     "link": "https://item.cjonstyle.com/item/2090218220?channelCode=30002002",
     "slot_id": "29273",
@@ -4100,7 +4100,7 @@
     "end": "21:59",
     "brand": "코르딕스",
     "product": "루프 기내용 캐리어 20 사이즈",
-    "price": 300000,
+    "price": 270000,
     "link": "https://item.cjonstyle.com/item/2092223993?channelCode=30002002",
     "slot_id": "29151",
     "title": "브티X코르딕스 신상 OPEN💙 블루 뉴컬러 단독물량+파우치 증정!",
@@ -4288,6 +4288,18 @@
     "title": "엣지쇼 시즌9 ❤ 90분 특별 편성, 에드아보아+채컬렉티브 방송중 할인",
     "pgm": "엣지쇼",
     "pgm_cd": "0223"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "",
+    "product": "[은세로운발견] 넷플릭스 동궁 속 꺼먹살이가 우리 집으로!🍡",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/29173",
+    "slot_id": "29173",
+    "title": "[은세로운발견] 넷플릭스 동궁 속 꺼먹살이가 우리 집으로!🍡",
+    "pgm": "은세로운 발견",
+    "pgm_cd": "1075"
    },
    {
     "start": "20:00",

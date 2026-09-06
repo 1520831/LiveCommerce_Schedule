@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-06T18:12:54+09:00",
+ "updated_at": "2026-09-06T23:42:09+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -2792,14 +2792,14 @@
     "start": "20:00",
     "end": "20:59",
     "brand": "바디프랜드",
-    "product": "[공식인증리퍼] 바디프랜드 팔콘2026 헬스케어로봇 안마의자 무상AS 1년 (뉴팔콘)",
+    "product": "바디프랜드 팔콘2026 헬스케어로봇 안마의자 무상AS 1년 (뉴팔콘)",
     "price": 3500000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252561962",
     "slot_id": "202609086003",
     "items": [
      {
       "brand": "바디프랜드",
-      "product": "[공식인증리퍼] 바디프랜드 팔콘2026 헬스케어로봇 안마의자 무상AS 1년 (뉴팔콘)",
+      "product": "바디프랜드 팔콘2026 헬스케어로봇 안마의자 무상AS 1년 (뉴팔콘)",
       "price": 3500000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252561962"
      }
