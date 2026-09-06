@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-07T07:22:15+09:00",
+ "generated_at": "2026-09-07T07:36:26+09:00",
  "today": "2026-09-07",
  "dates": [
   "2026-09-06",
@@ -397,7 +397,7 @@ window.SCHEDULE = {
      ],
      "title": "[샐러디] 저당 고단백 두부 부리또",
      "pgm": "[재방] 샐러디 두부 부리또 (일반식품2)",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "08:00",
@@ -5943,7 +5943,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "06:50",
