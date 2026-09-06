@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-06T14:22:04+09:00",
+ "generated_at": "2026-09-06T14:37:27+09:00",
  "today": "2026-09-06",
  "dates": [
   "2026-09-05",
@@ -2416,7 +2416,8 @@ window.SCHEDULE = {
      "pgm": "드엘리사적인시선",
      "pgm_cd": "1053",
      "category": "주방·잡화",
-     "cast": "influencer"
+     "cast": "influencer",
+     "hot": 9
     },
     {
      "start": "14:00",
@@ -5982,7 +5983,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -22333,8 +22334,8 @@ window.SCHEDULE = {
    "2026-09-05",
    "2026-09-06"
   ],
-  "matched": 9,
-  "unmatched": 7
+  "matched": 10,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
