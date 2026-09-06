@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-06T10:14:26+09:00",
+ "generated_at": "2026-09-06T10:28:20+09:00",
  "today": "2026-09-06",
  "dates": [
   "2026-09-05",
@@ -6073,7 +6073,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -6116,7 +6116,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -20579,7 +20580,8 @@ window.SCHEDULE = {
      "slot_id": "59465",
      "pgm": "빌리프 뉴메로 에센스 외",
      "title": "라이브 당일 클렌징폼 증정",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -22201,8 +22203,8 @@ window.SCHEDULE = {
    "2026-09-05",
    "2026-09-06"
   ],
-  "matched": 6,
-  "unmatched": 10
+  "matched": 8,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
