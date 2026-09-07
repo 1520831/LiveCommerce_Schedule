@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-08T08:39:21+09:00",
+ "generated_at": "2026-09-08T08:49:09+09:00",
  "today": "2026-09-08",
  "dates": [
   "2026-09-07",
@@ -20313,8 +20313,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4635915313",
      "slot_id": "252115",
      "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻9",
-     "category": "디지털·PC",
-     "hot": 3
+     "category": "디지털·PC"
     },
     {
      "start": "10:00",
@@ -21063,7 +21062,8 @@ window.SCHEDULE = {
      "slot_id": "58567",
      "pgm": "크리넥&좋은느낌",
      "title": "쿠폰+라이브 사은품까지",
-     "category": "리빙"
+     "category": "리빙",
+     "hot": 3
     },
     {
      "start": "08:30",
@@ -21076,7 +21076,7 @@ window.SCHEDULE = {
      "pgm": "덴마크 유산균이야기",
      "title": "톡딜위크 최대 7%+7%할인",
      "category": "식품",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "08:30",
@@ -21089,7 +21089,7 @@ window.SCHEDULE = {
      "pgm": "그레인온 명절 준비 라이브!",
      "title": "추가 사은품 와르르~",
      "category": "식품",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "08:30",
