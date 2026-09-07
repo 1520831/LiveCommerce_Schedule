@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-07T07:09:17+09:00",
+ "updated_at": "2026-09-07T12:09:58+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -2372,16 +2372,16 @@
     "start": "12:00",
     "end": "12:59",
     "brand": "신선설농탕",
-    "product": "2[신선설농탕] 고기설렁탕 6팩 (양지포함) 590g X 6봉(총 3540g)",
-    "price": 39000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239828977",
+    "product": "1[신선설농탕] 고기설렁탕 590g 6팩+순사골국(곰탕) 590g 6팩+만두 3팩+석박지 500g 2팩",
+    "price": 92000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2242114887",
     "slot_id": "202609076001",
     "items": [
      {
       "brand": "신선설농탕",
-      "product": "2[신선설농탕] 고기설렁탕 6팩 (양지포함) 590g X 6봉(총 3540g)",
-      "price": 39000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239828977"
+      "product": "1[신선설농탕] 고기설렁탕 590g 6팩+순사골국(곰탕) 590g 6팩+만두 3팩+석박지 500g 2팩",
+      "price": 92000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2242114887"
      }
     ],
     "title": "[신선설농탕] 명절맞이 특별가",
@@ -2580,6 +2580,44 @@
   ],
   "2026-09-08": [
    {
+    "start": "00:00",
+    "end": "00:59",
+    "brand": "로보",
+    "product": "스웨이드 3버튼 크롭 자켓",
+    "price": 499000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252874196",
+    "slot_id": "202609086020",
+    "items": [
+     {
+      "brand": "로보",
+      "product": "스웨이드 3버튼 크롭 자켓",
+      "price": 499000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252874196"
+     }
+    ],
+    "title": "[로보] 고급 리얼 스웨이드 무스탕 특집",
+    "pgm": "[재방] 로보 여성의류 (패션3Lab)"
+   },
+   {
+    "start": "07:00",
+    "end": "07:59",
+    "brand": "고비",
+    "product": "25SS 고비(GOBI) 실크 캐시미어 판초 가디건",
+    "price": 259000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2225729705",
+    "slot_id": "202609086021",
+    "items": [
+     {
+      "brand": "고비",
+      "product": "25SS 고비(GOBI) 실크 캐시미어 판초 가디건",
+      "price": 259000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2225729705"
+     }
+    ],
+    "title": "고비 역대급 사계절 상품 특별가",
+    "pgm": "[재방] 고비 (패션1Lab)"
+   },
+   {
     "start": "08:00",
     "end": "08:59",
     "brand": "듀퐁",
@@ -2694,6 +2732,25 @@
     "pgm": "[워커힐] LA갈비 外 (일반식품1)"
    },
    {
+    "start": "14:00",
+    "end": "14:59",
+    "brand": "노팅힐",
+    "product": "올인원 에센스 남성 화장품 400ml 3입 + 100ml 3입",
+    "price": 49800,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253081494",
+    "slot_id": "202609086009",
+    "items": [
+     {
+      "brand": "노팅힐",
+      "product": "올인원 에센스 남성 화장품 400ml 3입 + 100ml 3입",
+      "price": 49800,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253081494"
+     }
+    ],
+    "title": "[로크비에프/휴랜마켓] 방송에서만 최대 50%▼",
+    "pgm": "[휴랜마켓/로크비에프] 남성올인원에센스/시카에센스 (뷰티1)"
+   },
+   {
     "start": "15:00",
     "end": "15:59",
     "brand": "엘렌주얼리",
@@ -2754,16 +2811,16 @@
     "start": "19:00",
     "end": "19:59",
     "brand": "LG전자",
-    "product": "LG 퓨리케어 오브제컬렉션 얼음정수기 구독/렌탈",
-    "price": 3736800,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250072699",
+    "product": "정수기 구독/렌탈 종합 상담",
+    "price": 3520800,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253182047",
     "slot_id": "202609086014",
     "items": [
      {
       "brand": "LG전자",
-      "product": "LG 퓨리케어 오브제컬렉션 얼음정수기 구독/렌탈",
-      "price": 3736800,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250072699"
+      "product": "정수기 구독/렌탈 종합 상담",
+      "price": 3520800,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253182047"
      }
     ],
     "title": "[LG정수기] 구독/렌탈 AI 정수기 론칭 핫딜",
@@ -2962,6 +3019,25 @@
     "pgm": "맛춤가게 (식품)"
    },
    {
+    "start": "13:00",
+    "end": "13:59",
+    "brand": "니콘",
+    "product": "[정품]니콘 Z9 Body Only (렌즈미포함)",
+    "price": 6970000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2217758100",
+    "slot_id": "202609096006",
+    "items": [
+     {
+      "brand": "니콘",
+      "product": "[정품]니콘 Z9 Body Only (렌즈미포함)",
+      "price": 6970000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2217758100"
+     }
+    ],
+    "title": "구매할수록 쏟아지는 포인트",
+    "pgm": "[니콘] 카메라 (가전)"
+   },
+   {
     "start": "14:00",
     "end": "14:59",
     "brand": "이드르르",
@@ -3076,6 +3152,25 @@
     "pgm": "현명쇼(노블레스)"
    },
    {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "네파",
+    "product": "7KE5370 공용 에센셜 블럭 라운드 긴팔 티셔츠 7KE5370",
+    "price": 39000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252830285",
+    "slot_id": "202609096015",
+    "items": [
+     {
+      "brand": "네파",
+      "product": "7KE5370 공용 에센셜 블럭 라운드 긴팔 티셔츠 7KE5370",
+      "price": 39000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252830285"
+     }
+    ],
+    "title": "[네파] 간절기 아이템 미리 준비!",
+    "pgm": "[네파] 아웃도어 (멀티커머스)"
+   },
+   {
     "start": "23:00",
     "end": "23:59",
     "brand": "타미힐피거",
@@ -3157,16 +3252,16 @@
     "start": "11:00",
     "end": "11:59",
     "brand": "크록스",
-    "product": "공용 에코 클로그 207937-2YJ 본/멀티 HM",
-    "price": 74900,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252765012",
+    "product": "남여공용 인모션 클로그 209964-001 블랙 HM",
+    "price": 67900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252423014",
     "slot_id": "202609106005",
     "items": [
      {
       "brand": "크록스",
-      "product": "공용 에코 클로그 207937-2YJ 본/멀티 HM",
-      "price": 74900,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252765012"
+      "product": "남여공용 인모션 클로그 209964-001 블랙 HM",
+      "price": 67900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252423014"
      }
     ],
     "title": "[크록스] 클로그 쇼라 특별 혜택가🩴",
@@ -3216,19 +3311,19 @@
     "start": "09:00",
     "end": "09:59",
     "brand": "아디다스",
-    "product": "코리아공식 KF0485 Soft Lux 스웨트셔츠",
-    "price": 71200,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252385735",
+    "product": "코리아공식 KF8238 에센셜 플러스 3-스트라이프 스웨트 크루",
+    "price": 79000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249340512",
     "slot_id": "202609116002",
     "items": [
      {
       "brand": "아디다스",
-      "product": "코리아공식 KF0485 Soft Lux 스웨트셔츠",
-      "price": 71200,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252385735"
+      "product": "코리아공식 KF8238 에센셜 플러스 3-스트라이프 스웨트 크루",
+      "price": 79000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249340512"
      }
     ],
-    "title": "아디다스공식 26FW 신상풐 최대 40%🔻",
+    "title": "아디다스공식 26FW 신상품 최대 40%🔻",
     "pgm": "백화점 프리오픈쇼(멀티커머스)"
    },
    {
