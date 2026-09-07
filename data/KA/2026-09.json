@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-09-07T23:46:11+09:00",
+ "updated_at": "2026-09-08T07:11:03+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -834,18 +834,6 @@
     "category": "뷰티"
    },
    {
-    "start": "09:55",
-    "end": "11:10",
-    "brand": "터치그라운드 스니커즈",
-    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-    "price": 49900,
-    "link": "https://store.kakao.com/touchground/products/774098244",
-    "slot_id": "59905",
-    "pgm": "터치그라운드 발편한운동화",
-    "title": "가벼우면서 쿠션감 좋은운동화",
-    "category": "패션"
-   },
-   {
     "start": "10:00",
     "end": "11:01",
     "brand": "샘표 공식 스토어",
@@ -978,17 +966,6 @@
     "category": "패션"
    },
    {
-    "start": "18:00",
-    "end": "19:00",
-    "brand": "대상 공식스토어",
-    "product": "행복 10호",
-    "price": 36900,
-    "link": "https://store.kakao.com/daesang/products/406699598",
-    "slot_id": "59854",
-    "pgm": "청정원&종가 쎈딜 라이브",
-    "category": "식품"
-   },
-   {
     "start": "19:00",
     "end": "20:21",
     "brand": "동원공식샵",
@@ -999,18 +976,6 @@
     "pgm": "동원 케바삭치킨 신제품 출시",
     "title": "미리 준비하는 추석 선물",
     "category": "식품"
-   },
-   {
-    "start": "19:00",
-    "end": "20:21",
-    "brand": "쿠쿠전자(주)",
-    "product": "쿠쿠 에코웨일 큐브 메가 3L 음식물처리기 눌음방지 (국내 생산)",
-    "price": 769000,
-    "link": "https://store.kakao.com/cuckooel/products/779037456",
-    "slot_id": "59357",
-    "pgm": "큐브 메가 3L 음식물처리기",
-    "title": "런칭라이브! with김규원",
-    "category": "테크"
    },
    {
     "start": "19:00",
@@ -1095,20 +1060,6 @@
     "pgm": "닥터블릿 나이트버닝 프로",
     "title": "멈춘 체지방 다시 태울 시간",
     "category": "식품"
-   },
-   {
-    "start": "20:30",
-    "end": "21:54",
-    "brand": "웹투어(주)",
-    "product": "[롤링힐스 호텔 룸온리] 객실 1박 + 실내수영장&휘트니스 이용무료_라이브 당일구매시 10월 주중 레이트 체크아웃 제공",
-    "price": 396000,
-    "link": "https://store.kakao.com/webtour/products/777146405",
-    "slot_id": "59901",
-    "pgm": "오늘마감!! 롤링힐스 호텔",
-    "title": "추가금 없이 즐기는 객실UP",
-    "category": "여행",
-    "rerun": true,
-    "rerun_of": "59425"
    }
   ],
   "2026-09-08": [
@@ -1201,7 +1152,7 @@
     "end": "12:00",
     "brand": "바롤",
     "product": "[2+2 SET] 탄탄모공&더블탄력 아이스롤 세럼",
-    "price": 188000,
+    "price": 78900,
     "link": "https://store.kakao.com/varol/products/401905153",
     "slot_id": "59967",
     "pgm": "바롤 아이스롤 세럼",
@@ -1273,7 +1224,7 @@
     "end": "18:30",
     "brand": "만수동떡볶이만떡",
     "product": "떡볶이 7가지맛 내맘대로 무료배송 300g 밀키트 만수동떡볶이 만떡",
-    "price": 3400,
+    "price": 6000,
     "link": "https://store.kakao.com/mantteok/products/678920045",
     "slot_id": "59935",
     "pgm": "2800원 떡볶이 7가지맛",
@@ -2583,6 +2534,200 @@
     "pgm": "하기스 오리지널&썸머 라인업",
     "title": "쿠폰 + 페이머니 할인까지",
     "category": "키즈"
+   }
+  ],
+  "2026-09-13": [
+   {
+    "start": "10:00",
+    "end": "13:00",
+    "brand": "엘에프푸드(LF FOOD)",
+    "product": "[예약발송] 이즈니 버터컵 60입 외 프랑스 버터 기획전",
+    "price": 47900,
+    "link": "https://store.kakao.com/gourmet/products/120697674",
+    "slot_id": "59288",
+    "pgm": "이즈니 생메르 버터컵 특가",
+    "title": "하코야 냉우동 한반12 외",
+    "category": "식품"
+   },
+   {
+    "start": "10:00",
+    "end": "13:00",
+    "brand": "TOMMY HILFIGER",
+    "product": "[공식] [9/13 오전 10시 라이브] 타미힐피거 X 타미 진스 BYE 여름, HELLO 가을! 바로 입는 프레피룩 특가",
+    "price": 99000,
+    "link": "https://store.kakao.com/tommyhilfiger/products/149694975",
+    "slot_id": "59345",
+    "pgm": "타미힐피거/타미진스",
+    "title": "26FW 가디건/데님 외",
+    "category": "패션"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "동아오츠카SHOP",
+    "product": "나랑드사이다 모음전 (오리지널,그린애플,파인애플)",
+    "price": 15500,
+    "link": "https://store.kakao.com/dongashop/products/573713211",
+    "slot_id": "59579",
+    "pgm": "동아오츠카 추석맞이 특가!",
+    "title": "라이브 한정 특별 혜택까지",
+    "category": "식품"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "헤이홈",
+    "product": "헤이홈 스마트 홈캠 가정용 홈 CCTV카메라",
+    "price": 224300,
+    "link": "https://store.kakao.com/hejhome/products/89493181",
+    "slot_id": "59709",
+    "pgm": "헤이홈 스마트 홈캠",
+    "title": "우리집 지킴이 추석맞이 특가",
+    "category": "리빙"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "돈시몬 공식몰",
+    "product": "[돈시몬 공식] 100% NFC 착즙주스 2L&1L 토마토/오렌지/적포도/만다린/자몽/사과 등 돈시몬 전구성 모음전",
+    "price": 55000,
+    "link": "https://store.kakao.com/donsimon/products/114427968",
+    "slot_id": "59530",
+    "pgm": "[돈시몬]100% NFC착즙",
+    "title": "오렌지주스 LIVE ON!",
+    "category": "식품"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "킨드나나",
+    "product": "[킨드나나] 새 계절의 시작!빠르게 만나는 FW 데일리 신상 파자마 100종",
+    "price": 29800,
+    "link": "https://store.kakao.com/kindnana/products/756747890",
+    "slot_id": "59699",
+    "pgm": "킨드나나 새 계절의 시작부터",
+    "title": "여름의 마지막 특가까지!",
+    "category": "패션"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "CLA KOREA",
+    "product": "CLA 클라 국산 고농축 2in1 실내건조 캡슐세제 듀얼클린 100개 외 인기상품 모음전",
+    "price": 8800,
+    "link": "https://store.kakao.com/clakorea/products/380446999",
+    "slot_id": "59710",
+    "pgm": "클라DAY 추석맞이 특가",
+    "title": "인기제품 특별전",
+    "category": "리빙"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "청년상점",
+    "product": "2026 골든에그 햇 감자 5kg 찜용 (개당 100g 이상) / 외 조림용 길쭉한 계란형 신품종 감자",
+    "price": 17900,
+    "link": "https://store.kakao.com/youngstore/products/768948604",
+    "slot_id": "59896",
+    "pgm": "신품종 골든에그 감자 특대",
+    "title": "5kg 만원중반대 특가!",
+    "category": "식품"
+   },
+   {
+    "start": "18:00",
+    "end": "19:30",
+    "brand": "쿼드쎄라",
+    "product": "쿼드쎄라 틴즈",
+    "price": 250000,
+    "link": "https://store.kakao.com/quadthera/products/780350924",
+    "slot_id": "59759",
+    "pgm": "원조 물방울초음파 쿼드쎄라",
+    "title": "쿠폰 + 카카오페이 할인",
+    "category": "테크"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "동화약품",
+    "product": "[동화약품] 소화 부채표 까스활 75ml",
+    "price": 24000,
+    "link": "https://store.kakao.com/dongwhapharm/products/722435455",
+    "slot_id": "59289",
+    "pgm": "속답답한 순간엔 동화약품",
+    "title": "까스활 소다활 외 선물추천",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "농심 브랜드스토어",
+    "product": "라이필 더마콜라겐 시그니처 에센스 1입 외 골라담기",
+    "price": 52800,
+    "link": "https://store.kakao.com/nongshim/products/723603335",
+    "slot_id": "59500",
+    "pgm": "콜라겐 선택 기준 라이필",
+    "title": "국내최초 목주름Rmax 개선",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "득근파티",
+    "product": "[득근파티] 촉촉 부드러운 통살 스팀닭가슴살 18팩 6가지맛",
+    "price": 27800,
+    "link": "https://store.kakao.com/dgparty/products/346289090",
+    "slot_id": "59646",
+    "pgm": "역대급 구성 득근파티",
+    "title": "LIVE 특별구성 득템!",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "Whiff",
+    "product": "공간 필수템 위프 탈취제 WHIFF (린100g/애브리모먼트300g)",
+    "price": 39900,
+    "link": "https://store.kakao.com/whiff/products/576368612",
+    "slot_id": "59680",
+    "pgm": "위프탈취제",
+    "title": "명절선물 특가 무료배송!",
+    "category": "리빙"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "The미식",
+    "product": "더미식 교자만두 고기,김치,땡초, 모음전 4+4 총8봉지 골라담기",
+    "price": 44000,
+    "link": "https://store.kakao.com/themishik/products/298257495",
+    "slot_id": "59574",
+    "pgm": "더미식 맛집보다 맛있다",
+    "title": "육즙부터 갖추시길",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "엘빈즈 공식판매처",
+    "product": "[엘빈즈] 이유식 슈퍼핏 골고루 10팩+실온이유식 4팩 증정(총 14팩) 외 실온이유식/배도라지즙/간식 모음",
+    "price": 49000,
+    "link": "https://store.kakao.com/alvins/products/313068575",
+    "slot_id": "59728",
+    "pgm": "엘빈즈 9월 한가위준비",
+    "title": "이유식 특가 LIVE",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "헤드스파7",
+    "product": "[특별세트] 헤드스파7 트리트먼트 골라담기 (14종 택1)",
+    "price": 300000,
+    "link": "https://store.kakao.com/headspa7/products/59242033",
+    "slot_id": "59843",
+    "pgm": "헤드스파7 상반기 최대80%",
+    "title": "선착순 상품권까지!",
+    "category": "뷰티"
    }
   ]
  }
