@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-07T09:17:52+09:00",
+ "generated_at": "2026-09-07T09:42:55+09:00",
  "today": "2026-09-07",
  "dates": [
   "2026-09-06",
@@ -19955,7 +19955,7 @@ window.SCHEDULE = {
      "pgm": "에픽테토스 1+1 라이브특가",
      "title": "쿠폰+카카오페이머니 할인",
      "category": "뷰티",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -19968,7 +19968,7 @@ window.SCHEDULE = {
      "pgm": "마미케어 기미앰플 ~88%",
      "title": "전 구매 마스크팩 추가 증정",
      "category": "뷰티",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "10:00",
