@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-07T18:14:26+09:00",
+ "updated_at": "2026-09-07T23:45:53+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -2369,25 +2369,6 @@
     "pgm": "노블리타 (노블레스)"
    },
    {
-    "start": "12:00",
-    "end": "12:59",
-    "brand": "신선설농탕",
-    "product": "1[신선설농탕] 고기설렁탕 590g 6팩+순사골국(곰탕) 590g 6팩+만두 3팩+석박지 500g 2팩",
-    "price": 92000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2242114887",
-    "slot_id": "202609076001",
-    "items": [
-     {
-      "brand": "신선설농탕",
-      "product": "1[신선설농탕] 고기설렁탕 590g 6팩+순사골국(곰탕) 590g 6팩+만두 3팩+석박지 500g 2팩",
-      "price": 92000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2242114887"
-     }
-    ],
-    "title": "[신선설농탕] 명절맞이 특별가",
-    "pgm": "[신선설농탕] 신선설농탕 (일반식품2)"
-   },
-   {
     "start": "13:00",
     "end": "13:59",
     "brand": "타미힐피거 키즈",
@@ -2477,52 +2458,10 @@
       "product": "히라오카쇼텐 시즈오카 티백 4종 세트",
       "price": 98900,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253156187"
-     },
-     {
-      "brand": "해외직구",
-      "product": "히라오카쇼텐 말차라떼·호지차라떼·프리미엄 세트",
-      "price": 84900,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253156270"
      }
     ],
     "title": "[말차] 시즈오카 최고급 말차💚 현지 말차밭 Live",
     "pgm": "[해외직구] 일본 현지 방송"
-   },
-   {
-    "start": "18:00",
-    "end": "18:59",
-    "brand": "코아시스",
-    "product": "[SPPC] 디플로마 여 EDP 100ML",
-    "price": 33000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253234141",
-    "slot_id": "202609076011",
-    "items": [
-     {
-      "brand": "코아시스",
-      "product": "[SPPC] 디플로마 여 EDP 100ML",
-      "price": 33000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253234141"
-     }
-    ],
-    "title": "[SPPC] 쇼라 첫 공개! 프렌치 플로럴 향수 특별전"
-   },
-   {
-    "start": "18:00",
-    "end": "18:59",
-    "brand": "신선설농탕",
-    "product": "1[신선설농탕] 고기설렁탕 590g 6팩+순사골국(곰탕) 590g 6팩+만두 3팩+석박지 500g 2팩",
-    "price": 92000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2242114887",
-    "slot_id": "202609076024",
-    "items": [
-     {
-      "brand": "신선설농탕",
-      "product": "1[신선설농탕] 고기설렁탕 590g 6팩+순사골국(곰탕) 590g 6팩+만두 3팩+석박지 500g 2팩",
-      "price": 92000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2242114887"
-     }
-    ],
-    "title": "[신선설농탕] 명절맞이 특별가"
    },
    {
     "start": "19:00",
@@ -2601,6 +2540,24 @@
     "pgm": "[헤이데이무드] 타월/로브 (멀티커머스)"
    },
    {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "국제표준금거래소",
+    "product": "보름달 골드바 1g",
+    "price": 299000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253143576",
+    "slot_id": "202609076022",
+    "items": [
+     {
+      "brand": "국제표준금거래소",
+      "product": "보름달 골드바 1g",
+      "price": 299000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253143576"
+     }
+    ],
+    "title": "[국제표준금거래소] 가을맞이 골드바 쇼라 특별가"
+   },
+   {
     "start": "23:00",
     "end": "23:59",
     "brand": "시스티나",
@@ -2645,14 +2602,14 @@
     "end": "00:59",
     "brand": "로보",
     "product": "스웨이드 3버튼 크롭 자켓",
-    "price": 499000,
+    "price": 399000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252874196",
     "slot_id": "202609086020",
     "items": [
      {
       "brand": "로보",
       "product": "스웨이드 3버튼 크롭 자켓",
-      "price": 499000,
+      "price": 399000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252874196"
      }
     ],
@@ -2968,14 +2925,14 @@
     "end": "23:59",
     "brand": "리바이스",
     "product": "남성 505 레귤러 진 00505-4891 00505-4891",
-    "price": 99000,
+    "price": 59000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251969464",
     "slot_id": "202609086017",
     "items": [
      {
       "brand": "리바이스",
       "product": "남성 505 레귤러 진 00505-4891 00505-4891",
-      "price": 99000,
+      "price": 59000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251969464"
      }
     ],
@@ -3408,16 +3365,16 @@
     "start": "11:00",
     "end": "11:59",
     "brand": "크록스",
-    "product": "남여공용 인모션 클로그 209964-001 블랙 HM",
-    "price": 67900,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252423014",
+    "product": "공용 바야 클로그 화이트 HM10126-100 화이트",
+    "price": 69900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253058225",
     "slot_id": "202609106005",
     "items": [
      {
       "brand": "크록스",
-      "product": "남여공용 인모션 클로그 209964-001 블랙 HM",
-      "price": 67900,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252423014"
+      "product": "공용 바야 클로그 화이트 HM10126-100 화이트",
+      "price": 69900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253058225"
      }
     ],
     "title": "[크록스] 클로그 쇼라 특별 혜택가🩴",
