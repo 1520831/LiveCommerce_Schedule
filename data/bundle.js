@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-07T15:22:15+09:00",
+ "generated_at": "2026-09-07T15:45:00+09:00",
  "today": "2026-09-07",
  "dates": [
   "2026-09-06",
@@ -9552,7 +9552,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "15:00",
@@ -21408,7 +21408,7 @@ window.SCHEDULE = {
      "slot_id": "252111",
      "pgm": "한가위빅세일 삼성 가전 특가! 스마일캐시 최대 5만🎁",
      "category": "가전",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "10:00",
