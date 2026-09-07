@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-08T07:24:25+09:00",
+ "generated_at": "2026-09-08T07:37:39+09:00",
  "today": "2026-09-08",
  "dates": [
   "2026-09-07",
@@ -395,8 +395,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[로보] 고급 리얼 스웨이드 무스탕 특집",
-     "pgm": "[재방] 로보 여성의류 (패션3Lab)",
-     "hot": 3
+     "pgm": "[재방] 로보 여성의류 (패션3Lab)"
     },
     {
      "start": "07:00",
@@ -415,7 +414,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "고비 역대급 사계절 상품 특별가",
-     "pgm": "[재방] 고비 (패션1Lab)"
+     "pgm": "[재방] 고비 (패션1Lab)",
+     "hot": 6
     },
     {
      "start": "08:00",
@@ -6865,8 +6865,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "06:50",
@@ -7086,7 +7085,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "09:30",
@@ -20315,7 +20314,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4635915313",
      "slot_id": "252115",
      "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻9",
-     "category": "디지털·PC"
+     "category": "디지털·PC",
+     "hot": 2
     },
     {
      "start": "10:00",
