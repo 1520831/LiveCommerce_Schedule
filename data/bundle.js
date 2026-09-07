@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-08T08:27:55+09:00",
+ "generated_at": "2026-09-08T08:39:21+09:00",
  "today": "2026-09-08",
  "dates": [
   "2026-09-07",
@@ -414,8 +414,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "고비 역대급 사계절 상품 특별가",
-     "pgm": "[재방] 고비 (패션1Lab)",
-     "hot": 9
+     "pgm": "[재방] 고비 (패션1Lab)"
     },
     {
      "start": "08:00",
@@ -20315,7 +20314,7 @@ window.SCHEDULE = {
      "slot_id": "252115",
      "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻9",
      "category": "디지털·PC",
-     "hot": 1
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -21076,7 +21075,8 @@ window.SCHEDULE = {
      "slot_id": "59269",
      "pgm": "덴마크 유산균이야기",
      "title": "톡딜위크 최대 7%+7%할인",
-     "category": "식품"
+     "category": "식품",
+     "hot": 2
     },
     {
      "start": "08:30",
@@ -21088,7 +21088,8 @@ window.SCHEDULE = {
      "slot_id": "59484",
      "pgm": "그레인온 명절 준비 라이브!",
      "title": "추가 사은품 와르르~",
-     "category": "식품"
+     "category": "식품",
+     "hot": 1
     },
     {
      "start": "08:30",
@@ -22740,7 +22741,7 @@ window.SCHEDULE = {
    "2026-09-07",
    "2026-09-08"
   ],
-  "matched": 8,
+  "matched": 9,
   "unmatched": 9
  },
  "fixed": {
