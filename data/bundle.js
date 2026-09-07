@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-07T20:58:45+09:00",
+ "generated_at": "2026-09-07T21:22:48+09:00",
  "today": "2026-09-07",
  "dates": [
   "2026-09-06",
@@ -24004,8 +24004,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/3937925279",
      "slot_id": "254078",
      "pgm": "최고의 명절 선물은🎁LG가전✨단 90분 풍성한 찬스✨",
-     "category": "가전",
-     "hot": 10
+     "category": "가전"
     },
     {
      "start": "11:00",
@@ -26707,7 +26706,7 @@ window.SCHEDULE = {
    "2026-09-06",
    "2026-09-07"
   ],
-  "matched": 17,
+  "matched": 16,
   "unmatched": 2
  },
  "fixed": {
