@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-07T21:59:04+09:00",
+ "generated_at": "2026-09-07T22:19:19+09:00",
  "today": "2026-09-07",
  "dates": [
   "2026-09-06",
@@ -2809,7 +2809,7 @@ window.SCHEDULE = {
      "pgm": "트래블edit",
      "pgm_cd": "1111",
      "category": "서비스·렌탈",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "19:00",
@@ -7611,7 +7611,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -10223,8 +10223,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 1
+     "category": "푸드"
     },
     {
      "start": "19:00",
@@ -10346,7 +10345,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "19:00",
@@ -11266,7 +11265,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "20:00",
@@ -23959,7 +23958,7 @@ window.SCHEDULE = {
      "slot_id": "252111",
      "pgm": "한가위빅세일 삼성 가전 특가! 스마일캐시 최대 5만🎁",
      "category": "가전",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -24004,7 +24003,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/3937925279",
      "slot_id": "254078",
      "pgm": "최고의 명절 선물은🎁LG가전✨단 90분 풍성한 찬스✨",
-     "category": "가전"
+     "category": "가전",
+     "hot": 10
     },
     {
      "start": "11:00",
