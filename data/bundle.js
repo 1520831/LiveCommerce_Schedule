@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-07T09:58:47+09:00",
+ "generated_at": "2026-09-07T10:15:15+09:00",
  "today": "2026-09-07",
  "dates": [
   "2026-09-06",
@@ -6007,7 +6007,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 2
+     "hot": 6
     },
     {
      "start": "09:00",
@@ -6494,7 +6494,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -6605,7 +6606,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -6815,7 +6817,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -18992,7 +18995,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4318178875",
      "slot_id": "252111",
      "pgm": "한가위빅세일 삼성 가전 특가! 스마일캐시 최대 5만🎁",
-     "category": "가전"
+     "category": "가전",
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -19955,7 +19959,7 @@ window.SCHEDULE = {
      "pgm": "에픽테토스 1+1 라이브특가",
      "title": "쿠폰+카카오페이머니 할인",
      "category": "뷰티",
-     "hot": 4
+     "hot": 8
     },
     {
      "start": "08:30",
@@ -19968,7 +19972,7 @@ window.SCHEDULE = {
      "pgm": "마미케어 기미앰플 ~88%",
      "title": "전 구매 마스크팩 추가 증정",
      "category": "뷰티",
-     "hot": 3
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -21658,8 +21662,8 @@ window.SCHEDULE = {
    "2026-09-06",
    "2026-09-07"
   ],
-  "matched": 13,
-  "unmatched": 7
+  "matched": 17,
+  "unmatched": 3
  },
  "fixed": {
   "rows": [
