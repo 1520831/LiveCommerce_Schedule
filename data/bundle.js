@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-07T17:49:58+09:00",
+ "generated_at": "2026-09-07T18:00:15+09:00",
  "today": "2026-09-07",
  "dates": [
   "2026-09-06",
@@ -6887,7 +6887,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -7059,7 +7059,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 10
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -7497,7 +7497,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 9
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -8077,7 +8077,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -8242,7 +8243,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -8432,7 +8433,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -9036,7 +9037,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "13:00",
@@ -9551,8 +9552,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 1
+     "category": "푸드"
     },
     {
      "start": "15:00",
@@ -21408,7 +21408,7 @@ window.SCHEDULE = {
      "slot_id": "252111",
      "pgm": "한가위빅세일 삼성 가전 특가! 스마일캐시 최대 5만🎁",
      "category": "가전",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -21454,7 +21454,7 @@ window.SCHEDULE = {
      "slot_id": "254078",
      "pgm": "최고의 명절 선물은🎁LG가전✨단 90분 풍성한 찬스✨",
      "category": "가전",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "11:00",
