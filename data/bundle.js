@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-08T00:48:12+09:00",
+ "generated_at": "2026-09-08T07:09:38+09:00",
  "today": "2026-09-08",
  "dates": [
   "2026-09-07",
@@ -396,7 +396,7 @@ window.SCHEDULE = {
      ],
      "title": "[로보] 고급 리얼 스웨이드 무스탕 특집",
      "pgm": "[재방] 로보 여성의류 (패션3Lab)",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "07:00",
@@ -6691,7 +6691,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 5
     },
     {
      "start": "06:50",
@@ -6910,7 +6911,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 4
     },
     {
      "start": "09:30",
@@ -20583,8 +20585,8 @@ window.SCHEDULE = {
    "2026-09-07",
    "2026-09-08"
   ],
-  "matched": 6,
-  "unmatched": 6
+  "matched": 8,
+  "unmatched": 10
  },
  "fixed": {
   "rows": [
