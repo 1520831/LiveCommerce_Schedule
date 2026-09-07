@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-07T18:57:24+09:00",
+ "generated_at": "2026-09-07T19:14:11+09:00",
  "today": "2026-09-07",
  "dates": [
   "2026-09-06",
@@ -2808,7 +2808,8 @@ window.SCHEDULE = {
      "title": "[스페셜단독방송] 5성급호텔뷔페/인스파이어 셰프스 키친",
      "pgm": "트래블edit",
      "pgm_cd": "1111",
-     "category": "서비스·렌탈"
+     "category": "서비스·렌탈",
+     "hot": 2
     },
     {
      "start": "19:00",
@@ -7445,8 +7446,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -7611,7 +7611,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -7801,7 +7801,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -8405,7 +8405,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "13:00",
@@ -10225,7 +10225,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 10
     },
     {
      "start": "19:00",
@@ -24004,7 +24005,7 @@ window.SCHEDULE = {
      "slot_id": "254078",
      "pgm": "최고의 명절 선물은🎁LG가전✨단 90분 풍성한 찬스✨",
      "category": "가전",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -26706,8 +26707,8 @@ window.SCHEDULE = {
    "2026-09-06",
    "2026-09-07"
   ],
-  "matched": 16,
-  "unmatched": 4
+  "matched": 17,
+  "unmatched": 3
  },
  "fixed": {
   "rows": [
