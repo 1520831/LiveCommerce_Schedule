@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-08T07:56:58+09:00",
+ "generated_at": "2026-09-08T08:12:38+09:00",
  "today": "2026-09-08",
  "dates": [
   "2026-09-07",
@@ -415,7 +415,7 @@ window.SCHEDULE = {
      ],
      "title": "고비 역대급 사계절 상품 특별가",
      "pgm": "[재방] 고비 (패션1Lab)",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "08:00",
@@ -6912,8 +6912,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "08:00",
@@ -7008,7 +7007,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 3
     },
     {
      "start": "09:00",
@@ -20315,7 +20315,7 @@ window.SCHEDULE = {
      "slot_id": "252115",
      "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻9",
      "category": "디지털·PC",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "10:00",
