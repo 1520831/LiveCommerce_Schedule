@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-07T19:58:21+09:00",
+ "generated_at": "2026-09-07T20:15:56+09:00",
  "today": "2026-09-07",
  "dates": [
   "2026-09-06",
@@ -7800,8 +7800,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -10226,7 +10225,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "19:00",
@@ -11267,7 +11266,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 10
     },
     {
      "start": "20:00",
@@ -23960,7 +23960,7 @@ window.SCHEDULE = {
      "slot_id": "252111",
      "pgm": "한가위빅세일 삼성 가전 특가! 스마일캐시 최대 5만🎁",
      "category": "가전",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "10:00",
