@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-07T20:48:08+09:00",
+ "generated_at": "2026-09-07T20:58:45+09:00",
  "today": "2026-09-07",
  "dates": [
   "2026-09-06",
@@ -8403,8 +8403,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "13:00",
@@ -24006,7 +24005,7 @@ window.SCHEDULE = {
      "slot_id": "254078",
      "pgm": "최고의 명절 선물은🎁LG가전✨단 90분 풍성한 찬스✨",
      "category": "가전",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -26708,7 +26707,7 @@ window.SCHEDULE = {
    "2026-09-06",
    "2026-09-07"
   ],
-  "matched": 18,
+  "matched": 17,
   "unmatched": 2
  },
  "fixed": {
