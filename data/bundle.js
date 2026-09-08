@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-08T22:20:27+09:00",
+ "generated_at": "2026-09-08T22:41:19+09:00",
  "today": "2026-09-08",
  "dates": [
   "2026-09-07",
@@ -24953,7 +24953,7 @@ window.SCHEDULE = {
      "slot_id": "254033",
      "pgm": "한가위 빅세일🌕 가전은 LG가전! BEST 인기템",
      "category": "가전",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "21:00",
