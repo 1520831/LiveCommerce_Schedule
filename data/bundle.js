@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-08T20:58:28+09:00",
+ "generated_at": "2026-09-08T21:21:58+09:00",
  "today": "2026-09-08",
  "dates": [
   "2026-09-07",
@@ -3202,7 +3202,8 @@ window.SCHEDULE = {
      "pgm": "은세로운 발견",
      "pgm_cd": "1075",
      "category": "가전",
-     "cast": "influencer"
+     "cast": "influencer",
+     "hot": 9
     },
     {
      "start": "20:00",
@@ -25542,8 +25543,7 @@ window.SCHEDULE = {
      "slot_id": "59269",
      "pgm": "덴마크 유산균이야기",
      "title": "톡딜위크 최대 7%+7%할인",
-     "category": "식품",
-     "hot": 10
+     "category": "식품"
     },
     {
      "start": "08:30",
@@ -25725,7 +25725,7 @@ window.SCHEDULE = {
      "pgm": "정관장 한국인삼공사",
      "title": "톡딜위크 7%+7%추가할인",
      "category": "식품",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "19:00",
