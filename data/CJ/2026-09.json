@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-09-08T12:09:09+09:00",
+ "updated_at": "2026-09-08T18:14:29+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -3150,7 +3150,7 @@
     "end": "13:05",
     "brand": "피브레노",
     "product": "[호이픽] 디에이이치 투 톤 뚜띠 백 톨 43 올리브 SET",
-    "price": 444880,
+    "price": 482400,
     "link": "https://item.cjonstyle.com/item/2092290312?channelCode=30002002",
     "slot_id": "29262",
     "title": "다시보는 [투머치쇼X피브레노] 26FW 신상백 론칭&호이픽 한정세트까지!",
@@ -3357,7 +3357,7 @@
     "end": "19:59",
     "brand": "한샘",
     "product": "티오 멀티 단독책상세트+티오 책상의자 DIY",
-    "price": 667760,
+    "price": 732740,
     "link": "https://item.cjonstyle.com/item/2089791894?channelCode=30002002",
     "slot_id": "29221",
     "title": "다시보는 [맘만하니] 한샘 후학기 특집전🩷",
@@ -3683,7 +3683,7 @@
     "end": "11:59",
     "brand": "한샘",
     "product": "티오 멀티 단독책상세트+티오 책상의자 DIY",
-    "price": 667760,
+    "price": 732740,
     "link": "https://item.cjonstyle.com/item/2089791894?channelCode=30002002",
     "slot_id": "29222",
     "title": "다시보는 [맘만하니] 한샘 후학기 특집전🩷",
@@ -4152,7 +4152,7 @@
     "start": "09:00",
     "end": "09:59",
     "brand": "아크비",
-    "product": "[최조가 277600] [브리치] 몽골 쿨_캐시미어 100  셔츠",
+    "product": "[최초가 277600] [브리치] 몽골 쿨_캐시미어 100  셔츠",
     "price": 199880,
     "link": "https://item.cjonstyle.com/item/2064641052?channelCode=30002002",
     "slot_id": "28773",
@@ -4215,15 +4215,14 @@
    {
     "start": "10:00",
     "end": "10:59",
-    "brand": "밀크베이비",
-    "product": "[도하상점][정상가 61900원]포근한 밀크베어 아기망토 유아후드판초",
-    "price": 29900,
-    "link": "https://item.cjonstyle.com/item/2090815246?channelCode=30002002",
+    "brand": "",
+    "product": "[밀크베이비x도하맘]도하맘PICK! 밀크베이비 가을 신상 코디",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/29304",
     "slot_id": "29304",
     "title": "[밀크베이비x도하맘]도하맘PICK! 밀크베이비 가을 신상 코디",
     "pgm": "인플루언서LIVE",
-    "pgm_cd": "1052",
-    "category": "여성패션"
+    "pgm_cd": "1052"
    },
    {
     "start": "10:00",
@@ -4246,7 +4245,7 @@
     "price": 84000,
     "link": "https://item.cjonstyle.com/item/2011033641?channelCode=30002002",
     "slot_id": "29140",
-    "title": "모모래빗 여름기저귀 에코씽씽 드라이 썸머 특가",
+    "title": "추석 연휴 전 마지막 방송, 모모래빗 기저귀 특가일때 쟁이세요!",
     "pgm": "라이브쇼",
     "pgm_cd": "0216",
     "category": "유아동"
@@ -4355,7 +4354,7 @@
    },
    {
     "start": "14:00",
-    "end": "14:59",
+    "end": "15:00",
     "brand": "비상교육",
     "product": "초등 무료체험 14일 + 네이버페이 5만원",
     "price": 0,
@@ -4378,6 +4377,19 @@
     "pgm": "똘똘한쇼",
     "pgm_cd": "1123",
     "category": "식품·건강"
+   },
+   {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "오야니",
+    "product": "[백화점가 239,000]26FW 모로칸 더블포켓 토트백",
+    "price": 169000,
+    "link": "https://item.cjonstyle.com/item/2090924739?channelCode=30002002",
+    "slot_id": "29314",
+    "title": "다시보는 오야니 26FW 신상 공개 최대 할인",
+    "pgm": "라이브쇼",
+    "pgm_cd": "1006",
+    "category": "잡화·슈즈"
    },
    {
     "start": "15:00",
@@ -4624,12 +4636,25 @@
     "category": "주방·잡화"
    },
    {
+    "start": "20:00",
+    "end": "21:04",
+    "brand": "아디다스 컴뱃스포츠",
+    "product": "남성 하이드로 5.0 Plus 퍼포먼스 수트 4종",
+    "price": 149000,
+    "link": "https://item.cjonstyle.com/item/2091073922?channelCode=30002002",
+    "slot_id": "29324",
+    "title": "다시보는🎇아디다스 컴뱃스포츠",
+    "pgm": "라이브쇼",
+    "pgm_cd": "1008",
+    "category": "스포츠·아웃도어"
+   },
+   {
     "start": "20:40",
     "end": "21:44",
     "brand": "바니스뉴욕",
-    "product": "26FW 울트라 파인울100 홀가먼트 풀오버",
-    "price": 71100,
-    "link": "https://item.cjonstyle.com/item/2090932032?channelCode=30002002",
+    "product": "26FW 비즈 니트 베스트",
+    "price": 98100,
+    "link": "https://item.cjonstyle.com/item/2092622577?channelCode=30002002",
     "slot_id": "29150",
     "title": "임세영과 함께하는 바니스뉴욕 애프터파티💕 시크릿 특가+방송중 할인까지",
     "pgm": "바이림",
@@ -4663,6 +4688,45 @@
     "category": "가전"
    },
    {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "아로셀",
+    "product": "보툴케어  PDRN 마스크 12매*5박스  [ 슈퍼 콜라겐 마스크 4매*2박스 + PDRN 스킨팩 100매]",
+    "price": 219000,
+    "link": "https://item.cjonstyle.com/item/2091341512?channelCode=30002002",
+    "slot_id": "29325",
+    "title": "다시보는 겟잇뷰티💖GLOW UP with 아로셀 PDRN 모공 겔마스크",
+    "pgm": "겟잇뷰티",
+    "pgm_cd": "1012",
+    "category": "뷰티"
+   },
+   {
+    "start": "21:00",
+    "end": "22:00",
+    "brand": "아이그너",
+    "product": "카라 셔츠 배색 풀오버",
+    "price": 143100,
+    "link": "https://item.cjonstyle.com/item/2089149753?channelCode=30002002",
+    "slot_id": "29326",
+    "title": "다시보는 [은세로운발견] 아이그너 26FW 신상을 방송에서만 이 가격에?",
+    "pgm": "은세로운 발견",
+    "pgm_cd": "1075",
+    "category": "여성패션"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "무랄리아",
+    "product": "무랄리아 햇 올리브오일 랍스터 500ml",
+    "price": 71000,
+    "link": "https://item.cjonstyle.com/item/2092476173?channelCode=30002002",
+    "slot_id": "29327",
+    "title": "다시보는 무랄리아x오복하우스 공구 최저가 엑스트라버진 올리브오일",
+    "pgm": "VIVA ITALIA",
+    "pgm_cd": "1133",
+    "category": "식품·건강"
+   },
+   {
     "start": "22:00",
     "end": "22:59",
     "brand": "살림의기술",
@@ -4687,6 +4751,19 @@
     "pgm": "브티나는 생활",
     "pgm_cd": "0101",
     "category": "가구·침구"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "인스타360",
+    "product": "Luna Ultra 코스믹블랙, 표준번들",
+    "price": 1149000,
+    "link": "https://item.cjonstyle.com/item/2088279800?channelCode=30002002",
+    "slot_id": "29330",
+    "title": "다시보는 [은세로운발견] 인스타360 Luna Ultra 론칭",
+    "pgm": "은세로운 발견",
+    "pgm_cd": "1075",
+    "category": "가전"
    }
   ],
   "2026-09-10": [
@@ -4706,12 +4783,25 @@
    {
     "start": "10:00",
     "end": "10:59",
+    "brand": "종근당건강",
+    "product": "아보카도오일 250ml*10병",
+    "price": 215600,
+    "link": "https://item.cjonstyle.com/item/2075074503?channelCode=30002002",
+    "slot_id": "29153",
+    "title": "맘만하니💙믿고 먹는 종근당 아보카도 오일! 10병 8만원대 단독 최저가",
+    "pgm": "맘만하니",
+    "pgm_cd": "0099",
+    "category": "식품·건강"
+   },
+   {
+    "start": "10:00",
+    "end": "10:59",
     "brand": "팸퍼스",
     "product": "2026 [두둥맘PICK]낮밤패키지 엔젤에어차차 1박스 + 통잠팬티 4팩 1박스",
     "price": 144900,
     "link": "https://item.cjonstyle.com/item/2081701186?channelCode=30002002",
     "slot_id": "29154",
-    "title": "[두둥맘대로] 팸퍼스 엔젤에어차차/통잠팬티 낮밤기저귀 단독최저가전+사은품",
+    "title": "[두둥맘대로] 팸퍼스 엔젤에어차차/통잠팬티 낮밤기저귀 단독최저가",
     "pgm": "두둥맘대로",
     "pgm_cd": "1119",
     "category": "유아동"
@@ -4741,6 +4831,19 @@
     "pgm": "인플루언서LIVE",
     "pgm_cd": "1052",
     "category": "가전"
+   },
+   {
+    "start": "14:00",
+    "end": "14:59",
+    "brand": "무랄리아",
+    "product": "무랄리아 햇 올리브오일 랍스터 500ml",
+    "price": 71000,
+    "link": "https://item.cjonstyle.com/item/2092476173?channelCode=30002002",
+    "slot_id": "29772",
+    "title": "다시보는 무랄리아x오복하우스 공구 최저가 엑스트라버진 올리브오일",
+    "pgm": "VIVA ITALIA",
+    "pgm_cd": "1133",
+    "category": "식품·건강"
    },
    {
     "start": "15:00",
@@ -4898,11 +5001,24 @@
     "category": "서비스·렌탈"
    },
    {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "아로셀",
+    "product": "보툴케어  PDRN 마스크 12매*5박스  [ 슈퍼 콜라겐 마스크 4매*2박스 + PDRN 스킨팩 100매]",
+    "price": 219000,
+    "link": "https://item.cjonstyle.com/item/2091341512?channelCode=30002002",
+    "slot_id": "29346",
+    "title": "다시보는 겟잇뷰티💖GLOW UP with 아로셀 PDRN 모공 겔마스크",
+    "pgm": "겟잇뷰티",
+    "pgm_cd": "1012",
+    "category": "뷰티"
+   },
+   {
     "start": "20:40",
     "end": "21:44",
     "brand": "종근당건강",
     "product": "락토핏 골드 140포 2통",
-    "price": 88200,
+    "price": 55920,
     "link": "https://item.cjonstyle.com/item/2090738740?channelCode=30002002",
     "slot_id": "28777",
     "title": "[투머치쇼] 1등유산균 락토핏 333 트리플 특집전",
@@ -4992,6 +5108,18 @@
    {
     "start": "11:00",
     "end": "11:59",
+    "brand": "",
+    "product": "[추석 한정 구성] 정관장 홍삼진고",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/29168",
+    "slot_id": "29168",
+    "title": "[추석 한정 구성] 정관장 홍삼진고",
+    "pgm": "라이브쇼",
+    "pgm_cd": "1030"
+   },
+   {
+    "start": "11:00",
+    "end": "11:59",
     "brand": "카피타노",
     "product": "1905 클래식치약 3종세트",
     "price": 43900,
@@ -5014,6 +5142,19 @@
     "pgm": "라이브쇼",
     "pgm_cd": "1016",
     "category": "가전"
+   },
+   {
+    "start": "13:00",
+    "end": "13:59",
+    "brand": "무랄리아",
+    "product": "무랄리아 햇 올리브오일 랍스터 500ml",
+    "price": 71000,
+    "link": "https://item.cjonstyle.com/item/2092476173?channelCode=30002002",
+    "slot_id": "29358",
+    "title": "다시보는 무랄리아x오복하우스 공구 최저가 엑스트라버진 올리브오일",
+    "pgm": "VIVA ITALIA",
+    "pgm_cd": "1133",
+    "category": "식품·건강"
    },
    {
     "start": "16:00",
@@ -5040,6 +5181,18 @@
     "pgm": "라이브쇼",
     "pgm_cd": "0217",
     "category": "스포츠·아웃도어"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "",
+    "product": "글로벌나이프 긴급 물량 확보💥하반기 마지막 찬스 최대 51% 할인!",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/29147",
+    "slot_id": "29147",
+    "title": "글로벌나이프 긴급 물량 확보💥하반기 마지막 찬스 최대 51% 할인!",
+    "pgm": "인플루언서LIVE",
+    "pgm_cd": "1052"
    },
    {
     "start": "18:00",
@@ -5133,6 +5286,19 @@
    {
     "start": "21:00",
     "end": "21:59",
+    "brand": "인스타360",
+    "product": "Luna Ultra 코스믹블랙, 크리에이터 번들",
+    "price": 1490000,
+    "link": "https://item.cjonstyle.com/item/2090860921?channelCode=30002002",
+    "slot_id": "29369",
+    "title": "다시보는 [은세로운발견] 인스타360 Luna Ultra 론칭",
+    "pgm": "은세로운 발견",
+    "pgm_cd": "1075",
+    "category": "가전"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
     "brand": "보떼덤",
     "product": "[예쁘지아 x 보떼덤]스킨 프로텍션 엘리시어 에센스 1EA",
     "price": 79000,
@@ -5155,6 +5321,19 @@
     "pgm": "셀럽 스페셜쇼",
     "pgm_cd": "1029",
     "category": "식품·건강"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "아로셀",
+    "product": "보툴케어  PDRN 마스크 12매*5박스  [ 슈퍼 콜라겐 마스크 4매*2박스 + PDRN 스킨팩 100매]",
+    "price": 219000,
+    "link": "https://item.cjonstyle.com/item/2091341512?channelCode=30002002",
+    "slot_id": "29372",
+    "title": "다시보는 겟잇뷰티💖GLOW UP with 아로셀 PDRN 모공 겔마스크",
+    "pgm": "겟잇뷰티",
+    "pgm_cd": "1012",
+    "category": "뷰티"
    }
   ],
   "2026-09-12": [
@@ -5170,6 +5349,19 @@
     "pgm": "잘사는 언니들",
     "pgm_cd": "1028",
     "category": "식품·건강"
+   },
+   {
+    "start": "13:00",
+    "end": "13:59",
+    "brand": "아로셀",
+    "product": "보툴케어  PDRN 마스크 12매*5박스  [ 슈퍼 콜라겐 마스크 4매*2박스 + PDRN 스킨팩 100매]",
+    "price": 219000,
+    "link": "https://item.cjonstyle.com/item/2091341512?channelCode=30002002",
+    "slot_id": "29381",
+    "title": "다시보는 겟잇뷰티💖GLOW UP with 아로셀 PDRN 모공 겔마스크",
+    "pgm": "겟잇뷰티",
+    "pgm_cd": "1012",
+    "category": "뷰티"
    },
    {
     "start": "14:00",
@@ -5235,6 +5427,19 @@
     "pgm": "라이브쇼",
     "pgm_cd": "1016",
     "category": "서비스·렌탈"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "인스타360",
+    "product": "Luna Ultra 코스믹블랙, 크리에이터 번들",
+    "price": 1490000,
+    "link": "https://item.cjonstyle.com/item/2090860921?channelCode=30002002",
+    "slot_id": "29390",
+    "title": "다시보는 [은세로운발견] 인스타360 Luna Ultra 론칭",
+    "pgm": "은세로운 발견",
+    "pgm_cd": "1075",
+    "category": "가전"
    },
    {
     "start": "21:00",
@@ -5316,6 +5521,19 @@
     "category": "여성패션"
    },
    {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "인스타360",
+    "product": "Luna Ultra 코스믹블랙, 크리에이터 번들",
+    "price": 1490000,
+    "link": "https://item.cjonstyle.com/item/2090860921?channelCode=30002002",
+    "slot_id": "29401",
+    "title": "다시보는 [은세로운발견] 인스타360 Luna Ultra 론칭",
+    "pgm": "은세로운 발견",
+    "pgm_cd": "1075",
+    "category": "가전"
+   },
+   {
     "start": "11:00",
     "end": "11:59",
     "brand": "비상교육",
@@ -5339,6 +5557,19 @@
     "title": "네추럴코어+하기스+크리넥스+베베숲+쁘리마쥬+좋은느낌外",
     "pgm": "라이브쇼",
     "pgm_cd": "1069"
+   },
+   {
+    "start": "16:00",
+    "end": "16:59",
+    "brand": "아로셀",
+    "product": "보툴케어  PDRN 마스크 12매*5박스  [ 슈퍼 콜라겐 마스크 4매*2박스 + PDRN 스킨팩 100매]",
+    "price": 219000,
+    "link": "https://item.cjonstyle.com/item/2091341512?channelCode=30002002",
+    "slot_id": "29407",
+    "title": "다시보는 겟잇뷰티💖GLOW UP with 아로셀 PDRN 모공 겔마스크",
+    "pgm": "겟잇뷰티",
+    "pgm_cd": "1012",
+    "category": "뷰티"
    },
    {
     "start": "16:25",
@@ -5377,6 +5608,19 @@
     "pgm": "브랜디드 라이브쇼",
     "pgm_cd": "1130",
     "category": "잡화·슈즈"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "LG유플러스",
+    "product": "LGU+ 아이폰17 256G 번호이동 이통사약정 공시 유플러스 95요금제 번이",
+    "price": 337000,
+    "link": "https://item.cjonstyle.com/item/2084009145?channelCode=30002002",
+    "slot_id": "29182",
+    "title": "NEW 새로운 아이폰 구매시 3만원 상당 사은품",
+    "pgm": "라이브쇼",
+    "pgm_cd": "1008",
+    "category": "가전"
    },
    {
     "start": "18:00",
@@ -5493,6 +5737,19 @@
     "pgm": "라이브쇼",
     "pgm_cd": "1007",
     "category": "가전"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "바디프랜드",
+    "product": "[상품권10만] 아제라로봇 헬스케어로봇 안마의자 / 새제품 무상AS 5년",
+    "price": 3500000,
+    "link": "https://item.cjonstyle.com/item/2092219153?channelCode=30002002",
+    "slot_id": "29187",
+    "title": "[바디프랜드] 최신상 아제라로봇 최초공개🔥팔콘&뉴팔콘 추석 전 마지막✨",
+    "pgm": "라이브쇼",
+    "pgm_cd": "0146",
+    "category": "주방·잡화"
    },
    {
     "start": "21:00",
