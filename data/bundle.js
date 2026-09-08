@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-08T18:27:42+09:00",
+ "generated_at": "2026-09-08T18:43:38+09:00",
  "today": "2026-09-08",
  "dates": [
   "2026-09-07",
@@ -10601,7 +10601,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 10
+     "hot": 7
     },
     {
      "start": "18:00",
@@ -25555,7 +25555,7 @@ window.SCHEDULE = {
      "pgm": "그레인온 명절 준비 라이브!",
      "title": "추가 사은품 와르르~",
      "category": "식품",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "08:30",
