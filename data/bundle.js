@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-09T08:40:52+09:00",
+ "generated_at": "2026-09-09T08:54:45+09:00",
  "today": "2026-09-09",
  "dates": [
   "2026-09-08",
@@ -2659,8 +2659,7 @@ window.SCHEDULE = {
      "pgm": "잇솔지",
      "pgm_cd": "1109",
      "category": "여성패션",
-     "cast": "influencer",
-     "hot": 5
+     "cast": "influencer"
     },
     {
      "start": "09:00",
@@ -21214,8 +21213,7 @@ window.SCHEDULE = {
      "price": 0,
      "link": "https://player.sauceflex.com/broadcast/lkebay-43a1643602d843e28d1e25e4a4f7a8ca",
      "slot_id": "252096",
-     "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻11",
-     "hot": 2
+     "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻11"
     },
     {
      "start": "10:00",
@@ -21750,7 +21748,8 @@ window.SCHEDULE = {
      "slot_id": "58568",
      "pgm": "프로쉬 푸른 하늘의 날 특집",
      "title": "주방/세탁/청소세제 쟁이기",
-     "category": "리빙"
+     "category": "리빙",
+     "hot": 2
     },
     {
      "start": "08:30",
@@ -21762,7 +21761,8 @@ window.SCHEDULE = {
      "slot_id": "59567",
      "pgm": "아토팜 하반기 최대 혜택",
      "title": "브랜드위크 LIVE+본품증정",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -21775,7 +21775,7 @@ window.SCHEDULE = {
      "pgm": "미샤 ~60% 추석맞이 할인",
      "title": "쿠폰+카카오페이머니 할인",
      "category": "뷰티",
-     "hot": 3
+     "hot": 1
     },
     {
      "start": "08:30",
@@ -21788,7 +21788,7 @@ window.SCHEDULE = {
      "pgm": "라보에이치 ~46% 할인!",
      "title": "방송 중 5% 추가할인까지",
      "category": "뷰티",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "10:00",
