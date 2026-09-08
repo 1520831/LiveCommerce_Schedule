@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-08T21:21:58+09:00",
+ "generated_at": "2026-09-08T21:44:43+09:00",
  "today": "2026-09-08",
  "dates": [
   "2026-09-07",
@@ -3203,7 +3203,7 @@ window.SCHEDULE = {
      "pgm_cd": "1075",
      "category": "가전",
      "cast": "influencer",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "20:00",
@@ -12307,7 +12307,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "20:00",
@@ -25724,8 +25724,7 @@ window.SCHEDULE = {
      "slot_id": "59270",
      "pgm": "정관장 한국인삼공사",
      "title": "톡딜위크 7%+7%추가할인",
-     "category": "식품",
-     "hot": 10
+     "category": "식품"
     },
     {
      "start": "19:00",
@@ -27257,7 +27256,7 @@ window.SCHEDULE = {
    "2026-09-07",
    "2026-09-08"
   ],
-  "matched": 11,
+  "matched": 10,
   "unmatched": 7
  },
  "fixed": {
