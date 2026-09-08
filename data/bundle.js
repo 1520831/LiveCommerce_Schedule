@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-09T07:59:35+09:00",
+ "generated_at": "2026-09-09T08:15:57+09:00",
  "today": "2026-09-09",
  "dates": [
   "2026-09-08",
@@ -546,8 +546,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[한민금거래소] 금을 생산하는 기업!",
-     "pgm": "[재방] 한민금거래소 (패션잡화)",
-     "hot": 4
+     "pgm": "[재방] 한민금거래소 (패션잡화)"
     },
     {
      "start": "08:00",
@@ -2660,7 +2659,8 @@ window.SCHEDULE = {
      "pgm": "잇솔지",
      "pgm_cd": "1109",
      "category": "여성패션",
-     "cast": "influencer"
+     "cast": "influencer",
+     "hot": 5
     },
     {
      "start": "09:00",
@@ -7434,7 +7434,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "08:00",
@@ -7575,8 +7575,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 7
+     "category": "테크"
     },
     {
      "start": "09:30",
@@ -23440,8 +23439,8 @@ window.SCHEDULE = {
    "2026-09-08",
    "2026-09-09"
   ],
-  "matched": 11,
-  "unmatched": 8
+  "matched": 10,
+  "unmatched": 9
  },
  "fixed": {
   "rows": [
