@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-08T21:59:50+09:00",
+ "generated_at": "2026-09-08T22:20:27+09:00",
  "today": "2026-09-08",
  "dates": [
   "2026-09-07",
@@ -12306,8 +12306,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프",
-     "hot": 6
+     "category": "라이프"
     },
     {
      "start": "20:00",
@@ -24930,7 +24929,7 @@ window.SCHEDULE = {
      "slot_id": "254080",
      "pgm": "로보락",
      "category": "가전",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "20:00",
@@ -24953,7 +24952,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4729503571",
      "slot_id": "254033",
      "pgm": "한가위 빅세일🌕 가전은 LG가전! BEST 인기템",
-     "category": "가전"
+     "category": "가전",
+     "hot": 5
     },
     {
      "start": "21:00",
