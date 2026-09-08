@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-08T19:59:17+09:00",
+ "generated_at": "2026-09-08T20:17:03+09:00",
  "today": "2026-09-08",
  "dates": [
   "2026-09-07",
@@ -10601,8 +10601,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 8
+     "category": "푸드"
     },
     {
      "start": "18:00",
@@ -25725,7 +25724,8 @@ window.SCHEDULE = {
      "slot_id": "59270",
      "pgm": "정관장 한국인삼공사",
      "title": "톡딜위크 7%+7%추가할인",
-     "category": "식품"
+     "category": "식품",
+     "hot": 8
     },
     {
      "start": "19:00",
