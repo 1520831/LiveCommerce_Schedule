@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-08T12:48:54+09:00",
+ "generated_at": "2026-09-08T12:58:50+09:00",
  "today": "2026-09-08",
  "dates": [
   "2026-09-07",
@@ -23849,7 +23849,7 @@ window.SCHEDULE = {
      "pgm": "덴마크 유산균이야기",
      "title": "톡딜위크 최대 7%+7%할인",
      "category": "식품",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "08:30",
