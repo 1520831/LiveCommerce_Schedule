@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-08T18:16:08+09:00",
+ "generated_at": "2026-09-08T18:27:42+09:00",
  "today": "2026-09-08",
  "dates": [
   "2026-09-07",
@@ -2870,8 +2870,7 @@ window.SCHEDULE = {
      "title": "[맘만하니] 인스파이어 5성급 뷔페/레스토랑 균일가패키지 ~63%🍽️",
      "pgm": "맘만하니",
      "pgm_cd": "0099",
-     "category": "서비스·렌탈",
-     "hot": 10
+     "category": "서비스·렌탈"
     },
     {
      "start": "11:00",
@@ -10601,7 +10600,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 10
     },
     {
      "start": "18:00",
