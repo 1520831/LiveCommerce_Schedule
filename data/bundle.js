@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-08T12:32:58+09:00",
+ "generated_at": "2026-09-08T12:48:54+09:00",
  "today": "2026-09-08",
  "dates": [
   "2026-09-07",
@@ -7592,8 +7592,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "09:00",
@@ -8750,7 +8749,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -9264,7 +9263,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -23863,7 +23862,7 @@ window.SCHEDULE = {
      "pgm": "그레인온 명절 준비 라이브!",
      "title": "추가 사은품 와르르~",
      "category": "식품",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "08:30",
@@ -25564,8 +25563,8 @@ window.SCHEDULE = {
    "2026-09-07",
    "2026-09-08"
   ],
-  "matched": 15,
-  "unmatched": 3
+  "matched": 14,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
