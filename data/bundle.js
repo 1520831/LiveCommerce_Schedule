@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-08T13:58:46+09:00",
+ "generated_at": "2026-09-08T14:16:22+09:00",
  "today": "2026-09-08",
  "dates": [
   "2026-09-07",
@@ -2643,7 +2643,8 @@ window.SCHEDULE = {
      "title": "[맘만하니] 인스파이어 5성급 뷔페/레스토랑 균일가패키지 ~63%🍽️",
      "pgm": "맘만하니",
      "pgm_cd": "0099",
-     "category": "서비스·렌탈"
+     "category": "서비스·렌탈",
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -7592,7 +7593,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 9
     },
     {
      "start": "09:00",
@@ -8502,7 +8504,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -8749,7 +8751,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 9
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -9033,7 +9035,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "10:30",
@@ -9262,8 +9264,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 8
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -9534,8 +9535,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프",
-     "hot": 1
+     "category": "라이프"
     },
     {
      "start": "11:00",
@@ -10623,7 +10623,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -23849,7 +23849,7 @@ window.SCHEDULE = {
      "pgm": "덴마크 유산균이야기",
      "title": "톡딜위크 최대 7%+7%할인",
      "category": "식품",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "08:30",
@@ -23862,7 +23862,7 @@ window.SCHEDULE = {
      "pgm": "그레인온 명절 준비 라이브!",
      "title": "추가 사은품 와르르~",
      "category": "식품",
-     "hot": 10
+     "hot": 8
     },
     {
      "start": "08:30",
@@ -23911,7 +23911,7 @@ window.SCHEDULE = {
      "pgm": "베이비브레짜 카쇼라 특가",
      "title": "2종 중복할인+특별 사은품",
      "category": "키즈",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "10:06",
