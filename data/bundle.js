@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-08T10:17:45+09:00",
+ "generated_at": "2026-09-08T10:32:03+09:00",
  "today": "2026-09-08",
  "dates": [
   "2026-09-07",
@@ -2343,7 +2343,7 @@ window.SCHEDULE = {
      "title": "맘만하니x마이크로킥보드 가을 첫 라이브🛴맥시T 최다재고 확보",
      "pgm": "맘만하니",
      "pgm_cd": "0099",
-     "hot": 10
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -7962,7 +7962,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 9
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -8184,7 +8184,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -8201,8 +8202,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈",
-     "hot": 7
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -21066,7 +21066,7 @@ window.SCHEDULE = {
      "pgm": "크리넥&좋은느낌",
      "title": "쿠폰+라이브 사은품까지",
      "category": "리빙",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "08:30",
