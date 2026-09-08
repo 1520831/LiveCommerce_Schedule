@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-08T18:14:22+09:00",
+ "updated_at": "2026-09-08T23:47:32+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -2659,14 +2659,14 @@
     "end": "09:59",
     "brand": "소다",
     "product": "여성  소다 신상 3센치 메리제인 펌프스   (ARF508 LS10) ARF508LS10",
-    "price": 197400,
+    "price": 296100,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250444142",
     "slot_id": "202609086005",
     "items": [
      {
       "brand": "소다",
       "product": "여성  소다 신상 3센치 메리제인 펌프스   (ARF508 LS10) ARF508LS10",
-      "price": 197400,
+      "price": 296100,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250444142"
      }
     ],
@@ -2829,16 +2829,16 @@
     "start": "17:00",
     "end": "17:59",
     "brand": "밋앤밀",
-    "product": "[농할] [밋앤밀] 국내산 경북 영천 산지직송 첼시자두 왕특 2Kg(120g 이상)",
-    "price": 30600,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252697251",
+    "product": "[농할] [밋앤밀] 국내산 영주 산지직송 26년 햇 대향금 황도복숭아 4kg 대과 (10-12과)",
+    "price": 54300,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253154393",
     "slot_id": "202609086012",
     "items": [
      {
       "brand": "밋앤밀",
-      "product": "[농할] [밋앤밀] 국내산 경북 영천 산지직송 첼시자두 왕특 2Kg(120g 이상)",
-      "price": 30600,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252697251"
+      "product": "[농할] [밋앤밀] 국내산 영주 산지직송 26년 햇 대향금 황도복숭아 4kg 대과 (10-12과)",
+      "price": 54300,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253154393"
      }
     ],
     "title": "[밋앤밀] 초록빛 첼시자두 시즌 마지막 방송 특별가",
@@ -2848,16 +2848,16 @@
     "start": "18:00",
     "end": "18:59",
     "brand": "도로시",
-    "product": "14k 코지 랩 다이아몬드 모아링 펜던트_텍스처",
-    "price": 364000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2226181195",
+    "product": "[타임찬스] 14k 클래식 랩 다이아몬드 4프롱 참 펜던트 5부_한미",
+    "price": 343000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2235161267",
     "slot_id": "202609086013",
     "items": [
      {
       "brand": "도로시",
-      "product": "14k 코지 랩 다이아몬드 모아링 펜던트_텍스처",
-      "price": 364000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2226181195"
+      "product": "[타임찬스] 14k 클래식 랩 다이아몬드 4프롱 참 펜던트 5부_한미",
+      "price": 343000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2235161267"
      }
     ],
     "title": "[도로시] 18K 골드 x 랩 다이아몬드 특별가",
@@ -2943,14 +2943,14 @@
     "end": "20:59",
     "brand": "소다",
     "product": "여성  소다 신상 3센치 메리제인 펌프스   (ARF508 LS10) ARF508LS10",
-    "price": 197400,
+    "price": 296100,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250444142",
     "slot_id": "202609086028",
     "items": [
      {
       "brand": "소다",
       "product": "여성  소다 신상 3센치 메리제인 펌프스   (ARF508 LS10) ARF508LS10",
-      "price": 197400,
+      "price": 296100,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250444142"
      }
     ],
@@ -2962,14 +2962,14 @@
     "end": "21:59",
     "brand": "로버츠베리에",
     "product": "[6L] 로버츠베리에 야생 빌베리 3L + 빌베리 3L",
-    "price": 415800,
+    "price": 290000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2241378297",
     "slot_id": "202609086015",
     "items": [
      {
       "brand": "로버츠베리에",
       "product": "[6L] 로버츠베리에 야생 빌베리 3L + 빌베리 3L",
-      "price": 415800,
+      "price": 290000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2241378297"
      }
     ],
@@ -3015,6 +3015,24 @@
     "pgm": "명품특별전 (노블레스)"
    },
    {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "바디프랜드",
+    "product": "바디프랜드 팔콘2026 헬스케어로봇 안마의자 무상AS 1년 (뉴팔콘)",
+    "price": 3500000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252561962",
+    "slot_id": "202609086027",
+    "items": [
+     {
+      "brand": "바디프랜드",
+      "product": "바디프랜드 팔콘2026 헬스케어로봇 안마의자 무상AS 1년 (뉴팔콘)",
+      "price": 3500000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252561962"
+     }
+    ],
+    "title": "[바디프랜드] 한가위페스타 리퍼 대전"
+   },
+   {
     "start": "23:00",
     "end": "23:59",
     "brand": "리바이스",
@@ -3032,6 +3050,24 @@
     ],
     "title": "리바이스 인기 데님 라인 방송 중 최대 47%▼",
     "pgm": "현대렐라쇼 (멀티커머스)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "도로시",
+    "product": "[타임찬스] 14k 클래식 랩 다이아몬드 4프롱 참 펜던트 5부_한미",
+    "price": 343000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2235161267",
+    "slot_id": "202609086026",
+    "items": [
+     {
+      "brand": "도로시",
+      "product": "[타임찬스] 14k 클래식 랩 다이아몬드 4프롱 참 펜던트 5부_한미",
+      "price": 343000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2235161267"
+     }
+    ],
+    "title": "[도로시] 18K 골드 x 랩 다이아몬드 특별가"
    }
   ],
   "2026-09-09": [

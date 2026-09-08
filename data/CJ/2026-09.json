@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-09-08T18:14:29+09:00",
+ "updated_at": "2026-09-08T23:47:38+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -3942,9 +3942,9 @@
     "start": "19:00",
     "end": "19:59",
     "brand": "아이홉",
-    "product": "베이비 샴푸 & 바디워시 500ml 1개",
-    "price": 57800,
-    "link": "https://item.cjonstyle.com/item/2091196387?channelCode=30002002",
+    "product": "[듀앳픽] 베이비 스타트 세트",
+    "price": 88900,
+    "link": "https://item.cjonstyle.com/item/2091324493?channelCode=30002002",
     "slot_id": "29134",
     "title": "[CJ온스타일X듀앳마켓] 아이홉 최초 공개 LIVE",
     "pgm": "라이브쇼",
@@ -4112,7 +4112,7 @@
     "end": "23:59",
     "brand": "로보",
     "product": "25FW 리버시블 후드 숏 무스탕",
-    "price": 1010000,
+    "price": 990000,
     "link": "https://item.cjonstyle.com/item/2073791119?channelCode=30002002",
     "slot_id": "29299",
     "title": "다시보는 FW 얼리버드 특가! 무스탕&스웨이드 방송 중 추가 할인",
@@ -4538,7 +4538,7 @@
     "end": "18:59",
     "brand": "시몬스",
     "product": "올로 클래식. 뷰티레스트 바이브. 킹오브킹 침대",
-    "price": 6510000,
+    "price": 6045000,
     "link": "https://item.cjonstyle.com/item/2076705770?channelCode=30002002",
     "slot_id": "29320",
     "title": "다시보는 굿라이프 x 시몬스 입점 특집 ✨역대급 파격조건 ✨",
@@ -4562,14 +4562,15 @@
    {
     "start": "19:00",
     "end": "19:59",
-    "brand": "",
-    "product": "[준성담 X 비아신세계] 이탈리아의 예술에서 풍경으로, 그리고 삶 속으로",
+    "brand": "비아신세계",
+    "product": "[비바이탈리아] ] 이탈리아 중북부",
     "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/29146",
+    "link": "https://item.cjonstyle.com/item/2091196287?channelCode=30002002",
     "slot_id": "29146",
     "title": "[준성담 X 비아신세계] 이탈리아의 예술에서 풍경으로, 그리고 삶 속으로",
     "pgm": "VIVA ITALIA",
-    "pgm_cd": "1133"
+    "pgm_cd": "1133",
+    "category": "서비스·렌탈"
    },
    {
     "start": "19:00",
@@ -4831,6 +4832,19 @@
     "pgm": "인플루언서LIVE",
     "pgm_cd": "1052",
     "category": "가전"
+   },
+   {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "써스데이아일랜드",
+    "product": "[Thursday Island] 프린트 러플 플레어 원피스(T242MOP148W)",
+    "price": 55000,
+    "link": "https://item.cjonstyle.com/item/2079776797?channelCode=30002002",
+    "slot_id": "29158",
+    "title": "써스데이아일랜드 가을 특가전! 최대 83% 할인",
+    "pgm": "라이브쇼",
+    "pgm_cd": "1007",
+    "category": "여성패션"
    },
    {
     "start": "14:00",
