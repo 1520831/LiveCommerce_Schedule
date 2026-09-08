@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-08T11:33:24+09:00",
+ "generated_at": "2026-09-08T11:48:25+09:00",
  "today": "2026-09-08",
  "dates": [
   "2026-09-07",
@@ -7962,7 +7962,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -8486,7 +8486,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "10:30",
@@ -8947,7 +8947,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 4
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -21080,7 +21080,7 @@ window.SCHEDULE = {
      "pgm": "덴마크 유산균이야기",
      "title": "톡딜위크 최대 7%+7%할인",
      "category": "식품",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "08:30",
