@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-08T08:58:20+09:00",
+ "generated_at": "2026-09-08T09:26:10+09:00",
  "today": "2026-09-08",
  "dates": [
   "2026-09-07",
@@ -7007,7 +7007,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "09:00",
@@ -7038,7 +7038,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 3
     },
     {
      "start": "09:00",
@@ -21063,7 +21064,7 @@ window.SCHEDULE = {
      "pgm": "크리넥&좋은느낌",
      "title": "쿠폰+라이브 사은품까지",
      "category": "리빙",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -22741,8 +22742,8 @@ window.SCHEDULE = {
    "2026-09-07",
    "2026-09-08"
   ],
-  "matched": 9,
-  "unmatched": 9
+  "matched": 10,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
