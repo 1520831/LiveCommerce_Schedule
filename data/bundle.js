@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-08T11:18:13+09:00",
+ "generated_at": "2026-09-08T11:33:24+09:00",
  "today": "2026-09-08",
  "dates": [
   "2026-09-07",
@@ -7038,7 +7038,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "09:00",
@@ -7869,7 +7869,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -8202,7 +8202,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -8946,7 +8946,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -21079,7 +21080,7 @@ window.SCHEDULE = {
      "pgm": "덴마크 유산균이야기",
      "title": "톡딜위크 최대 7%+7%할인",
      "category": "식품",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "08:30",
@@ -21092,7 +21093,7 @@ window.SCHEDULE = {
      "pgm": "그레인온 명절 준비 라이브!",
      "title": "추가 사은품 와르르~",
      "category": "식품",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "08:30",
@@ -22745,8 +22746,8 @@ window.SCHEDULE = {
    "2026-09-07",
    "2026-09-08"
   ],
-  "matched": 13,
-  "unmatched": 5
+  "matched": 14,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
