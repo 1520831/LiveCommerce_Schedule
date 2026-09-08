@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-08T19:31:48+09:00",
+ "generated_at": "2026-09-08T19:48:57+09:00",
  "today": "2026-09-08",
  "dates": [
   "2026-09-07",
@@ -680,7 +680,7 @@ window.SCHEDULE = {
      ],
      "title": "[LG정수기] 구독/렌탈 AI 정수기 론칭 핫딜",
      "pgm": "[LG] 정수기 (렌탈)",
-     "hot": 8
+     "hot": 3
     },
     {
      "start": "19:00",
@@ -8224,7 +8224,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -10602,7 +10602,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "18:00",
@@ -11458,7 +11458,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 10
     },
     {
      "start": "19:00",
@@ -25543,7 +25544,7 @@ window.SCHEDULE = {
      "pgm": "덴마크 유산균이야기",
      "title": "톡딜위크 최대 7%+7%할인",
      "category": "식품",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "08:30",
@@ -25555,8 +25556,7 @@ window.SCHEDULE = {
      "slot_id": "59484",
      "pgm": "그레인온 명절 준비 라이브!",
      "title": "추가 사은품 와르르~",
-     "category": "식품",
-     "hot": 10
+     "category": "식품"
     },
     {
      "start": "08:30",
