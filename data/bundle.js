@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-09T00:10:28+09:00",
+ "generated_at": "2026-09-09T07:09:41+09:00",
  "today": "2026-09-09",
  "dates": [
   "2026-09-08",
@@ -527,8 +527,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[노블리타] 20만원대 18K 끈팔찌 최대 52%🔻",
-     "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 1
+     "pgm": "[재방] 노블리타 (노블레스)"
     },
     {
      "start": "07:00",
@@ -6860,7 +6859,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 5
     },
     {
      "start": "06:50",
@@ -7161,7 +7161,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 4
     },
     {
      "start": "09:30",
@@ -20619,8 +20620,8 @@ window.SCHEDULE = {
    "2026-09-08",
    "2026-09-09"
   ],
-  "matched": 6,
-  "unmatched": 5
+  "matched": 7,
+  "unmatched": 11
  },
  "fixed": {
   "rows": [
