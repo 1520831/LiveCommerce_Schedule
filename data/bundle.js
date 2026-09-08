@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-08T20:47:44+09:00",
+ "generated_at": "2026-09-08T20:58:28+09:00",
  "today": "2026-09-08",
  "dates": [
   "2026-09-07",
@@ -8223,8 +8223,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 5
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -12307,7 +12306,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 9
+     "hot": 4
     },
     {
      "start": "20:00",
@@ -24929,7 +24928,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4679710503",
      "slot_id": "254080",
      "pgm": "로보락",
-     "category": "가전"
+     "category": "가전",
+     "hot": 5
     },
     {
      "start": "20:00",
@@ -25725,7 +25725,7 @@ window.SCHEDULE = {
      "pgm": "정관장 한국인삼공사",
      "title": "톡딜위크 7%+7%추가할인",
      "category": "식품",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "19:00",
