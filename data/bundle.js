@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-09T08:28:40+09:00",
+ "generated_at": "2026-09-09T08:40:52+09:00",
  "today": "2026-09-09",
  "dates": [
   "2026-09-08",
@@ -2660,7 +2660,7 @@ window.SCHEDULE = {
      "pgm_cd": "1109",
      "category": "여성패션",
      "cast": "influencer",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "09:00",
@@ -7433,8 +7433,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "08:00",
@@ -21775,7 +21774,8 @@ window.SCHEDULE = {
      "slot_id": "59632",
      "pgm": "미샤 ~60% 추석맞이 할인",
      "title": "쿠폰+카카오페이머니 할인",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 3
     },
     {
      "start": "08:30",
@@ -21787,7 +21787,8 @@ window.SCHEDULE = {
      "slot_id": "59633",
      "pgm": "라보에이치 ~46% 할인!",
      "title": "방송 중 5% 추가할인까지",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -23439,8 +23440,8 @@ window.SCHEDULE = {
    "2026-09-08",
    "2026-09-09"
   ],
-  "matched": 10,
-  "unmatched": 9
+  "matched": 11,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
