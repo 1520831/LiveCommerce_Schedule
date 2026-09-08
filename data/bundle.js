@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-08T20:32:18+09:00",
+ "generated_at": "2026-09-08T20:47:44+09:00",
  "today": "2026-09-08",
  "dates": [
   "2026-09-07",
@@ -12306,7 +12306,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 9
     },
     {
      "start": "20:00",
@@ -24917,8 +24918,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4840184575",
      "slot_id": "252119",
      "pgm": "인텔",
-     "category": "디지털·PC",
-     "hot": 10
+     "category": "디지털·PC"
     },
     {
      "start": "20:00",
@@ -25543,7 +25543,7 @@ window.SCHEDULE = {
      "pgm": "덴마크 유산균이야기",
      "title": "톡딜위크 최대 7%+7%할인",
      "category": "식품",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "08:30",
@@ -25725,7 +25725,7 @@ window.SCHEDULE = {
      "pgm": "정관장 한국인삼공사",
      "title": "톡딜위크 7%+7%추가할인",
      "category": "식품",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "19:00",
