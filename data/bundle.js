@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-08T19:14:30+09:00",
+ "generated_at": "2026-09-08T19:31:48+09:00",
  "today": "2026-09-08",
  "dates": [
   "2026-09-07",
@@ -679,7 +679,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[LG정수기] 구독/렌탈 AI 정수기 론칭 핫딜",
-     "pgm": "[LG] 정수기 (렌탈)"
+     "pgm": "[LG] 정수기 (렌탈)",
+     "hot": 8
     },
     {
      "start": "19:00",
@@ -25555,7 +25556,7 @@ window.SCHEDULE = {
      "pgm": "그레인온 명절 준비 라이브!",
      "title": "추가 사은품 와르르~",
      "category": "식품",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "08:30",
@@ -27256,8 +27257,8 @@ window.SCHEDULE = {
    "2026-09-07",
    "2026-09-08"
   ],
-  "matched": 10,
-  "unmatched": 8
+  "matched": 11,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
