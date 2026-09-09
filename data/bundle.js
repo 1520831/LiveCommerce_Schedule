@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-09T20:31:59+09:00",
+ "generated_at": "2026-09-09T20:47:50+09:00",
  "today": "2026-09-09",
  "dates": [
   "2026-09-08",
@@ -9952,7 +9952,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "15:00",
@@ -12111,7 +12111,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 10
     },
     {
      "start": "20:00",
@@ -12227,7 +12228,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 10
+     "hot": 8
     },
     {
      "start": "20:00",
@@ -24157,8 +24158,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4707994916",
      "slot_id": "254109",
      "pgm": "엔비디아 (조립PC & 그래픽카드)",
-     "category": "디지털·PC",
-     "hot": 9
+     "category": "디지털·PC"
     },
     {
      "start": "20:00",
