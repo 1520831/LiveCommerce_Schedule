@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-09T19:48:59+09:00",
+ "generated_at": "2026-09-09T19:59:06+09:00",
  "today": "2026-09-09",
  "dates": [
   "2026-09-08",
@@ -11010,7 +11010,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "19:00",
@@ -24157,7 +24157,7 @@ window.SCHEDULE = {
      "slot_id": "254109",
      "pgm": "엔비디아 (조립PC & 그래픽카드)",
      "category": "디지털·PC",
-     "hot": 10
+     "hot": 9
     },
     {
      "start": "20:00",
