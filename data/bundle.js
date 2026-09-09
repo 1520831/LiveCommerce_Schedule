@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-10T08:14:05+09:00",
+ "generated_at": "2026-09-10T08:28:17+09:00",
  "today": "2026-09-10",
  "dates": [
   "2026-09-09",
@@ -489,8 +489,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "르무통과 함께 하는 추석, 편했으면 좋겠습니다",
-     "pgm": "[재방] 르무통 제화 (패션잡화)",
-     "hot": 5
+     "pgm": "[재방] 르무통 제화 (패션잡화)"
     },
     {
      "start": "08:00",
@@ -2756,7 +2755,7 @@ window.SCHEDULE = {
      "pgm": "맘만하니",
      "pgm_cd": "0099",
      "category": "여성패션",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "09:00",
@@ -7477,7 +7476,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 4
     },
     {
      "start": "09:00",
@@ -20559,18 +20559,81 @@ window.SCHEDULE = {
      "start": "07:00",
      "end": "10:00",
      "brand": "쇼핑 마라톤",
-     "product": "",
-     "price": 0,
-     "link": "https://player.sauceflex.com/broadcast/lkebay-43a1643602d843e28d1e25e4a4f7a8ca",
+     "product": "레노버 Slim3 16ARP10 83K8001GKR (특.가 77만) 라이젠7 7735HS 8GB 512GB 사무용 인강용 노트북",
+     "price": 999170,
+     "link": "https://m.gmarket.co.kr/vi/product/4365915857",
      "slot_id": "252096",
-     "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻11"
+     "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻11",
+     "category": "디지털·PC"
+    },
+    {
+     "start": "07:00",
+     "end": "08:01",
+     "brand": "위크나인",
+     "product": "위크나인 풀페이스 마스크 스노클링 스노쿨링마스크  + 습기방지 안티포그 세트",
+     "price": 23960,
+     "link": "https://m.gmarket.co.kr/vi/product/2518597793",
+     "slot_id": "252262",
+     "pgm": "위크나인 스노쿨링 마스크 + 안티포그액 세트"
+    },
+    {
+     "start": "08:00",
+     "end": "09:02",
+     "brand": "E-자연이야기",
+     "product": "흰송편1kg+쑥송편1kg/국내산쌀100% 송편",
+     "price": 16350,
+     "link": "https://m.gmarket.co.kr/vi/product/2194276028",
+     "slot_id": "252278",
+     "pgm": "흰송편1kg+쑥송편1kg/국내산쌀100% 송편",
+     "category": "식품·건강"
+    },
+    {
+     "start": "08:00",
+     "end": "09:02",
+     "brand": "메가MGC커피",
+     "product": "(메가MGC커피) (ICE) 무카페인 오르조라떼",
+     "price": 2640,
+     "link": "https://m.gmarket.co.kr/vi/product/4835630751",
+     "slot_id": "252287",
+     "pgm": "카페인 걱정 없는 고소함! 신메뉴 오르조라떼 특가"
+    },
+    {
+     "start": "08:00",
+     "end": "09:00",
+     "brand": "찬예찬",
+     "product": "(신선집중) 무색소프리미엄 백명란젓파치1kg 젓갈 비트",
+     "price": 18400,
+     "link": "https://m.gmarket.co.kr/vi/product/1888409015",
+     "slot_id": "254186",
+     "pgm": "무색소 프리미엄 백명란 파지 1kg",
+     "category": "식품·건강"
+    },
+    {
+     "start": "09:00",
+     "end": "10:02",
+     "brand": "또봇",
+     "product": "또봇 테트란 스페셜팩",
+     "price": 50900,
+     "link": "https://m.gmarket.co.kr/vi/product/4247110377",
+     "slot_id": "252279",
+     "pgm": "또봇 4단 합체 로봇! 현대자동차 4종을 만나보세요"
+    },
+    {
+     "start": "09:00",
+     "end": "10:00",
+     "brand": "이수펫",
+     "product": "이수펫 더헬씨 강아지 저지방사료 가수분해 저알러지 소프트사료 6.4kg 밸런스 + 파우팩트츄 120g 추가증정",
+     "price": 62900,
+     "link": "https://m.gmarket.co.kr/vi/product/4827496728",
+     "slot_id": "252288",
+     "pgm": "저지방 가수분해로 부담 없이 맛있는 한 끼"
     },
     {
      "start": "10:00",
      "end": "11:00",
      "brand": "청정원",
-     "product": "(HOT특가딜)청정원 행복고급2호x3개(박스) /선물세트/쇼핑백 포함",
-     "price": 109200,
+     "product": "청정원 행복고급2호x3개(박스) /선물세트/쇼핑백 포함",
+     "price": 105000,
      "link": "https://m.gmarket.co.kr/vi/product/4076703182",
      "slot_id": "252154",
      "pgm": "청정원 추석 선물세트&기획세트, 빅세일 특가 LIVE"
@@ -20579,8 +20642,8 @@ window.SCHEDULE = {
      "start": "10:00",
      "end": "11:00",
      "brand": "AHC",
-     "product": "AHC 리얼 골드 크림 50ml 4개 선물세트 선물용 쇼핑백 증정",
-     "price": 37900,
+     "product": "AHC 리얼 골드 크림 50ml 4개 선물세트 +(증정)버터 쇼핑백",
+     "price": 31580,
      "link": "https://m.gmarket.co.kr/vi/product/4821257368",
      "slot_id": "252155",
      "pgm": "[뷰-파인더] AHC 한가위 선물세트 특집!",
@@ -20588,12 +20651,24 @@ window.SCHEDULE = {
      "category": "뷰티"
     },
     {
+     "start": "10:00",
+     "end": "11:02",
+     "brand": "김정문알로에",
+     "product": "(BEST구성)(100% 사은품증정) 김정문알로에 큐어 하이드라 수딩 토너+에멀젼 130ml",
+     "price": 24130,
+     "link": "https://m.gmarket.co.kr/vi/product/2440886089",
+     "slot_id": "252271",
+     "pgm": "[앵콜]추석 보름달처럼 밝은 내얼굴은 김정문알로에로!",
+     "rerun": true,
+     "category": "뷰티"
+    },
+    {
      "start": "11:00",
      "end": "12:00",
      "brand": "미래생활",
-     "product": "잘풀리는집 순수프리미엄 천연펄프 3겹 화장지 30M 30롤 2팩",
-     "price": 35900,
-     "link": "https://m.gmarket.co.kr/vi/product/4603605140",
+     "product": "(N페이2천원+체감가19960원) 잘풀리는집 순수퓨어 천연펄프 3겹 화장지 30M 30롤 2팩",
+     "price": 30500,
+     "link": "https://m.gmarket.co.kr/vi/product/4476997631",
      "slot_id": "252156",
      "pgm": "미래생활×한가위빅세일 추석대비 생필품 BEST 특집전"
     },
@@ -20601,34 +20676,215 @@ window.SCHEDULE = {
      "start": "11:00",
      "end": "12:00",
      "brand": "삼성",
-     "product": "삼성 비스포크 AI 제트 Lite 280W VS28D950AIB 무선청소기 산토리니베이지",
-     "price": 799000,
-     "link": "https://m.gmarket.co.kr/vi/product/4308215754",
+     "product": "혜택가 163만) 삼성 비스포크 AI 스팀 울트라 VR90F01SAG 자동급배수 로봇청소기 새틴 그레이지",
+     "price": 1763000,
+     "link": "https://m.gmarket.co.kr/vi/product/4735059192",
      "slot_id": "252239",
-     "pgm": "G라이브X삼성 AI청소기 연합 라이브",
+     "pgm": "삼성 청소기 한가위빅세일 등장!✌️구매전원 상품권증정!",
+     "category": "서비스·렌탈"
+    },
+    {
+     "start": "12:00",
+     "end": "13:30",
+     "brand": "LG",
+     "product": "한정수량 혜택 79만원대) LG 코드제로 오브제컬렉션 무선청소기 AX948BWE (동시구매)",
+     "price": 890000,
+     "link": "https://m.gmarket.co.kr/vi/product/3937925279",
+     "slot_id": "252248",
+     "pgm": "[앵콜]한가위 빅세일🌕가전은 LG가전!BEST인기템",
+     "rerun": true,
      "category": "가전"
     },
     {
      "start": "12:00",
      "end": "13:00",
      "brand": "모던하우스",
+     "product": "9/9 라이브_35%+10%결제할인+무배)모던하우스 인덕션겸용 프라이팬 웍 냄비 내열유리 밀폐용기 접시 그릇",
+     "price": 24900,
+     "link": "https://m.gmarket.co.kr/vi/product/3580015510",
+     "slot_id": "254171",
+     "pgm": "[한가위 빅세일] 모던하우스 주방부터 간절기 침구류까지",
+     "category": "주방·잡화"
+    },
+    {
+     "start": "13:00",
+     "end": "14:03",
+     "brand": "미트포테이블",
+     "product": "(신선집중) 미국산 초이스등급 678번 LA 꽃갈비 2kg 갓성비",
+     "price": 72900,
+     "link": "https://m.gmarket.co.kr/vi/product/3458184046",
+     "slot_id": "252280",
+     "pgm": "손질 필요없는 초이스등급 꽃갈비"
+    },
+    {
+     "start": "13:00",
+     "end": "14:02",
+     "brand": "또봇",
+     "product": "시크릿 쥬쥬 보석시계",
+     "price": 40900,
+     "link": "https://m.gmarket.co.kr/vi/product/2732311529",
+     "slot_id": "252289",
+     "pgm": "요정을 키울 수 있는 신기한 쥬쥬 보석시계!",
+     "category": "잡화·슈즈"
+    },
+    {
+     "start": "13:00",
+     "end": "14:00",
+     "brand": "닌텐도",
+     "product": "닌텐도 스위치 2 정식발매 당일출고",
+     "price": 699980,
+     "link": "https://m.gmarket.co.kr/vi/product/4728479973",
+     "slot_id": "254188",
+     "pgm": "100% 정품 닌텐도 스위치 2 당일출고"
+    },
+    {
+     "start": "15:00",
+     "end": "16:01",
+     "brand": "심가네 수산시장",
+     "product": "(특가) 심명진 민물장어 명품 국산 자포니카 손질 초벌 순살 중량 선택",
+     "price": 19900,
+     "link": "https://m.gmarket.co.kr/vi/product/3954565886",
+     "slot_id": "252272",
+     "pgm": "심명진 민물장어 명품 국산 자포니카 손질 초벌 선택"
+    },
+    {
+     "start": "15:00",
+     "end": "16:00",
+     "brand": "트루쿡",
+     "product": "트루쿡 국산 인덕션 세라믹 코팅 한방울 에그팬/계란말이팬 골라담기",
+     "price": 35000,
+     "link": "https://m.gmarket.co.kr/vi/product/3662147602",
+     "slot_id": "252290",
+     "pgm": "계란요리 실패 끝! 트루쿡 계란말이팬&한방울 에그팬",
+     "category": "가전"
+    },
+    {
+     "start": "15:00",
+     "end": "16:03",
+     "brand": "씨마트코리아",
+     "product": "멕시카나 닭강정 매콤달콤맛 마늘간장맛 500g  4팩",
+     "price": 25300,
+     "link": "https://m.gmarket.co.kr/vi/product/4620713372",
+     "slot_id": "252294",
+     "pgm": "멕시카나 닭강정 단하루 특가"
+    },
+    {
+     "start": "16:00",
+     "end": "17:00",
+     "brand": "유한양행",
+     "product": "유한락스 욕실청소 600ml 4개",
+     "price": 17700,
+     "link": "https://m.gmarket.co.kr/vi/product/3566079356",
+     "slot_id": "252277",
+     "pgm": "든든한 증정까지 유한락스 단 하루 초특가"
+    },
+    {
+     "start": "16:00",
+     "end": "17:00",
+     "brand": "트루쿡",
+     "product": "트루쿡 시그니처 플렉스 TPU/스텐 도마 단품",
+     "price": 19900,
+     "link": "https://m.gmarket.co.kr/vi/product/4308159366",
+     "slot_id": "252281",
+     "pgm": "매일 쓰는 도마니까! 트루쿡 시그니처 TPU&스텐 도마",
+     "category": "주방·잡화"
+    },
+    {
+     "start": "16:00",
+     "end": "17:01",
+     "brand": "CJ제일제당",
+     "product": "CJ 햇반 새청무쌀 윤기가득쌀밥 210g 24입 즉석밥",
+     "price": 46000,
+     "link": "https://m.gmarket.co.kr/vi/product/2328254013",
+     "slot_id": "252295",
+     "pgm": "언제나 맛있는 집밥, 햇반 윤기가득쌀밥 LIVE",
+     "category": "식품·건강"
+    },
+    {
+     "start": "17:00",
+     "end": "18:03",
+     "brand": "달바",
+     "product": "(스테디 조합) 퍼스트 스프레이 세럼 펩타이드 100ml+워터풀 핑크 톤업 선크림 50ml",
+     "price": 39880,
+     "link": "https://m.gmarket.co.kr/vi/product/4835714699",
+     "slot_id": "252265",
+     "pgm": "달바x지마켓 단독 BEST 스테디조합",
+     "category": "뷰티"
+    },
+    {
+     "start": "17:00",
+     "end": "18:03",
+     "brand": "좋은느낌",
      "product": "",
      "price": 0,
-     "link": "https://player.sauceflex.com/broadcast/lkebay-ea9e23f376bc4aa88782636f567f3b60",
-     "slot_id": "254171",
-     "pgm": "모던하우스"
+     "link": "https://player.sauceflex.com/broadcast/lkebay-d06d7f54ef46473bb6a561b82c5c10e6",
+     "slot_id": "252282",
+     "pgm": "빅세일 좋은느낌 최대 46% 할인과 라이브 혜택까지"
+    },
+    {
+     "start": "17:00",
+     "end": "18:01",
+     "brand": "바이오가이아",
+     "product": "(아이허브) 바이오가이아 아기유산균 프로바이오틱 비타민D 베이비드롭 10ml 2개",
+     "price": 68260,
+     "link": "https://m.gmarket.co.kr/vi/product/2902449987",
+     "slot_id": "252291",
+     "pgm": "바이오가이아 아기 유산균 베이비드롭 2개 특가 !",
+     "category": "식품·건강"
+    },
+    {
+     "start": "18:00",
+     "end": "19:02",
+     "brand": "버거킹",
+     "product": "(버거킹) 치즈와퍼+와퍼주니어+콜라R+콜라R+프렌치프라이R",
+     "price": 12400,
+     "link": "https://m.gmarket.co.kr/vi/product/4833911377",
+     "slot_id": "252273",
+     "pgm": "버거킹 인기 와퍼 팩 37% 할인"
+    },
+    {
+     "start": "18:00",
+     "end": "19:01",
+     "brand": "크리넥스",
+     "product": "크리넥스 마이비데 키즈 캡 40매 9팩 2세트",
+     "price": 29700,
+     "link": "https://m.gmarket.co.kr/vi/product/4453899459",
+     "slot_id": "252283",
+     "pgm": "빅세일 크리넥스 최대 43% 할인과 라이브 혜택까지",
+     "category": "유아동"
+    },
+    {
+     "start": "18:00",
+     "end": "19:02",
+     "brand": "바디프로젝트",
+     "product": "바디프로젝트 밸런스업 시크릿케어 유산균 프로바이오틱스 3개월분 / 특허받은 이탈리아 질 유래 유산균",
+     "price": 27900,
+     "link": "https://m.gmarket.co.kr/vi/product/3885882596",
+     "slot_id": "252292",
+     "pgm": "매일 챙기는 여성 유산균, 3개월분 라이브특별가",
+     "category": "식품·건강"
+    },
+    {
+     "start": "19:00",
+     "end": "20:01",
+     "brand": "갤럭시 폰",
+     "product": "갤럭시 Z폴드8 256GB 자급제 체감204만_신세계5만원 증정_정관장 3만쿠폰_꼭멤버십 적립_한가위빅세일",
+     "price": 2211410,
+     "link": "https://m.gmarket.co.kr/vi/product/4804590771",
+     "slot_id": "252274",
+     "pgm": "강력한 AI 폰, 갤럭시 S26",
+     "category": "디지털·PC"
     },
     {
      "start": "19:00",
      "end": "20:00",
      "brand": "엔비디아",
-     "product": "조립PC 게이밍 데스크탑 조립컴퓨터",
-     "price": 4750000,
-     "link": "https://m.gmarket.co.kr/vi/product/4707994916",
+     "product": "",
+     "price": 0,
+     "link": "https://player.sauceflex.com/broadcast/lkebay-7633d363392d4e24bbffc807bdd51fb0",
      "slot_id": "254109",
-     "pgm": "엔비디아 (조립PC & 그래픽카드)",
-     "category": "디지털·PC",
-     "hot": 9
+     "pgm": "한성x엔비디아 조립 PC를 한가위 빅세일 혜택으로!",
+     "category": "디지털·PC"
     },
     {
      "start": "20:00",
@@ -20638,26 +20894,73 @@ window.SCHEDULE = {
      "price": 590000,
      "link": "https://m.gmarket.co.kr/vi/product/4816959463",
      "slot_id": "252238",
-     "pgm": "이번 추석에도 로보락은 G마켓💫 Qrevo L Pro",
+     "pgm": "역대급 최저가💫 로보락 감사제 라이브 특별 혜택",
+     "category": "가전"
+    },
+    {
+     "start": "20:00",
+     "end": "21:00",
+     "brand": "LG전자",
+     "product": "LG그램북AI 14UD40V-GX3JK 최종89만+그램케어 2년+스타터팩 증정 와일드캣레이크 인텔 코어3 8GB 256GB",
+     "price": 1072800,
+     "link": "https://m.gmarket.co.kr/vi/product/4838559641",
+     "slot_id": "252260",
+     "pgm": "100만 유튜버픽! 99만원 30시간 LG그램북 런칭",
+     "category": "디지털·PC"
+    },
+    {
+     "start": "20:00",
+     "end": "21:00",
+     "brand": "다이슨",
+     "product": "빅세일특가 26.9만) 다이슨 V8 플러피 무선 청소기",
+     "price": 279130,
+     "link": "https://m.gmarket.co.kr/vi/product/4758384927",
+     "slot_id": "254183",
+     "pgm": "[앵콜]한가위빅세일 다이슨 첫라이브! 청소기,에어랩특가",
+     "rerun": true,
      "category": "가전"
     },
     {
      "start": "21:00",
      "end": "23:59",
      "brand": "쇼핑마라톤",
-     "product": "",
-     "price": 0,
-     "link": "https://player.sauceflex.com/broadcast/lkebay-89c9aa82b6bd4c6089b27007b9e36795",
+     "product": "CJ선물세트 스팸 O호 5개 +쇼핑백",
+     "price": 203300,
+     "link": "https://m.gmarket.co.kr/vi/product/2560417575",
      "slot_id": "252150",
      "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻12"
     },
     {
      "start": "21:00",
+     "end": "22:30",
+     "brand": "삼성",
+     "product": "(체감가 162만원대) 삼성 Mini LED TV 4K 1등급 214cm(85인치) KU85MH75AFXKR 스탠드",
+     "price": 1887770,
+     "link": "https://m.gmarket.co.kr/vi/product/4716836805",
+     "slot_id": "252269",
+     "pgm": "[앵콜]한가위빅세일 삼성가전특가! 스마일캐시최대5만🎁",
+     "rerun": true,
+     "category": "가전"
+    },
+    {
+     "start": "21:00",
+     "end": "22:01",
+     "brand": "ASUS",
+     "product": "ASUS ROG Flow Z13 GZ302EA-RU110W 게이밍노트북 AI MAX+ 395 라방 혜택가 339.만 터치 2in1 PC 64GB",
+     "price": 4394500,
+     "link": "https://m.gmarket.co.kr/vi/product/4321378893",
+     "slot_id": "252270",
+     "pgm": "[앵콜]ASUS 게이밍 노트북! 스마일캐시+선착순사은품",
+     "rerun": true,
+     "category": "디지털·PC"
+    },
+    {
+     "start": "21:00",
      "end": "22:00",
      "brand": "코카-콜라",
-     "product": "",
-     "price": 0,
-     "link": "https://player.sauceflex.com/broadcast/lkebay-e70303d90ff341229531ee99b40858f1",
+     "product": "코카콜라 제로 레몬라임 350ml 24캔 (1박스) +(증정) 코카콜라제로 키캡키링",
+     "price": 32230,
+     "link": "https://m.gmarket.co.kr/vi/product/4815838188",
      "slot_id": "254101",
      "pgm": "코카-콜라 한가위 빅세일 얼리버드 추석 LIVE🌙"
     },
@@ -20665,11 +20968,44 @@ window.SCHEDULE = {
      "start": "22:00",
      "end": "23:00",
      "brand": "인천웰니스X인천관광공사",
-     "product": "",
-     "price": 0,
-     "link": "https://player.sauceflex.com/broadcast/lkebay-eef6f105927641478f233788c8679890",
+     "product": "l한가위빅세일ㅣ파라다이스시티 씨메르 아쿠아스파권 특가",
+     "price": 48000,
+     "link": "https://m.gmarket.co.kr/vi/product/4834627669",
      "slot_id": "252170",
      "pgm": "인천광역시 X 인천관광공사 웰니스 프로모션"
+    },
+    {
+     "start": "22:00",
+     "end": "23:00",
+     "brand": "삼성",
+     "product": "삼성전자 갤럭시탭 S10FE 플러스 128GB WIFI전용_SM-X620N 그레이+혜택가72만대",
+     "price": 805360,
+     "link": "https://m.gmarket.co.kr/vi/product/4356819676",
+     "slot_id": "252268",
+     "pgm": "[한가위빅세일]삼성 갤럭시 탭,북! 혜택 가득 LIVE",
+     "category": "디지털·PC"
+    },
+    {
+     "start": "23:00",
+     "end": "00:02",
+     "brand": "한국포장",
+     "product": "공업용랩 포장용랩 산업용랩 고기능 스트레치필름 10mic 4롤 1박스",
+     "price": 40900,
+     "link": "https://m.gmarket.co.kr/vi/product/532210971",
+     "slot_id": "252275",
+     "pgm": "오늘출발&내일배송 공업용랩 스트레치필름 10mic 4롤",
+     "category": "식품·건강"
+    },
+    {
+     "start": "23:00",
+     "end": "00:01",
+     "brand": "매드포갈릭",
+     "product": "(매드포갈릭) 실버 패키지",
+     "price": 58000,
+     "link": "https://m.gmarket.co.kr/vi/product/4835422662",
+     "slot_id": "252293",
+     "pgm": "매드포갈릭 실버 패키지 54% 할인",
+     "category": "서비스·렌탈"
     }
    ],
    "2026-09-10": [
@@ -20677,41 +21013,183 @@ window.SCHEDULE = {
      "start": "07:00",
      "end": "10:00",
      "brand": "쇼핑마라톤",
-     "product": "",
-     "price": 0,
-     "link": "https://player.sauceflex.com/broadcast/lkebay-86ff50f5dd5e41d08d7de6ecdeeb623a",
+     "product": "동원 선물세트 참치 O-24호  3개입 (1BOX) + 부직포케이스 포함",
+     "price": 147700,
+     "link": "https://m.gmarket.co.kr/vi/product/4829789123",
      "slot_id": "252099",
      "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻13"
+    },
+    {
+     "start": "07:00",
+     "end": "08:01",
+     "brand": "비락식혜",
+     "product": "밥알없는 비락식혜 175ml x 60캔 0칼로리",
+     "price": 19130,
+     "link": "https://m.gmarket.co.kr/vi/product/4053160767",
+     "slot_id": "254198",
+     "pgm": "밥알없이 즐기는 비락식혜 60캔"
+    },
+    {
+     "start": "08:00",
+     "end": "09:02",
+     "brand": "바디프로젝트",
+     "product": "바디프로젝트 글루타치온 화이트 콜라겐 정 60정 x 3박스 (6개월분) 선물세트",
+     "price": 25700,
+     "link": "https://m.gmarket.co.kr/vi/product/3082386142",
+     "slot_id": "254195",
+     "pgm": "글루타치온과 콜라겐을 한번에! 3박스 특가"
+    },
+    {
+     "start": "08:00",
+     "end": "09:00",
+     "brand": "바이오가이아",
+     "product": "바이오가이아 유산균 비타민D 튜브형 10ml 이지드롭 4개 스웨덴정품 독일직구 / 유통기한 27년 10월",
+     "price": 112590,
+     "link": "https://m.gmarket.co.kr/vi/product/4483277966",
+     "slot_id": "254204",
+     "pgm": "바이오가이아 아기 유산균 베이비드롭 4개 특가 !",
+     "category": "식품·건강"
+    },
+    {
+     "start": "09:00",
+     "end": "10:01",
+     "brand": "벨리에르",
+     "product": "라이브특가_균일가 32330원 이불+배게+패드 세트)벨리에르 신상 도톰한 워싱 간절기 사계절이불(SS~SK)",
+     "price": 44900,
+     "link": "https://m.gmarket.co.kr/vi/product/2713640571",
+     "slot_id": "252309",
+     "pgm": "벨리에르 가을침구 풀세트 전사이즈 균일가!",
+     "category": "가구·침구"
+    },
+    {
+     "start": "09:00",
+     "end": "10:02",
+     "brand": "버거킹",
+     "product": "(버거킹) 와퍼주니어+콜라R+쉐이킹프라이 매콤치즈",
+     "price": 5480,
+     "link": "https://m.gmarket.co.kr/vi/product/4828553139",
+     "slot_id": "254199",
+     "pgm": "버거킹 인기 와퍼 팩 43% 할인"
     },
     {
      "start": "10:00",
      "end": "11:00",
      "brand": "오뚜기",
      "product": "오뚜기 닭한마리 칼국수 2팩+진짬뽕 2팩(총16개입)",
-     "price": 19430,
+     "price": 18490,
      "link": "https://m.gmarket.co.kr/vi/product/4801114124",
      "slot_id": "254143",
      "pgm": "명절 온가족이 즐기는 오뚜기🌕추석 상차림 뚝딱❤️"
     },
     {
+     "start": "11:00",
+     "end": "12:30",
+     "brand": "쿠쿠",
+     "product": "(체감가 110만) 쿠쿠 제로100 미니 얼음정수기 CP-AQS100EWH 36개월 케어십 1년1회 방문주기",
+     "price": 1485440,
+     "link": "https://m.gmarket.co.kr/vi/product/4700706366",
+     "slot_id": "252296",
+     "pgm": "스마일캐시 최대 10만! 쿠쿠 밥솥부터 정수기까지🎉",
+     "category": "가전"
+    },
+    {
+     "start": "11:00",
+     "end": "12:03",
+     "brand": "로보락",
+     "product": "(최종 149만+클리너 증정) 로보락 S10 MaxV Ultra 로봇청소기 일반형",
+     "price": 1490000,
+     "link": "https://m.gmarket.co.kr/vi/product/4679710503",
+     "slot_id": "252308",
+     "pgm": "[앵콜]역대급최저가🌕로보락 S10 MaxV Ultra",
+     "rerun": true,
+     "category": "가전"
+    },
+    {
+     "start": "11:00",
+     "end": "12:00",
+     "brand": "LG전자",
+     "product": "LG정수기렌탈 9월 한정 최대35만 혜택+1년 50% 반값+구독료할인+무상 A/S",
+     "price": 1,
+     "link": "https://m.gmarket.co.kr/vi/product/3244652505",
+     "slot_id": "254190",
+     "pgm": "[앵콜]한가위 혜택 팡팡! LG 정수기 구독 라이브🌕",
+     "rerun": true,
+     "category": "서비스·렌탈"
+    },
+    {
+     "start": "11:00",
+     "end": "12:00",
+     "brand": "LG전자",
+     "product": "(최혜가 221만원대)LG QNED TV 86QNED75AEA 217cm(86인치) 스탠드형(사운드바무상증정)(동시구매)",
+     "price": 2387000,
+     "link": "https://m.gmarket.co.kr/vi/product/4464023491",
+     "slot_id": "254194",
+     "pgm": "한가위빅세일, LG 가전 인기템❤️ 동시구매 이벤트까지",
+     "category": "가전"
+    },
+    {
+     "start": "11:00",
+     "end": "12:03",
+     "brand": "세라젬",
+     "product": "세라젬 마스터 V5 척추온열 의료기기 온라인 단독 컬러 파우더핑크출시",
+     "price": 3657500,
+     "link": "https://m.gmarket.co.kr/vi/product/4723932558",
+     "slot_id": "254205",
+     "pgm": "🌕한가위맞이 세라젬 1시간 한정특가"
+    },
+    {
      "start": "12:00",
      "end": "13:00",
      "brand": "테팔",
-     "product": "",
-     "price": 0,
-     "link": "https://player.sauceflex.com/broadcast/lkebay-4dd2933d63ec48d49964416429ecc66a",
+     "product": "(빅스 최종가78930) 테팔 뉴 이노바시오 인덕션 팬 냄비 4종 세트 (편수18+양수20+팬24+팬28)",
+     "price": 119900,
+     "link": "https://m.gmarket.co.kr/vi/product/3053755144",
      "slot_id": "252161",
-     "pgm": "테팔"
+     "pgm": "[한가위빅세일] 프랑스 전통 테팔 골라담기!",
+     "category": "가전"
     },
     {
      "start": "12:00",
      "end": "13:00",
      "brand": "지앤티클린",
-     "product": "",
-     "price": 0,
-     "link": "https://player.sauceflex.com/broadcast/lkebay-7c8e73cd05db4302ac296e6d1bb8ac01",
+     "product": "75g 고평량 시그니앙 오가든 20팩 캡형 77매 엠보 아기물티슈",
+     "price": 27500,
+     "link": "https://m.gmarket.co.kr/vi/product/3094794519",
      "slot_id": "252162",
-     "pgm": "지앤티클린"
+     "pgm": "🎉최대 60% 할인! 한가위빅세일x지앤티클린🎉",
+     "category": "유아동"
+    },
+    {
+     "start": "13:00",
+     "end": "14:03",
+     "brand": "메가MGC커피",
+     "product": "(메가MGC커피) 모바일금액권 1만원권",
+     "price": 9000,
+     "link": "https://m.gmarket.co.kr/vi/product/4835630425",
+     "slot_id": "254200",
+     "pgm": "다채로운 신메뉴 가득! 메가MGC커피 금액권 특가"
+    },
+    {
+     "start": "13:00",
+     "end": "14:01",
+     "brand": "LAP",
+     "product": "(역시즌 특가) LAP 본사 슈퍼 에어 덕다운 패딩 AQ4PDB62",
+     "price": 85000,
+     "link": "https://m.gmarket.co.kr/vi/product/4578012857",
+     "slot_id": "254201",
+     "pgm": "LAP 역시즌 특가! 덕다운 패딩 5만원대 !",
+     "category": "여성패션"
+    },
+    {
+     "start": "13:00",
+     "end": "14:03",
+     "brand": "HIPP",
+     "product": "힙 분유 콤비오틱 프레 1단계 2단계 무전분2단계 600g 8통세트",
+     "price": 210400,
+     "link": "https://m.gmarket.co.kr/vi/product/4801606101",
+     "slot_id": "254206",
+     "pgm": "힙분유 전단계 모음 특가! 8통 세트",
+     "category": "유아동"
     },
     {
      "start": "14:00",
@@ -20724,6 +21202,169 @@ window.SCHEDULE = {
      "pgm": "한가위 빅세일 X 풀리오｜신제품 출시 기념 최대 68%"
     },
     {
+     "start": "14:00",
+     "end": "15:30",
+     "brand": "LG",
+     "product": "한정수량 혜택가 189만 LG 디오스 AI 오브제컬렉션 냉장고 (매직스페이스) T876MEE111 1등급 (동시구매)",
+     "price": 2042000,
+     "link": "https://m.gmarket.co.kr/vi/product/4729503571",
+     "slot_id": "252303",
+     "pgm": "[앵콜]한가위 빅세일🌕가전은 LG가전!BEST인기템",
+     "rerun": true,
+     "category": "가전"
+    },
+    {
+     "start": "15:00",
+     "end": "16:01",
+     "brand": "라이프익스텐션",
+     "product": "(아이허브) 라이프익스텐션 종합비타민 투퍼데이 V2 120정 2개",
+     "price": 50390,
+     "link": "https://m.gmarket.co.kr/vi/product/4242849318",
+     "slot_id": "254202",
+     "pgm": "라이프익스텐션 투퍼데이 V2 종합비타민 2개 특가!",
+     "category": "식품·건강"
+    },
+    {
+     "start": "15:00",
+     "end": "16:01",
+     "brand": "참존",
+     "product": "한정특가/참존) 탑클래스 6세대 더 콜라겐 리프팅 영양 크림 50ml 1+1_여성 영양크림 27.03.06",
+     "price": 11900,
+     "link": "https://m.gmarket.co.kr/vi/product/3357820827",
+     "slot_id": "254207",
+     "pgm": "견고한 영양감을 부여해주는 버터 제형의 매끈 탄력 크림",
+     "category": "뷰티"
+    },
+    {
+     "start": "16:00",
+     "end": "17:03",
+     "brand": "에그온",
+     "product": "에그온 난각번호1번 무항생제 유정란 60구",
+     "price": 31500,
+     "link": "https://m.gmarket.co.kr/vi/product/4326422625",
+     "slot_id": "252299",
+     "pgm": "난각번호 1번 신선한 유정란 60구 산지직송으로!"
+    },
+    {
+     "start": "16:00",
+     "end": "17:03",
+     "brand": "HIPP",
+     "product": "HIPP 힙 콤비오틱 프레 600g (프레 28년 4월) 1단계 2단계 3단계 킨더밀쉬",
+     "price": 195420,
+     "link": "https://m.gmarket.co.kr/vi/product/2715208657",
+     "slot_id": "254203",
+     "pgm": "힙분유 전단계 모음 특가! 8통 세트",
+     "category": "유아동"
+    },
+    {
+     "start": "16:00",
+     "end": "17:03",
+     "brand": "나우푸드",
+     "product": "(아이허브) 나우푸드 마그네슘 글리시네이트 180정 2개",
+     "price": 50740,
+     "link": "https://m.gmarket.co.kr/vi/product/4257381481",
+     "slot_id": "254208",
+     "pgm": "나우푸드 마그네슘 글리시네이트 2개 특가!"
+    },
+    {
+     "start": "17:00",
+     "end": "18:03",
+     "brand": "효담",
+     "product": "한가위특가)효담 시그니처 오란다 선물세트 10가지맛 모음전 (24개입)",
+     "price": 19900,
+     "link": "https://m.gmarket.co.kr/vi/product/4736071432",
+     "slot_id": "252300",
+     "pgm": "취향대로 고르는 부드러운 오란다 선물세트 한가위 특가"
+    },
+    {
+     "start": "17:00",
+     "end": "18:00",
+     "brand": "HIPP",
+     "product": "힙 분유 콤비오틱 2단계 무전분 600g x 8통 독일출발",
+     "price": 210400,
+     "link": "https://m.gmarket.co.kr/vi/product/2066444870",
+     "slot_id": "252305",
+     "pgm": "힙분유 2단계 8통 세트 특가!",
+     "category": "유아동"
+    },
+    {
+     "start": "17:00",
+     "end": "18:00",
+     "brand": "왕뚜껑",
+     "product": "팔도 왕뚜껑 오리지널+김치 10+10 / 20개",
+     "price": 25900,
+     "link": "https://m.gmarket.co.kr/vi/product/4478067865",
+     "slot_id": "254218",
+     "pgm": "왕뚜껑 인기맛 골라먹는 20개",
+     "category": "식품·건강"
+    },
+    {
+     "start": "18:00",
+     "end": "19:01",
+     "brand": "일화",
+     "product": "맥콜 190ml x 30캔 x 2박스(총60캔)",
+     "price": 29000,
+     "link": "https://m.gmarket.co.kr/vi/product/4775889520",
+     "slot_id": "254214",
+     "pgm": "톡쏘는 보리탄산 음료~ 추억의 맥콜 190ml 60캔",
+     "category": "식품·건강"
+    },
+    {
+     "start": "18:00",
+     "end": "19:02",
+     "brand": "뉴트리플라이",
+     "product": "홍삼정 홍삼스틱 1+1 (총 200포) 6년근 홍삼 원데이타임 100 대용량 100포 X 2세트/ 쇼핑백증정",
+     "price": 73220,
+     "link": "https://m.gmarket.co.kr/vi/product/4398533169",
+     "slot_id": "254215",
+     "pgm": "추석엔 건강한 홍삼스틱 ! 1+1 총 200포 초특가!",
+     "category": "식품·건강"
+    },
+    {
+     "start": "18:00",
+     "end": "19:02",
+     "brand": "갤럭시",
+     "product": "갤럭시 버즈4프로 블루투스 이어폰 SM-R640 +신세계상품권 1만원+투명케이스 증정",
+     "price": 359000,
+     "link": "https://m.gmarket.co.kr/vi/product/4672746071",
+     "slot_id": "254219",
+     "pgm": "갤럭시 버즈4프로 빅세일 혜택가 32만원대!",
+     "category": "서비스·렌탈"
+    },
+    {
+     "start": "19:00",
+     "end": "20:30",
+     "brand": "삼성",
+     "product": "갤럭시 S26 FE 256GB 자급제폰 체감가95만(꼭멤버십+리뷰포함)+무이자최대12개월",
+     "price": 1013650,
+     "link": "https://m.gmarket.co.kr/vi/product/4838398606",
+     "slot_id": "252243",
+     "pgm": "[한가위빅세일]갤럭시 자급제 전모델 특별 혜택 라이브",
+     "category": "디지털·PC"
+    },
+    {
+     "start": "19:00",
+     "end": "20:04",
+     "brand": "모바",
+     "product": "(최종 혜택가 51만) P70 Pro Ultra 로봇청소기 RGB AI센서 온수 자동세척 열풍건조 탈착식 물걸레",
+     "price": 549000,
+     "link": "https://m.gmarket.co.kr/vi/product/4724040580",
+     "slot_id": "252306",
+     "pgm": "역대급 가성비! 모바 P70 프로 Ultra 로봇청소기",
+     "category": "가전"
+    },
+    {
+     "start": "19:00",
+     "end": "20:03",
+     "brand": "삼성",
+     "product": "삼성전자 갤럭시탭 S10 FE WiFi 전용 128GB 그레이 /혜택가 61만",
+     "price": 653280,
+     "link": "https://m.gmarket.co.kr/vi/product/4358900367",
+     "slot_id": "254217",
+     "pgm": "갤럭시탭 S10FE, 나한테 좋은것만 제대로!",
+     "category": "디지털·PC"
+    },
+    {
      "start": "20:00",
      "end": "21:30",
      "brand": "삼성전자",
@@ -20731,7 +21372,819 @@ window.SCHEDULE = {
      "price": 1349000,
      "link": "https://m.gmarket.co.kr/vi/product/4373331717",
      "slot_id": "252158",
-     "pgm": "삼성 가전",
+     "pgm": "[한가위빅세일] 삼성 가전 카드할인 7%",
+     "category": "가전"
+    },
+    {
+     "start": "20:00",
+     "end": "21:00",
+     "brand": "아이플라이텍",
+     "product": "iFLYTEK AINOTE 2 10.6인치 전자책 전용 케이스 세트 회의노트 실시간 음석 텍스트 변환 ChatGPT 무료 사용",
+     "price": 889000,
+     "link": "https://m.gmarket.co.kr/vi/product/4838739960",
+     "slot_id": "252286",
+     "pgm": "빅스마일데이🔥 한가위 드리미&아이플라이텍 특가",
+     "category": "가전"
+    },
+    {
+     "start": "20:00",
+     "end": "21:00",
+     "brand": "LG전자",
+     "product": "(올레드케어 4년보장)LG GX9 45GX950B OLED 5K2K 게이밍모니터 113cm(45인치) evoAI 330Hz 듀얼모드",
+     "price": 2580000,
+     "link": "https://m.gmarket.co.kr/vi/product/4777310119",
+     "slot_id": "254192",
+     "pgm": "[앵콜]추석맞이,풍성한 혜택과 라인업 LG울트라기어🎁",
+     "rerun": true,
+     "category": "디지털·PC"
+    },
+    {
+     "start": "21:00",
+     "end": "23:59",
+     "brand": "쇼핑 마라톤",
+     "product": "청정원 행복1호x3개(박스) /선물세트/쇼핑백 포함",
+     "price": 64350,
+     "link": "https://m.gmarket.co.kr/vi/product/4076501531",
+     "slot_id": "254055",
+     "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻14"
+    },
+    {
+     "start": "22:00",
+     "end": "23:00",
+     "brand": "애경생활",
+     "product": "리큐 제트 악취케어 실내건조 캡슐세제 11g 40개입",
+     "price": 26000,
+     "link": "https://m.gmarket.co.kr/vi/product/4848967901",
+     "slot_id": "254048",
+     "pgm": "세탁이 달라지는 순간✨ 애경 세탁템 특가 LIVE",
+     "category": "주방·잡화"
+    },
+    {
+     "start": "22:00",
+     "end": "23:00",
+     "brand": "하나투어",
+     "product": "푸켓 베스트셀러 패키지 5일 (가격이혜택+ 인기4성급호텔 + 팡아만 +산호섬 +타이전통지압)",
+     "price": 749000,
+     "link": "https://m.gmarket.co.kr/vi/product/4833919508",
+     "slot_id": "254049",
+     "pgm": "푸켓 5일 패키지 vs 자유여행 에어텔",
+     "category": "서비스·렌탈"
+    },
+    {
+     "start": "23:00",
+     "end": "00:00",
+     "brand": "플레이스테이션",
+     "product": "(PlayStation Store) 기프트 카드 3만원 교환권 / 플레이스테이션",
+     "price": 28200,
+     "link": "https://m.gmarket.co.kr/vi/product/4812007449",
+     "slot_id": "252307",
+     "pgm": "다양한 콘텐츠의 향연, 플레이스테이션 스토어 기프트카드"
+    },
+    {
+     "start": "23:00",
+     "end": "00:02",
+     "brand": "일화",
+     "product": "천연사이다 190ml x 30캔 x 2박스(총60캔)",
+     "price": 23900,
+     "link": "https://m.gmarket.co.kr/vi/product/4775780509",
+     "slot_id": "254216",
+     "pgm": "일화 천연사이다 60캔 초특가! 17,900원"
+    }
+   ],
+   "2026-09-11": [
+    {
+     "start": "07:00",
+     "end": "10:00",
+     "brand": "쇼핑마라톤",
+     "product": "사조 선물세트 안심특선 22호 4개(박스)/쇼핑백O",
+     "price": 114000,
+     "link": "https://m.gmarket.co.kr/vi/product/4066464148",
+     "slot_id": "252100",
+     "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻15"
+    },
+    {
+     "start": "07:00",
+     "end": "08:00",
+     "brand": "조선팔도떡집",
+     "product": "조선팔도떡집 풍미 가득 고소 국내현미곤약들깨가래떡 1kg 개별포장 식사대용 아침대용",
+     "price": 11300,
+     "link": "https://m.gmarket.co.kr/vi/product/4778388705",
+     "slot_id": "252329",
+     "pgm": "당류 0% 국산 현미+곤약, 개별포장 간편 한끼",
+     "category": "식품·건강"
+    },
+    {
+     "start": "07:00",
+     "end": "08:00",
+     "brand": "이기순 명가의 순김치",
+     "product": "볶음김치 이기순 명인의 순 볶음김치 1kg+1kg 100% 국내산 맛있는 반찬",
+     "price": 12420,
+     "link": "https://m.gmarket.co.kr/vi/product/4756460969",
+     "slot_id": "252330",
+     "pgm": "감칠맛 폭발! 국내산 볶음김치 1kg+1kg",
+     "category": "식품·건강"
+    },
+    {
+     "start": "08:00",
+     "end": "09:02",
+     "brand": "미쟝센",
+     "product": "(최종결제가13000원)미쟝센 샤이닝에센스 염색약 3개 컬러선택",
+     "price": 21500,
+     "link": "https://m.gmarket.co.kr/vi/product/1817959077",
+     "slot_id": "252313",
+     "pgm": "11초에 1개씩 팔리는 미쟝센 대표 염색약",
+     "category": "뷰티"
+    },
+    {
+     "start": "08:00",
+     "end": "09:00",
+     "brand": "육대장",
+     "product": "육대장본점 15년 전통 옛날 육개장 대용량 1.7kg(850gx2팩) 줄서서 먹는 육개장 맛집 육대장본점",
+     "price": 20600,
+     "link": "https://m.gmarket.co.kr/vi/product/4630614602",
+     "slot_id": "254227",
+     "pgm": "[완판특가] 육대장본점 전통 옛날 육개장",
+     "category": "식품·건강"
+    },
+    {
+     "start": "09:00",
+     "end": "10:02",
+     "brand": "일화",
+     "product": "초정탄산수 플레인 190ml x 30캔 x 2박스(총60캔)",
+     "price": 27000,
+     "link": "https://m.gmarket.co.kr/vi/product/4775797929",
+     "slot_id": "252314",
+     "pgm": "✨세계 3대 광천수! 일화 초정탄산수 60캔 초특가"
+    },
+    {
+     "start": "09:00",
+     "end": "10:00",
+     "brand": "플랜잇",
+     "product": "빅세일 카드가 13만)플랜잇 우리집 홈카페 4in1 커피머신 노르딕 크림화이트/블랙",
+     "price": 180900,
+     "link": "https://m.gmarket.co.kr/vi/product/4817524483",
+     "slot_id": "252325",
+     "pgm": "홈카페의 시작 플랜잇 4in1 커피머신 노르딕",
+     "category": "가전"
+    },
+    {
+     "start": "10:00",
+     "end": "11:00",
+     "brand": "아모레퍼시픽",
+     "product": "(선물박스+쇼핑백)일리윤 세라마이드 아토로션 564ml 2개+350ml 1개 +아토 로션 50ml 2개+메가커피쿠폰 증정",
+     "price": 69300,
+     "link": "https://m.gmarket.co.kr/vi/product/4097056443",
+     "slot_id": "254172",
+     "pgm": "🌕 한가위 빅세일 X 아모레퍼시픽"
+    },
+    {
+     "start": "11:00",
+     "end": "12:00",
+     "brand": "쿠쿠",
+     "product": "쿠쿠 6인용 IH 전기 압력밥솥 그레이스 화이트 CRP-DHPNL0615FGW",
+     "price": 250040,
+     "link": "https://m.gmarket.co.kr/vi/product/4662803736",
+     "slot_id": "252297",
+     "pgm": "[앵콜]한가위빅세일엔 역시 쿠쿠! 밥솥부터 음처기까지",
+     "rerun": true,
+     "category": "가전"
+    },
+    {
+     "start": "12:00",
+     "end": "13:00",
+     "brand": "타미힐피거",
+     "product": "(공식) 타미힐피거 (정상가: 279 000원) 스트라이프 크루넥 가디건 T22G1KCD050WT20X1",
+     "price": 175770,
+     "link": "https://m.gmarket.co.kr/vi/product/4660556111",
+     "slot_id": "252192",
+     "pgm": "🍂 추석 선물은 타미힐피거, 지라이브 특가",
+     "category": "여성패션"
+    },
+    {
+     "start": "13:00",
+     "end": "14:02",
+     "brand": "P&G",
+     "product": "다우니 호텔컬렉션 섬유유연제 미스티크 1L 6개 +다우니 화이트티 200mL",
+     "price": 36900,
+     "link": "https://m.gmarket.co.kr/vi/product/1817550305",
+     "slot_id": "252322",
+     "pgm": "다우니 섬유유연제 호텔컬렉션 BEST 향기",
+     "category": "서비스·렌탈"
+    },
+    {
+     "start": "13:00",
+     "end": "14:00",
+     "brand": "엘그로",
+     "product": "폭포육즙 호주산 와규함박 5개입 600g 1개 /소고기 함박스테이크/ 개별포장 떡갈비 스테이크",
+     "price": 8610,
+     "link": "https://m.gmarket.co.kr/vi/product/4801786788",
+     "slot_id": "252323",
+     "pgm": "프리미엄 호주 와규로 완성한 폭포육즙 와규함박스테이크",
+     "category": "식품·건강"
+    },
+    {
+     "start": "13:00",
+     "end": "14:03",
+     "brand": "와룡식품",
+     "product": "",
+     "price": 0,
+     "link": "https://player.sauceflex.com/broadcast/lkebay-1677338ca5f4410d90c2224123febe94",
+     "slot_id": "254223",
+     "pgm": "참나무 장작불로 초벌한 와룡막창"
+    },
+    {
+     "start": "14:00",
+     "end": "15:30",
+     "brand": "LG",
+     "product": "한정수량 혜택가 189만 LG 디오스 AI 오브제컬렉션 냉장고 (매직스페이스) T876MEE111 1등급 (동시구매)",
+     "price": 2042000,
+     "link": "https://m.gmarket.co.kr/vi/product/4729503571",
+     "slot_id": "252304",
+     "pgm": "[앵콜]한가위 빅세일🌕가전은 LG가전!BEST인기템",
+     "rerun": true,
+     "category": "가전"
+    },
+    {
+     "start": "14:00",
+     "end": "15:00",
+     "brand": "자연이랑",
+     "product": "자연이랑 경기 고시히카리 특등급 경기미 햅쌀 10kg",
+     "price": 44900,
+     "link": "https://m.gmarket.co.kr/vi/product/4809265435",
+     "slot_id": "252332",
+     "pgm": "[소상한 지마켓] 자연이랑 경기미 햅쌀 백진주 10kg",
+     "category": "식품·건강"
+    },
+    {
+     "start": "15:00",
+     "end": "16:00",
+     "brand": "갈비아저씨",
+     "product": "갈비아저씨 칼집 돼지 양념왕구이 300G 10팩",
+     "price": 36000,
+     "link": "https://m.gmarket.co.kr/vi/product/4414387954",
+     "slot_id": "252327",
+     "pgm": "갈비아저씨 수제 양념육 10팩! 최대 할인!"
+    },
+    {
+     "start": "15:00",
+     "end": "16:00",
+     "brand": "CGV",
+     "product": "(CGV) 더블콤보 (팝콘M 2개 + 탄산M 2개)",
+     "price": 12400,
+     "link": "https://m.gmarket.co.kr/vi/product/4837387359",
+     "slot_id": "252331",
+     "pgm": "더블콤보 (팝콘M 2개 + 탄산M 2개) 17% 할인"
+    },
+    {
+     "start": "16:00",
+     "end": "17:03",
+     "brand": "세븐일레븐",
+     "product": "(세븐일레븐) 3만원권",
+     "price": 26970,
+     "link": "https://m.gmarket.co.kr/vi/product/4835628132",
+     "slot_id": "252315",
+     "pgm": "어디서든 간편하게! 세븐일레븐 금액권 특가"
+    },
+    {
+     "start": "16:00",
+     "end": "17:00",
+     "brand": "P&G",
+     "product": "페브리즈 항균플러스 깨끗한향 370ml 4개",
+     "price": 25900,
+     "link": "https://m.gmarket.co.kr/vi/product/1993462922",
+     "slot_id": "254224",
+     "pgm": "페브리즈 BEST 상품, 향균 플러스!"
+    },
+    {
+     "start": "17:00",
+     "end": "18:03",
+     "brand": "메고지고",
+     "product": "찹쌀 누룽지 쌀과자 스낵 스위트 300g(25g x 12봉) 5팩 개별포장",
+     "price": 15000,
+     "link": "https://m.gmarket.co.kr/vi/product/4691583868",
+     "slot_id": "252316",
+     "pgm": "출출할 때 건강간식, 메고지고 누룽지 쌀과자 단독 특가",
+     "category": "식품·건강"
+    },
+    {
+     "start": "17:00",
+     "end": "18:03",
+     "brand": "레노버",
+     "product": "레노버 샤오신 패드 프로 13 인치 2026 태블릿 PC AI 패드 8+128G 중국내수용 그레이 관부가세포함",
+     "price": 340960,
+     "link": "https://m.gmarket.co.kr/vi/product/4694689792",
+     "slot_id": "254226",
+     "pgm": "후기로 증명한 압도적 화질·사운드, 압도적 가성비",
+     "category": "디지털·PC"
+    },
+    {
+     "start": "17:00",
+     "end": "18:01",
+     "brand": "P&G",
+     "product": "",
+     "price": 0,
+     "link": "https://player.sauceflex.com/broadcast/lkebay-3b16a16f142640ce8e4c3277b84aa2bd",
+     "slot_id": "254228",
+     "pgm": "다우니 섬유유연제 실내건조 BEST 향기",
+     "category": "주방·잡화"
+    },
+    {
+     "start": "18:00",
+     "end": "19:03",
+     "brand": "코디",
+     "product": "코디 천연펄프 2겹 UKP 키친타월 180매 4롤 3팩 총 12롤 / 무표백 음식전용 키친타월",
+     "price": 15000,
+     "link": "https://m.gmarket.co.kr/vi/product/4598248563",
+     "slot_id": "252324",
+     "pgm": "100% 무표백 천연펄프 키친타월, 오직 지마켓 특가!"
+    },
+    {
+     "start": "18:00",
+     "end": "19:00",
+     "brand": "삼성전자",
+     "product": "삼성 갤럭시북6 NT740VJQ-A38A 8GB 256GB  최종91만 대학생노트북 가성비 인텔노트북",
+     "price": 1190000,
+     "link": "https://m.gmarket.co.kr/vi/product/4832845940",
+     "slot_id": "252333",
+     "pgm": "부담 덜고 성능 채운 Galaxy Book 6 신모델",
+     "category": "디지털·PC"
+    },
+    {
+     "start": "18:00",
+     "end": "19:01",
+     "brand": "P&G",
+     "product": "다우니 실내건조 섬유유연제 프레시 클린 1L 6개 +다우니 코튼퓨어 200ml",
+     "price": 36900,
+     "link": "https://m.gmarket.co.kr/vi/product/1817538454",
+     "slot_id": "252334",
+     "pgm": "다우니 섬유유연제 실내건조 BEST 향기",
+     "category": "주방·잡화"
+    },
+    {
+     "start": "19:00",
+     "end": "20:00",
+     "brand": "농심",
+     "product": "농심 파워오투 신나는 물총세트 (오렌지레몬향 500ml 6개+망고향 500ml 6개+물총)",
+     "price": 24900,
+     "link": "https://m.gmarket.co.kr/vi/product/4805535812",
+     "slot_id": "252276",
+     "pgm": "추석엔 온가족 다 함께🌕농심 인기 간식&음료 혜택전",
+     "category": "식품·건강"
+    },
+    {
+     "start": "19:00",
+     "end": "20:00",
+     "brand": "모바",
+     "product": "(최종 혜택가 51만) P70 Pro Ultra 로봇청소기 RGB AI센서 온수 자동세척 열풍건조 탈착식 물걸레",
+     "price": 549000,
+     "link": "https://m.gmarket.co.kr/vi/product/4724040580",
+     "slot_id": "252319",
+     "pgm": "[앵콜] 한가위 빅세일 X 모바 P70PU 최대 혜택!",
+     "rerun": true,
+     "category": "가전"
+    },
+    {
+     "start": "20:00",
+     "end": "21:30",
+     "brand": "삼성갤럭시",
+     "product": "갤럭시 Z폴드8 자급제 256GB 체감204만원(신세계5만원+꼭맴버십)ㅣ정관장3만원쿠폰ㅣ무이자최대16개월",
+     "price": 2211410,
+     "link": "https://m.gmarket.co.kr/vi/product/4805187100",
+     "slot_id": "252298",
+     "pgm": "[앵콜][한가위빅세일]삼성갤럭시 LIVE! 카드할인7%",
+     "rerun": true,
+     "category": "디지털·PC"
+    },
+    {
+     "start": "20:00",
+     "end": "21:03",
+     "brand": "LG",
+     "product": "LG 울트라HD 27US550 4K 모니터 27인치 IPS 화이트 피벗 HDR ~최.저 29_만~",
+     "price": 399000,
+     "link": "https://m.gmarket.co.kr/vi/product/4355529087",
+     "slot_id": "254191",
+     "pgm": "[앵콜][한가위빅세일] LG그램&모니터 한가위인기라인!",
+     "rerun": true,
+     "category": "디지털·PC"
+    },
+    {
+     "start": "20:00",
+     "end": "21:00",
+     "brand": "엔비디아",
+     "product": "에이서 니트로V16 ANV16-I31-514Z 코어5 210H RTX5050 512GB 16GB Win11",
+     "price": 1659610,
+     "link": "https://m.gmarket.co.kr/vi/product/4747655463",
+     "slot_id": "254193",
+     "pgm": "[앵콜]ACER x 엔비디아 한가위 빅세일 특가!",
+     "rerun": true,
+     "category": "디지털·PC"
+    },
+    {
+     "start": "21:00",
+     "end": "22:00",
+     "brand": "삼성",
+     "product": "삼성 스마트모니터 M7 LS32FM701 32형 UHD 4K AI 리모컨",
+     "price": 587000,
+     "link": "https://m.gmarket.co.kr/vi/product/4441064335",
+     "slot_id": "252311",
+     "pgm": "[앵콜]삼성 모니터를 특별한 혜택으로!",
+     "rerun": true,
+     "category": "디지털·PC"
+    },
+    {
+     "start": "21:00",
+     "end": "22:00",
+     "brand": "웅진식품",
+     "product": "12+12 애사비 500mL   제주청귤하귤/오리지널/파인애플맛 3종 24입 골라담기 제로칼로리",
+     "price": 16700,
+     "link": "https://m.gmarket.co.kr/vi/product/4641594653",
+     "slot_id": "254155",
+     "pgm": "[한가위 빅세일] 웅진식품 9월 신상라이브"
+    },
+    {
+     "start": "22:00",
+     "end": "23:00",
+     "brand": "해태제과",
+     "product": "(지마켓단독) G-막힌 가을박스 (맛동산 미니자유시간 샌드에이스 오예스) +칼로리바란스 틴케이스",
+     "price": 24900,
+     "link": "https://m.gmarket.co.kr/vi/product/4841275649",
+     "slot_id": "254156",
+     "pgm": "해태제과 가을 특집 라이브 🍂"
+    },
+    {
+     "start": "23:00",
+     "end": "00:02",
+     "brand": "스카이샵",
+     "product": "(진에어/이스타항공/에어프레미아/파라타) SKY SHOP 30만원권 모바일상품권",
+     "price": 239900,
+     "link": "https://m.gmarket.co.kr/vi/product/4810234185",
+     "slot_id": "252335",
+     "pgm": "인도장 방문없이 편하게! 기내면세 스카이샵 상품권 특가",
+     "category": "서비스·렌탈"
+    },
+    {
+     "start": "23:00",
+     "end": "00:00",
+     "brand": "P&G",
+     "product": "다우니 호텔컬렉션 섬유유연제 화이트티 1L 6개 +다우니 화이트티 200mL",
+     "price": 36900,
+     "link": "https://m.gmarket.co.kr/vi/product/3984947722",
+     "slot_id": "254225",
+     "pgm": "다우니 섬유유연제 호텔컬렉션 BEST 향기!",
+     "category": "서비스·렌탈"
+    }
+   ],
+   "2026-09-12": [
+    {
+     "start": "11:00",
+     "end": "12:00",
+     "brand": "유한킴벌리",
+     "product": "그린핑거 선 모음전 / 선크림 선스틱 클렌징티슈 2EA",
+     "price": 21650,
+     "link": "https://m.gmarket.co.kr/vi/product/4348506245",
+     "slot_id": "252312",
+     "pgm": "[앵콜] 우리아이 유아템☀️그린핑거 키즈케어",
+     "rerun": true,
+     "category": "뷰티"
+    },
+    {
+     "start": "12:00",
+     "end": "13:05",
+     "brand": "모던하우스",
+     "product": "9/9 라이브_35%+10%결제할인+무배)모던하우스 인덕션겸용 프라이팬 웍 냄비 내열유리 밀폐용기 접시 그릇",
+     "price": 24900,
+     "link": "https://m.gmarket.co.kr/vi/product/3580015510",
+     "slot_id": "252328",
+     "pgm": "[앵콜][한가위 빅세일] 모던하우스 주방부터 침구류까지",
+     "rerun": true,
+     "category": "주방·잡화"
+    }
+   ],
+   "2026-09-13": [
+    {
+     "start": "11:00",
+     "end": "11:59",
+     "brand": "크록스",
+     "product": "(크록스 Boost Day) 바야밴드 바야 플랫폼 오프로드 클로그 지비츠 外",
+     "price": 38900,
+     "link": "https://m.gmarket.co.kr/vi/product/2191515947",
+     "slot_id": "252317",
+     "pgm": "[앵콜]⭐️크록스연중최대혜택⭐️추석빅세일 라스트 찬스",
+     "rerun": true
+    },
+    {
+     "start": "19:00",
+     "end": "20:00",
+     "brand": "모바",
+     "product": "(최종 혜택가 51만) P70 Pro Ultra 로봇청소기 RGB AI센서 온수 자동세척 열풍건조 탈착식 물걸레",
+     "price": 549000,
+     "link": "https://m.gmarket.co.kr/vi/product/4724040580",
+     "slot_id": "254221",
+     "pgm": "[앵콜]G마켓 한가위빅세일X모바 P70PU 최대혜택!",
+     "rerun": true,
+     "category": "가전"
+    },
+    {
+     "start": "20:00",
+     "end": "21:01",
+     "brand": "드리미",
+     "product": "(최종 99만+악세사리키트) 드리미 X60 Ultra 올인원 로봇청소기 + 2만원 N pay Point 지급",
+     "price": 990000,
+     "link": "https://m.gmarket.co.kr/vi/product/4692308663",
+     "slot_id": "252320",
+     "pgm": "[앵콜]역대최저가🌕한가위 선물대전 드리미X60 시리즈",
+     "rerun": true,
+     "category": "가전"
+    },
+    {
+     "start": "21:00",
+     "end": "22:00",
+     "brand": "로보락",
+     "product": "(최종 54.8만) 로보락 Qrevo L Pro 로봇청소기",
+     "price": 590000,
+     "link": "https://m.gmarket.co.kr/vi/product/4822243340",
+     "slot_id": "252310",
+     "pgm": "[앵콜]로보락감사제🎉QrevoLPro 특가 최초공개",
+     "rerun": true,
+     "category": "가전"
+    },
+    {
+     "start": "21:00",
+     "end": "22:01",
+     "brand": "스케쳐스",
+     "product": "(스케쳐스 오늘 출고) 26FW 고워크/엣지라이드/런닝화/슬립인스/운동화/스포츠운동화 베스트 모음",
+     "price": 59000,
+     "link": "https://m.gmarket.co.kr/vi/product/2185722050",
+     "slot_id": "252326",
+     "pgm": "[앵콜]스케쳐스 FW 인기 슈즈 지마켓 단독 최저가⭐",
+     "rerun": true,
+     "category": "스포츠·아웃도어"
+    }
+   ],
+   "2026-09-14": [
+    {
+     "start": "07:00",
+     "end": "10:00",
+     "brand": "쇼핑마라톤",
+     "product": "",
+     "price": 0,
+     "link": "https://player.sauceflex.com/broadcast/lkebay-025de1619b1243be801a30996b6e43f4",
+     "slot_id": "254028",
+     "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻16"
+    },
+    {
+     "start": "10:00",
+     "end": "11:00",
+     "brand": "CJ제일제당",
+     "product": "스팸 복합 HM호 3개",
+     "price": 84700,
+     "link": "https://m.gmarket.co.kr/vi/product/4659329558",
+     "slot_id": "254210",
+     "pgm": "🌕추석 명절 선물은 역시 CJ 스팸 선물 세트🎁"
+    },
+    {
+     "start": "10:00",
+     "end": "11:00",
+     "brand": "LG",
+     "product": "LG정수기렌탈 9월 한정 최대35만 혜택+1년 50% 반값+구독료할인+무상 A/S",
+     "price": 1,
+     "link": "https://m.gmarket.co.kr/vi/product/3244652505",
+     "slot_id": "254211",
+     "pgm": "박지윤샀지윤🎁LG전자 렌탈",
+     "category": "서비스·렌탈"
+    },
+    {
+     "start": "11:00",
+     "end": "12:00",
+     "brand": "설화수",
+     "product": "",
+     "price": 0,
+     "link": "https://player.sauceflex.com/broadcast/lkebay-73cd7fc86c574f1fa1c6bcb175a70910",
+     "slot_id": "252285",
+     "pgm": "9/14 11시 설화수(1)"
+    },
+    {
+     "start": "11:00",
+     "end": "12:30",
+     "brand": "LG",
+     "product": "한정수량 혜택 79만원대) LG 코드제로 오브제컬렉션 무선청소기 AX948BWE (동시구매)",
+     "price": 890000,
+     "link": "https://m.gmarket.co.kr/vi/product/3937925279",
+     "slot_id": "254177",
+     "pgm": "추석 빅세일은 역시  LG가전🌕더 풍성한 혜택 가득✨",
+     "category": "가전"
+    },
+    {
+     "start": "12:00",
+     "end": "13:00",
+     "brand": "드시모네",
+     "product": "베이비 스텝1 3박스(3개월분)  + 베이비 스텝2 20일분 증정",
+     "price": 91200,
+     "link": "https://m.gmarket.co.kr/vi/product/2332219546",
+     "slot_id": "252246",
+     "pgm": "드시모네×한가위빅세일🌕할인+쿠폰+적립 트리플혜택✨"
+    },
+    {
+     "start": "12:00",
+     "end": "13:00",
+     "brand": "써모스 / 실리팟",
+     "product": "써모스 마이디자인 시즌3 원터치 텀블러 350ml JNR-352K",
+     "price": 35000,
+     "link": "https://m.gmarket.co.kr/vi/product/2554461107",
+     "slot_id": "254229",
+     "pgm": "써모스 / 실리팟",
+     "category": "주방·잡화"
+    },
+    {
+     "start": "14:00",
+     "end": "15:00",
+     "brand": "그때그집",
+     "product": "",
+     "price": 0,
+     "link": "https://player.sauceflex.com/broadcast/lkebay-51a894446429498a988a3149b9dfd68d",
+     "slot_id": "254220",
+     "pgm": "무료배송 추석 선물 수제 오란다&명인 약과 LIVE!"
+    },
+    {
+     "start": "14:00",
+     "end": "15:00",
+     "brand": "쿠쿠",
+     "product": "쿠쿠 6인용 IH 전기 압력밥솥 그레이스 화이트 CRP-DHPNL0615FGW",
+     "price": 250040,
+     "link": "https://m.gmarket.co.kr/vi/product/4662803736",
+     "slot_id": "254222",
+     "pgm": "[앵콜]한가위빅세일엔 역시 쿠쿠! 밥솥부터 음처기까지",
+     "rerun": true,
+     "category": "가전"
+    },
+    {
+     "start": "19:00",
+     "end": "20:00",
+     "brand": "설화수",
+     "product": "",
+     "price": 0,
+     "link": "https://player.sauceflex.com/broadcast/lkebay-e2f0f2ee7a5149a0ac2b13a475c9f52c",
+     "slot_id": "252247",
+     "pgm": "한가위빅세일x설화수 G라이브"
+    },
+    {
+     "start": "20:00",
+     "end": "21:30",
+     "brand": "삼성 가전",
+     "product": "삼성 최경량 180W 무선청소기 제트 핏 VS70H18GZG 새틴그레이지",
+     "price": 585740,
+     "link": "https://m.gmarket.co.kr/vi/product/4620836713",
+     "slot_id": "252249",
+     "pgm": "[한가위빅세일] 삼성 가전",
+     "category": "가전"
+    },
+    {
+     "start": "20:00",
+     "end": "21:00",
+     "brand": "드리미",
+     "product": "",
+     "price": 0,
+     "link": "https://player.sauceflex.com/broadcast/lkebay-6f13c34d9a4b4a7eba04468cbbd2964c",
+     "slot_id": "254178",
+     "pgm": "[한가위빅세일] 드리미 L50s, L40s 최대 혜택!",
+     "category": "가전"
+    },
+    {
+     "start": "21:00",
+     "end": "22:00",
+     "brand": "아이허브",
+     "product": "",
+     "price": 0,
+     "link": "https://player.sauceflex.com/broadcast/lkebay-f2040a7c22d941a2a9eae598ab09a6f4",
+     "slot_id": "252172",
+     "pgm": "아이허브 건강식품 특별 라이브 🎁"
+    },
+    {
+     "start": "21:00",
+     "end": "23:59",
+     "brand": "쇼핑마라톤",
+     "product": "",
+     "price": 0,
+     "link": "https://player.sauceflex.com/broadcast/lkebay-a7dedff597cb4997bb61f2ebe1598441",
+     "slot_id": "252173",
+     "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻17"
+    },
+    {
+     "start": "21:00",
+     "end": "22:30",
+     "brand": "삼성 갤럭시",
+     "product": "",
+     "price": 0,
+     "link": "https://player.sauceflex.com/broadcast/lkebay-2a67c4079b644a06935b58fee05dac87",
+     "slot_id": "254116",
+     "pgm": "[한가위빅세일] 삼성 갤럭시 연중 최대 행사로 GET✨"
+    },
+    {
+     "start": "22:00",
+     "end": "23:00",
+     "brand": "엄마네한우",
+     "product": "",
+     "price": 0,
+     "link": "https://player.sauceflex.com/broadcast/lkebay-70c6c8a3a1b54cad8cc69b7cf6c38216",
+     "slot_id": "254197",
+     "pgm": "엄마네한우",
+     "category": "식품·건강"
+    }
+   ],
+   "2026-09-15": [
+    {
+     "start": "07:00",
+     "end": "10:00",
+     "brand": "쇼핑마라톤",
+     "product": "",
+     "price": 0,
+     "link": "https://player.sauceflex.com/broadcast/lkebay-1d0dddff41ba44589009529393e8487f",
+     "slot_id": "254029",
+     "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻18"
+    },
+    {
+     "start": "10:00",
+     "end": "11:00",
+     "brand": "롯데칠성",
+     "product": "",
+     "price": 0,
+     "link": "https://player.sauceflex.com/broadcast/lkebay-8b8d8f33431a4eb785b143d76602381a",
+     "slot_id": "252302",
+     "pgm": "롯데칠성"
+    },
+    {
+     "start": "10:00",
+     "end": "11:00",
+     "brand": "유한킴벌리",
+     "product": "좋은느낌 센서티브스킨/화이트 제로필 중형 대형 라이너 입는오버나이트 생리대 모음전 4EA",
+     "price": 21900,
+     "link": "https://m.gmarket.co.kr/vi/product/4700880447",
+     "slot_id": "252321",
+     "pgm": "우리집 추석은 유한킴벌리와 함께!",
+     "category": "주방·잡화"
+    },
+    {
+     "start": "12:00",
+     "end": "13:00",
+     "brand": "CJ제일제당",
+     "product": "",
+     "price": 0,
+     "link": "https://player.sauceflex.com/broadcast/lkebay-17b3da6f825e4bcfb989fdc1679d984a",
+     "slot_id": "252318",
+     "pgm": "🌕 한가위 빅세일 X CJ제일제당"
+    },
+    {
+     "start": "14:00",
+     "end": "15:00",
+     "brand": "상주햇살곶감",
+     "product": "(신선집중) 햇살 상주곶감 반건시 선물세트 1.6kg / 2026년 햇곶감",
+     "price": 39900,
+     "link": "https://m.gmarket.co.kr/vi/product/1969052513",
+     "slot_id": "252244",
+     "pgm": "[소상한지마켓] 상주햇살곶감"
+    },
+    {
+     "start": "14:00",
+     "end": "15:30",
+     "brand": "삼성",
+     "product": "",
+     "price": 0,
+     "link": "https://player.sauceflex.com/broadcast/lkebay-8febd80f92f249cb808c88542c52aace",
+     "slot_id": "252245",
+     "pgm": "[한가위빅세일]갤럭시 자급제 전모델 특별 혜택 라이브",
+     "category": "디지털·PC"
+    },
+    {
+     "start": "19:00",
+     "end": "20:00",
+     "brand": "풀무원",
+     "product": "카드할인 32.9만) 풀무원 스팀쿡 20L 마스터+ 간편스팀세척 오븐 에어프라이어 소이코튼 AV20F11WG",
+     "price": 396510,
+     "link": "https://m.gmarket.co.kr/vi/product/4689794124",
+     "slot_id": "252250",
+     "pgm": "풀무원 스팀쿡 x G라이브 특가",
+     "category": "가전"
+    },
+    {
+     "start": "20:00",
+     "end": "21:00",
+     "brand": "모두투어",
+     "product": "",
+     "price": 0,
+     "link": "https://player.sauceflex.com/broadcast/lkebay-ffcbc09ec1c24b528c0a2f0dba712da0",
+     "slot_id": "252251",
+     "pgm": "모두투어",
+     "category": "서비스·렌탈"
+    },
+    {
+     "start": "20:00",
+     "end": "21:00",
+     "brand": "로보락",
+     "product": "",
+     "price": 0,
+     "link": "https://player.sauceflex.com/broadcast/lkebay-bd2f709eb96d4f8abc3260f4ddd7c8d5",
+     "slot_id": "252252",
+     "pgm": "[역대급 최저가] 로보락 S10 MaxV Ultra",
      "category": "가전"
     },
     {
@@ -20740,83 +22193,20 @@ window.SCHEDULE = {
      "brand": "쇼핑 마라톤",
      "product": "",
      "price": 0,
-     "link": "https://player.sauceflex.com/broadcast/lkebay-56574804edce4e84a9b435ed2521b247",
-     "slot_id": "254055",
-     "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻14"
-    },
-    {
-     "start": "22:00",
-     "end": "23:00",
-     "brand": "애경생활",
-     "product": "",
-     "price": 0,
-     "link": "https://player.sauceflex.com/broadcast/lkebay-4b7727a2f89f461aa40844afe1c7dc4f",
-     "slot_id": "254048",
-     "pgm": "G라이브 X 애경생활"
-    },
-    {
-     "start": "22:00",
-     "end": "23:00",
-     "brand": "하나투어",
-     "product": "",
-     "price": 0,
-     "link": "https://player.sauceflex.com/broadcast/lkebay-a70a259fdb15486abd1a0bf3914e2d7c",
-     "slot_id": "254049",
-     "pgm": "푸켓 5/6일 패키지 vs 자유여행 에어텔",
-     "category": "서비스·렌탈"
-    }
-   ],
-   "2026-09-11": [
-    {
-     "start": "07:00",
-     "end": "10:00",
-     "brand": "쇼핑마라톤",
-     "product": "",
-     "price": 0,
-     "link": "https://player.sauceflex.com/broadcast/lkebay-c5e3afd2428a4c91b5bc5e94fd9c3297",
-     "slot_id": "252100",
-     "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻15"
-    },
-    {
-     "start": "10:00",
-     "end": "11:00",
-     "brand": "아모레퍼시픽",
-     "product": "(선물박스+쇼핑백)일리윤 세라마이드 아토로션 564ml 2개+350ml 1개 +아토 로션 50ml 2개",
-     "price": 69300,
-     "link": "https://m.gmarket.co.kr/vi/product/4097056443",
-     "slot_id": "254172",
-     "pgm": "🌕 한가위 빅세일 X 아모레퍼시픽"
-    },
-    {
-     "start": "12:00",
-     "end": "13:00",
-     "brand": "타미힐피거",
-     "product": "",
-     "price": 0,
-     "link": "https://player.sauceflex.com/broadcast/lkebay-fac49d6e4bff48418b1703fd8de95e4a",
-     "slot_id": "252192",
-     "pgm": "🍂 추석 선물은 타미힐피거, 지라이브 특가"
+     "link": "https://player.sauceflex.com/broadcast/lkebay-89525fe8d2bb46a39bab9eb76534e99b",
+     "slot_id": "252171",
+     "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻19"
     },
     {
      "start": "21:00",
-     "end": "22:00",
-     "brand": "웅진식품",
-     "product": "20+20 더빅토리아 탄산수 /탄산음료 500ml 21종 골라담기 (총 2박스/분리배송)",
-     "price": 16460,
-     "link": "https://m.gmarket.co.kr/vi/product/1867772238",
-     "slot_id": "254155",
-     "pgm": "[한가위 빅세일] 웅진식품 9월 신상라이브",
-     "category": "식품·건강"
-    },
-    {
-     "start": "22:00",
-     "end": "23:00",
-     "brand": "해태제과",
-     "product": "",
-     "price": 0,
-     "link": "https://player.sauceflex.com/broadcast/lkebay-5a9a5a3951a34497a5206773fb6374a9",
-     "slot_id": "254156",
-     "pgm": "해태제과 초특가 라이브"
+     "end": "22:30",
+     "brand": "LG 가전",
+     "product": "한정수량 혜택 79만원대) LG 코드제로 오브제컬렉션 무선청소기 AX948BWE (동시구매)",
+     "price": 890000,
+     "link": "https://m.gmarket.co.kr/vi/product/3937925279",
+     "slot_id": "254115",
+     "pgm": "LG가전으로 명절선물 고민 끝✨풍~성한 혜택",
+     "category": "가전"
     }
    ]
   },
@@ -22784,7 +24174,7 @@ window.SCHEDULE = {
   "HD": "2026-09-10T07:10:18+09:00",
   "CJ": "2026-09-10T07:10:23+09:00",
   "NV": "2026-09-10T07:11:50+09:00",
-  "GM": "2026-09-07T08:21:47+09:00",
+  "GM": "2026-09-10T08:15:31+09:00",
   "KA": "2026-09-10T07:10:34+09:00"
  },
  "cast_kinds": [
@@ -22797,8 +24187,8 @@ window.SCHEDULE = {
    "2026-09-09",
    "2026-09-10"
   ],
-  "matched": 6,
-  "unmatched": 13
+  "matched": 5,
+  "unmatched": 15
  },
  "fixed": {
   "rows": [
@@ -24899,9 +26289,9 @@ window.SCHEDULE = {
     "auto": false
    },
    "GM": {
-    "span": 12,
+    "span": 16,
     "from": "2026-08-30",
-    "to": "2026-09-11",
+    "to": "2026-09-15",
     "auto": false
    },
    "KA": {
