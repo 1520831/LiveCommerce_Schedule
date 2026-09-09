@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-09T18:14:09+09:00",
+ "updated_at": "2026-09-09T23:47:31+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -3037,14 +3037,14 @@
     "end": "23:59",
     "brand": "리바이스",
     "product": "남성 505 레귤러 진 00505-4891 00505-4891",
-    "price": 99000,
+    "price": 59400,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251969464",
     "slot_id": "202609086017",
     "items": [
      {
       "brand": "리바이스",
       "product": "남성 505 레귤러 진 00505-4891 00505-4891",
-      "price": 99000,
+      "price": 59400,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251969464"
      }
     ],
@@ -3410,6 +3410,24 @@
     ],
     "title": "[JJ지고트] 데일리·하객룩 올인원 코디! 최대 70%",
     "pgm": "[재방] JJ지고트 의류 (멀티커머스)"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "더후",
+    "product": "[더 후][정가18만원][10%OFF]비첩 NAD 파워 앰플 50ml 대용량 기획세트",
+    "price": 162000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253190988",
+    "slot_id": "202609096013",
+    "items": [
+     {
+      "brand": "더후",
+      "product": "[더 후][정가18만원][10%OFF]비첩 NAD 파워 앰플 50ml 대용량 기획세트",
+      "price": 162000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253190988"
+     }
+    ],
+    "title": "[초뷰쇼x더후] 추석특집 비첩/천기단 外 최대 30%"
    },
    {
     "start": "20:00",

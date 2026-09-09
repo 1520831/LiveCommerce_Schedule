@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-09-09T18:14:15+09:00",
+ "updated_at": "2026-09-09T23:47:38+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -3900,7 +3900,7 @@
    {
     "start": "18:00",
     "end": "18:59",
-    "brand": "자연의정",
+    "brand": "맛있는家",
     "product": "[26년 8월 수확] 햇 홍로사과 가정용 선물용 특품 사이즈/중량별",
     "price": 8900,
     "link": "https://item.cjonstyle.com/item/2076729862?channelCode=30002002",
@@ -4501,9 +4501,9 @@
     "start": "18:00",
     "end": "18:59",
     "brand": "CJ제일제당",
-    "product": "비비고 고단백 올리브오일 연어 스테이크 60g x10개",
-    "price": 56640,
-    "link": "https://item.cjonstyle.com/item/2077217849?channelCode=30002002",
+    "product": "비비고 유용욱 시그니처 갈비 만두 300g x4개",
+    "price": 20370,
+    "link": "https://item.cjonstyle.com/item/2091950750?channelCode=30002002",
     "slot_id": "29143",
     "title": "강추혜 특집🥟유용욱 셰프 갈비만두🐟연어 스테이크 특가",
     "pgm": "푸드온다",
@@ -4839,13 +4839,14 @@
     "start": "10:00",
     "end": "10:59",
     "brand": "닥터포헤어",
-    "product": "폴리젠 실크 샴푸 500mlx2",
-    "price": 31902,
-    "link": "https://item.cjonstyle.com/item/92198571?channelCode=30002002",
+    "product": "[닥터포헤어] 씨크닝 샴푸 500mlx3+ (하루동안 70mlx2)",
+    "price": 43900,
+    "link": "https://item.cjonstyle.com/item/2084093880?channelCode=30002002",
     "slot_id": "29333",
     "title": "다시보는 탈모샴푸는 닥터포헤어🪮 방송 1시간만 한정 혜택⏰",
     "pgm": "라이브쇼",
-    "pgm_cd": "1008"
+    "pgm_cd": "1008",
+    "category": "뷰티"
    },
    {
     "start": "10:00",
@@ -4904,7 +4905,7 @@
     "end": "12:59",
     "brand": "써스데이아일랜드",
     "product": "[Thursday Island] 프린트 러플 플레어 원피스(T242MOP148W)",
-    "price": 55000,
+    "price": 45900,
     "link": "https://item.cjonstyle.com/item/2079776797?channelCode=30002002",
     "slot_id": "29158",
     "title": "써스데이아일랜드 가을 특가전! 최대 83% 할인",
@@ -5398,7 +5399,7 @@
     "start": "12:00",
     "end": "12:59",
     "brand": "KT",
-    "product": "아이폰17프로 256G / kt기기변경(통신사유지) / 90요금제 / 공통지원 / 즉시출고",
+    "product": "아이폰17프로 256G / kt기기변경(통신사유지) / 90요금제 / 공통지원 / 즉시출고 M",
     "price": 1262000,
     "link": "https://item.cjonstyle.com/item/2058628438?channelCode=30002002",
     "slot_id": "29170",
@@ -5787,14 +5788,15 @@
    {
     "start": "20:00",
     "end": "20:59",
-    "brand": "",
-    "product": "르네디피 26FW 신상 10% 쿠폰❤️방송 중 구매시 스카프 증정",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/29180",
+    "brand": "르네디피",
+    "product": "26FW 자카드 도트 블라우스 + 이너탑 2종",
+    "price": 79900,
+    "link": "https://item.cjonstyle.com/item/2091139350?channelCode=30002002",
     "slot_id": "29180",
     "title": "르네디피 26FW 신상 10% 쿠폰❤️방송 중 구매시 스카프 증정",
     "pgm": "라이브쇼",
-    "pgm_cd": "1006"
+    "pgm_cd": "1006",
+    "category": "여성패션"
    },
    {
     "start": "20:00",
