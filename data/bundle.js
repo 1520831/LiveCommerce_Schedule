@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-10T08:41:16+09:00",
+ "generated_at": "2026-09-10T08:55:12+09:00",
  "today": "2026-09-10",
  "dates": [
   "2026-09-09",
@@ -2754,8 +2754,7 @@ window.SCHEDULE = {
      "title": "다시보는 PLAY! HIRO🛹HIRO/glgk/SANN 26FW 신상!",
      "pgm": "맘만하니",
      "pgm_cd": "0099",
-     "category": "여성패션",
-     "hot": 2
+     "category": "여성패션"
     },
     {
      "start": "09:00",
@@ -7477,7 +7476,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "09:00",
@@ -22512,7 +22511,8 @@ window.SCHEDULE = {
      "slot_id": "59282",
      "pgm": "매일유업 추석대비 선물대전",
      "title": "아몬드브리즈 외 풍성한 혜택",
-     "category": "식품"
+     "category": "식품",
+     "hot": 1
     },
     {
      "start": "08:30",
@@ -22548,7 +22548,8 @@ window.SCHEDULE = {
      "slot_id": "59611",
      "pgm": "락포트로 가을 준비!",
      "title": "로퍼/부츠 외 인기 아이템",
-     "category": "패션"
+     "category": "패션",
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -24187,8 +24188,8 @@ window.SCHEDULE = {
    "2026-09-09",
    "2026-09-10"
   ],
-  "matched": 5,
-  "unmatched": 15
+  "matched": 6,
+  "unmatched": 14
  },
  "fixed": {
   "rows": [
