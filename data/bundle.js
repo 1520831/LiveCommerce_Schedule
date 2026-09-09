@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-09T10:30:59+09:00",
+ "generated_at": "2026-09-09T10:48:55+09:00",
  "today": "2026-09-09",
  "dates": [
   "2026-09-08",
@@ -2710,8 +2710,7 @@ window.SCHEDULE = {
      "slot_id": "29138",
      "title": "PLAY! HIRO🛹HIRO/glgk/SANN 26FW 단독 공개🧢",
      "pgm": "맘만하니",
-     "pgm_cd": "0099",
-     "hot": 3
+     "pgm_cd": "0099"
     },
     {
      "start": "10:00",
@@ -8078,7 +8077,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 10
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -8650,7 +8649,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "패션"
+     "category": "패션",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -21816,7 +21816,8 @@ window.SCHEDULE = {
      "slot_id": "59020",
      "pgm": "브리타 스타일 에센셜",
      "title": "큐브쿨 무타공 냉온정수기 외",
-     "category": "리빙"
+     "category": "리빙",
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -23444,8 +23445,8 @@ window.SCHEDULE = {
    "2026-09-08",
    "2026-09-09"
   ],
-  "matched": 15,
-  "unmatched": 4
+  "matched": 16,
+  "unmatched": 3
  },
  "fixed": {
   "rows": [
