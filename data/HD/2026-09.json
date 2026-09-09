@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-09T07:10:46+09:00",
+ "updated_at": "2026-09-09T12:09:17+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -3227,14 +3227,14 @@
     "start": "13:00",
     "end": "13:59",
     "brand": "니콘",
-    "product": "[정품]니콘 Z9 Body Only (렌즈미포함)",
+    "product": "니콘 Z9 Body(렌즈미포함)+Peak design slide lite Z 스트랩+H Point",
     "price": 6970000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2217758100",
     "slot_id": "202609096006",
     "items": [
      {
       "brand": "니콘",
-      "product": "[정품]니콘 Z9 Body Only (렌즈미포함)",
+      "product": "니콘 Z9 Body(렌즈미포함)+Peak design slide lite Z 스트랩+H Point",
       "price": 6970000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2217758100"
      }
@@ -3246,14 +3246,14 @@
     "start": "14:00",
     "end": "14:59",
     "brand": "이드르르",
-    "product": "모발관리 풀세트 샴푸x트리트먼트 390ml (스칼프+리스토어+에어리)",
+    "product": "[이드르르] 모발관리 풀세트 샴푸x트리트먼트 390ml (스칼프+리스토어+에어리)",
     "price": 113000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253254583",
     "slot_id": "202609096007",
     "items": [
      {
       "brand": "이드르르",
-      "product": "모발관리 풀세트 샴푸x트리트먼트 390ml (스칼프+리스토어+에어리)",
+      "product": "[이드르르] 모발관리 풀세트 샴푸x트리트먼트 390ml (스칼프+리스토어+에어리)",
       "price": 113000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253254583"
      }
@@ -3591,14 +3591,14 @@
     "end": "15:59",
     "brand": "아이러브경북",
     "product": "다정다감푸드 마음담은 반건시 2호",
-    "price": 42200,
+    "price": 26800,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250313243",
     "slot_id": "202609106009",
     "items": [
      {
       "brand": "아이러브경북",
       "product": "다정다감푸드 마음담은 반건시 2호",
-      "price": 42200,
+      "price": 26800,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250313243"
      }
     ],
@@ -3665,17 +3665,17 @@
    {
     "start": "20:00",
     "end": "20:59",
-    "brand": "샥즈",
-    "product": "[SHOKZ 샥즈] 오픈핏 프로 Open fit Pro T010 오픈형 귀걸이형 블루투스 공기전도 무선 이어폰",
-    "price": 369000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249065065",
+    "brand": "아이닉",
+    "product": "아이닉 자동 먼지비움 스테이션 무선 청소기 i50 아이타워",
+    "price": 299000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247180652",
     "slot_id": "202609106014",
     "items": [
      {
-      "brand": "샥즈",
-      "product": "[SHOKZ 샥즈] 오픈핏 프로 Open fit Pro T010 오픈형 귀걸이형 블루투스 공기전도 무선 이어폰",
-      "price": 369000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249065065"
+      "brand": "아이닉",
+      "product": "아이닉 자동 먼지비움 스테이션 무선 청소기 i50 아이타워",
+      "price": 299000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247180652"
      }
     ],
     "title": "[온누리특집전] 오늘 상품권 터는날! 10% 적립 혜택",
@@ -3721,6 +3721,25 @@
    }
   ],
   "2026-09-11": [
+   {
+    "start": "07:00",
+    "end": "07:59",
+    "brand": "알레보",
+    "product": "[2025NEW.통3중.IH인덕션 가능] 알레보 디 엣지 프라이팬 리뉴얼 세트(26팬+26웍+사각팬+스텐돔+유리뚜껑)",
+    "price": 159000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2228377985",
+    "slot_id": "202609116021",
+    "items": [
+     {
+      "brand": "알레보",
+      "product": "[2025NEW.통3중.IH인덕션 가능] 알레보 디 엣지 프라이팬 리뉴얼 세트(26팬+26웍+사각팬+스텐돔+유리뚜껑)",
+      "price": 159000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2228377985"
+     }
+    ],
+    "title": "⏰잠시 후 종료! 알레보 라이브 특별가",
+    "pgm": "[재방] 알레보 (P.D.Lab)"
+   },
    {
     "start": "08:00",
     "end": "08:59",
@@ -4315,6 +4334,25 @@
     "pgm": "[프로그] 생활용품 (리빙)"
    },
    {
+    "start": "13:00",
+    "end": "13:59",
+    "brand": "청고담",
+    "product": "홍삼배도라지 진액스틱 15g 30포 2박스",
+    "price": 74900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253216014",
+    "slot_id": "202609136004",
+    "items": [
+     {
+      "brand": "청고담",
+      "product": "홍삼배도라지 진액스틱 15g 30포 2박스",
+      "price": 74900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253216014"
+     }
+    ],
+    "title": "3代를 이어 진심을 담아 달인 홍삼배도라지 진액스틱",
+    "pgm": "[위팩토리] 홍삼/배도라지 진액 (일반식품2)"
+   },
+   {
     "start": "15:00",
     "end": "15:59",
     "brand": "스타우브",
@@ -4410,6 +4448,25 @@
     "pgm": "[재방] 듀오백 의자 (리빙)"
    },
    {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "LG전자",
+    "product": "[모바일라이브] LG 디오스 AI 오브제 노크온 매직스페이스 냉장고 5도어 865L 에센스화이트 [T876MQQ412]",
+    "price": 3250000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252087157",
+    "slot_id": "202609136011",
+    "items": [
+     {
+      "brand": "LG전자",
+      "product": "[모바일라이브] LG 디오스 AI 오브제 노크온 매직스페이스 냉장고 5도어 865L 에센스화이트 [T876MQQ412]",
+      "price": 3250000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252087157"
+     }
+    ],
+    "title": "[LG] LOL 다품목 특집전",
+    "pgm": "[LG] 특별전 (가전)"
+   },
+   {
     "start": "22:00",
     "end": "22:59",
     "brand": "프레스티짓",
@@ -4465,7 +4522,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2245259758"
      }
     ],
-    "title": "[레노마 캐주얼] 26FW 신상 정장外 LIVE",
+    "title": "[레노마 캐주얼] 26FW 신상 정장 外 LIVE",
     "pgm": "백화점 프리오픈쇼(멀티커머스)"
    },
    {
@@ -4488,6 +4545,25 @@
     "pgm": "[수산대전] 수산물 (일반식품2)"
    },
    {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "테크니골드",
+    "product": "18K 빅 터틀 네크리스",
+    "price": 1899000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252499811",
+    "slot_id": "202609146005",
+    "items": [
+     {
+      "brand": "테크니골드",
+      "product": "18K 빅 터틀 네크리스",
+      "price": 1899000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252499811"
+     }
+    ],
+    "title": "[노블리타] 이태리 18K 주얼리 월 7천원대부터~",
+    "pgm": "노블리타 (노블레스)"
+   },
+   {
     "start": "13:00",
     "end": "13:59",
     "brand": "루블리",
@@ -4503,8 +4579,27 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253245482"
      }
     ],
-    "title": "[루블리주얼리] 쇼라 첫 런칭 기념! 최대 할인 찬스",
+    "title": "[루블리주얼리] 쇼라 첫 런칭 기념! 최대 혜택 찬스",
     "pgm": "[루블리] 주얼리 (멀티커머스)"
+   },
+   {
+    "start": "14:00",
+    "end": "14:59",
+    "brand": "선미한과",
+    "product": "청송 개별포장 강릉모둠세트(보자기포장+쇼핑백)",
+    "price": 67000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2235610192",
+    "slot_id": "202609146008",
+    "items": [
+     {
+      "brand": "선미한과",
+      "product": "청송 개별포장 강릉모둠세트(보자기포장+쇼핑백)",
+      "price": 67000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2235610192"
+     }
+    ],
+    "title": "[최대 40% 쿠폰] 한과 선물세트, 송편 구매 찬스",
+    "pgm": "[일상미당/선미] 떡/한과 (일반식품2)"
    },
    {
     "start": "16:00",
@@ -4522,7 +4617,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253061450"
      }
     ],
-    "title": "[선착순50%쿠폰] 특대 제주 갈치/옥돔 추석선물세트",
+    "title": "선착순 50% 쿠폰! 특대 제주 갈치/옥돔 추석선물세트",
     "pgm": "[홀리라이크] 갈치 (액티브라이프)"
    },
    {
@@ -4560,7 +4655,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239425835"
      }
     ],
-    "title": "[한국금거래소] 골드바+실버바 핫딜!",
+    "title": "[한국금거래소] 골드바 & 실버바 핫딜!",
     "pgm": "[한국금거래소] 금 (패션잡화)"
    },
    {
@@ -4598,7 +4693,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2245890837"
      }
     ],
-    "title": "[현명쇼] 프라다 월 7천원대 전상품 무이자 60개월",
+    "title": "[현명쇼] 프라다 월 7천원대 전 상품 무이자 60개월",
     "pgm": "현명쇼(노블레스)"
    },
    {
