@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-09T11:32:54+09:00",
+ "generated_at": "2026-09-09T11:48:29+09:00",
  "today": "2026-09-09",
  "dates": [
   "2026-09-08",
@@ -2711,7 +2711,7 @@ window.SCHEDULE = {
      "title": "PLAY! HIRO🛹HIRO/glgk/SANN 26FW 단독 공개🧢",
      "pgm": "맘만하니",
      "pgm_cd": "0099",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -7863,7 +7863,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -8077,8 +8077,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 10
+     "category": "푸드"
     },
     {
      "start": "10:00",
@@ -9300,7 +9299,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 10
     },
     {
      "start": "11:00",
