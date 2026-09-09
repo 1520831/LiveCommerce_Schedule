@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-09T09:40:49+09:00",
+ "generated_at": "2026-09-09T09:58:25+09:00",
  "today": "2026-09-09",
  "dates": [
   "2026-09-08",
@@ -21762,7 +21762,7 @@ window.SCHEDULE = {
      "pgm": "아토팜 하반기 최대 혜택",
      "title": "브랜드위크 LIVE+본품증정",
      "category": "뷰티",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "08:30",
