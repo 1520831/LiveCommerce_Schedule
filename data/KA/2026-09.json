@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-09-09T12:09:32+09:00",
+ "updated_at": "2026-09-09T15:55:24+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -1451,7 +1451,7 @@
    },
    {
     "start": "11:30",
-    "end": "13:00",
+    "end": "12:30",
     "brand": "솔가 공식스토어",
     "product": "[카카오] 솔가 솔로바이트 종합비타민위드미네랄 외 25종",
     "price": 87000,
@@ -1463,7 +1463,7 @@
    },
    {
     "start": "11:30",
-    "end": "13:00",
+    "end": "12:31",
     "brand": "피앤지 온라인 스토어",
     "product": "팸퍼스 2박스 특가! 엔젤소프트/통잠/에어차차/터치오브네이처 등 전체 라인 기저귀",
     "price": 187200,
@@ -1475,7 +1475,7 @@
    },
    {
     "start": "11:30",
-    "end": "13:00",
+    "end": "12:30",
     "brand": "두두스토리",
     "product": "두두스토리 BEST 첫 놀이템 포토사운드/두두앙팡/그림자극장베이비",
     "price": 69000,
@@ -1487,7 +1487,7 @@
    },
    {
     "start": "11:30",
-    "end": "13:00",
+    "end": "12:30",
     "brand": "앙블랑",
     "product": "앙블랑 대용량 100매 물티슈 네오 그리너리 10팩 외 인기 모음전",
     "price": 52000,
@@ -1685,7 +1685,7 @@
     "start": "08:30",
     "end": "11:30",
     "brand": "매일유업 직영스토어",
-    "product": "아몬드브리즈 6종(NEW 커피 출시) 190ML/950ML 10팩/24팩/48팩 중 택 1",
+    "product": "아몬드브리즈 6종 190ML/950ML 10팩/24팩/48팩 중 택 1",
     "price": 31200,
     "link": "https://store.kakao.com/maeilecommerce/products/54303233",
     "slot_id": "59282",
@@ -1697,9 +1697,9 @@
     "start": "08:30",
     "end": "10:00",
     "brand": "코스알엑스",
-    "product": "원스텝 패드 100매 4종 택 2 (모공각질/광채탄력/트러블진정/미백수분)",
-    "price": 35000,
-    "link": "https://store.kakao.com/cosrx/products/782095377",
+    "product": "코스알엑스 UP TO 65% 할인 (패드/스킨케어/마스크팩)",
+    "price": 15000,
+    "link": "https://store.kakao.com/cosrx/products/776667569",
     "slot_id": "59518",
     "pgm": "원조 패드 맛집 코스알엑스",
     "title": "패드부터 데일리 스킨케어까지",
@@ -2327,7 +2327,7 @@
     "link": "https://store.kakao.com/braunoralb/products/781681793",
     "slot_id": "59934",
     "pgm": "브라운 NEVO 라인업 출시",
-    "title": "카카오 단독 첫공개 라이브",
+    "title": "추가 할인 혜택 등",
     "category": "테크"
    },
    {
@@ -2384,7 +2384,7 @@
     "start": "10:00",
     "end": "11:30",
     "brand": "리버티",
-    "product": "Liberty 2026 에디션 입는오버나이트 1팩 외 생리대/중형/대형/롱라이너/오버나이트",
+    "product": "Liberty 2026 에디션 입는오버나이트 1+1팩 외 생리대/중형/대형/롱라이너/오버나이트",
     "price": 15900,
     "link": "https://store.kakao.com/liberty/products/318545773",
     "slot_id": "59729",
@@ -2849,6 +2849,7 @@
     "link": "https://gift.kakao.com/product/9535854?url=product&cId=9535854",
     "slot_id": "59811",
     "pgm": "어노브 라이브",
+    "title": "가을맞이 헤어케어 위크",
     "category": "뷰티"
    },
    {
@@ -2862,6 +2863,18 @@
     "pgm": "빵고미 보조배터리/슬리퍼",
     "title": "콜라보 선물하기 특가",
     "category": "리빙"
+   },
+   {
+    "start": "11:00",
+    "end": "12:30",
+    "brand": "보고몰",
+    "product": "[본사공식몰] 보고신약 메가산삼 선물용 1박스 (총 10병)",
+    "price": 30000,
+    "link": "https://store.kakao.com/bogo/products/704721414",
+    "slot_id": "60047",
+    "pgm": "톡딜 특별 혜택 라이브",
+    "title": "건강드링크 특가/혜택 라이브",
+    "category": "식품"
    },
    {
     "start": "11:30",
@@ -2936,6 +2949,18 @@
     "category": "식품"
    },
    {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "꽃님이",
+    "product": "가을 제철생화 믹스 선물세트",
+    "price": 19900,
+    "link": "https://store.kakao.com/cotenim/products/340210135",
+    "slot_id": "60044",
+    "pgm": "가을 제철꽃 10900원",
+    "title": "추석선물 미리준비!",
+    "category": "리빙"
+   },
+   {
     "start": "18:00",
     "end": "19:30",
     "brand": "앤커",
@@ -2975,9 +3000,9 @@
     "start": "19:00",
     "end": "22:00",
     "brand": "온다",
-    "product": "[제주신화월드/랜딩관] 룸온리/ 조식 패키지 /2박 패키지 (~연말투숙오픈)",
-    "price": 110000,
-    "link": "https://store.kakao.com/ondaselect/products/781384036",
+    "product": "[제주신화월드/신화관 ] 룸온리/ 조식 패키지 /2박 패키지 (~연말투숙오픈)",
+    "price": 149000,
+    "link": "https://store.kakao.com/ondaselect/products/781382321",
     "slot_id": "59432",
     "pgm": "제주신화월드 3개관 기획전",
     "title": "객실+단독특전 11만~",
@@ -3018,6 +3043,18 @@
     "pgm": "밀잇 추석 전 배송 완료",
     "title": "명절대비 식단 쟁이기 초특가",
     "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "티슬로",
+    "product": "바디로션 2+1",
+    "price": 68000,
+    "link": "https://gift.kakao.com/product/12705780?url=product&cId=12705780",
+    "slot_id": "59769",
+    "pgm": "가을로 이끄는 티슬로의 향기",
+    "title": "바디로션or워시 2+1",
+    "category": "뷰티"
    },
    {
     "start": "20:30",

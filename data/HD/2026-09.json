@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-09T12:09:17+09:00",
+ "updated_at": "2026-09-09T15:55:06+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -3246,14 +3246,14 @@
     "start": "14:00",
     "end": "14:59",
     "brand": "이드르르",
-    "product": "[이드르르] 모발관리 풀세트 샴푸x트리트먼트 390ml (스칼프+리스토어+에어리)",
+    "product": "모발관리 풀세트 샴푸x트리트먼트 390ml (스칼프+리스토어+에어리)",
     "price": 113000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253254583",
     "slot_id": "202609096007",
     "items": [
      {
       "brand": "이드르르",
-      "product": "[이드르르] 모발관리 풀세트 샴푸x트리트먼트 390ml (스칼프+리스토어+에어리)",
+      "product": "모발관리 풀세트 샴푸x트리트먼트 390ml (스칼프+리스토어+에어리)",
       "price": 113000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253254583"
      }
@@ -3303,14 +3303,14 @@
     "start": "17:00",
     "end": "17:59",
     "brand": "밋앤밀",
-    "product": "[농할] [밋앤밀] 국내산 영주 뜬바우골 산지직송 선별 정품 홍로 사과 2.5kg 대과(8-10과)",
+    "product": "[농할] [밋앤밀] 국내산 영주 뜬바우골 산지직송 GAP 정품 홍로 사과 2.5kg 대과(8-10과)",
     "price": 43800,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253133188",
     "slot_id": "202609096010",
     "items": [
      {
       "brand": "밋앤밀",
-      "product": "[농할] [밋앤밀] 국내산 영주 뜬바우골 산지직송 선별 정품 홍로 사과 2.5kg 대과(8-10과)",
+      "product": "[농할] [밋앤밀] 국내산 영주 뜬바우골 산지직송 GAP 정품 홍로 사과 2.5kg 대과(8-10과)",
       "price": 43800,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253133188"
      }
@@ -3323,14 +3323,14 @@
     "end": "18:59",
     "brand": "아시아골드",
     "product": "실버바 100g 검독수리",
-    "price": 474000,
+    "price": 456000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253164017",
     "slot_id": "202609096011",
     "items": [
      {
       "brand": "아시아골드",
       "product": "실버바 100g 검독수리",
-      "price": 474000,
+      "price": 456000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253164017"
      }
     ],
@@ -3625,6 +3625,25 @@
     "pgm": "[아미니] 바디워시 外 (뷰티브랜드)"
    },
    {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "밋앤밀",
+    "product": "산지직송 생물 서해안 오징어 손질 할복 오징어 10미(손질 전 2Kg 내외)",
+    "price": 51900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252554596",
+    "slot_id": "202609106011",
+    "items": [
+     {
+      "brand": "밋앤밀",
+      "product": "산지직송 생물 서해안 오징어 손질 할복 오징어 10미(손질 전 2Kg 내외)",
+      "price": 51900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252554596"
+     }
+    ],
+    "title": "[밋앤밀] 산지직송 서해안 생물 오징어 라이브 특별가",
+    "pgm": "[잭슨코리아] 서해안 생오징어(편성)"
+   },
+   {
     "start": "18:00",
     "end": "18:59",
     "brand": "해외직구",
@@ -3685,11 +3704,17 @@
     "start": "22:00",
     "end": "22:59",
     "brand": "쥬시쥬디",
-    "product": "카울넥셔링티셔츠 J1TS121B",
-    "price": 41000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253006017",
+    "product": "[SET]테일러드박시자켓 + 플리츠스커트 JZST026B",
+    "price": 189000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2240261923",
     "slot_id": "202609106016",
     "items": [
+     {
+      "brand": "쥬시쥬디",
+      "product": "[SET]테일러드박시자켓 + 플리츠스커트 JZST026B",
+      "price": 189000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2240261923"
+     },
      {
       "brand": "쥬시쥬디",
       "product": "카울넥셔링티셔츠 J1TS121B",
@@ -3910,6 +3935,25 @@
     ],
     "title": "피콘 EMS 저주파 마사지기 / 프란치스코 효도지팡이",
     "pgm": "[에코테리언/피콘] 지팡이/마사지기 (가전)"
+   },
+   {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "밋앤밀",
+    "product": "[농할] [밋앤밀] 국내산 경북 영천 산지직송 추희자두 왕특 4Kg(120g 이상)",
+    "price": 58100,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253077904",
+    "slot_id": "202609116011",
+    "items": [
+     {
+      "brand": "밋앤밀",
+      "product": "[농할] [밋앤밀] 국내산 경북 영천 산지직송 추희자두 왕특 4Kg(120g 이상)",
+      "price": 58100,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253077904"
+     }
+    ],
+    "title": "[밋앤밀] 영천 산지직송 추희자두 라이브 특별가!",
+    "pgm": "[잭슨코리아] 추희 자두"
    },
    {
     "start": "18:00",
@@ -4353,6 +4397,25 @@
     "pgm": "[위팩토리] 홍삼/배도라지 진액 (일반식품2)"
    },
    {
+    "start": "14:00",
+    "end": "14:59",
+    "brand": "밋앤밀",
+    "product": "산지직송 영광 법성포 영광굴비 1.4kg 20미(18∼19cm)",
+    "price": 43100,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253237117",
+    "slot_id": "202609136005",
+    "items": [
+     {
+      "brand": "밋앤밀",
+      "product": "산지직송 영광 법성포 영광굴비 1.4kg 20미(18∼19cm)",
+      "price": 43100,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253237117"
+     }
+    ],
+    "title": "[밋앤밀] 영광 법성포 굴비 핫딜",
+    "pgm": "[잭슨코리아] 영광 굴비外 (편성)"
+   },
+   {
     "start": "15:00",
     "end": "15:59",
     "brand": "스타우브",
@@ -4425,7 +4488,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252669760"
      }
     ],
-    "title": "[현대쇼룸] 누캐시미어 26FW 최신상 최초공개전",
+    "title": "[현대쇼룸] 누캐시미어 26FW 최신상 최초 공개전",
     "pgm": "현대쇼룸 (패션)"
    },
    {
@@ -4564,6 +4627,25 @@
     "pgm": "노블리타 (노블레스)"
    },
    {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "머티리얼랩",
+    "product": "[2종] 머티리얼랩 26FW 소프트 딥브이넥 스웻셔츠+레이스 뷔스티에",
+    "price": 79900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252267471",
+    "slot_id": "202609146006",
+    "items": [
+     {
+      "brand": "머티리얼랩",
+      "product": "[2종] 머티리얼랩 26FW 소프트 딥브이넥 스웻셔츠+레이스 뷔스티에",
+      "price": 79900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252267471"
+     }
+    ],
+    "title": "머티리얼랩 26F/W 최신상 인기 아이템 총집합!",
+    "pgm": "[머티리얼랩] 의류 (패션3Lab)"
+   },
+   {
     "start": "13:00",
     "end": "13:59",
     "brand": "루블리",
@@ -4644,14 +4726,14 @@
     "end": "19:59",
     "brand": "한국금거래소",
     "product": "X 현대홈쇼핑 VIP 골드바 3.75g",
-    "price": 964000,
+    "price": 950100,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239425835",
     "slot_id": "202609146013",
     "items": [
      {
       "brand": "한국금거래소",
       "product": "X 현대홈쇼핑 VIP 골드바 3.75g",
-      "price": 964000,
+      "price": 950100,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239425835"
      }
     ],
