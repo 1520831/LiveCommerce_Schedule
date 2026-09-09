@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-09T10:48:55+09:00",
+ "generated_at": "2026-09-09T10:59:23+09:00",
  "today": "2026-09-09",
  "dates": [
   "2026-09-08",
@@ -8077,7 +8077,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 9
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -8650,7 +8650,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "패션",
-     "hot": 10
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -21792,7 +21792,7 @@ window.SCHEDULE = {
      "pgm": "라보에이치 ~46% 할인!",
      "title": "방송 중 5% 추가할인까지",
      "category": "뷰티",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "10:00",
