@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-09T11:17:57+09:00",
+ "generated_at": "2026-09-09T11:32:54+09:00",
  "today": "2026-09-09",
  "dates": [
   "2026-09-08",
@@ -8078,7 +8078,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -21754,8 +21754,7 @@ window.SCHEDULE = {
      "slot_id": "58568",
      "pgm": "프로쉬 푸른 하늘의 날 특집",
      "title": "주방/세탁/청소세제 쟁이기",
-     "category": "리빙",
-     "hot": 10
+     "category": "리빙"
     },
     {
      "start": "08:30",
@@ -23443,8 +23442,8 @@ window.SCHEDULE = {
    "2026-09-08",
    "2026-09-09"
   ],
-  "matched": 14,
-  "unmatched": 5
+  "matched": 13,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
