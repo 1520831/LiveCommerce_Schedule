@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-09T23:47:31+09:00",
+ "updated_at": "2026-09-10T07:10:18+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -3209,14 +3209,14 @@
     "end": "12:59",
     "brand": "신선 설한우",
     "product": "[맛춤세트] NO.8 1++ 한우세트 등심300g 안심300g 살치살300g 채끝300g 1.2kg",
-    "price": 225000,
+    "price": 255000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2242209067",
     "slot_id": "202609096005",
     "items": [
      {
       "brand": "신선 설한우",
       "product": "[맛춤세트] NO.8 1++ 한우세트 등심300g 안심300g 살치살300g 채끝300g 1.2kg",
-      "price": 225000,
+      "price": 255000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2242209067"
      }
     ],
@@ -3360,14 +3360,14 @@
     "end": "18:59",
     "brand": "신선 설한우",
     "product": "[맛춤세트] NO.8 1++ 한우세트 등심300g 안심300g 살치살300g 채끝300g 1.2kg",
-    "price": 225000,
+    "price": 255000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2242209067",
     "slot_id": "202609096026",
     "items": [
      {
       "brand": "신선 설한우",
       "product": "[맛춤세트] NO.8 1++ 한우세트 등심300g 안심300g 살치살300g 채끝300g 1.2kg",
-      "price": 225000,
+      "price": 255000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2242209067"
      }
     ],
@@ -3410,24 +3410,6 @@
     ],
     "title": "[JJ지고트] 데일리·하객룩 올인원 코디! 최대 70%",
     "pgm": "[재방] JJ지고트 의류 (멀티커머스)"
-   },
-   {
-    "start": "20:00",
-    "end": "20:59",
-    "brand": "더후",
-    "product": "[더 후][정가18만원][10%OFF]비첩 NAD 파워 앰플 50ml 대용량 기획세트",
-    "price": 162000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253190988",
-    "slot_id": "202609096013",
-    "items": [
-     {
-      "brand": "더후",
-      "product": "[더 후][정가18만원][10%OFF]비첩 NAD 파워 앰플 50ml 대용량 기획세트",
-      "price": 162000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253190988"
-     }
-    ],
-    "title": "[초뷰쇼x더후] 추석특집 비첩/천기단 外 최대 30%"
    },
    {
     "start": "20:00",
@@ -3702,14 +3684,14 @@
     "end": "17:59",
     "brand": "밋앤밀",
     "product": "산지직송 생물 서해안 오징어 손질 할복 오징어 10미(손질 전 2Kg 내외)",
-    "price": 51900,
+    "price": 50900,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252554596",
     "slot_id": "202609106011",
     "items": [
      {
       "brand": "밋앤밀",
       "product": "산지직송 생물 서해안 오징어 손질 할복 오징어 10미(손질 전 2Kg 내외)",
-      "price": 51900,
+      "price": 50900,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252554596"
      }
     ],
@@ -3778,14 +3760,14 @@
     "end": "22:59",
     "brand": "쥬시쥬디",
     "product": "[SET]테일러드박시자켓 + 플리츠스커트 JZST026B",
-    "price": 189000,
+    "price": 119000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2240261923",
     "slot_id": "202609106016",
     "items": [
      {
       "brand": "쥬시쥬디",
       "product": "[SET]테일러드박시자켓 + 플리츠스커트 JZST026B",
-      "price": 189000,
+      "price": 119000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2240261923"
      }
     ],
@@ -4901,6 +4883,236 @@
     ],
     "title": "[티르리르] 추석선물 추천! 24K코인/14K주얼리 外",
     "pgm": "[티르리르] 주얼리 (멀티커머스)"
+   }
+  ],
+  "2026-09-15": [
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "미소페",
+    "product": "여성 로퍼 012439702 6cm 2color 012439702",
+    "price": 179000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2215827461",
+    "slot_id": "202609156004",
+    "items": [
+     {
+      "brand": "미소페",
+      "product": "여성 로퍼 012439702 6cm 2color 012439702",
+      "price": 179000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2215827461"
+     }
+    ],
+    "title": "[미소페] 가을맞이 BEST 슈즈 특별가 찬스!",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "레고",
+    "product": "스페셜 40638 하트 장식품 [레고공식]",
+    "price": 15700,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2244907997",
+    "slot_id": "202609156006",
+    "items": [
+     {
+      "brand": "레고",
+      "product": "스페셜 40638 하트 장식품 [레고공식]",
+      "price": 15700,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2244907997"
+     }
+    ],
+    "title": "[레고/LEGO] 명절맞이 기념! 아이들을 위한 선물♥",
+    "pgm": "육아일기"
+   },
+   {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "착한전복",
+    "product": "완도 참전복 선물세트 (1.0kg 6-7미) 왕특",
+    "price": 47800,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2203505067",
+    "slot_id": "202609156007",
+    "items": [
+     {
+      "brand": "착한전복",
+      "product": "완도 참전복 선물세트 (1.0kg 6-7미) 왕특",
+      "price": 47800,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2203505067"
+     }
+    ],
+    "title": "[추석특집]인기 수산물 선물세트 총집합!",
+    "pgm": "[맛있는 날] 굴비/갈치 선물세트 (일반식품2)"
+   },
+   {
+    "start": "14:00",
+    "end": "14:59",
+    "brand": "중현떡집",
+    "product": "[남해중현떡집]48년전통 전국4대떡집 쑥인절미 쑥떡(+콩고물) 2KG",
+    "price": 30900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252025829",
+    "slot_id": "202609156009",
+    "items": [
+     {
+      "brand": "중현떡집",
+      "product": "[남해중현떡집]48년전통 전국4대떡집 쑥인절미 쑥떡(+콩고물) 2KG",
+      "price": 30900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252025829"
+     }
+    ],
+    "title": "[남해중현떡집/차마루쌍화차] 선착순 쿠폰혜택 가득",
+    "pgm": "[중현떡집/차마루] 쑥떡/쌍화차 (일반식품2)"
+   },
+   {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "이대명과",
+    "product": "(H몰) 해운대 2-1호(600gX2) 2개",
+    "price": 38220,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251337878",
+    "slot_id": "202609156010",
+    "items": [
+     {
+      "brand": "이대명과",
+      "product": "(H몰) 해운대 2-1호(600gX2) 2개",
+      "price": 38220,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251337878"
+     }
+    ],
+    "title": "70년 장인의 맛, 이대명과 전병 세트 26천원대~",
+    "pgm": "[이대명과] 식품 (멀티커머스)"
+   },
+   {
+    "start": "16:00",
+    "end": "16:59",
+    "brand": "말지아비(Magarerbi)",
+    "product": "[말지아비유니크] 유수분관리 집중케어 BEST 조합 추석 기획세트 (세럼 100ml +크림 100ml)",
+    "price": 49800,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253157789",
+    "slot_id": "202609156011",
+    "items": [
+     {
+      "brand": "말지아비(Magarerbi)",
+      "product": "[말지아비유니크] 유수분관리 집중케어 BEST 조합 추석 기획세트 (세럼 100ml +크림 100ml)",
+      "price": 49800,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253157789"
+     }
+    ],
+    "title": "[말지아비+풀림] 추석 선물 특집전 연합 라이브",
+    "pgm": "[케이와이코스메틱/그리니] 크림/스킨밤 (뷰티1)"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "한민금거래소",
+    "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
+    "price": 267100,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581",
+    "slot_id": "202609156013",
+    "items": [
+     {
+      "brand": "한민금거래소",
+      "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
+      "price": 267100,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581"
+     }
+    ],
+    "title": "[한민금거래소] 재테크/선물용 外 골드바 득템 찬스",
+    "pgm": "[한민금거래소] 금 (패션잡화)"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "듀오 정보",
+    "product": "[쇼핑라이브] 듀오 매칭 서비스 가입 상담(기간형 횟수형)",
+    "price": 4100000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253371094",
+    "slot_id": "202609156014",
+    "items": [
+     {
+      "brand": "듀오 정보",
+      "product": "[쇼핑라이브] 듀오 매칭 서비스 가입 상담(기간형 횟수형)",
+      "price": 4100000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253371094"
+     }
+    ],
+    "title": "[최초 론칭] 결혼해 듀오! 매칭 서비스 가입 상담",
+    "pgm": "[듀오] 듀오 (렌탈)"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "다온",
+    "product": "블랙앵거스 LA갈비 3kg 선물 세트",
+    "price": 99900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2084681920",
+    "slot_id": "202609156015",
+    "items": [
+     {
+      "brand": "다온",
+      "product": "블랙앵거스 LA갈비 3kg 선물 세트",
+      "price": 99900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2084681920"
+     }
+    ],
+    "title": "[추석 특집] 블랙앵거스&포천이동갈비 쇼라",
+    "pgm": "[블랙앵거스] LA갈비 (일반식품2)"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "삼익가구",
+    "product": "더메인 LED 프리미엄 가죽헤드 수납 호텔 침대(매트제외-슈퍼싱글)",
+    "price": 335370,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2151690109",
+    "slot_id": "202609156020",
+    "items": [
+     {
+      "brand": "삼익가구",
+      "product": "더메인 LED 프리미엄 가죽헤드 수납 호텔 침대(매트제외-슈퍼싱글)",
+      "price": 335370,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2151690109"
+     }
+    ],
+    "title": "[삼익가구] 명절특집 앵콜 최대 혜택",
+    "pgm": "[재방] 삼익가구 (리빙팀)"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "삼성",
+    "product": "[쇼라] 삼성 비스포크 AI 냉장고 905L 화이트 [RM70F90R2W]",
+    "price": 2390000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2233958264",
+    "slot_id": "202609156002",
+    "items": [
+     {
+      "brand": "삼성",
+      "product": "[쇼라] 삼성 비스포크 AI 냉장고 905L 화이트 [RM70F90R2W]",
+      "price": 2390000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2233958264"
+     }
+    ],
+    "title": "한가위를 맞이한 삼성 다품목 특집전",
+    "pgm": "[삼성] 삼성 특별전 (가전)"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "JJ지고트",
+    "product": "모던 디테쳐블 커프스 크롭 재킷 GS9M0JK912 (2color) GS9M0JK912",
+    "price": 167400,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252843480",
+    "slot_id": "202609156016",
+    "items": [
+     {
+      "brand": "JJ지고트",
+      "product": "모던 디테쳐블 커프스 크롭 재킷 GS9M0JK912 (2color) GS9M0JK912",
+      "price": 167400,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252843480"
+     }
+    ],
+    "title": "[JJ지고트] 가을무드ON, 모던 페미닌룩 최대 67%",
+    "pgm": "[JJ지고트] 의류 (멀티커머스)"
    }
   ]
  }
