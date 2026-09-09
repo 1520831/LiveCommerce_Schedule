@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-09T15:55:06+09:00",
+ "updated_at": "2026-09-09T18:14:09+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -3095,14 +3095,14 @@
     "end": "07:59",
     "brand": "한민금거래소",
     "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-    "price": 267700,
+    "price": 267100,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581",
     "slot_id": "202609096022",
     "items": [
      {
       "brand": "한민금거래소",
       "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-      "price": 267700,
+      "price": 267100,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581"
      }
     ],
@@ -3319,6 +3319,24 @@
     "pgm": "[잭슨코리아] 홍로 사과"
    },
    {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "프라다",
+    "product": "프라다 1BD391 RDLN F0002 리나일론 트라이앵글 로고 익스플로어 라지 숄더백",
+    "price": 3690000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252879767",
+    "slot_id": "202609096024",
+    "items": [
+     {
+      "brand": "프라다",
+      "product": "프라다 1BD391 RDLN F0002 리나일론 트라이앵글 로고 익스플로어 라지 숄더백",
+      "price": 3690000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252879767"
+     }
+    ],
+    "title": "[투명쇼] 프라다 인기 가방 60개월 무이자 찬스!"
+   },
+   {
     "start": "18:00",
     "end": "18:59",
     "brand": "아시아골드",
@@ -3338,6 +3356,24 @@
     "pgm": "[아시아골드] 금 (패션잡화)"
    },
    {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "신선 설한우",
+    "product": "[맛춤세트] NO.8 1++ 한우세트 등심300g 안심300g 살치살300g 채끝300g 1.2kg",
+    "price": 225000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2242209067",
+    "slot_id": "202609096026",
+    "items": [
+     {
+      "brand": "신선 설한우",
+      "product": "[맛춤세트] NO.8 1++ 한우세트 등심300g 안심300g 살치살300g 채끝300g 1.2kg",
+      "price": 225000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2242209067"
+     }
+    ],
+    "title": "추석 특집 신선설한우🤍"
+   },
+   {
     "start": "19:00",
     "end": "19:59",
     "brand": "머티리얼랩",
@@ -3355,6 +3391,25 @@
     ],
     "title": "머티리얼랩 26F/W 최초 공개! 최대 10만원▼",
     "pgm": "현대쇼룸 (패션)"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "JJ지고트",
+    "product": "시스루 배색 오픈 재킷 (GS3A0JK221) GS3A0JK22",
+    "price": 179400,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253159274",
+    "slot_id": "202609096027",
+    "items": [
+     {
+      "brand": "JJ지고트",
+      "product": "시스루 배색 오픈 재킷 (GS3A0JK221) GS3A0JK22",
+      "price": 179400,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253159274"
+     }
+    ],
+    "title": "[JJ지고트] 데일리·하객룩 올인원 코디! 최대 70%",
+    "pgm": "[재방] JJ지고트 의류 (멀티커머스)"
    },
    {
     "start": "20:00",
@@ -3714,12 +3769,6 @@
       "product": "[SET]테일러드박시자켓 + 플리츠스커트 JZST026B",
       "price": 189000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2240261923"
-     },
-     {
-      "brand": "쥬시쥬디",
-      "product": "카울넥셔링티셔츠 J1TS121B",
-      "price": 41000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253006017"
      }
     ],
     "title": "[쥬시쥬디] 26FW 신상오픈! 간절기 최대 68%▼",
@@ -4017,14 +4066,14 @@
     "end": "21:59",
     "brand": "골드무드",
     "product": "24K 순금 럭키 통통 클로버 원석 팔찌",
-    "price": 339000,
+    "price": 238000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239503592",
     "slot_id": "202609116014",
     "items": [
      {
       "brand": "골드무드",
       "product": "24K 순금 럭키 통통 클로버 원석 팔찌",
-      "price": 339000,
+      "price": 238000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239503592"
      }
     ],
@@ -4306,14 +4355,14 @@
     "end": "00:59",
     "brand": "한민금거래소",
     "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-    "price": 267700,
+    "price": 267100,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581",
     "slot_id": "202609136016",
     "items": [
      {
       "brand": "한민금거래소",
       "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-      "price": 267700,
+      "price": 267100,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581"
      }
     ],
@@ -4435,6 +4484,25 @@
     "pgm": "[집방] 스타우브 냄비 (주방)"
    },
    {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "다우닝가구",
+    "product": "[다우닝] 클로 3인 전체 천연가죽 소파",
+    "price": 1960000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2240411570",
+    "slot_id": "202609136021",
+    "items": [
+     {
+      "brand": "다우닝가구",
+      "product": "[다우닝] 클로 3인 전체 천연가죽 소파",
+      "price": 1960000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2240411570"
+     }
+    ],
+    "title": "[다우닝] 20%쿠폰 + 3% 깜짝쿠폰",
+    "pgm": "[재방] 다우닝 소파 (리빙)"
+   },
+   {
     "start": "17:00",
     "end": "17:59",
     "brand": "예본모피",
@@ -4490,6 +4558,25 @@
     ],
     "title": "[현대쇼룸] 누캐시미어 26FW 최신상 최초 공개전",
     "pgm": "현대쇼룸 (패션)"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "한민금거래소",
+    "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
+    "price": 267100,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581",
+    "slot_id": "202609136010",
+    "items": [
+     {
+      "brand": "한민금거래소",
+      "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
+      "price": 267100,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581"
+     }
+    ],
+    "title": "[한민금거래소] 골드바 최대 60개월 무이자 혜택!",
+    "pgm": "[한민금거래소] 금 (패션잡화)"
    },
    {
     "start": "20:00",
