@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-09T10:59:23+09:00",
+ "generated_at": "2026-09-09T11:17:57+09:00",
  "today": "2026-09-09",
  "dates": [
   "2026-09-08",
@@ -2710,7 +2710,8 @@ window.SCHEDULE = {
      "slot_id": "29138",
      "title": "PLAY! HIRO🛹HIRO/glgk/SANN 26FW 단독 공개🧢",
      "pgm": "맘만하니",
-     "pgm_cd": "0099"
+     "pgm_cd": "0099",
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -7862,7 +7863,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -8649,8 +8650,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "패션",
-     "hot": 9
+     "category": "패션"
     },
     {
      "start": "10:00",
@@ -8811,7 +8811,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -9834,7 +9834,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -21754,7 +21755,7 @@ window.SCHEDULE = {
      "pgm": "프로쉬 푸른 하늘의 날 특집",
      "title": "주방/세탁/청소세제 쟁이기",
      "category": "리빙",
-     "hot": 6
+     "hot": 10
     },
     {
      "start": "08:30",
@@ -21778,8 +21779,7 @@ window.SCHEDULE = {
      "slot_id": "59632",
      "pgm": "미샤 ~60% 추석맞이 할인",
      "title": "쿠폰+카카오페이머니 할인",
-     "category": "뷰티",
-     "hot": 7
+     "category": "뷰티"
     },
     {
      "start": "08:30",
@@ -21791,8 +21791,7 @@ window.SCHEDULE = {
      "slot_id": "59633",
      "pgm": "라보에이치 ~46% 할인!",
      "title": "방송 중 5% 추가할인까지",
-     "category": "뷰티",
-     "hot": 10
+     "category": "뷰티"
     },
     {
      "start": "10:00",
@@ -21816,8 +21815,7 @@ window.SCHEDULE = {
      "slot_id": "59020",
      "pgm": "브리타 스타일 에센셜",
      "title": "큐브쿨 무타공 냉온정수기 외",
-     "category": "리빙",
-     "hot": 3
+     "category": "리빙"
     },
     {
      "start": "10:00",
@@ -23445,8 +23443,8 @@ window.SCHEDULE = {
    "2026-09-08",
    "2026-09-09"
   ],
-  "matched": 16,
-  "unmatched": 3
+  "matched": 14,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
