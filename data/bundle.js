@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-09T08:54:45+09:00",
+ "generated_at": "2026-09-09T09:15:06+09:00",
  "today": "2026-09-09",
  "dates": [
   "2026-09-08",
@@ -21749,7 +21749,7 @@ window.SCHEDULE = {
      "pgm": "프로쉬 푸른 하늘의 날 특집",
      "title": "주방/세탁/청소세제 쟁이기",
      "category": "리빙",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "08:30",
@@ -21775,7 +21775,7 @@ window.SCHEDULE = {
      "pgm": "미샤 ~60% 추석맞이 할인",
      "title": "쿠폰+카카오페이머니 할인",
      "category": "뷰티",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "08:30",
