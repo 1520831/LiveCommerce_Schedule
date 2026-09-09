@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-10T07:11:57+09:00",
+ "generated_at": "2026-09-10T07:23:51+09:00",
  "today": "2026-09-10",
  "dates": [
   "2026-09-09",
@@ -489,7 +489,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "르무통과 함께 하는 추석, 편했으면 좋겠습니다",
-     "pgm": "[재방] 르무통 제화 (패션잡화)"
+     "pgm": "[재방] 르무통 제화 (패션잡화)",
+     "hot": 6
     },
     {
      "start": "08:00",
@@ -22796,8 +22797,8 @@ window.SCHEDULE = {
    "2026-09-09",
    "2026-09-10"
   ],
-  "matched": 5,
-  "unmatched": 14
+  "matched": 6,
+  "unmatched": 13
  },
  "fixed": {
   "rows": [
