@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-09T09:58:25+09:00",
+ "generated_at": "2026-09-09T10:15:02+09:00",
  "today": "2026-09-09",
  "dates": [
   "2026-09-08",
@@ -7861,7 +7861,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -8522,7 +8523,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -8806,7 +8808,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -21749,7 +21752,7 @@ window.SCHEDULE = {
      "pgm": "프로쉬 푸른 하늘의 날 특집",
      "title": "주방/세탁/청소세제 쟁이기",
      "category": "리빙",
-     "hot": 1
+     "hot": 3
     },
     {
      "start": "08:30",
@@ -21762,7 +21765,7 @@ window.SCHEDULE = {
      "pgm": "아토팜 하반기 최대 혜택",
      "title": "브랜드위크 LIVE+본품증정",
      "category": "뷰티",
-     "hot": 5
+     "hot": 9
     },
     {
      "start": "08:30",
@@ -21775,7 +21778,7 @@ window.SCHEDULE = {
      "pgm": "미샤 ~60% 추석맞이 할인",
      "title": "쿠폰+카카오페이머니 할인",
      "category": "뷰티",
-     "hot": 2
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -21788,7 +21791,7 @@ window.SCHEDULE = {
      "pgm": "라보에이치 ~46% 할인!",
      "title": "방송 중 5% 추가할인까지",
      "category": "뷰티",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -21812,7 +21815,8 @@ window.SCHEDULE = {
      "slot_id": "59020",
      "pgm": "브리타 스타일 에센셜",
      "title": "큐브쿨 무타공 냉온정수기 외",
-     "category": "리빙"
+     "category": "리빙",
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -23440,8 +23444,8 @@ window.SCHEDULE = {
    "2026-09-08",
    "2026-09-09"
   ],
-  "matched": 11,
-  "unmatched": 8
+  "matched": 15,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
