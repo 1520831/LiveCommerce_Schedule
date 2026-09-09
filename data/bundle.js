@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-10T07:58:18+09:00",
+ "generated_at": "2026-09-10T08:14:05+09:00",
  "today": "2026-09-10",
  "dates": [
   "2026-09-09",
@@ -2755,7 +2755,8 @@ window.SCHEDULE = {
      "title": "다시보는 PLAY! HIRO🛹HIRO/glgk/SANN 26FW 신상!",
      "pgm": "맘만하니",
      "pgm_cd": "0099",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 1
     },
     {
      "start": "09:00",
@@ -7381,8 +7382,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 1
+     "category": "테크"
     },
     {
      "start": "08:00",
