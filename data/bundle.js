@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-09T13:58:39+09:00",
+ "generated_at": "2026-09-09T14:15:41+09:00",
  "today": "2026-09-09",
  "dates": [
   "2026-09-08",
@@ -2806,7 +2806,7 @@ window.SCHEDULE = {
      "pgm": "맘만하니",
      "pgm_cd": "0099",
      "category": "여성패션",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -8051,7 +8051,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 9
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -8696,7 +8696,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -9578,7 +9578,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 10
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -10564,8 +10564,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 7
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -10631,7 +10630,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 3
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -24928,7 +24927,7 @@ window.SCHEDULE = {
    "2026-09-08",
    "2026-09-09"
   ],
-  "matched": 15,
+  "matched": 14,
   "unmatched": 4
  },
  "fixed": {
