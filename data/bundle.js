@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-10T09:12:44+09:00",
+ "generated_at": "2026-09-10T09:37:16+09:00",
  "today": "2026-09-10",
  "dates": [
   "2026-09-09",
@@ -7475,8 +7475,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 8
+     "category": "테크"
     },
     {
      "start": "09:00",
@@ -22537,7 +22536,7 @@ window.SCHEDULE = {
      "pgm": "티르티르 NEW 레드쿠션",
      "title": "라이브 한정 더블 구매 기회",
      "category": "뷰티",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "08:30",
@@ -22550,7 +22549,7 @@ window.SCHEDULE = {
      "pgm": "락포트로 가을 준비!",
      "title": "로퍼/부츠 외 인기 아이템",
      "category": "패션",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -24189,7 +24188,7 @@ window.SCHEDULE = {
    "2026-09-09",
    "2026-09-10"
   ],
-  "matched": 7,
+  "matched": 6,
   "unmatched": 13
  },
  "fixed": {
