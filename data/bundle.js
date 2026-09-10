@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-11T00:57:30+09:00",
+ "generated_at": "2026-09-11T07:08:23+09:00",
  "today": "2026-09-11",
  "dates": [
   "2026-09-10",
@@ -432,8 +432,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[로제도르] 백화점 주얼리 핫딜♥️",
-     "pgm": "[재방] 로제도르 주얼리 (패션잡화)",
-     "hot": 2
+     "pgm": "[재방] 로제도르 주얼리 (패션잡화)"
     },
     {
      "start": "07:00",
@@ -7256,7 +7255,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 6
     },
     {
      "start": "06:50",
@@ -7303,7 +7303,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 7
     },
     {
      "start": "08:00",
@@ -21686,8 +21687,8 @@ window.SCHEDULE = {
    "2026-09-10",
    "2026-09-11"
   ],
-  "matched": 5,
-  "unmatched": 8
+  "matched": 6,
+  "unmatched": 12
  },
  "fixed": {
   "rows": [
