@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-10T21:17:30+09:00",
+ "generated_at": "2026-09-10T21:39:33+09:00",
  "today": "2026-09-10",
  "dates": [
   "2026-09-09",
@@ -10091,7 +10091,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "14:00",
@@ -11823,7 +11823,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "취미레저",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "19:00",
@@ -25727,7 +25727,7 @@ window.SCHEDULE = {
      "slot_id": "252158",
      "pgm": "[한가위빅세일] 삼성 가전 카드할인 7%",
      "category": "가전",
-     "hot": 7
+     "hot": 5
     },
     {
      "start": "20:00",
