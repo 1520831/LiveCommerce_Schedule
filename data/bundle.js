@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-10T09:52:27+09:00",
+ "generated_at": "2026-09-10T10:09:03+09:00",
  "today": "2026-09-10",
  "dates": [
   "2026-09-09",
@@ -7918,7 +7918,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -22511,7 +22512,7 @@ window.SCHEDULE = {
      "pgm": "매일유업 추석대비 선물대전",
      "title": "아몬드브리즈 외 풍성한 혜택",
      "category": "식품",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "08:30",
@@ -22535,8 +22536,7 @@ window.SCHEDULE = {
      "slot_id": "59547",
      "pgm": "티르티르 NEW 레드쿠션",
      "title": "라이브 한정 더블 구매 기회",
-     "category": "뷰티",
-     "hot": 9
+     "category": "뷰티"
     },
     {
      "start": "08:30",
@@ -22549,7 +22549,7 @@ window.SCHEDULE = {
      "pgm": "락포트로 가을 준비!",
      "title": "로퍼/부츠 외 인기 아이템",
      "category": "패션",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "10:00",
