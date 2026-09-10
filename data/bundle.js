@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-10T10:24:08+09:00",
+ "generated_at": "2026-09-10T10:39:19+09:00",
  "today": "2026-09-10",
  "dates": [
   "2026-09-09",
@@ -7744,7 +7744,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -7920,7 +7921,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -8126,7 +8127,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 9
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -8366,7 +8367,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -22550,8 +22552,7 @@ window.SCHEDULE = {
      "slot_id": "59611",
      "pgm": "락포트로 가을 준비!",
      "title": "로퍼/부츠 외 인기 아이템",
-     "category": "패션",
-     "hot": 10
+     "category": "패션"
     },
     {
      "start": "10:00",
@@ -24190,8 +24191,8 @@ window.SCHEDULE = {
    "2026-09-09",
    "2026-09-10"
   ],
-  "matched": 8,
-  "unmatched": 11
+  "matched": 9,
+  "unmatched": 10
  },
  "fixed": {
   "rows": [
