@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-10T10:39:19+09:00",
+ "generated_at": "2026-09-10T10:52:40+09:00",
  "today": "2026-09-10",
  "dates": [
   "2026-09-09",
@@ -7744,8 +7744,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 8
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -8368,7 +8367,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -22516,7 +22515,7 @@ window.SCHEDULE = {
      "pgm": "매일유업 추석대비 선물대전",
      "title": "아몬드브리즈 외 풍성한 혜택",
      "category": "식품",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "08:30",
@@ -24191,8 +24190,8 @@ window.SCHEDULE = {
    "2026-09-09",
    "2026-09-10"
   ],
-  "matched": 9,
-  "unmatched": 10
+  "matched": 8,
+  "unmatched": 11
  },
  "fixed": {
   "rows": [
