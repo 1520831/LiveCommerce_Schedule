@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-11T08:38:52+09:00",
+ "generated_at": "2026-09-11T08:48:51+09:00",
  "today": "2026-09-11",
  "dates": [
   "2026-09-10",
@@ -7568,7 +7568,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "09:00",
@@ -22684,7 +22684,7 @@ window.SCHEDULE = {
      "pgm": "드시모네 장면역 특허유산균",
      "title": "7%쿠폰+7%페이 중복할인",
      "category": "식품",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "08:30",
@@ -22697,7 +22697,7 @@ window.SCHEDULE = {
      "pgm": "독일 명품비타민 오쏘몰",
      "title": "오쏘몰바이탈 7+3입특가찬스",
      "category": "식품",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "08:30",
@@ -22710,7 +22710,7 @@ window.SCHEDULE = {
      "pgm": "제일제당으로 준비하는 추석",
      "title": "햇반 스팸 선물세트 외",
      "category": "식품",
-     "hot": 7
+     "hot": 3
     },
     {
      "start": "08:30",
@@ -24332,7 +24332,7 @@ window.SCHEDULE = {
    "2026-09-11"
   ],
   "matched": 8,
-  "unmatched": 10
+  "unmatched": 11
  },
  "fixed": {
   "rows": [
