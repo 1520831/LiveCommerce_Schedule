@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-10T20:57:09+09:00",
+ "generated_at": "2026-09-10T21:17:30+09:00",
  "today": "2026-09-10",
  "dates": [
   "2026-09-09",
@@ -8918,7 +8918,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -9322,7 +9322,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -11823,7 +11823,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "취미레저",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "19:00",
@@ -25726,7 +25726,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4373331717",
      "slot_id": "252158",
      "pgm": "[한가위빅세일] 삼성 가전 카드할인 7%",
-     "category": "가전"
+     "category": "가전",
+     "hot": 7
     },
     {
      "start": "20:00",
@@ -28654,8 +28655,8 @@ window.SCHEDULE = {
    "2026-09-09",
    "2026-09-10"
   ],
-  "matched": 9,
-  "unmatched": 10
+  "matched": 10,
+  "unmatched": 9
  },
  "fixed": {
   "rows": [
