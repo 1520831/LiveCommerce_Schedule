@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-10T10:09:03+09:00",
+ "generated_at": "2026-09-10T10:24:08+09:00",
  "today": "2026-09-10",
  "dates": [
   "2026-09-09",
@@ -7861,7 +7861,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -7919,7 +7920,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -8124,7 +8125,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -22512,7 +22514,7 @@ window.SCHEDULE = {
      "pgm": "매일유업 추석대비 선물대전",
      "title": "아몬드브리즈 외 풍성한 혜택",
      "category": "식품",
-     "hot": 3
+     "hot": 6
     },
     {
      "start": "08:30",
@@ -22549,7 +22551,7 @@ window.SCHEDULE = {
      "pgm": "락포트로 가을 준비!",
      "title": "로퍼/부츠 외 인기 아이템",
      "category": "패션",
-     "hot": 5
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -24188,8 +24190,8 @@ window.SCHEDULE = {
    "2026-09-09",
    "2026-09-10"
   ],
-  "matched": 6,
-  "unmatched": 13
+  "matched": 8,
+  "unmatched": 11
  },
  "fixed": {
   "rows": [
