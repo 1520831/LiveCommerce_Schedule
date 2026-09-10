@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-10T10:52:40+09:00",
+ "generated_at": "2026-09-10T11:09:50+09:00",
  "today": "2026-09-10",
  "dates": [
   "2026-09-09",
@@ -7862,7 +7862,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -7920,7 +7920,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -8126,7 +8126,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -8366,8 +8366,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 10
+     "category": "푸드"
     },
     {
      "start": "10:00",
@@ -9295,7 +9294,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -9544,7 +9544,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -22514,8 +22515,7 @@ window.SCHEDULE = {
      "slot_id": "59282",
      "pgm": "매일유업 추석대비 선물대전",
      "title": "아몬드브리즈 외 풍성한 혜택",
-     "category": "식품",
-     "hot": 8
+     "category": "식품"
     },
     {
      "start": "08:30",
