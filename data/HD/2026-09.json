@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-10T18:13:48+09:00",
+ "updated_at": "2026-09-10T23:47:03+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -3794,6 +3794,24 @@
     "pgm": "[재방] 슈콤마보니 슈즈 (멀티커머스)"
    },
    {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "샹테카이",
+    "product": "(라이브) 퓨처 스킨 쿠션 세트 (+쿠션 리필 증정)",
+    "price": 219000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252975800",
+    "slot_id": "202609106015",
+    "items": [
+     {
+      "brand": "샹테카이",
+      "product": "(라이브) 퓨처 스킨 쿠션 세트 (+쿠션 리필 증정)",
+      "price": 219000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252975800"
+     }
+    ],
+    "title": "[샹테카이] 26FW 리미티드 컬렉션 마지막 물량"
+   },
+   {
     "start": "22:00",
     "end": "22:59",
     "brand": "쥬시쥬디",
@@ -3830,6 +3848,24 @@
     ],
     "title": "BCBG 9월 클래식룩! 추가 적립 혜택까지❤️",
     "pgm": "[재방] BCBG 의류 (멀티커머스)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "주크",
+    "product": "터틀넥 백버튼 탑 Z254MSM010 Z254MSM010",
+    "price": 38700,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253374365",
+    "slot_id": "202609106017",
+    "items": [
+     {
+      "brand": "주크",
+      "product": "터틀넥 백버튼 탑 Z254MSM010 Z254MSM010",
+      "price": 38700,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253374365"
+     }
+    ],
+    "title": "[쥬크] 시즌오프 + FW 신상 UP TO 77%▼"
    }
   ],
   "2026-09-11": [
@@ -3838,14 +3874,14 @@
     "end": "00:59",
     "brand": "로제도르",
     "product": "무아르딘 원터치 귀고리(PG)_282300051",
-    "price": 637500,
+    "price": 562000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2209343841",
     "slot_id": "202609116020",
     "items": [
      {
       "brand": "로제도르",
       "product": "무아르딘 원터치 귀고리(PG)_282300051",
-      "price": 637500,
+      "price": 562000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2209343841"
      }
     ],
