@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-10T20:14:55+09:00",
+ "generated_at": "2026-09-10T20:30:33+09:00",
  "today": "2026-09-10",
  "dates": [
   "2026-09-09",
@@ -11824,7 +11824,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "취미레저",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "19:00",
