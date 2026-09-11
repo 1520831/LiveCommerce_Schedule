@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-12T00:57:47+09:00",
+ "generated_at": "2026-09-12T07:09:11+09:00",
  "today": "2026-09-12",
  "dates": [
   "2026-09-11",
@@ -509,8 +509,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[유로룩스] 독일 프리미엄 브랜드 창고대개방 앵콜전",
-     "pgm": "[재방] 유로룩스 (가전)",
-     "hot": 1
+     "pgm": "[재방] 유로룩스 (가전)"
     },
     {
      "start": "07:00",
@@ -7664,7 +7663,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 1
     },
     {
      "start": "04:40",
@@ -7710,7 +7710,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 5
     },
     {
      "start": "06:50",
@@ -23264,8 +23265,8 @@ window.SCHEDULE = {
    "2026-09-11",
    "2026-09-12"
   ],
-  "matched": 10,
-  "unmatched": 5
+  "matched": 11,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
