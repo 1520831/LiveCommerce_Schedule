@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-11T10:44:12+09:00",
+ "generated_at": "2026-09-11T10:56:43+09:00",
  "today": "2026-09-11",
  "dates": [
   "2026-09-10",
@@ -8072,7 +8072,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -23411,7 +23411,7 @@ window.SCHEDULE = {
      "pgm": "독일 명품비타민 오쏘몰",
      "title": "오쏘몰바이탈 7+3입특가찬스",
      "category": "식품",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "08:30",
