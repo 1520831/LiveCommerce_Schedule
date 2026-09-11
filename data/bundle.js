@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-11T10:11:24+09:00",
+ "generated_at": "2026-09-11T10:29:16+09:00",
  "today": "2026-09-11",
  "dates": [
   "2026-09-10",
@@ -2774,7 +2774,8 @@ window.SCHEDULE = {
      "title": "🎶지스튜디오 신상 최초 공개",
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -7591,8 +7592,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 6
+     "category": "푸드"
     },
     {
      "start": "09:00",
@@ -7788,7 +7788,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -7908,7 +7909,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 7
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -23423,7 +23424,7 @@ window.SCHEDULE = {
      "pgm": "제일제당으로 준비하는 추석",
      "title": "햇반 스팸 선물세트 외",
      "category": "식품",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "08:30",
@@ -23435,8 +23436,7 @@ window.SCHEDULE = {
      "slot_id": "59374",
      "pgm": "바이오가 등드름 바디워시",
      "title": "3개월 대용량 단독 기획!",
-     "category": "뷰티",
-     "hot": 10
+     "category": "뷰티"
     },
     {
      "start": "10:00",
