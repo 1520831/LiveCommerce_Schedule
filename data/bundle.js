@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-11T08:58:24+09:00",
+ "generated_at": "2026-09-11T09:23:17+09:00",
  "today": "2026-09-11",
  "dates": [
   "2026-09-10",
@@ -7567,8 +7567,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 5
+     "category": "테크"
     },
     {
      "start": "09:00",
@@ -7592,7 +7591,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 4
     },
     {
      "start": "09:00",
@@ -22722,7 +22722,8 @@ window.SCHEDULE = {
      "slot_id": "59374",
      "pgm": "바이오가 등드름 바디워시",
      "title": "3개월 대용량 단독 기획!",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -24331,8 +24332,8 @@ window.SCHEDULE = {
    "2026-09-10",
    "2026-09-11"
   ],
-  "matched": 8,
-  "unmatched": 11
+  "matched": 9,
+  "unmatched": 10
  },
  "fixed": {
   "rows": [
