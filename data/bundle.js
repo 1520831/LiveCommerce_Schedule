@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-11T11:48:13+09:00",
+ "generated_at": "2026-09-11T11:57:49+09:00",
  "today": "2026-09-11",
  "dates": [
   "2026-09-10",
@@ -2775,7 +2775,7 @@ window.SCHEDULE = {
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
      "category": "여성패션",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -8071,7 +8071,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -8680,7 +8680,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -8886,7 +8886,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 10
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -23400,7 +23400,7 @@ window.SCHEDULE = {
      "pgm": "드시모네 장면역 특허유산균",
      "title": "7%쿠폰+7%페이 중복할인",
      "category": "식품",
-     "hot": 2
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -23413,7 +23413,7 @@ window.SCHEDULE = {
      "pgm": "독일 명품비타민 오쏘몰",
      "title": "오쏘몰바이탈 7+3입특가찬스",
      "category": "식품",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "08:30",
@@ -23426,7 +23426,7 @@ window.SCHEDULE = {
      "pgm": "제일제당으로 준비하는 추석",
      "title": "햇반 스팸 선물세트 외",
      "category": "식품",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "08:30",
