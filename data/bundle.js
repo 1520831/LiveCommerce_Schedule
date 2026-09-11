@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-12T08:38:50+09:00",
+ "generated_at": "2026-09-12T08:48:43+09:00",
  "today": "2026-09-12",
  "dates": [
   "2026-09-11",
@@ -2877,7 +2877,8 @@ window.SCHEDULE = {
      "pgm": "잇솔지",
      "pgm_cd": "1109",
      "category": "여성패션",
-     "cast": "influencer"
+     "cast": "influencer",
+     "hot": 2
     },
     {
      "start": "09:00",
@@ -8052,8 +8053,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 2
+     "category": "테크"
     },
     {
      "start": "04:40",
