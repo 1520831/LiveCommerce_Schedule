@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-09-11T07:10:43+09:00",
+ "updated_at": "2026-09-11T12:09:20+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -4838,14 +4838,13 @@
     "start": "10:00",
     "end": "10:59",
     "brand": "닥터포헤어",
-    "product": "[닥터포헤어] 씨크닝 샴푸 500mlx3+ (하루동안 70mlx2)",
-    "price": 87000,
-    "link": "https://item.cjonstyle.com/item/2084093880?channelCode=30002002",
+    "product": "폴리젠 실크 샴푸 500mlx2",
+    "price": 31902,
+    "link": "https://item.cjonstyle.com/item/92198571?channelCode=30002002",
     "slot_id": "29333",
     "title": "다시보는 탈모샴푸는 닥터포헤어🪮 방송 1시간만 한정 혜택⏰",
     "pgm": "라이브쇼",
-    "pgm_cd": "1008",
-    "category": "뷰티"
+    "pgm_cd": "1008"
    },
    {
     "start": "10:00",
@@ -5189,9 +5188,9 @@
     "start": "20:40",
     "end": "21:44",
     "brand": "종근당건강",
-    "product": "[투머치쇼픽][+락토핏골드 30일분 3박스]락토핏 골드 140포 3통(총 510포)(17개월분)",
-    "price": 77920,
-    "link": "https://item.cjonstyle.com/item/2091973210?channelCode=30002002",
+    "product": "[+락토핏골드 30일분 2박스]락토핏 골드 140포 2통",
+    "price": 55920,
+    "link": "https://item.cjonstyle.com/item/2090738740?channelCode=30002002",
     "slot_id": "28777",
     "title": "[투머치쇼] 1등유산균 락토핏 333 트리플 특집전",
     "pgm": "김호영의 투머치쇼",
@@ -5307,6 +5306,19 @@
    {
     "start": "10:00",
     "end": "10:59",
+    "brand": "칼라거펠트",
+    "product": "슈레이스 플랫슈즈",
+    "price": 25000,
+    "link": "https://item.cjonstyle.com/item/2064917632?channelCode=30002002",
+    "slot_id": "29165",
+    "title": "칼라거펠트 스니커즈/머플러/백 ~85% 파격세일",
+    "pgm": "라이브쇼",
+    "pgm_cd": "0214",
+    "category": "잡화·슈즈"
+   },
+   {
+    "start": "10:00",
+    "end": "10:59",
     "brand": "똘똘한쇼",
     "product": "경북 GAP 고당도 정품 햇 홍로사과 중과/대과",
     "price": 29200,
@@ -5348,7 +5360,7 @@
     "end": "11:24",
     "brand": "지스튜디오",
     "product": "26FW 카멜실크혼방 핸드메이드 케이프",
-    "price": 149000,
+    "price": 134100,
     "link": "https://item.cjonstyle.com/item/2092080547?channelCode=30002002",
     "slot_id": "29166",
     "title": "🎶지스튜디오 신상 최초 공개",
@@ -5387,7 +5399,7 @@
     "end": "11:59",
     "brand": "케어베어",
     "product": "[째째홈][최초가77,900원]텐더하트베어포근플리스점퍼",
-    "price": 26600,
+    "price": 23940,
     "link": "https://item.cjonstyle.com/item/2091735026?channelCode=30002002",
     "slot_id": "29355",
     "title": "째째홈PICK!케어베어 우리아이 가을옷장 채울 시간 최대 72% 단독특가",
@@ -5429,7 +5441,7 @@
     "price": 1380000,
     "link": "https://item.cjonstyle.com/item/2093373209?channelCode=30002002",
     "slot_id": "29170",
-    "title": "SKT / 새로운 아이폰 방송 ✨ 사전예약 얼리버드 찬스!",
+    "title": "SKT,LG,KT / 새로운 아이폰 방송 ✨ 사전예약 얼리버드 찬스!",
     "pgm": "라이브쇼",
     "pgm_cd": "1016",
     "category": "가전"
@@ -5541,14 +5553,15 @@
    {
     "start": "18:00",
     "end": "18:59",
-    "brand": "",
-    "product": "글로벌나이프 긴급 물량 확보💥하반기 마지막 찬스 최대 51% 할인!",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/29147",
+    "brand": "글로벌나이프",
+    "product": "(9.15 예약출고) 올데이 3종 세트 G-468338 (G-46 GS-83 GS-38)",
+    "price": 185000,
+    "link": "https://item.cjonstyle.com/item/2091194589?channelCode=30002002",
     "slot_id": "29147",
     "title": "글로벌나이프 긴급 물량 확보💥하반기 마지막 찬스 최대 51% 할인!",
     "pgm": "인플루언서LIVE",
-    "pgm_cd": "1052"
+    "pgm_cd": "1052",
+    "category": "주방·잡화"
    },
    {
     "start": "18:00",
@@ -5578,7 +5591,7 @@
    },
    {
     "start": "18:00",
-    "end": "18:59",
+    "end": "19:00",
     "brand": "슈콤마보니",
     "product": "뮤즈 런 스니커즈(black)_DG4DA26510BLK",
     "price": 286400,
@@ -5681,11 +5694,11 @@
    },
    {
     "start": "20:00",
-    "end": "20:59",
+    "end": "21:04",
     "brand": "종근당건강",
-    "product": "[투머치쇼픽][+락토핏골드 30일분 3박스]락토핏 골드 140포 3통(총 510포)(17개월분)",
-    "price": 77920,
-    "link": "https://item.cjonstyle.com/item/2091973210?channelCode=30002002",
+    "product": "[+락토핏골드 30일분 2박스]락토핏 골드 140포 2통",
+    "price": 55920,
+    "link": "https://item.cjonstyle.com/item/2090738740?channelCode=30002002",
     "slot_id": "29368",
     "title": "다시보는 [투머치쇼] 1등유산균 락토핏 外 종근당건강 특집전",
     "pgm": "김호영의 투머치쇼",
@@ -5995,11 +6008,11 @@
    },
    {
     "start": "17:00",
-    "end": "17:59",
+    "end": "18:04",
     "brand": "종근당건강",
-    "product": "[투머치쇼픽][+락토핏골드 30일분 3박스]락토핏 골드 140포 3통(총 510포)(17개월분)",
-    "price": 77920,
-    "link": "https://item.cjonstyle.com/item/2091973210?channelCode=30002002",
+    "product": "[+락토핏골드 30일분 2박스]락토핏 골드 140포 2통",
+    "price": 55920,
+    "link": "https://item.cjonstyle.com/item/2090738740?channelCode=30002002",
     "slot_id": "29384",
     "title": "다시보는 [투머치쇼] 1등유산균 락토핏 外 종근당건강 특집전",
     "pgm": "김호영의 투머치쇼",
@@ -6113,14 +6126,15 @@
    {
     "start": "21:00",
     "end": "21:59",
-    "brand": "",
-    "product": "SKT 새로운 아이폰 출시! 오늘 하루만 대박 혜택📢",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/29178",
+    "brand": "LG유플러스",
+    "product": "LGU+ 아이폰18 프로맥스 256G 기기변경 선택약정 유플러스 85요금제 기변",
+    "price": 2040000,
+    "link": "https://item.cjonstyle.com/item/2093298011?channelCode=30002002",
     "slot_id": "29178",
     "title": "SKT 새로운 아이폰 출시! 오늘 하루만 대박 혜택📢",
     "pgm": "라이브쇼",
-    "pgm_cd": "1016"
+    "pgm_cd": "1016",
+    "category": "가전"
    },
    {
     "start": "21:00",
@@ -6187,7 +6201,7 @@
    },
    {
     "start": "23:00",
-    "end": "23:59",
+    "end": "00:00",
     "brand": "슈콤마보니",
     "product": "뮤즈 런 스니커즈(black)_DG4DA26510BLK",
     "price": 286400,
@@ -6281,6 +6295,19 @@
    {
     "start": "11:00",
     "end": "11:59",
+    "brand": "칼라거펠트",
+    "product": "슈레이스 플랫슈즈",
+    "price": 25000,
+    "link": "https://item.cjonstyle.com/item/2064917632?channelCode=30002002",
+    "slot_id": "29402",
+    "title": "다시보는 칼라거펠트 잡화 특집! 스니커즈/머플러/백 파격세일",
+    "pgm": "라이브쇼",
+    "pgm_cd": "0214",
+    "category": "잡화·슈즈"
+   },
+   {
+    "start": "11:00",
+    "end": "12:00",
     "brand": "비상교육",
     "product": "초등 무료체험 14일 + 네이버페이 5만원",
     "price": 0,
@@ -6293,7 +6320,7 @@
    },
    {
     "start": "12:00",
-    "end": "12:59",
+    "end": "13:00",
     "brand": "슈콤마보니",
     "product": "뮤즈 런 스니커즈(black)_DG4DA26510BLK",
     "price": 286400,
@@ -6307,14 +6334,15 @@
    {
     "start": "12:00",
     "end": "12:59",
-    "brand": "",
-    "product": "네추럴코어+하기스+크리넥스+베베숲+쁘리마쥬+좋은느낌外",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/29527",
+    "brand": "베베숲",
+    "product": "[내일도착] 시그니처 위드레드 70매 캡 20팩 + 센시티브 휴대 4팩",
+    "price": 38900,
+    "link": "https://item.cjonstyle.com/item/2090535475?channelCode=30002002",
     "slot_id": "29527",
     "title": "네추럴코어+하기스+크리넥스+베베숲+쁘리마쥬+좋은느낌外",
     "pgm": "라이브쇼",
-    "pgm_cd": "1069"
+    "pgm_cd": "1069",
+    "category": "유아동"
    },
    {
     "start": "13:00",
@@ -6357,11 +6385,11 @@
    },
    {
     "start": "15:00",
-    "end": "15:59",
+    "end": "16:04",
     "brand": "종근당건강",
-    "product": "[투머치쇼픽][+락토핏골드 30일분 3박스]락토핏 골드 140포 3통(총 510포)(17개월분)",
-    "price": 77920,
-    "link": "https://item.cjonstyle.com/item/2091973210?channelCode=30002002",
+    "product": "[+락토핏골드 30일분 2박스]락토핏 골드 140포 2통",
+    "price": 55920,
+    "link": "https://item.cjonstyle.com/item/2090738740?channelCode=30002002",
     "slot_id": "29406",
     "title": "다시보는 [투머치쇼] 1등유산균 락토핏 外 종근당건강 특집전",
     "pgm": "김호영의 투머치쇼",
@@ -6500,15 +6528,14 @@
    {
     "start": "19:00",
     "end": "19:59",
-    "brand": "페어라이어",
-    "product": "라운드넥 미니리본 포켓 가디건 (크림)",
-    "price": 262800,
-    "link": "https://item.cjonstyle.com/item/2092143629?channelCode=30002002",
+    "brand": "",
+    "product": "첫방송 기념! 여배우 한그루 Pick 페어라이어 ~72%OFF+10%적립",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/29184",
     "slot_id": "29184",
     "title": "첫방송 기념! 여배우 한그루 Pick 페어라이어 ~72%OFF+10%적립",
     "pgm": "그루의 비밀 옷장",
-    "pgm_cd": "1140",
-    "category": "스포츠·아웃도어"
+    "pgm_cd": "1140"
    },
    {
     "start": "19:00",
@@ -6616,6 +6643,19 @@
    {
     "start": "21:00",
     "end": "21:59",
+    "brand": "",
+    "product": "925실버 이태리 아이스체인 2줄목걸이,3줄팔찌",
+    "price": 336000,
+    "link": "https://item.cjonstyle.com/item/2084108845?channelCode=30002002",
+    "slot_id": "29415",
+    "title": "다시보는 MADE IN ITALY 비첸자주얼리✨",
+    "pgm": "VIVA ITALIA",
+    "pgm_cd": "1133",
+    "category": "잡화·슈즈"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
     "brand": "카르텔",
     "product": "콤포니빌리 수납장 3단 화이트 Componibili 3round White",
     "price": 269250,
@@ -6625,20 +6665,58 @@
     "pgm": "하우스윗",
     "pgm_cd": "1048",
     "category": "가구·침구"
+   },
+   {
+    "start": "22:00",
+    "end": "23:02",
+    "brand": "청정원",
+    "product": "26년 추석선물세트 행복고급호2호 5개+증 1개(2박스)",
+    "price": 171010,
+    "link": "https://item.cjonstyle.com/item/2066504866?channelCode=30002002",
+    "slot_id": "29417",
+    "title": "추석특집 왔다장보러🩷추석선물세트+모듬전 5종+견과+송편+생과자+곱창김",
+    "pgm": "왔다! 장보러",
+    "pgm_cd": "1120",
+    "category": "식품·건강"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "",
+    "product": "다시보는 [은세로운발견] 넷플릭스 동궁 속 꺼먹살이가 우리 집으로!🍡",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/29418",
+    "slot_id": "29418",
+    "title": "다시보는 [은세로운발견] 넷플릭스 동궁 속 꺼먹살이가 우리 집으로!🍡",
+    "pgm": "은세로운 발견",
+    "pgm_cd": "1075"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "",
+    "product": "다시보는 국민육아템 블루래빗 X 해달홈 공구! 9월 단 한번 최저가",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/29419",
+    "slot_id": "29419",
+    "title": "다시보는 국민육아템 블루래빗 X 해달홈 공구! 9월 단 한번 최저가",
+    "pgm": "인플루언서LIVE",
+    "pgm_cd": "1052"
    }
   ],
   "2026-09-14": [
    {
     "start": "08:00",
     "end": "09:00",
-    "brand": "",
-    "product": "다시보는 리뉴얼 첫방 엣지쇼🎇채컬렉티브 26FW신상",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/29534",
+    "brand": "채컬렉티브",
+    "product": "26FW 아카이브 셔링 점퍼",
+    "price": 99000,
+    "link": "https://item.cjonstyle.com/item/2091330450?channelCode=30002002",
     "slot_id": "29534",
     "title": "다시보는 리뉴얼 첫방 엣지쇼🎇채컬렉티브 26FW신상",
     "pgm": "엣지쇼",
-    "pgm_cd": "0223"
+    "pgm_cd": "0223",
+    "category": "여성패션"
    },
    {
     "start": "09:00",
@@ -6669,15 +6747,14 @@
    {
     "start": "10:00",
     "end": "10:59",
-    "brand": "밀리엔스",
-    "product": "클레로 하이 북케이스 5단",
-    "price": 971000,
-    "link": "https://item.cjonstyle.com/item/2091810712?channelCode=30002002",
+    "brand": "",
+    "product": "[맘만하니] CJ 최초 론칭! 밀리엔스❤️ 맘만하니 론칭 특가✨",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/29422",
     "slot_id": "29422",
     "title": "[맘만하니] CJ 최초 론칭! 밀리엔스❤️ 맘만하니 론칭 특가✨",
     "pgm": "맘만하니",
-    "pgm_cd": "0099",
-    "category": "가구·침구"
+    "pgm_cd": "0099"
    },
    {
     "start": "11:00",
@@ -6733,14 +6810,15 @@
    {
     "start": "13:00",
     "end": "13:59",
-    "brand": "",
-    "product": "다시보는 [오모떼 DAY] 전 상품 46,000원 균일가전",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/29541",
+    "brand": "오모떼",
+    "product": "프론트 스냅 똑딱 브라팬티 4세트",
+    "price": 46000,
+    "link": "https://item.cjonstyle.com/item/2091239892?channelCode=30002002",
     "slot_id": "29541",
     "title": "다시보는 [오모떼 DAY] 전 상품 46,000원 균일가전",
     "pgm": "브랜디드 라이브쇼",
-    "pgm_cd": "1130"
+    "pgm_cd": "1130",
+    "category": "여성패션"
    },
    {
     "start": "17:00",
@@ -6757,14 +6835,15 @@
    {
     "start": "17:00",
     "end": "17:59",
-    "brand": "",
-    "product": "클라르하임🤍사랑스러운 신상&BEST 볼륨 텐셀모달 풀세트 최저가",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/29429",
+    "brand": "클라르하임",
+    "product": "그린비 60수 고밀도 워싱면·모달 차렵이불 풀세트(이불+패드+베개커버)",
+    "price": 381500,
+    "link": "https://item.cjonstyle.com/item/2092467379?channelCode=30002002",
     "slot_id": "29429",
     "title": "클라르하임🤍사랑스러운 신상&BEST 볼륨 텐셀모달 풀세트 최저가",
     "pgm": "라이브쇼",
-    "pgm_cd": "0146"
+    "pgm_cd": "0146",
+    "category": "가구·침구"
    },
    {
     "start": "18:00",
@@ -6780,6 +6859,18 @@
     "category": "잡화·슈즈"
    },
    {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "",
+    "product": "다시보는 [은세로운발견] 넷플릭스 동궁 속 꺼먹살이가 우리 집으로!🍡",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/29544",
+    "slot_id": "29544",
+    "title": "다시보는 [은세로운발견] 넷플릭스 동궁 속 꺼먹살이가 우리 집으로!🍡",
+    "pgm": "은세로운 발견",
+    "pgm_cd": "1075"
+   },
+   {
     "start": "19:00",
     "end": "19:59",
     "brand": "프로우",
@@ -6787,7 +6878,7 @@
     "price": 102000,
     "link": "https://item.cjonstyle.com/item/2092489385?channelCode=30002002",
     "slot_id": "28917",
-    "title": "4시간만에 5천개 완판✨요철, 블랙헤드 삭제하는 괄사 프로우 클렌저",
+    "title": "4시간만에 5천개 완판✨요철, 블랙헤드 삭제하는 프로우 괄사 클렌저",
     "pgm": "브랜디드 라이브쇼",
     "pgm_cd": "1136",
     "category": "뷰티"
@@ -6822,9 +6913,9 @@
     "start": "19:00",
     "end": "19:59",
     "brand": "종근당건강",
-    "product": "[투머치쇼픽][+락토핏골드 30일분 3박스]락토핏 골드 140포 3통(총 510포)(17개월분)",
-    "price": 77920,
-    "link": "https://item.cjonstyle.com/item/2091973210?channelCode=30002002",
+    "product": "[+락토핏골드 30일분 2박스]락토핏 골드 140포 2통",
+    "price": 55920,
+    "link": "https://item.cjonstyle.com/item/2090738740?channelCode=30002002",
     "slot_id": "29545",
     "title": "다시보는 [투머치쇼] 1등유산균 락토핏 外 종근당건강 특집전",
     "pgm": "김호영의 투머치쇼",
@@ -6858,6 +6949,18 @@
     "category": "잡화·슈즈"
    },
    {
+    "start": "21:45",
+    "end": "22:44",
+    "brand": "",
+    "product": "굿라이프x에스트라💦온가족 크림, 로션은 아토베리어! 역대급 혜택",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/29436",
+    "slot_id": "29436",
+    "title": "굿라이프x에스트라💦온가족 크림, 로션은 아토베리어! 역대급 혜택",
+    "pgm": "굿라이프",
+    "pgm_cd": "1015"
+   },
+   {
     "start": "22:00",
     "end": "23:05",
     "brand": "피브레노",
@@ -6872,6 +6975,31 @@
    }
   ],
   "2026-09-15": [
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "",
+    "product": "다시보는 [은세로운발견] 넷플릭스 동궁 속 꺼먹살이가 우리 집으로!🍡",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/29553",
+    "slot_id": "29553",
+    "title": "다시보는 [은세로운발견] 넷플릭스 동궁 속 꺼먹살이가 우리 집으로!🍡",
+    "pgm": "은세로운 발견",
+    "pgm_cd": "1075"
+   },
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "칼라거펠트",
+    "product": "슈레이스 플랫슈즈",
+    "price": 25000,
+    "link": "https://item.cjonstyle.com/item/2064917632?channelCode=30002002",
+    "slot_id": "29554",
+    "title": "다시보는 칼라거펠트 잡화 특집! 스니커즈/머플러/백 파격세일",
+    "pgm": "라이브쇼",
+    "pgm_cd": "1008",
+    "category": "잡화·슈즈"
+   },
    {
     "start": "10:00",
     "end": "10:59",
@@ -6898,16 +7026,30 @@
     "pgm_cd": "1052"
    },
    {
+    "start": "10:20",
+    "end": "11:24",
+    "brand": "지스튜디오",
+    "product": "26FW 이태리 밀리필리社 레이어드 케이프",
+    "price": 284050,
+    "link": "https://item.cjonstyle.com/item/2089688772?channelCode=30002002",
+    "slot_id": "29437",
+    "title": "지스튜디오 26FW 가디건 최초 공개+최저가 자켓&니트까지 방송 중 할인",
+    "pgm": "스타일 나래이션",
+    "pgm_cd": "1116",
+    "category": "여성패션"
+   },
+   {
     "start": "11:00",
     "end": "11:59",
-    "brand": "",
-    "product": "하이뮨🏋🏻스타터팩 최초공개 + 액티브 프로틴 쉐이크 론칭 특가찬스👀",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/29441",
+    "brand": "하이뮨",
+    "product": "프로틴 밸런스 음료 올인원팩 190mlx12입",
+    "price": 18000,
+    "link": "https://item.cjonstyle.com/item/2093337163?channelCode=30002002",
     "slot_id": "29441",
     "title": "하이뮨🏋🏻스타터팩 최초공개 + 액티브 프로틴 쉐이크 론칭 특가찬스👀",
     "pgm": "라이브쇼",
-    "pgm_cd": "1030"
+    "pgm_cd": "1030",
+    "category": "식품·건강"
    },
    {
     "start": "15:00",
@@ -7030,9 +7172,9 @@
     "start": "09:00",
     "end": "09:59",
     "brand": "소르크",
-    "product": "천연양가죽 스웨이드 스트링 스티치 자켓",
-    "price": 489600,
-    "link": "https://item.cjonstyle.com/item/2091984481?channelCode=30002002",
+    "product": "핸드메이드 더블 하프 코트",
+    "price": 283500,
+    "link": "https://item.cjonstyle.com/item/2076577447?channelCode=30002002",
     "slot_id": "28918",
     "title": "성수, 한남에서 만나던 그 소르크🤍 트렌디 스타일 ~43% OFF🤍",
     "pgm": "브랜디드 라이브쇼",
@@ -7117,6 +7259,19 @@
     "category": "식품·건강"
    },
    {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "이오에이",
+    "product": "EOA 풀써마 프로+부스팅젤 2개",
+    "price": 469000,
+    "link": "https://item.cjonstyle.com/item/2091543677?channelCode=30002002",
+    "slot_id": "29463",
+    "title": "피부전문기관 동일 주파수 6.78MHz💜업그레이드 EOA 풀써마 PRO",
+    "pgm": "라이브쇼",
+    "pgm_cd": "1008",
+    "category": "뷰티"
+   },
+   {
     "start": "19:00",
     "end": "19:59",
     "brand": "크리스피바바",
@@ -7128,6 +7283,18 @@
     "pgm": "라이브쇼",
     "pgm_cd": "0146",
     "category": "가구·침구"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "",
+    "product": "다시보는 [은세로운발견] 넷플릭스 동궁 속 꺼먹살이가 우리 집으로!🍡",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/29597",
+    "slot_id": "29597",
+    "title": "다시보는 [은세로운발견] 넷플릭스 동궁 속 꺼먹살이가 우리 집으로!🍡",
+    "pgm": "은세로운 발견",
+    "pgm_cd": "1075"
    },
    {
     "start": "20:00",
