@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-11T18:33:09+09:00",
+ "generated_at": "2026-09-11T18:48:38+09:00",
  "today": "2026-09-11",
  "dates": [
   "2026-09-10",
@@ -26024,8 +26024,7 @@ window.SCHEDULE = {
      "slot_id": "59285",
      "pgm": "제일제당으로 준비하는 추석",
      "title": "햇반 스팸 선물세트 외",
-     "category": "식품",
-     "hot": 10
+     "category": "식품"
     },
     {
      "start": "08:30",
@@ -27706,7 +27705,7 @@ window.SCHEDULE = {
    "2026-09-10",
    "2026-09-11"
   ],
-  "matched": 13,
+  "matched": 12,
   "unmatched": 6
  },
  "fixed": {
