@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-11T11:12:34+09:00",
+ "generated_at": "2026-09-11T11:30:43+09:00",
  "today": "2026-09-11",
  "dates": [
   "2026-09-10",
@@ -7788,8 +7788,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프",
-     "hot": 10
+     "category": "라이프"
     },
     {
      "start": "10:00",
@@ -8587,7 +8586,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 8
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -8886,7 +8885,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -23426,7 +23426,7 @@ window.SCHEDULE = {
      "pgm": "제일제당으로 준비하는 추석",
      "title": "햇반 스팸 선물세트 외",
      "category": "식품",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "08:30",
