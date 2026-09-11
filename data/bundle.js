@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-11T20:55:23+09:00",
+ "generated_at": "2026-09-11T21:13:18+09:00",
  "today": "2026-09-11",
  "dates": [
   "2026-09-10",
@@ -9032,7 +9032,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -10159,7 +10159,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "12:30",
@@ -24517,7 +24517,8 @@ window.SCHEDULE = {
      "slot_id": "254193",
      "pgm": "[앵콜]ACER x 엔비디아 한가위 빅세일 특가!",
      "rerun": true,
-     "category": "디지털·PC"
+     "category": "디지털·PC",
+     "hot": 7
     },
     {
      "start": "21:00",
@@ -26011,8 +26012,7 @@ window.SCHEDULE = {
      "slot_id": "59284",
      "pgm": "독일 명품비타민 오쏘몰",
      "title": "오쏘몰바이탈 7+3입특가찬스",
-     "category": "식품",
-     "hot": 10
+     "category": "식품"
     },
     {
      "start": "08:30",
