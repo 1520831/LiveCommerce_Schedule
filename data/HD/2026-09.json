@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-11T18:13:40+09:00",
+ "updated_at": "2026-09-11T23:45:45+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -4083,17 +4083,17 @@
    {
     "start": "18:00",
     "end": "18:59",
-    "brand": "닥스",
-    "product": "[닥스 액세서리] [26FW] DCBA6F966BK 완판리오더DLOCK 블랙 D락장식 나일론 토트백",
-    "price": 253300,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251616155",
+    "brand": "바네사브루노",
+    "product": "[1-1][아떼 바네사브루노 액세사리] [26SS] AAWA6E001G3 Hello Kitty x athe 레오파드 그레",
+    "price": 56840,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252839331",
     "slot_id": "202609116008",
     "items": [
      {
-      "brand": "닥스",
-      "product": "[닥스 액세서리] [26FW] DCBA6F966BK 완판리오더DLOCK 블랙 D락장식 나일론 토트백",
-      "price": 253300,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251616155"
+      "brand": "바네사브루노",
+      "product": "[1-1][아떼 바네사브루노 액세사리] [26SS] AAWA6E001G3 Hello Kitty x athe 레오파드 그레",
+      "price": 56840,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252839331"
      }
     ],
     "title": "[LF 잡화] 가을 무드 잡화 특집전🤎",
@@ -4180,14 +4180,14 @@
     "end": "21:59",
     "brand": "골드무드",
     "product": "24K 순금 럭키 통통 클로버 원석 팔찌",
-    "price": 238000,
+    "price": 339000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239503592",
     "slot_id": "202609116014",
     "items": [
      {
       "brand": "골드무드",
       "product": "24K 순금 럭키 통통 클로버 원석 팔찌",
-      "price": 238000,
+      "price": 339000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239503592"
      }
     ],
@@ -4269,6 +4269,24 @@
     ],
     "title": "[코데즈컴바인] 본격 가을준비! 최대 51%▼",
     "pgm": "현대렐라쇼 (멀티커머스)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "바네사브루노",
+    "product": "[1-1][아떼 바네사브루노 액세사리] [26SS] AAWA6E001G3 Hello Kitty x athe 레오파드 그레",
+    "price": 56840,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252839331",
+    "slot_id": "202609116027",
+    "items": [
+     {
+      "brand": "바네사브루노",
+      "product": "[1-1][아떼 바네사브루노 액세사리] [26SS] AAWA6E001G3 Hello Kitty x athe 레오파드 그레",
+      "price": 56840,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252839331"
+     }
+    ],
+    "title": "[LF 잡화] 가을 무드 잡화 특집전🤎"
    }
   ],
   "2026-09-12": [
