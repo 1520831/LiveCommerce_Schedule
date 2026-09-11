@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-11T12:48:27+09:00",
+ "generated_at": "2026-09-11T12:58:16+09:00",
  "today": "2026-09-11",
  "dates": [
   "2026-09-10",
@@ -2977,7 +2977,7 @@ window.SCHEDULE = {
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
      "category": "여성패션",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -9577,7 +9577,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 6
     },
     {
      "start": "12:30",
@@ -24949,7 +24949,7 @@ window.SCHEDULE = {
      "pgm": "독일 명품비타민 오쏘몰",
      "title": "오쏘몰바이탈 7+3입특가찬스",
      "category": "식품",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "08:30",
