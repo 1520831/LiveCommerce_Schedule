@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-11T19:31:56+09:00",
+ "generated_at": "2026-09-11T19:48:19+09:00",
  "today": "2026-09-11",
  "dates": [
   "2026-09-10",
@@ -3128,8 +3128,7 @@ window.SCHEDULE = {
      "title": "🎶지스튜디오 신상 최초 공개",
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
-     "category": "여성패션",
-     "hot": 10
+     "category": "여성패션"
     },
     {
      "start": "11:00",
@@ -9033,7 +9032,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -10160,7 +10159,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "12:30",
@@ -11088,7 +11087,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 5
     },
     {
      "start": "19:00",
@@ -25999,7 +25999,7 @@ window.SCHEDULE = {
      "pgm": "드시모네 장면역 특허유산균",
      "title": "7%쿠폰+7%페이 중복할인",
      "category": "식품",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "08:30",
@@ -26012,7 +26012,7 @@ window.SCHEDULE = {
      "pgm": "독일 명품비타민 오쏘몰",
      "title": "오쏘몰바이탈 7+3입특가찬스",
      "category": "식품",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "08:30",
