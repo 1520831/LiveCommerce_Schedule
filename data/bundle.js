@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-12T10:54:54+09:00",
+ "generated_at": "2026-09-12T11:09:29+09:00",
  "today": "2026-09-12",
  "dates": [
   "2026-09-11",
@@ -24345,7 +24345,7 @@ window.SCHEDULE = {
      "pgm": "비너스와 편안한 추석!",
      "title": "젤리브라/보정업브라 외",
      "category": "패션",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -24358,7 +24358,7 @@ window.SCHEDULE = {
      "pgm": "세타필 토이스토리 5",
      "title": "2차 굿즈 라이브 최초 공개",
      "category": "뷰티",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -24371,7 +24371,7 @@ window.SCHEDULE = {
      "pgm": "킨도 기저귀 쟁여템",
      "title": "톡딜 특가 + 사은품 증정!",
      "category": "키즈",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "10:00",
