@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-12T12:09:05+09:00",
+ "updated_at": "2026-09-12T18:12:55+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -4388,16 +4388,16 @@
     "start": "12:00",
     "end": "12:59",
     "brand": "루즈앤라운지",
-    "product": "프레첼 숄더 M RA2E3ABG471WIV",
-    "price": 67000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253151689",
+    "product": "[타임찬스][루즈앤라운지] 윈터 룰라베어 RA2G7ABZ006WNY",
+    "price": 57000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253145320",
     "slot_id": "202609126006",
     "items": [
      {
       "brand": "루즈앤라운지",
-      "product": "프레첼 숄더 M RA2E3ABG471WIV",
-      "price": 67000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253151689"
+      "product": "[타임찬스][루즈앤라운지] 윈터 룰라베어 RA2G7ABZ006WNY",
+      "price": 57000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253145320"
      }
     ],
     "title": "[루즈앤라운지] 프레첼라인 수량 확보🥨 단독 공개",
@@ -4459,6 +4459,24 @@
     ],
     "title": "[현명쇼] 버버리 퀼팅재킷 47만▼ 역시즌 가격!",
     "pgm": "[재방] 현명쇼 (노블레스팀)"
+   },
+   {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "레코브",
+    "product": "일자핏 데님팬츠 LC31EXDP544X LC31EXDP544X",
+    "price": 35900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253181312",
+    "slot_id": "202609126001",
+    "items": [
+     {
+      "brand": "레코브",
+      "product": "일자핏 데님팬츠 LC31EXDP544X LC31EXDP544X",
+      "price": 35900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253181312"
+     }
+    ],
+    "title": "[결선 LIVE🏆] 제 4회 친환경 어린이 그림대회"
    },
    {
     "start": "19:00",
