@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-12T10:11:04+09:00",
+ "generated_at": "2026-09-12T10:27:58+09:00",
  "today": "2026-09-12",
  "dates": [
   "2026-09-11",
@@ -2877,8 +2877,7 @@ window.SCHEDULE = {
      "pgm": "잇솔지",
      "pgm_cd": "1109",
      "category": "여성패션",
-     "cast": "influencer",
-     "hot": 8
+     "cast": "influencer"
     },
     {
      "start": "09:00",
@@ -8309,7 +8308,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 10
     },
     {
      "start": "09:30",
@@ -8628,7 +8627,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 6
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -8762,7 +8761,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -23063,7 +23063,8 @@ window.SCHEDULE = {
      "slot_id": "254257",
      "pgm": "[앵콜][한가위빅세일] 삼성 가전 최대 혜택 LIVE",
      "rerun": true,
-     "category": "가전"
+     "category": "가전",
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -24368,7 +24369,8 @@ window.SCHEDULE = {
      "slot_id": "59724",
      "pgm": "킨도 기저귀 쟁여템",
      "title": "톡딜 특가 + 사은품 증정!",
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -26075,8 +26077,8 @@ window.SCHEDULE = {
    "2026-09-11",
    "2026-09-12"
   ],
-  "matched": 11,
-  "unmatched": 9
+  "matched": 13,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
