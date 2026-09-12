@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-12T21:33:42+09:00",
+ "generated_at": "2026-09-12T21:49:18+09:00",
  "today": "2026-09-12",
  "dates": [
   "2026-09-11",
@@ -3253,7 +3253,8 @@ window.SCHEDULE = {
      "title": "SKT 새로운 아이폰 출시! 오늘 하루만 대박 혜택📢",
      "pgm": "라이브쇼",
      "pgm_cd": "1016",
-     "category": "가전"
+     "category": "가전",
+     "hot": 7
     },
     {
      "start": "21:00",
@@ -8681,8 +8682,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 10
+     "category": "푸드"
     },
     {
      "start": "10:00",
@@ -23091,7 +23091,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜][한가위빅세일] 삼성 가전 최대 혜택 LIVE",
      "rerun": true,
      "category": "가전",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -24385,7 +24385,7 @@ window.SCHEDULE = {
      "pgm": "비너스와 편안한 추석!",
      "title": "젤리브라/보정업브라 외",
      "category": "패션",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "10:00",
