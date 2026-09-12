@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-12T21:49:18+09:00",
+ "generated_at": "2026-09-12T21:58:46+09:00",
  "today": "2026-09-12",
  "dates": [
   "2026-09-11",
@@ -3254,7 +3254,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "1016",
      "category": "가전",
-     "hot": 7
+     "hot": 5
     },
     {
      "start": "21:00",
@@ -24518,7 +24518,7 @@ window.SCHEDULE = {
      "pgm": "스타벅스 앳홈 머신&캡슐",
      "title": "추가 할인+라이브 혜택까지!",
      "category": "테크",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "19:00",
@@ -24543,7 +24543,7 @@ window.SCHEDULE = {
      "pgm": "롱샴 르 플리아쥬",
      "title": "얼리추석 카쇼라 특가",
      "category": "패션",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "20:30",
