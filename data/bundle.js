@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-12T20:08:07+09:00",
+ "generated_at": "2026-09-12T20:21:22+09:00",
  "today": "2026-09-12",
  "dates": [
   "2026-09-11",
@@ -23092,7 +23092,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜][한가위빅세일] 삼성 가전 최대 혜택 LIVE",
      "rerun": true,
      "category": "가전",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -24520,7 +24520,7 @@ window.SCHEDULE = {
      "pgm": "스타벅스 앳홈 머신&캡슐",
      "title": "추가 할인+라이브 혜택까지!",
      "category": "테크",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "19:00",
