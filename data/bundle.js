@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-12T12:50:43+09:00",
+ "generated_at": "2026-09-12T13:09:02+09:00",
  "today": "2026-09-12",
  "dates": [
   "2026-09-11",
@@ -8664,7 +8664,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -24424,7 +24424,7 @@ window.SCHEDULE = {
      "pgm": "킨도 기저귀 쟁여템",
      "title": "톡딜 특가 + 사은품 증정!",
      "category": "키즈",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "10:00",
