@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-12T22:14:39+09:00",
+ "generated_at": "2026-09-12T22:27:54+09:00",
  "today": "2026-09-12",
  "dates": [
   "2026-09-11",
@@ -3254,7 +3254,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "1016",
      "category": "가전",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "21:00",
@@ -23091,7 +23091,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜][한가위빅세일] 삼성 가전 최대 혜택 LIVE",
      "rerun": true,
      "category": "가전",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -24517,7 +24517,7 @@ window.SCHEDULE = {
      "pgm": "스타벅스 앳홈 머신&캡슐",
      "title": "추가 할인+라이브 혜택까지!",
      "category": "테크",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "19:00",
@@ -24542,7 +24542,7 @@ window.SCHEDULE = {
      "pgm": "롱샴 르 플리아쥬",
      "title": "얼리추석 카쇼라 특가",
      "category": "패션",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "20:30",
@@ -24627,7 +24627,7 @@ window.SCHEDULE = {
      "pgm": "하기스 오리지널&썸머 라인업",
      "title": "쿠폰 + 페이머니 할인까지",
      "category": "키즈",
-     "hot": 9
+     "hot": 5
     }
    ],
    "2026-09-13": [
