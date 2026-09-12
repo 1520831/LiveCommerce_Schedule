@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-12T18:12:55+09:00",
+ "updated_at": "2026-09-12T23:43:37+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -4461,24 +4461,6 @@
     "pgm": "[재방] 현명쇼 (노블레스팀)"
    },
    {
-    "start": "17:00",
-    "end": "17:59",
-    "brand": "레코브",
-    "product": "일자핏 데님팬츠 LC31EXDP544X LC31EXDP544X",
-    "price": 35900,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253181312",
-    "slot_id": "202609126001",
-    "items": [
-     {
-      "brand": "레코브",
-      "product": "일자핏 데님팬츠 LC31EXDP544X LC31EXDP544X",
-      "price": 35900,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253181312"
-     }
-    ],
-    "title": "[결선 LIVE🏆] 제 4회 친환경 어린이 그림대회"
-   },
-   {
     "start": "19:00",
     "end": "19:59",
     "brand": "LG전자",
@@ -4540,14 +4522,14 @@
     "end": "20:59",
     "brand": "까르마",
     "product": "[까르마] 산뜻한 티트리 메모리폼 경추 베개 2개세트",
-    "price": 300000,
+    "price": 98000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2243708109",
     "slot_id": "202609126014",
     "items": [
      {
       "brand": "까르마",
       "product": "[까르마] 산뜻한 티트리 메모리폼 경추 베개 2개세트",
-      "price": 300000,
+      "price": 98000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2243708109"
      }
     ],
@@ -4597,14 +4579,14 @@
     "end": "22:59",
     "brand": "헤르마",
     "product": "쿠아 토트백 _10컬러",
-    "price": 224400,
+    "price": 264000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2231249924",
     "slot_id": "202609126011",
     "items": [
      {
       "brand": "헤르마",
       "product": "쿠아 토트백 _10컬러",
-      "price": 224400,
+      "price": 264000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2231249924"
      }
     ],
@@ -4637,14 +4619,14 @@
     "end": "00:59",
     "brand": "한민금거래소",
     "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-    "price": 264400,
+    "price": 261600,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581",
     "slot_id": "202609136016",
     "items": [
      {
       "brand": "한민금거래소",
       "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-      "price": 264400,
+      "price": 261600,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581"
      }
     ],
@@ -4922,14 +4904,14 @@
     "end": "20:59",
     "brand": "한민금거래소",
     "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-    "price": 264400,
+    "price": 261600,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581",
     "slot_id": "202609136010",
     "items": [
      {
       "brand": "한민금거래소",
       "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-      "price": 264400,
+      "price": 261600,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581"
      }
     ],
@@ -5038,14 +5020,14 @@
     "end": "07:59",
     "brand": "한민금거래소",
     "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-    "price": 264400,
+    "price": 261600,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581",
     "slot_id": "202609146022",
     "items": [
      {
       "brand": "한민금거래소",
       "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-      "price": 264400,
+      "price": 261600,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581"
      }
     ],
@@ -5591,14 +5573,14 @@
     "end": "18:59",
     "brand": "한민금거래소",
     "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-    "price": 264400,
+    "price": 261600,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581",
     "slot_id": "202609156013",
     "items": [
      {
       "brand": "한민금거래소",
       "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-      "price": 264400,
+      "price": 261600,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581"
      }
     ],

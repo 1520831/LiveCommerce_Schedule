@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-09-12T18:13:01+09:00",
+ "updated_at": "2026-09-12T23:43:43+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -6090,7 +6090,7 @@
     "end": "19:59",
     "brand": "로보",
     "product": "유로피안 26FW 엠보 램스킨 후드 점퍼",
-    "price": 529100,
+    "price": 539100,
     "link": "https://item.cjonstyle.com/item/2092215028?channelCode=30002002",
     "slot_id": "29179",
     "title": "🍂로보 26FW 신상 최초 공개",
@@ -6544,10 +6544,10 @@
    {
     "start": "18:00",
     "end": "18:59",
-    "brand": "KT",
-    "product": "[9/18~10월중개통/미리주문특별가] 아이폰17프로 256G / kt번호이동(통신사이동) / 110요금제 / 공통지원 / 즉시출고",
-    "price": 762000,
-    "link": "https://item.cjonstyle.com/item/2058628066?channelCode=30002002",
+    "brand": "LG유플러스",
+    "product": "LGU+ 아이폰18 프로 256G 번호이동 선택약정 유플러스 85요금제 번이",
+    "price": 1790000,
+    "link": "https://item.cjonstyle.com/item/2093357499?channelCode=30002002",
     "slot_id": "29182",
     "title": "NEW 새로운 아이폰 구매시 3만원 상당 사은품",
     "pgm": "라이브쇼",
@@ -6839,6 +6839,19 @@
     "title": "[맘만하니] CJ 최초 론칭! 밀리엔스❤️ 맘만하니 론칭 특가✨",
     "pgm": "맘만하니",
     "pgm_cd": "0099"
+   },
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "줄리스초이스",
+    "product": "더마 뷰티 콜라겐 비오틴 앰플 플러스 4박스 + 더마뷰티 스킨부스터 4박스 + 쇼핑백",
+    "price": 259900,
+    "link": "https://item.cjonstyle.com/item/2092213703?channelCode=30002002",
+    "slot_id": "29423",
+    "title": "주름개선 4,542% 줄리스초이스 스킨부스터 + 콜라겐비오틴엠플 ~56%",
+    "pgm": "라이브쇼",
+    "pgm_cd": "0214",
+    "category": "식품·건강"
    },
    {
     "start": "10:00",
