@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-12T19:54:51+09:00",
+ "generated_at": "2026-09-12T20:08:07+09:00",
  "today": "2026-09-12",
  "dates": [
   "2026-09-11",
@@ -3173,7 +3173,8 @@ window.SCHEDULE = {
      "title": "🍂로보 26FW 신상 최초 공개",
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 10
     },
     {
      "start": "19:00",
@@ -23091,7 +23092,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜][한가위빅세일] 삼성 가전 최대 혜택 LIVE",
      "rerun": true,
      "category": "가전",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -24519,7 +24520,7 @@ window.SCHEDULE = {
      "pgm": "스타벅스 앳홈 머신&캡슐",
      "title": "추가 할인+라이브 혜택까지!",
      "category": "테크",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "19:00",
@@ -24544,7 +24545,7 @@ window.SCHEDULE = {
      "pgm": "롱샴 르 플리아쥬",
      "title": "얼리추석 카쇼라 특가",
      "category": "패션",
-     "hot": 5
+     "hot": 3
     },
     {
      "start": "20:30",
@@ -26131,8 +26132,8 @@ window.SCHEDULE = {
    "2026-09-11",
    "2026-09-12"
   ],
-  "matched": 14,
-  "unmatched": 6
+  "matched": 15,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
