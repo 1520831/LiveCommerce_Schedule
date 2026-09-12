@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-13T08:38:39+09:00",
+ "generated_at": "2026-09-13T08:48:31+09:00",
  "today": "2026-09-13",
  "dates": [
   "2026-09-12",
@@ -2586,7 +2586,7 @@ window.SCHEDULE = {
      "pgm_cd": "1109",
      "category": "여성패션",
      "cast": "influencer",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "09:00",
@@ -6525,7 +6525,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "09:00",
