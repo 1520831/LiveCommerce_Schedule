@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-12T22:27:54+09:00",
+ "generated_at": "2026-09-12T22:40:09+09:00",
  "today": "2026-09-12",
  "dates": [
   "2026-09-11",
@@ -23343,7 +23343,8 @@ window.SCHEDULE = {
      "slot_id": "252342",
      "pgm": "[앵콜][한가위빅세일]삼성갤럭시 LIVE! 카드할인7%",
      "rerun": true,
-     "category": "디지털·PC"
+     "category": "디지털·PC",
+     "hot": 10
     },
     {
      "start": "22:00",
@@ -24627,7 +24628,7 @@ window.SCHEDULE = {
      "pgm": "하기스 오리지널&썸머 라인업",
      "title": "쿠폰 + 페이머니 할인까지",
      "category": "키즈",
-     "hot": 5
+     "hot": 3
     }
    ],
    "2026-09-13": [
@@ -26130,8 +26131,8 @@ window.SCHEDULE = {
    "2026-09-11",
    "2026-09-12"
   ],
-  "matched": 13,
-  "unmatched": 7
+  "matched": 14,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
