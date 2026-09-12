@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-12T13:09:02+09:00",
+ "generated_at": "2026-09-12T13:24:20+09:00",
  "today": "2026-09-12",
  "dates": [
   "2026-09-11",
@@ -8943,7 +8943,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -24398,7 +24398,7 @@ window.SCHEDULE = {
      "pgm": "비너스와 편안한 추석!",
      "title": "젤리브라/보정업브라 외",
      "category": "패션",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "10:00",
