@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-12T20:55:43+09:00",
+ "generated_at": "2026-09-12T21:12:22+09:00",
  "today": "2026-09-12",
  "dates": [
   "2026-09-11",
@@ -24543,7 +24543,7 @@ window.SCHEDULE = {
      "pgm": "롱샴 르 플리아쥬",
      "title": "얼리추석 카쇼라 특가",
      "category": "패션",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "20:30",
