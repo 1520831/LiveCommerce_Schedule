@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-12T09:21:52+09:00",
+ "generated_at": "2026-09-12T09:42:14+09:00",
  "today": "2026-09-12",
  "dates": [
   "2026-09-11",
@@ -2878,7 +2878,7 @@ window.SCHEDULE = {
      "pgm_cd": "1109",
      "category": "여성패션",
      "cast": "influencer",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "09:00",
@@ -8308,7 +8308,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 6
     },
     {
      "start": "09:30",
@@ -26073,8 +26074,8 @@ window.SCHEDULE = {
    "2026-09-11",
    "2026-09-12"
   ],
-  "matched": 9,
-  "unmatched": 11
+  "matched": 10,
+  "unmatched": 10
  },
  "fixed": {
   "rows": [
