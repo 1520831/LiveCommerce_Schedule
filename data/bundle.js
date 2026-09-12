@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-12T13:50:38+09:00",
+ "generated_at": "2026-09-12T14:08:35+09:00",
  "today": "2026-09-12",
  "dates": [
   "2026-09-11",
@@ -8664,7 +8664,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -8799,7 +8799,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 9
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -8942,8 +8942,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프",
-     "hot": 5
+     "category": "라이프"
     },
     {
      "start": "11:00",
@@ -24411,7 +24410,7 @@ window.SCHEDULE = {
      "pgm": "세타필 토이스토리 5",
      "title": "2차 굿즈 라이브 최초 공개",
      "category": "뷰티",
-     "hot": 10
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -24424,7 +24423,7 @@ window.SCHEDULE = {
      "pgm": "킨도 기저귀 쟁여템",
      "title": "톡딜 특가 + 사은품 증정!",
      "category": "키즈",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -26131,8 +26130,8 @@ window.SCHEDULE = {
    "2026-09-11",
    "2026-09-12"
   ],
-  "matched": 15,
-  "unmatched": 5
+  "matched": 14,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
