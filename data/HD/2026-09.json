@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-12T07:10:26+09:00",
+ "updated_at": "2026-09-12T12:09:05+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -4291,25 +4291,6 @@
   ],
   "2026-09-12": [
    {
-    "start": "00:00",
-    "end": "00:59",
-    "brand": "유로룩스",
-    "product": "[쇼라] 유로룩스 뉴베어쿡 냄비 20cm / 316Ti 무연마 스텐",
-    "price": 69000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251919563",
-    "slot_id": "202609126015",
-    "items": [
-     {
-      "brand": "유로룩스",
-      "product": "[쇼라] 유로룩스 뉴베어쿡 냄비 20cm / 316Ti 무연마 스텐",
-      "price": 69000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251919563"
-     }
-    ],
-    "title": "[유로룩스] 독일 프리미엄 브랜드 창고대개방 앵콜전",
-    "pgm": "[재방] 유로룩스 (가전)"
-   },
-   {
     "start": "07:00",
     "end": "07:59",
     "brand": "우노아레",
@@ -4365,6 +4346,24 @@
     ],
     "title": "[레코브] 부담 없는 가격 F/W 득템 찬스💖",
     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "헨리베글린",
+    "product": "클라라 마이크로 램올드아이언 베이지",
+    "price": 827700,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249213198",
+    "slot_id": "202609126004",
+    "items": [
+     {
+      "brand": "헨리베글린",
+      "product": "클라라 마이크로 램올드아이언 베이지",
+      "price": 827700,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249213198"
+     }
+    ],
+    "title": "[헨리베글린] 26F/W 신상 라인업 공개👜"
    },
    {
     "start": "11:00",
@@ -4561,14 +4560,14 @@
     "end": "21:59",
     "brand": "해외직구",
     "product": "[해외배송] 요시다포터 숄더백 NEW TANKER SLING BAG W zip 가방 622-15154 뉴탱커",
-    "price": 653000,
+    "price": 684000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247771801",
     "slot_id": "202609126020",
     "items": [
      {
       "brand": "해외직구",
       "product": "[해외배송] 요시다포터 숄더백 NEW TANKER SLING BAG W zip 가방 622-15154 뉴탱커",
-      "price": 653000,
+      "price": 684000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247771801"
      }
     ],

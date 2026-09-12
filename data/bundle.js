@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-12T11:50:51+09:00",
+ "generated_at": "2026-09-12T12:10:38+09:00",
  "today": "2026-09-12",
  "dates": [
   "2026-09-11",
@@ -493,25 +493,6 @@ window.SCHEDULE = {
    ],
    "2026-09-12": [
     {
-     "start": "00:00",
-     "end": "00:59",
-     "brand": "유로룩스",
-     "product": "[쇼라] 유로룩스 뉴베어쿡 냄비 20cm / 316Ti 무연마 스텐",
-     "price": 69000,
-     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251919563",
-     "slot_id": "202609126015",
-     "items": [
-      {
-       "brand": "유로룩스",
-       "product": "[쇼라] 유로룩스 뉴베어쿡 냄비 20cm / 316Ti 무연마 스텐",
-       "price": 69000,
-       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251919563"
-      }
-     ],
-     "title": "[유로룩스] 독일 프리미엄 브랜드 창고대개방 앵콜전",
-     "pgm": "[재방] 유로룩스 (가전)"
-    },
-    {
      "start": "07:00",
      "end": "07:59",
      "brand": "우노아레",
@@ -567,6 +548,24 @@ window.SCHEDULE = {
      ],
      "title": "[레코브] 부담 없는 가격 F/W 득템 찬스💖",
      "pgm": "백화점 프리오픈쇼(멀티커머스)"
+    },
+    {
+     "start": "10:00",
+     "end": "10:59",
+     "brand": "헨리베글린",
+     "product": "클라라 마이크로 램올드아이언 베이지",
+     "price": 827700,
+     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249213198",
+     "slot_id": "202609126004",
+     "items": [
+      {
+       "brand": "헨리베글린",
+       "product": "클라라 마이크로 램올드아이언 베이지",
+       "price": 827700,
+       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249213198"
+      }
+     ],
+     "title": "[헨리베글린] 26F/W 신상 라인업 공개👜"
     },
     {
      "start": "11:00",
@@ -763,14 +762,14 @@ window.SCHEDULE = {
      "end": "21:59",
      "brand": "해외직구",
      "product": "[해외배송] 요시다포터 숄더백 NEW TANKER SLING BAG W zip 가방 622-15154 뉴탱커",
-     "price": 653000,
+     "price": 684000,
      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247771801",
      "slot_id": "202609126020",
      "items": [
       {
        "brand": "해외직구",
        "product": "[해외배송] 요시다포터 숄더백 NEW TANKER SLING BAG W zip 가방 622-15154 뉴탱커",
-       "price": 653000,
+       "price": 684000,
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247771801"
       }
      ],
@@ -2840,7 +2839,7 @@ window.SCHEDULE = {
      "end": "23:59",
      "brand": "버미큘라",
      "product": "에그&토스트팬 사각 주물 무쇠 프라이팬 인덕션 후라이팬",
-     "price": 209000,
+     "price": 156750,
      "link": "https://item.cjonstyle.com/item/2042103950?channelCode=30002002",
      "slot_id": "29373",
      "title": "다시보는 팝혜진🩷버미큘라! 일본 장인의 명품 주물 후라이팬",
@@ -2962,7 +2961,7 @@ window.SCHEDULE = {
      "end": "12:59",
      "brand": "버미큘라",
      "product": "에그&토스트팬 사각 주물 무쇠 프라이팬 인덕션 후라이팬",
-     "price": 209000,
+     "price": 156750,
      "link": "https://item.cjonstyle.com/item/2042103950?channelCode=30002002",
      "slot_id": "29380",
      "title": "다시보는 팝혜진🩷버미큘라! 일본 장인의 명품 주물 후라이팬",
@@ -3581,7 +3580,7 @@ window.SCHEDULE = {
      "end": "17:59",
      "brand": "버미큘라",
      "product": "에그&토스트팬 사각 주물 무쇠 프라이팬 인덕션 후라이팬",
-     "price": 209000,
+     "price": 156750,
      "link": "https://item.cjonstyle.com/item/2042103950?channelCode=30002002",
      "slot_id": "29408",
      "title": "다시보는 팝혜진🩷버미큘라! 일본 장인의 명품 주물 후라이팬",
@@ -5757,7 +5756,7 @@ window.SCHEDULE = {
      "start": "10:00",
      "end": "11:00",
      "brand": "갤럭시",
-     "product": "삼성 공식 갤럭시 S26 256GB 자급제 SM-S942N",
+     "product": "삼성 공식 갤럭시 S26 256GB 자급제 SM-S942N LIVE",
      "price": 1254010,
      "link": "https://shoppinglive.naver.com/livebridge/2010379",
      "slot_id": "2010379",
@@ -5911,7 +5910,7 @@ window.SCHEDULE = {
      "end": "12:36",
      "brand": "미쏘",
      "product": "[N배송][미쏘] V넥 변형 자켓 RE JKG311C_MIWJKG90QC",
-     "price": 94900,
+     "price": 89900,
      "link": "https://shoppinglive.naver.com/livebridge/1984003",
      "slot_id": "1984003",
      "pgm": "[미쏘] 품절임박! 주간 베스트 아이템",
@@ -6269,7 +6268,7 @@ window.SCHEDULE = {
      "end": "12:02",
      "brand": "레인보우샵",
      "product": "신성한쇼핑x레인보우샵 과탄산소다 프리미엄 톡톡이 세트 본품500g 1개+리필 3kg 2개",
-     "price": 24900,
+     "price": 32700,
      "link": "https://shoppinglive.naver.com/livebridge/2004307",
      "slot_id": "2004307",
      "pgm": "레인보우샵 X신성한쇼핑 Coming Soon",
@@ -8102,7 +8101,7 @@ window.SCHEDULE = {
     },
     {
      "start": "06:50",
-     "end": "",
+     "end": "08:48",
      "brand": "갤럭시",
      "product": "삼성 갤럭시워치8 강화유리 패키지 실버, 40mm, 블루투스",
      "price": 419000,
@@ -8148,7 +8147,7 @@ window.SCHEDULE = {
     },
     {
      "start": "09:00",
-     "end": "",
+     "end": "10:41",
      "brand": "씨샵인더룸",
      "product": "라방 20% 추가 할인 월요일 10시까지 (S-XL,남녀공용)이부 벨트고리 투웨이 스트링 뒷밴딩 와이드 팬츠 3color",
      "price": 30240,
@@ -8210,13 +8209,51 @@ window.SCHEDULE = {
       {},
       {},
       {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
       {}
      ],
      "category": "패션"
     },
     {
      "start": "09:00",
-     "end": "",
+     "end": "10:00",
      "brand": "워시콤보",
      "product": "LG 오브제컬렉션 워시콤보 미니워시 FH25WAX 올인원 세탁기 건조기 일체형 화이트",
      "price": 3477900,
@@ -8311,7 +8348,7 @@ window.SCHEDULE = {
     },
     {
      "start": "09:30",
-     "end": "",
+     "end": "10:34",
      "brand": "갤럭시",
      "product": "삼성 갤럭시 워치8 (강화유리 2매 패키지) 실버, 40mm, 블루투스",
      "price": 419000,
@@ -8424,10 +8461,10 @@ window.SCHEDULE = {
     },
     {
      "start": "10:00",
-     "end": "",
+     "end": "11:45",
      "brand": "유라타임",
      "product": "유라타임 [MADE] 멜번 소프트 세미루즈핏 브이넥 니트",
-     "price": 25900,
+     "price": 22900,
      "link": "https://shoppinglive.naver.com/livebridge/1992197",
      "slot_id": "1992197",
      "pgm": "유라타임🎁추석+주말초특가라이브SALE 더블행사",
@@ -8538,7 +8575,7 @@ window.SCHEDULE = {
     },
     {
      "start": "10:00",
-     "end": "",
+     "end": "12:01",
      "brand": "에버콜라겐",
      "product": "뉴트리 에버콜라겐 인앤업비오틴 업 42주 (6주x7개) GPH 저분자 트리 펩타이드 콜라겐",
      "price": 252500,
@@ -8575,13 +8612,14 @@ window.SCHEDULE = {
       {},
       {},
       {},
+      {},
       {}
      ],
      "category": "푸드"
     },
     {
      "start": "10:00",
-     "end": "",
+     "end": "11:01",
      "brand": "위바이옴",
      "product": "서울대 위바이옴 두뇌엔 닥터PS 맥스 순도80% 포스파티딜세린 분말 30포, 4개",
      "price": 187000,
@@ -8630,10 +8668,10 @@ window.SCHEDULE = {
     },
     {
      "start": "10:00",
-     "end": "",
+     "end": "11:38",
      "brand": "밍스",
-     "product": "비스코스 시보리 라인 시스루 단추 니트 가디건 3컬러",
-     "price": 38900,
+     "product": "울혼방 깊은 V넥 배색 레이어드 루즈핏 니트 2컬러",
+     "price": 29520,
      "link": "https://shoppinglive.naver.com/livebridge/2005129",
      "slot_id": "2005129",
      "pgm": "[블루밍데이즈] 주말 라이브 초특가 SALE 신상 10% 추가 할인",
@@ -8692,7 +8730,7 @@ window.SCHEDULE = {
     },
     {
      "start": "10:00",
-     "end": "",
+     "end": "12:00",
      "brand": "비스포크AI콤보",
      "product": "삼성 WD80H25BHY 비스포크 AI콤보 세탁25kg 건조18kg 26년형 일체형 1등급",
      "price": 3299000,
@@ -8736,7 +8774,7 @@ window.SCHEDULE = {
     },
     {
      "start": "10:00",
-     "end": "",
+     "end": "11:04",
      "brand": "써모스",
      "product": "써모스 올뉴 데일리 원터치 텀블러 250ml",
      "price": 28860,
@@ -8761,11 +8799,11 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 9
+     "hot": 8
     },
     {
      "start": "10:00",
-     "end": "",
+     "end": "12:02",
      "brand": "비스포크",
      "product": "삼성전자 비스포크 Ai 냉장고 1등급 4도어 905L 대용량 RM70F90R1ZD 에센셜화이트",
      "price": 2290000,
@@ -8825,7 +8863,7 @@ window.SCHEDULE = {
     },
     {
      "start": "10:00",
-     "end": "",
+     "end": "11:03",
      "brand": "메디셜",
      "product": "[추석+세일] 헬리컷 위에 좋은 음식 위 영양제 헬리코박터균 위건강 90g, 4개",
      "price": 140900,
@@ -8883,7 +8921,7 @@ window.SCHEDULE = {
     },
     {
      "start": "11:00",
-     "end": "",
+     "end": "12:06",
      "brand": "다우니",
      "product": "다우니 호텔 컬렉션 1L 초고농축 섬유유연제 패밀리팩 본품 5개 + (증정) 섬유유연제 200ml 샘플 1개",
      "price": 31700,
@@ -8905,19 +8943,21 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 7
+     "hot": 4
     },
     {
      "start": "11:00",
      "end": "",
      "brand": "비인 BIIN",
      "product": "SET 와플 플라워패턴 후드 집업점퍼 반바지 투피스세트",
-     "price": 37050,
+     "price": 35910,
      "link": "https://shoppinglive.naver.com/livebridge/2017433",
      "slot_id": "2017433",
      "pgm": "주말초특가SALE 할인라방",
      "title": "주말동안할인방송",
      "items": [
+      {},
+      {},
       {},
       {},
       {},
@@ -8973,7 +9013,7 @@ window.SCHEDULE = {
     },
     {
      "start": "11:00",
-     "end": "",
+     "end": "11:33",
      "brand": "선미한과",
      "product": "[선미한과] N배송 단청 1단 약과 유과 선물세트 쇼핑백 포함",
      "price": 41000,
@@ -9010,13 +9050,13 @@ window.SCHEDULE = {
     },
     {
      "start": "11:00",
-     "end": "",
+     "end": "11:59",
      "brand": "바디프랜드",
-     "product": "[N포인트 10만] 바디프랜드 아제라로봇 안마의자 헬스케어로봇",
-     "price": 2350000,
+     "product": "[N포인트 30만] 바디프랜드 아제라로봇 안마의자 헬스케어로봇",
+     "price": 3000000,
      "link": "https://shoppinglive.naver.com/livebridge/2019420",
      "slot_id": "2019420",
-     "pgm": "🔥추석선물 고민중? 요즘은 헬스케어로봇 아제라로봇🔥 심지어 할인 중!",
+     "pgm": "🔥추석선물 고민중? 아제라로봇🔥N포인트 30만 점 증정!",
      "title": "헬스케어 아제라로봇 할인~",
      "items": [
       {},
@@ -9057,7 +9097,7 @@ window.SCHEDULE = {
     },
     {
      "start": "11:00",
-     "end": "",
+     "end": "12:05",
      "brand": "마몽드",
      "product": "[라이브][정품용량증정]마몽드 플로라글로우 로즈 리퀴드마스크 트리오",
      "price": 56700,
@@ -9131,10 +9171,10 @@ window.SCHEDULE = {
     },
     {
      "start": "11:00",
-     "end": "",
+     "end": "12:05",
      "brand": "ANKER",
      "product": "앤커 사운드코어 리버티 5 프로 ENC 무선 블루투스 이어폰 D1203",
-     "price": 199900,
+     "price": 189900,
      "link": "https://shoppinglive.naver.com/livebridge/2026597",
      "slot_id": "2026597",
      "pgm": "[앵콜라이브]앤커 음향기기&보조배터리 최대 50% 혜택!✨추석특가전",
@@ -9153,7 +9193,7 @@ window.SCHEDULE = {
     },
     {
      "start": "11:00",
-     "end": "",
+     "end": "12:03",
      "brand": "자코모",
      "product": "[자코모] 오브아 3인 오플 천연면피 소가죽 소파+쿠션1개",
      "price": 1462000,
@@ -9187,7 +9227,7 @@ window.SCHEDULE = {
     },
     {
      "start": "11:00",
-     "end": "",
+     "end": "12:03",
      "brand": "뉴트리케이",
      "product": "뉴트리케이 포스파티딜세린 두뇌엔 포커스 PS 80 두뇌 영양제 15포, 4개",
      "price": 74600,
@@ -17303,7 +17343,7 @@ window.SCHEDULE = {
      "end": "",
      "brand": "미쏘",
      "product": "[N배송][미쏘] 하프 트렌치코트 RE JTG311B_MIWJTG90QB",
-     "price": 122500,
+     "price": 116100,
      "link": "https://shoppinglive.naver.com/livebridge/1984014",
      "slot_id": "1984014",
      "pgm": "[미쏘] 첫 가을 아우터 LIVE 한정특가",
@@ -18951,7 +18991,7 @@ window.SCHEDULE = {
      "end": "",
      "brand": "슈펜키즈",
      "product": "[산리오]키즈 스트링 패딩부츠 HPKV7FFV3S",
-     "price": 24900,
+     "price": 29900,
      "link": "https://shoppinglive.naver.com/livebridge/2007599",
      "slot_id": "2007599",
      "pgm": "[이랜드위크] UP TO 65% SALE🔥패딩부츠+웜부츠 단독 특가",
@@ -21135,7 +21175,7 @@ window.SCHEDULE = {
      "start": "10:00",
      "end": "",
      "brand": "갤럭시",
-     "product": "삼성 공식 갤럭시 S26 256GB 자급제 SM-S942N",
+     "product": "삼성 공식 갤럭시 S26 256GB 자급제 SM-S942N LIVE",
      "price": 1254010,
      "link": "https://shoppinglive.naver.com/livebridge/2010389",
      "slot_id": "2010389",
@@ -23064,7 +23104,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜][한가위빅세일] 삼성 가전 최대 혜택 LIVE",
      "rerun": true,
      "category": "가전",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -24336,21 +24376,33 @@ window.SCHEDULE = {
    ],
    "2026-09-12": [
     {
+     "start": "08:48",
+     "end": "09:38",
+     "brand": "터치그라운드 스니커즈",
+     "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+     "price": 49900,
+     "link": "https://store.kakao.com/touchground/products/774098244",
+     "slot_id": "60016",
+     "pgm": "터치그라운드 쿠셔닝슬리퍼",
+     "title": "날도 더워지는데 구매각?!",
+     "category": "패션"
+    },
+    {
      "start": "10:00",
-     "end": "13:00",
+     "end": "11:21",
      "brand": "비너스",
-     "product": "젤리브라 후크형 퓨징 브라+팬티 6종세트",
+     "product": "[1+1] 젤리브라 후크형 퓨징 브라",
      "price": 79800,
      "link": "https://store.kakao.com/venuseshop/products/513850700",
      "slot_id": "59343",
      "pgm": "비너스와 편안한 추석!",
      "title": "젤리브라/보정업브라 외",
      "category": "패션",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "10:00",
-     "end": "11:30",
+     "end": "11:21",
      "brand": "세타필 공식몰",
      "product": "[토이스토리]세타필 크림 956g 기획+미니 로션 29ml 3개+버즈 스파츌라",
      "price": 53000,
@@ -24359,11 +24411,11 @@ window.SCHEDULE = {
      "pgm": "세타필 토이스토리 5",
      "title": "2차 굿즈 라이브 최초 공개",
      "category": "뷰티",
-     "hot": 10
+     "hot": 9
     },
     {
      "start": "10:00",
-     "end": "11:30",
+     "end": "11:20",
      "brand": "킨도",
      "product": "킨도 가을맞이 기저귀 2박스 쟁여템 4일특가(최대 43% + 카카오페이 1만원권 증)",
      "price": 176000,
@@ -24376,7 +24428,7 @@ window.SCHEDULE = {
     },
     {
      "start": "10:00",
-     "end": "11:30",
+     "end": "11:20",
      "brand": "리버티",
      "product": "Liberty 2026 에디션 입는오버나이트 1+1팩 외 생리대/중형/대형/롱라이너/오버나이트",
      "price": 15900,
@@ -24388,7 +24440,7 @@ window.SCHEDULE = {
     },
     {
      "start": "10:00",
-     "end": "11:30",
+     "end": "11:21",
      "brand": "메라블",
      "product": "[1+1/무료배송] 메라블 눈가 주름 탄력 집중케어 아이크림 외 8종 기획전",
      "price": 138000,
@@ -24438,13 +24490,25 @@ window.SCHEDULE = {
      "start": "11:30",
      "end": "14:30",
      "brand": "필립스생활가전코리아",
-     "product": "필립스 1000 시리즈 전자동 에스프레소 커피머신 EP1220/19 (+아쿠아필터 증정)",
+     "product": "필립스 1000 시리즈 전자동 에스프레소 커피머신 택1 (+아쿠아필터&원두)",
      "price": 650000,
      "link": "https://store.kakao.com/philipsda/products/98536360",
      "slot_id": "60072",
      "pgm": "필립스 생활가전 LIVE!",
      "title": "가을맞이 특가 및 혜택까지",
      "category": "테크"
+    },
+    {
+     "start": "12:00",
+     "end": "13:30",
+     "brand": "온라인가구닷컴",
+     "product": "앳홈 쿨젤 메모리폼 경추 베개(중형)",
+     "price": 27900,
+     "link": "https://store.kakao.com/onlinegagu/products/741528096",
+     "slot_id": "60140",
+     "pgm": "택배로 배송되는 롤팩매트리스",
+     "title": "독립포켓스프링 매트리스~!",
+     "category": "리빙"
     },
     {
      "start": "19:00",
@@ -24474,9 +24538,9 @@ window.SCHEDULE = {
      "start": "19:00",
      "end": "22:00",
      "brand": "로보락 브랜드 스토어",
-     "product": "",
-     "price": 0,
-     "link": "https://shoppinglive.kakao.com/live/59668",
+     "product": "로보락 H60 Hub Ultra 무선청소기 / 올인원 오토엠티도크",
+     "price": 499000,
+     "link": "https://store.kakao.com/roborock/products/576233201",
      "slot_id": "59668",
      "pgm": "로보락 H60 Hub 울트라",
      "title": "방송중 사은품 증정까지!",
@@ -24577,18 +24641,6 @@ window.SCHEDULE = {
      "pgm": "하기스 오리지널&썸머 라인업",
      "title": "쿠폰 + 페이머니 할인까지",
      "category": "키즈"
-    },
-    {
-     "start": "22:30",
-     "end": "00:00",
-     "brand": "터치그라운드 스니커즈",
-     "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-     "price": 49900,
-     "link": "https://store.kakao.com/touchground/products/774098244",
-     "slot_id": "60016",
-     "pgm": "터치그라운드 쿠셔닝슬리퍼",
-     "title": "날도 더워지는데 구매각?!",
-     "category": "패션"
     }
    ],
    "2026-09-13": [
@@ -26063,11 +26115,11 @@ window.SCHEDULE = {
   }
  },
  "updated_at": {
-  "HD": "2026-09-12T07:10:26+09:00",
-  "CJ": "2026-09-12T07:10:32+09:00",
-  "NV": "2026-09-12T07:11:30+09:00",
+  "HD": "2026-09-12T12:09:05+09:00",
+  "CJ": "2026-09-12T12:09:11+09:00",
+  "NV": "2026-09-12T12:10:23+09:00",
   "GM": "2026-09-11T10:00:28+09:00",
-  "KA": "2026-09-12T07:10:42+09:00"
+  "KA": "2026-09-12T12:09:22+09:00"
  },
  "cast_kinds": [
   "celeb",
