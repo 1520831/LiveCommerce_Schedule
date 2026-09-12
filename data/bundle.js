@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-13T00:54:36+09:00",
+ "generated_at": "2026-09-13T07:08:40+09:00",
  "today": "2026-09-13",
  "dates": [
   "2026-09-12",
@@ -377,7 +377,7 @@ window.SCHEDULE = {
      ],
      "title": "[한민금거래소] 금을 생산하는 기업!",
      "pgm": "[재방] 한민금거래소 (패션잡화)",
-     "hot": 1
+     "hot": 4
     },
     {
      "start": "07:00",
@@ -21569,7 +21569,7 @@ window.SCHEDULE = {
    "2026-09-13"
   ],
   "matched": 9,
-  "unmatched": 7
+  "unmatched": 10
  },
  "fixed": {
   "rows": [
