@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-12T12:24:09+09:00",
+ "generated_at": "2026-09-12T12:39:15+09:00",
  "today": "2026-09-12",
  "dates": [
   "2026-09-11",
@@ -8799,7 +8799,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -24411,7 +24411,7 @@ window.SCHEDULE = {
      "pgm": "세타필 토이스토리 5",
      "title": "2차 굿즈 라이브 최초 공개",
      "category": "뷰티",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "10:00",
