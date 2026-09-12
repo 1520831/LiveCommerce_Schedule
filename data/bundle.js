@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-12T10:27:58+09:00",
+ "generated_at": "2026-09-12T10:41:10+09:00",
  "today": "2026-09-12",
  "dates": [
   "2026-09-11",
@@ -8307,8 +8307,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "09:30",
@@ -8627,7 +8626,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -8762,7 +8761,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -23064,7 +23063,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜][한가위빅세일] 삼성 가전 최대 혜택 LIVE",
      "rerun": true,
      "category": "가전",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -24345,7 +24344,8 @@ window.SCHEDULE = {
      "slot_id": "59343",
      "pgm": "비너스와 편안한 추석!",
      "title": "젤리브라/보정업브라 외",
-     "category": "패션"
+     "category": "패션",
+     "hot": 6
     },
     {
      "start": "10:00",
