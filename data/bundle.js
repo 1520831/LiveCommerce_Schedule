@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-12T19:28:28+09:00",
+ "generated_at": "2026-09-12T19:40:35+09:00",
  "today": "2026-09-12",
  "dates": [
   "2026-09-11",
@@ -8816,8 +8816,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프",
-     "hot": 9
+     "category": "라이프"
     },
     {
      "start": "10:00",
@@ -24386,7 +24385,7 @@ window.SCHEDULE = {
      "pgm": "비너스와 편안한 추석!",
      "title": "젤리브라/보정업브라 외",
      "category": "패션",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -24520,7 +24519,7 @@ window.SCHEDULE = {
      "pgm": "스타벅스 앳홈 머신&캡슐",
      "title": "추가 할인+라이브 혜택까지!",
      "category": "테크",
-     "hot": 10
+     "hot": 9
     },
     {
      "start": "19:00",
@@ -24544,7 +24543,8 @@ window.SCHEDULE = {
      "slot_id": "59708",
      "pgm": "롱샴 르 플리아쥬",
      "title": "얼리추석 카쇼라 특가",
-     "category": "패션"
+     "category": "패션",
+     "hot": 8
     },
     {
      "start": "20:30",
