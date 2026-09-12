@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-12T20:36:34+09:00",
+ "generated_at": "2026-09-12T20:46:11+09:00",
  "today": "2026-09-12",
  "dates": [
   "2026-09-11",
@@ -3173,8 +3173,7 @@ window.SCHEDULE = {
      "title": "🍂로보 26FW 신상 최초 공개",
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
-     "category": "여성패션",
-     "hot": 10
+     "category": "여성패션"
     },
     {
      "start": "19:00",
@@ -8683,7 +8682,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -23092,7 +23091,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜][한가위빅세일] 삼성 가전 최대 혜택 LIVE",
      "rerun": true,
      "category": "가전",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -24386,7 +24385,7 @@ window.SCHEDULE = {
      "pgm": "비너스와 편안한 추석!",
      "title": "젤리브라/보정업브라 외",
      "category": "패션",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -24410,8 +24409,7 @@ window.SCHEDULE = {
      "slot_id": "59724",
      "pgm": "킨도 기저귀 쟁여템",
      "title": "톡딜 특가 + 사은품 증정!",
-     "category": "키즈",
-     "hot": 9
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -24520,7 +24518,7 @@ window.SCHEDULE = {
      "pgm": "스타벅스 앳홈 머신&캡슐",
      "title": "추가 할인+라이브 혜택까지!",
      "category": "테크",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "19:00",
@@ -24545,7 +24543,7 @@ window.SCHEDULE = {
      "pgm": "롱샴 르 플리아쥬",
      "title": "얼리추석 카쇼라 특가",
      "category": "패션",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "20:30",
@@ -26132,8 +26130,8 @@ window.SCHEDULE = {
    "2026-09-11",
    "2026-09-12"
   ],
-  "matched": 15,
-  "unmatched": 5
+  "matched": 13,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
