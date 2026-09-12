@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-12T21:58:46+09:00",
+ "generated_at": "2026-09-12T22:14:39+09:00",
  "today": "2026-09-12",
  "dates": [
   "2026-09-11",
@@ -24384,8 +24384,7 @@ window.SCHEDULE = {
      "slot_id": "59343",
      "pgm": "비너스와 편안한 추석!",
      "title": "젤리브라/보정업브라 외",
-     "category": "패션",
-     "hot": 10
+     "category": "패션"
     },
     {
      "start": "10:00",
@@ -24627,7 +24626,8 @@ window.SCHEDULE = {
      "slot_id": "59693",
      "pgm": "하기스 오리지널&썸머 라인업",
      "title": "쿠폰 + 페이머니 할인까지",
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 9
     }
    ],
    "2026-09-13": [
