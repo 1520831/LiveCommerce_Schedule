@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-12T19:13:19+09:00",
+ "generated_at": "2026-09-12T19:28:28+09:00",
  "today": "2026-09-12",
  "dates": [
   "2026-09-11",
@@ -8682,7 +8682,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -8817,7 +8817,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -24398,8 +24398,7 @@ window.SCHEDULE = {
      "slot_id": "59586",
      "pgm": "세타필 토이스토리 5",
      "title": "2차 굿즈 라이브 최초 공개",
-     "category": "뷰티",
-     "hot": 9
+     "category": "뷰티"
     },
     {
      "start": "10:00",
@@ -24412,7 +24411,7 @@ window.SCHEDULE = {
      "pgm": "킨도 기저귀 쟁여템",
      "title": "톡딜 특가 + 사은품 증정!",
      "category": "키즈",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -24520,7 +24519,8 @@ window.SCHEDULE = {
      "slot_id": "59430",
      "pgm": "스타벅스 앳홈 머신&캡슐",
      "title": "추가 할인+라이브 혜택까지!",
-     "category": "테크"
+     "category": "테크",
+     "hot": 10
     },
     {
      "start": "19:00",
