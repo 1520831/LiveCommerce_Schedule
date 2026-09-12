@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-12T09:57:13+09:00",
+ "generated_at": "2026-09-12T10:11:04+09:00",
  "today": "2026-09-12",
  "dates": [
   "2026-09-11",
@@ -2878,7 +2878,7 @@ window.SCHEDULE = {
      "pgm_cd": "1109",
      "category": "여성패션",
      "cast": "influencer",
-     "hot": 4
+     "hot": 8
     },
     {
      "start": "09:00",
@@ -2904,8 +2904,7 @@ window.SCHEDULE = {
      "title": "다시보는 류니키친 출연✨ 스틸웍스와 함께하는 즐거운 요리❤️",
      "pgm": "라이브쇼",
      "pgm_cd": "1016",
-     "category": "주방·잡화",
-     "hot": 10
+     "category": "주방·잡화"
     },
     {
      "start": "10:00",
@@ -8310,7 +8309,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 5
     },
     {
      "start": "09:30",
@@ -8628,7 +8627,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 6
     },
     {
      "start": "10:00",
