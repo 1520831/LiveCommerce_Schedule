@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-12T11:25:17+09:00",
+ "generated_at": "2026-09-12T11:39:27+09:00",
  "today": "2026-09-12",
  "dates": [
   "2026-09-11",
@@ -8761,7 +8761,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -8904,7 +8904,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -24358,7 +24359,7 @@ window.SCHEDULE = {
      "pgm": "세타필 토이스토리 5",
      "title": "2차 굿즈 라이브 최초 공개",
      "category": "뷰티",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -26078,8 +26079,8 @@ window.SCHEDULE = {
    "2026-09-11",
    "2026-09-12"
   ],
-  "matched": 14,
-  "unmatched": 6
+  "matched": 15,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
