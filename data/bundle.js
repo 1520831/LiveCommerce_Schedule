@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-14T08:15:29+09:00",
+ "generated_at": "2026-09-14T08:28:32+09:00",
  "today": "2026-09-14",
  "dates": [
   "2026-09-13",
@@ -2462,7 +2462,8 @@ window.SCHEDULE = {
      "title": "다시보는 리뉴얼 첫방 엣지쇼🎇채컬렉티브 26FW신상",
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 10
     },
     {
      "start": "09:00",
@@ -22414,8 +22415,8 @@ window.SCHEDULE = {
    "2026-09-13",
    "2026-09-14"
   ],
-  "matched": 8,
-  "unmatched": 12
+  "matched": 9,
+  "unmatched": 11
  },
  "fixed": {
   "rows": [
