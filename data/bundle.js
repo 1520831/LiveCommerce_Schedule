@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-13T18:41:08+09:00",
+ "generated_at": "2026-09-13T19:05:54+09:00",
  "today": "2026-09-13",
  "dates": [
   "2026-09-12",
@@ -2904,7 +2904,8 @@ window.SCHEDULE = {
      "title": "LG U+ NEW 아이폰 구매시 3만원 상당 사은품",
      "pgm": "라이브쇼",
      "pgm_cd": "1008",
-     "category": "가전"
+     "category": "가전",
+     "hot": 10
     },
     {
      "start": "18:00",
@@ -7254,7 +7255,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -7507,7 +7508,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "15:00",
@@ -7939,7 +7940,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 3
+     "hot": 1
     },
     {
      "start": "18:00",
@@ -23083,8 +23084,7 @@ window.SCHEDULE = {
      "slot_id": "59709",
      "pgm": "헤이홈 2세대 스마트 홈캠",
      "title": "추석맞이 한정 특가",
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "11:30",
