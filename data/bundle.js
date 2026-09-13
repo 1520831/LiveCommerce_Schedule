@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-13T21:11:28+09:00",
+ "generated_at": "2026-09-13T21:34:13+09:00",
  "today": "2026-09-13",
  "dates": [
   "2026-09-12",
@@ -8122,8 +8122,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티",
-     "hot": 10
+     "category": "뷰티"
     },
     {
      "start": "19:00",
@@ -22298,7 +22297,8 @@ window.SCHEDULE = {
      "slot_id": "252346",
      "pgm": "[앵콜][한가위빅세일] 삼성 가전 최대 혜택 LIVE",
      "rerun": true,
-     "category": "가전"
+     "category": "가전",
+     "hot": 10
     },
     {
      "start": "21:00",
