@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-13T21:49:59+09:00",
+ "generated_at": "2026-09-13T21:58:51+09:00",
  "today": "2026-09-13",
  "dates": [
   "2026-09-12",
@@ -22299,7 +22299,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜][한가위빅세일] 삼성 가전 최대 혜택 LIVE",
      "rerun": true,
      "category": "가전",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "21:00",
