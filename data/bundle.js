@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-14T08:28:32+09:00",
+ "generated_at": "2026-09-14T08:40:22+09:00",
  "today": "2026-09-14",
  "dates": [
   "2026-09-13",
@@ -2462,8 +2462,7 @@ window.SCHEDULE = {
      "title": "다시보는 리뉴얼 첫방 엣지쇼🎇채컬렉티브 26FW신상",
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
-     "category": "여성패션",
-     "hot": 10
+     "category": "여성패션"
     },
     {
      "start": "09:00",
@@ -20748,7 +20747,8 @@ window.SCHEDULE = {
      "slot_id": "59290",
      "pgm": "우리가 믿는 물 제주 삼다수",
      "title": "한정판 굿즈 추첨 이벤트",
-     "category": "식품"
+     "category": "식품",
+     "hot": 1
     },
     {
      "start": "08:30",
