@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-13T23:43:32+09:00",
+ "updated_at": "2026-09-14T07:10:32+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -4847,14 +4847,14 @@
     "end": "17:59",
     "brand": "빈다",
     "product": "빈다 4D Deluxe 엠보싱 클래식 롤화장지 4겹 23m 10롤 4팩",
-    "price": 30000,
+    "price": 33600,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253351733",
     "slot_id": "202609136014",
     "items": [
      {
       "brand": "빈다",
       "product": "빈다 4D Deluxe 엠보싱 클래식 롤화장지 4겹 23m 10롤 4팩",
-      "price": 30000,
+      "price": 33600,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253351733"
      }
     ],
@@ -4923,14 +4923,14 @@
     "end": "20:59",
     "brand": "듀오백",
     "product": "브라보 BR-200C 메쉬 컴퓨터 책상 의자",
-    "price": 339000,
+    "price": 399000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2235012443",
     "slot_id": "202609136015",
     "items": [
      {
       "brand": "듀오백",
       "product": "브라보 BR-200C 메쉬 컴퓨터 책상 의자",
-      "price": 339000,
+      "price": 399000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2235012443"
      }
     ],
@@ -5210,14 +5210,14 @@
     "end": "15:59",
     "brand": "밋앤밀",
     "product": "한우1++ 선물세트 1.1kg (꽃등심 250g+특수부위 250g+불고기 300g+국거리 300g)",
-    "price": 114300,
+    "price": 99900,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253434999",
     "slot_id": "202609146009",
     "items": [
      {
       "brand": "밋앤밀",
       "product": "한우1++ 선물세트 1.1kg (꽃등심 250g+특수부위 250g+불고기 300g+국거리 300g)",
-      "price": 114300,
+      "price": 99900,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253434999"
      }
     ],
@@ -5440,14 +5440,14 @@
     "end": "09:59",
     "brand": "미소페",
     "product": "여성 로퍼 012439702 6cm 2color 012439702",
-    "price": 179000,
+    "price": 129000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2215827461",
     "slot_id": "202609156004",
     "items": [
      {
       "brand": "미소페",
       "product": "여성 로퍼 012439702 6cm 2color 012439702",
-      "price": 179000,
+      "price": 129000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2215827461"
      }
     ],
@@ -5822,14 +5822,14 @@
     "end": "12:59",
     "brand": "경복궁",
     "product": "궁중본갈비 600gx3팩",
-    "price": 169200,
+    "price": 130000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2152668475",
     "slot_id": "202609166005",
     "items": [
      {
       "brand": "경복궁",
       "product": "궁중본갈비 600gx3팩",
-      "price": 169200,
+      "price": 130000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2152668475"
      }
     ],
@@ -6390,6 +6390,122 @@
     ],
     "title": "김포현대아울렛 듀엘💙UP TO 70%▼",
     "pgm": "[듀엘] 여성의류 (멀티커머스)"
+   }
+  ],
+  "2026-09-19": [
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "러브앤쇼",
+    "product": "GCGJGJK05 워싱 포켓 데님 자켓",
+    "price": 78000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253235250",
+    "slot_id": "202609196002",
+    "items": [
+     {
+      "brand": "러브앤쇼",
+      "product": "GCGJGJK05 워싱 포켓 데님 자켓",
+      "price": 78000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253235250"
+     }
+    ],
+    "title": "[러브앤쇼] 선선한 가을에 입기 딱 좋은 추천코디템",
+    "pgm": "[러브앤쇼] 의류 (패션1Lab)"
+   },
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "포커스",
+    "product": "FS6B9JK5300 라인 노카라 트위드 자켓",
+    "price": 26900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248732074",
+    "slot_id": "202609196003",
+    "items": [
+     {
+      "brand": "포커스",
+      "product": "FS6B9JK5300 라인 노카라 트위드 자켓",
+      "price": 26900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248732074"
+     }
+    ],
+    "title": "[포커스] 가을의 계절, FW오픈&간절기템 모음전",
+    "pgm": "[포커스] 의류 (패션1Lab)"
+   },
+   {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "청고담",
+    "product": "6년근 발효 홍삼 배도라지 진액 스틱 30포/50포 (영주소공인지원센터)",
+    "price": 53300,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253392369",
+    "slot_id": "202609196004",
+    "items": [
+     {
+      "brand": "청고담",
+      "product": "6년근 발효 홍삼 배도라지 진액 스틱 30포/50포 (영주소공인지원센터)",
+      "price": 53300,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253392369"
+     }
+    ],
+    "title": "[풍기 현지방송] 풍기 특산품 추석선물 특집방송",
+    "pgm": "[스타일오브마인] 홍삼/벌꿀 (쇼핑라이브)"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "선진포크한돈",
+    "product": "명품 갈비찜 1kg",
+    "price": 20900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2204754187",
+    "slot_id": "202609196008",
+    "items": [
+     {
+      "brand": "선진포크한돈",
+      "product": "명품 갈비찜 1kg",
+      "price": 20900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2204754187"
+     }
+    ],
+    "title": "[집방쇼라]선진포크한돈 명절 특집 쇼라!",
+    "pgm": "[집방] 선진포크한돈 삼겹살(일반식품2)"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "타미힐피거",
+    "product": "[타미진] 여성 슬림 케이블 크루넥 가디건 라이트그레이 T32G7KCD17TWT1 T32G7KCD17TWT2",
+    "price": 199000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253284144",
+    "slot_id": "202609196010",
+    "items": [
+     {
+      "brand": "타미힐피거",
+      "product": "[타미진] 여성 슬림 케이블 크루넥 가디건 라이트그레이 T32G7KCD17TWT1 T32G7KCD17TWT2",
+      "price": 199000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253284144"
+     }
+    ],
+    "title": "원영 PICK! 타미진 방송중 최대 20%쿠폰헤택",
+    "pgm": "백구쇼 (멀티커머스)"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "디아루체",
+    "product": "디아루체 26SS 울 100 워셔블 가디건 1종",
+    "price": 49900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247033660",
+    "slot_id": "202609196011",
+    "items": [
+     {
+      "brand": "디아루체",
+      "product": "디아루체 26SS 울 100 워셔블 가디건 1종",
+      "price": 49900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247033660"
+     }
+    ],
+    "title": "디아루체 26FW 최신상 ★ 방송에서만 할인쿠폰 10%",
+    "pgm": "[디아루체] 의류 (패션4Lab)"
    }
   ]
  }
