@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-13T10:11:46+09:00",
+ "generated_at": "2026-09-13T10:29:28+09:00",
  "today": "2026-09-13",
  "dates": [
   "2026-09-12",
@@ -2585,8 +2585,7 @@ window.SCHEDULE = {
      "pgm": "잇솔지",
      "pgm_cd": "1109",
      "category": "여성패션",
-     "cast": "influencer",
-     "hot": 5
+     "cast": "influencer"
     },
     {
      "start": "09:00",
@@ -2613,7 +2612,7 @@ window.SCHEDULE = {
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
      "category": "여성패션",
-     "hot": 2
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -7018,7 +7017,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -7267,7 +7267,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 9
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -22894,7 +22894,8 @@ window.SCHEDULE = {
      "slot_id": "59288",
      "pgm": "이즈니 생메르 버터컵 특가",
      "title": "하코야 냉우동 한반12 외",
-     "category": "식품"
+     "category": "식품",
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -22930,7 +22931,8 @@ window.SCHEDULE = {
      "slot_id": "59709",
      "pgm": "헤이홈 2세대 스마트 홈캠",
      "title": "추석맞이 한정 특가",
-     "category": "테크"
+     "category": "테크",
+     "hot": 6
     },
     {
      "start": "11:30",
@@ -24625,8 +24627,8 @@ window.SCHEDULE = {
    "2026-09-12",
    "2026-09-13"
   ],
-  "matched": 12,
-  "unmatched": 8
+  "matched": 14,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
