@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-13T11:29:44+09:00",
+ "generated_at": "2026-09-13T11:43:32+09:00",
  "today": "2026-09-13",
  "dates": [
   "2026-09-12",
@@ -22895,7 +22895,7 @@ window.SCHEDULE = {
      "pgm": "이즈니 생메르 버터컵 특가",
      "title": "하코야 냉우동 한반12 외",
      "category": "식품",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -22932,7 +22932,7 @@ window.SCHEDULE = {
      "pgm": "헤이홈 2세대 스마트 홈캠",
      "title": "추석맞이 한정 특가",
      "category": "테크",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "11:30",
