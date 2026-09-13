@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-13T17:53:33+09:00",
+ "generated_at": "2026-09-13T18:32:26+09:00",
  "today": "2026-09-13",
  "dates": [
   "2026-09-12",
@@ -2813,7 +2813,7 @@ window.SCHEDULE = {
      "pgm": "잇솔지",
      "pgm_cd": "1109",
      "cast": "influencer",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "17:00",
@@ -6637,7 +6637,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "09:30",
@@ -7137,7 +7137,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -7886,7 +7886,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 3
     },
     {
      "start": "18:00",
@@ -22983,8 +22984,7 @@ window.SCHEDULE = {
      "slot_id": "59288",
      "pgm": "이즈니 생메르 버터컵 특가",
      "title": "하코야 냉우동 한반12 외",
-     "category": "식품",
-     "hot": 10
+     "category": "식품"
     },
     {
      "start": "10:00",
@@ -23021,7 +23021,7 @@ window.SCHEDULE = {
      "pgm": "헤이홈 2세대 스마트 홈캠",
      "title": "추석맞이 한정 특가",
      "category": "테크",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "11:30",
