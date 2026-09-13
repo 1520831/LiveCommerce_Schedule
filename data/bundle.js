@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-13T10:43:08+09:00",
+ "generated_at": "2026-09-13T10:55:43+09:00",
  "today": "2026-09-13",
  "dates": [
   "2026-09-12",
@@ -2612,7 +2612,7 @@ window.SCHEDULE = {
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
      "category": "여성패션",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -7018,7 +7018,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -7267,7 +7267,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -22932,7 +22932,7 @@ window.SCHEDULE = {
      "pgm": "헤이홈 2세대 스마트 홈캠",
      "title": "추석맞이 한정 특가",
      "category": "테크",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "11:30",
