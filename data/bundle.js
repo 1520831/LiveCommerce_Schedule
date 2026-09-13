@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-13T20:55:06+09:00",
+ "generated_at": "2026-09-13T21:11:28+09:00",
  "today": "2026-09-13",
  "dates": [
   "2026-09-12",
@@ -7252,7 +7252,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -7505,7 +7505,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "15:00",
@@ -8122,7 +8122,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 10
     },
     {
      "start": "19:00",
@@ -8555,7 +8556,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 5
+     "hot": 3
     },
     {
      "start": "20:00",
@@ -8741,7 +8742,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 10
+     "hot": 7
     },
     {
      "start": "20:00",
@@ -9553,7 +9554,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "20:00",
@@ -24803,8 +24804,8 @@ window.SCHEDULE = {
    "2026-09-12",
    "2026-09-13"
   ],
-  "matched": 15,
-  "unmatched": 5
+  "matched": 16,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
