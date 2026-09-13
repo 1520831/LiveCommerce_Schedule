@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-09-13T12:09:57+09:00",
+ "updated_at": "2026-09-13T18:40:06+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -2551,7 +2551,7 @@
    },
    {
     "start": "11:30",
-    "end": "13:00",
+    "end": "12:31",
     "brand": "돈시몬 공식몰",
     "product": "[돈시몬 공식] 100% NFC 착즙주스 2L&1L 토마토/오렌지/적포도/만다린/자몽/사과 등 돈시몬 전구성 모음전",
     "price": 55000,
@@ -2563,7 +2563,7 @@
    },
    {
     "start": "11:30",
-    "end": "13:00",
+    "end": "12:31",
     "brand": "킨드나나",
     "product": "[킨드나나] 새 계절의 시작!빠르게 만나는 FW 데일리 신상 파자마 100종",
     "price": 29800,
@@ -2575,7 +2575,7 @@
    },
    {
     "start": "11:30",
-    "end": "13:00",
+    "end": "12:30",
     "brand": "CLA KOREA",
     "product": "CLA 클라 국산 고농축 2in1 실내건조 캡슐세제 듀얼클린 100개 외 인기상품 모음전",
     "price": 20000,
@@ -2587,7 +2587,7 @@
    },
    {
     "start": "11:30",
-    "end": "13:00",
+    "end": "12:30",
     "brand": "청년상점",
     "product": "달콤한 안동 홍로사과 3kg 중대과 12-14과 외 4kg 대과",
     "price": 29900,
@@ -2598,11 +2598,23 @@
     "category": "식품"
    },
    {
+    "start": "13:00",
+    "end": "14:01",
+    "brand": "온라인가구닷컴",
+    "product": "앳홈 데임 아쿠아텍스 데이베드 소파베드 A(프레임+매트)",
+    "price": 306900,
+    "link": "https://store.kakao.com/onlinegagu/products/341458523",
+    "slot_id": "60141",
+    "pgm": "적은 비용으로 고급스러운",
+    "title": "공간으로 만드는 원목가구",
+    "category": "리빙"
+   },
+   {
     "start": "18:00",
     "end": "19:30",
     "brand": "쿼드쎄라",
     "product": "쿼드쎄라 틴즈 (+전용 젤, 버블 세럼, 쇼핑백 증정)",
-    "price": 209000,
+    "price": 250000,
     "link": "https://store.kakao.com/quadthera/products/780350924",
     "slot_id": "59759",
     "pgm": "원조 물방울초음파 쿼드쎄라",
@@ -2626,7 +2638,7 @@
     "end": "22:00",
     "brand": "농심 브랜드스토어",
     "product": "라이필 더마콜라겐 시그니처 에센스 1입 외 골라담기",
-    "price": 27500,
+    "price": 52800,
     "link": "https://store.kakao.com/nongshim/products/723603335",
     "slot_id": "59500",
     "pgm": "콜라겐 선택 기준 라이필",
@@ -2662,7 +2674,7 @@
     "end": "20:30",
     "brand": "비윗유",
     "product": "추석선물) 비윗유 호주산 프로폴리스 스프레이+캔디 선물세트",
-    "price": 29800,
+    "price": 35900,
     "link": "https://store.kakao.com/beewithyou/products/711423650",
     "slot_id": "60085",
     "pgm": "추석선물) 비윗유",
@@ -3004,7 +3016,7 @@
     "end": "22:00",
     "brand": "온다",
     "product": "[제주신화월드/랜딩관] 룸온리/ 조식 패키지 /2박 패키지 (~연말투숙오픈)",
-    "price": 110000,
+    "price": 864000,
     "link": "https://store.kakao.com/ondaselect/products/781384036",
     "slot_id": "59432",
     "pgm": "제주신화월드 3개관 기획전",
@@ -3051,8 +3063,8 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "MEAL IT 밀잇",
-    "product": "[1+1] 밀잇 식단관리 모음 단백질 쉐이크 11가지맛 (시리얼, 미숫가루, 초코, 흑임자)",
-    "price": 49000,
+    "product": "밀잇 식단관리 모음 단백질 쉐이크 11가지맛 (시리얼, 미숫가루, 초코, 흑임자)",
+    "price": 75600,
     "link": "https://store.kakao.com/mealit/products/567438813",
     "slot_id": "59520",
     "pgm": "밀잇 추석 전 배송 완료",
@@ -3811,6 +3823,18 @@
     "pgm": "트루쿡 칼집/이염 최소화",
     "title": "TPU 도마 & 스텐 도마!",
     "category": "리빙"
+   },
+   {
+    "start": "12:30",
+    "end": "14:00",
+    "brand": "만수동떡볶이만떡",
+    "product": "떡볶이 7가지맛 내맘대로 무료배송 300g 밀키트 만수동떡볶이 만떡",
+    "price": 3400,
+    "link": "https://store.kakao.com/mantteok/products/678920045",
+    "slot_id": "60142",
+    "pgm": "2900원 떡볶이 7가지맛",
+    "title": "6+1 더하기 10%쿠폰",
+    "category": "식품"
    },
    {
     "start": "15:00",

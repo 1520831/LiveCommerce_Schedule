@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-13T12:09:42+09:00",
+ "updated_at": "2026-09-13T18:39:50+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -4714,14 +4714,14 @@
     "end": "12:59",
     "brand": "프로그",
     "product": "고무장갑 컴포트 베이비핑크 3p + 애쉬블루 3p (중형)",
-    "price": 9900,
+    "price": 21900,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253197125",
     "slot_id": "202609136003",
     "items": [
      {
       "brand": "프로그",
       "product": "고무장갑 컴포트 베이비핑크 3p + 애쉬블루 3p (중형)",
-      "price": 9900,
+      "price": 21900,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253197125"
      }
     ],
@@ -4955,6 +4955,25 @@
     ],
     "title": "[LG] LOL 다품목 특집전",
     "pgm": "[LG] 특별전 (가전)"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "르무통",
+    "product": "LEMOUTON 메이트 발 편한 메리노울 운동화",
+    "price": 129900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2243947022",
+    "slot_id": "202609136022",
+    "items": [
+     {
+      "brand": "르무통",
+      "product": "LEMOUTON 메이트 발 편한 메리노울 운동화",
+      "price": 129900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2243947022"
+     }
+    ],
+    "title": "르무통으로 준비하는 편안한 한가위",
+    "pgm": "[재방] 르무통 제화 (패션잡화)"
    },
    {
     "start": "22:00",
@@ -5337,6 +5356,25 @@
     ],
     "title": "[티르리르] 추석선물 추천! 24K코인/14K주얼리 外",
     "pgm": "[티르리르] 주얼리 (멀티커머스)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "에고이스트",
+    "product": "보트넥 기본핏 프린팅 티셔츠 ES3OTL01(2color) ES3OTL01",
+    "price": 50370,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252843229",
+    "slot_id": "202609146016",
+    "items": [
+     {
+      "brand": "에고이스트",
+      "product": "보트넥 기본핏 프린팅 티셔츠 ES3OTL01(2color) ES3OTL01",
+      "price": 50370,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252843229"
+     }
+    ],
+    "title": "[에고이스트] 가을에도 트렌디한 아이템 총집합💥",
+    "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ],
   "2026-09-15": [

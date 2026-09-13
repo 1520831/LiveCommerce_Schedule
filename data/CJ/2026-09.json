@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-09-13T12:09:48+09:00",
+ "updated_at": "2026-09-13T18:39:56+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -6496,7 +6496,7 @@
     "brand": "",
     "product": "잇솔지 애프터라이브💗셀렙샵에디션 밍크 한정수량 특가+26FW 최초공개",
     "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/29177",
+    "link": "https://mlive.cjonstyle.com/m/mlc/main/29177",
     "slot_id": "29177",
     "title": "잇솔지 애프터라이브💗셀렙샵에디션 밍크 한정수량 특가+26FW 최초공개",
     "pgm": "잇솔지",
@@ -6532,11 +6532,11 @@
     "start": "18:00",
     "end": "18:59",
     "brand": "금강제화",
-    "product": "[CJ비밀가]FAIR LADY 여성 등장식 로퍼 RICPUC5760WFAIK 3종 택1",
-    "price": 59280,
-    "link": "https://item.cjonstyle.com/item/2064655045?channelCode=30002002",
+    "product": "[CJ비밀가] 2way 플랫 메리제인 RICPUC4971WFAIG1",
+    "price": 49140,
+    "link": "https://item.cjonstyle.com/item/2038850536?channelCode=30002002",
     "slot_id": "28776",
-    "title": "금강제화👞라이브 런칭 특가✨최대 74% OFF",
+    "title": "금강제화👞소가죽 4만원대~ 라이브 런칭 특가✨최대 74% OFF",
     "pgm": "브랜디드 라이브쇼",
     "pgm_cd": "1130",
     "category": "잡화·슈즈"
@@ -6549,7 +6549,7 @@
     "price": 1790000,
     "link": "https://item.cjonstyle.com/item/2093357499?channelCode=30002002",
     "slot_id": "29182",
-    "title": "NEW 새로운 아이폰 구매시 3만원 상당 사은품",
+    "title": "LG U+ NEW 아이폰 구매시 3만원 상당 사은품",
     "pgm": "라이브쇼",
     "pgm_cd": "1008",
     "category": "가전"
@@ -6609,15 +6609,15 @@
    {
     "start": "19:00",
     "end": "19:59",
-    "brand": "세라디쿠프라",
-    "product": "세라 디 쿠프라 로사 이태리 공주 크림 75ml 5EA",
-    "price": 29900,
-    "link": "https://item.cjonstyle.com/item/2091662030?channelCode=30002002",
+    "brand": "무랄리아",
+    "product": "[예약][9/22 출고]25/26 수확 햇 올리브오일 블루레인보우 500ml",
+    "price": 69000,
+    "link": "https://item.cjonstyle.com/item/2091791830?channelCode=30002002",
     "slot_id": "29411",
     "title": "다시보는💚서울에서 만나는 이탈리아 VIVA ITALIA🤍특집 방송❤️",
     "pgm": "VIVA ITALIA",
     "pgm_cd": "1133",
-    "category": "뷰티"
+    "category": "식품·건강"
    },
    {
     "start": "19:00",
@@ -7052,7 +7052,7 @@
     "end": "18:59",
     "brand": "오야니",
     "product": "[정상가 279,000]이스트웨스트백(M)_스웨이드 ODFBTT28_204",
-    "price": 208250,
+    "price": 194470,
     "link": "https://item.cjonstyle.com/item/2091963321?channelCode=30002002",
     "slot_id": "28916",
     "title": "매일 드는 26FW 오야니 신상 가방 초특가 + 최대 10만 원 적립금",
