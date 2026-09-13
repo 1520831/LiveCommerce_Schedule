@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-13T10:55:43+09:00",
+ "generated_at": "2026-09-13T11:10:36+09:00",
  "today": "2026-09-13",
  "dates": [
   "2026-09-12",
@@ -2611,8 +2611,7 @@ window.SCHEDULE = {
      "title": "다시보는 베라왕, 드베로타, 애드아보아 26FW 최신상✨",
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
-     "category": "여성패션",
-     "hot": 9
+     "category": "여성패션"
     },
     {
      "start": "10:00",
@@ -6648,7 +6647,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "09:30",
@@ -7018,7 +7017,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -7267,7 +7266,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -7308,7 +7307,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -22895,7 +22895,7 @@ window.SCHEDULE = {
      "pgm": "이즈니 생메르 버터컵 특가",
      "title": "하코야 냉우동 한반12 외",
      "category": "식품",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -22932,7 +22932,7 @@ window.SCHEDULE = {
      "pgm": "헤이홈 2세대 스마트 홈캠",
      "title": "추석맞이 한정 특가",
      "category": "테크",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "11:30",
