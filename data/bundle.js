@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-14T00:13:53+09:00",
+ "generated_at": "2026-09-14T00:28:51+09:00",
  "today": "2026-09-14",
  "dates": [
   "2026-09-13",
@@ -454,7 +454,7 @@ window.SCHEDULE = {
      ],
      "title": "고비 역대급 사계절 상품 특별가",
      "pgm": "[재방] 고비 (패션1Lab)",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "07:00",
@@ -21002,7 +21002,7 @@ window.SCHEDULE = {
    "2026-09-14"
   ],
   "matched": 8,
-  "unmatched": 8
+  "unmatched": 11
  },
  "fixed": {
   "rows": [
