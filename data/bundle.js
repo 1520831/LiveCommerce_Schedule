@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-13T19:24:32+09:00",
+ "generated_at": "2026-09-13T19:38:29+09:00",
  "today": "2026-09-13",
  "dates": [
   "2026-09-12",
@@ -2904,8 +2904,7 @@ window.SCHEDULE = {
      "title": "LG U+ NEW 아이폰 구매시 3만원 상당 사은품",
      "pgm": "라이브쇼",
      "pgm_cd": "1008",
-     "category": "가전",
-     "hot": 10
+     "category": "가전"
     },
     {
      "start": "18:00",
@@ -24803,8 +24802,8 @@ window.SCHEDULE = {
    "2026-09-12",
    "2026-09-13"
   ],
-  "matched": 15,
-  "unmatched": 5
+  "matched": 14,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
