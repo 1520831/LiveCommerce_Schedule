@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-14T07:12:16+09:00",
+ "generated_at": "2026-09-14T07:24:21+09:00",
  "today": "2026-09-14",
  "dates": [
   "2026-09-13",
@@ -453,8 +453,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "고비 역대급 사계절 상품 특별가",
-     "pgm": "[재방] 고비 (패션1Lab)",
-     "hot": 7
+     "pgm": "[재방] 고비 (패션1Lab)"
     },
     {
      "start": "07:00",
@@ -20058,7 +20057,8 @@ window.SCHEDULE = {
      "price": 0,
      "link": "https://player.sauceflex.com/broadcast/lkebay-025de1619b1243be801a30996b6e43f4",
      "slot_id": "254028",
-     "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻16"
+     "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻16",
+     "hot": 4
     },
     {
      "start": "10:00",
