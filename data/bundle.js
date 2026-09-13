@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-14T07:39:01+09:00",
+ "generated_at": "2026-09-14T07:50:08+09:00",
  "today": "2026-09-14",
  "dates": [
   "2026-09-13",
@@ -20058,7 +20058,7 @@ window.SCHEDULE = {
      "link": "https://player.sauceflex.com/broadcast/lkebay-025de1619b1243be801a30996b6e43f4",
      "slot_id": "254028",
      "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻16",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "10:00",
