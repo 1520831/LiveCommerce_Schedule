@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-13T17:15:20+09:00",
+ "generated_at": "2026-09-13T17:17:50+09:00",
  "today": "2026-09-13",
  "dates": [
   "2026-09-12",
@@ -2813,7 +2813,7 @@ window.SCHEDULE = {
      "pgm": "잇솔지",
      "pgm_cd": "1109",
      "cast": "influencer",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "17:00",
