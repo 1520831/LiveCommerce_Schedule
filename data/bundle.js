@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-13T21:58:51+09:00",
+ "generated_at": "2026-09-13T22:15:30+09:00",
  "today": "2026-09-13",
  "dates": [
   "2026-09-12",
@@ -3008,7 +3008,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "1008",
      "category": "가구·침구",
-     "hot": 10
+     "hot": 9
     },
     {
      "start": "20:00",
@@ -7252,7 +7252,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -7505,7 +7505,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 5
+     "hot": 3
     },
     {
      "start": "15:00",
@@ -8555,7 +8555,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 4
+     "hot": 8
     },
     {
      "start": "20:00",
@@ -8741,7 +8741,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 8
+     "hot": 7
     },
     {
      "start": "20:00",
@@ -8791,8 +8791,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 1
+     "category": "푸드"
     },
     {
      "start": "20:00",
@@ -9553,7 +9552,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 6
+     "hot": 4
     },
     {
      "start": "20:00",
@@ -22274,7 +22273,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]로보락감사제🎉QrevoLPro 특가 최초공개",
      "rerun": true,
      "category": "가전",
-     "hot": 9
+     "hot": 5
     },
     {
      "start": "21:00",
@@ -22299,7 +22298,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜][한가위빅세일] 삼성 가전 최대 혜택 LIVE",
      "rerun": true,
      "category": "가전",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "21:00",
@@ -24805,8 +24804,8 @@ window.SCHEDULE = {
    "2026-09-12",
    "2026-09-13"
   ],
-  "matched": 17,
-  "unmatched": 3
+  "matched": 16,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
