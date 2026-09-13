@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-13T20:40:57+09:00",
+ "generated_at": "2026-09-13T20:55:06+09:00",
  "today": "2026-09-13",
  "dates": [
   "2026-09-12",
@@ -2850,8 +2850,7 @@ window.SCHEDULE = {
      "title": "잇솔지 애프터라이브💗셀렙샵에디션 밍크 한정수량 특가+26FW 최초공개",
      "pgm": "잇솔지",
      "pgm_cd": "1109",
-     "cast": "influencer",
-     "hot": 10
+     "cast": "influencer"
     },
     {
      "start": "17:00",
@@ -3008,7 +3007,8 @@ window.SCHEDULE = {
      "title": "시몬스 아를라 & D2178A 👀카드10%+적립금10%+추가사은품",
      "pgm": "라이브쇼",
      "pgm_cd": "1008",
-     "category": "가구·침구"
+     "category": "가구·침구",
+     "hot": 8
     },
     {
      "start": "20:00",
@@ -6674,8 +6674,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈",
-     "hot": 9
+     "category": "키즈"
     },
     {
      "start": "09:30",
@@ -8123,8 +8122,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티",
-     "hot": 8
+     "category": "뷰티"
     },
     {
      "start": "19:00",
@@ -8557,7 +8555,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "20:00",
@@ -8742,7 +8740,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 10
     },
     {
      "start": "20:00",
@@ -9554,7 +9553,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "20:00",
@@ -24804,8 +24803,8 @@ window.SCHEDULE = {
    "2026-09-12",
    "2026-09-13"
   ],
-  "matched": 16,
-  "unmatched": 4
+  "matched": 15,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
