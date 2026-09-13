@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-13T12:51:02+09:00",
+ "generated_at": "2026-09-13T17:15:01+09:00",
  "today": "2026-09-13",
  "dates": [
   "2026-09-12",
@@ -2812,7 +2812,8 @@ window.SCHEDULE = {
      "title": "잇솔지 애프터라이브💗셀렙샵에디션 밍크 한정수량 특가+26FW 최초공개",
      "pgm": "잇솔지",
      "pgm_cd": "1109",
-     "cast": "influencer"
+     "cast": "influencer",
+     "hot": 5
     },
     {
      "start": "17:00",
@@ -6636,7 +6637,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "09:30",
@@ -7093,8 +7094,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프",
-     "hot": 10
+     "category": "라이프"
     },
     {
      "start": "11:00",
@@ -7137,7 +7137,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 2
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -7216,7 +7216,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -7469,7 +7469,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 3
+     "hot": 1
     },
     {
      "start": "15:00",
@@ -22984,7 +22984,7 @@ window.SCHEDULE = {
      "pgm": "이즈니 생메르 버터컵 특가",
      "title": "하코야 냉우동 한반12 외",
      "category": "식품",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -23021,7 +23021,7 @@ window.SCHEDULE = {
      "pgm": "헤이홈 2세대 스마트 홈캠",
      "title": "추석맞이 한정 특가",
      "category": "테크",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "11:30",
