@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-13T20:28:27+09:00",
+ "generated_at": "2026-09-13T20:40:57+09:00",
  "today": "2026-09-13",
  "dates": [
   "2026-09-12",
@@ -2851,7 +2851,7 @@ window.SCHEDULE = {
      "pgm": "잇솔지",
      "pgm_cd": "1109",
      "cast": "influencer",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "17:00",
@@ -6675,7 +6675,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "09:30",
@@ -8124,7 +8124,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "19:00",
@@ -8556,7 +8556,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 6
     },
     {
      "start": "20:00",
@@ -9552,7 +9553,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 7
     },
     {
      "start": "20:00",
@@ -24802,8 +24804,8 @@ window.SCHEDULE = {
    "2026-09-12",
    "2026-09-13"
   ],
-  "matched": 14,
-  "unmatched": 6
+  "matched": 16,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
