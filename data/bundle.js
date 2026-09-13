@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-13T19:38:29+09:00",
+ "generated_at": "2026-09-13T19:49:12+09:00",
  "today": "2026-09-13",
  "dates": [
   "2026-09-12",
@@ -2851,7 +2851,7 @@ window.SCHEDULE = {
      "pgm": "잇솔지",
      "pgm_cd": "1109",
      "cast": "influencer",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "17:00",
@@ -6675,7 +6675,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "09:30",
@@ -7175,7 +7175,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "11:00",
