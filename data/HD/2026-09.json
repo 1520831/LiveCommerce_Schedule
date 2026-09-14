@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-14T23:48:34+09:00",
+ "updated_at": "2026-09-15T07:11:10+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -5172,14 +5172,14 @@
     "end": "13:59",
     "brand": "루블리",
     "product": "[루블리] GRA인증 모이사나이트 테니스팔찌 3mm+1캐럿 귀걸이",
-    "price": 198000,
+    "price": 227700,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253245482",
     "slot_id": "202609146007",
     "items": [
      {
       "brand": "루블리",
       "product": "[루블리] GRA인증 모이사나이트 테니스팔찌 3mm+1캐럿 귀걸이",
-      "price": 198000,
+      "price": 227700,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253245482"
      }
     ],
@@ -5210,14 +5210,14 @@
     "end": "15:59",
     "brand": "밋앤밀",
     "product": "한우1++ 선물세트 1.1kg (꽃등심 250g+특수부위 250g+불고기 300g+국거리 300g)",
-    "price": 99900,
+    "price": 114300,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253434999",
     "slot_id": "202609146009",
     "items": [
      {
       "brand": "밋앤밀",
       "product": "한우1++ 선물세트 1.1kg (꽃등심 250g+특수부위 250g+불고기 300g+국거리 300g)",
-      "price": 99900,
+      "price": 114300,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253434999"
      }
     ],
@@ -5398,14 +5398,14 @@
     "end": "21:59",
     "brand": "밋앤밀",
     "product": "한우1++ 선물세트 1.1kg (꽃등심 250g+특수부위 250g+불고기 300g+국거리 300g)",
-    "price": 99900,
+    "price": 114300,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253434999",
     "slot_id": "202609146024",
     "items": [
      {
       "brand": "밋앤밀",
       "product": "한우1++ 선물세트 1.1kg (꽃등심 250g+특수부위 250g+불고기 300g+국거리 300g)",
-      "price": 99900,
+      "price": 114300,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253434999"
      }
     ],
@@ -5571,14 +5571,14 @@
     "end": "11:59",
     "brand": "레고",
     "product": "닌자고 71868 와일드파이어의 변신 드래곤 로봇 [레고공식]",
-    "price": 139900,
+    "price": 130100,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250990020",
     "slot_id": "202609156006",
     "items": [
      {
       "brand": "레고",
       "product": "닌자고 71868 와일드파이어의 변신 드래곤 로봇 [레고공식]",
-      "price": 139900,
+      "price": 130100,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250990020"
      }
     ],
@@ -6846,6 +6846,179 @@
     ],
     "title": "디아루체 26FW 최신상 ★ 방송에서만 할인쿠폰 10%",
     "pgm": "[디아루체] 의류 (패션4Lab)"
+   }
+  ],
+  "2026-09-20": [
+   {
+    "start": "00:00",
+    "end": "00:59",
+    "brand": "한민금거래소",
+    "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
+    "price": 261600,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581",
+    "slot_id": "202609206017",
+    "items": [
+     {
+      "brand": "한민금거래소",
+      "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
+      "price": 261600,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581"
+     }
+    ],
+    "title": "[한민금거래소] 금을 생산하는 기업!",
+    "pgm": "[재방] 한민금거래소 (패션잡화)"
+   },
+   {
+    "start": "07:00",
+    "end": "07:59",
+    "brand": "에클랏",
+    "product": "18K 보티첼리(Botticelli) 네크리스",
+    "price": 1199000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252750279",
+    "slot_id": "202609206016",
+    "items": [
+     {
+      "brand": "에클랏",
+      "product": "18K 보티첼리(Botticelli) 네크리스",
+      "price": 1199000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252750279"
+     }
+    ],
+    "title": "[노블리타] 이태리 18K 주얼리 월 7천원대부터~",
+    "pgm": "[재방] 노블리타 (노블레스)"
+   },
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "오픈클로젯",
+    "product": "DO26AVT780 엠보누비베스트",
+    "price": 19900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253246970",
+    "slot_id": "202609206002",
+    "items": [
+     {
+      "brand": "오픈클로젯",
+      "product": "DO26AVT780 엠보누비베스트",
+      "price": 19900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253246970"
+     }
+    ],
+    "title": "[오픈클로젯] FW오픈, 가을에도 무드있는 코디룩",
+    "pgm": "[오픈클로젯] 의류 (패션1Lab)"
+   },
+   {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "자연의정",
+    "product": "제철과일 고당도 홍로사과 A급 가정용 정품 소과 5kg 26∼38과",
+    "price": 21900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250372557",
+    "slot_id": "202609206004",
+    "items": [
+     {
+      "brand": "자연의정",
+      "product": "제철과일 고당도 홍로사과 A급 가정용 정품 소과 5kg 26∼38과",
+      "price": 21900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250372557"
+     }
+    ],
+    "title": "홍로사과 및 사과배선물세트 쇼라 핫딜",
+    "pgm": "[집방] 자연의정 과일 (일반식품2)"
+   },
+   {
+    "start": "13:00",
+    "end": "13:59",
+    "brand": "LG전자",
+    "product": "정수기 구독/렌탈 종합 상담",
+    "price": 3520800,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253182047",
+    "slot_id": "202609206001",
+    "items": [
+     {
+      "brand": "LG전자",
+      "product": "정수기 구독/렌탈 종합 상담",
+      "price": 3520800,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253182047"
+     }
+    ],
+    "title": "[LG정수기] 구독/렌탈 AI정수기 핫딜",
+    "pgm": "[재방] LG 정수기 (렌탈)"
+   },
+   {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "미미달",
+    "product": "셀라던 자수 핸드타월",
+    "price": 16000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253264621",
+    "slot_id": "202609206013",
+    "items": [
+     {
+      "brand": "미미달",
+      "product": "셀라던 자수 핸드타월",
+      "price": 16000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253264621"
+     }
+    ],
+    "title": "[미미달] 추석 선물추천! 전통잡화 특집전 ❤️",
+    "pgm": "[집방] 미미달 (패션잡화)"
+   },
+   {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "고려홍삼원",
+    "product": "고려홍삼정 홍삼100 농축액 골드 240g x 2병",
+    "price": 145000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247033354",
+    "slot_id": "202609206006",
+    "items": [
+     {
+      "brand": "고려홍삼원",
+      "product": "고려홍삼정 홍삼100 농축액 골드 240g x 2병",
+      "price": 145000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247033354"
+     }
+    ],
+    "title": "[고려홍삼원] 고품질, 높은 함량! 홍삼의 재발견🫚",
+    "pgm": "[고려홍삼원] 홍삼 (쇼핑라이브)"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "프리마클라쎄",
+    "product": "멜팅울 홀가먼트 가디건 1종",
+    "price": 159000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252779448",
+    "slot_id": "202609206007",
+    "items": [
+     {
+      "brand": "프리마클라쎄",
+      "product": "멜팅울 홀가먼트 가디건 1종",
+      "price": 159000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252779448"
+     }
+    ],
+    "title": "[1A CLASSE] 26FW 최신상 최초 공개전",
+    "pgm": "현대쇼룸 (패션)"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "세라젬",
+    "product": "[라이브] 세라젬 웰모아  W2 안마의자",
+    "price": 2200000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252194043",
+    "slot_id": "202609206008",
+    "items": [
+     {
+      "brand": "세라젬",
+      "product": "[라이브] 세라젬 웰모아  W2 안마의자",
+      "price": 2200000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252194043"
+     }
+    ],
+    "title": "[세라젬] 웰모아 안마의자 핫딜🔥",
+    "pgm": "[세라젬] 안마의자 (렌탈)"
    }
   ]
  }
