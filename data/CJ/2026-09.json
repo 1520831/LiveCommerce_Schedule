@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-09-14T18:15:40+09:00",
+ "updated_at": "2026-09-14T23:48:39+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -7010,9 +7010,9 @@
     "start": "17:00",
     "end": "17:59",
     "brand": "바이탈플랜트",
-    "product": "26년최신상 바이탈플랜트 롤팬 플러스+ (크림 컬러 한정)",
-    "price": 149000,
-    "link": "https://item.cjonstyle.com/item/2090297394?channelCode=30002002",
+    "product": "롤팬 플러스+ 자동회전냄비 3종 택1(블랙/그레이/크림)",
+    "price": 179000,
+    "link": "https://item.cjonstyle.com/item/2091626179?channelCode=30002002",
     "slot_id": "29428",
     "title": "김신영이산다🏠품절사태 바이탈플랜트 롤팬 한정수량 확보",
     "pgm": "김신영이 산다",
@@ -7166,7 +7166,7 @@
     "end": "20:59",
     "brand": "똘똘한쇼",
     "product": "[청담 1호] 1++ 등급 최고네 한우 선물세트 650g (꽃등심200g+채끝150g+불고기150g+국거리150g)",
-    "price": 83600,
+    "price": 79000,
     "link": "https://item.cjonstyle.com/item/2093234178?channelCode=30002002",
     "slot_id": "29202",
     "title": "[똘똘한쇼]HACCP 인증 1++ 등급 한우 선물세트🥩",
@@ -7221,7 +7221,7 @@
     "price": 1350000,
     "link": "https://item.cjonstyle.com/item/2093441727?channelCode=30002002",
     "slot_id": "29435",
-    "title": "전자전능X아이폰 SKT 사전예약 마지막 혜택 라이브!✨",
+    "title": "전자전능X아이폰18🌟 SKT 사전예약 마지막 혜택 라이브!✨",
     "pgm": "전자전능",
     "pgm_cd": "1020",
     "category": "가전"
@@ -7256,9 +7256,9 @@
     "start": "21:45",
     "end": "22:44",
     "brand": "에스트라",
-    "product": "[LIVE]  아토베리어365 크림 80ml 4개",
+    "product": "[LIVE]  아토베리어365 하이드로 수딩크림 80ml 4개",
     "price": 99000,
-    "link": "https://item.cjonstyle.com/item/2010229041?channelCode=30002002",
+    "link": "https://item.cjonstyle.com/item/2086517909?channelCode=30002002",
     "slot_id": "29436",
     "title": "굿라이프x에스트라💦온가족 크림, 로션은 아토베리어! 역대급 혜택",
     "pgm": "굿라이프",
@@ -7720,14 +7720,15 @@
    {
     "start": "20:00",
     "end": "20:59",
-    "brand": "",
-    "product": "🚨오늘만 ~76%할인🚨 벨르제이 역대급 최저가 찬스!",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/29449",
+    "brand": "벨르제이",
+    "product": "캐비어크림 시즌2 50ml 11개",
+    "price": 399000,
+    "link": "https://item.cjonstyle.com/item/2084111842?channelCode=30002002",
     "slot_id": "29449",
     "title": "🚨오늘만 ~76%할인🚨 벨르제이 역대급 최저가 찬스!",
     "pgm": "겟잇스타일 프렌즈",
-    "pgm_cd": "1106"
+    "pgm_cd": "1106",
+    "category": "뷰티"
    },
    {
     "start": "20:00",
@@ -7766,6 +7767,19 @@
     "title": "다시보는 💛LG 워시타워 & 제습기 쿠폰 특가!",
     "pgm": "라이브쇼",
     "pgm_cd": "1007",
+    "category": "가전"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "LG전자",
+    "product": "[직영]LG HOM-BOT AI 오브제컬렉션 RONi(로니) (히든스테이션) N95TWU",
+    "price": 2396118,
+    "link": "https://item.cjonstyle.com/item/2093197635?channelCode=30002002",
+    "slot_id": "29451",
+    "title": "LG전자 로봇청소기 로니 초특가! 청소+빨래하는날 개운한 가격!",
+    "pgm": "하우스윗",
+    "pgm_cd": "1048",
     "category": "가전"
    },
    {
@@ -8328,6 +8342,19 @@
    {
     "start": "11:00",
     "end": "11:59",
+    "brand": "맛있는家",
+    "product": "[농협안심한우] 1등급 한우 명품구이 선물세트 1.2kg (꽃등심/채끝/차돌박이/실속구이)",
+    "price": 129000,
+    "link": "https://item.cjonstyle.com/item/2046146476?channelCode=30002002",
+    "slot_id": "29473",
+    "title": "맛있는家/(수축산)농협안심한우X다농과일선물세트",
+    "pgm": "푸드온다",
+    "pgm_cd": "1018",
+    "category": "식품·건강"
+   },
+   {
+    "start": "11:00",
+    "end": "11:59",
     "brand": "유로모피",
     "product": "[바로도착][CJ단독][최초가299,000원]아일랜드 울 100% 쿼터넥 하프코트",
     "price": 159200,
@@ -8483,7 +8510,7 @@
     "end": "21:59",
     "brand": "말본골프",
     "product": "래글런 컬러블럭 재킷 OFF WHITE (WOMAN)",
-    "price": 351200,
+    "price": 326620,
     "link": "https://item.cjonstyle.com/item/2084889597?channelCode=30002002",
     "slot_id": "29484",
     "title": "Hi해나🖐️말본골프 본사 공식 LIVE! 가을 신상 역대 최저가",
