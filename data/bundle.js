@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-14T14:31:49+09:00",
+ "generated_at": "2026-09-14T14:48:01+09:00",
  "today": "2026-09-14",
  "dates": [
   "2026-09-13",
@@ -8907,7 +8907,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -8956,7 +8956,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -9326,7 +9326,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -9685,7 +9685,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -9877,8 +9877,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "패션",
-     "hot": 10
+     "category": "패션"
     },
     {
      "start": "11:00",
@@ -24333,8 +24332,8 @@ window.SCHEDULE = {
    "2026-09-13",
    "2026-09-14"
   ],
-  "matched": 13,
-  "unmatched": 7
+  "matched": 12,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
