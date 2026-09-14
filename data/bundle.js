@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-15T00:50:52+09:00",
+ "generated_at": "2026-09-15T07:09:15+09:00",
  "today": "2026-09-15",
  "dates": [
   "2026-09-14",
@@ -508,8 +508,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 버버리 자켓 60개월 무이자 구매 찬스",
-     "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 1
+     "pgm": "[재방] 투명쇼 (패션잡화)"
     },
     {
      "start": "07:00",
@@ -6659,7 +6658,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 3
     },
     {
      "start": "06:50",
@@ -6706,7 +6706,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 5
     },
     {
      "start": "08:00",
@@ -19345,8 +19346,8 @@ window.SCHEDULE = {
    "2026-09-14",
    "2026-09-15"
   ],
-  "matched": 6,
-  "unmatched": 7
+  "matched": 7,
+  "unmatched": 13
  },
  "fixed": {
   "rows": [
