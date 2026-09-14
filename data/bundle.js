@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-14T18:58:09+09:00",
+ "generated_at": "2026-09-14T19:15:58+09:00",
  "today": "2026-09-14",
  "dates": [
   "2026-09-13",
@@ -3141,7 +3141,8 @@ window.SCHEDULE = {
      "title": "[VIPS이용권/가을신메뉴] 특별 현장 방송 최대 56% OFF",
      "pgm": "트래블edit",
      "pgm_cd": "1111",
-     "category": "서비스·렌탈"
+     "category": "서비스·렌탈",
+     "hot": 1
     },
     {
      "start": "19:00",
@@ -8386,7 +8387,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -9539,7 +9540,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "13:00",
@@ -26475,8 +26476,8 @@ window.SCHEDULE = {
    "2026-09-13",
    "2026-09-14"
   ],
-  "matched": 8,
-  "unmatched": 12
+  "matched": 9,
+  "unmatched": 11
  },
  "fixed": {
   "rows": [
