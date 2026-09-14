@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-14T20:49:44+09:00",
+ "generated_at": "2026-09-14T21:00:09+09:00",
  "today": "2026-09-14",
  "dates": [
   "2026-09-13",
@@ -8386,8 +8386,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈",
-     "hot": 10
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -9540,7 +9539,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "13:00",
@@ -12744,7 +12743,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 8
+     "hot": 6
     },
     {
      "start": "20:00",
@@ -24193,7 +24192,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4620836713",
      "slot_id": "252249",
      "pgm": "[한가위빅세일] 삼성 가전",
-     "category": "가전"
+     "category": "가전",
+     "hot": 10
     },
     {
      "start": "20:00",
