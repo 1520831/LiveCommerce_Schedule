@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-14T11:09:50+09:00",
+ "generated_at": "2026-09-14T11:26:34+09:00",
  "today": "2026-09-14",
  "dates": [
   "2026-09-13",
@@ -7247,7 +7247,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "09:00",
@@ -7598,8 +7598,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -8460,7 +8459,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -8507,7 +8506,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -8845,8 +8844,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 10
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -9299,7 +9297,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "패션",
-     "hot": 5
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -20755,7 +20753,7 @@ window.SCHEDULE = {
      "pgm": "우리가 믿는 물 제주 삼다수",
      "title": "한정판 굿즈 추첨 이벤트",
      "category": "식품",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "08:30",
@@ -22422,8 +22420,8 @@ window.SCHEDULE = {
    "2026-09-13",
    "2026-09-14"
   ],
-  "matched": 16,
-  "unmatched": 4
+  "matched": 14,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
