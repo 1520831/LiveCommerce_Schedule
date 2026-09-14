@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-15T07:56:24+09:00",
+ "generated_at": "2026-09-15T08:11:08+09:00",
  "today": "2026-09-15",
  "dates": [
   "2026-09-14",
@@ -6932,7 +6932,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "08:00",
@@ -7027,7 +7027,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 5
     },
     {
      "start": "09:00",
@@ -18922,7 +18923,7 @@ window.SCHEDULE = {
      "link": "https://player.sauceflex.com/broadcast/lkebay-1d0dddff41ba44589009529393e8487f",
      "slot_id": "254029",
      "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻18",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -21113,8 +21114,8 @@ window.SCHEDULE = {
    "2026-09-14",
    "2026-09-15"
   ],
-  "matched": 7,
-  "unmatched": 13
+  "matched": 8,
+  "unmatched": 12
  },
  "fixed": {
   "rows": [
