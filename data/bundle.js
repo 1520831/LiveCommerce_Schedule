@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-15T18:51:28+09:00",
+ "generated_at": "2026-09-15T19:10:01+09:00",
  "today": "2026-09-15",
  "dates": [
   "2026-09-14",
@@ -754,7 +754,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[최초 론칭] 결혼해 듀오! 매칭 서비스 가입 상담",
-     "pgm": "[듀오] 듀오 (렌탈)"
+     "pgm": "[듀오] 듀오 (렌탈)",
+     "hot": 7
     },
     {
      "start": "19:00",
@@ -26187,8 +26188,8 @@ window.SCHEDULE = {
    "2026-09-14",
    "2026-09-15"
   ],
-  "matched": 10,
-  "unmatched": 10
+  "matched": 11,
+  "unmatched": 9
  },
  "fixed": {
   "rows": [
