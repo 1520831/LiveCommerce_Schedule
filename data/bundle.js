@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-15T09:55:46+09:00",
+ "generated_at": "2026-09-15T10:11:05+09:00",
  "today": "2026-09-15",
  "dates": [
   "2026-09-14",
@@ -8108,7 +8108,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -19139,7 +19140,8 @@ window.SCHEDULE = {
      "price": 35530,
      "link": "https://m.gmarket.co.kr/vi/product/3148915769",
      "slot_id": "254029",
-     "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻18"
+     "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻18",
+     "hot": 5
     },
     {
      "start": "07:00",
@@ -19192,7 +19194,7 @@ window.SCHEDULE = {
      "slot_id": "252392",
      "pgm": "나한테 좋은 것만 제대로! 갤럭시탭 S10FE",
      "category": "디지털·PC",
-     "hot": 10
+     "hot": 9
     },
     {
      "start": "09:00",
@@ -20647,8 +20649,7 @@ window.SCHEDULE = {
      "slot_id": "59291",
      "pgm": "덴마크 유산균이야기",
      "title": "주문금액별 사은품 누적증정",
-     "category": "식품",
-     "hot": 3
+     "category": "식품"
     },
     {
      "start": "08:30",
@@ -22266,8 +22267,8 @@ window.SCHEDULE = {
    "2026-09-14",
    "2026-09-15"
   ],
-  "matched": 8,
-  "unmatched": 12
+  "matched": 9,
+  "unmatched": 11
  },
  "fixed": {
   "rows": [
