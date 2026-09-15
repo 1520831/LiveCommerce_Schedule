@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-15T13:09:46+09:00",
+ "generated_at": "2026-09-15T13:27:38+09:00",
  "today": "2026-09-15",
  "dates": [
   "2026-09-14",
@@ -2713,8 +2713,7 @@ window.SCHEDULE = {
      "title": "지스튜디오 26FW 가디건 최초 공개+최저가 자켓&니트까지 방송 중 할인",
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
-     "category": "여성패션",
-     "hot": 9
+     "category": "여성패션"
     },
     {
      "start": "11:00",
@@ -7776,7 +7775,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -9111,7 +9110,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -9474,7 +9473,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -10442,7 +10441,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -22560,7 +22559,7 @@ window.SCHEDULE = {
      "pgm": "홍진경이 선택한 곡물도감!",
      "title": "추석 선물 최대특가 라이브",
      "category": "식품",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "08:30",
@@ -24175,8 +24174,8 @@ window.SCHEDULE = {
    "2026-09-14",
    "2026-09-15"
   ],
-  "matched": 13,
-  "unmatched": 7
+  "matched": 12,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
