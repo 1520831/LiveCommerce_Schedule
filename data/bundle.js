@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-15T10:11:05+09:00",
+ "generated_at": "2026-09-15T10:32:56+09:00",
  "today": "2026-09-15",
  "dates": [
   "2026-09-14",
@@ -2674,7 +2674,8 @@ window.SCHEDULE = {
      "title": "지스튜디오 26FW 가디건 최초 공개+최저가 자켓&니트까지 방송 중 할인",
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -7591,7 +7592,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -8109,7 +8111,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -8373,7 +8375,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -8419,7 +8422,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -19140,8 +19144,7 @@ window.SCHEDULE = {
      "price": 35530,
      "link": "https://m.gmarket.co.kr/vi/product/3148915769",
      "slot_id": "254029",
-     "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻18",
-     "hot": 5
+     "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻18"
     },
     {
      "start": "07:00",
@@ -19193,8 +19196,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4358900367",
      "slot_id": "252392",
      "pgm": "나한테 좋은 것만 제대로! 갤럭시탭 S10FE",
-     "category": "디지털·PC",
-     "hot": 9
+     "category": "디지털·PC"
     },
     {
      "start": "09:00",
@@ -22267,8 +22269,8 @@ window.SCHEDULE = {
    "2026-09-14",
    "2026-09-15"
   ],
-  "matched": 9,
-  "unmatched": 11
+  "matched": 11,
+  "unmatched": 9
  },
  "fixed": {
   "rows": [
