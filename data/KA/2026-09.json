@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-09-15T23:47:17+09:00",
+ "updated_at": "2026-09-16T07:10:48+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -3082,18 +3082,6 @@
    },
    {
     "start": "11:30",
-    "end": "12:30",
-    "brand": "농협안심한우",
-    "product": "농협안심한우 1+등급 '등안채 스페셜 구이' 한우세트 900g(등심300g+안심300g+채끝300g)",
-    "price": 129000,
-    "link": "https://gift.kakao.com/product/14076458?url=product&cId=14076458",
-    "slot_id": "59569",
-    "pgm": "농협안심한우 1+등안채스페셜",
-    "title": "한우선물세트외 인기구이세트",
-    "category": "식품"
-   },
-   {
-    "start": "11:30",
     "end": "12:31",
     "brand": "어메니티타올",
     "product": "[선물포장] 국내생산 선염 데이즈 40수 200g 호텔 수건 5P 타올 기프트 세트",
@@ -3103,18 +3091,6 @@
     "pgm": "어메니티타올 호텔 수건",
     "title": "~68% + 포미위크 쿠폰",
     "category": "리빙"
-   },
-   {
-    "start": "14:10",
-    "end": "14:58",
-    "brand": "터치그라운드 스니커즈",
-    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-    "price": 49900,
-    "link": "https://store.kakao.com/touchground/products/774098244",
-    "slot_id": "60168",
-    "pgm": "터치그라운드 발편한운동화",
-    "title": "가벼우면서 쿠션감 좋은운동화",
-    "category": "패션"
    },
    {
     "start": "16:00",
@@ -3153,18 +3129,6 @@
     "pgm": "마틸라 FW리뉴얼 기념",
     "title": "사계절 차렵이불 특가",
     "category": "리빙"
-   },
-   {
-    "start": "17:00",
-    "end": "18:02",
-    "brand": "명태잡는날",
-    "product": "쫄깃쫄깃 담백한 반건조오징어 10미 700g 내외 등 5미, 10미 초장&버터 사은품 100% 구성",
-    "price": 24900,
-    "link": "https://store.kakao.com/myeontae/products/175453732",
-    "slot_id": "60087",
-    "pgm": "쫄깃 담백한 반건조 오징어",
-    "title": "신선함과 탱글함까지~!",
-    "category": "식품"
    },
    {
     "start": "17:00",
@@ -3478,6 +3442,20 @@
     "pgm": "국내산 닭 사용!!",
     "title": "대용량 닭볶음탕 특가 오픈",
     "category": "식품"
+   },
+   {
+    "start": "16:00",
+    "end": "19:00",
+    "brand": "미샤공식스토어",
+    "product": "[집중 탄력/1+1] 미샤 타임레볼루션 나이트리페어 앰플5X(5세대) 70ml 외 베스트 기초. 안티에이징/수분케어",
+    "price": 35200,
+    "link": "https://store.kakao.com/missha/products/96174096",
+    "slot_id": "60240",
+    "pgm": "미샤 ~60% 추석맞이 할인",
+    "title": "추가 쿠폰까지",
+    "category": "뷰티",
+    "rerun": true,
+    "rerun_of": "59632"
    },
    {
     "start": "17:00",
@@ -3851,6 +3829,20 @@
     "pgm": "[경북 상주] 남상주농협",
     "title": "프리미엄 반건시 선물세트",
     "category": "식품"
+   },
+   {
+    "start": "16:00",
+    "end": "19:00",
+    "brand": "미샤공식스토어",
+    "product": "[집중 탄력/1+1] 미샤 타임레볼루션 나이트리페어 앰플5X(5세대) 70ml 외 베스트 기초. 안티에이징/수분케어",
+    "price": 35200,
+    "link": "https://store.kakao.com/missha/products/96174096",
+    "slot_id": "60243",
+    "pgm": "미샤 ~60% 추석맞이 할인",
+    "title": "추가 쿠폰까지!",
+    "category": "뷰티",
+    "rerun": true,
+    "rerun_of": "59632"
    },
    {
     "start": "16:30",
@@ -4722,6 +4714,212 @@
     "pgm": "VSL3 대용량 특별구성혜택",
     "title": "키즈 오리지널 밸런스 특집",
     "category": "식품"
+   }
+  ],
+  "2026-09-21": [
+   {
+    "start": "08:30",
+    "end": "10:00",
+    "brand": "프로티원",
+    "product": "[BEST] 프로티원 대용량 단백질 쉐이크 490g 곡물맛 외 6종",
+    "price": 86000,
+    "link": "https://store.kakao.com/proteeone/products/104031228",
+    "slot_id": "59762",
+    "pgm": "프로티원 식단관리 특가",
+    "title": "추석 연휴 급찐살 관리",
+    "category": "식품"
+   },
+   {
+    "start": "08:30",
+    "end": "10:00",
+    "brand": "CJ제일제당(세트)",
+    "product": "[26년 추석 선물세트] 스팸 카카오프렌즈 에디션 C호 (스팸 클래식 200g x 6,스팸 라이트 120g x 2)",
+    "price": 25900,
+    "link": "https://gift.kakao.com/product/2903032?url=product&cId=2903032",
+    "slot_id": "59774",
+    "pgm": "화제의 포켓몬X스팸부터",
+    "title": "카카오프렌즈 에디션까지!",
+    "category": "식품"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "쌍계명차(LuX)",
+    "product": "쌍계 티 가든 블렌딩차/전통차 (6종 30입)",
+    "price": 26900,
+    "link": "https://gift.kakao.com/product/13408787?url=product&cId=13408787",
+    "slot_id": "59771",
+    "pgm": "쌍계명차 추석 선물페스타!",
+    "title": "~38% 할인 + 키링 증정",
+    "category": "식품"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "마이옵티멀",
+    "product": "마이옵티멀 박용우 다이어트 프로틴 밸런스 40g, 14포",
+    "price": 70900,
+    "link": "https://store.kakao.com/myoptimal/products/645345253",
+    "slot_id": "60045",
+    "pgm": "[마이옵티멀] 온가족 건강",
+    "title": "챙기는 추석 선물 특가전!",
+    "category": "식품"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "동국제약",
+    "product": "[동국제약]마데카크림 타이트리프팅 50ml*6개+추가30ml+팩4매+10일분.쇼핑백증정.주름개선.물찬리프팅.",
+    "price": 228000,
+    "link": "https://store.kakao.com/dkpharm/products/562179007",
+    "slot_id": "60106",
+    "pgm": "동국제약 브랜드데이",
+    "title": "크림&체험딜 ~75% 할인",
+    "category": "뷰티"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "농협안심한우",
+    "product": "농협안심한우 1등급 '소소한 행복' 선물세트 1kg(등심200g+채끝150g+부채150g+국거리200g+불고기300g)",
+    "price": 100000,
+    "link": "https://gift.kakao.com/product/1304069?url=product&cId=1304069",
+    "slot_id": "59639",
+    "pgm": "농협 한우 추석 풀패키지",
+    "title": "추석 연휴 온 가족 한우파티",
+    "category": "식품"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "베드리움",
+    "product": "[설치비 별도][UP TO 64%] 베드리움 카쇼라 특가! 매트리스/프레임 모음전",
+    "price": 1680000,
+    "link": "https://store.kakao.com/bedrewomb/products/252368182",
+    "slot_id": "59978",
+    "pgm": "베드리움 추석특집 파격할인",
+    "title": "단 하루 100% 사은품!",
+    "category": "리빙"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "명태잡는날",
+    "product": "백 명란젓 파지 400g , 1kg 외 명태회무침 낙지젓 오징어젓 등",
+    "price": 13900,
+    "link": "https://store.kakao.com/myeontae/products/71224204",
+    "slot_id": "59942",
+    "pgm": "밥도둑 명란젓 특집",
+    "title": "맛있는 식탁의 완성",
+    "category": "식품"
+   },
+   {
+    "start": "18:00",
+    "end": "19:30",
+    "brand": "대정한우 뭇나",
+    "product": "뼈없이 살코기만 듬뿍 소갈비찜 600g 외 한돈고추장/간장불고기, 언양불고기, 한우갈비탕, 쭈꾸미, 국물닭발, 한우함박스테이크",
+    "price": 16900,
+    "link": "https://store.kakao.com/daejungmootna/products/450134900",
+    "slot_id": "59929",
+    "pgm": "[뭇나X대정한우]",
+    "title": "추석맞이 갈비찜 톡딜찬스!",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "크록스",
+    "product": "[크록스 본사] 최대 74% 선선해진 요즘 딱! 크록스 클로그/샌들/슬라이드/지비츠",
+    "price": 69900,
+    "link": "https://store.kakao.com/crocskr/products/153739011",
+    "slot_id": "59354",
+    "pgm": "추석 연휴 크록스와 함께",
+    "title": "온 가족 패밀리템/베스트셀러",
+    "category": "패션"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "배스킨라빈스",
+    "product": "[LIVE] 몬치치 플레이컵&피규어 키링 SET",
+    "price": 10400,
+    "link": "https://gift.kakao.com/product/14270483?url=product&cId=14270483",
+    "slot_id": "59839",
+    "pgm": "배스킨라빈스 추석특집",
+    "title": "라이브 한정 ~20% OFF",
+    "category": "교환권"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "부이",
+    "product": "[부이 디지털 카메라 헬로키티 에디션] 레드&핑크+전용 파우치+스트랩+sd카드 8G+리더기+c to c 케이블",
+    "price": 49900,
+    "link": "https://gift.kakao.com/product/13668924?url=product&cId=13668924",
+    "slot_id": "59886",
+    "pgm": "BOOIE 추석특집",
+    "title": "바디드라이기&헬로키티 카메라",
+    "category": "테크"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "폰드그룹몰",
+    "product": "[어패럴카쇼라] (9/21) 캘빈클라인 스포츠,퍼포먼스,진스 종합 특가전",
+    "price": 129000,
+    "link": "https://store.kakao.com/pondgroup/products/755893337",
+    "slot_id": "60095",
+    "pgm": "[캘빈클라인스포츠] 역시즌",
+    "title": "종합 추석 특가전",
+    "category": "패션"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "팜밀리1987",
+    "product": "팜밀리 올레정 올리브오일 캡슐 + 레몬정 30회분",
+    "price": 39800,
+    "link": "https://store.kakao.com/farmily1987/products/708454882",
+    "slot_id": "59733",
+    "pgm": "팜밀리 올레정",
+    "title": "2알로 끝내는 아침 공복루틴",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "대건명가",
+    "product": "대건명가 돼지국밥 630g x 6팩 (돼지/순대/얼큰)",
+    "price": 66000,
+    "link": "https://store.kakao.com/daegeonmyeongga/products/271792137",
+    "slot_id": "59761",
+    "pgm": "대건명가 국밥 3종 LIVE",
+    "title": "캠핑의 계절엔 대건명가!",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "엄마네한우",
+    "product": "엄마네한우 1++등급 \"천하명작\" 투뿔 선물세트 1kg (살치등심+채끝등심+참갈비살+본갈비살+부채살)",
+    "price": 182000,
+    "link": "https://gift.kakao.com/product/10194194?url=product&cId=10194194",
+    "slot_id": "59773",
+    "pgm": "엄마네한우 추석 1++한우",
+    "title": "선물세트 역대급 특가+혜택!",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "슬룸 Sloom",
+    "product": "(쇼핑백)슬룸 에어리프팅 온열 저자극진동 3IN1 경추마사지 베게 목베개플러스",
+    "price": 170000,
+    "link": "https://store.kakao.com/sleeplab/products/427851581",
+    "slot_id": "59876",
+    "pgm": "[슬룸]명절 준비로 쌓인",
+    "title": "피로를 풀어줄 힐링 선물",
+    "category": "테크"
    }
   ]
  }

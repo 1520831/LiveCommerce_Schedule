@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-15T23:46:59+09:00",
+ "updated_at": "2026-09-16T07:10:33+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -5533,14 +5533,14 @@
     "end": "10:59",
     "brand": "셀린느",
     "product": "트리옹프 미디엄 플랫 쇼퍼백 123832O90 03MI 탄",
-    "price": 2099000,
+    "price": 1805000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252059708",
     "slot_id": "202609156005",
     "items": [
      {
       "brand": "셀린느",
       "product": "트리옹프 미디엄 플랫 쇼퍼백 123832O90 03MI 탄",
-      "price": 2099000,
+      "price": 1805000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252059708"
      }
     ],
@@ -5855,14 +5855,14 @@
     "end": "23:59",
     "brand": "어드림오브씨드",
     "product": "26SS 피그먼트린넨 셔켓",
-    "price": 228000,
+    "price": 149000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250952409",
     "slot_id": "202609156017",
     "items": [
      {
       "brand": "어드림오브씨드",
       "product": "26SS 피그먼트린넨 셔켓",
-      "price": 228000,
+      "price": 149000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250952409"
      }
     ],
@@ -5895,14 +5895,14 @@
     "end": "00:59",
     "brand": "로보",
     "product": "스웨이드 3버튼 크롭 자켓",
-    "price": 399000,
+    "price": 499000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252874196",
     "slot_id": "202609166022",
     "items": [
      {
       "brand": "로보",
       "product": "스웨이드 3버튼 크롭 자켓",
-      "price": 399000,
+      "price": 499000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252874196"
      }
     ],
@@ -5929,6 +5929,25 @@
     "pgm": "[재방] 노블리타 (노블레스)"
    },
    {
+    "start": "08:00",
+    "end": "08:59",
+    "brand": "스튜디오톰보이",
+    "product": "[톰보이] 탈부착 후드 트위드점퍼 9175412981  9175412981",
+    "price": 159200,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253432518",
+    "slot_id": "202609166001",
+    "items": [
+     {
+      "brand": "스튜디오톰보이",
+      "product": "[톰보이] 탈부착 후드 트위드점퍼 9175412981  9175412981",
+      "price": 159200,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253432518"
+     }
+    ],
+    "title": "[스튜디오톰보이] 아우터/맨투맨/팬츠/가방 外",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
     "start": "09:00",
     "end": "09:59",
     "brand": "쿠론핸드백",
@@ -5952,14 +5971,14 @@
     "end": "10:59",
     "brand": "멀버리",
     "product": "멀버리 HH9708 205 A100 칠턴 그레인 스몰 크로스백",
-    "price": 1400000,
+    "price": 1250000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253524579",
     "slot_id": "202609166003",
     "items": [
      {
       "brand": "멀버리",
       "product": "멀버리 HH9708 205 A100 칠턴 그레인 스몰 크로스백",
-      "price": 1400000,
+      "price": 1250000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253524579"
      }
     ],
@@ -5971,14 +5990,14 @@
     "end": "11:59",
     "brand": "루솔",
     "product": "[나눔발송][루솔] 진한 배도라지즙 선물박스(120포) 배즙",
-    "price": 97000,
+    "price": 88300,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2225275178",
     "slot_id": "202609166004",
     "items": [
      {
       "brand": "루솔",
       "product": "[나눔발송][루솔] 진한 배도라지즙 선물박스(120포) 배즙",
-      "price": 97000,
+      "price": 88300,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2225275178"
      }
     ],
@@ -6009,14 +6028,14 @@
     "end": "12:59",
     "brand": "경복궁",
     "product": "궁중본갈비 600gx3팩",
-    "price": 130000,
+    "price": 111000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2152668475",
     "slot_id": "202609166005",
     "items": [
      {
       "brand": "경복궁",
       "product": "궁중본갈비 600gx3팩",
-      "price": 130000,
+      "price": 111000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2152668475"
      }
     ],
@@ -6085,14 +6104,14 @@
     "end": "15:59",
     "brand": "듀엘",
     "product": "[라이브무료반품][듀엘] 오버핏 테일러드 싱글 자켓 _D254MSF233",
-    "price": 179400,
+    "price": 129000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253447441",
     "slot_id": "202609166008",
     "items": [
      {
       "brand": "듀엘",
       "product": "[라이브무료반품][듀엘] 오버핏 테일러드 싱글 자켓 _D254MSF233",
-      "price": 179400,
+      "price": 129000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253447441"
      }
     ],
@@ -6198,16 +6217,16 @@
     "start": "20:00",
     "end": "20:59",
     "brand": "겔랑",
-    "product": "빠뤼르 골드 스킨 세럼 파운데이션 세트",
-    "price": 137000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252191438",
+    "product": "[허니글로우광 선물]빠뤼르 골드 24k 베이스 앤 빠뤼르 골드 스킨 세럼 파운데이션 세트",
+    "price": 252000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253427188",
     "slot_id": "202609166013",
     "items": [
      {
       "brand": "겔랑",
-      "product": "빠뤼르 골드 스킨 세럼 파운데이션 세트",
-      "price": 137000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252191438"
+      "product": "[허니글로우광 선물]빠뤼르 골드 24k 베이스 앤 빠뤼르 골드 스킨 세럼 파운데이션 세트",
+      "price": 252000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253427188"
      }
     ],
     "title": "[겔랑] NEW 파운데이션 & 추석 선물 특집🎁",
@@ -6385,6 +6404,25 @@
     ],
     "title": "[투명쇼] 발렌시아가 모나코백 89만원대~",
     "pgm": "투명쇼 (패션잡화)"
+   },
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "베베드피노",
+    "product": "올 오버 멜로디 베이비 리버시블 패딩 베스트 BP53VP112",
+    "price": 62300,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252765247",
+    "slot_id": "202609176005",
+    "items": [
+     {
+      "brand": "베베드피노",
+      "product": "올 오버 멜로디 베이비 리버시블 패딩 베스트 BP53VP112",
+      "price": 62300,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252765247"
+     }
+    ],
+    "title": "[베베드피노] 아우터/셋업 外 최대 혜택가!",
+    "pgm": "[베베드피노] 의류 (멀티커머스)"
    },
    {
     "start": "12:00",
@@ -6599,14 +6637,14 @@
     "start": "23:00",
     "end": "23:59",
     "brand": "커스텀멜로우",
-    "product": "베이지 캐시미어 혼방 발마칸 코트 CWCAW25611BEX CWCAW25611BEX",
+    "product": "[쇼핑라이브] 베이지 캐시미어 혼방 발마칸 코트 CWCAW25611BEX CWCAW25611BEX",
     "price": 319600,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253350140",
     "slot_id": "202609176017",
     "items": [
      {
       "brand": "커스텀멜로우",
-      "product": "베이지 캐시미어 혼방 발마칸 코트 CWCAW25611BEX CWCAW25611BEX",
+      "product": "[쇼핑라이브] 베이지 캐시미어 혼방 발마칸 코트 CWCAW25611BEX CWCAW25611BEX",
       "price": 319600,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253350140"
      }
@@ -7511,6 +7549,84 @@
      }
     ],
     "title": "린LYNN이 제안하는 완벽한 가을! 6만원대부터❤️",
+    "pgm": "현대렐라쇼 (멀티커머스)"
+   }
+  ],
+  "2026-09-21": [
+   {
+    "start": "07:00",
+    "end": "07:59",
+    "brand": "조니스 그로서리",
+    "product": "[조니스그로서리][BEST입문팩] 납작 플레인1 + 초코1 + 저당1 + 한끼 오곡1 + 카카오1",
+    "price": 49900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253383970",
+    "slot_id": "202609216020",
+    "items": [
+     {
+      "brand": "조니스 그로서리",
+      "product": "[조니스그로서리][BEST입문팩] 납작 플레인1 + 초코1 + 저당1 + 한끼 오곡1 + 카카오1",
+      "price": 49900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253383970"
+     }
+    ],
+    "title": "SNS 대란템! 납작 청크 그래놀라 집방 특가",
+    "pgm": "[집방] 조니스그로서리 그래놀라 (멀티커머스)"
+   },
+   {
+    "start": "08:00",
+    "end": "08:59",
+    "brand": "써스데이아일랜드",
+    "product": "써스데이아일랜드  잔꽃 플라워 패턴 블라우스 T262MBL137W T262MBL137W",
+    "price": 199000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253483396",
+    "slot_id": "202609216003",
+    "items": [
+     {
+      "brand": "써스데이아일랜드",
+      "product": "써스데이아일랜드  잔꽃 플라워 패턴 블라우스 T262MBL137W T262MBL137W",
+      "price": 199000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253483396"
+     }
+    ],
+    "title": "써스데이아일랜드 방송중 최대 62%할인 찬스",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "14:00",
+    "end": "14:59",
+    "brand": "얼쎄라",
+    "product": "매직커버크림 코렉터 30ml 4개+얼쎄라 코렉터 15ml 2개+키링2개(색상랜덤)",
+    "price": 239800,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253408289",
+    "slot_id": "202609216018",
+    "items": [
+     {
+      "brand": "얼쎄라",
+      "product": "매직커버크림 코렉터 30ml 4개+얼쎄라 코렉터 15ml 2개+키링2개(색상랜덤)",
+      "price": 239800,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253408289"
+     }
+    ],
+    "title": "얼쎄라 매직커버크림 딱 방송중에만 60%▼",
+    "pgm": "[제이앤제이] 컬러코렉터 (뷰티1)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "게스",
+    "product": "[게스진] 여성 앞포켓 포인트 절개 부츠컷(OQ3D5407) OQ3D5407",
+    "price": 149000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253511906",
+    "slot_id": "202609216010",
+    "items": [
+     {
+      "brand": "게스",
+      "product": "[게스진] 여성 앞포켓 포인트 절개 부츠컷(OQ3D5407) OQ3D5407",
+      "price": 149000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253511906"
+     }
+    ],
+    "title": "수지PICK! 게스진 FW신상 최대 39%할인찬스",
     "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ]
