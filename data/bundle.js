@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-15T19:43:07+09:00",
+ "generated_at": "2026-09-15T19:57:15+09:00",
  "today": "2026-09-15",
  "dates": [
   "2026-09-14",
@@ -8626,7 +8626,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -9130,7 +9130,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "13:00",
@@ -9608,7 +9608,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "15:00",
@@ -11103,7 +11103,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 8
     },
     {
      "start": "19:00",
@@ -24490,7 +24491,7 @@ window.SCHEDULE = {
      "pgm": "홍진경이 선택한 곡물도감!",
      "title": "추석 선물 최대특가 라이브",
      "category": "식품",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "08:30",
@@ -24660,7 +24661,7 @@ window.SCHEDULE = {
      "pgm": "폴로 랄프 로렌 가을스타일링",
      "title": "셔츠&가디건 선물추천",
      "category": "패션",
-     "hot": 5
+     "hot": 2
     },
     {
      "start": "19:00",
@@ -26190,8 +26191,8 @@ window.SCHEDULE = {
    "2026-09-14",
    "2026-09-15"
   ],
-  "matched": 13,
-  "unmatched": 7
+  "matched": 14,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
