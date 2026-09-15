@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-15T11:32:54+09:00",
+ "generated_at": "2026-09-15T11:50:35+09:00",
  "today": "2026-09-15",
  "dates": [
   "2026-09-14",
@@ -2674,8 +2674,7 @@ window.SCHEDULE = {
      "title": "지스튜디오 26FW 가디건 최초 공개+최저가 자켓&니트까지 방송 중 할인",
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
-     "category": "여성패션",
-     "hot": 8
+     "category": "여성패션"
     },
     {
      "start": "11:00",
@@ -7593,7 +7592,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -8111,7 +8110,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -8939,7 +8938,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 6
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -9245,7 +9244,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 10
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -22269,8 +22268,8 @@ window.SCHEDULE = {
    "2026-09-14",
    "2026-09-15"
   ],
-  "matched": 11,
-  "unmatched": 9
+  "matched": 10,
+  "unmatched": 10
  },
  "fixed": {
   "rows": [
