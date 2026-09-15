@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-15T20:54:46+09:00",
+ "generated_at": "2026-09-15T21:11:53+09:00",
  "today": "2026-09-15",
  "dates": [
   "2026-09-14",
@@ -24490,8 +24490,7 @@ window.SCHEDULE = {
      "slot_id": "59565",
      "pgm": "홍진경이 선택한 곡물도감!",
      "title": "추석 선물 최대특가 라이브",
-     "category": "식품",
-     "hot": 10
+     "category": "식품"
     },
     {
      "start": "08:30",
@@ -26191,8 +26190,8 @@ window.SCHEDULE = {
    "2026-09-14",
    "2026-09-15"
   ],
-  "matched": 14,
-  "unmatched": 6
+  "matched": 13,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
