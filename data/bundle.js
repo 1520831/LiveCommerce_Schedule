@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-16T07:24:15+09:00",
+ "generated_at": "2026-09-16T07:38:01+09:00",
  "today": "2026-09-16",
  "dates": [
   "2026-09-15",
@@ -7100,7 +7100,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 10
     },
     {
      "start": "08:00",
@@ -19435,7 +19436,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/180260611",
      "slot_id": "254030",
      "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻20",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "07:00",
@@ -22138,7 +22139,7 @@ window.SCHEDULE = {
    "2026-09-15",
    "2026-09-16"
   ],
-  "matched": 6,
+  "matched": 7,
   "unmatched": 13
  },
  "fixed": {
