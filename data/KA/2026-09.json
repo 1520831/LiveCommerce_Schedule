@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-09-15T07:11:27+09:00",
+ "updated_at": "2026-09-15T12:10:31+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -2795,8 +2795,8 @@
     "start": "11:30",
     "end": "12:30",
     "brand": "그릭데이",
-    "product": "(39% 할인) 그릭데이 그릭요거트 100g 8종 맛보기 세트 (총 13개) + 그래놀라 25g 증정",
-    "price": 33000,
+    "product": "그릭데이 그릭요거트 100g 8종 맛보기 세트 (총 13개) + 그래놀라 25g 증정",
+    "price": 35000,
     "link": "https://gift.kakao.com/product/13881680?url=product&cId=13881680",
     "slot_id": "59531",
     "pgm": "그릭데이 LIVE 특가!",
@@ -2903,8 +2903,8 @@
     "start": "19:00",
     "end": "20:22",
     "brand": "다니엘트루스",
-    "product": "\"카쇼라 혜택\" [각인] 오일퍼퓸 10ml (24시간 한정 블루 레더케이스 +미니오일퍼퓸 트루스 퍼플 No.1 증정)",
-    "price": 55440,
+    "product": "\"카쇼라 혜택\" [각인] 오일퍼퓸 10ml (미니오일퍼퓸 트루스 퍼플 No.1 증정)",
+    "price": 56700,
     "link": "https://gift.kakao.com/product/11070541?url=product&cId=11070541",
     "slot_id": "59533",
     "pgm": "다니엘 트루스~20% 추석전",
@@ -2976,7 +2976,7 @@
     "end": "21:35",
     "brand": "땡이아빠 땡마켓",
     "product": "밤고구마 호박고구마 꿀고구마 해남고구마 찐 햇고구마 호풍미 베니하루카 왕대 2kg 한입 중상 특상 5kg 10kg",
-    "price": 41720,
+    "price": 9480,
     "link": "https://store.kakao.com/ttangsmarket/products/761235570",
     "slot_id": "60073",
     "pgm": "26년 햇고구마 맛보시라우~",
@@ -2986,7 +2986,7 @@
   "2026-09-15": [
    {
     "start": "08:30",
-    "end": "11:30",
+    "end": "09:53",
     "brand": "덴프스",
     "product": "덴마크 유산균이야기 4박스/8개월분 + 유산균이야기 베이직 15일분 + 쇼핑백",
     "price": 368000,
@@ -2998,7 +2998,7 @@
    },
    {
     "start": "08:30",
-    "end": "11:30",
+    "end": "09:53",
     "brand": "아로마티카",
     "product": "[NEW 로즈향] \"감사/응원선물\" 바디 3종 & 돌고래 괄사 세트",
     "price": 28500,
@@ -3010,7 +3010,7 @@
    },
    {
     "start": "08:30",
-    "end": "10:00",
+    "end": "09:50",
     "brand": "오리진케어",
     "product": "곡물도감 서리태 콩물 두유 국산 무가당 검은콩 맷돌 고단백 두유 외 2종",
     "price": 220000,
@@ -3022,7 +3022,7 @@
    },
    {
     "start": "08:30",
-    "end": "11:30",
+    "end": "09:51",
     "brand": "바비브라운",
     "product": "[데저트 드리머 컬렉션] NEW 립 틴트 라이너 (+ 미니 럭스 립 클라렛 증정)",
     "price": 41000,
@@ -3034,10 +3034,10 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:01",
     "brand": "아일로",
     "product": "\"선물하기 1등 콜라겐\" 아일로 타입1 콜라겐 비오틴 앰플 28일분 오간자 에디션+ 앰플 3입 추가 증정",
-    "price": 65900,
+    "price": 64900,
     "link": "https://gift.kakao.com/product/4965835?url=product&cId=4965835",
     "slot_id": "59576",
     "pgm": "콜라겐 앰플 아일로 특가!",
@@ -3046,7 +3046,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:01",
     "brand": "그레인온",
     "product": "[그레인온] 골드 카무트 브랜드밀 효소 3개월(+선물포장) +파로효소 그린캡슐레이션 +파로저당단백칩 증정",
     "price": 43900,
@@ -3058,7 +3058,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:01",
     "brand": "코코도르",
     "product": "코코도르 추석 디퓨저+고체탈취제 190g 외 홈프래그런스 추석특가",
     "price": 30800,
@@ -3070,39 +3070,15 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:00",
     "brand": "센텔리안24",
     "product": "추석선물 추천 [단독/선물포장]동국제약 마데카크림 스페셜 세트(크림50ml*3개+15ml+에센스150ml+30ml) 안티에이징",
     "price": 39900,
     "link": "https://gift.kakao.com/product/9669187?url=product&cId=9669187",
     "slot_id": "59943",
-    "pgm": "동국제약 포미위크",
+    "pgm": "동국제약 추석맞이",
     "title": "뷰티 선물세트 최대35%할인",
     "category": "뷰티"
-   },
-   {
-    "start": "11:00",
-    "end": "12:30",
-    "brand": "정성깃든",
-    "product": "정성깃든 글루텐프리 저염 저당 치킨스톡 100g",
-    "price": 15800,
-    "link": "https://store.kakao.com/fulljungsung/products/284931812",
-    "slot_id": "60174",
-    "pgm": "추석음식도 후다닥",
-    "title": "한시간만에 끝나는 라이브",
-    "category": "식품"
-   },
-   {
-    "start": "11:00",
-    "end": "12:30",
-    "brand": "손오공 스토어",
-    "product": "개비의 매직하우스 냥냥 미끄럼틀 플레이세트",
-    "price": 59900,
-    "link": "https://store.kakao.com/sonokong/products/791838138",
-    "slot_id": "60184",
-    "pgm": "미리 준비하는 추석 선물",
-    "title": "최대 67%할인!",
-    "category": "키즈"
    },
    {
     "start": "11:30",
@@ -3133,7 +3109,7 @@
     "end": "19:00",
     "brand": "아쿠아디파르마",
     "product": "블루 메디떼라네오 EDT 50ml (택1)(+파우치/향수 미니어처 5ml/쇼핑백)",
-    "price": 211500,
+    "price": 199750,
     "link": "https://gift.kakao.com/product/13066545?url=product&cId=13066545",
     "slot_id": "60062",
     "pgm": "아쿠아 디 파르마 BEST",
@@ -3146,7 +3122,7 @@
     "start": "17:00",
     "end": "18:30",
     "brand": "순수식품",
-    "product": "순수식품 올인원 뉴트리션 원팩 1박스(1개월분) 멀티비타민[종합비타민+밀크씨슬+루테인+알티지오메가3] 외 유산균/콜라겐",
+    "product": "순수식품 올인원 뉴트리션 원팩 1박스(1개월분) 멀티비타민[종합비타민+밀크씨슬+루테인+알티지오메가3] 외 콘드로이친/콜라겐",
     "price": 31900,
     "link": "https://store.kakao.com/soonsoofood/products/776743649",
     "slot_id": "59613",
@@ -3182,9 +3158,9 @@
     "start": "19:00",
     "end": "22:00",
     "brand": "폴로 랄프 로렌(의류)",
-    "product": "폴로 랄프 로렌 남성 볼 캡 (2style)",
+    "product": "폴로 랄프 로렌 남성 코튼 치노 베이스볼 캡 (26color)",
     "price": 99000,
-    "link": "https://gift.kakao.com/product/14132812?url=product&cId=14132812",
+    "link": "https://gift.kakao.com/product/1100651?url=product&cId=1100651",
     "slot_id": "59352",
     "pgm": "폴로 랄프 로렌 가을스타일링",
     "title": "셔츠&가디건 선물추천",
@@ -3254,7 +3230,7 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "동국제약 뉴트리션",
-    "product": "동국제약 고함량 비타민C 엘리나C플러스 1박스(100포)/2박스(200포)",
+    "product": "동국제약 고함량 비타민C 엘리나C플러스 1박스(100포)외 건강관리 특가/쇼핑백증정",
     "price": 45000,
     "link": "https://store.kakao.com/dknutrition/products/332044755",
     "slot_id": "59563",
@@ -3385,6 +3361,17 @@
     "category": "식품"
    },
    {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "시골내음",
+    "product": "(백년소상공인선정) 줄서서 먹는 생생복숭아즙  110mlX30팩 1박스(2026 햇복숭아)",
+    "price": 39900,
+    "link": "https://store.kakao.com/sigolmall/products/65661304",
+    "slot_id": "60190",
+    "pgm": "명절 선물로 딱이야!",
+    "category": "식품"
+   },
+   {
     "start": "11:30",
     "end": "13:00",
     "brand": "농협안심한우",
@@ -3509,7 +3496,7 @@
     "end": "22:00",
     "brand": "에스트라",
     "product": "[크림쟁이기] 아토베리어365 크림 80ml 4개 (옵션-크림4개 / 크림2+로션2개 / 크림2개+수딩크림2개)",
-    "price": 105600,
+    "price": 100000,
     "link": "https://gift.kakao.com/product/2940337?url=product&cId=2940337",
     "slot_id": "59741",
     "pgm": "에스트라 라이브당일 ~30%",
@@ -3710,6 +3697,18 @@
     "category": "식품"
    },
    {
+    "start": "11:00",
+    "end": "12:30",
+    "brand": "생활양식",
+    "product": "[프리미엄] 한일의료기 탄소 매트 온열 카본 전기 요 장판 캠핑 침대",
+    "price": 119000,
+    "link": "https://store.kakao.com/sengsiik/products/635998245",
+    "slot_id": "60196",
+    "pgm": "한일의료기 27년형 탄소매트",
+    "title": "전자파 차단",
+    "category": "테크"
+   },
+   {
     "start": "11:30",
     "end": "14:30",
     "brand": "농협안심한우",
@@ -3750,7 +3749,7 @@
     "end": "14:00",
     "brand": "만수동떡볶이만떡",
     "product": "떡볶이 7가지맛 내맘대로 무료배송 300g 밀키트 만수동떡볶이 만떡",
-    "price": 3400,
+    "price": 6000,
     "link": "https://store.kakao.com/mantteok/products/678920045",
     "slot_id": "60142",
     "pgm": "2900원 떡볶이 7가지맛",
@@ -3802,7 +3801,7 @@
     "link": "https://store.kakao.com/kindoh/products/217083900",
     "slot_id": "60130",
     "pgm": "[이브네] 생리대 기획전",
-    "title": "추석 세일 페스타",
+    "title": "가을 맞이 쟁여템 특가",
     "category": "리빙"
    },
    {
@@ -4072,6 +4071,17 @@
     "category": "키즈"
    },
    {
+    "start": "16:00",
+    "end": "17:30",
+    "brand": "시골내음",
+    "product": "(백년소상공인선정) 줄서서 먹는 생생복숭아즙  110mlX30팩 1박스(2026 햇복숭아)",
+    "price": 39900,
+    "link": "https://store.kakao.com/sigolmall/products/65661304",
+    "slot_id": "60191",
+    "pgm": "명절 선물로 딱이야!",
+    "category": "식품"
+   },
+   {
     "start": "17:00",
     "end": "18:30",
     "brand": "순수식품",
@@ -4282,7 +4292,7 @@
     "end": "13:00",
     "brand": "조선팔도떡집",
     "product": "조선팔도떡집 영광 모시송편 선물용떡 추석 떡선물 추석송편 명절선물",
-    "price": 12900,
+    "price": 35600,
     "link": "https://store.kakao.com/chosunpaldodduk/products/778219971",
     "slot_id": "60078",
     "pgm": "[조선팔도떡집 추석 특집]",
@@ -4293,7 +4303,7 @@
     "start": "17:00",
     "end": "18:30",
     "brand": "월간제철",
-    "product": "[GAP 인증] 산지직송 당일수확 당일발송 전남 영암 진한 당도 홍무화과 특품 1kg 12~16과",
+    "product": "[GAP 인증] 산지직송 당일수확 당일발송 전남 영암 진한 당도 홍무화과 특품 1kg 10~16과",
     "price": 21900,
     "link": "https://store.kakao.com/seasonfarm2018/products/609318141",
     "slot_id": "60008",
@@ -4414,6 +4424,18 @@
    {
     "start": "10:00",
     "end": "13:00",
+    "brand": "삼립",
+    "product": "삼립 Since1996 포켓몬 띠부씰빵 8종 12봉 (거북왕/망나뇽/이상해꽃/리자몽/야도란/피카츄/파이리/꼬부기)",
+    "price": 17900,
+    "link": "https://gift.kakao.com/product/13430663?url=product&cId=13430663",
+    "slot_id": "59323",
+    "pgm": "포켓몬빵 신규 띠부씰 공개",
+    "title": "띠부실북 200명 추첨",
+    "category": "식품"
+   },
+   {
+    "start": "10:00",
+    "end": "13:00",
     "brand": "정샘물",
     "product": "'핑크 에디션' 정샘물 에센셜 물 마이크로 피팅 미스트 55ml 듀오 + 핑크 미니백 +마스크팩",
     "price": 36080,
@@ -4470,6 +4492,18 @@
     "pgm": "위아즈 혈당유산균/질유산균",
     "title": "9월 라이브 특가",
     "category": "식품"
+   },
+   {
+    "start": "11:30",
+    "end": "14:30",
+    "brand": "바퀜",
+    "product": "[추석선물] 바퀜 3종팩 (미니0.3L+리유저블백+네트2종 증정)",
+    "price": 87000,
+    "link": "https://gift.kakao.com/product/12320562?url=product&cId=12320562",
+    "slot_id": "60093",
+    "pgm": "바퀜 밀폐용기 추석선물 세트",
+    "title": "리유저블백 증정 찬스",
+    "category": "리빙"
    },
    {
     "start": "11:30",
@@ -4547,7 +4581,7 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "플루",
-    "product": "[1+1] [플루] 오리지널 바디스크럽 250g 골라담기",
+    "product": "[1+1] 플루 시그니처 바디스크럽 1+1 베스트템 특가 모음전",
     "price": 29800,
     "link": "https://store.kakao.com/plu/products/67632585",
     "slot_id": "59851",
@@ -4566,18 +4600,6 @@
     "pgm": "로얄알버트&앤슬리",
     "title": "프리미엄 테이블웨어 핫딜!",
     "category": "리빙"
-   },
-   {
-    "start": "20:30",
-    "end": "22:00",
-    "brand": "닥터웰핏 스토어",
-    "product": "",
-    "price": 0,
-    "link": "https://shoppinglive.kakao.com/live/60019",
-    "slot_id": "60019",
-    "pgm": "닥터웰핏 콘드로이친 프로틴미",
-    "title": "허웅&허훈 선수 출연",
-    "category": "식품"
    },
    {
     "start": "20:30",
