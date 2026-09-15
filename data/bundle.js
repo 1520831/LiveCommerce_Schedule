@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-16T00:21:50+09:00",
+ "generated_at": "2026-09-16T00:56:01+09:00",
  "today": "2026-09-16",
  "dates": [
   "2026-09-15",
@@ -492,7 +492,7 @@ window.SCHEDULE = {
      ],
      "title": "[로보] 고급 리얼 스웨이드 무스탕 특집",
      "pgm": "[재방] 로보 여성의류 (패션3Lab)",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "07:00",
@@ -19699,7 +19699,7 @@ window.SCHEDULE = {
    "2026-09-16"
   ],
   "matched": 6,
-  "unmatched": 11
+  "unmatched": 12
  },
  "fixed": {
   "rows": [
