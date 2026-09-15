@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-16T07:48:02+09:00",
+ "generated_at": "2026-09-16T07:57:46+09:00",
  "today": "2026-09-16",
  "dates": [
   "2026-09-15",
@@ -19435,7 +19435,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/180260611",
      "slot_id": "254030",
      "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻20",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "07:00",
