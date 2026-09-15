@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-15T09:13:12+09:00",
+ "generated_at": "2026-09-15T09:39:31+09:00",
  "today": "2026-09-15",
  "dates": [
   "2026-09-14",
@@ -20684,7 +20684,8 @@ window.SCHEDULE = {
      "slot_id": "59736",
      "pgm": "바비브라운 ~15%+쿠폰",
      "title": "한나 머레이 컬렉션 단독출시",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -22265,8 +22266,8 @@ window.SCHEDULE = {
    "2026-09-14",
    "2026-09-15"
   ],
-  "matched": 7,
-  "unmatched": 13
+  "matched": 8,
+  "unmatched": 12
  },
  "fixed": {
   "rows": [
