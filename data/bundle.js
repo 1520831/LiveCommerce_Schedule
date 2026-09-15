@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-16T00:56:01+09:00",
+ "generated_at": "2026-09-16T07:09:22+09:00",
  "today": "2026-09-16",
  "dates": [
   "2026-09-15",
@@ -491,8 +491,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[로보] 고급 리얼 스웨이드 무스탕 특집",
-     "pgm": "[재방] 로보 여성의류 (패션3Lab)",
-     "hot": 6
+     "pgm": "[재방] 로보 여성의류 (패션3Lab)"
     },
     {
      "start": "07:00",
@@ -17193,7 +17192,8 @@ window.SCHEDULE = {
      "price": 17800,
      "link": "https://m.gmarket.co.kr/vi/product/180260611",
      "slot_id": "254030",
-     "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻20"
+     "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻20",
+     "hot": 6
     },
     {
      "start": "07:00",
@@ -19699,7 +19699,7 @@ window.SCHEDULE = {
    "2026-09-16"
   ],
   "matched": 6,
-  "unmatched": 12
+  "unmatched": 14
  },
  "fixed": {
   "rows": [
