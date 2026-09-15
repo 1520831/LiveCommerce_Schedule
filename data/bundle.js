@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-15T11:10:49+09:00",
+ "generated_at": "2026-09-15T11:32:54+09:00",
  "today": "2026-09-15",
  "dates": [
   "2026-09-14",
@@ -2675,7 +2675,7 @@ window.SCHEDULE = {
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
      "category": "여성패션",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -7300,8 +7300,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -7594,7 +7593,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -8112,7 +8111,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -8376,8 +8375,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈",
-     "hot": 8
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -8940,7 +8938,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -9245,7 +9244,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -20676,7 +20676,7 @@ window.SCHEDULE = {
      "pgm": "홍진경이 선택한 곡물도감!",
      "title": "추석 선물 최대특가 라이브",
      "category": "식품",
-     "hot": 1
+     "hot": 3
     },
     {
      "start": "08:30",
