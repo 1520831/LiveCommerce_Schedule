@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-15T12:12:15+09:00",
+ "generated_at": "2026-09-15T12:32:58+09:00",
  "today": "2026-09-15",
  "dates": [
   "2026-09-14",
@@ -2714,7 +2714,7 @@ window.SCHEDULE = {
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
      "category": "여성패션",
-     "hot": 10
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -7776,7 +7776,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 9
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -9111,7 +9111,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -9474,7 +9474,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -10442,7 +10442,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -21167,8 +21167,7 @@ window.SCHEDULE = {
      "slot_id": "252416",
      "pgm": "[앵콜][한가위빅세일] 프랑스 전통 테팔 골라담기!",
      "rerun": true,
-     "category": "가전",
-     "hot": 2
+     "category": "가전"
     },
     {
      "start": "13:00",
@@ -22560,7 +22559,7 @@ window.SCHEDULE = {
      "pgm": "홍진경이 선택한 곡물도감!",
      "title": "추석 선물 최대특가 라이브",
      "category": "식품",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -24175,8 +24174,8 @@ window.SCHEDULE = {
    "2026-09-14",
    "2026-09-15"
   ],
-  "matched": 13,
-  "unmatched": 7
+  "matched": 12,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
