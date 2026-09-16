@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-16T19:33:17+09:00",
+ "generated_at": "2026-09-16T19:48:47+09:00",
  "today": "2026-09-16",
  "dates": [
   "2026-09-15",
@@ -3083,7 +3083,7 @@ window.SCHEDULE = {
      "pgm": "맘만하니",
      "pgm_cd": "0099",
      "category": "서비스·렌탈",
-     "hot": 5
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -8331,7 +8331,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -9473,7 +9473,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 7
     },
     {
      "start": "13:00",
@@ -11151,7 +11151,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 8
     },
     {
      "start": "19:00",
@@ -11259,7 +11260,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 9
+     "hot": 6
     },
     {
      "start": "19:00",
@@ -11322,7 +11323,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 7
+     "hot": 4
     },
     {
      "start": "19:00",
@@ -11463,7 +11464,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 2
     },
     {
      "start": "19:00",
@@ -25907,8 +25908,8 @@ window.SCHEDULE = {
    "2026-09-15",
    "2026-09-16"
   ],
-  "matched": 11,
-  "unmatched": 9
+  "matched": 12,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
