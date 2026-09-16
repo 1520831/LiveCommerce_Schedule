@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-16T13:32:34+09:00",
+ "generated_at": "2026-09-16T13:48:29+09:00",
  "today": "2026-09-16",
  "dates": [
   "2026-09-15",
@@ -2969,7 +2969,7 @@ window.SCHEDULE = {
      "pgm": "맘만하니",
      "pgm_cd": "0099",
      "category": "서비스·렌탈",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -10702,7 +10702,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 5
     },
     {
      "start": "13:00",
