@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-16T09:51:56+09:00",
+ "generated_at": "2026-09-16T10:08:37+09:00",
  "today": "2026-09-16",
  "dates": [
   "2026-09-15",
@@ -2848,7 +2848,7 @@ window.SCHEDULE = {
      "pgm_cd": "1052",
      "category": "유아동",
      "cast": "influencer",
-     "hot": 4
+     "hot": 8
     },
     {
      "start": "09:00",
@@ -2875,7 +2875,8 @@ window.SCHEDULE = {
      "title": "맘만하니🎠VIPS FAMILY DAY 내맘 초대석🍂~56% 혜택",
      "pgm": "맘만하니",
      "pgm_cd": "0099",
-     "category": "서비스·렌탈"
+     "category": "서비스·렌탈",
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -7227,7 +7228,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "09:00",
@@ -8041,7 +8042,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -8084,7 +8086,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -8114,7 +8117,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -19437,7 +19441,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/180260611",
      "slot_id": "254030",
      "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻20",
-     "hot": 3
+     "hot": 7
     },
     {
      "start": "07:00",
@@ -22140,8 +22144,8 @@ window.SCHEDULE = {
    "2026-09-15",
    "2026-09-16"
   ],
-  "matched": 8,
-  "unmatched": 11
+  "matched": 12,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
