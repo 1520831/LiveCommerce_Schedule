@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-16T10:08:37+09:00",
+ "generated_at": "2026-09-16T10:23:35+09:00",
  "today": "2026-09-16",
  "dates": [
   "2026-09-15",
@@ -2847,8 +2847,7 @@ window.SCHEDULE = {
      "pgm": "인플루언서LIVE",
      "pgm_cd": "1052",
      "category": "유아동",
-     "cast": "influencer",
-     "hot": 8
+     "cast": "influencer"
     },
     {
      "start": "09:00",
@@ -7228,7 +7227,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 2
+     "hot": 6
     },
     {
      "start": "09:00",
@@ -8043,7 +8042,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 9
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -8118,7 +8117,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -19441,7 +19440,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/180260611",
      "slot_id": "254030",
      "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻20",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "07:00",
@@ -19528,7 +19527,8 @@ window.SCHEDULE = {
      "slot_id": "252423",
      "pgm": "[앵콜][한가위빅세일] 삼성 가전 혜택 가득 LIVE",
      "rerun": true,
-     "category": "가전"
+     "category": "가전",
+     "hot": 7
     },
     {
      "start": "10:00",
