@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-16T10:23:35+09:00",
+ "generated_at": "2026-09-16T10:38:17+09:00",
  "today": "2026-09-16",
  "dates": [
   "2026-09-15",
@@ -7227,7 +7227,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "09:00",
@@ -7852,7 +7852,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -19439,8 +19440,7 @@ window.SCHEDULE = {
      "price": 17800,
      "link": "https://m.gmarket.co.kr/vi/product/180260611",
      "slot_id": "254030",
-     "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻20",
-     "hot": 10
+     "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻20"
     },
     {
      "start": "07:00",
@@ -19528,7 +19528,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜][한가위빅세일] 삼성 가전 혜택 가득 LIVE",
      "rerun": true,
      "category": "가전",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "10:00",
