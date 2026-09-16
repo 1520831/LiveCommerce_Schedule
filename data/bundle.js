@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-17T00:22:26+09:00",
+ "generated_at": "2026-09-17T07:08:42+09:00",
  "today": "2026-09-17",
  "dates": [
   "2026-09-16",
@@ -529,8 +529,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 막스마라 몽클레어 월 1만원대부터~",
-     "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 1
+     "pgm": "[재방] 투명쇼 (패션잡화)"
     },
     {
      "start": "07:00",
@@ -17330,7 +17329,8 @@ window.SCHEDULE = {
      "price": 0,
      "link": "https://player.sauceflex.com/broadcast/lkebay-9f8445a0bd354d96a1603eac426f16f2",
      "slot_id": "252101",
-     "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻22"
+     "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻22",
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -19359,7 +19359,7 @@ window.SCHEDULE = {
    "2026-09-17"
   ],
   "matched": 6,
-  "unmatched": 6
+  "unmatched": 14
  },
  "fixed": {
   "rows": [
