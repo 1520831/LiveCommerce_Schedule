@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-16T09:36:47+09:00",
+ "generated_at": "2026-09-16T09:51:56+09:00",
  "today": "2026-09-16",
  "dates": [
   "2026-09-15",
@@ -2847,7 +2847,8 @@ window.SCHEDULE = {
      "pgm": "인플루언서LIVE",
      "pgm_cd": "1052",
      "category": "유아동",
-     "cast": "influencer"
+     "cast": "influencer",
+     "hot": 4
     },
     {
      "start": "09:00",
@@ -7195,8 +7196,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 4
+     "category": "테크"
     },
     {
      "start": "09:00",
@@ -19437,7 +19437,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/180260611",
      "slot_id": "254030",
      "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻20",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "07:00",
