@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-09-16T23:46:21+09:00",
+ "updated_at": "2026-09-17T07:10:42+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -3349,18 +3349,6 @@
    },
    {
     "start": "11:30",
-    "end": "12:31",
-    "brand": "농협안심한우",
-    "product": "농협안심한우 1등급 '구이의 정석' 세트 600g (등심300g+갈비살150g+채끝150g)",
-    "price": 69800,
-    "link": "https://gift.kakao.com/product/7609867?url=product&cId=7609867",
-    "slot_id": "59635",
-    "pgm": "농협안심한우 선물세트",
-    "title": "한가위 맞이 대축제",
-    "category": "식품"
-   },
-   {
-    "start": "11:30",
     "end": "12:30",
     "brand": "더블하트",
     "product": "[젖병3개+젖꼭지3개] 더블하트 모유실감 3세대 PPSU 젖병 160ml트윈팩 젖꼭지 2개+싱글팩(S)+수딩젤&오일 증정",
@@ -3394,30 +3382,6 @@
     "pgm": "콧물 코막힘 재채기엔 코에픽",
     "title": "이젠 집에서 치료 하세요!",
     "category": "리빙"
-   },
-   {
-    "start": "12:30",
-    "end": "13:32",
-    "brand": "비윗유",
-    "product": "추석선물) 비윗유 호주산 프로폴리스 스프레이+캔디 선물세트",
-    "price": 35900,
-    "link": "https://store.kakao.com/beewithyou/products/711423650",
-    "slot_id": "60157",
-    "pgm": "추석선물) 비윗유",
-    "title": "프로폴리스 선물세트 기획전",
-    "category": "식품"
-   },
-   {
-    "start": "14:30",
-    "end": "15:30",
-    "brand": "닥터안스에그",
-    "product": "[닥터안스에그] 무항생제 인증 수의사 계란 햇달걀/대란/특란 (30구+30구)",
-    "price": 27000,
-    "link": "https://store.kakao.com/ahnilfarm/products/145039582",
-    "slot_id": "60231",
-    "pgm": "[30구 + 30구]",
-    "title": "닥터안스에그 무항생제 특가전",
-    "category": "식품"
    },
    {
     "start": "16:00",
@@ -3530,18 +3494,6 @@
     "category": "뷰티"
    },
    {
-    "start": "19:00",
-    "end": "20:00",
-    "brand": "에어르",
-    "product": "[연예인PICK] 에어르 슬릭 클린스테이션 무선 청소기",
-    "price": 249000,
-    "link": "https://store.kakao.com/airr/products/603099642",
-    "slot_id": "60242",
-    "pgm": "[추석 특가] 에어르 전제품",
-    "title": "역대급 혜택 LIVE",
-    "category": "리빙"
-   },
-   {
     "start": "20:00",
     "end": "21:03",
     "brand": "뜨락",
@@ -3612,18 +3564,6 @@
     "pgm": "아르페지오 가을신상 오픈!",
     "title": "항균 옥수수솜 이불세트",
     "category": "리빙"
-   },
-   {
-    "start": "22:30",
-    "end": "23:14",
-    "brand": "터치그라운드 스니커즈",
-    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-    "price": 49900,
-    "link": "https://store.kakao.com/touchground/products/774098244",
-    "slot_id": "60221",
-    "pgm": "터치그라운드 쿠셔닝슬리퍼",
-    "title": "날도 더워지는데 구매각?!",
-    "category": "패션"
    }
   ],
   "2026-09-17": [
@@ -3909,7 +3849,7 @@
     "end": "22:00",
     "brand": "smartinfini",
     "product": "[LIVE/휘닉스파크] 1박+액티비티 1종(워터파크/상상놀이터/루지/곤돌라 중 택) 3인 (9/18~11/30)",
-    "price": 152000,
+    "price": 610000,
     "link": "https://store.kakao.com/smartinfini01/products/785216630",
     "slot_id": "59433",
     "pgm": "휘닉스 파크 & 아일랜드",
@@ -4968,6 +4908,188 @@
     "pgm": "[슬룸]명절 준비로 쌓인",
     "title": "피로를 풀어줄 힐링 선물",
     "category": "테크"
+   }
+  ],
+  "2026-09-22": [
+   {
+    "start": "08:30",
+    "end": "11:30",
+    "brand": "매크로온",
+    "product": "[1+1] 마요라 코피코 커피 캔디 2종(블리스터/봉지)",
+    "price": 40000,
+    "link": "https://store.kakao.com/macroon/products/580617146",
+    "slot_id": "59598",
+    "pgm": "코피코 캔디&레이즈 감자칩",
+    "title": "랑네제 꿀 선물세트 특가",
+    "category": "식품"
+   },
+   {
+    "start": "08:30",
+    "end": "10:00",
+    "brand": "제이엠더블유본사",
+    "product": "JMW 볼륨온 아이보리 무선 브러쉬 빗 고데기 매직기+전용파우치&어댑터",
+    "price": 49000,
+    "link": "https://store.kakao.com/jmwkorea/products/645113713",
+    "slot_id": "59734",
+    "pgm": "JMW 추석맞이 카쇼라 특가",
+    "title": "보름달처럼 풍성한 혜택!",
+    "category": "뷰티"
+   },
+   {
+    "start": "08:30",
+    "end": "10:00",
+    "brand": "신세계푸드",
+    "product": "한돈 등심돈까스 10팩/치즈돈까스(문경사과 소스포함)",
+    "price": 38900,
+    "link": "https://store.kakao.com/shinsegaefood/products/738831457",
+    "slot_id": "59800",
+    "pgm": "신세계푸드 등심/치즈돈까스",
+    "title": "추석 전 간편식 파티!",
+    "category": "식품"
+   },
+   {
+    "start": "08:30",
+    "end": "11:30",
+    "brand": "스케쳐스코리아 본사",
+    "product": "[스케쳐스 공식] 성인화&키즈 추석 특가 마지막 찬스! BEST 워킹화/운동화/아치핏/슬립인스 ~33%+쿠폰",
+    "price": 99000,
+    "link": "https://store.kakao.com/skecherskr/products/66544898",
+    "slot_id": "59980",
+    "pgm": "가을에도 스케쳐스",
+    "title": "성인화&키즈 추석 특가 찬스",
+    "category": "패션"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "우고래빗",
+    "product": "우고래빗 프로틴온 하루견과 (20gx100봉) 단백질간식",
+    "price": 69900,
+    "link": "https://gift.kakao.com/product/13417000?url=product&cId=13417000",
+    "slot_id": "59805",
+    "pgm": "우고래빗 추석맞이 카쇼라",
+    "title": "하루견과 단독특가+사은품혜택",
+    "category": "식품"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "롯데칠성음료 브랜드 스토어",
+    "product": "펩시제로슈거 라임/제로카페인 210ml 30캔+355ml 24캔 외 제로탄산 300ml/355ml 캔/펫",
+    "price": 24900,
+    "link": "https://store.kakao.com/lottechilsung/products/780250877",
+    "slot_id": "59826",
+    "pgm": "롯데칠성 가을맞이 나들이특집",
+    "title": "최대 60% 특가 라이브!",
+    "category": "식품"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "굿초이스몰",
+    "product": "모리나가 실큰두부 307g 12개, 2종 택일",
+    "price": 49900,
+    "link": "https://store.kakao.com/goodchoicemall/products/790180352",
+    "slot_id": "60096",
+    "pgm": "[모리나가] 실큰두부307g",
+    "title": "12개입 2가지맛 택일",
+    "category": "식품"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "농협안심한우",
+    "product": "농협안심한우 1등급 '특별한 구이' 금바구니 선물세트 1kg(등심400g+안심150g+채끝150g+부채살300g)",
+    "price": 129000,
+    "link": "https://gift.kakao.com/product/1303971?url=product&cId=1303971",
+    "slot_id": "59789",
+    "pgm": "농협한우로 추석 준비 완료",
+    "title": "마음을 전하는 프리미엄 선물",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "아모레퍼시픽",
+    "product": "[쟁이기] 일리윤 세라마이드 아토로션 대용량 [564ml x2+350ml x2] (+로션 50ml+커피 증정)",
+    "price": 86200,
+    "link": "https://store.kakao.com/amorepacific/products/189965992",
+    "slot_id": "59740",
+    "pgm": "일리윤 ~42% + 5%쿠폰",
+    "title": "라이브중 전원 선로션 증정",
+    "category": "뷰티"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "BHC",
+    "product": "뿌링클+치즈볼+코카-콜라제로1.25L",
+    "price": 25000,
+    "link": "https://gift.kakao.com/product/14169502?url=product&cId=14169502",
+    "slot_id": "59840",
+    "pgm": "BHC와 아시안게임 즐기기",
+    "title": "치킨+떡볶이 필승 조합",
+    "category": "교환권"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "마크니",
+    "product": "마크니 하트 퀼팅 스트링 파우치백 3종 토트백 미니백 데일리백 20대여자선물",
+    "price": 32800,
+    "link": "https://gift.kakao.com/product/13328605?url=product&cId=13328605",
+    "slot_id": "59895",
+    "pgm": "마크니 단독 특가전",
+    "title": "연휴 맞이 혜택 가득!",
+    "category": "패션"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "리쥬란 코스메틱",
+    "product": "[선물포장] \"프리미엄선물\" c-PDRN 스킨 블루밍 앰플+크림 선물세트",
+    "price": 74000,
+    "link": "https://gift.kakao.com/product/11903838?url=product&cId=11903838",
+    "slot_id": "60001",
+    "pgm": "리쥬란 ~53% 추석선물특가",
+    "title": "전구매 미니 크림+마스크팩",
+    "category": "뷰티"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "쉐이크베이비",
+    "product": "쉐이크베이비 락토컷 프로틴 단백질쉐이크 630g",
+    "price": 105600,
+    "link": "https://store.kakao.com/shakebaby/products/68017554",
+    "slot_id": "59820",
+    "pgm": "쉐이크베이비 1+1 톡딜특가",
+    "title": "연휴 전 마지막 배송 기회",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "아모레퍼시픽",
+    "product": "[쟁이기] 려 루트젠 볼륨탈모 증상케어 기획 (샴푸 515ml 2개+리필 400ml 2개) (+샴.트 200ml+커피 증정)",
+    "price": 91600,
+    "link": "https://store.kakao.com/amorepacific/products/263685099",
+    "slot_id": "60027",
+    "pgm": "볼륨탈모케어 근본!려 루트젠",
+    "title": "스페셜 혜택&선물",
+    "category": "뷰티"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "LG생활건강",
+    "product": "실크테라피 퍼펙트페어 에센스150ml 2개+60ml+모이스쳐 에센스 15ml+퍼플 브러쉬+쇼핑백 증정 외",
+    "price": 60800,
+    "link": "https://store.kakao.com/lgcare/products/218948273",
+    "slot_id": "60036",
+    "pgm": "실크테라피 퍼펙트페어 에센스",
+    "title": "~50%할인+추가증정",
+    "category": "뷰티"
    }
   ]
  }

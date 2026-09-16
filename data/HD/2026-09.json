@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-16T23:46:06+09:00",
+ "updated_at": "2026-09-17T07:10:24+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -5971,14 +5971,14 @@
     "end": "11:59",
     "brand": "루솔",
     "product": "[나눔발송][루솔] 진한 배도라지즙 선물박스(120포) 배즙",
-    "price": 88300,
+    "price": 97000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2225275178",
     "slot_id": "202609166004",
     "items": [
      {
       "brand": "루솔",
       "product": "[나눔발송][루솔] 진한 배도라지즙 선물박스(120포) 배즙",
-      "price": 88300,
+      "price": 97000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2225275178"
      }
     ],
@@ -6009,14 +6009,14 @@
     "end": "12:59",
     "brand": "경복궁",
     "product": "궁중본갈비 600gx3팩",
-    "price": 111000,
+    "price": 130000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2152668475",
     "slot_id": "202609166005",
     "items": [
      {
       "brand": "경복궁",
       "product": "궁중본갈비 600gx3팩",
-      "price": 111000,
+      "price": 130000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2152668475"
      }
     ],
@@ -6085,14 +6085,14 @@
     "end": "15:59",
     "brand": "듀엘",
     "product": "[라이브무료반품][듀엘] 오버핏 테일러드 싱글 자켓 _D254MSF233",
-    "price": 129000,
+    "price": 179400,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253447441",
     "slot_id": "202609166008",
     "items": [
      {
       "brand": "듀엘",
       "product": "[라이브무료반품][듀엘] 오버핏 테일러드 싱글 자켓 _D254MSF233",
-      "price": 129000,
+      "price": 179400,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253447441"
      }
     ],
@@ -6236,16 +6236,16 @@
     "start": "20:00",
     "end": "20:59",
     "brand": "겔랑",
-    "product": "[허니글로우광 선물]빠뤼르 골드 24k 베이스 앤 빠뤼르 골드 스킨 세럼 파운데이션 세트",
-    "price": 252000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253427188",
+    "product": "빠뤼르 골드 스킨 세럼 파운데이션 세트",
+    "price": 137000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252191438",
     "slot_id": "202609166013",
     "items": [
      {
       "brand": "겔랑",
-      "product": "[허니글로우광 선물]빠뤼르 골드 24k 베이스 앤 빠뤼르 골드 스킨 세럼 파운데이션 세트",
-      "price": 252000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253427188"
+      "product": "빠뤼르 골드 스킨 세럼 파운데이션 세트",
+      "price": 137000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252191438"
      }
     ],
     "title": "[겔랑] NEW 파운데이션 & 추석 선물 특집🎁",
@@ -6294,14 +6294,14 @@
     "end": "21:59",
     "brand": "루솔",
     "product": "[나눔발송][루솔] 진한 배도라지즙 선물박스(120포) 배즙",
-    "price": 88300,
+    "price": 97000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2225275178",
     "slot_id": "202609166028",
     "items": [
      {
       "brand": "루솔",
       "product": "[나눔발송][루솔] 진한 배도라지즙 선물박스(120포) 배즙",
-      "price": 88300,
+      "price": 97000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2225275178"
      }
     ],
@@ -6543,14 +6543,14 @@
     "end": "15:59",
     "brand": "헤지스",
     "product": "[헤지스 여성] [26SS] HSCO6B301I1 경량 하프 트렌치 코트 라이트베이지",
-    "price": 349300,
+    "price": 324400,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247624872",
     "slot_id": "202609176009",
     "items": [
      {
       "brand": "헤지스",
       "product": "[헤지스 여성] [26SS] HSCO6B301I1 경량 하프 트렌치 코트 라이트베이지",
-      "price": 349300,
+      "price": 324400,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247624872"
      }
     ],
@@ -7836,6 +7836,103 @@
      }
     ],
     "title": "수지 PICK! 게스진 FW 신상 최대 39%▼",
+    "pgm": "현대렐라쇼 (멀티커머스)"
+   }
+  ],
+  "2026-09-22": [
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "핏플랍",
+    "product": "여성 델리카토 크로코다일 발레리나- 올 블랙 FT69K2M075",
+    "price": 259000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253284622",
+    "slot_id": "202609226003",
+    "items": [
+     {
+      "brand": "핏플랍",
+      "product": "여성 델리카토 크로코다일 발레리나- 올 블랙 FT69K2M075",
+      "price": 259000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253284622"
+     }
+    ],
+    "title": "[핏플랍] 메리제인/로퍼 外 가을준비 슈즈 추천",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "지센",
+    "product": "(2컬러) 피어로즈 메탈 트위드 라운드 자켓 LFJKP993",
+    "price": 107000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253250383",
+    "slot_id": "202609226011",
+    "items": [
+     {
+      "brand": "지센",
+      "product": "(2컬러) 피어로즈 메탈 트위드 라운드 자켓 LFJKP993",
+      "price": 107000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253250383"
+     }
+    ],
+    "title": "[지센] FW 가을신상 여성의류 런칭전!",
+    "pgm": "[지센] 여성의류 (패션1Lab)"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "헤닝",
+    "product": "에포크 세라믹식탁 2인용 원목 식탁 800 테이블",
+    "price": 221000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252319651",
+    "slot_id": "202609226012",
+    "items": [
+     {
+      "brand": "헤닝",
+      "product": "에포크 세라믹식탁 2인용 원목 식탁 800 테이블",
+      "price": 221000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252319651"
+     }
+    ],
+    "title": "[헤닝] 명절특집 세라믹 원목식탁 단독헤택",
+    "pgm": "[헤닝]식탁 (리빙)"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "셀린느",
+    "product": "선글라스(CL40194U)",
+    "price": 498000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252765355",
+    "slot_id": "202609226016",
+    "items": [
+     {
+      "brand": "셀린느",
+      "product": "선글라스(CL40194U)",
+      "price": 498000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252765355"
+     }
+    ],
+    "title": "[명품특별전] 셀린느 40만원대 타임찬스",
+    "pgm": "명품특별전 (노블레스)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "주크",
+    "product": "백 벨트 울코트 Z254MSG549 Z254MSG549",
+    "price": 229500,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253563237",
+    "slot_id": "202609226017",
+    "items": [
+     {
+      "brand": "주크",
+      "product": "백 벨트 울코트 Z254MSG549 Z254MSG549",
+      "price": 229500,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253563237"
+     }
+    ],
+    "title": "쥬크의 간절기 이너·외투🥼 이월+신상 ~79%▼",
     "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ]
