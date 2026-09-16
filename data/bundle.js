@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-16T13:58:44+09:00",
+ "generated_at": "2026-09-16T14:15:46+09:00",
  "today": "2026-09-16",
  "dates": [
   "2026-09-15",
@@ -2969,7 +2969,7 @@ window.SCHEDULE = {
      "pgm": "맘만하니",
      "pgm_cd": "0099",
      "category": "서비스·렌탈",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -8458,7 +8458,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -10702,7 +10702,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "13:00",
@@ -20860,7 +20860,8 @@ window.SCHEDULE = {
      "slot_id": "252423",
      "pgm": "[앵콜][한가위빅세일] 삼성 가전 혜택 가득 LIVE",
      "rerun": true,
-     "category": "가전"
+     "category": "가전",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -21917,7 +21918,7 @@ window.SCHEDULE = {
      "pgm": "밀크베이비 추석맞이 가을신상",
      "title": "카쇼라 LIVE 초특가!",
      "category": "키즈",
-     "hot": 8
+     "hot": 7
     },
     {
      "start": "11:30",
@@ -23489,8 +23490,8 @@ window.SCHEDULE = {
    "2026-09-15",
    "2026-09-16"
   ],
-  "matched": 11,
-  "unmatched": 9
+  "matched": 12,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
