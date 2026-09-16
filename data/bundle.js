@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-16T13:16:58+09:00",
+ "generated_at": "2026-09-16T13:32:34+09:00",
  "today": "2026-09-16",
  "dates": [
   "2026-09-15",
@@ -10702,7 +10702,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 9
+     "hot": 7
     },
     {
      "start": "13:00",
@@ -21917,7 +21917,7 @@ window.SCHEDULE = {
      "pgm": "밀크베이비 추석맞이 가을신상",
      "title": "카쇼라 LIVE 초특가!",
      "category": "키즈",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "11:30",
