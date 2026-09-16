@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-17T08:30:14+09:00",
+ "generated_at": "2026-09-17T08:45:13+09:00",
  "today": "2026-09-17",
  "dates": [
   "2026-09-16",
@@ -549,7 +549,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이태리 18K 체인주얼리 최저가 도전",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 6
+     "hot": 10
     },
     {
      "start": "08:00",
@@ -20465,7 +20465,8 @@ window.SCHEDULE = {
      "slot_id": "59538",
      "pgm": "러쉬x조앤프렌즈 콜라보 론칭",
      "title": "카쇼라 단독&스페셜 선물",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 5
     },
     {
      "start": "08:30",
@@ -20477,7 +20478,8 @@ window.SCHEDULE = {
      "slot_id": "59667",
      "pgm": "웅진 한가위 신상라이브",
      "title": "시원한 인기음료 총집합!",
-     "category": "식품"
+     "category": "식품",
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -21975,8 +21977,8 @@ window.SCHEDULE = {
    "2026-09-16",
    "2026-09-17"
   ],
-  "matched": 6,
-  "unmatched": 14
+  "matched": 8,
+  "unmatched": 12
  },
  "fixed": {
   "rows": [
