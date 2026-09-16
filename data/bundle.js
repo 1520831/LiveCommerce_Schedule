@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-16T17:18:31+09:00",
+ "generated_at": "2026-09-16T17:34:56+09:00",
  "today": "2026-09-16",
  "dates": [
   "2026-09-15",
@@ -20860,8 +20860,7 @@ window.SCHEDULE = {
      "slot_id": "252423",
      "pgm": "[앵콜][한가위빅세일] 삼성 가전 혜택 가득 LIVE",
      "rerun": true,
-     "category": "가전",
-     "hot": 10
+     "category": "가전"
     },
     {
      "start": "10:00",
@@ -23490,8 +23489,8 @@ window.SCHEDULE = {
    "2026-09-15",
    "2026-09-16"
   ],
-  "matched": 12,
-  "unmatched": 8
+  "matched": 11,
+  "unmatched": 9
  },
  "fixed": {
   "rows": [
