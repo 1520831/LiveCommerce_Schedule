@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-16T11:09:22+09:00",
+ "generated_at": "2026-09-16T11:25:40+09:00",
  "today": "2026-09-16",
  "dates": [
   "2026-09-15",
@@ -2875,7 +2875,7 @@ window.SCHEDULE = {
      "pgm": "맘만하니",
      "pgm_cd": "0099",
      "category": "서비스·렌탈",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -7514,8 +7514,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -7853,7 +7852,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -8043,7 +8042,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 4
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -8118,7 +8117,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -9262,7 +9261,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -19528,7 +19528,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜][한가위빅세일] 삼성 가전 혜택 가득 LIVE",
      "rerun": true,
      "category": "가전",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "10:00",
