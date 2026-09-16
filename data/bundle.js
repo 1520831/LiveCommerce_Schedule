@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-17T07:12:02+09:00",
+ "generated_at": "2026-09-17T07:23:30+09:00",
  "today": "2026-09-17",
  "dates": [
   "2026-09-16",
@@ -549,7 +549,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이태리 18K 체인주얼리 최저가 도전",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "08:00",
@@ -19825,7 +19825,7 @@ window.SCHEDULE = {
      "link": "https://player.sauceflex.com/broadcast/lkebay-9f8445a0bd354d96a1603eac426f16f2",
      "slot_id": "252101",
      "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻22",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "10:00",
