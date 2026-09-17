@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-17T18:13:56+09:00",
+ "updated_at": "2026-09-17T23:45:20+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -6657,14 +6657,14 @@
     "end": "20:59",
     "brand": "고메프리미엄",
     "product": "미국산 프라임등급 LA 꽃갈비 선물세트 2.4kg (1.2kg x 2팩)",
-    "price": 139000,
+    "price": 139900,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2245484342",
     "slot_id": "202609176014",
     "items": [
      {
       "brand": "고메프리미엄",
       "product": "미국산 프라임등급 LA 꽃갈비 선물세트 2.4kg (1.2kg x 2팩)",
-      "price": 139000,
+      "price": 139900,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2245484342"
      }
     ],
@@ -6765,6 +6765,24 @@
     ],
     "title": "[커스텀멜로우] 미리 준비하는 인기 아우터 ~70%▼",
     "pgm": "현대렐라쇼 (멀티커머스)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "드리미",
+    "product": "[21시 라이브]드리미 X60 Ultra 올인원 로봇청소기+악세사리 키트 증정",
+    "price": 1590000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249008250",
+    "slot_id": "202609176024",
+    "items": [
+     {
+      "brand": "드리미",
+      "product": "[21시 라이브]드리미 X60 Ultra 올인원 로봇청소기+악세사리 키트 증정",
+      "price": 1590000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249008250"
+     }
+    ],
+    "title": "[드리미] 한가위 선물대전 X60 99만원 특별가"
    }
   ],
   "2026-09-18": [
