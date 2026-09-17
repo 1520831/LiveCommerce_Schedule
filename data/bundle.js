@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-17T09:53:01+09:00",
+ "generated_at": "2026-09-17T10:09:26+09:00",
  "today": "2026-09-17",
  "dates": [
   "2026-09-16",
@@ -2790,8 +2790,7 @@ window.SCHEDULE = {
      "title": "다시보는 잘사는💚마장동 한우, 과일꾼 과일🍂구이 선물세트",
      "pgm": "잘사는 언니들",
      "pgm_cd": "1028",
-     "category": "식품·건강",
-     "hot": 10
+     "category": "식품·건강"
     },
     {
      "start": "09:00",
@@ -7421,8 +7420,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈",
-     "hot": 9
+     "category": "키즈"
     },
     {
      "start": "09:30",
@@ -7738,7 +7736,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -19827,7 +19826,7 @@ window.SCHEDULE = {
      "link": "https://player.sauceflex.com/broadcast/lkebay-9f8445a0bd354d96a1603eac426f16f2",
      "slot_id": "252101",
      "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻22",
-     "hot": 2
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -19869,7 +19868,8 @@ window.SCHEDULE = {
      "slot_id": "254328",
      "pgm": "[앵콜]역대급 최저가🌕로보락S10 MaxV Ultra",
      "rerun": true,
-     "category": "가전"
+     "category": "가전",
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -20480,7 +20480,7 @@ window.SCHEDULE = {
      "pgm": "웅진 한가위 신상라이브",
      "title": "시원한 인기음료 총집합!",
      "category": "식품",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "10:00",
