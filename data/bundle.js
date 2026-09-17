@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-17T21:54:10+09:00",
+ "generated_at": "2026-09-17T22:11:27+09:00",
  "today": "2026-09-17",
  "dates": [
   "2026-09-16",
@@ -8123,7 +8123,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -11258,8 +11258,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티",
-     "hot": 3
+     "category": "뷰티"
     },
     {
      "start": "19:00",
@@ -24645,7 +24644,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]역대급 최저가🌕로보락S10 MaxV Ultra",
      "rerun": true,
      "category": "가전",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -24947,7 +24946,8 @@ window.SCHEDULE = {
      "slot_id": "254325",
      "pgm": "[앵콜][한가위빅세일] 삼성 가전 혜택 가득 LIVE",
      "rerun": true,
-     "category": "가전"
+     "category": "가전",
+     "hot": 8
     },
     {
      "start": "22:00",
