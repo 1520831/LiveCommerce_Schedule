@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-09-17T23:45:35+09:00",
+ "updated_at": "2026-09-18T07:10:29+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -3602,18 +3602,6 @@
     "category": "식품"
    },
    {
-    "start": "09:42",
-    "end": "10:50",
-    "brand": "터치그라운드 스니커즈",
-    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-    "price": 49900,
-    "link": "https://store.kakao.com/touchground/products/774098244",
-    "slot_id": "60275",
-    "pgm": "터치그라운드 발편한운동화",
-    "title": "가벼우면서 쿠션감 좋은운동화",
-    "category": "패션"
-   },
-   {
     "start": "10:00",
     "end": "11:00",
     "brand": "클룹",
@@ -3662,30 +3650,6 @@
     "category": "뷰티"
    },
    {
-    "start": "11:00",
-    "end": "12:01",
-    "brand": "키즈텐",
-    "product": "[이벤트] 연세 키즈텐 칼슘업 선물세트 칼슘 성장기 어린이 영양제 젤리 20g x 30포",
-    "price": 45000,
-    "link": "https://store.kakao.com/kids10/products/755873290",
-    "slot_id": "60033",
-    "pgm": "9월 키즈텐과",
-    "title": "함께하는 추석 라이브",
-    "category": "식품"
-   },
-   {
-    "start": "11:30",
-    "end": "12:30",
-    "brand": "농협안심한우",
-    "product": "농협안심한우 1+등급 '등안채 스페셜 구이' 한우세트 900g(등심300g+안심300g+채끝300g)",
-    "price": 129000,
-    "link": "https://gift.kakao.com/product/14076458?url=product&cId=14076458",
-    "slot_id": "59595",
-    "pgm": "농협안심한우 1+등안채스페셜",
-    "title": "한우선물세트외 인기구이세트",
-    "category": "식품"
-   },
-   {
     "start": "11:30",
     "end": "12:30",
     "brand": "쥬시쥬디",
@@ -3730,18 +3694,6 @@
     "slot_id": "60142",
     "pgm": "2900원 떡볶이 7가지맛",
     "title": "6+1 더하기 할인쿠폰",
-    "category": "식품"
-   },
-   {
-    "start": "14:30",
-    "end": "15:30",
-    "brand": "닥터안스에그",
-    "product": "[한돈 갈비 선물세트 2kg 3.2kg 5kg] 닥터안스프레쉬 무항생제 한돈 갈비 찜용 명절 추석",
-    "price": 70000,
-    "link": "https://store.kakao.com/ahnilfarm/products/178724604",
-    "slot_id": "60261",
-    "pgm": "[무항생제 도축 4일 내]",
-    "title": "닥터안스프레쉬 한돈 선물세트",
     "category": "식품"
    },
    {
@@ -3980,9 +3932,9 @@
     "start": "08:30",
     "end": "11:30",
     "brand": "헉슬리",
-    "product": "헤어 샴푸 750mL 1+1 패키지",
-    "price": 48000,
-    "link": "https://gift.kakao.com/product/11793013?url=product&cId=11793013",
+    "product": "헉슬리 리바운싱 라인 1+1 패키지",
+    "price": 33000,
+    "link": "https://gift.kakao.com/product/11638130?url=product&cId=11638130",
     "slot_id": "59679",
     "pgm": "헉슬리 헤어&바디 최저가!",
     "title": "추석 한정 에디션+추가할인",
@@ -4184,7 +4136,7 @@
     "end": "20:30",
     "brand": "유스트",
     "product": "백노삼 세트 (75ml) (+마사지봉 증정)",
-    "price": 169000,
+    "price": 135200,
     "link": "https://gift.kakao.com/product/13684490?url=product&cId=13684490",
     "slot_id": "59883",
     "pgm": "[유스트] 따뜻한 추석 선물",
@@ -4964,7 +4916,7 @@
     "end": "10:00",
     "brand": "제이엠더블유본사",
     "product": "JMW 볼륨온 아이보리 무선 브러쉬 빗 고데기 매직기+전용파우치&어댑터",
-    "price": 49000,
+    "price": 99000,
     "link": "https://store.kakao.com/jmwkorea/products/645113713",
     "slot_id": "59734",
     "pgm": "JMW 추석맞이 카쇼라 특가",
@@ -5138,6 +5090,188 @@
     "pgm": "실크테라피 퍼펙트페어 에센스",
     "title": "~50%할인+추가증정",
     "category": "뷰티"
+   }
+  ],
+  "2026-09-23": [
+   {
+    "start": "08:30",
+    "end": "10:00",
+    "brand": "동아오츠카SHOP",
+    "product": "나랑드사이다 모음전 (오리지널,그린애플,파인애플)",
+    "price": 16500,
+    "link": "https://store.kakao.com/dongashop/products/792553429",
+    "slot_id": "59884",
+    "pgm": "동아오츠카 음료 최대 혜택!",
+    "title": "나랑드사이다 최대 ~39%",
+    "category": "식품"
+   },
+   {
+    "start": "08:30",
+    "end": "11:30",
+    "brand": "티르리르",
+    "product": "티르리르 리엘 러브듀 0.03CT 화이트 실버 목걸이 (A/S가능)",
+    "price": 78000,
+    "link": "https://gift.kakao.com/product/14254477?url=product&cId=14254477",
+    "slot_id": "59966",
+    "pgm": "가을에 더 빛나는 티르리르!",
+    "title": "신상 선런칭/BEST템까지",
+    "category": "패션"
+   },
+   {
+    "start": "08:30",
+    "end": "11:30",
+    "brand": "스킨푸드 본사직영",
+    "product": "NEW 당근 피디알엔 속수분 패드 100매 + [증정] 당근 피디알엔 속수분 패드 2매입 5개",
+    "price": 26000,
+    "link": "https://store.kakao.com/theskinfood/products/792135493",
+    "slot_id": "60006",
+    "pgm": "스킨푸드 ~69%+쿠폰할인",
+    "title": "5만원 이상 크림 본품 증정",
+    "category": "뷰티"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "농협안심한우",
+    "product": "농협안심한우 1등급 '소소한 행복' 선물세트 1kg(등심200g+채끝150g+부채150g+국거리200g+불고기300g)",
+    "price": 100000,
+    "link": "https://gift.kakao.com/product/1304069?url=product&cId=1304069",
+    "slot_id": "59837",
+    "pgm": "농협 명품 투뿔 1++한우",
+    "title": "연휴 전 전하는 고마운 마음",
+    "category": "식품"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "듀얼소닉",
+    "product": "듀얼소닉 글림빛 세모 플러스 (물광 진정 4in1 물방울초음파 테크)",
+    "price": 349000,
+    "link": "https://store.kakao.com/dualsonic/products/756624149",
+    "slot_id": "60030",
+    "pgm": "매일 예뻐지는 빛 듀얼소닉",
+    "title": "글림빛 최대할인+페이혜택",
+    "category": "뷰티"
+   },
+   {
+    "start": "10:00",
+    "end": "13:00",
+    "brand": "폴레드",
+    "product": "[폴레드 픽셀] 직접살균 UVC LED 젖병소독기 모음",
+    "price": 425000,
+    "link": "https://store.kakao.com/poled/products/171356835",
+    "slot_id": "60148",
+    "pgm": "픽셀 X 헤겐이 만났다!",
+    "title": "페이 할인 + 사은품 증정",
+    "category": "키즈"
+   },
+   {
+    "start": "11:30",
+    "end": "14:30",
+    "brand": "베베숲",
+    "product": "[베베숲] 시그니처 위드블루 70매 캡 20팩+센시 휴대 4팩 외 베베숲 스테디셀러 모음",
+    "price": 50990,
+    "link": "https://store.kakao.com/bebesup/products/116333987",
+    "slot_id": "59907",
+    "pgm": "베베숲 고평량 인기 세트",
+    "title": "아기 물티슈 판매 1위",
+    "category": "키즈"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "명태잡는날",
+    "product": "[명태잡는날] 속초 명태회무침 400g, 1kg 외 밥도둑 젓갈 모음",
+    "price": 20900,
+    "link": "https://store.kakao.com/myeontae/products/97653773",
+    "slot_id": "60069",
+    "pgm": "속초식 명태회무침 특집",
+    "title": "입맛 살리는 맛깔나는 밥도둑",
+    "category": "식품"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "신선하랑",
+    "product": "26년 햇 달콤한 신품종 호풍미 호박고구마 3kg 5kg 못난이",
+    "price": 55000,
+    "link": "https://store.kakao.com/ssharang/products/603791539",
+    "slot_id": "60306",
+    "pgm": "해남 호풍미 고구마",
+    "title": "런칭 기념 LIVE",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "라이온코리아",
+    "product": "비트 캡슐세제 몬스터팟 25입x2개+탈취부스터 26개입+ 세탁조 클리너 8개입+몬스터팟 5입 증정(옵션선택)",
+    "price": 49000,
+    "link": "https://store.kakao.com/lionkorea/products/691958948",
+    "slot_id": "60115",
+    "pgm": "아이깨끗해&비트캡슐 단독특가",
+    "title": "캡슐세제 패키지 단독오픈!",
+    "category": "리빙"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "피앤지 온라인 스토어",
+    "product": "팸퍼스 기저귀 2박스 골라담기+모바일5천원증정(썸머/일반/밤/밴드 등)",
+    "price": 187200,
+    "link": "https://store.kakao.com/pngshop/products/759303138",
+    "slot_id": "60199",
+    "pgm": "팸퍼스x카카오",
+    "title": "라이브 전 라인 골라담기!",
+    "category": "키즈"
+   },
+   {
+    "start": "20:00",
+    "end": "23:00",
+    "brand": "클렌하임",
+    "product": "클렌하임 바디탭 라인 마사지기",
+    "price": 79900,
+    "link": "https://store.kakao.com/klenheim/products/735764139",
+    "slot_id": "59594",
+    "pgm": "프리미엄 마사지기 클렌하임",
+    "title": "근막이완부터 붓기관리까지!",
+    "category": "여행"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "에이카랩스",
+    "product": "[에이카랩스] 어린이집 준비 필수템 모음! 치약,칫솔 세트로 한 번에! 최대 52% 할인",
+    "price": 40000,
+    "link": "https://store.kakao.com/eicalabs/products/708394433",
+    "slot_id": "59868",
+    "pgm": "에이카랩스 추석 특집 라이브",
+    "title": "~52% 할인",
+    "category": "키즈"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "밤비코",
+    "product": "[4장세트] 숨쉬는 에어홀 심리스 브라 팬티 / 차르르 모달 캡끈나시 홈웨어 티셔츠 원피스 상하의 세트 모음",
+    "price": 39900,
+    "link": "https://store.kakao.com/bambiko/products/537075358",
+    "slot_id": "60241",
+    "pgm": "에어홀 숨쉬는 심리스브라4장",
+    "title": "/ 쾌적한 언더웨어 모음전",
+    "category": "패션"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "산숲",
+    "product": "[애재올] 데일리 천연 원료 스틱 SET",
+    "price": 36900,
+    "link": "https://store.kakao.com/sansup/products/793200950",
+    "slot_id": "60311",
+    "pgm": "[신규입점] 기관지엔 애재올",
+    "title": "휴대용 간편 스틱 특가",
+    "category": "식품"
    }
   ]
  }

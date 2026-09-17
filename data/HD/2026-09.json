@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-17T23:45:20+09:00",
+ "updated_at": "2026-09-18T07:10:15+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -6543,14 +6543,14 @@
     "end": "15:59",
     "brand": "헤지스",
     "product": "[헤지스 여성] [26SS] HSCO6B301I1 경량 하프 트렌치 코트 라이트베이지",
-    "price": 324400,
+    "price": 349300,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247624872",
     "slot_id": "202609176009",
     "items": [
      {
       "brand": "헤지스",
       "product": "[헤지스 여성] [26SS] HSCO6B301I1 경량 하프 트렌치 코트 라이트베이지",
-      "price": 324400,
+      "price": 349300,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247624872"
      }
     ],
@@ -6749,7 +6749,7 @@
    },
    {
     "start": "23:00",
-    "end": "23:59",
+    "end": "23:46",
     "brand": "커스텀멜로우",
     "product": "[쇼핑라이브] 베이지 캐시미어 혼방 발마칸 코트 CWCAW25611BEX CWCAW25611BEX",
     "price": 319600,
@@ -6962,14 +6962,14 @@
     "end": "14:59",
     "brand": "김씨언니마켓",
     "product": "생강청 수제 생강차 600gX3병 김씨언니마켓",
-    "price": 67900,
+    "price": 41900,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2238849371",
     "slot_id": "202609186007",
     "items": [
      {
       "brand": "김씨언니마켓",
       "product": "생강청 수제 생강차 600gX3병 김씨언니마켓",
-      "price": 67900,
+      "price": 41900,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2238849371"
      }
     ],
@@ -7439,14 +7439,14 @@
     "end": "21:59",
     "brand": "타미힐피거",
     "product": "[타미진] 여성 슬림 케이블 크루넥 가디건 라이트그레이 T32G7KCD17TWT1 T32G7KCD17TWT2",
-    "price": 199000,
+    "price": 179100,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253284144",
     "slot_id": "202609196010",
     "items": [
      {
       "brand": "타미힐피거",
       "product": "[타미진] 여성 슬림 케이블 크루넥 가디건 라이트그레이 T32G7KCD17TWT1 T32G7KCD17TWT2",
-      "price": 199000,
+      "price": 179100,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253284144"
      }
     ],
@@ -7818,25 +7818,6 @@
    }
   ],
   "2026-09-21": [
-   {
-    "start": "07:00",
-    "end": "07:59",
-    "brand": "조니스 그로서리",
-    "product": "[조니스그로서리][BEST입문팩] 납작 플레인1 + 초코1 + 저당1 + 한끼 오곡1 + 카카오1",
-    "price": 49900,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253383970",
-    "slot_id": "202609216020",
-    "items": [
-     {
-      "brand": "조니스 그로서리",
-      "product": "[조니스그로서리][BEST입문팩] 납작 플레인1 + 초코1 + 저당1 + 한끼 오곡1 + 카카오1",
-      "price": 49900,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253383970"
-     }
-    ],
-    "title": "SNS 대란템! 납작 청크 그래놀라 집방 특별가",
-    "pgm": "[집방] 조니스그로서리 그래놀라 (멀티커머스)"
-   },
    {
     "start": "08:00",
     "end": "08:59",
@@ -8237,6 +8218,198 @@
     ],
     "title": "쥬크의 간절기 이너·외투🥼 이월+신상 ~79%▼",
     "pgm": "현대렐라쇼 (멀티커머스)"
+   }
+  ],
+  "2026-09-23": [
+   {
+    "start": "08:00",
+    "end": "08:59",
+    "brand": "SOUP",
+    "product": "[숲] 코튼 레터링 맨투맨 티셔츠 SC3LT30",
+    "price": 34500,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252531469",
+    "slot_id": "202609236001",
+    "items": [
+     {
+      "brand": "SOUP",
+      "product": "[숲] 코튼 레터링 맨투맨 티셔츠 SC3LT30",
+      "price": 34500,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252531469"
+     }
+    ],
+    "title": "[SOUP] 로맨틱한 계절의 시작 26FW 데일리룩✨",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "메트로시티",
+    "product": "라 로사 14K 로즈 귀걸이 A251GE0067R4H A251GE0067R4H",
+    "price": 1184000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250596873",
+    "slot_id": "202609236002",
+    "items": [
+     {
+      "brand": "메트로시티",
+      "product": "라 로사 14K 로즈 귀걸이 A251GE0067R4H A251GE0067R4H",
+      "price": 1184000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250596873"
+     }
+    ],
+    "title": "[메트로시티주얼리] 인기 주얼리/시계 특별가 ~66%▼",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "제로블럭",
+    "product": "프리미엄1200 퍼즐매트 전문가 시공 2.0cm 20평 (120x120x2.0cm)",
+    "price": 3042000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2230386210",
+    "slot_id": "202609236004",
+    "items": [
+     {
+      "brand": "제로블럭",
+      "product": "프리미엄1200 퍼즐매트 전문가 시공 2.0cm 20평 (120x120x2.0cm)",
+      "price": 3042000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2230386210"
+     }
+    ],
+    "title": "[파크론 제로블럭] 프리미엄 시공매트 소음걱정 ZERO",
+    "pgm": "[파크론] 제로블럭 (액티브라이프)"
+   },
+   {
+    "start": "13:00",
+    "end": "13:59",
+    "brand": "피플오브더월드",
+    "product": "[타임찬스][피플오브더월드] 25FW 시그니처 로고 아플리케 슬리브",
+    "price": 19900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247068477",
+    "slot_id": "202609236006",
+    "items": [
+     {
+      "brand": "피플오브더월드",
+      "product": "[타임찬스][피플오브더월드] 25FW 시그니처 로고 아플리케 슬리브",
+      "price": 19900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247068477"
+     }
+    ],
+    "title": "[피플오브더월드] 가을무드 완성🤎 무료 교환, 배송",
+    "pgm": "[피플오브더월드] 잡화 (패션잡화)"
+   },
+   {
+    "start": "14:00",
+    "end": "14:59",
+    "brand": "넘버이즈",
+    "product": "[오직 여기서만][넘버이즈] NO.0 레몬 애사비 제로 클렌즈 3+1BOX(총 40포)",
+    "price": 50700,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252366232",
+    "slot_id": "202609236007",
+    "items": [
+     {
+      "brand": "넘버이즈",
+      "product": "[오직 여기서만][넘버이즈] NO.0 레몬 애사비 제로 클렌즈 3+1BOX(총 40포)",
+      "price": 50700,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252366232"
+     }
+    ],
+    "title": "[넘버이즈] 고함량 레몬 애사비 한정수량 80% 쿠폰",
+    "pgm": "[넘버이즈] 애사비 (뷰티1)"
+   },
+   {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "루이까또즈",
+    "product": "L-QUILTING(엘퀼팅) 숄더백 H63QT06BL",
+    "price": 498000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253472284",
+    "slot_id": "202609236008",
+    "items": [
+     {
+      "brand": "루이까또즈",
+      "product": "L-QUILTING(엘퀼팅) 숄더백 H63QT06BL",
+      "price": 498000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253472284"
+     }
+    ],
+    "title": "[루이까또즈] 가을맞이 스타일링 아이템 추천🤎",
+    "pgm": "[루이까또즈] 잡화 (멀티커머스)"
+   },
+   {
+    "start": "16:00",
+    "end": "16:59",
+    "brand": "유니크미",
+    "product": "[UniqueMi] 말차 클렌징 오일",
+    "price": 48000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251482248",
+    "slot_id": "202609236009",
+    "items": [
+     {
+      "brand": "유니크미",
+      "product": "[UniqueMi] 말차 클렌징 오일",
+      "price": 48000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251482248"
+     }
+    ],
+    "title": "유니크미 스킨케어/클렌저 특집⭐",
+    "pgm": "[유니크미] 기초 (뷰티2)"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "브리아나",
+    "product": "[BRIANA] Lumi Slingback 2_White",
+    "price": 279000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253350221",
+    "slot_id": "202609236011",
+    "items": [
+     {
+      "brand": "브리아나",
+      "product": "[BRIANA] Lumi Slingback 2_White",
+      "price": 279000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253350221"
+     }
+    ],
+    "title": "[브리아나] 수제 구두 40%할인",
+    "pgm": "[브리아나] 슈즈 (패션잡화)"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "에르노",
+    "product": "하이넥 니트 롱 패딩 아이보리(PI00191DR)",
+    "price": 1299000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251324716",
+    "slot_id": "202609236014",
+    "items": [
+     {
+      "brand": "에르노",
+      "product": "하이넥 니트 롱 패딩 아이보리(PI00191DR)",
+      "price": 1299000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251324716"
+     }
+    ],
+    "title": "[현명쇼] 프라다 15만▼ 전 상품 무이자 60개월",
+    "pgm": "현명쇼(노블레스)"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "스케쳐스",
+    "product": "스케쳐스 여성 디럭스 컴포트 2.0 (슬립인스) SL0WPCGX241/242/243/CGY091/092 KT SL0WPCGY091",
+    "price": 129000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252812948",
+    "slot_id": "202609236019",
+    "items": [
+     {
+      "brand": "스케쳐스",
+      "product": "스케쳐스 여성 디럭스 컴포트 2.0 (슬립인스) SL0WPCGX241/242/243/CGY091/092 KT SL0WPCGY091",
+      "price": 129000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252812948"
+     }
+    ],
+    "title": "걷기 좋은 계절, 스케쳐스 최대 42% OFF!",
+    "pgm": "[재방] 스케쳐스 슈즈 (멀티커머스)"
    }
   ]
  }
