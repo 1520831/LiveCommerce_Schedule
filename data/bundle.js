@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-17T09:37:24+09:00",
+ "generated_at": "2026-09-17T09:53:01+09:00",
  "today": "2026-09-17",
  "dates": [
   "2026-09-16",
@@ -2790,7 +2790,8 @@ window.SCHEDULE = {
      "title": "다시보는 잘사는💚마장동 한우, 과일꾼 과일🍂구이 선물세트",
      "pgm": "잘사는 언니들",
      "pgm_cd": "1028",
-     "category": "식품·건강"
+     "category": "식품·건강",
+     "hot": 10
     },
     {
      "start": "09:00",
@@ -7420,7 +7421,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 9
     },
     {
      "start": "09:30",
@@ -21976,8 +21978,8 @@ window.SCHEDULE = {
    "2026-09-16",
    "2026-09-17"
   ],
-  "matched": 7,
-  "unmatched": 12
+  "matched": 9,
+  "unmatched": 10
  },
  "fixed": {
   "rows": [
