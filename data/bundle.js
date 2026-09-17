@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-17T20:15:53+09:00",
+ "generated_at": "2026-09-17T20:30:28+09:00",
  "today": "2026-09-17",
  "dates": [
   "2026-09-16",
@@ -3179,7 +3179,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "0216",
      "category": "잡화·슈즈",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -27940,7 +27940,7 @@ window.SCHEDULE = {
    "2026-09-17"
   ],
   "matched": 10,
-  "unmatched": 10
+  "unmatched": 9
  },
  "fixed": {
   "rows": [
