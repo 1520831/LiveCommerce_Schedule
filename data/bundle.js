@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-17T19:31:47+09:00",
+ "generated_at": "2026-09-17T19:48:57+09:00",
  "today": "2026-09-17",
  "dates": [
   "2026-09-16",
@@ -11259,7 +11259,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 6
+     "hot": 4
     },
     {
      "start": "19:00",
@@ -24645,7 +24645,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]역대급 최저가🌕로보락S10 MaxV Ultra",
      "rerun": true,
      "category": "가전",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "11:00",
