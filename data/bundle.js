@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-18T08:40:16+09:00",
+ "generated_at": "2026-09-18T08:54:52+09:00",
  "today": "2026-09-18",
  "dates": [
   "2026-09-17",
@@ -510,7 +510,7 @@ window.SCHEDULE = {
      ],
      "title": "[한민금거래소] 금을 생산하는 기업!",
      "pgm": "[재방] 한민금거래소 (패션잡화)",
-     "hot": 4
+     "hot": 8
     },
     {
      "start": "09:00",
@@ -7280,7 +7280,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 1
     },
     {
      "start": "09:00",
@@ -20925,7 +20925,7 @@ window.SCHEDULE = {
      "pgm": "픽싯 산뜻한 탈취루틴",
      "title": "고체탈취제/세정티슈",
      "category": "리빙",
-     "hot": 5
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -22269,7 +22269,7 @@ window.SCHEDULE = {
    "2026-09-18"
   ],
   "matched": 9,
-  "unmatched": 9
+  "unmatched": 10
  },
  "fixed": {
   "rows": [
