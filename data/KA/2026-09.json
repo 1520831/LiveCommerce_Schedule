@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-09-17T12:09:38+09:00",
+ "updated_at": "2026-09-17T18:14:11+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -3396,20 +3396,6 @@
     "category": "식품"
    },
    {
-    "start": "16:00",
-    "end": "17:23",
-    "brand": "미샤공식스토어",
-    "product": "[집중 탄력/1+1] 미샤 타임레볼루션 나이트리페어 앰플5X(5세대) 70ml 외 베스트 기초. 안티에이징/수분케어",
-    "price": 35200,
-    "link": "https://store.kakao.com/missha/products/96174096",
-    "slot_id": "60240",
-    "pgm": "미샤 ~60% 추석맞이 할인",
-    "title": "추가 쿠폰까지",
-    "category": "뷰티",
-    "rerun": true,
-    "rerun_of": "59632"
-   },
-   {
     "start": "17:00",
     "end": "18:00",
     "brand": "미스터밀크",
@@ -3689,7 +3675,7 @@
    },
    {
     "start": "11:30",
-    "end": "14:30",
+    "end": "12:30",
     "brand": "농협안심한우",
     "product": "농협안심한우 1+등급 '등안채 스페셜 구이' 한우세트 900g(등심300g+안심300g+채끝300g)",
     "price": 129000,
@@ -3701,7 +3687,7 @@
    },
    {
     "start": "11:30",
-    "end": "13:00",
+    "end": "12:30",
     "brand": "쥬시쥬디",
     "product": "스웨이드테일러드자켓 JYJK729B",
     "price": 94000,
@@ -3713,7 +3699,7 @@
    },
    {
     "start": "11:30",
-    "end": "13:00",
+    "end": "12:31",
     "brand": "TRUECOOK",
     "product": "트루쿡 긁힘 없는 시그니처 플렉스 TPU 도마 세트 외",
     "price": 81000,
@@ -3725,7 +3711,7 @@
    },
    {
     "start": "11:45",
-    "end": "13:15",
+    "end": "12:31",
     "brand": "꼼블리앙",
     "product": "꼼블리앙 수분담 70 베라 에센스 미스트 * 5개 [사은품 증정]",
     "price": 40000,
@@ -3736,7 +3722,7 @@
    },
    {
     "start": "12:30",
-    "end": "14:00",
+    "end": "13:01",
     "brand": "만수동떡볶이만떡",
     "product": "떡볶이 7가지맛 내맘대로 무료배송 300g 밀키트 만수동떡볶이 만떡",
     "price": 6000,
@@ -3748,7 +3734,7 @@
    },
    {
     "start": "14:30",
-    "end": "16:00",
+    "end": "15:30",
     "brand": "닥터안스에그",
     "product": "[한돈 갈비 선물세트 2kg 3.2kg 5kg] 닥터안스프레쉬 무항생제 한돈 갈비 찜용 명절 추석",
     "price": 70000,
@@ -3760,7 +3746,7 @@
    },
    {
     "start": "15:00",
-    "end": "16:30",
+    "end": "16:00",
     "brand": "경북프레시몰",
     "product": "남상주농협 반건시 곶감 선물세트 600g 2팩 1.2kg 2박스",
     "price": 60900,
@@ -3772,7 +3758,7 @@
    },
    {
     "start": "16:00",
-    "end": "19:00",
+    "end": "17:23",
     "brand": "미샤공식스토어",
     "product": "[집중 탄력/1+1] 미샤 타임레볼루션 나이트리페어 앰플5X(5세대) 70ml 외 베스트 기초. 안티에이징/수분케어",
     "price": 35200,
@@ -3786,7 +3772,7 @@
    },
    {
     "start": "16:30",
-    "end": "18:00",
+    "end": "16:51",
     "brand": "신선하랑",
     "product": "실속형 쫀득한 영동곶감 400g 500g 600g / 곶감호두말이 반건시 대봉곶감 선물세트",
     "price": 50000,
@@ -3798,10 +3784,10 @@
    },
    {
     "start": "17:00",
-    "end": "18:30",
+    "end": "18:01",
     "brand": "진한식품",
     "product": "참스토리 대단한왕갈비탕 800gX4팩+당면4개 외 7종 /2세트구매시마다 사골곰탕 2개증정",
-    "price": 27900,
+    "price": 39600,
     "link": "https://store.kakao.com/jinhanfood/products/196130758",
     "slot_id": "59278",
     "pgm": "대단한갈비탕4팩+당면4개",
@@ -3836,9 +3822,9 @@
     "start": "19:00",
     "end": "22:00",
     "brand": "SK-II",
-    "product": "[현대백화점][SK-II] [카쇼라] 신제품 피테라 세럼 50ml 세트 (한정수량)",
-    "price": 246000,
-    "link": "https://gift.kakao.com/product/14272514?url=product&cId=14272514",
+    "product": "[현대백화점][SK-II] [카쇼라] 대용량 피테라 에센스 330ml세트 (한정수량)",
+    "price": 288000,
+    "link": "https://gift.kakao.com/product/9329638?url=product&cId=9329638",
     "slot_id": "59070",
     "pgm": "SK-II NEW 세럼 런칭",
     "title": "방송 한정 피테라 세트까지",
@@ -3902,6 +3888,18 @@
     "slot_id": "60131",
     "pgm": "농축산물 할인지원 20%할인",
     "title": "공주부여밤(대특)2kg",
+    "category": "식품"
+   },
+   {
+    "start": "20:00",
+    "end": "21:30",
+    "brand": "맛집삼촌",
+    "product": "[5분 완성] 물만 넣고 끓이는 순대국밥 돼지국밥 3팩 (다대기양념국밥 신상입고!)",
+    "price": 26900,
+    "link": "https://store.kakao.com/matjip/products/785056271",
+    "slot_id": "60297",
+    "pgm": "5분완성 해동필요없는",
+    "title": "국밥2종 3팩(양념신상입고)",
     "category": "식품"
    },
    {
@@ -4031,7 +4029,7 @@
     "end": "11:30",
     "brand": "풀무원 공식 스토어",
     "product": "얄피꽉찬 만두8봉 기획 (고기/김치/교자/물만두 외)",
-    "price": 29900,
+    "price": 40000,
     "link": "https://store.kakao.com/pulmuoneshop/products/51386961",
     "slot_id": "59674",
     "pgm": "추석 명절 장보기&선물세트",
@@ -4043,7 +4041,7 @@
     "end": "11:30",
     "brand": "홍천한우마을",
     "product": "[HC한우마을]  1등급 한우꽃등심로스세트 800g (꽃등심200gx2+채끝등심200g+특수부위200g)",
-    "price": 95900,
+    "price": 199000,
     "link": "https://store.kakao.com/hanukorea01/products/197689397",
     "slot_id": "59690",
     "pgm": "HC한우마을 1등급 한우",
@@ -4067,7 +4065,7 @@
     "end": "13:00",
     "brand": "자연원",
     "product": "믹스밀 바로데워먹는 야채찜 1kg x 3팩+냉동블루베리 증정",
-    "price": 29900,
+    "price": 41700,
     "link": "https://store.kakao.com/jyone/products/304366884",
     "slot_id": "59277",
     "pgm": "바로 데워먹는 야채찜 카쇼라",
@@ -4097,6 +4095,18 @@
     "pgm": "[남양] 한가위 풍성한 혜택",
     "title": "인기맘마 BIG할인 특가",
     "category": "키즈"
+   },
+   {
+    "start": "15:00",
+    "end": "16:30",
+    "brand": "모레아",
+    "product": "모레아 글로우쉴드 비비크림 비비팩트 15g 1+1+1",
+    "price": 50000,
+    "link": "https://store.kakao.com/morea/products/663157642",
+    "slot_id": "60299",
+    "pgm": "모레아 글로우쉴드",
+    "title": "비비크림 런칭 LIVE",
+    "category": "뷰티"
    },
    {
     "start": "16:00",
@@ -4198,7 +4208,7 @@
     "end": "22:00",
     "brand": "마이픽",
     "product": "[추석선물]6년근 장홍삼 에브리데이 홍삼스틱 100포(선물용)/110포(대용량)",
-    "price": 34900,
+    "price": 99000,
     "link": "https://store.kakao.com/mypick/products/316704778",
     "slot_id": "59687",
     "pgm": "품격있는 추석 선물",
@@ -4221,8 +4231,8 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "청년상점",
-    "product": "맛있는 함박 스테이크 1.8kg (18개) 외 떡산적 스테이크 2kg(34개)",
-    "price": 16900,
+    "product": "(카카오페이 7%할인) 맛있는 함박 스테이크 1.8kg (18개) 외 떡산적 스테이크 2kg(34개)",
+    "price": 29900,
     "link": "https://store.kakao.com/youngstore/products/66606121",
     "slot_id": "59764",
     "pgm": "국내산 함박스테이크 18장",
@@ -4831,9 +4841,9 @@
     "start": "19:00",
     "end": "22:00",
     "brand": "크록스",
-    "product": "[크록스 본사] 최대 74% 선선해진 요즘 딱! 크록스 클로그/샌들/슬라이드/지비츠",
-    "price": 85900,
-    "link": "https://store.kakao.com/crocskr/products/153739011",
+    "product": "",
+    "price": 0,
+    "link": "https://shoppinglive.kakao.com/live/59354",
     "slot_id": "59354",
     "pgm": "추석 연휴 크록스와 함께",
     "title": "온 가족 패밀리템/베스트셀러",
@@ -5031,6 +5041,18 @@
     "slot_id": "59789",
     "pgm": "농협한우로 추석 준비 완료",
     "title": "마음을 전하는 프리미엄 선물",
+    "category": "식품"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "신선하랑",
+    "product": "26년 첫 출하 제주 극조생감귤 2kg 3kg 5kg 외 하우스 감귤",
+    "price": 60000,
+    "link": "https://store.kakao.com/ssharang/products/609217364",
+    "slot_id": "60303",
+    "pgm": "26년 첫 출하!!",
+    "title": "제주 극조생 감귤 특가 오픈",
     "category": "식품"
    },
    {
