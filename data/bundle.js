@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-17T10:52:41+09:00",
+ "generated_at": "2026-09-17T11:09:38+09:00",
  "today": "2026-09-17",
  "dates": [
   "2026-09-16",
@@ -7270,7 +7270,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "09:00",
@@ -8142,7 +8142,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -8276,7 +8276,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 4
     },
     {
      "start": "10:30",
@@ -9430,7 +9431,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -19828,7 +19830,7 @@ window.SCHEDULE = {
      "link": "https://player.sauceflex.com/broadcast/lkebay-9f8445a0bd354d96a1603eac426f16f2",
      "slot_id": "252101",
      "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻22",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -20481,8 +20483,7 @@ window.SCHEDULE = {
      "slot_id": "59667",
      "pgm": "웅진 한가위 신상라이브",
      "title": "시원한 인기음료 총집합!",
-     "category": "식품",
-     "hot": 9
+     "category": "식품"
     },
     {
      "start": "10:00",
@@ -21980,8 +21981,8 @@ window.SCHEDULE = {
    "2026-09-16",
    "2026-09-17"
   ],
-  "matched": 11,
-  "unmatched": 9
+  "matched": 12,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
