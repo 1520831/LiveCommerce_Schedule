@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-17T13:17:58+09:00",
+ "generated_at": "2026-09-17T13:33:43+09:00",
  "today": "2026-09-17",
  "dates": [
   "2026-09-16",
@@ -8592,7 +8592,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -8816,7 +8816,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "10:30",
@@ -9585,7 +9585,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -11513,7 +11513,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 3
     },
     {
      "start": "13:00",
@@ -22597,7 +22597,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]역대급 최저가🌕로보락S10 MaxV Ultra",
      "rerun": true,
      "category": "가전",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "11:00",
