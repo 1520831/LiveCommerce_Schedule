@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-17T08:54:42+09:00",
+ "generated_at": "2026-09-17T09:12:08+09:00",
  "today": "2026-09-17",
  "dates": [
   "2026-09-16",
@@ -7269,7 +7269,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 3
     },
     {
      "start": "09:00",
@@ -20464,8 +20465,7 @@ window.SCHEDULE = {
      "slot_id": "59538",
      "pgm": "러쉬x조앤프렌즈 콜라보 론칭",
      "title": "카쇼라 단독&스페셜 선물",
-     "category": "뷰티",
-     "hot": 4
+     "category": "뷰티"
     },
     {
      "start": "08:30",
