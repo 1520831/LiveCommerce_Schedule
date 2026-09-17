@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-17T18:58:39+09:00",
+ "generated_at": "2026-09-17T19:16:44+09:00",
  "today": "2026-09-17",
  "dates": [
   "2026-09-16",
@@ -3179,7 +3179,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "0216",
      "category": "잡화·슈즈",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -11152,7 +11152,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 3
     },
     {
      "start": "19:00",
@@ -24643,7 +24644,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]역대급 최저가🌕로보락S10 MaxV Ultra",
      "rerun": true,
      "category": "가전",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -27937,8 +27938,8 @@ window.SCHEDULE = {
    "2026-09-16",
    "2026-09-17"
   ],
-  "matched": 8,
-  "unmatched": 12
+  "matched": 9,
+  "unmatched": 11
  },
  "fixed": {
   "rows": [
