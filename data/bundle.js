@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-17T11:09:38+09:00",
+ "generated_at": "2026-09-17T11:26:47+09:00",
  "today": "2026-09-17",
  "dates": [
   "2026-09-16",
@@ -2895,7 +2895,8 @@ window.SCHEDULE = {
      "title": "프라이 26FW 신상 방송중에만 이 가격! 모바일라이브쇼 최초 최저가🤎",
      "pgm": "라이브쇼",
      "pgm_cd": "0216",
-     "category": "잡화·슈즈"
+     "category": "잡화·슈즈",
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -7270,7 +7271,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "09:00",
@@ -7737,7 +7738,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -8142,7 +8143,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -9432,7 +9433,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -19829,8 +19830,7 @@ window.SCHEDULE = {
      "price": 0,
      "link": "https://player.sauceflex.com/broadcast/lkebay-9f8445a0bd354d96a1603eac426f16f2",
      "slot_id": "252101",
-     "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻22",
-     "hot": 10
+     "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻22"
     },
     {
      "start": "10:00",
