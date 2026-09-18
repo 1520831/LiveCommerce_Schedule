@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-18T18:12:54+09:00",
+ "updated_at": "2026-09-18T23:45:11+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -8435,14 +8435,14 @@
     "end": "08:59",
     "brand": "SOUP",
     "product": "[숲] 체크 카라 블라우스 SC8LS35",
-    "price": 99000,
+    "price": 50000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253555425",
     "slot_id": "202609236001",
     "items": [
      {
       "brand": "SOUP",
       "product": "[숲] 체크 카라 블라우스 SC8LS35",
-      "price": 99000,
+      "price": 50000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253555425"
      }
     ],
@@ -8663,14 +8663,14 @@
     "end": "23:59",
     "brand": "CC콜렉트",
     "product": "[씨씨콜렉트] 스티치 포인트 니트 가디건 C263KSL001 C263KSL001",
-    "price": 399000,
+    "price": 188370,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253592042",
     "slot_id": "202609236016",
     "items": [
      {
       "brand": "CC콜렉트",
       "product": "[씨씨콜렉트] 스티치 포인트 니트 가디건 C263KSL001 C263KSL001",
-      "price": 399000,
+      "price": 188370,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253592042"
      }
     ],
