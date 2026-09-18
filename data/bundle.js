@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-18T10:08:52+09:00",
+ "generated_at": "2026-09-18T10:23:21+09:00",
  "today": "2026-09-18",
  "dates": [
   "2026-09-17",
@@ -528,8 +528,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[디스커버리] BEST 간절기 아이템 쇼라 핫딜!",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 8
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "10:00",
@@ -7280,7 +7279,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "09:00",
@@ -7629,7 +7628,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -20927,7 +20926,7 @@ window.SCHEDULE = {
      "pgm": "픽싯 산뜻한 탈취루틴",
      "title": "고체탈취제/세정티슈",
      "category": "리빙",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -22270,8 +22269,8 @@ window.SCHEDULE = {
    "2026-09-17",
    "2026-09-18"
   ],
-  "matched": 11,
-  "unmatched": 8
+  "matched": 10,
+  "unmatched": 9
  },
  "fixed": {
   "rows": [
