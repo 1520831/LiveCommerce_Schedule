@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-18T07:10:15+09:00",
+ "updated_at": "2026-09-18T12:09:28+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -6524,14 +6524,14 @@
     "end": "14:59",
     "brand": "스니프컬쳐",
     "product": "에어가글 핑크치노 고체탈취제 300g 2개",
-    "price": 36800,
+    "price": 43800,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253400134",
     "slot_id": "202609176008",
     "items": [
      {
       "brand": "스니프컬쳐",
       "product": "에어가글 핑크치노 고체탈취제 300g 2개",
-      "price": 36800,
+      "price": 43800,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253400134"
      }
     ],
@@ -6694,14 +6694,14 @@
     "start": "21:00",
     "end": "21:59",
     "brand": "드리미",
-    "product": "[21시 라이브]드리미 X60 Ultra 올인원 로봇청소기+악세사리 키트 증정",
+    "product": "X60 Ultra 올인원 로봇청소기",
     "price": 1590000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249008250",
     "slot_id": "202609176015",
     "items": [
      {
       "brand": "드리미",
-      "product": "[21시 라이브]드리미 X60 Ultra 올인원 로봇청소기+악세사리 키트 증정",
+      "product": "X60 Ultra 올인원 로봇청소기",
       "price": 1590000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249008250"
      }
@@ -6770,14 +6770,14 @@
     "start": "23:00",
     "end": "23:59",
     "brand": "드리미",
-    "product": "[21시 라이브]드리미 X60 Ultra 올인원 로봇청소기+악세사리 키트 증정",
+    "product": "X60 Ultra 올인원 로봇청소기",
     "price": 1590000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249008250",
     "slot_id": "202609176024",
     "items": [
      {
       "brand": "드리미",
-      "product": "[21시 라이브]드리미 X60 Ultra 올인원 로봇청소기+악세사리 키트 증정",
+      "product": "X60 Ultra 올인원 로봇청소기",
       "price": 1590000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249008250"
      }
@@ -6810,14 +6810,14 @@
     "end": "07:59",
     "brand": "한민금거래소",
     "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-    "price": 271100,
+    "price": 272300,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581",
     "slot_id": "202609186022",
     "items": [
      {
       "brand": "한민금거래소",
       "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-      "price": 271100,
+      "price": 272300,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581"
      }
     ],
@@ -6876,6 +6876,12 @@
       "product": "컬러 펄 비즈 헤어밴드 JP-26-109HB (정가:399,000)",
       "price": 399000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253158965"
+     },
+     {
+      "brand": "장폴클라리쎄",
+      "product": "아르보레 스팽글 옆집게핀 LFSL0341 (정가:89,000)",
+      "price": 61900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253164036"
      }
     ],
     "title": "[장폴클라리쎄] 고급 헤어주얼리 가을 신상 공개!",
@@ -7317,7 +7323,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2230178149"
      }
     ],
-    "title": "[마이클코어스] 남다른 추석 선물 준비하세요!",
+    "title": "[마이클코어스] 추석 전 배송 가능, 앵콜방송!",
     "pgm": "[재방] 마이클코어스 잡화 (패션잡화)"
    },
    {
@@ -7338,6 +7344,25 @@
     ],
     "title": "농협이 책임지는! 2026년 제철 홍로 사과!",
     "pgm": "[위팩토리] 홍로사과 (일반식품2)"
+   },
+   {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "한우고집쟁이",
+    "product": "1++등급 육전 400g + 400g + 400g (홍두께 우둔)",
+    "price": 66900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2215041943",
+    "slot_id": "202609196006",
+    "items": [
+     {
+      "brand": "한우고집쟁이",
+      "product": "1++등급 육전 400g + 400g + 400g (홍두께 우둔)",
+      "price": 66900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2215041943"
+     }
+    ],
+    "title": "[한우고집쟁이] 1++ 한우 불고기, 육전 특집!",
+    "pgm": "[잭슨코리아] 한우고집쟁이 불고기"
    },
    {
     "start": "16:00",
@@ -7551,18 +7576,37 @@
     "pgm": "[오픈클로젯] 의류 (패션1Lab)"
    },
    {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "밋앤밀",
+    "product": "산지직송 생물 서해안 오징어 손질 할복 오징어 10미(손질 전 2Kg 내외)",
+    "price": 59000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252554596",
+    "slot_id": "202609206003",
+    "items": [
+     {
+      "brand": "밋앤밀",
+      "product": "산지직송 생물 서해안 오징어 손질 할복 오징어 10미(손질 전 2Kg 내외)",
+      "price": 59000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252554596"
+     }
+    ],
+    "title": "[밋앤밀] 산지직송 서해안 생물 오징어 라이브",
+    "pgm": "[잭슨코리아] 서해안 생오징어(편성)"
+   },
+   {
     "start": "12:00",
     "end": "12:59",
     "brand": "자연의정",
     "product": "제철과일 고당도 홍로사과 A급 가정용 정품 소과 5kg 26∼38과",
-    "price": 21900,
+    "price": 18900,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250372557",
     "slot_id": "202609206004",
     "items": [
      {
       "brand": "자연의정",
       "product": "제철과일 고당도 홍로사과 A급 가정용 정품 소과 5kg 26∼38과",
-      "price": 21900,
+      "price": 18900,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250372557"
      }
     ],
@@ -7763,16 +7807,16 @@
     "start": "21:00",
     "end": "21:59",
     "brand": "오운",
-    "product": "[타임찬스][오운] 24K 순금 장미 0.1g",
-    "price": 68000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252419729",
+    "product": "24K 순금 카드 0.2g (금테크/투자용)",
+    "price": 92000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252419913",
     "slot_id": "202609206009",
     "items": [
      {
       "brand": "오운",
-      "product": "[타임찬스][오운] 24K 순금 장미 0.1g",
-      "price": 68000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252419729"
+      "product": "24K 순금 카드 0.2g (금테크/투자용)",
+      "price": 92000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252419913"
      }
     ],
     "title": "[오운] 추석 직전, 24K 순금 선물 찬스🎁",
@@ -7801,16 +7845,16 @@
     "start": "23:00",
     "end": "23:59",
     "brand": "린",
-    "product": "로크 타이 블라우스 LGBLPJ9800 LGBLPJ9800",
-    "price": 79600,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253403377",
+    "product": "도즈리 벨티드 원피스 LGOPPC9900 LGOPPC9900",
+    "price": 143600,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253403409",
     "slot_id": "202609206011",
     "items": [
      {
       "brand": "린",
-      "product": "로크 타이 블라우스 LGBLPJ9800 LGBLPJ9800",
-      "price": 79600,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253403377"
+      "product": "도즈리 벨티드 원피스 LGOPPC9900 LGOPPC9900",
+      "price": 143600,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253403409"
      }
     ],
     "title": "LYNN이 제안하는 완벽한 가을! 6만원대부터❤️",
@@ -7818,6 +7862,44 @@
    }
   ],
   "2026-09-21": [
+   {
+    "start": "00:00",
+    "end": "00:59",
+    "brand": "고비",
+    "product": "[30분부터세일] 고비(GOBI) 실크 캐시미어 립조직 티에리 풀오버",
+    "price": 179000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2225730323",
+    "slot_id": "202609216021",
+    "items": [
+     {
+      "brand": "고비",
+      "product": "[30분부터세일] 고비(GOBI) 실크 캐시미어 립조직 티에리 풀오버",
+      "price": 179000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2225730323"
+     }
+    ],
+    "title": "[고비] TV 방송보다 먼저 보여드리는 26FW 신상품",
+    "pgm": "[재방] 고비 (패션1Lab)"
+   },
+   {
+    "start": "07:00",
+    "end": "07:59",
+    "brand": "조니스 그로서리",
+    "product": "[쇼라][조니스그로서리][BEST입문팩] 납작 플레인1 + 초코1 + 저당1 + 한끼 오곡1 + 카카오1",
+    "price": 53900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253383970",
+    "slot_id": "202609216020",
+    "items": [
+     {
+      "brand": "조니스 그로서리",
+      "product": "[쇼라][조니스그로서리][BEST입문팩] 납작 플레인1 + 초코1 + 저당1 + 한끼 오곡1 + 카카오1",
+      "price": 53900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253383970"
+     }
+    ],
+    "title": "SNS 대란템! 납작 청크 그래놀라 집방 특별가",
+    "pgm": "[집방] 조니스그로서리 그래놀라 (멀티커머스)"
+   },
    {
     "start": "08:00",
     "end": "08:59",
@@ -7952,6 +8034,25 @@
     "pgm": "[제이앤제이] 컬러코렉터 (뷰티1)"
    },
    {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "밋앤밀",
+    "product": "[농할] [밋앤밀] 국내산 풍기금계농장 GAP 고당도 정품 26년 햇 아리수 사과 대과 2kg(5-6과)",
+    "price": 37800,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253130629",
+    "slot_id": "202609216001",
+    "items": [
+     {
+      "brand": "밋앤밀",
+      "product": "[농할] [밋앤밀] 국내산 풍기금계농장 GAP 고당도 정품 26년 햇 아리수 사과 대과 2kg(5-6과)",
+      "price": 37800,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253130629"
+     }
+    ],
+    "title": "[밋앤밀] 명절맞이 풍기금계 아리수 사과 특별가",
+    "pgm": "[잭슨코리아] 아리수 사과 (쇼핑라이브)"
+   },
+   {
     "start": "16:00",
     "end": "16:59",
     "brand": "Playback",
@@ -7986,7 +8087,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252823349"
      }
     ],
-    "title": "[롤랑] 임리스 프렌치 시크 감성 핸드백",
+    "title": "[롤랑] 타임리스 프렌치 시크 감성 핸드백",
     "pgm": "[롤랑드] 핸드백 (쇼핑라이브)"
    },
    {
@@ -8028,6 +8129,44 @@
     "pgm": "현명쇼(노블레스)"
    },
    {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "아시아골드",
+    "product": "실버바 100g 검독수리",
+    "price": 473000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253164017",
+    "slot_id": "202609216002",
+    "items": [
+     {
+      "brand": "아시아골드",
+      "product": "실버바 100g 검독수리",
+      "price": 473000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253164017"
+     }
+    ],
+    "title": "[아시아골드] 골드바 한정 시리즈 오픈!",
+    "pgm": "[재방] 아시아골드 금 (패션잡화)"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "디스커버리",
+    "product": "2025 F/W (DMTR21054) 남성 소로나웜 PQ이중직 트레이닝 자켓 DMTR21054",
+    "price": 77400,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252801791",
+    "slot_id": "202609216019",
+    "items": [
+     {
+      "brand": "디스커버리",
+      "product": "2025 F/W (DMTR21054) 남성 소로나웜 PQ이중직 트레이닝 자켓 DMTR21054",
+      "price": 77400,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252801791"
+     }
+    ],
+    "title": "[디스커버리] F/W 간절기 득템찬스!",
+    "pgm": "[재방] 디스커버리 아웃도어 (멀티커머스)"
+   },
+   {
     "start": "23:00",
     "end": "23:59",
     "brand": "게스",
@@ -8048,6 +8187,25 @@
    }
   ],
   "2026-09-22": [
+   {
+    "start": "08:00",
+    "end": "08:59",
+    "brand": "보니스팍스",
+    "product": "허리밴딩 트윌 저지 플레어 스커트 (B1G35JSK030) B1G35JSK030",
+    "price": 64000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253562351",
+    "slot_id": "202609226002",
+    "items": [
+     {
+      "brand": "보니스팍스",
+      "product": "허리밴딩 트윌 저지 플레어 스커트 (B1G35JSK030) B1G35JSK030",
+      "price": 64000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253562351"
+     }
+    ],
+    "title": "망설이면 품절! 보니스팍스가 제안하는 가을 OOTD❤️",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
    {
     "start": "09:00",
     "end": "09:59",
@@ -8222,25 +8380,6 @@
   ],
   "2026-09-23": [
    {
-    "start": "08:00",
-    "end": "08:59",
-    "brand": "SOUP",
-    "product": "[숲] 코튼 레터링 맨투맨 티셔츠 SC3LT30",
-    "price": 34500,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252531469",
-    "slot_id": "202609236001",
-    "items": [
-     {
-      "brand": "SOUP",
-      "product": "[숲] 코튼 레터링 맨투맨 티셔츠 SC3LT30",
-      "price": 34500,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252531469"
-     }
-    ],
-    "title": "[SOUP] 로맨틱한 계절의 시작 26FW 데일리룩✨",
-    "pgm": "백화점 프리오픈쇼(멀티커머스)"
-   },
-   {
     "start": "09:00",
     "end": "09:59",
     "brand": "메트로시티",
@@ -8370,7 +8509,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253350221"
      }
     ],
-    "title": "[브리아나] 수제 구두 40%할인",
+    "title": "[브리아나] 수제 구두 40%▼",
     "pgm": "[브리아나] 슈즈 (패션잡화)"
    },
    {
