@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-18T14:50:03+09:00",
+ "generated_at": "2026-09-18T14:59:48+09:00",
  "today": "2026-09-18",
  "dates": [
   "2026-09-17",
@@ -9640,8 +9640,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈",
-     "hot": 10
+     "category": "키즈"
     },
     {
      "start": "12:00",
@@ -21167,7 +21166,8 @@ window.SCHEDULE = {
      "slot_id": "254327",
      "pgm": "[앵콜]한가위빅세일×LG가전! 추석맞이 인기템 최대혜택",
      "rerun": true,
-     "category": "가전"
+     "category": "가전",
+     "hot": 10
     },
     {
      "start": "15:00",
