@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-18T09:36:30+09:00",
+ "generated_at": "2026-09-18T09:51:14+09:00",
  "today": "2026-09-18",
  "dates": [
   "2026-09-17",
@@ -510,7 +510,7 @@ window.SCHEDULE = {
      ],
      "title": "[한민금거래소] 금을 생산하는 기업!",
      "pgm": "[재방] 한민금거래소 (패션잡화)",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "09:00",
@@ -529,7 +529,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[디스커버리] BEST 간절기 아이템 쇼라 핫딜!",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -22268,8 +22269,8 @@ window.SCHEDULE = {
    "2026-09-17",
    "2026-09-18"
   ],
-  "matched": 9,
-  "unmatched": 10
+  "matched": 10,
+  "unmatched": 9
  },
  "fixed": {
   "rows": [
