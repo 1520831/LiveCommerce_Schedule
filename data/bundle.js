@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-18T10:38:09+09:00",
+ "generated_at": "2026-09-18T10:49:03+09:00",
  "today": "2026-09-18",
  "dates": [
   "2026-09-17",
@@ -19477,7 +19477,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]스마일캐시 최대5만+구매인증 추첨 갤럭시 총집합",
      "rerun": true,
      "category": "디지털·PC",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "10:00",
