@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-18T09:51:14+09:00",
+ "generated_at": "2026-09-18T10:08:52+09:00",
  "today": "2026-09-18",
  "dates": [
   "2026-09-17",
@@ -509,8 +509,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[한민금거래소] 금을 생산하는 기업!",
-     "pgm": "[재방] 한민금거래소 (패션잡화)",
-     "hot": 10
+     "pgm": "[재방] 한민금거래소 (패션잡화)"
     },
     {
      "start": "09:00",
@@ -530,7 +529,7 @@ window.SCHEDULE = {
      ],
      "title": "[디스커버리] BEST 간절기 아이템 쇼라 핫딜!",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -7281,7 +7280,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 4
     },
     {
      "start": "09:00",
@@ -7629,7 +7628,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -7652,7 +7652,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -20926,7 +20927,7 @@ window.SCHEDULE = {
      "pgm": "픽싯 산뜻한 탈취루틴",
      "title": "고체탈취제/세정티슈",
      "category": "리빙",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -22269,8 +22270,8 @@ window.SCHEDULE = {
    "2026-09-17",
    "2026-09-18"
   ],
-  "matched": 10,
-  "unmatched": 9
+  "matched": 11,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
