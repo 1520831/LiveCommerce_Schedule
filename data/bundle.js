@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-18T15:57:53+09:00",
+ "generated_at": "2026-09-18T16:14:59+09:00",
  "today": "2026-09-18",
  "dates": [
   "2026-09-17",
@@ -705,7 +705,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "캐논 최대 60개월 장기 무이자 찬스",
-     "pgm": "[캐논] 카메라 (가전팀)"
+     "pgm": "[캐논] 카메라 (가전팀)",
+     "hot": 5
     },
     {
      "start": "17:00",
@@ -8527,7 +8528,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -8798,7 +8799,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -21166,8 +21167,7 @@ window.SCHEDULE = {
      "slot_id": "254327",
      "pgm": "[앵콜]한가위빅세일×LG가전! 추석맞이 인기템 최대혜택",
      "rerun": true,
-     "category": "가전",
-     "hot": 10
+     "category": "가전"
     },
     {
      "start": "15:00",
