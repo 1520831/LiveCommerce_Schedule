@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-18T11:16:07+09:00",
+ "generated_at": "2026-09-18T11:32:07+09:00",
  "today": "2026-09-18",
  "dates": [
   "2026-09-17",
@@ -7957,7 +7957,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -8099,7 +8100,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -8228,7 +8230,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -8621,7 +8623,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -19479,7 +19481,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]스마일캐시 최대5만+구매인증 추첨 갤럭시 총집합",
      "rerun": true,
      "category": "디지털·PC",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -20928,7 +20930,7 @@ window.SCHEDULE = {
      "pgm": "픽싯 산뜻한 탈취루틴",
      "title": "고체탈취제/세정티슈",
      "category": "리빙",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -22271,8 +22273,8 @@ window.SCHEDULE = {
    "2026-09-17",
    "2026-09-18"
   ],
-  "matched": 12,
-  "unmatched": 7
+  "matched": 14,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
