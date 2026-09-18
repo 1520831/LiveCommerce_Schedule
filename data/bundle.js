@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-18T19:12:37+09:00",
+ "generated_at": "2026-09-18T19:30:03+09:00",
  "today": "2026-09-18",
  "dates": [
   "2026-09-17",
@@ -700,7 +700,7 @@ window.SCHEDULE = {
      ],
      "title": "캐논 최대 60개월 장기 무이자 찬스",
      "pgm": "[캐논] 카메라 (가전팀)",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "17:00",
@@ -9282,7 +9282,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -9790,7 +9790,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "12:00",
@@ -9939,7 +9939,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "14:00",
@@ -10926,7 +10926,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 2
     },
     {
      "start": "19:00",
