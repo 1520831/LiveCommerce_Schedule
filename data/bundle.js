@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-18T12:44:18+09:00",
+ "generated_at": "2026-09-18T12:56:01+09:00",
  "today": "2026-09-18",
  "dates": [
   "2026-09-17",
@@ -9642,7 +9642,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 10
     },
     {
      "start": "12:00",
@@ -22504,8 +22505,7 @@ window.SCHEDULE = {
      "slot_id": "59798",
      "pgm": "픽싯 산뜻한 탈취루틴",
      "title": "고체탈취제/세정티슈",
-     "category": "리빙",
-     "hot": 10
+     "category": "리빙"
     },
     {
      "start": "10:00",
