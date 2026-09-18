@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-18T08:54:52+09:00",
+ "generated_at": "2026-09-18T09:12:32+09:00",
  "today": "2026-09-18",
  "dates": [
   "2026-09-17",
@@ -7280,7 +7280,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "09:00",
@@ -20925,7 +20925,7 @@ window.SCHEDULE = {
      "pgm": "픽싯 산뜻한 탈취루틴",
      "title": "고체탈취제/세정티슈",
      "category": "리빙",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "10:00",
