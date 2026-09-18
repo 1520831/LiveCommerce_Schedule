@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-18T10:23:21+09:00",
+ "generated_at": "2026-09-18T10:38:09+09:00",
  "today": "2026-09-18",
  "dates": [
   "2026-09-17",
@@ -7278,8 +7278,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 5
+     "category": "테크"
     },
     {
      "start": "09:00",
@@ -19477,7 +19476,8 @@ window.SCHEDULE = {
      "slot_id": "252446",
      "pgm": "[앵콜]스마일캐시 최대5만+구매인증 추첨 갤럭시 총집합",
      "rerun": true,
-     "category": "디지털·PC"
+     "category": "디지털·PC",
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -20926,7 +20926,7 @@ window.SCHEDULE = {
      "pgm": "픽싯 산뜻한 탈취루틴",
      "title": "고체탈취제/세정티슈",
      "category": "리빙",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "10:00",
