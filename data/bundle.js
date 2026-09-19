@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-19T08:50:35+09:00",
+ "generated_at": "2026-09-19T09:12:38+09:00",
  "today": "2026-09-19",
  "dates": [
   "2026-09-18",
@@ -2481,7 +2481,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "0146",
      "category": "가구·침구",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "09:00",
