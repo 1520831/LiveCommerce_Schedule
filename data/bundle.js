@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-20T00:59:16+09:00",
+ "generated_at": "2026-09-20T07:08:36+09:00",
  "today": "2026-09-20",
  "dates": [
   "2026-09-19",
@@ -398,7 +398,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[노블리타] 이태리 18K 주얼리 월 7천원대부터~",
-     "pgm": "[재방] 노블리타 (노블레스)"
+     "pgm": "[재방] 노블리타 (노블레스)",
+     "hot": 1
     },
     {
      "start": "08:00",
@@ -19113,8 +19114,8 @@ window.SCHEDULE = {
    "2026-09-19",
    "2026-09-20"
   ],
-  "matched": 7,
-  "unmatched": 11
+  "matched": 8,
+  "unmatched": 12
  },
  "fixed": {
   "rows": [
