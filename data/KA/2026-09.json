@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-09-19T12:09:22+09:00",
+ "updated_at": "2026-09-19T18:13:05+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -4196,19 +4196,7 @@
    },
    {
     "start": "11:30",
-    "end": "13:00",
-    "brand": "농협안심한우",
-    "product": "농협안심한우 1등급 '특별한 구이' 금바구니 선물세트 1kg(등심400g+안심150g+채끝150g+부채살300g)",
-    "price": 129000,
-    "link": "https://gift.kakao.com/product/1303971?url=product&cId=1303971",
-    "slot_id": "59636",
-    "pgm": "농협안심한우 선물세트",
-    "title": "추석 선물 고민 주말에 끝",
-    "category": "식품"
-   },
-   {
-    "start": "11:30",
-    "end": "13:00",
+    "end": "12:31",
     "brand": "시몬하우스",
     "product": "[ESTI] 오리지널/양파/차지키 후무스 피타칩스 병아리콩 단백질 스프레드 Hummus 모음 130g 골라담아 총 6개 SET",
     "price": 30000,
@@ -4220,19 +4208,19 @@
    },
    {
     "start": "11:30",
-    "end": "13:00",
+    "end": "12:31",
     "brand": "일동헬스케어",
     "product": "[LIVE] 지큐랩 프로 프리 포스트바이오틱스(30포) 4박스+마이니 생생톡톡 비타C 108정",
     "price": 396000,
     "link": "https://store.kakao.com/ildong/products/788685329",
     "slot_id": "60031",
-    "pgm": "일동헬스케어 추석맞이 라이브",
-    "title": "건강선물 특가전",
+    "pgm": "추석 선물 특가 LIVE!",
+    "title": "일동 유산균 관절 선물세트",
     "category": "식품"
    },
    {
     "start": "11:30",
-    "end": "13:00",
+    "end": "12:30",
     "brand": "조선팔도떡집",
     "product": "조선팔도떡집 영광군 모시송편 외 2종 모음전",
     "price": 35600,
@@ -4243,16 +4231,16 @@
     "category": "식품"
    },
    {
-    "start": "17:00",
-    "end": "18:30",
-    "brand": "월간제철",
-    "product": "[GAP 인증] 산지직송 당일수확 당일발송 전남 영암 진한 당도 홍무화과 특품 1kg 10~16과",
-    "price": 21900,
-    "link": "https://store.kakao.com/seasonfarm2018/products/609318141",
-    "slot_id": "60008",
-    "pgm": "제철맞은 산지직송 홍무화과",
-    "title": "입안 가득 퍼지는 달콤함~!",
-    "category": "식품"
+    "start": "14:00",
+    "end": "14:59",
+    "brand": "온라인가구닷컴",
+    "product": "보루네오 파비앙 비건레더 모션 무빙 슬라이딩 리클라이닝 전동 소파 4인",
+    "price": 2156250,
+    "link": "https://store.kakao.com/onlinegagu/products/792970390",
+    "slot_id": "60337",
+    "pgm": "보루네오 모션 슬라이딩 소파",
+    "title": "추석 통큰 세일~!",
+    "category": "리빙"
    },
    {
     "start": "17:00",
@@ -4503,7 +4491,7 @@
     "end": "18:30",
     "brand": "대한다업",
     "product": "대한다업 데일리라떼 스틱 3종세트 [말차바닐라+보성말차+우베크림]",
-    "price": 25820,
+    "price": 39900,
     "link": "https://store.kakao.com/daehandaup/products/763827614",
     "slot_id": "60282",
     "pgm": "대한다업 라떼 특가",
@@ -4518,8 +4506,8 @@
     "price": 39400,
     "link": "https://store.kakao.com/mrdangol/products/788163838",
     "slot_id": "60329",
-    "pgm": "26년 햅쌀 고인돌 강화섬쌀",
-    "title": "카카오페이7%즉시할인",
+    "pgm": "26년햅쌀 고인돌 강화섬쌀",
+    "title": "농축산물할인지원쌀2000원",
     "category": "식품"
    },
    {
@@ -4654,6 +4642,18 @@
     "slot_id": "60052",
     "pgm": "VSL3 대용량 특별구성혜택",
     "title": "키즈 오리지널 밸런스 특집",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "열광한우",
+    "product": "[열광한우] 1++등급 한우 선물세트 구이용 모듬 1kg 외",
+    "price": 159000,
+    "link": "https://store.kakao.com/ykbeef/products/779472669",
+    "slot_id": "60338",
+    "pgm": "열광한우 1++한우선물세트",
+    "title": "톡딜위크 쿠폰+페이중복할인",
     "category": "식품"
    },
    {
