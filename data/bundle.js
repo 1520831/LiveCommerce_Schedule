@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-19T12:29:38+09:00",
+ "generated_at": "2026-09-19T12:42:51+09:00",
  "today": "2026-09-19",
  "dates": [
   "2026-09-18",
@@ -2586,7 +2586,7 @@ window.SCHEDULE = {
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
      "category": "잡화·슈즈",
-     "hot": 7
+     "hot": 5
     },
     {
      "start": "13:00",
@@ -21870,7 +21870,7 @@ window.SCHEDULE = {
      "pgm": "노크 최대 44% 할인!",
      "title": "카쇼라한정 NEW 서울바닐라",
      "category": "뷰티",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "10:00",
