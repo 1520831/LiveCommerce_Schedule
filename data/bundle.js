@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-19T09:50:15+09:00",
+ "generated_at": "2026-09-19T10:07:58+09:00",
  "today": "2026-09-19",
  "dates": [
   "2026-09-18",
@@ -495,7 +495,7 @@ window.SCHEDULE = {
      ],
      "title": "타미힐피거 남성! 방송 중 라이브 최저가 도전❤️",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 10
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -7162,7 +7162,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "09:00",
