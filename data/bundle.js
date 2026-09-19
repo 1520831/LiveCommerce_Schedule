@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-19T17:50:46+09:00",
+ "generated_at": "2026-09-19T18:08:46+09:00",
  "today": "2026-09-19",
  "dates": [
   "2026-09-18",
@@ -474,7 +474,7 @@ window.SCHEDULE = {
      ],
      "title": "[현명쇼] 버버리 인기 패딩 60만▼ 클리어런스",
      "pgm": "[재방] 현명쇼 (노블레스팀)",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "09:00",
@@ -627,7 +627,7 @@ window.SCHEDULE = {
      ],
      "title": "[현명쇼] 에르노 패딩 월 1만원대 전상품 무이자60",
      "pgm": "[재방] 현명쇼 (노블레스팀)",
-     "hot": 8
+     "hot": 5
     },
     {
      "start": "18:00",
@@ -7698,8 +7698,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티",
-     "hot": 10
+     "category": "뷰티"
     },
     {
      "start": "10:40",
@@ -21870,7 +21869,7 @@ window.SCHEDULE = {
      "pgm": "노크 최대 44% 할인!",
      "title": "카쇼라한정 NEW 서울바닐라",
      "category": "뷰티",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -23254,8 +23253,8 @@ window.SCHEDULE = {
    "2026-09-18",
    "2026-09-19"
   ],
-  "matched": 16,
-  "unmatched": 3
+  "matched": 15,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
