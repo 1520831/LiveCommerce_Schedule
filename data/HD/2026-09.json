@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-19T07:10:17+09:00",
+ "updated_at": "2026-09-19T12:09:07+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -7209,17 +7209,17 @@
    {
     "start": "08:00",
     "end": "08:59",
-    "brand": "버버리",
-    "product": "빅포켓 스트라이프 백팩(8121465)",
-    "price": 1199000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252699328",
+    "brand": "프라다",
+    "product": "리나일론 숄더백(1BH226)",
+    "price": 3049000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252836187",
     "slot_id": "202609196014",
     "items": [
      {
-      "brand": "버버리",
-      "product": "빅포켓 스트라이프 백팩(8121465)",
-      "price": 1199000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252699328"
+      "brand": "프라다",
+      "product": "리나일론 숄더백(1BH226)",
+      "price": 3049000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252836187"
      }
     ],
     "title": "[현명쇼] 버버리 인기 패딩 60만▼ 클리어런스",
@@ -7287,14 +7287,14 @@
     "end": "12:59",
     "brand": "청고담",
     "product": "6년근 발효 홍삼 배도라지 진액 스틱 30포 (영주소공인지원센터)",
-    "price": 53300,
+    "price": 32900,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253392369",
     "slot_id": "202609196004",
     "items": [
      {
       "brand": "청고담",
       "product": "6년근 발효 홍삼 배도라지 진액 스틱 30포 (영주소공인지원센터)",
-      "price": 53300,
+      "price": 32900,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253392369"
      }
     ],
