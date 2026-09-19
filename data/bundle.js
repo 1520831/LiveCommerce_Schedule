@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-19T19:41:31+09:00",
+ "generated_at": "2026-09-19T19:54:32+09:00",
  "today": "2026-09-19",
  "dates": [
   "2026-09-18",
@@ -2587,7 +2587,7 @@ window.SCHEDULE = {
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
      "category": "잡화·슈즈",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "13:00",
@@ -8862,7 +8862,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "19:00",
