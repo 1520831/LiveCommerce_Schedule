@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-19T11:30:47+09:00",
+ "generated_at": "2026-09-19T11:46:25+09:00",
  "today": "2026-09-19",
  "dates": [
   "2026-09-18",
@@ -474,7 +474,7 @@ window.SCHEDULE = {
      ],
      "title": "[현명쇼] 버버리 인기 패딩 60만▼ 클리어런스",
      "pgm": "[재방] 현명쇼 (노블레스팀)",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "09:00",
@@ -2546,7 +2546,8 @@ window.SCHEDULE = {
      "title": "다시보는 프라이 26FW 신상 방송 중에만 이 가격! 라이브쇼 최저가🤎",
      "pgm": "라이브쇼",
      "pgm_cd": "0216",
-     "category": "잡화·슈즈"
+     "category": "잡화·슈즈",
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -7530,7 +7531,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -7946,7 +7947,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -8010,7 +8011,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -21816,7 +21817,7 @@ window.SCHEDULE = {
      "pgm": "노크 최대 44% 할인!",
      "title": "카쇼라한정 NEW 서울바닐라",
      "category": "뷰티",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -23200,8 +23201,8 @@ window.SCHEDULE = {
    "2026-09-18",
    "2026-09-19"
   ],
-  "matched": 14,
-  "unmatched": 5
+  "matched": 15,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
