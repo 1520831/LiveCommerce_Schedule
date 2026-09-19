@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-19T09:12:38+09:00",
+ "generated_at": "2026-09-19T09:36:16+09:00",
  "today": "2026-09-19",
  "dates": [
   "2026-09-18",
@@ -494,7 +494,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "타미힐피거 남성! 방송 중 라이브 최저가 도전❤️",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -2480,8 +2481,7 @@ window.SCHEDULE = {
      "title": "다시보는❤️가을맞이 크리스피바바🐑 양모차렵이불 최대 할인 특가!",
      "pgm": "라이브쇼",
      "pgm_cd": "0146",
-     "category": "가구·침구",
-     "hot": 4
+     "category": "가구·침구"
     },
     {
      "start": "09:00",
@@ -7161,7 +7161,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 3
     },
     {
      "start": "09:00",
@@ -23197,7 +23198,7 @@ window.SCHEDULE = {
    "2026-09-18",
    "2026-09-19"
   ],
-  "matched": 11,
+  "matched": 12,
   "unmatched": 7
  },
  "fixed": {
