@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-19T10:07:58+09:00",
+ "generated_at": "2026-09-19T10:22:39+09:00",
  "today": "2026-09-19",
  "dates": [
   "2026-09-18",
@@ -454,8 +454,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[노블리타] 이태리 18K 주얼리 월 7천원대부터~",
-     "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 2
+     "pgm": "[재방] 노블리타 (노블레스)"
     },
     {
      "start": "08:00",
@@ -495,7 +494,7 @@ window.SCHEDULE = {
      ],
      "title": "타미힐피거 남성! 방송 중 라이브 최저가 도전❤️",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -7162,7 +7161,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "09:00",
@@ -7532,7 +7531,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -21814,7 +21814,8 @@ window.SCHEDULE = {
      "slot_id": "59682",
      "pgm": "노크 최대 44% 할인!",
      "title": "카쇼라한정 NEW 서울바닐라",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -23198,8 +23199,8 @@ window.SCHEDULE = {
    "2026-09-18",
    "2026-09-19"
   ],
-  "matched": 12,
-  "unmatched": 7
+  "matched": 13,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
