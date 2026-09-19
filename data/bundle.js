@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-19T16:54:50+09:00",
+ "generated_at": "2026-09-19T17:09:48+09:00",
  "today": "2026-09-19",
  "dates": [
   "2026-09-18",
@@ -626,7 +626,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[현명쇼] 에르노 패딩 월 1만원대 전상품 무이자60",
-     "pgm": "[재방] 현명쇼 (노블레스팀)"
+     "pgm": "[재방] 현명쇼 (노블레스팀)",
+     "hot": 9
     },
     {
      "start": "18:00",
@@ -7698,7 +7699,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "10:40",
@@ -23253,8 +23254,8 @@ window.SCHEDULE = {
    "2026-09-18",
    "2026-09-19"
   ],
-  "matched": 15,
-  "unmatched": 4
+  "matched": 16,
+  "unmatched": 3
  },
  "fixed": {
   "rows": [
