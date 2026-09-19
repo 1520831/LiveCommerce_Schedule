@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-19T12:10:21+09:00",
+ "generated_at": "2026-09-19T12:29:38+09:00",
  "today": "2026-09-19",
  "dates": [
   "2026-09-18",
@@ -474,7 +474,7 @@ window.SCHEDULE = {
      ],
      "title": "[현명쇼] 버버리 인기 패딩 60만▼ 클리어런스",
      "pgm": "[재방] 현명쇼 (노블레스팀)",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "09:00",
@@ -2585,7 +2585,8 @@ window.SCHEDULE = {
      "title": "다시보는 락포트 26FW 최신상 공개💗",
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
-     "category": "잡화·슈즈"
+     "category": "잡화·슈즈",
+     "hot": 7
     },
     {
      "start": "13:00",
@@ -7854,7 +7855,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -8032,7 +8033,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -23253,8 +23254,8 @@ window.SCHEDULE = {
    "2026-09-18",
    "2026-09-19"
   ],
-  "matched": 15,
-  "unmatched": 4
+  "matched": 16,
+  "unmatched": 3
  },
  "fixed": {
   "rows": [
