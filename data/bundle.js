@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-19T10:22:39+09:00",
+ "generated_at": "2026-09-19T10:38:31+09:00",
  "today": "2026-09-19",
  "dates": [
   "2026-09-18",
@@ -474,7 +474,7 @@ window.SCHEDULE = {
      ],
      "title": "[현명쇼] 버버리 인기 패딩 60만▼ 클리어런스",
      "pgm": "[재방] 현명쇼 (노블레스팀)",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "09:00",
@@ -493,8 +493,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "타미힐피거 남성! 방송 중 라이브 최저가 도전❤️",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 7
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "10:00",
@@ -7161,7 +7160,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "09:00",
@@ -7354,7 +7353,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -7371,7 +7371,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -7532,7 +7533,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -23199,8 +23200,8 @@ window.SCHEDULE = {
    "2026-09-18",
    "2026-09-19"
   ],
-  "matched": 13,
-  "unmatched": 6
+  "matched": 14,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
