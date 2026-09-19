@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-19T19:28:48+09:00",
+ "generated_at": "2026-09-19T19:41:31+09:00",
  "today": "2026-09-19",
  "dates": [
   "2026-09-18",
@@ -2548,7 +2548,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "0216",
      "category": "잡화·슈즈",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -7968,7 +7968,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -8862,7 +8862,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "19:00",
