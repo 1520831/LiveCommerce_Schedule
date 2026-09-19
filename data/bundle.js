@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-19T17:39:28+09:00",
+ "generated_at": "2026-09-19T17:50:46+09:00",
  "today": "2026-09-19",
  "dates": [
   "2026-09-18",
@@ -627,7 +627,7 @@ window.SCHEDULE = {
      ],
      "title": "[현명쇼] 에르노 패딩 월 1만원대 전상품 무이자60",
      "pgm": "[재방] 현명쇼 (노블레스팀)",
-     "hot": 9
+     "hot": 8
     },
     {
      "start": "18:00",
@@ -8033,7 +8033,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "11:00",
