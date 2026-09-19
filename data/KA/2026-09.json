@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-09-19T23:42:24+09:00",
+ "updated_at": "2026-09-20T07:10:00+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -4363,18 +4363,6 @@
     "pgm": "암소한우++등급 선물세트",
     "title": "한가위에 한우는 못 참지",
     "category": "식품"
-   },
-   {
-    "start": "22:30",
-    "end": "23:19",
-    "brand": "터치그라운드 스니커즈",
-    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-    "price": 49900,
-    "link": "https://store.kakao.com/touchground/products/774098244",
-    "slot_id": "60313",
-    "pgm": "터치그라운드 발편한운동화",
-    "title": "가벼우면서 쿠션감 좋은운동화",
-    "category": "패션"
    }
   ],
   "2026-09-20": [
@@ -4979,7 +4967,7 @@
     "end": "10:00",
     "brand": "신세계푸드",
     "product": "한돈 등심돈까스 10팩/치즈돈까스(문경사과 소스포함)",
-    "price": 38900,
+    "price": 30900,
     "link": "https://store.kakao.com/shinsegaefood/products/738831457",
     "slot_id": "59800",
     "pgm": "신세계푸드 등심/치즈돈까스",
@@ -5543,6 +5531,116 @@
     "pgm": "김말이튀김 30+30개",
     "title": "13900원 초특가라이브",
     "category": "식품"
+   }
+  ],
+  "2026-09-25": [
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "부이",
+    "product": "부이 바디 에어 드라이어 + 헤어타올 증정 임신 집들이 부모님 뽀송 4계절용 저소음 욕실용",
+    "price": 42900,
+    "link": "https://gift.kakao.com/product/13724181?url=product&cId=13724181",
+    "slot_id": "59888",
+    "pgm": "BOOIE 풍성한 추석!",
+    "title": "효도선물 모음전",
+    "category": "테크"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "슬룸",
+    "product": "[무선] 종아리 다리 롤러 지압볼 온열 마사지기ㅣ리모컨 포함ㅣ손목 전신 안마기ㅣ추석 부모님 임산부ㅣ 슬룸 종아리 발 마사지",
+    "price": 38900,
+    "link": "https://gift.kakao.com/product/13722550?url=product&cId=13722550",
+    "slot_id": "60002",
+    "pgm": "슬룸 마사지기 추석 특가",
+    "title": "선물하기 추석 프로모션",
+    "category": "리빙"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "쿠첸",
+    "product": "쿠첸 브레인 듀얼프레셔 IH 전기압력밥솥 6/10인",
+    "price": 249000,
+    "link": "https://store.kakao.com/cuchen/products/174453468",
+    "slot_id": "59949",
+    "pgm": "밥맛이 달라지는 60분",
+    "title": "쿠첸 최대 52% 특가 찬스",
+    "category": "테크"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "풀무원가전",
+    "product": "스팀쿡 마스터+ 듀얼스팀 오븐 에어프라이어 20L",
+    "price": 349000,
+    "link": "https://store.kakao.com/pulmuone/products/706537720",
+    "slot_id": "60197",
+    "pgm": "스팀쿡 추석맞이 특가!",
+    "title": "편백찜기+2단 멀티쿠커 증정",
+    "category": "테크"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "얼라인랩",
+    "product": "세상에서 가장 작은 마사지샵 | EMS+TENS 저주파 승모근+종아리+팔뚝 전신 마사지기 얼라인랩 릴렉스 미니EMS마사지기",
+    "price": 35900,
+    "link": "https://gift.kakao.com/product/13802123?url=product&cId=13802123",
+    "slot_id": "60049",
+    "pgm": "추석 선물 추천! 얼라인랩",
+    "title": "릴렉스 마사지기 초특가!",
+    "category": "테크"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "미닉스",
+    "product": "미닉스 더 플렌더 MAX 음식물처리기 가정용 분쇄기 건조기",
+    "price": 759000,
+    "link": "https://store.kakao.com/minix/products/647718644",
+    "slot_id": "60163",
+    "pgm": "미닉스 더 플렌더 초톡딜!",
+    "title": "쿠폰 증정+카카오페이 할인",
+    "category": "테크"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "신일전자 온라인스토어",
+    "product": "신일 초절전 무전자계 EMF 온열 전기요 전기매트 전기장판 워셔블 쇼파 캠핑",
+    "price": 159800,
+    "link": "https://store.kakao.com/shinilonline/products/684102692",
+    "slot_id": "59981",
+    "pgm": "신일 26년 첫 라이브방송",
+    "title": "추석특가 선물대전 62%할인",
+    "category": "테크"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "에코따숨",
+    "product": "[파라핀전문회사] 국내산 에코따숨 파라핀베스+전상품 왁스증정",
+    "price": 210000,
+    "link": "https://store.kakao.com/ecotasum/products/136505849",
+    "slot_id": "60021",
+    "pgm": "에코따숨 파라핀 베스&왁스",
+    "title": "추석에도! 라이브 특가",
+    "category": "리빙"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "브라운공식스토어",
+    "product": "[BRAUN] 브라운 전기면도기 시리즈9 PRO+ 울트라 씬 세척&충전스테이션 전용날망 번들 에디션",
+    "price": 379000,
+    "link": "https://store.kakao.com/braunoralb/products/785234938",
+    "slot_id": "60090",
+    "pgm": "브라운 울트라씬 특가할인",
+    "title": "추가 1년치 세정액증정혜택!",
+    "category": "뷰티"
    }
   ]
  }
