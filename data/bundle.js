@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-21T07:22:28+09:00",
+ "generated_at": "2026-09-21T07:37:30+09:00",
  "today": "2026-09-21",
  "dates": [
   "2026-09-20",
@@ -414,7 +414,8 @@ window.SCHEDULE = {
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253383970"
       }
      ],
-     "title": "SNS 대란템! 납작 청크 그래놀라 집방 특별가"
+     "title": "SNS 대란템! 납작 청크 그래놀라 집방 특별가",
+     "hot": 7
     },
     {
      "start": "08:00",
@@ -17256,8 +17257,8 @@ window.SCHEDULE = {
    "2026-09-20",
    "2026-09-21"
   ],
-  "matched": 7,
-  "unmatched": 11
+  "matched": 8,
+  "unmatched": 10
  },
  "fixed": {
   "rows": [
