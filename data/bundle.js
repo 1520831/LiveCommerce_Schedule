@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-20T19:41:40+09:00",
+ "generated_at": "2026-09-20T19:54:41+09:00",
  "today": "2026-09-20",
  "dates": [
   "2026-09-19",
@@ -418,7 +418,7 @@ window.SCHEDULE = {
      ],
      "title": "[현명쇼] 구찌 스카프 월 5천원대 타임찬스",
      "pgm": "[재방] 현명쇼 (노블레스팀)",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -7290,7 +7290,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -7585,7 +7585,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "12:00",
@@ -18776,7 +18776,7 @@ window.SCHEDULE = {
      "pgm": "동국제약 브랜드데이",
      "title": "굿잠안대 3종 외 83%할인",
      "category": "리빙",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "11:30",
