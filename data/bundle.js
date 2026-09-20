@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-21T07:58:06+09:00",
+ "generated_at": "2026-09-21T08:14:12+09:00",
  "today": "2026-09-21",
  "dates": [
   "2026-09-20",
@@ -414,8 +414,7 @@ window.SCHEDULE = {
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253383970"
       }
      ],
-     "title": "SNS 대란템! 납작 청크 그래놀라 집방 특별가",
-     "hot": 6
+     "title": "SNS 대란템! 납작 청크 그래놀라 집방 특별가"
     },
     {
      "start": "08:00",
@@ -6129,8 +6128,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 1
+     "category": "테크"
     },
     {
      "start": "08:00",
@@ -6225,7 +6223,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 1
     },
     {
      "start": "09:00",
@@ -15694,7 +15693,8 @@ window.SCHEDULE = {
      "price": 0,
      "link": "https://player.sauceflex.com/broadcast/lkebay-bd6d0ddcbfac490f94ba6f0378cf43f8",
      "slot_id": "254031",
-     "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻23"
+     "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻23",
+     "hot": 2
     },
     {
      "start": "10:00",
