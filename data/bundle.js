@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-20T21:58:45+09:00",
+ "generated_at": "2026-09-20T22:15:15+09:00",
  "today": "2026-09-20",
  "dates": [
   "2026-09-19",
@@ -417,8 +417,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[현명쇼] 구찌 스카프 월 5천원대 타임찬스",
-     "pgm": "[재방] 현명쇼 (노블레스팀)",
-     "hot": 10
+     "pgm": "[재방] 현명쇼 (노블레스팀)"
     },
     {
      "start": "10:00",
@@ -2350,7 +2349,7 @@ window.SCHEDULE = {
      "pgm": "잘사는 언니들",
      "pgm_cd": "1028",
      "category": "가구·침구",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "20:00",
@@ -7291,7 +7290,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 8
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -8400,7 +8399,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 2
+     "hot": 9
     },
     {
      "start": "20:00",
@@ -18161,7 +18160,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]스마일캐시최대5만+구매인증 추첨🎉갤럭시총집합",
      "rerun": true,
      "category": "디지털·PC",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "20:00",
@@ -18196,7 +18195,8 @@ window.SCHEDULE = {
      "slot_id": "254350",
      "pgm": "[앵콜]한가위빅세일 삼성 가전특가!카드할인최대25만🎉",
      "rerun": true,
-     "category": "가전"
+     "category": "가전",
+     "hot": 8
     },
     {
      "start": "21:00",
