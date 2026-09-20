@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-20T18:08:56+09:00",
+ "generated_at": "2026-09-20T18:13:57+09:00",
  "today": "2026-09-20",
  "dates": [
   "2026-09-19",
@@ -1697,9 +1697,9 @@ window.SCHEDULE = {
      "start": "13:00",
      "end": "13:59",
      "brand": "벨르제이",
-     "product": "캐비어크림 시즌2 50ml 11개",
-     "price": 399000,
-     "link": "https://item.cjonstyle.com/item/2084111842?channelCode=30002002",
+     "product": "캐비어크림 시즌2 크림 50ml 4개+캐비어미스트 80ml 2개",
+     "price": 199000,
+     "link": "https://item.cjonstyle.com/item/2092820640?channelCode=30002002",
      "slot_id": "29668",
      "title": "다시보는🚨겟잇스타일 x 벨르제이 최저가 찬스!",
      "pgm": "겟잇스타일 프렌즈",
@@ -2200,7 +2200,7 @@ window.SCHEDULE = {
      "end": "15:59",
      "brand": "닥터린",
      "product": "[9/20-27 증.정] 하이퍼셀 리포좀 비타민C x 5박스+비타민k2+쇼핑백",
-     "price": 87720,
+     "price": 84920,
      "link": "https://item.cjonstyle.com/item/2021989466?channelCode=30002002",
      "slot_id": "29785",
      "title": "다시보는 닥터린 역대급 특가💝",
@@ -2583,7 +2583,7 @@ window.SCHEDULE = {
      "end": "11:59",
      "brand": "수면공감",
      "product": "1+1 NEW우유베개 기능성 경추베개/빨아쓰는 우유토퍼",
-     "price": 103680,
+     "price": 89905,
      "link": "https://item.cjonstyle.com/item/2036129947?channelCode=30002002",
      "slot_id": "29717",
      "title": "추석전배송OK 손님맞이 필수템 우유베개 &어메니티타올 세트 특가찬스🤍",
@@ -3040,7 +3040,7 @@ window.SCHEDULE = {
      "end": "11:59",
      "brand": "수면공감",
      "product": "1+1 NEW우유베개 기능성 경추베개/빨아쓰는 우유토퍼",
-     "price": 103680,
+     "price": 89905,
      "link": "https://item.cjonstyle.com/item/2036129947?channelCode=30002002",
      "slot_id": "29884",
      "title": "다시보는 추석전배송! 손님맞이 필수템 우유베개&어메니티타올 세트 특가🤍",
@@ -3392,6 +3392,19 @@ window.SCHEDULE = {
      "cast": "influencer"
     },
     {
+     "start": "11:30",
+     "end": "12:34",
+     "brand": "바니스뉴욕",
+     "product": "25FW 캐시미어 블랜드 아워글래스 풀오버",
+     "price": 69000,
+     "link": "https://item.cjonstyle.com/item/2064702647?channelCode=30002002",
+     "slot_id": "29741",
+     "title": "바이림 애프터 세일💗 바니스뉴욕 역시즌 한정 수량, 단독 특가!",
+     "pgm": "바이림",
+     "pgm_cd": "0092",
+     "category": "여성패션"
+    },
+    {
      "start": "12:00",
      "end": "12:59",
      "brand": "자코모",
@@ -3517,6 +3530,19 @@ window.SCHEDULE = {
      "pgm": "브랜디드 라이브쇼",
      "pgm_cd": "1130",
      "category": "뷰티"
+    },
+    {
+     "start": "19:00",
+     "end": "19:59",
+     "brand": "에스까다",
+     "product": "'26 퍼펙트 더블V 퓨징 브라팬티 1차 4세트(런닝형)",
+     "price": 76930,
+     "link": "https://item.cjonstyle.com/item/2083269890?channelCode=30002002",
+     "slot_id": "29743",
+     "title": "엣지쇼💗에스까다 화이트라벨 의류&언더웨어 연합 특가",
+     "pgm": "엣지쇼",
+     "pgm_cd": "0223",
+     "category": "여성패션"
     },
     {
      "start": "19:00",
@@ -7068,7 +7094,7 @@ window.SCHEDULE = {
     },
     {
      "start": "10:20",
-     "end": "",
+     "end": "12:19",
      "brand": "갤럭시",
      "product": "삼성 갤럭시워치8 강화유리 패키지 실버, 40mm, 블루투스",
      "price": 419000,
@@ -7115,7 +7141,7 @@ window.SCHEDULE = {
     },
     {
      "start": "10:40",
-     "end": "",
+     "end": "12:40",
      "brand": "갤럭시",
      "product": "삼성 갤럭시 워치8 (강화유리 2매 패키지) 실버, 40mm, 블루투스",
      "price": 419000,
@@ -7368,7 +7394,7 @@ window.SCHEDULE = {
     },
     {
      "start": "11:00",
-     "end": "",
+     "end": "12:31",
      "brand": "세노비스",
      "product": "[신상품][2개월분+사은품] 세노비스 수퍼바이오틱스 콜레스테롤 실온보관 유산균 LpCECT 30캡슐, 2개",
      "price": 89900,
@@ -7437,7 +7463,7 @@ window.SCHEDULE = {
      "end": "11:36",
      "brand": "CUCKOO",
      "product": "쿠쿠 인스퓨어 헤리티지  28평형 공기청정기 AC-28AHNL20FNW",
-     "price": 499000,
+     "price": 517000,
      "link": "https://shoppinglive.naver.com/livebridge/2018436",
      "slot_id": "2018436",
      "pgm": "🎁추석 셀프 선물도 OK! 요즘 인기 디지털/가전 라이브 특가",
@@ -7482,7 +7508,7 @@ window.SCHEDULE = {
     },
     {
      "start": "11:00",
-     "end": "",
+     "end": "12:33",
      "brand": "네스프레소",
      "product": "스타벅스 네스프레소 캡슐 대표5종(하우스 파이크 에스프레소 디카프에스프레소 헤이즐넛)외+굿즈",
      "price": 44950,
@@ -7566,7 +7592,7 @@ window.SCHEDULE = {
     },
     {
      "start": "12:00",
-     "end": "",
+     "end": "14:00",
      "brand": "삼성",
      "product": "삼성 비스포크 AI 키친핏 냉장고 1등급 4도어 RM70H63R1A 코타화이트 2026년 신상품",
      "price": 2699000,
@@ -7635,7 +7661,7 @@ window.SCHEDULE = {
     },
     {
      "start": "12:00",
-     "end": "",
+     "end": "14:00",
      "brand": "CUCKOO",
      "product": "[추석+세일] 쿠쿠 제로100 미니 얼음 정수기 CP-AQS100EWH",
      "price": 4191600,
@@ -7655,7 +7681,7 @@ window.SCHEDULE = {
     },
     {
      "start": "12:30",
-     "end": "",
+     "end": "14:29",
      "brand": "갤럭시",
      "product": "삼성 갤럭시워치8 강화유리 패키지 실버, 40mm, 블루투스",
      "price": 419000,
@@ -7702,7 +7728,7 @@ window.SCHEDULE = {
     },
     {
      "start": "15:00",
-     "end": "",
+     "end": "16:00",
      "brand": "워시콤보",
      "product": "LG 오브제컬렉션 워시콤보 미니워시 FH25WAX 올인원 세탁기 건조기 일체형 화이트",
      "price": 3478000,
@@ -7847,7 +7873,7 @@ window.SCHEDULE = {
      "end": "",
      "brand": "CUCKOO",
      "product": "쿠쿠 인스퓨어 헤리티지  28평형 공기청정기 AC-28AHNL20FNW",
-     "price": 499000,
+     "price": 517000,
      "link": "https://shoppinglive.naver.com/livebridge/2018439",
      "slot_id": "2018439",
      "pgm": "🎁추석 셀프 선물도 OK! 요즘 인기 디지털/가전 라이브 특가",
@@ -8035,6 +8061,9 @@ window.SCHEDULE = {
      "pgm": "[최대 36%] 연휴 전 마지막 라이브!",
      "title": "9월 최대 혜택 + N배송",
      "items": [
+      {},
+      {},
+      {},
       {},
       {},
       {},
@@ -8274,7 +8303,22 @@ window.SCHEDULE = {
      "category": "푸드"
     },
     {
-     "start": "19:59",
+     "start": "20:00",
+     "end": "",
+     "brand": "원더라이프",
+     "product": "대추호두말이 원더라이프 대호한끼 건강간식 식사대용 등산간식 90g, 5개",
+     "price": 26900,
+     "link": "https://shoppinglive.naver.com/livebridge/2001491",
+     "slot_id": "2001491",
+     "pgm": "[블루밍] 추석 선물로 딱! 대호한끼 대추호두말이 특가 LIVE",
+     "title": "대호한끼 추석선물세트 특가!",
+     "items": [
+      {}
+     ],
+     "category": "푸드"
+    },
+    {
+     "start": "20:00",
      "end": "",
      "brand": "JBL",
      "product": "삼성공식파트너 JBL PARTYBOX ENCORE2 블루투스 스피커 앙코르2 플러스",
@@ -8340,21 +8384,6 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크"
-    },
-    {
-     "start": "20:00",
-     "end": "",
-     "brand": "원더라이프",
-     "product": "대추호두말이 원더라이프 대호한끼 건강간식 식사대용 등산간식 90g, 5개",
-     "price": 26900,
-     "link": "https://shoppinglive.naver.com/livebridge/2001491",
-     "slot_id": "2001491",
-     "pgm": "[블루밍] 추석 선물로 딱! 대호한끼 대추호두말이 특가 LIVE",
-     "title": "대호한끼 추석선물세트 특가!",
-     "items": [
-      {}
-     ],
-     "category": "푸드"
     },
     {
      "start": "20:00",
@@ -8639,8 +8668,8 @@ window.SCHEDULE = {
      "start": "20:00",
      "end": "",
      "brand": "트루쿡",
-     "product": "트루쿡 국산 한방울 4구 에그팬 인덕션 세라믹 블랙 29cm 계란후라이팬 브러쉬 세트",
-     "price": 39000,
+     "product": "[🔴LIVE] 트루쿡 국산 한방울 4구 에그팬 인덕션 세라믹 블랙 29cm 계란후라이팬 브러쉬 세트",
+     "price": 37000,
      "link": "https://shoppinglive.naver.com/livebridge/2035551",
      "slot_id": "2035551",
      "pgm": "[쏠쏠마켓X트루쿡] 추석 맞이 세일 + 혜택 LIVE",
@@ -9105,7 +9134,7 @@ window.SCHEDULE = {
      "end": "",
      "brand": "돌체구스토",
      "product": "돌체구스토 네오 쉐어 화이트 스타벅스앳홈팩 캡슐 커피머신(캡슐 2개, 캡슐 보관함 1개) + 신세계 상품권 5만원 증정",
-     "price": 159000,
+     "price": 152000,
      "link": "https://shoppinglive.naver.com/livebridge/2037035",
      "slot_id": "2037035",
      "pgm": "[앵콜]~57%할인 돌체구스토 추석특집 LIVE 사랑이 가득한 홈카페선물",
@@ -9377,16 +9406,12 @@ window.SCHEDULE = {
       {},
       {},
       {},
-      {},
-      {},
-      {},
-      {},
       {}
      ],
      "category": "패션"
     },
     {
-     "start": "22:03",
+     "start": "22:00",
      "end": "",
      "brand": "JBL",
      "product": "삼성공식파트너 JBL PARTYBOX ENCORE2 블루투스 스피커 앙코르2 플러스",
@@ -9460,7 +9485,7 @@ window.SCHEDULE = {
      "end": "",
      "brand": "삼성",
      "product": "삼성전자 JBL GO5 휴대용 미니 블루투스 스피커 방수 방진 오렌지",
-     "price": 59800,
+     "price": 58800,
      "link": "https://shoppinglive.naver.com/livebridge/1989242",
      "slot_id": "1989242",
      "pgm": "[블루밍] 하만카돈 루나 2 블루투스 스피커 신규 론칭 라이브",
@@ -10497,7 +10522,7 @@ window.SCHEDULE = {
      "start": "10:00",
      "end": "",
      "brand": "설화수",
-     "product": "① [09.21오픈/듀오/추석+세일] 설화수 자음생크림 리치 50ml 기획세트 X 2EA",
+     "product": "① [09.21오픈/듀오/포토리뷰1.1만p] 설화수 자음생크림 리치 50ml 기획세트 X 2EA",
      "price": 540000,
      "link": "https://shoppinglive.naver.com/livebridge/2004323",
      "slot_id": "2004323",
@@ -18571,18 +18596,6 @@ window.SCHEDULE = {
      "category": "식품"
     },
     {
-     "start": "14:00",
-     "end": "14:59",
-     "brand": "온라인가구닷컴",
-     "product": "보루네오 파비앙 비건레더 모션 무빙 슬라이딩 리클라이닝 전동 소파 4인",
-     "price": 2156250,
-     "link": "https://store.kakao.com/onlinegagu/products/792970390",
-     "slot_id": "60337",
-     "pgm": "보루네오 모션 슬라이딩 소파",
-     "title": "추석 통큰 세일~!",
-     "category": "리빙"
-    },
-    {
      "start": "17:00",
      "end": "18:20",
      "brand": "SK-II",
@@ -18769,19 +18782,7 @@ window.SCHEDULE = {
     },
     {
      "start": "11:30",
-     "end": "13:00",
-     "brand": "농협안심한우",
-     "product": "농협안심한우 1++등급 '투뿔 스페셜 구이' 한우세트 1kg(등심400g+채끝300g+안심150g+갈비살150g)",
-     "price": 158000,
-     "link": "https://gift.kakao.com/product/7610160?url=product&cId=7610160",
-     "slot_id": "59638",
-     "pgm": "농협 스페셜 1++등급 한우",
-     "title": "호불호 없는 선물세트",
-     "category": "식품"
-    },
-    {
-     "start": "11:30",
-     "end": "13:00",
+     "end": "12:30",
      "brand": "바디프로젝트",
      "product": "바디프로젝트 혈당케어 유산균 장용성 프로바이오틱스 30캡슐 2박스 선물세트. 혈당케어 & 장 건강 멀티 기능성",
      "price": 84000,
@@ -18793,7 +18794,7 @@ window.SCHEDULE = {
     },
     {
      "start": "11:30",
-     "end": "14:30",
+     "end": "12:40",
      "brand": "바퀜",
      "product": "[추석선물] 바퀜 3종팩 (미니0.3L+리유저블백+네트2종 증정)",
      "price": 104500,
@@ -18805,7 +18806,7 @@ window.SCHEDULE = {
     },
     {
      "start": "11:30",
-     "end": "13:00",
+     "end": "12:30",
      "brand": "올프레쉬",
      "product": "[올프레쉬] 프리미엄 추석 과일선물세트 친환경포장 2호 8종 (샤인머스켓, 감귤 외) 2.5kg이상",
      "price": 53000,
@@ -18816,16 +18817,16 @@ window.SCHEDULE = {
      "category": "식품"
     },
     {
-     "start": "17:00",
-     "end": "18:30",
-     "brand": "대한다업",
-     "product": "대한다업 데일리라떼 스틱 3종세트 [말차바닐라+보성말차+우베크림]",
-     "price": 39900,
-     "link": "https://store.kakao.com/daehandaup/products/763827614",
-     "slot_id": "60282",
-     "pgm": "대한다업 라떼 특가",
-     "title": "3종 골라담기",
-     "category": "식품"
+     "start": "13:00",
+     "end": "14:00",
+     "brand": "온라인가구닷컴",
+     "product": "보루네오 파비앙 비건레더 모션 무빙 슬라이딩 리클라이닝 전동 소파 4인",
+     "price": 2156250,
+     "link": "https://store.kakao.com/onlinegagu/products/792970390",
+     "slot_id": "60341",
+     "pgm": "보루네오 모션 슬라이딩 소파",
+     "title": "추석 통큰 세일~!",
+     "category": "리빙"
     },
     {
      "start": "17:30",
@@ -18918,7 +18919,7 @@ window.SCHEDULE = {
      "end": "23:30",
      "brand": "데비마이어",
      "product": "데비마이어 그린박스 신선보관 반찬통 밀폐용기 10개 풀세트(전자렌지/식세기O)",
-     "price": 68400,
+     "price": 152000,
      "link": "https://store.kakao.com/greenbag/products/104771451",
      "slot_id": "59707",
      "pgm": "추석맞이 데비마이어",
@@ -18977,12 +18978,12 @@ window.SCHEDULE = {
      "start": "20:30",
      "end": "22:00",
      "brand": "열광한우",
-     "product": "[열광한우] 1++등급 한우 선물세트 구이용 모듬 1kg 외",
-     "price": 159000,
-     "link": "https://store.kakao.com/ykbeef/products/779472669",
+     "product": "1++등급 한우 행복 세트 1kg 마장동 투뿔 소고기 구이용 선물",
+     "price": 119000,
+     "link": "https://store.kakao.com/ykbeef/products/683972130",
      "slot_id": "60338",
      "pgm": "열광한우 1++한우선물세트",
-     "title": "톡딜위크 쿠폰+페이중복할인",
+     "title": "명절전 마지막 혜택가 기회",
      "category": "식품"
     },
     {
@@ -19112,7 +19113,7 @@ window.SCHEDULE = {
      "end": "18:30",
      "brand": "명태잡는날",
      "product": "백 명란젓 파지 400g , 1kg 외 명태회무침 낙지젓 오징어젓 등",
-     "price": 13900,
+     "price": 25900,
      "link": "https://store.kakao.com/myeontae/products/71224204",
      "slot_id": "59942",
      "pgm": "밥도둑 명란젓 특집",
@@ -19284,7 +19285,7 @@ window.SCHEDULE = {
      "end": "11:30",
      "brand": "매크로온",
      "product": "[1+1] 마요라 코피코 커피 캔디 2종(블리스터/봉지)",
-     "price": 40000,
+     "price": 14900,
      "link": "https://store.kakao.com/macroon/products/580617146",
      "slot_id": "59598",
      "pgm": "코피코 캔디&레이즈 감자칩",
@@ -19295,7 +19296,7 @@ window.SCHEDULE = {
      "start": "08:30",
      "end": "10:00",
      "brand": "제이엠더블유본사",
-     "product": "JMW 볼륨온 아이보리 무선 브러쉬 빗 고데기 매직기+전용파우치&어댑터",
+     "product": "JMW 볼륨온 외 추석맞이 고데기/드라이기 모음전+전원 사은품",
      "price": 99000,
      "link": "https://store.kakao.com/jmwkorea/products/645113713",
      "slot_id": "59734",
@@ -19987,11 +19988,11 @@ window.SCHEDULE = {
   }
  },
  "updated_at": {
-  "HD": "2026-09-20T12:09:32+09:00",
-  "CJ": "2026-09-20T12:09:38+09:00",
-  "NV": "2026-09-20T12:10:45+09:00",
+  "HD": "2026-09-20T18:12:40+09:00",
+  "CJ": "2026-09-20T18:12:46+09:00",
+  "NV": "2026-09-20T18:13:50+09:00",
   "GM": "2026-09-17T11:43:43+09:00",
-  "KA": "2026-09-20T12:09:47+09:00"
+  "KA": "2026-09-20T18:12:55+09:00"
  },
  "cast_kinds": [
   "celeb",
@@ -21241,12 +21242,12 @@ window.SCHEDULE = {
     ],
     "kind": "daily",
     "tier": "fixed",
-    "hits": 24,
+    "hits": 25,
     "span": 31,
     "wd_hits": [
      3,
      4,
-     4,
+     5,
      5,
      4,
      4,

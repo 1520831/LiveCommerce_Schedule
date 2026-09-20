@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-09-20T12:09:47+09:00",
+ "updated_at": "2026-09-20T18:12:55+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -4219,18 +4219,6 @@
     "category": "식품"
    },
    {
-    "start": "14:00",
-    "end": "14:59",
-    "brand": "온라인가구닷컴",
-    "product": "보루네오 파비앙 비건레더 모션 무빙 슬라이딩 리클라이닝 전동 소파 4인",
-    "price": 2156250,
-    "link": "https://store.kakao.com/onlinegagu/products/792970390",
-    "slot_id": "60337",
-    "pgm": "보루네오 모션 슬라이딩 소파",
-    "title": "추석 통큰 세일~!",
-    "category": "리빙"
-   },
-   {
     "start": "17:00",
     "end": "18:20",
     "brand": "SK-II",
@@ -4416,19 +4404,7 @@
    },
    {
     "start": "11:30",
-    "end": "13:00",
-    "brand": "농협안심한우",
-    "product": "농협안심한우 1++등급 '투뿔 스페셜 구이' 한우세트 1kg(등심400g+채끝300g+안심150g+갈비살150g)",
-    "price": 158000,
-    "link": "https://gift.kakao.com/product/7610160?url=product&cId=7610160",
-    "slot_id": "59638",
-    "pgm": "농협 스페셜 1++등급 한우",
-    "title": "호불호 없는 선물세트",
-    "category": "식품"
-   },
-   {
-    "start": "11:30",
-    "end": "13:00",
+    "end": "12:30",
     "brand": "바디프로젝트",
     "product": "바디프로젝트 혈당케어 유산균 장용성 프로바이오틱스 30캡슐 2박스 선물세트. 혈당케어 & 장 건강 멀티 기능성",
     "price": 84000,
@@ -4440,7 +4416,7 @@
    },
    {
     "start": "11:30",
-    "end": "14:30",
+    "end": "12:40",
     "brand": "바퀜",
     "product": "[추석선물] 바퀜 3종팩 (미니0.3L+리유저블백+네트2종 증정)",
     "price": 104500,
@@ -4452,7 +4428,7 @@
    },
    {
     "start": "11:30",
-    "end": "13:00",
+    "end": "12:30",
     "brand": "올프레쉬",
     "product": "[올프레쉬] 프리미엄 추석 과일선물세트 친환경포장 2호 8종 (샤인머스켓, 감귤 외) 2.5kg이상",
     "price": 53000,
@@ -4463,16 +4439,16 @@
     "category": "식품"
    },
    {
-    "start": "17:00",
-    "end": "18:30",
-    "brand": "대한다업",
-    "product": "대한다업 데일리라떼 스틱 3종세트 [말차바닐라+보성말차+우베크림]",
-    "price": 39900,
-    "link": "https://store.kakao.com/daehandaup/products/763827614",
-    "slot_id": "60282",
-    "pgm": "대한다업 라떼 특가",
-    "title": "3종 골라담기",
-    "category": "식품"
+    "start": "13:00",
+    "end": "14:00",
+    "brand": "온라인가구닷컴",
+    "product": "보루네오 파비앙 비건레더 모션 무빙 슬라이딩 리클라이닝 전동 소파 4인",
+    "price": 2156250,
+    "link": "https://store.kakao.com/onlinegagu/products/792970390",
+    "slot_id": "60341",
+    "pgm": "보루네오 모션 슬라이딩 소파",
+    "title": "추석 통큰 세일~!",
+    "category": "리빙"
    },
    {
     "start": "17:30",
@@ -4565,7 +4541,7 @@
     "end": "23:30",
     "brand": "데비마이어",
     "product": "데비마이어 그린박스 신선보관 반찬통 밀폐용기 10개 풀세트(전자렌지/식세기O)",
-    "price": 68400,
+    "price": 152000,
     "link": "https://store.kakao.com/greenbag/products/104771451",
     "slot_id": "59707",
     "pgm": "추석맞이 데비마이어",
@@ -4624,12 +4600,12 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "열광한우",
-    "product": "[열광한우] 1++등급 한우 선물세트 구이용 모듬 1kg 외",
-    "price": 159000,
-    "link": "https://store.kakao.com/ykbeef/products/779472669",
+    "product": "1++등급 한우 행복 세트 1kg 마장동 투뿔 소고기 구이용 선물",
+    "price": 119000,
+    "link": "https://store.kakao.com/ykbeef/products/683972130",
     "slot_id": "60338",
     "pgm": "열광한우 1++한우선물세트",
-    "title": "톡딜위크 쿠폰+페이중복할인",
+    "title": "명절전 마지막 혜택가 기회",
     "category": "식품"
    },
    {
@@ -4759,7 +4735,7 @@
     "end": "18:30",
     "brand": "명태잡는날",
     "product": "백 명란젓 파지 400g , 1kg 외 명태회무침 낙지젓 오징어젓 등",
-    "price": 13900,
+    "price": 25900,
     "link": "https://store.kakao.com/myeontae/products/71224204",
     "slot_id": "59942",
     "pgm": "밥도둑 명란젓 특집",
@@ -4931,7 +4907,7 @@
     "end": "11:30",
     "brand": "매크로온",
     "product": "[1+1] 마요라 코피코 커피 캔디 2종(블리스터/봉지)",
-    "price": 40000,
+    "price": 14900,
     "link": "https://store.kakao.com/macroon/products/580617146",
     "slot_id": "59598",
     "pgm": "코피코 캔디&레이즈 감자칩",
@@ -4942,7 +4918,7 @@
     "start": "08:30",
     "end": "10:00",
     "brand": "제이엠더블유본사",
-    "product": "JMW 볼륨온 아이보리 무선 브러쉬 빗 고데기 매직기+전용파우치&어댑터",
+    "product": "JMW 볼륨온 외 추석맞이 고데기/드라이기 모음전+전원 사은품",
     "price": 99000,
     "link": "https://store.kakao.com/jmwkorea/products/645113713",
     "slot_id": "59734",

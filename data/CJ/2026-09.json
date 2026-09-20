@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-09-20T12:09:38+09:00",
+ "updated_at": "2026-09-20T18:12:46+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -9696,9 +9696,9 @@
     "start": "13:00",
     "end": "13:59",
     "brand": "벨르제이",
-    "product": "캐비어크림 시즌2 50ml 11개",
-    "price": 399000,
-    "link": "https://item.cjonstyle.com/item/2084111842?channelCode=30002002",
+    "product": "캐비어크림 시즌2 크림 50ml 4개+캐비어미스트 80ml 2개",
+    "price": 199000,
+    "link": "https://item.cjonstyle.com/item/2092820640?channelCode=30002002",
     "slot_id": "29668",
     "title": "다시보는🚨겟잇스타일 x 벨르제이 최저가 찬스!",
     "pgm": "겟잇스타일 프렌즈",
@@ -10192,7 +10192,7 @@
     "end": "15:59",
     "brand": "닥터린",
     "product": "[9/20-27 증.정] 하이퍼셀 리포좀 비타민C x 5박스+비타민k2+쇼핑백",
-    "price": 87720,
+    "price": 84920,
     "link": "https://item.cjonstyle.com/item/2021989466?channelCode=30002002",
     "slot_id": "29785",
     "title": "다시보는 닥터린 역대급 특가💝",
@@ -10569,7 +10569,7 @@
     "end": "11:59",
     "brand": "수면공감",
     "product": "1+1 NEW우유베개 기능성 경추베개/빨아쓰는 우유토퍼",
-    "price": 103680,
+    "price": 89905,
     "link": "https://item.cjonstyle.com/item/2036129947?channelCode=30002002",
     "slot_id": "29717",
     "title": "추석전배송OK 손님맞이 필수템 우유베개 &어메니티타올 세트 특가찬스🤍",
@@ -11021,7 +11021,7 @@
     "end": "11:59",
     "brand": "수면공감",
     "product": "1+1 NEW우유베개 기능성 경추베개/빨아쓰는 우유토퍼",
-    "price": 103680,
+    "price": 89905,
     "link": "https://item.cjonstyle.com/item/2036129947?channelCode=30002002",
     "slot_id": "29884",
     "title": "다시보는 추석전배송! 손님맞이 필수템 우유베개&어메니티타올 세트 특가🤍",
@@ -11367,6 +11367,19 @@
     "pgm_cd": "1052"
    },
    {
+    "start": "11:30",
+    "end": "12:34",
+    "brand": "바니스뉴욕",
+    "product": "25FW 캐시미어 블랜드 아워글래스 풀오버",
+    "price": 69000,
+    "link": "https://item.cjonstyle.com/item/2064702647?channelCode=30002002",
+    "slot_id": "29741",
+    "title": "바이림 애프터 세일💗 바니스뉴욕 역시즌 한정 수량, 단독 특가!",
+    "pgm": "바이림",
+    "pgm_cd": "0092",
+    "category": "여성패션"
+   },
+   {
     "start": "12:00",
     "end": "12:59",
     "brand": "자코모",
@@ -11492,6 +11505,19 @@
     "pgm": "브랜디드 라이브쇼",
     "pgm_cd": "1130",
     "category": "뷰티"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "에스까다",
+    "product": "'26 퍼펙트 더블V 퓨징 브라팬티 1차 4세트(런닝형)",
+    "price": 76930,
+    "link": "https://item.cjonstyle.com/item/2083269890?channelCode=30002002",
+    "slot_id": "29743",
+    "title": "엣지쇼💗에스까다 화이트라벨 의류&언더웨어 연합 특가",
+    "pgm": "엣지쇼",
+    "pgm_cd": "0223",
+    "category": "여성패션"
    },
    {
     "start": "19:00",
