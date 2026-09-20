@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-20T10:22:33+09:00",
+ "generated_at": "2026-09-20T10:37:52+09:00",
  "today": "2026-09-20",
  "dates": [
   "2026-09-19",
@@ -399,7 +399,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이태리 18K 주얼리 월 7천원대부터~",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 2
+     "hot": 4
     },
     {
      "start": "08:00",
@@ -6941,7 +6941,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -18866,7 +18867,7 @@ window.SCHEDULE = {
      "pgm": "동국제약 브랜드데이",
      "title": "굿잠안대 3종 외 83%할인",
      "category": "리빙",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "11:30",
@@ -20104,8 +20105,8 @@ window.SCHEDULE = {
    "2026-09-19",
    "2026-09-20"
   ],
-  "matched": 10,
-  "unmatched": 10
+  "matched": 11,
+  "unmatched": 9
  },
  "fixed": {
   "rows": [
