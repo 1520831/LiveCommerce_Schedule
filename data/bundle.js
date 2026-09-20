@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-21T08:27:40+09:00",
+ "generated_at": "2026-09-21T08:39:46+09:00",
  "today": "2026-09-21",
  "dates": [
   "2026-09-20",
@@ -434,7 +434,7 @@ window.SCHEDULE = {
      ],
      "title": "써스데이아일랜드 방송 중 최대 62%▼ 찬스",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 8
+     "hot": 6
     },
     {
      "start": "09:00",
@@ -1732,8 +1732,7 @@ window.SCHEDULE = {
      "pgm": "잇솔지",
      "pgm_cd": "1109",
      "category": "여성패션",
-     "cast": "influencer",
-     "hot": 4
+     "cast": "influencer"
     },
     {
      "start": "09:00",
@@ -6225,7 +6224,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 1
+     "hot": 3
     },
     {
      "start": "09:00",
@@ -16762,7 +16761,8 @@ window.SCHEDULE = {
      "slot_id": "59762",
      "pgm": "프로티원 식단관리 특가",
      "title": "추석 연휴 급찐살 관리",
-     "category": "식품"
+     "category": "식품",
+     "hot": 1
     },
     {
      "start": "08:30",
@@ -17879,7 +17879,7 @@ window.SCHEDULE = {
    "2026-09-21"
   ],
   "matched": 8,
-  "unmatched": 10
+  "unmatched": 11
  },
  "fixed": {
   "rows": [
