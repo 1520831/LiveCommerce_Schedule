@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-20T19:13:22+09:00",
+ "generated_at": "2026-09-20T19:28:51+09:00",
  "today": "2026-09-20",
  "dates": [
   "2026-09-19",
@@ -7290,7 +7290,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -7359,7 +7359,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -7454,8 +7454,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 10
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -18778,7 +18777,7 @@ window.SCHEDULE = {
      "pgm": "동국제약 브랜드데이",
      "title": "굿잠안대 3종 외 83%할인",
      "category": "리빙",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "11:30",
@@ -20004,8 +20003,8 @@ window.SCHEDULE = {
    "2026-09-19",
    "2026-09-20"
   ],
-  "matched": 14,
-  "unmatched": 6
+  "matched": 13,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
