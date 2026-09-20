@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-20T23:42:38+09:00",
+ "updated_at": "2026-09-21T07:09:25+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -7574,14 +7574,14 @@
     "end": "11:59",
     "brand": "밋앤밀",
     "product": "산지직송 생물 서해안 오징어 손질 할복 오징어 10미(손질 전 2Kg 내외)",
-    "price": 57800,
+    "price": 59000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252554596",
     "slot_id": "202609206003",
     "items": [
      {
       "brand": "밋앤밀",
       "product": "산지직송 생물 서해안 오징어 손질 할복 오징어 10미(손질 전 2Kg 내외)",
-      "price": 57800,
+      "price": 59000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252554596"
      }
     ],
@@ -7630,16 +7630,16 @@
     "start": "14:00",
     "end": "14:59",
     "brand": "겔랑",
-    "product": "[허니글로우광 선물]빠뤼르 골드 24k 베이스 앤 빠뤼르 골드 스킨 세럼 파운데이션 세트",
-    "price": 252000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253427188",
+    "product": "빠뤼르 골드 스킨 세럼 파운데이션 세트",
+    "price": 137000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252191438",
     "slot_id": "202609206019",
     "items": [
      {
       "brand": "겔랑",
-      "product": "[허니글로우광 선물]빠뤼르 골드 24k 베이스 앤 빠뤼르 골드 스킨 세럼 파운데이션 세트",
-      "price": 252000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253427188"
+      "product": "빠뤼르 골드 스킨 세럼 파운데이션 세트",
+      "price": 137000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252191438"
      }
     ],
     "title": "[겔랑] NEW 파운데이션 & 추석 선물 특집🎁",
@@ -7650,14 +7650,14 @@
     "end": "15:59",
     "brand": "미미달",
     "product": "셀라던 자수 핸드타월",
-    "price": 11200,
+    "price": 16000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253264621",
     "slot_id": "202609206013",
     "items": [
      {
       "brand": "미미달",
       "product": "셀라던 자수 핸드타월",
-      "price": 11200,
+      "price": 16000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253264621"
      }
     ],
@@ -7669,14 +7669,14 @@
     "end": "15:59",
     "brand": "다우닝가구",
     "product": "[9/20일 15시 상품권5만+클리너][다우닝] 클로 3인 전체 천연가죽 소파",
-    "price": 1960000,
+    "price": 2000000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2240411570",
     "slot_id": "202609206020",
     "items": [
      {
       "brand": "다우닝가구",
       "product": "[9/20일 15시 상품권5만+클리너][다우닝] 클로 3인 전체 천연가죽 소파",
-      "price": 1960000,
+      "price": 2000000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2240411570"
      }
     ],
@@ -7802,14 +7802,14 @@
     "end": "21:59",
     "brand": "오운",
     "product": "24K 순금 카드 0.2g (금테크/투자용)",
-    "price": 80000,
+    "price": 92000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252419913",
     "slot_id": "202609206009",
     "items": [
      {
       "brand": "오운",
       "product": "24K 순금 카드 0.2g (금테크/투자용)",
-      "price": 80000,
+      "price": 92000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252419913"
      }
     ],
@@ -7874,6 +7874,24 @@
     ],
     "title": "[고비] TV 방송보다 먼저 보여드리는 26FW 신상품",
     "pgm": "[재방] 고비 (패션1Lab)"
+   },
+   {
+    "start": "07:00",
+    "end": "07:59",
+    "brand": "조니스 그로서리",
+    "product": "[쇼라][조니스그로서리][BEST입문팩] 납작 플레인1 + 초코1 + 저당1 + 한끼 오곡1 + 카카오1",
+    "price": 53900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253383970",
+    "slot_id": "202609216020",
+    "items": [
+     {
+      "brand": "조니스 그로서리",
+      "product": "[쇼라][조니스그로서리][BEST입문팩] 납작 플레인1 + 초코1 + 저당1 + 한끼 오곡1 + 카카오1",
+      "price": 53900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253383970"
+     }
+    ],
+    "title": "SNS 대란템! 납작 청크 그래놀라 집방 특별가"
    },
    {
     "start": "08:00",
@@ -8205,14 +8223,14 @@
     "end": "09:59",
     "brand": "핏플랍",
     "product": "여성 델리카토 크로코다일 발레리나- 올 블랙 FT69K2M075",
-    "price": 259000,
+    "price": 246050,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253284622",
     "slot_id": "202609226003",
     "items": [
      {
       "brand": "핏플랍",
       "product": "여성 델리카토 크로코다일 발레리나- 올 블랙 FT69K2M075",
-      "price": 259000,
+      "price": 246050,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253284622"
      }
     ],
@@ -8357,14 +8375,14 @@
     "end": "18:59",
     "brand": "헤닝",
     "product": "에포크 세라믹식탁 2인용 원목 식탁 800 테이블",
-    "price": 221000,
+    "price": 222000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252319651",
     "slot_id": "202609226012",
     "items": [
      {
       "brand": "헤닝",
       "product": "에포크 세라믹식탁 2인용 원목 식탁 800 테이블",
-      "price": 221000,
+      "price": 222000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252319651"
      }
     ],
