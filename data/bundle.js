@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-20T20:37:19+09:00",
+ "generated_at": "2026-09-20T20:56:37+09:00",
  "today": "2026-09-20",
  "dates": [
   "2026-09-19",
@@ -18160,7 +18160,8 @@ window.SCHEDULE = {
      "slot_id": "254352",
      "pgm": "[앵콜]스마일캐시최대5만+구매인증 추첨🎉갤럭시총집합",
      "rerun": true,
-     "category": "디지털·PC"
+     "category": "디지털·PC",
+     "hot": 10
     },
     {
      "start": "20:00",
@@ -18776,8 +18777,7 @@ window.SCHEDULE = {
      "slot_id": "59925",
      "pgm": "동국제약 브랜드데이",
      "title": "굿잠안대 3종 외 83%할인",
-     "category": "리빙",
-     "hot": 10
+     "category": "리빙"
     },
     {
      "start": "11:30",
