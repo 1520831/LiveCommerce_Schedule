@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-21T08:49:30+09:00",
+ "generated_at": "2026-09-21T08:59:09+09:00",
  "today": "2026-09-21",
  "dates": [
   "2026-09-20",
@@ -16773,7 +16773,7 @@ window.SCHEDULE = {
      "pgm": "화제의 포켓몬X스팸부터",
      "title": "카카오프렌즈 에디션까지!",
      "category": "식품",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "08:30",
