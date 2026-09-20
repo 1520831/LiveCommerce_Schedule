@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-20T10:08:15+09:00",
+ "generated_at": "2026-09-20T10:22:33+09:00",
  "today": "2026-09-20",
  "dates": [
   "2026-09-19",
@@ -18865,7 +18865,8 @@ window.SCHEDULE = {
      "slot_id": "59925",
      "pgm": "동국제약 브랜드데이",
      "title": "굿잠안대 3종 외 83%할인",
-     "category": "리빙"
+     "category": "리빙",
+     "hot": 4
     },
     {
      "start": "11:30",
@@ -20103,8 +20104,8 @@ window.SCHEDULE = {
    "2026-09-19",
    "2026-09-20"
   ],
-  "matched": 9,
-  "unmatched": 11
+  "matched": 10,
+  "unmatched": 10
  },
  "fixed": {
   "rows": [
