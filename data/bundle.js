@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-20T20:56:37+09:00",
+ "generated_at": "2026-09-20T21:14:37+09:00",
  "today": "2026-09-20",
  "dates": [
   "2026-09-19",
@@ -418,7 +418,7 @@ window.SCHEDULE = {
      ],
      "title": "[현명쇼] 구찌 스카프 월 5천원대 타임찬스",
      "pgm": "[재방] 현명쇼 (노블레스팀)",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -2349,7 +2349,8 @@ window.SCHEDULE = {
      "title": "잘사는💚에싸 마제티, 코르티나🍂무료 업그레이드!",
      "pgm": "잘사는 언니들",
      "pgm_cd": "1028",
-     "category": "가구·침구"
+     "category": "가구·침구",
+     "hot": 7
     },
     {
      "start": "20:00",
@@ -7290,7 +7291,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -7584,8 +7585,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 9
+     "category": "푸드"
     },
     {
      "start": "12:00",
@@ -18161,7 +18161,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]스마일캐시최대5만+구매인증 추첨🎉갤럭시총집합",
      "rerun": true,
      "category": "디지털·PC",
-     "hot": 10
+     "hot": 9
     },
     {
      "start": "20:00",
