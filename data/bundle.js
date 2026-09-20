@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-20T10:49:03+09:00",
+ "generated_at": "2026-09-20T10:58:38+09:00",
  "today": "2026-09-20",
  "dates": [
   "2026-09-19",
@@ -18842,8 +18842,7 @@ window.SCHEDULE = {
      "slot_id": "59747",
      "pgm": "정샘물 라이브 중 ~30%",
      "title": "주문인증 20명 겔패드 증정",
-     "category": "뷰티",
-     "hot": 10
+     "category": "뷰티"
     },
     {
      "start": "10:00",
@@ -18868,7 +18867,7 @@ window.SCHEDULE = {
      "pgm": "동국제약 브랜드데이",
      "title": "굿잠안대 3종 외 83%할인",
      "category": "리빙",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "11:30",
@@ -20106,8 +20105,8 @@ window.SCHEDULE = {
    "2026-09-19",
    "2026-09-20"
   ],
-  "matched": 12,
-  "unmatched": 8
+  "matched": 11,
+  "unmatched": 9
  },
  "fixed": {
   "rows": [
