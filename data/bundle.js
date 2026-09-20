@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-20T19:28:51+09:00",
+ "generated_at": "2026-09-20T19:41:40+09:00",
  "today": "2026-09-20",
  "dates": [
   "2026-09-19",
@@ -418,7 +418,7 @@ window.SCHEDULE = {
      ],
      "title": "[현명쇼] 구찌 스카프 월 5천원대 타임찬스",
      "pgm": "[재방] 현명쇼 (노블레스팀)",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -7290,7 +7290,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -7358,8 +7358,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티",
-     "hot": 10
+     "category": "뷰티"
     },
     {
      "start": "11:00",
@@ -7586,7 +7585,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "12:00",
@@ -20003,7 +20002,7 @@ window.SCHEDULE = {
    "2026-09-19",
    "2026-09-20"
   ],
-  "matched": 13,
+  "matched": 12,
   "unmatched": 7
  },
  "fixed": {
