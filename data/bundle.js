@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-20T10:37:52+09:00",
+ "generated_at": "2026-09-20T10:49:03+09:00",
  "today": "2026-09-20",
  "dates": [
   "2026-09-19",
@@ -18842,7 +18842,8 @@ window.SCHEDULE = {
      "slot_id": "59747",
      "pgm": "정샘물 라이브 중 ~30%",
      "title": "주문인증 20명 겔패드 증정",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -20105,8 +20106,8 @@ window.SCHEDULE = {
    "2026-09-19",
    "2026-09-20"
   ],
-  "matched": 11,
-  "unmatched": 9
+  "matched": 12,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
