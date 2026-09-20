@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-20T18:47:59+09:00",
+ "generated_at": "2026-09-20T18:57:42+09:00",
  "today": "2026-09-20",
  "dates": [
   "2026-09-19",
@@ -18777,7 +18777,7 @@ window.SCHEDULE = {
      "pgm": "동국제약 브랜드데이",
      "title": "굿잠안대 3종 외 83%할인",
      "category": "리빙",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "11:30",
