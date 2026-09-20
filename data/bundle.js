@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-20T22:15:15+09:00",
+ "generated_at": "2026-09-20T22:28:38+09:00",
  "today": "2026-09-20",
  "dates": [
   "2026-09-19",
@@ -2349,7 +2349,7 @@ window.SCHEDULE = {
      "pgm": "잘사는 언니들",
      "pgm_cd": "1028",
      "category": "가구·침구",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "20:00",
@@ -7290,7 +7290,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -18196,7 +18196,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]한가위빅세일 삼성 가전특가!카드할인최대25만🎉",
      "rerun": true,
      "category": "가전",
-     "hot": 8
+     "hot": 6
     },
     {
      "start": "21:00",
