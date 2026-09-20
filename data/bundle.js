@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-20T16:54:39+09:00",
+ "generated_at": "2026-09-20T17:09:50+09:00",
  "today": "2026-09-20",
  "dates": [
   "2026-09-19",
@@ -495,7 +495,7 @@ window.SCHEDULE = {
      ],
      "title": "[LG정수기] 구독/렌탈 AI정수기 핫딜",
      "pgm": "[재방] LG 정수기 (렌탈)",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "14:00",
