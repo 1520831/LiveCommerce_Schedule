@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-20T13:56:25+09:00",
+ "generated_at": "2026-09-20T14:10:56+09:00",
  "today": "2026-09-20",
  "dates": [
   "2026-09-19",
@@ -418,7 +418,7 @@ window.SCHEDULE = {
      ],
      "title": "[현명쇼] 구찌 스카프 월 5천원대 타임찬스",
      "pgm": "[재방] 현명쇼 (노블레스팀)",
-     "hot": 5
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -495,7 +495,7 @@ window.SCHEDULE = {
      ],
      "title": "[LG정수기] 구독/렌탈 AI정수기 핫딜",
      "pgm": "[재방] LG 정수기 (렌탈)",
-     "hot": 10
+     "hot": 9
     },
     {
      "start": "14:00",
@@ -7265,7 +7265,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 4
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -7334,7 +7334,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 2
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -7430,7 +7430,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 9
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -7562,7 +7562,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 1
+     "hot": 4
     },
     {
      "start": "12:00",
@@ -18765,7 +18765,7 @@ window.SCHEDULE = {
      "pgm": "동국제약 브랜드데이",
      "title": "굿잠안대 3종 외 83%할인",
      "category": "리빙",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "11:30",
