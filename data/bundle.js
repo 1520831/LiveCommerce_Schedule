@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-20T11:30:26+09:00",
+ "generated_at": "2026-09-20T11:47:13+09:00",
  "today": "2026-09-20",
  "dates": [
   "2026-09-19",
@@ -398,8 +398,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[노블리타] 이태리 18K 주얼리 월 7천원대부터~",
-     "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 10
+     "pgm": "[재방] 노블리타 (노블레스)"
     },
     {
      "start": "08:00",
@@ -419,7 +418,7 @@ window.SCHEDULE = {
      ],
      "title": "[현명쇼] 구찌 스카프 월 5천원대 타임찬스",
      "pgm": "[재방] 현명쇼 (노블레스팀)",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -6941,8 +6940,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 9
+     "category": "푸드"
     },
     {
      "start": "10:00",
@@ -7244,7 +7242,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -7407,7 +7405,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -20107,8 +20106,8 @@ window.SCHEDULE = {
    "2026-09-19",
    "2026-09-20"
   ],
-  "matched": 13,
-  "unmatched": 7
+  "matched": 12,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
