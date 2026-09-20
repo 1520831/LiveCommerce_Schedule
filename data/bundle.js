@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-20T13:12:11+09:00",
+ "generated_at": "2026-09-20T13:30:15+09:00",
  "today": "2026-09-20",
  "dates": [
   "2026-09-19",
@@ -494,7 +494,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[LG정수기] 구독/렌탈 AI정수기 핫딜",
-     "pgm": "[재방] LG 정수기 (렌탈)"
+     "pgm": "[재방] LG 정수기 (렌탈)",
+     "hot": 10
     },
     {
      "start": "14:00",
@@ -20002,8 +20003,8 @@ window.SCHEDULE = {
    "2026-09-19",
    "2026-09-20"
   ],
-  "matched": 13,
-  "unmatched": 7
+  "matched": 14,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
