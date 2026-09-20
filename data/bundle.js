@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-21T08:39:46+09:00",
+ "generated_at": "2026-09-21T08:49:30+09:00",
  "today": "2026-09-21",
  "dates": [
   "2026-09-20",
@@ -433,8 +433,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "써스데이아일랜드 방송 중 최대 62%▼ 찬스",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 6
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "09:00",
@@ -6223,8 +6222,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 3
+     "category": "테크"
     },
     {
      "start": "09:00",
@@ -16774,7 +16772,8 @@ window.SCHEDULE = {
      "slot_id": "59774",
      "pgm": "화제의 포켓몬X스팸부터",
      "title": "카카오프렌즈 에디션까지!",
-     "category": "식품"
+     "category": "식품",
+     "hot": 6
     },
     {
      "start": "08:30",
@@ -16786,7 +16785,8 @@ window.SCHEDULE = {
      "slot_id": "59993",
      "pgm": "성분에디터 ~75%",
      "title": "그린토마토 모공앰플 기획세트",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 2
     },
     {
      "start": "10:00",
