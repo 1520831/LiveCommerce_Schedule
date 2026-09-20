@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-21T07:48:18+09:00",
+ "generated_at": "2026-09-21T07:58:06+09:00",
  "today": "2026-09-21",
  "dates": [
   "2026-09-20",
@@ -415,7 +415,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "SNS 대란템! 납작 청크 그래놀라 집방 특별가",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "08:00",
