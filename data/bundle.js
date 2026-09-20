@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-20T10:58:38+09:00",
+ "generated_at": "2026-09-20T11:15:49+09:00",
  "today": "2026-09-20",
  "dates": [
   "2026-09-19",
@@ -399,7 +399,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이태리 18K 주얼리 월 7천원대부터~",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 4
+     "hot": 10
     },
     {
      "start": "08:00",
@@ -419,7 +419,7 @@ window.SCHEDULE = {
      ],
      "title": "[현명쇼] 구찌 스카프 월 5천원대 타임찬스",
      "pgm": "[재방] 현명쇼 (노블레스팀)",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -6942,7 +6942,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 5
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -7243,7 +7243,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -7537,7 +7538,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 1
     },
     {
      "start": "11:00",
@@ -18867,7 +18869,7 @@ window.SCHEDULE = {
      "pgm": "동국제약 브랜드데이",
      "title": "굿잠안대 3종 외 83%할인",
      "category": "리빙",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "11:30",
@@ -20105,8 +20107,8 @@ window.SCHEDULE = {
    "2026-09-19",
    "2026-09-20"
   ],
-  "matched": 11,
-  "unmatched": 9
+  "matched": 13,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
