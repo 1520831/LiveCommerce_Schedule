@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-22T07:11:30+09:00",
+ "generated_at": "2026-09-22T07:24:05+09:00",
  "today": "2026-09-22",
  "dates": [
   "2026-09-21",
@@ -6713,7 +6713,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "07:20",
@@ -16646,7 +16646,7 @@ window.SCHEDULE = {
      "pgm": "제철맞은 산지직송 홍무화과",
      "title": "입안 가득 퍼지는 달콤함~!",
      "category": "식품",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "17:00",
