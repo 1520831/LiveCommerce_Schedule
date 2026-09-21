@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-21T10:30:10+09:00",
+ "generated_at": "2026-09-21T10:47:42+09:00",
  "today": "2026-09-21",
  "dates": [
   "2026-09-20",
@@ -6531,7 +6531,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -7406,7 +7407,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 8
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -7697,7 +7698,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 9
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -16766,8 +16767,7 @@ window.SCHEDULE = {
      "slot_id": "59762",
      "pgm": "프로티원 식단관리 특가",
      "title": "추석 연휴 급찐살 관리",
-     "category": "식품",
-     "hot": 7
+     "category": "식품"
     },
     {
      "start": "08:30",
