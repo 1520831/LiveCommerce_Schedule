@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-09-21T12:09:46+09:00",
+ "updated_at": "2026-09-21T18:14:22+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -4391,18 +4391,6 @@
     "category": "식품"
    },
    {
-    "start": "13:00",
-    "end": "14:00",
-    "brand": "온라인가구닷컴",
-    "product": "보루네오 파비앙 비건레더 모션 무빙 슬라이딩 리클라이닝 전동 소파 4인",
-    "price": 2156250,
-    "link": "https://store.kakao.com/onlinegagu/products/792970390",
-    "slot_id": "60341",
-    "pgm": "보루네오 모션 슬라이딩 소파",
-    "title": "추석 통큰 세일~!",
-    "category": "리빙"
-   },
-   {
     "start": "17:30",
     "end": "18:36",
     "brand": "단골아저씨",
@@ -4491,7 +4479,7 @@
     "end": "21:30",
     "brand": "열광한우",
     "product": "1++등급 한우 행복 세트 1kg 마장동 투뿔 소고기 구이용 선물",
-    "price": 209000,
+    "price": 119000,
     "link": "https://store.kakao.com/ykbeef/products/683972130",
     "slot_id": "60338",
     "pgm": "열광한우 1++한우선물세트",
@@ -4586,19 +4574,7 @@
    },
    {
     "start": "11:30",
-    "end": "13:00",
-    "brand": "농협안심한우",
-    "product": "농협안심한우 1등급 '소소한 행복' 선물세트 1kg(등심200g+채끝150g+부채150g+국거리200g+불고기300g)",
-    "price": 100000,
-    "link": "https://gift.kakao.com/product/1304069?url=product&cId=1304069",
-    "slot_id": "59639",
-    "pgm": "농협 한우 추석 풀패키지",
-    "title": "추석 연휴 온 가족 한우파티",
-    "category": "식품"
-   },
-   {
-    "start": "11:30",
-    "end": "13:00",
+    "end": "12:31",
     "brand": "베드리움",
     "product": "[설치비 별도][UP TO 64%] 베드리움 카쇼라 특가! 매트리스/프레임 모음전",
     "price": 1680000,
@@ -4609,20 +4585,20 @@
     "category": "리빙"
    },
    {
-    "start": "11:35",
-    "end": "13:05",
-    "brand": "단디잇",
-    "product": "82만 요리유튜버가 만든 밥도둑 매콤찬 고추다짐이 250g",
-    "price": 11900,
-    "link": "https://store.kakao.com/dandiit/products/738640799",
-    "slot_id": "60357",
-    "pgm": "추석 연휴전 매콤찬 땡초장",
-    "title": "마지막 카쇼라 단독 할인!",
-    "category": "식품"
+    "start": "15:00",
+    "end": "16:00",
+    "brand": "온라인가구닷컴",
+    "product": "보루네오 파비앙 비건레더 모션 무빙 슬라이딩 리클라이닝 전동 소파 4인",
+    "price": 2156250,
+    "link": "https://store.kakao.com/onlinegagu/products/792970390",
+    "slot_id": "60366",
+    "pgm": "보루네오 모션 슬라이딩 소파",
+    "title": "추석 통큰 세일~!",
+    "category": "리빙"
    },
    {
     "start": "17:00",
-    "end": "18:30",
+    "end": "18:01",
     "brand": "명태잡는날",
     "product": "백 명란젓 파지 400g , 1kg 외 명태회무침 낙지젓 오징어젓 등",
     "price": 25900,
@@ -4733,7 +4709,7 @@
     "end": "22:00",
     "brand": "팜밀리1987",
     "product": "팜밀리 올레정 올리브오일 캡슐 + 레몬정 30회분",
-    "price": 39800,
+    "price": 324000,
     "link": "https://store.kakao.com/farmily1987/products/708454882",
     "slot_id": "59733",
     "pgm": "팜밀리 올레정",
@@ -4744,7 +4720,7 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "대건명가",
-    "product": "대건명가 돼지국밥 630g x 6팩 (돼지/순대/얼큰)",
+    "product": "[예약발송]대건명가 돼지국밥 630g x 6팩 (돼지/순대/얼큰)",
     "price": 66000,
     "link": "https://store.kakao.com/daegeonmyeongga/products/271792137",
     "slot_id": "59761",
@@ -4797,7 +4773,7 @@
     "end": "11:30",
     "brand": "매크로온",
     "product": "[1+1] 마요라 코피코 커피 캔디 2종(블리스터/봉지)",
-    "price": 14900,
+    "price": 40000,
     "link": "https://store.kakao.com/macroon/products/580617146",
     "slot_id": "59598",
     "pgm": "코피코 캔디&레이즈 감자칩",
@@ -5040,7 +5016,7 @@
     "start": "08:30",
     "end": "11:30",
     "brand": "티르리르",
-    "product": "티르리르 리엘 러브듀 0.03CT 화이트 실버 목걸이 (A/S가능)",
+    "product": "티르리르 랩다이아 리엘 러브듀 0.03CT 화이트 실버 목걸이 (A/S가능)",
     "price": 78000,
     "link": "https://gift.kakao.com/product/14254477?url=product&cId=14254477",
     "slot_id": "59966",
@@ -5052,8 +5028,8 @@
     "start": "08:30",
     "end": "11:30",
     "brand": "스킨푸드 본사직영",
-    "product": "NEW 당근 피디알엔 속수분 패드 100매 + [증정] 당근 피디알엔 속수분 패드 2매입 5개",
-    "price": 26000,
+    "product": "[총110매/NEW] 당근 피디알엔 속수분 패드 100매 + (증정)당근 피디알엔 속수분 패드 2매입 5개",
+    "price": 15500,
     "link": "https://store.kakao.com/theskinfood/products/792135493",
     "slot_id": "60006",
     "pgm": "스킨푸드 라이브 중~80%",
@@ -5097,6 +5073,30 @@
     "category": "키즈"
    },
    {
+    "start": "11:00",
+    "end": "12:30",
+    "brand": "신선하랑",
+    "product": "26년 햇 달콤한 신품종 호풍미 호박고구마 3kg 5kg 못난이",
+    "price": 55000,
+    "link": "https://store.kakao.com/ssharang/products/603791539",
+    "slot_id": "60306",
+    "pgm": "해남 호풍미 고구마",
+    "title": "런칭 기념 LIVE",
+    "category": "식품"
+   },
+   {
+    "start": "11:00",
+    "end": "12:30",
+    "brand": "퓨어잇",
+    "product": "한봉부터 골라담는 퓨어잇 유기농 떡뻥 과일칩 아기간식 김 보리차",
+    "price": 2300,
+    "link": "https://store.kakao.com/pureat/products/36508405",
+    "slot_id": "60376",
+    "pgm": "한봉부터 골라담는 아이간식",
+    "title": "[10+1] 라이브 특가!",
+    "category": "키즈"
+   },
+   {
     "start": "11:30",
     "end": "14:30",
     "brand": "베베숲",
@@ -5130,18 +5130,6 @@
     "slot_id": "60069",
     "pgm": "속초식 명태회무침 특집",
     "title": "입맛 살리는 맛깔나는 밥도둑",
-    "category": "식품"
-   },
-   {
-    "start": "17:00",
-    "end": "18:30",
-    "brand": "신선하랑",
-    "product": "26년 햇 달콤한 신품종 호풍미 호박고구마 3kg 5kg 못난이",
-    "price": 55000,
-    "link": "https://store.kakao.com/ssharang/products/603791539",
-    "slot_id": "60306",
-    "pgm": "해남 호풍미 고구마",
-    "title": "런칭 기념 LIVE",
     "category": "식품"
    },
    {
@@ -5600,7 +5588,7 @@
     "start": "19:00",
     "end": "20:30",
     "brand": "웹투어(주)",
-    "product": "[제이앤파크 호텔] 인피니티풀 PKG_객실 1박+인피니티풀_전 구매고객 웰컴드링크 2잔_서해의 일몰을 즐기는 인피니티풀",
+    "product": "[제이앤파크 호텔] 호캉스 PKG_객실 1박+인피니티풀_전 구매고객 웰컴드링크 2잔_서해의 일몰을 즐기는 인피니티풀",
     "price": 105000,
     "link": "https://store.kakao.com/webtour/products/791712448",
     "slot_id": "60114",
@@ -5641,7 +5629,7 @@
     "link": "https://store.kakao.com/foodsignal/products/461186219",
     "slot_id": "60296",
     "pgm": "수제직화닭발 7900원 무배",
-    "title": "닭발류 4종과 한돈 오돌뼈",
+    "title": "닭발류 5종과 한돈 오돌뼈",
     "category": "식품"
    },
    {

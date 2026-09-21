@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-21T12:09:31+09:00",
+ "updated_at": "2026-09-21T18:14:09+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -7668,14 +7668,14 @@
     "start": "15:00",
     "end": "15:59",
     "brand": "다우닝가구",
-    "product": "[9/20일 15시 상품권5만+클리너][다우닝] 클로 3인 전체 천연가죽 소파",
+    "product": "[네이버페이 5천][다우닝] 클로 3인 전체 천연가죽 소파",
     "price": 2000000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2240411570",
     "slot_id": "202609206020",
     "items": [
      {
       "brand": "다우닝가구",
-      "product": "[9/20일 15시 상품권5만+클리너][다우닝] 클로 3인 전체 천연가죽 소파",
+      "product": "[네이버페이 5천][다우닝] 클로 3인 전체 천연가죽 소파",
       "price": 2000000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2240411570"
      }
@@ -7974,14 +7974,14 @@
     "end": "12:59",
     "brand": "에스까다 화이트라벨",
     "product": "에스까다 26FW 앙고라블렌딩 클래식 가디건",
-    "price": 129000,
+    "price": 279000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253577130",
     "slot_id": "202609216016",
     "items": [
      {
       "brand": "에스까다 화이트라벨",
       "product": "에스까다 26FW 앙고라블렌딩 클래식 가디건",
-      "price": 129000,
+      "price": 279000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253577130"
      }
     ],
@@ -7991,17 +7991,17 @@
    {
     "start": "13:00",
     "end": "13:59",
-    "brand": "이동갈비",
-    "product": "포천 이동 양념 소갈비 500g 3팩",
-    "price": 44900,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2119912637",
+    "brand": "인정식탁",
+    "product": "자연산 손질 통오징어 2미(270g)x5팩(10마리)",
+    "price": 25900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2235156105",
     "slot_id": "202609216017",
     "items": [
      {
-      "brand": "이동갈비",
-      "product": "포천 이동 양념 소갈비 500g 3팩",
-      "price": 44900,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2119912637"
+      "brand": "인정식탁",
+      "product": "자연산 손질 통오징어 2미(270g)x5팩(10마리)",
+      "price": 25900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2235156105"
      }
     ],
     "title": "[명절 전 배송가능] 포천이동갈비 & 수산대전",
@@ -8011,15 +8011,15 @@
     "start": "14:00",
     "end": "14:59",
     "brand": "얼쎄라",
-    "product": "매직커버크림 코렉터 30ml 4개+얼쎄라 코렉터 15ml 2개+키링2개(색상랜덤)",
-    "price": 119900,
+    "product": "얼쎄라 매직커버크림 코렉터 30ml 4개+얼쎄라 코렉터 15ml 2개+키링2개(색상랜덤)",
+    "price": 239800,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253408289",
     "slot_id": "202609216018",
     "items": [
      {
       "brand": "얼쎄라",
-      "product": "매직커버크림 코렉터 30ml 4개+얼쎄라 코렉터 15ml 2개+키링2개(색상랜덤)",
-      "price": 119900,
+      "product": "얼쎄라 매직커버크림 코렉터 30ml 4개+얼쎄라 코렉터 15ml 2개+키링2개(색상랜덤)",
+      "price": 239800,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253408289"
      }
     ],
@@ -8030,22 +8030,16 @@
     "start": "15:00",
     "end": "15:59",
     "brand": "밋앤밀",
-    "product": "[농할] [밋앤밀] 국내산 영주 산지직송 26년 햇 대향금 황도복숭아 4kg 대과 (10-12과)",
-    "price": 54300,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253154393",
+    "product": "[농할] [밋앤밀] 국내산 경북 영천 산지직송 샤인머스켓 특품 2kg(실중량/2-3송이 내외)",
+    "price": 21900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253130839",
     "slot_id": "202609216001",
     "items": [
      {
       "brand": "밋앤밀",
-      "product": "[농할] [밋앤밀] 국내산 영주 산지직송 26년 햇 대향금 황도복숭아 4kg 대과 (10-12과)",
-      "price": 54300,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253154393"
-     },
-     {
-      "brand": "밋앤밀",
-      "product": "[농할] [밋앤밀] 국내산 풍기금계농장 GAP 고당도 정품 26년 햇 아리수 사과 대과 2kg(5-6과)",
-      "price": 37800,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253130629"
+      "product": "[농할] [밋앤밀] 국내산 경북 영천 산지직송 샤인머스켓 특품 2kg(실중량/2-3송이 내외)",
+      "price": 21900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253130839"
      }
     ],
     "title": "[밋앤밀] 명절맞이 풍기금계 아리수 사과 특별가",
@@ -8128,6 +8122,24 @@
     "pgm": "[신선설] 한우 (일반식품2)"
    },
    {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "버버리",
+    "product": "[버버리]6S 8107465 C1900 올드햄 여성 퀼팅 크롭 자켓 블랙",
+    "price": 1700000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247564867",
+    "slot_id": "202609216022",
+    "items": [
+     {
+      "brand": "버버리",
+      "product": "[버버리]6S 8107465 C1900 올드햄 여성 퀼팅 크롭 자켓 블랙",
+      "price": 1700000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247564867"
+     }
+    ],
+    "title": "[투명쇼] 막스마라 코트 월 1만원대"
+   },
+   {
     "start": "19:00",
     "end": "19:59",
     "brand": "에스티로더",
@@ -8189,14 +8201,14 @@
     "end": "22:59",
     "brand": "아시아골드",
     "product": "실버바 100g 검독수리",
-    "price": 486000,
+    "price": 492000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253164017",
     "slot_id": "202609216002",
     "items": [
      {
       "brand": "아시아골드",
       "product": "실버바 100g 검독수리",
-      "price": 486000,
+      "price": 492000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253164017"
      }
     ],
@@ -8207,16 +8219,16 @@
     "start": "22:00",
     "end": "22:59",
     "brand": "디스커버리",
-    "product": "2025 F/W (DMTR21054) 남성 소로나웜 PQ이중직 트레이닝 자켓 DMTR21054",
-    "price": 77400,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252801791",
+    "product": "디스커버리 (DWZT41054) 2025 F/W 여성 아웃도어 풀집업 티셔츠 DWZT41054",
+    "price": 62300,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2240199451",
     "slot_id": "202609216019",
     "items": [
      {
       "brand": "디스커버리",
-      "product": "2025 F/W (DMTR21054) 남성 소로나웜 PQ이중직 트레이닝 자켓 DMTR21054",
-      "price": 77400,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252801791"
+      "product": "디스커버리 (DWZT41054) 2025 F/W 여성 아웃도어 풀집업 티셔츠 DWZT41054",
+      "price": 62300,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2240199451"
      }
     ],
     "title": "[디스커버리] F/W 간절기 득템찬스!",
@@ -8379,17 +8391,17 @@
    {
     "start": "13:00",
     "end": "13:59",
-    "brand": "뉴에라",
-    "product": "[타임찬스] 뉴에라 리그 에센셜 볼캡 2종 택1",
-    "price": 28000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253539028",
+    "brand": "어그",
+    "product": "K 타즈 슬리퍼 2종 택1",
+    "price": 130000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253539019",
     "slot_id": "202609226007",
     "items": [
      {
-      "brand": "뉴에라",
-      "product": "[타임찬스] 뉴에라 리그 에센셜 볼캡 2종 택1",
-      "price": 28000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253539028"
+      "brand": "어그",
+      "product": "K 타즈 슬리퍼 2종 택1",
+      "price": 130000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253539019"
      }
     ],
     "title": "[어그/가니 外] FW 아이템 핫딜 + 사은품🤎",
@@ -8491,6 +8503,25 @@
     "pgm": "[에이글로벌] 제우스3 디바이스 (뷰티2)"
    },
    {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "해외직구",
+    "product": "칸미 마루코 원 숄더백 B24-02",
+    "price": 425000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253528647",
+    "slot_id": "202609226014",
+    "items": [
+     {
+      "brand": "해외직구",
+      "product": "칸미 마루코 원 숄더백 B24-02",
+      "price": 425000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253528647"
+     }
+    ],
+    "title": "[칸미] 유니크한 소품이 가득! 도쿄 아사쿠사 LIVE",
+    "pgm": "[해외직구] 일본 현지 방송"
+   },
+   {
     "start": "21:00",
     "end": "21:59",
     "brand": "수앤진골드",
@@ -8569,19 +8600,38 @@
     "pgm": "[재방] 노블리타 (노블레스)"
    },
    {
+    "start": "07:00",
+    "end": "07:59",
+    "brand": "알레보",
+    "product": "[2025NEW.통3중.IH인덕션 가능] 알레보 디 엣지 프라이팬 리뉴얼 세트(26팬+26웍+사각팬+스텐돔+유리뚜껑)",
+    "price": 159000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2228377985",
+    "slot_id": "202609236021",
+    "items": [
+     {
+      "brand": "알레보",
+      "product": "[2025NEW.통3중.IH인덕션 가능] 알레보 디 엣지 프라이팬 리뉴얼 세트(26팬+26웍+사각팬+스텐돔+유리뚜껑)",
+      "price": 159000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2228377985"
+     }
+    ],
+    "title": "⏰잠시 후 종료! 알레보 라이브 특별가",
+    "pgm": "[재방] 알레보 (P.D.Lab)"
+   },
+   {
     "start": "08:00",
     "end": "08:59",
     "brand": "SOUP",
-    "product": "[숲] 체크 카라 블라우스 SC8LS35",
-    "price": 50000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253555425",
+    "product": "[숲] 코튼 레터링 맨투맨 티셔츠 SC3LT30",
+    "price": 32000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252531469",
     "slot_id": "202609236001",
     "items": [
      {
       "brand": "SOUP",
-      "product": "[숲] 체크 카라 블라우스 SC8LS35",
-      "price": 50000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253555425"
+      "product": "[숲] 코튼 레터링 맨투맨 티셔츠 SC3LT30",
+      "price": 32000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252531469"
      }
     ],
     "title": "[SOUP] 로맨틱한 계절의 시작 26FW 데일리룩✨",
@@ -8592,14 +8642,14 @@
     "end": "09:59",
     "brand": "메트로시티",
     "product": "라 로사 14K 로즈 귀걸이 A251GE0067R4H A251GE0067R4H",
-    "price": 1184000,
+    "price": 880000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250596873",
     "slot_id": "202609236002",
     "items": [
      {
       "brand": "메트로시티",
       "product": "라 로사 14K 로즈 귀걸이 A251GE0067R4H A251GE0067R4H",
-      "price": 1184000,
+      "price": 880000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250596873"
      }
     ],
@@ -8645,19 +8695,38 @@
     "pgm": "[파크론] 제로블럭 (액티브라이프)"
    },
    {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "하남쭈꾸미",
+    "product": "500g 5팩",
+    "price": 67900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2152872377",
+    "slot_id": "202609236005",
+    "items": [
+     {
+      "brand": "하남쭈꾸미",
+      "product": "500g 5팩",
+      "price": 67900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2152872377"
+     }
+    ],
+    "title": "[맛춤가게] 하남쭈꾸미 & 오징어",
+    "pgm": "맛춤가게 (식품)"
+   },
+   {
     "start": "13:00",
     "end": "13:59",
     "brand": "피플오브더월드",
-    "product": "[타임찬스][피플오브더월드] 25FW 시그니처 로고 아플리케 슬리브",
-    "price": 19900,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247068477",
+    "product": "26FW 프리미엄피플컬러배럴데님",
+    "price": 79000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253084128",
     "slot_id": "202609236006",
     "items": [
      {
       "brand": "피플오브더월드",
-      "product": "[타임찬스][피플오브더월드] 25FW 시그니처 로고 아플리케 슬리브",
-      "price": 19900,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247068477"
+      "product": "26FW 프리미엄피플컬러배럴데님",
+      "price": 79000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253084128"
      }
     ],
     "title": "[피플오브더월드] 가을무드 완성🤎 무료 교환, 배송",
@@ -8818,6 +8887,63 @@
   ],
   "2026-09-24": [
    {
+    "start": "00:00",
+    "end": "00:59",
+    "brand": "우노아레",
+    "product": "18K 아테나(Athena) 네크리스",
+    "price": 2999000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252130235",
+    "slot_id": "202609246003",
+    "items": [
+     {
+      "brand": "우노아레",
+      "product": "18K 아테나(Athena) 네크리스",
+      "price": 2999000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252130235"
+     }
+    ],
+    "title": "[노블리타] 이태리 18K 체인주얼리 최저가 도전",
+    "pgm": "[재방] 노블리타 (노블레스)"
+   },
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "보테가베네타",
+    "product": "보테가베네타 239988 V3UN1 1275 (239988 V0016 8175) 인트레치아토 스몰 숄더백",
+    "price": 2750000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253348263",
+    "slot_id": "202609246006",
+    "items": [
+     {
+      "brand": "보테가베네타",
+      "product": "보테가베네타 239988 V3UN1 1275 (239988 V0016 8175) 인트레치아토 스몰 숄더백",
+      "price": 2750000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253348263"
+     }
+    ],
+    "title": "[투명쇼] 막스마라 코트 60개월 무이자 찬스!",
+    "pgm": "[재방] 투명쇼 (패션잡화)"
+   },
+   {
+    "start": "13:00",
+    "end": "13:59",
+    "brand": "머티리얼랩",
+    "product": "26FW 세렌느 스웻 후드자켓",
+    "price": 89900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252314801",
+    "slot_id": "202609246008",
+    "items": [
+     {
+      "brand": "머티리얼랩",
+      "product": "26FW 세렌느 스웻 후드자켓",
+      "price": 89900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252314801"
+     }
+    ],
+    "title": "머티리얼랩 26F/W 최신상 인기 아이템 총집합!",
+    "pgm": "[재방] 머티리얼랩 (패션3Lab)"
+   },
+   {
     "start": "15:00",
     "end": "15:59",
     "brand": "루블리",
@@ -8911,9 +9037,163 @@
     ],
     "title": "[헨리베글린] 26F/W 신상 라인업 공개👜",
     "pgm": "[재방] 헨리베글린 잡화 (멀티커머스)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "버버리",
+    "product": "[버버리]6S 8110531 C1900 브롬리 여성 퀼팅 후드 자켓 블랙",
+    "price": 1940000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247917378",
+    "slot_id": "202609246016",
+    "items": [
+     {
+      "brand": "버버리",
+      "product": "[버버리]6S 8110531 C1900 브롬리 여성 퀼팅 후드 자켓 블랙",
+      "price": 1940000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247917378"
+     }
+    ],
+    "title": "[투명쇼] 르메르 월 1만원대 60개월 무이자",
+    "pgm": "[재방] 투명쇼 (패션잡화)"
+   }
+  ],
+  "2026-09-25": [
+   {
+    "start": "00:00",
+    "end": "00:59",
+    "brand": "셀린느",
+    "product": "트리옹프 미디엄 플랫 쇼퍼백 123832O90 03MI 탄",
+    "price": 1805000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252059708",
+    "slot_id": "202609256005",
+    "items": [
+     {
+      "brand": "셀린느",
+      "product": "트리옹프 미디엄 플랫 쇼퍼백 123832O90 03MI 탄",
+      "price": 1805000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252059708"
+     }
+    ],
+    "title": "[투명쇼] 셀린느 인기 가방 득템 찬스!",
+    "pgm": "[재방] 투명쇼 (패션잡화)"
+   },
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "헤지스",
+    "product": "HIHE6F009N2 뜨왈드주이 네이비 리본스트랩 버킷햇 HIHE6F009E910",
+    "price": 94400,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251238290",
+    "slot_id": "202609256006",
+    "items": [
+     {
+      "brand": "헤지스",
+      "product": "HIHE6F009N2 뜨왈드주이 네이비 리본스트랩 버킷햇 HIHE6F009E910",
+      "price": 94400,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251238290"
+     }
+    ],
+    "title": "[헤지스ACC] 26FW 신상 핸드백 쇼라 OPEN🩷",
+    "pgm": "[재방] 헤지스 잡화 (멀티커머스)"
+   },
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "발렌시아가",
+    "product": "르 카골 XS 램스킨 숄더백 671309 1VG9Y 1000 블랙",
+    "price": 2580000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252554039",
+    "slot_id": "202609256007",
+    "items": [
+     {
+      "brand": "발렌시아가",
+      "product": "르 카골 XS 램스킨 숄더백 671309 1VG9Y 1000 블랙",
+      "price": 2580000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252554039"
+     }
+    ],
+    "title": "[투명쇼] 더로우 셀린느 등 하이엔드 특집",
+    "pgm": "[재방] 투명쇼 (패션잡화)"
+   },
+   {
+    "start": "16:00",
+    "end": "16:59",
+    "brand": "드리미",
+    "product": "X60 Ultra 올인원 로봇청소기",
+    "price": 1590000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249008250",
+    "slot_id": "202609256011",
+    "items": [
+     {
+      "brand": "드리미",
+      "product": "X60 Ultra 올인원 로봇청소기",
+      "price": 1590000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249008250"
+     }
+    ],
+    "title": "[드리미] 한가위 선물대전 X60 99만원 특별가",
+    "pgm": "[재방] 드리미 로봇청소기 (가전)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "보테가베네타",
+    "product": "보테가베네타 239988 V3UN1 1275 (239988 V0016 8175) 인트레치아토 스몰 숄더백",
+    "price": 2750000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253348263",
+    "slot_id": "202609256016",
+    "items": [
+     {
+      "brand": "보테가베네타",
+      "product": "보테가베네타 239988 V3UN1 1275 (239988 V0016 8175) 인트레치아토 스몰 숄더백",
+      "price": 2750000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253348263"
+     }
+    ],
+    "title": "[투명쇼] 막스마라 코트 60개월 무이자 찬스!",
+    "pgm": "[재방] 투명쇼 (패션잡화)"
    }
   ],
   "2026-09-26": [
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "오키뷰티",
+    "product": "나노다이아몬드 클렌징 에센스 1개+미스트 1개+석고팩1개+석고 마스크팩1개",
+    "price": 79000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253641568",
+    "slot_id": "202609266001",
+    "items": [
+     {
+      "brand": "오키뷰티",
+      "product": "나노다이아몬드 클렌징 에센스 1개+미스트 1개+석고팩1개+석고 마스크팩1개",
+      "price": 79000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253641568"
+     }
+    ],
+    "title": "최강희 PICK! 다이아몬드석고팩 & 미스트~55%▼",
+    "pgm": "[오키뷰티] 기초화장품 (뷰티1)"
+   },
+   {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "더로우",
+    "product": "미디움 N/S 파크 토트백 W1313 L129 RHI 리노",
+    "price": 3352000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253560388",
+    "slot_id": "202609266012",
+    "items": [
+     {
+      "brand": "더로우",
+      "product": "미디움 N/S 파크 토트백 W1313 L129 RHI 리노",
+      "price": 3352000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253560388"
+     }
+    ],
+    "title": "[투명쇼] 더로우/발렌시아가 60개월 무이자 찬스",
+    "pgm": "[재방] 투명쇼 (패션잡화)"
+   },
    {
     "start": "20:00",
     "end": "20:59",
@@ -8932,6 +9212,44 @@
     ],
     "title": "[휴롬] 가정의 달 봄 건강 루틴 시작🎉",
     "pgm": "[재방] 휴롬 착즙기 (가전)"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "한민금거래소",
+    "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
+    "price": 272700,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581",
+    "slot_id": "202609266007",
+    "items": [
+     {
+      "brand": "한민금거래소",
+      "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
+      "price": 272700,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581"
+     }
+    ],
+    "title": "[한민금거래소] 프리미엄 골드바 최대 혜택 찬스!",
+    "pgm": "[한민금거래소] 금 (패션잡화)"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "버버리",
+    "product": "[버버리]6S 8107465 C1900 올드햄 여성 퀼팅 크롭 자켓 블랙",
+    "price": 1700000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247564867",
+    "slot_id": "202609266017",
+    "items": [
+     {
+      "brand": "버버리",
+      "product": "[버버리]6S 8107465 C1900 올드햄 여성 퀼팅 크롭 자켓 블랙",
+      "price": 1700000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247564867"
+     }
+    ],
+    "title": "[투명쇼] 막스마라 코트 월 1만원대",
+    "pgm": "[재방] 투명쇼 (패션잡화)"
    }
   ]
  }
