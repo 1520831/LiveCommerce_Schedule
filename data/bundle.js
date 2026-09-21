@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-21T09:24:29+09:00",
+ "generated_at": "2026-09-21T09:43:17+09:00",
  "today": "2026-09-21",
  "dates": [
   "2026-09-20",
@@ -6283,7 +6283,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 9
     },
     {
      "start": "09:30",
@@ -16773,7 +16774,7 @@ window.SCHEDULE = {
      "pgm": "화제의 포켓몬X스팸부터",
      "title": "카카오프렌즈 에디션까지!",
      "category": "식품",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "08:30",
@@ -17878,8 +17879,8 @@ window.SCHEDULE = {
    "2026-09-20",
    "2026-09-21"
   ],
-  "matched": 8,
-  "unmatched": 11
+  "matched": 9,
+  "unmatched": 10
  },
  "fixed": {
   "rows": [
