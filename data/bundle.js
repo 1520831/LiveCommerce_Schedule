@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-21T22:31:55+09:00",
+ "generated_at": "2026-09-21T22:48:12+09:00",
  "today": "2026-09-21",
  "dates": [
   "2026-09-20",
@@ -718,7 +718,7 @@ window.SCHEDULE = {
      ],
      "title": "[현명쇼] 구찌 3만▼ 전 구매 고객 커피쿠폰 증정",
      "pgm": "현명쇼(노블레스)",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "22:00",
@@ -21382,7 +21382,7 @@ window.SCHEDULE = {
      "slot_id": "254326",
      "pgm": "로보락 S10 MaxV Ultra🔥단 1시간 혜택",
      "category": "가전",
-     "hot": 9
+     "hot": 5
     },
     {
      "start": "23:00",
