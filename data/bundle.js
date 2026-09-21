@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-21T20:47:45+09:00",
+ "generated_at": "2026-09-21T20:57:10+09:00",
  "today": "2026-09-21",
  "dates": [
   "2026-09-20",
@@ -717,7 +717,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[현명쇼] 구찌 3만▼ 전 구매 고객 커피쿠폰 증정",
-     "pgm": "현명쇼(노블레스)"
+     "pgm": "현명쇼(노블레스)",
+     "hot": 10
     },
     {
      "start": "22:00",
@@ -22941,8 +22942,8 @@ window.SCHEDULE = {
    "2026-09-20",
    "2026-09-21"
   ],
-  "matched": 11,
-  "unmatched": 8
+  "matched": 12,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
