@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-22T00:42:24+09:00",
+ "generated_at": "2026-09-22T07:09:11+09:00",
  "today": "2026-09-22",
  "dates": [
   "2026-09-21",
@@ -6371,7 +6371,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 6
     },
     {
      "start": "07:20",
@@ -15376,7 +15377,7 @@ window.SCHEDULE = {
      "pgm": "제철맞은 산지직송 홍무화과",
      "title": "입안 가득 퍼지는 달콤함~!",
      "category": "식품",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "17:00",
@@ -16166,8 +16167,8 @@ window.SCHEDULE = {
    "2026-09-21",
    "2026-09-22"
   ],
-  "matched": 6,
-  "unmatched": 10
+  "matched": 7,
+  "unmatched": 13
  },
  "fixed": {
   "rows": [
