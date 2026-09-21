@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-21T09:58:21+09:00",
+ "generated_at": "2026-09-21T10:14:48+09:00",
  "today": "2026-09-21",
  "dates": [
   "2026-09-20",
@@ -6241,7 +6241,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 6
     },
     {
      "start": "09:30",
@@ -6284,7 +6285,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 5
+     "hot": 9
     },
     {
      "start": "09:30",
@@ -6617,7 +6618,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -7211,7 +7213,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -7253,7 +7256,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -7364,7 +7368,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -7401,7 +7406,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -16761,7 +16767,7 @@ window.SCHEDULE = {
      "pgm": "프로티원 식단관리 특가",
      "title": "추석 연휴 급찐살 관리",
      "category": "식품",
-     "hot": 2
+     "hot": 5
     },
     {
      "start": "08:30",
@@ -16773,8 +16779,7 @@ window.SCHEDULE = {
      "slot_id": "59774",
      "pgm": "화제의 포켓몬X스팸부터",
      "title": "카카오프렌즈 에디션까지!",
-     "category": "식품",
-     "hot": 7
+     "category": "식품"
     },
     {
      "start": "08:30",
@@ -16786,8 +16791,7 @@ window.SCHEDULE = {
      "slot_id": "59993",
      "pgm": "성분에디터 ~75%",
      "title": "그린토마토 모공앰플 기획세트",
-     "category": "뷰티",
-     "hot": 3
+     "category": "뷰티"
     },
     {
      "start": "10:00",
@@ -17879,8 +17883,8 @@ window.SCHEDULE = {
    "2026-09-20",
    "2026-09-21"
   ],
-  "matched": 9,
-  "unmatched": 10
+  "matched": 13,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
