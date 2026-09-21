@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-21T22:48:12+09:00",
+ "generated_at": "2026-09-21T23:17:11+09:00",
  "today": "2026-09-21",
  "dates": [
   "2026-09-20",
@@ -11376,7 +11376,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "19:30",
@@ -21382,7 +21382,7 @@ window.SCHEDULE = {
      "slot_id": "254326",
      "pgm": "로보락 S10 MaxV Ultra🔥단 1시간 혜택",
      "category": "가전",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "23:00",
