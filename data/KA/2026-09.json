@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-09-21T07:09:38+09:00",
+ "updated_at": "2026-09-21T12:09:46+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -4416,18 +4416,6 @@
    },
    {
     "start": "19:00",
-    "end": "20:24",
-    "brand": "포트레",
-    "product": "NEW 데일리 웨어 메쉬 쿠션",
-    "price": 35100,
-    "link": "https://gift.kakao.com/product/14221367?url=product&cId=14221367",
-    "slot_id": "59755",
-    "pgm": "NEW쿠션&섀도우 ~28%",
-    "title": "추가할인+핸드크림 증정",
-    "category": "뷰티"
-   },
-   {
-    "start": "19:00",
     "end": "20:20",
     "brand": "브랜든",
     "product": "[브랜든] 더 가벼운 여행 압축 파우치 라이트 세트 (20/24/28인치 캐리어) - 경량",
@@ -4514,9 +4502,9 @@
   "2026-09-21": [
    {
     "start": "08:30",
-    "end": "10:00",
+    "end": "09:50",
     "brand": "프로티원",
-    "product": "프로티원 대용량 단백질 쉐이크 곡물맛 외 6종 택2",
+    "product": "[1+1+보틀990] 프로티원 대용량 단백질 쉐이크 곡물맛 외 6종 택2",
     "price": 86000,
     "link": "https://store.kakao.com/proteeone/products/104031228",
     "slot_id": "59762",
@@ -4526,19 +4514,7 @@
    },
    {
     "start": "08:30",
-    "end": "10:00",
-    "brand": "CJ제일제당(세트)",
-    "product": "[26년 추석 선물세트] 스팸 카카오프렌즈 에디션 C호 (스팸 클래식 200g x 6,스팸 라이트 120g x 2)",
-    "price": 47900,
-    "link": "https://gift.kakao.com/product/2903032?url=product&cId=2903032",
-    "slot_id": "59774",
-    "pgm": "화제의 포켓몬X스팸부터",
-    "title": "카카오프렌즈 에디션까지!",
-    "category": "식품"
-   },
-   {
-    "start": "08:30",
-    "end": "11:30",
+    "end": "09:50",
     "brand": "성분에디터 공식 스토어",
     "product": "[성분에디터/포켓몬 콜라보] 압도적 모공 1등! 그린토마토 NMN 모공앰플 & 모공크림 최초가격 창고 대방출 + 추가 증정!",
     "price": 74000,
@@ -4549,8 +4525,20 @@
     "category": "뷰티"
    },
    {
+    "start": "09:51",
+    "end": "11:09",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49900,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "60315",
+    "pgm": "터치그라운드 발편한운동화",
+    "title": "가벼우면서 쿠션감 좋은운동화",
+    "category": "패션"
+   },
+   {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:01",
     "brand": "쌍계명차(LuX)",
     "product": "쌍계 티 가든 블렌딩차/전통차 (6종 30입)",
     "price": 26900,
@@ -4562,7 +4550,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:00",
     "brand": "마이옵티멀",
     "product": "마이옵티멀 박용우 다이어트 프로틴 밸런스 40g, 14포",
     "price": 60900,
@@ -4574,7 +4562,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:01",
     "brand": "동국제약",
     "product": "[동국제약]마데카크림 타이트리프팅 50ml*6개+추가30ml+팩4매+10일분.쇼핑백증정.주름개선.물찬리프팅.",
     "price": 228000,
@@ -4583,6 +4571,18 @@
     "pgm": "동국제약 브랜드데이",
     "title": "크림&체험딜 ~75% 할인",
     "category": "뷰티"
+   },
+   {
+    "start": "10:00",
+    "end": "11:01",
+    "brand": "신일전자 온라인스토어",
+    "product": "신일 전기히터 2IN1 카본 탄소발열 히터 온풍기",
+    "price": 198000,
+    "link": "https://store.kakao.com/shinilonline/products/632210789",
+    "slot_id": "60347",
+    "pgm": "신일 전기 히터 난로 가습기",
+    "title": "포근한 겨울나기 라이브할인",
+    "category": "리빙"
    },
    {
     "start": "11:30",
@@ -4609,15 +4609,15 @@
     "category": "리빙"
    },
    {
-    "start": "15:00",
-    "end": "16:30",
-    "brand": "돌쇠네농산물",
-    "product": "깨소 듬뿍 들어간 굳지 않는 말랑 깨송편",
-    "price": 16000,
-    "link": "https://store.kakao.com/dol4525/products/788576456",
-    "slot_id": "60336",
-    "pgm": "돌쇠네 추석 전 마지막 배송",
-    "title": "추석 간식 먹방 LIVE!",
+    "start": "11:35",
+    "end": "13:05",
+    "brand": "단디잇",
+    "product": "82만 요리유튜버가 만든 밥도둑 매콤찬 고추다짐이 250g",
+    "price": 11900,
+    "link": "https://store.kakao.com/dandiit/products/738640799",
+    "slot_id": "60357",
+    "pgm": "추석 연휴전 매콤찬 땡초장",
+    "title": "마지막 카쇼라 단독 할인!",
     "category": "식품"
    },
    {
@@ -4717,6 +4717,18 @@
     "category": "패션"
    },
    {
+    "start": "20:00",
+    "end": "21:30",
+    "brand": "(주)상상그램",
+    "product": "[귀뚜라미] 27년형 THE 프리미엄 신형 블루투스 카본 탄소매트",
+    "price": 368000,
+    "link": "https://store.kakao.com/sangsangstore/products/118837559",
+    "slot_id": "60346",
+    "pgm": "2026년 귀뚜라미",
+    "title": "겨울을 위한 카본매트",
+    "category": "테크"
+   },
+   {
     "start": "20:30",
     "end": "22:00",
     "brand": "팜밀리1987",
@@ -4777,18 +4789,6 @@
     "category": "여행",
     "rerun": true,
     "rerun_of": "59433"
-   },
-   {
-    "start": "22:30",
-    "end": "00:00",
-    "brand": "터치그라운드 스니커즈",
-    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-    "price": 49900,
-    "link": "https://store.kakao.com/touchground/products/774098244",
-    "slot_id": "60315",
-    "pgm": "터치그라운드 발편한운동화",
-    "title": "가벼우면서 쿠션감 좋은운동화",
-    "category": "패션"
    }
   ],
   "2026-09-22": [
@@ -4857,7 +4857,7 @@
     "end": "11:30",
     "brand": "롯데칠성음료 브랜드 스토어",
     "product": "펩시제로슈거 라임/제로카페인 210ml 30캔+355ml 24캔 외 제로탄산 300ml/355ml 캔/펫",
-    "price": 24900,
+    "price": 49900,
     "link": "https://store.kakao.com/lottechilsung/products/780250877",
     "slot_id": "59826",
     "pgm": "롯데칠성 가을맞이 나들이특집",
@@ -4904,8 +4904,8 @@
     "start": "17:00",
     "end": "18:30",
     "brand": "신선하랑",
-    "product": "26년 첫 출하 제주 극조생감귤 2kg 3kg 5kg 외 하우스 감귤",
-    "price": 60000,
+    "product": "9월 28일 순차출고/26년 첫 출하 제주 극조생감귤 4.5kg 9kg 소과 로얄과 대과",
+    "price": 40000,
     "link": "https://store.kakao.com/ssharang/products/609217364",
     "slot_id": "60303",
     "pgm": "26년 첫 출하!!",
@@ -4941,7 +4941,7 @@
     "end": "20:30",
     "brand": "마크니",
     "product": "마크니 하트 퀼팅 스트링 파우치백 3종 토트백 미니백 데일리백 20대여자선물",
-    "price": 32800,
+    "price": 29800,
     "link": "https://gift.kakao.com/product/13328605?url=product&cId=13328605",
     "slot_id": "59895",
     "pgm": "마크니 단독 특가전",
@@ -5009,6 +5009,18 @@
     "category": "여행",
     "rerun": true,
     "rerun_of": "59593"
+   },
+   {
+    "start": "22:30",
+    "end": "00:00",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49900,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "60349",
+    "pgm": "터치그라운드 쿠셔닝슬리퍼",
+    "title": "날도 더워지는데 구매각?!",
+    "category": "패션"
    }
   ],
   "2026-09-23": [
@@ -5133,6 +5145,20 @@
     "category": "식품"
    },
    {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "CJ제일제당(세트)",
+    "product": "[26년 추석 선물세트] 카카오 단독 스팸 선물세트 외 1종 (+쇼핑백 동봉)",
+    "price": 25900,
+    "link": "https://gift.kakao.com/product/1309530?url=product&cId=1309530",
+    "slot_id": "60350",
+    "pgm": "화제의 포켓몬X스팸부터",
+    "title": "카카오프렌즈 에디션까지!",
+    "category": "식품",
+    "rerun": true,
+    "rerun_of": "59774"
+   },
+   {
     "start": "19:00",
     "end": "20:30",
     "brand": "라이온코리아",
@@ -5160,8 +5186,8 @@
     "start": "20:30",
     "end": "23:30",
     "brand": "클렌하임",
-    "product": "클렌하임 바디탭 라인 마사지기",
-    "price": 79900,
+    "product": "[김보미x클렌하임] 클렌하임 바디탭 라인 마사지기 공구 특가",
+    "price": 133800,
     "link": "https://store.kakao.com/klenheim/products/735764139",
     "slot_id": "59594",
     "pgm": "프리미엄 마사지기 클렌하임",
@@ -5307,7 +5333,7 @@
     "end": "22:00",
     "brand": "이즈니생메르",
     "product": "[이즈니] 프랑스 명품버터 이즈니 생메르 AOP 버터 선물세트 (본사직영/프랑스직수입)",
-    "price": 49800,
+    "price": 47500,
     "link": "https://gift.kakao.com/product/10783689?url=product&cId=10783689",
     "slot_id": "59602",
     "pgm": "LF푸드 치즈 선물세트",
@@ -5319,7 +5345,7 @@
     "end": "22:00",
     "brand": "미스터밀크",
     "product": "제주 성이시돌 목장 젤라또 파인트 3개 골라담기",
-    "price": 53700,
+    "price": 34900,
     "link": "https://store.kakao.com/mrmilk/products/383776492",
     "slot_id": "59604",
     "pgm": "제주 성이시돌 목장 젤라또",
@@ -5342,7 +5368,7 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "브랜드 널 담",
-    "product": "[대용량] 널담 고단백 저당 베이글/바게트/포카치아 10+10, 총 20개 골라담기",
+    "product": "[대용량]널담 고단백 저당 베이글/바게트/포카치아 10+10, 총 20개 골라담기",
     "price": 41900,
     "link": "https://store.kakao.com/nuldam/products/49856632",
     "slot_id": "59880",
@@ -5616,6 +5642,18 @@
     "slot_id": "60296",
     "pgm": "수제직화닭발 7900원 무배",
     "title": "닭발류 4종과 한돈 오돌뼈",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "청년상점",
+    "product": "(명절전도착) 12~15Brix 신품종 제주직송 유라 그린향 감귤 2kg 로얄과 / 2개구매시 실중량 5kg발송",
+    "price": 25900,
+    "link": "https://store.kakao.com/youngstore/products/611699683",
+    "slot_id": "60342",
+    "pgm": "유라감귤 2kg 9900원",
+    "title": "2개구매시 5kg발송",
     "category": "식품"
    }
   ]
