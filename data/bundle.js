@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-22T08:42:23+09:00",
+ "generated_at": "2026-09-22T08:54:43+09:00",
  "today": "2026-09-22",
  "dates": [
   "2026-09-21",
@@ -492,7 +492,7 @@ window.SCHEDULE = {
      ],
      "title": "망설이면 품절! 보니스팍스가 제안하는 가을 OOTD❤️",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 8
+     "hot": 7
     },
     {
      "start": "09:00",
@@ -6921,8 +6921,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 7
+     "category": "테크"
     },
     {
      "start": "09:00",
@@ -16166,8 +16165,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4673799750",
      "slot_id": "254032",
      "pgm": "편의점 2천원 300명💸3시간 쇼핑 마라톤🏃🏻24",
-     "category": "서비스·렌탈",
-     "hot": 3
+     "category": "서비스·렌탈"
     },
     {
      "start": "07:00",
@@ -16858,7 +16856,8 @@ window.SCHEDULE = {
      "slot_id": "59734",
      "pgm": "JMW 추석맞이 카쇼라 특가",
      "title": "보름달처럼 풍성한 혜택!",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 5
     },
     {
      "start": "08:30",
@@ -16882,7 +16881,8 @@ window.SCHEDULE = {
      "slot_id": "59980",
      "pgm": "가을에도 스케쳐스",
      "title": "성인화&키즈 추석 특가 찬스",
-     "category": "패션"
+     "category": "패션",
+     "hot": 2
     },
     {
      "start": "10:00",
