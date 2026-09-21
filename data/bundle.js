@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-21T08:59:09+09:00",
+ "generated_at": "2026-09-21T09:24:29+09:00",
  "today": "2026-09-21",
  "dates": [
   "2026-09-20",
@@ -16760,7 +16760,7 @@ window.SCHEDULE = {
      "pgm": "프로티원 식단관리 특가",
      "title": "추석 연휴 급찐살 관리",
      "category": "식품",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "08:30",
@@ -16773,7 +16773,7 @@ window.SCHEDULE = {
      "pgm": "화제의 포켓몬X스팸부터",
      "title": "카카오프렌즈 에디션까지!",
      "category": "식품",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "08:30",
@@ -16786,7 +16786,7 @@ window.SCHEDULE = {
      "pgm": "성분에디터 ~75%",
      "title": "그린토마토 모공앰플 기획세트",
      "category": "뷰티",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "10:00",
