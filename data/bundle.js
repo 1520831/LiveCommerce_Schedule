@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-22T07:24:05+09:00",
+ "generated_at": "2026-09-22T07:38:44+09:00",
  "today": "2026-09-22",
  "dates": [
   "2026-09-21",
@@ -472,7 +472,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[로보] 고급 리얼 스웨이드 무스탕 특집",
-     "pgm": "[재방] 로보 여성의류 (패션3Lab)"
+     "pgm": "[재방] 로보 여성의류 (패션3Lab)",
+     "hot": 4
     },
     {
      "start": "08:00",
@@ -6712,8 +6713,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 6
+     "category": "테크"
     },
     {
      "start": "07:20",
@@ -6826,7 +6826,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 8
     },
     {
      "start": "08:00",
@@ -16646,7 +16647,7 @@ window.SCHEDULE = {
      "pgm": "제철맞은 산지직송 홍무화과",
      "title": "입안 가득 퍼지는 달콤함~!",
      "category": "식품",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "17:00",
@@ -17642,8 +17643,8 @@ window.SCHEDULE = {
    "2026-09-21",
    "2026-09-22"
   ],
-  "matched": 8,
-  "unmatched": 12
+  "matched": 9,
+  "unmatched": 11
  },
  "fixed": {
   "rows": [
