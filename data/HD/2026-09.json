@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-21T18:14:09+09:00",
+ "updated_at": "2026-09-21T23:45:35+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -8252,6 +8252,24 @@
     ],
     "title": "수지 PICK! 게스진 FW 신상 최대 39%▼",
     "pgm": "현대렐라쇼 (멀티커머스)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "신선 설한우",
+    "product": "홍성마늘 한우 숯불 떡갈비 150g 10팩 세트",
+    "price": 55000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2232826029",
+    "slot_id": "202609216025",
+    "items": [
+     {
+      "brand": "신선 설한우",
+      "product": "홍성마늘 한우 숯불 떡갈비 150g 10팩 세트",
+      "price": 55000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2232826029"
+     }
+    ],
+    "title": "🚨신선설한우 마지막 명절 전 배송!"
    }
   ],
   "2026-09-22": [
