@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-21T22:17:30+09:00",
+ "generated_at": "2026-09-21T22:31:55+09:00",
  "today": "2026-09-21",
  "dates": [
   "2026-09-20",
@@ -8945,8 +8945,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "15:00",
@@ -9795,7 +9794,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "18:00",
@@ -21382,7 +21381,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4680717087",
      "slot_id": "254326",
      "pgm": "로보락 S10 MaxV Ultra🔥단 1시간 혜택",
-     "category": "가전"
+     "category": "가전",
+     "hot": 9
     },
     {
      "start": "23:00",
