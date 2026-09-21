@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-09-21T23:45:49+09:00",
+ "updated_at": "2026-09-22T07:10:36+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -4513,30 +4513,6 @@
     "category": "뷰티"
    },
    {
-    "start": "09:51",
-    "end": "11:09",
-    "brand": "터치그라운드 스니커즈",
-    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-    "price": 49900,
-    "link": "https://store.kakao.com/touchground/products/774098244",
-    "slot_id": "60315",
-    "pgm": "터치그라운드 발편한운동화",
-    "title": "가벼우면서 쿠션감 좋은운동화",
-    "category": "패션"
-   },
-   {
-    "start": "10:00",
-    "end": "11:01",
-    "brand": "쌍계명차(LuX)",
-    "product": "쌍계 티 가든 블렌딩차/전통차 (6종 30입)",
-    "price": 26900,
-    "link": "https://gift.kakao.com/product/13408787?url=product&cId=13408787",
-    "slot_id": "59771",
-    "pgm": "쌍계명차 추석 선물페스타!",
-    "title": "~38% 할인 + 키링 증정",
-    "category": "식품"
-   },
-   {
     "start": "10:00",
     "end": "11:00",
     "brand": "마이옵티멀",
@@ -4559,18 +4535,6 @@
     "pgm": "동국제약 브랜드데이",
     "title": "크림&체험딜 ~75% 할인",
     "category": "뷰티"
-   },
-   {
-    "start": "10:00",
-    "end": "11:01",
-    "brand": "신일전자 온라인스토어",
-    "product": "신일 전기히터 2IN1 카본 탄소발열 히터 온풍기",
-    "price": 198000,
-    "link": "https://store.kakao.com/shinilonline/products/632210789",
-    "slot_id": "60347",
-    "pgm": "신일 전기 히터 난로 가습기",
-    "title": "포근한 겨울나기 라이브할인",
-    "category": "리빙"
    },
    {
     "start": "11:30",
@@ -4621,18 +4585,6 @@
     "category": "식품"
    },
    {
-    "start": "18:00",
-    "end": "19:02",
-    "brand": "Mimo Beauty미모뷰티",
-    "product": "[미모뷰티] 프렙 리페어 크림 듀오 15ml+15ml 수분 보습 스킨케어",
-    "price": 29900,
-    "link": "https://store.kakao.com/mimobeauty/products/788596506",
-    "slot_id": "60327",
-    "pgm": "추석맞이 뷰티&홈케어 특집!",
-    "title": "미모뷰티X닥터스파 라이브",
-    "category": "뷰티"
-   },
-   {
     "start": "19:00",
     "end": "20:21",
     "brand": "크록스",
@@ -4670,18 +4622,6 @@
    },
    {
     "start": "19:00",
-    "end": "20:20",
-    "brand": "부이",
-    "product": "[부이 디지털 카메라 헬로키티 에디션] 레드&핑크+전용 파우치+스트랩+sd카드 8G+리더기+c to c 케이블",
-    "price": 49900,
-    "link": "https://gift.kakao.com/product/13668924?url=product&cId=13668924",
-    "slot_id": "59886",
-    "pgm": "BOOIE 추석특집",
-    "title": "바디드라이기&헬로키티 카메라",
-    "category": "테크"
-   },
-   {
-    "start": "19:00",
     "end": "20:00",
     "brand": "폰드그룹몰",
     "product": "[어패럴카쇼라] (9/21) 캘빈클라인 스포츠,퍼포먼스,진스 종합 특가전",
@@ -4691,18 +4631,6 @@
     "pgm": "[캘빈클라인스포츠] 역시즌",
     "title": "종합 추석 특가전",
     "category": "패션"
-   },
-   {
-    "start": "20:00",
-    "end": "21:00",
-    "brand": "(주)상상그램",
-    "product": "[귀뚜라미] 27년형 THE 프리미엄 신형 블루투스 카본 탄소매트",
-    "price": 368000,
-    "link": "https://store.kakao.com/sangsangstore/products/118837559",
-    "slot_id": "60346",
-    "pgm": "2026년 귀뚜라미",
-    "title": "겨울을 위한 카본매트",
-    "category": "테크"
    },
    {
     "start": "20:30",
@@ -4730,18 +4658,6 @@
    },
    {
     "start": "20:30",
-    "end": "21:30",
-    "brand": "엄마네한우",
-    "product": "엄마네한우 1++등급 \"천하명작\" 투뿔 선물세트 1kg (살치등심+채끝등심+참갈비살+본갈비살+부채살)",
-    "price": 182000,
-    "link": "https://gift.kakao.com/product/10194194?url=product&cId=10194194",
-    "slot_id": "59773",
-    "pgm": "엄마네한우 추석 1++한우",
-    "title": "선물세트 역대급 특가+혜택!",
-    "category": "식품"
-   },
-   {
-    "start": "20:30",
     "end": "21:31",
     "brand": "슬룸 Sloom",
     "product": "(쇼핑백 증정)슬룸 에어리프팅 온열 저자극진동 3IN1 경추마사지 베게 목베개플러스",
@@ -4751,20 +4667,6 @@
     "pgm": "[슬룸]명절 준비로 쌓인",
     "title": "피로를 풀어줄 힐링 선물",
     "category": "테크"
-   },
-   {
-    "start": "20:30",
-    "end": "21:54",
-    "brand": "smartinfini",
-    "product": "[LIVE/휘닉스파크] 3인_DIY액티비티패키지_1박+액티비티(워터파크/상상놀이터/루지/곤돌라 중 선택)+특전 5종",
-    "price": 610000,
-    "link": "https://store.kakao.com/smartinfini01/products/785216630",
-    "slot_id": "60326",
-    "pgm": "앵콜! 휘닉스 기획전",
-    "title": "꽉 채운 가을 여행 12만~",
-    "category": "여행",
-    "rerun": true,
-    "rerun_of": "59433"
    }
   ],
   "2026-09-22": [
@@ -5392,7 +5294,7 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "청년상점",
-    "product": "당면가득 김말이튀김 대용량 1.5kg 약 60개 (기본/매운맛) / 에어프라이 조리가능",
+    "product": "국산 김으로만든 김말이튀김 대용량 1.5kg 약 60개 (기본/매운맛) 외 탕수육 치킨팝콘 치즈스틱 오징어튀김",
     "price": 18900,
     "link": "https://store.kakao.com/youngstore/products/788109998",
     "slot_id": "60127",
@@ -5643,6 +5545,212 @@
     "pgm": "유라감귤 2kg 10000원",
     "title": "2개구매시 5kg발송",
     "category": "식품"
+   }
+  ],
+  "2026-09-27": [
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "라리리",
+    "product": "[라리리] 지금부터 입기 좋은 자체제작 커플 데일리 파자마 리뉴얼 FW 특가",
+    "price": 49800,
+    "link": "https://store.kakao.com/laleelee/products/489721632",
+    "slot_id": "59964",
+    "pgm": "라리리 지금 딱 입기 좋은",
+    "title": "가을맞이 특가 LIVE",
+    "category": "패션"
+   },
+   {
+    "start": "10:00",
+    "end": "13:00",
+    "brand": "마미케어공식스토어",
+    "product": "[마미케어] 들깨기미크림 업그레이드 2세대+증정",
+    "price": 100000,
+    "link": "https://store.kakao.com/mommycare/products/238332679",
+    "slot_id": "60012",
+    "pgm": "마미케어 ~79%+쿠폰",
+    "title": "7만원이상 마스크팩+립밤증정",
+    "category": "뷰티"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "티타드",
+    "product": "[물만 섞는 새치염색] 티타드 맥주효모 물염색",
+    "price": 72000,
+    "link": "https://store.kakao.com/titad/products/506461260",
+    "slot_id": "60137",
+    "pgm": "티타드 플러스 치약&물염색",
+    "title": "~50% 할인 + 추가 증정",
+    "category": "뷰티"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "닥터포헤어",
+    "product": "[닥터포헤어] 추석맞이 대특가! 풍성한 사은품 증정",
+    "price": 138000,
+    "link": "https://store.kakao.com/drforhair/products/154193897",
+    "slot_id": "59842",
+    "pgm": "닥터포헤어 추석맞이 대특가!",
+    "title": "단독구성+풍성한 사은품",
+    "category": "뷰티"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "Anae",
+    "product": "CLAIR CAP 9Colors",
+    "price": 47900,
+    "link": "https://store.kakao.com/anae/products/764018707",
+    "slot_id": "59917",
+    "pgm": "아나에 데일리 캡 BEST",
+    "title": "41종 카쇼라 특가",
+    "category": "패션"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "CJ웰케어",
+    "product": "[본사직영] 온가족 바이오코어 데일리 유산균 3개월분",
+    "price": 32700,
+    "link": "https://store.kakao.com/cjthehealth/products/748444281",
+    "slot_id": "59997",
+    "pgm": "CJ 식물성 멜라토닌 구미",
+    "title": "&유산균 한정특가 LIVE!",
+    "category": "식품"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "쿤달 KUNDAL",
+    "product": "쿤달 샴푸 트리트먼트 워시 로션 모음전+샴푸100ml 증정",
+    "price": 50300,
+    "link": "https://store.kakao.com/kundal/products/198608745",
+    "slot_id": "60309",
+    "pgm": "쿤달득템전 50%+1천원쿠폰",
+    "title": "초특가딜 샴푸 추가증정",
+    "category": "뷰티"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "청년상점",
+    "product": "바삭 크리스피 치킨/등심/오징어 꿔바로우 1kg / 부드러운 식감, 에어프라이 조리가능",
+    "price": 23900,
+    "link": "https://store.kakao.com/youngstore/products/788107236",
+    "slot_id": "60128",
+    "pgm": "국내산 치킨 꿔바로우 1kg",
+    "title": "등심/오징어까지 3종세트",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "비너스",
+    "product": "[1+1세트] 부유방 보정 프리컷 브라팬티 4종+팬티 1장 증정",
+    "price": 33000,
+    "link": "https://gift.kakao.com/product/13747390?url=product&cId=13747390",
+    "slot_id": "59355",
+    "pgm": "나를 감싸는 편안함 비너스",
+    "title": "라이브 중 구매시 팬티 증정",
+    "category": "패션"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "아모레퍼시픽",
+    "product": "[쟁이기] 라보에이치 두피강화&쿨링&댄드러프 샴푸 2,400ml [샴푸 400ml x3 + 리필 400ml x3]",
+    "price": 150000,
+    "link": "https://store.kakao.com/amorepacific/products/764658679",
+    "slot_id": "60013",
+    "pgm": "라보에이치~46%+쿠폰할인",
+    "title": "라이브 중 전원 사은품 증정",
+    "category": "뷰티"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "로보락 브랜드 스토어",
+    "product": "로보락 S10 MaxV Ultra 로봇청소기 일반형",
+    "price": 1890000,
+    "link": "https://store.kakao.com/roborock/products/695480740",
+    "slot_id": "60162",
+    "pgm": "로보락 S10 MaxV시리즈",
+    "title": "방송중 구매시 사은품 증정",
+    "category": "테크"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "올마이투어",
+    "product": "[충남] 엘리스테이 보령 | 감각적인 건축과 초대형 풀을 품은 럭셔리 스테이",
+    "price": 240000,
+    "link": "https://store.kakao.com/allmytour/products/790223283",
+    "slot_id": "60178",
+    "pgm": "엘리스테이 보령_럭셔리스테이",
+    "title": "라이브 혜택가 12만~",
+    "category": "여행"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "(주)플라이밀",
+    "product": "플라이밀 프로틴 단백질쉐이크 14종 대용량 630g 2통",
+    "price": 59800,
+    "link": "https://store.kakao.com/fullandlight/products/701855525",
+    "slot_id": "60213",
+    "pgm": "플라이밀 단백질쉐이크",
+    "title": "추석 마지막 라이브 특가",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "허시파피코리아",
+    "product": "[브랜드데이] 허시파피 26FW 신상&베스트 슈즈 모음 부츠/로퍼/스니커즈 외",
+    "price": 149000,
+    "link": "https://store.kakao.com/hushpuppies/products/692232923",
+    "slot_id": "59919",
+    "pgm": "허시파피 UP TO 65%",
+    "title": "26FW 신상&베스트 슈즈",
+    "category": "패션"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "르샵 주얼리",
+    "product": "[르샵주얼리][10%] 9월 앵콜오픈&신상 주얼리 14K귀걸이/목걸이/반지/팔찌",
+    "price": 77000,
+    "link": "https://store.kakao.com/leshopjewelry/products/511070681",
+    "slot_id": "59946",
+    "pgm": "[르샵] 9월 가을 주얼리!",
+    "title": "사은품+추첨증정까지!",
+    "category": "패션"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "파르페by알레르망",
+    "product": "[파르페by알레르망] 가을맞이 알러지케어/모달 차렵 경추베개 침구",
+    "price": 108500,
+    "link": "https://store.kakao.com/farfestore/products/118972639",
+    "slot_id": "60035",
+    "pgm": "파르페by알레르망",
+    "title": "9월 침구 특가 LIVE",
+    "category": "리빙"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "스튜디오 담",
+    "product": "STUDIO 담 L형 투명 발매트 주방 싱크대 식세기 용",
+    "price": 43000,
+    "link": "https://store.kakao.com/studiodam/products/788582957",
+    "slot_id": "60279",
+    "pgm": "스튜디오담 투명 발매트",
+    "title": "카카오 첫 라이브 특가",
+    "category": "리빙"
    }
   ]
  }

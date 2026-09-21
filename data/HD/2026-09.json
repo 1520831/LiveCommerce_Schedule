@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-21T23:45:35+09:00",
+ "updated_at": "2026-09-22T07:10:23+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -7876,24 +7876,6 @@
     "pgm": "[재방] 고비 (패션1Lab)"
    },
    {
-    "start": "07:00",
-    "end": "07:59",
-    "brand": "조니스 그로서리",
-    "product": "[쇼라][조니스그로서리][BEST입문팩] 납작 플레인1 + 초코1 + 저당1 + 한끼 오곡1 + 카카오1",
-    "price": 53900,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253383970",
-    "slot_id": "202609216020",
-    "items": [
-     {
-      "brand": "조니스 그로서리",
-      "product": "[쇼라][조니스그로서리][BEST입문팩] 납작 플레인1 + 초코1 + 저당1 + 한끼 오곡1 + 카카오1",
-      "price": 53900,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253383970"
-     }
-    ],
-    "title": "SNS 대란템! 납작 청크 그래놀라 집방 특별가"
-   },
-   {
     "start": "08:00",
     "end": "08:59",
     "brand": "써스데이아일랜드",
@@ -8012,14 +7994,14 @@
     "end": "14:59",
     "brand": "얼쎄라",
     "product": "얼쎄라 매직커버크림 코렉터 30ml 4개+얼쎄라 코렉터 15ml 2개+키링2개(색상랜덤)",
-    "price": 239800,
+    "price": 119900,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253408289",
     "slot_id": "202609216018",
     "items": [
      {
       "brand": "얼쎄라",
       "product": "얼쎄라 매직커버크림 코렉터 30ml 4개+얼쎄라 코렉터 15ml 2개+키링2개(색상랜덤)",
-      "price": 239800,
+      "price": 119900,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253408289"
      }
     ],
@@ -8050,14 +8032,14 @@
     "end": "16:59",
     "brand": "Playback",
     "product": "[PlayBack] 헌팅 고트레더 베스트",
-    "price": 309000,
+    "price": 339000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252755028",
     "slot_id": "202609216007",
     "items": [
      {
       "brand": "Playback",
       "product": "[PlayBack] 헌팅 고트레더 베스트",
-      "price": 309000,
+      "price": 339000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252755028"
      }
     ],
@@ -8069,14 +8051,14 @@
     "end": "17:59",
     "brand": "롤랑 드 드뢰이",
     "product": "레이스 미니 토트백",
-    "price": 99000,
+    "price": 109000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252823349",
     "slot_id": "202609216008",
     "items": [
      {
       "brand": "롤랑 드 드뢰이",
       "product": "레이스 미니 토트백",
-      "price": 99000,
+      "price": 109000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252823349"
      }
     ],
@@ -8297,14 +8279,14 @@
     "end": "07:59",
     "brand": "로보",
     "product": "스웨이드 3버튼 크롭 자켓",
-    "price": 499000,
+    "price": 399000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252874196",
     "slot_id": "202609226021",
     "items": [
      {
       "brand": "로보",
       "product": "스웨이드 3버튼 크롭 자켓",
-      "price": 499000,
+      "price": 399000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252874196"
      }
     ],
@@ -8449,14 +8431,14 @@
     "end": "15:59",
     "brand": "고트만",
     "product": "고트만 네오 크리스탈락 트라이탄 밀폐용기 17종 세트",
-    "price": 339000,
+    "price": 164000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253561794",
     "slot_id": "202609226009",
     "items": [
      {
       "brand": "고트만",
       "product": "고트만 네오 크리스탈락 트라이탄 밀폐용기 17종 세트",
-      "price": 339000,
+      "price": 164000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253561794"
      }
     ],
@@ -8487,14 +8469,14 @@
     "end": "18:59",
     "brand": "헤닝",
     "product": "에포크 세라믹식탁 2인용 원목 식탁 800 테이블",
-    "price": 222000,
+    "price": 221000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252319651",
     "slot_id": "202609226012",
     "items": [
      {
       "brand": "헤닝",
       "product": "에포크 세라믹식탁 2인용 원목 식탁 800 테이블",
-      "price": 222000,
+      "price": 221000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252319651"
      }
     ],
@@ -9042,14 +9024,14 @@
     "end": "22:59",
     "brand": "헨리베글린",
     "product": "클라라 마이크로 램올드아이언 베이지",
-    "price": 930000,
+    "price": 827700,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249213198",
     "slot_id": "202609246015",
     "items": [
      {
       "brand": "헨리베글린",
       "product": "클라라 마이크로 램올드아이언 베이지",
-      "price": 930000,
+      "price": 827700,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249213198"
      }
     ],
@@ -9268,6 +9250,160 @@
     ],
     "title": "[투명쇼] 막스마라 코트 월 1만원대",
     "pgm": "[재방] 투명쇼 (패션잡화)"
+   }
+  ],
+  "2026-09-27": [
+   {
+    "start": "00:00",
+    "end": "00:59",
+    "brand": "Lemaire",
+    "product": "르메르 미디엄 크루아상 그레인 레더 숄더백 BG0001 LL0018 999 블랙",
+    "price": 2048000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251925245",
+    "slot_id": "202609276014",
+    "items": [
+     {
+      "brand": "Lemaire",
+      "product": "르메르 미디엄 크루아상 그레인 레더 숄더백 BG0001 LL0018 999 블랙",
+      "price": 2048000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251925245"
+     }
+    ],
+    "title": "[투명쇼] 인기 명품 60개월 무이자 찬스!",
+    "pgm": "[재방] 투명쇼 (패션잡화)"
+   },
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "써스데이아일랜드",
+    "product": "[Thursday Island] 플라워 풀오픈 롱 원피스(T244MOP247W)",
+    "price": 99000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249671029",
+    "slot_id": "202609276002",
+    "items": [
+     {
+      "brand": "써스데이아일랜드",
+      "product": "[Thursday Island] 플라워 풀오픈 롱 원피스(T244MOP247W)",
+      "price": 99000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249671029"
+     }
+    ],
+    "title": "[써스데이아일랜드] 선선한 가을에 딱 입기 좋은 코디룩",
+    "pgm": "[써스데이아일랜드] 여성의류 (패션1Lab)"
+   },
+   {
+    "start": "13:00",
+    "end": "13:59",
+    "brand": "스타우브",
+    "product": "원형 꼬꼬떼 20cm 화이트트러플",
+    "price": 530000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2235554119",
+    "slot_id": "202609276008",
+    "items": [
+     {
+      "brand": "스타우브",
+      "product": "원형 꼬꼬떼 20cm 화이트트러플",
+      "price": 530000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2235554119"
+     }
+    ],
+    "title": "[스타우브] 백화점 동일상품 1시간만 이 가격🚨",
+    "pgm": "[집방] 스타우브 냄비 (주방)"
+   },
+   {
+    "start": "16:00",
+    "end": "16:59",
+    "brand": "폰드그룹",
+    "product": "[푸마] 여성 데일리 컴포트 노와이어 브라 팬티 2종",
+    "price": 38200,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248245074",
+    "slot_id": "202609276010",
+    "items": [
+     {
+      "brand": "폰드그룹",
+      "product": "[푸마] 여성 데일리 컴포트 노와이어 브라 팬티 2종",
+      "price": 38200,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248245074"
+     }
+    ],
+    "title": "[아디다스/푸마 外] FW 가을 언더웨어 오픈찬스전",
+    "pgm": "[아디다스/푸마] 이너웨어 (패션1Lab)"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "고비",
+    "product": "고비(GOBI) 캐시미어100 48수 홀가먼트 풀오버",
+    "price": 249000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252525646",
+    "slot_id": "202609276005",
+    "items": [
+     {
+      "brand": "고비",
+      "product": "고비(GOBI) 캐시미어100 48수 홀가먼트 풀오버",
+      "price": 249000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252525646"
+     }
+    ],
+    "title": "[현대쇼룸] 베스트 브랜드 크로스코디전⭐",
+    "pgm": "현대쇼룸 (패션)"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "예본모피",
+    "product": "코펜하겐 밍크후드재킷(밑단스트링)",
+    "price": 2000000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2241966074",
+    "slot_id": "202609276006",
+    "items": [
+     {
+      "brand": "예본모피",
+      "product": "코펜하겐 밍크후드재킷(밑단스트링)",
+      "price": 2000000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2241966074"
+     }
+    ],
+    "title": "[예본모피] 프리미엄 모피 인기 상품 앵콜전",
+    "pgm": "[예본모피] 모피 (패션1Lab)"
+   },
+   {
+    "start": "21:00",
+    "end": "22:59",
+    "brand": "LG전자",
+    "product": "[모바일라이브] LG 디오스 AI 오브제 노크온 매직스페이스 냉장고 5도어 865L 에센스화이트 [T876MQQ412]",
+    "price": 2430000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252087157",
+    "slot_id": "202609276001",
+    "items": [
+     {
+      "brand": "LG전자",
+      "product": "[모바일라이브] LG 디오스 AI 오브제 노크온 매직스페이스 냉장고 5도어 865L 에센스화이트 [T876MQQ412]",
+      "price": 2430000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252087157"
+     }
+    ],
+    "title": "[LG] LOL 다품목 특집전",
+    "pgm": "[LG] 특별전 (가전)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "타미힐피거",
+    "product": "[타미진]  배지 케이블 가디건T32G7KCD01TWT2 T32G7KCD01TWT2",
+    "price": 179100,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253248123",
+    "slot_id": "202609276007",
+    "items": [
+     {
+      "brand": "타미힐피거",
+      "product": "[타미진]  배지 케이블 가디건T32G7KCD01TWT2 T32G7KCD01TWT2",
+      "price": 179100,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253248123"
+     }
+    ],
+    "title": "타미진 FW 신상 방송 중 최대 20% 쿠폰",
+    "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ]
  }
