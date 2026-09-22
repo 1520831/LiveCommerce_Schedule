@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-22T11:15:51+09:00",
+ "generated_at": "2026-09-22T11:31:01+09:00",
  "today": "2026-09-22",
  "dates": [
   "2026-09-21",
@@ -7309,7 +7309,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -7334,7 +7334,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 5
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -7390,7 +7390,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -8284,7 +8284,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 10
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -16233,7 +16233,7 @@ window.SCHEDULE = {
      "slot_id": "252429",
      "pgm": "[한가위 빅세일] LG그램&모니터 마지막 특가세일!",
      "category": "디지털·PC",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -16257,7 +16257,8 @@ window.SCHEDULE = {
      "slot_id": "252501",
      "pgm": "[앵콜]한가위빅세일×LG가전 추석맞이 인기템 최대혜택",
      "rerun": true,
-     "category": "가전"
+     "category": "가전",
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -16884,8 +16885,7 @@ window.SCHEDULE = {
      "slot_id": "59980",
      "pgm": "가을에도 스케쳐스",
      "title": "성인화&키즈 추석 특가 찬스",
-     "category": "패션",
-     "hot": 8
+     "category": "패션"
     },
     {
      "start": "10:00",
