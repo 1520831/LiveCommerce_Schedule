@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-22T09:36:34+09:00",
+ "generated_at": "2026-09-22T09:51:35+09:00",
  "today": "2026-09-22",
  "dates": [
   "2026-09-21",
@@ -16869,7 +16869,7 @@ window.SCHEDULE = {
      "pgm": "신세계푸드 등심/치즈돈까스",
      "title": "추석 전 간편식 파티!",
      "category": "식품",
-     "hot": 8
+     "hot": 6
     },
     {
      "start": "08:30",
