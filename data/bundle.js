@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-22T10:38:35+09:00",
+ "generated_at": "2026-09-22T10:48:49+09:00",
  "today": "2026-09-22",
  "dates": [
   "2026-09-21",
@@ -7234,7 +7234,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -7311,7 +7312,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -16234,7 +16235,7 @@ window.SCHEDULE = {
      "slot_id": "252429",
      "pgm": "[한가위 빅세일] LG그램&모니터 마지막 특가세일!",
      "category": "디지털·PC",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -16850,7 +16851,7 @@ window.SCHEDULE = {
      "pgm": "코피코 캔디&레이즈 감자칩",
      "title": "랑네제 꿀 선물세트 특가",
      "category": "식품",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "08:30",
@@ -16862,8 +16863,7 @@ window.SCHEDULE = {
      "slot_id": "59734",
      "pgm": "JMW 추석맞이 카쇼라 특가",
      "title": "보름달처럼 풍성한 혜택!",
-     "category": "뷰티",
-     "hot": 9
+     "category": "뷰티"
     },
     {
      "start": "08:30",
