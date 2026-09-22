@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-09-22T12:09:10+09:00",
+ "updated_at": "2026-09-22T18:13:37+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -4549,18 +4549,6 @@
     "category": "리빙"
    },
    {
-    "start": "15:00",
-    "end": "16:00",
-    "brand": "온라인가구닷컴",
-    "product": "보루네오 파비앙 비건레더 모션 무빙 슬라이딩 리클라이닝 전동 소파 4인",
-    "price": 2156250,
-    "link": "https://store.kakao.com/onlinegagu/products/792970390",
-    "slot_id": "60366",
-    "pgm": "보루네오 모션 슬라이딩 소파",
-    "title": "추석 통큰 세일~!",
-    "category": "리빙"
-   },
-   {
     "start": "17:00",
     "end": "18:01",
     "brand": "명태잡는날",
@@ -4755,32 +4743,44 @@
     "category": "패션"
    },
    {
-    "start": "11:30",
-    "end": "13:00",
-    "brand": "농협안심한우",
-    "product": "농협안심한우 1등급 '특별한 구이' 금바구니 선물세트 1kg(등심400g+안심150g+채끝150g+부채살300g)",
-    "price": 129000,
-    "link": "https://gift.kakao.com/product/1303971?url=product&cId=1303971",
-    "slot_id": "59789",
-    "pgm": "농협한우로 추석 준비 완료",
-    "title": "마음을 전하는 프리미엄 선물",
-    "category": "식품"
+    "start": "14:00",
+    "end": "14:59",
+    "brand": "온라인가구닷컴",
+    "product": "앳홈 쿨젤 메모리폼 경추 베개(중형)",
+    "price": 27900,
+    "link": "https://store.kakao.com/onlinegagu/products/741528096",
+    "slot_id": "60412",
+    "pgm": "택배로 배송되는 롤팩매트리스",
+    "title": "독립포켓스프링 매트리스~!",
+    "category": "리빙"
+   },
+   {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "온라인가구닷컴",
+    "product": "보루네오 파비앙 비건레더 모션 무빙 슬라이딩 리클라이닝 전동 소파 4인",
+    "price": 2156250,
+    "link": "https://store.kakao.com/onlinegagu/products/792970390",
+    "slot_id": "60413",
+    "pgm": "보루네오 모션 슬라이딩 소파",
+    "title": "추석 통큰 세일~!",
+    "category": "리빙"
+   },
+   {
+    "start": "16:00",
+    "end": "17:01",
+    "brand": "온라인가구닷컴",
+    "product": "앳홈 데임 아쿠아텍스 데이베드 소파베드 A(프레임+매트)",
+    "price": 306900,
+    "link": "https://store.kakao.com/onlinegagu/products/341458523",
+    "slot_id": "60421",
+    "pgm": "적은 비용으로 고급스러운",
+    "title": "공간으로 만드는 원목가구",
+    "category": "리빙"
    },
    {
     "start": "17:00",
-    "end": "18:30",
-    "brand": "월간제철",
-    "product": "[GAP 인증] 산지직송 당일수확 당일발송 전남 영암 진한 당도 홍무화과 특품 1kg 10~16과",
-    "price": 21900,
-    "link": "https://store.kakao.com/seasonfarm2018/products/609318141",
-    "slot_id": "60008",
-    "pgm": "제철맞은 산지직송 홍무화과",
-    "title": "입안 가득 퍼지는 달콤함~!",
-    "category": "식품"
-   },
-   {
-    "start": "17:00",
-    "end": "18:30",
+    "end": "17:21",
     "brand": "신선하랑",
     "product": "9월 28일 순차출고/26년 첫 출하 제주 극조생감귤 4.5kg 9kg 소과 로얄과 대과",
     "price": 40000,
@@ -4788,6 +4788,18 @@
     "slot_id": "60303",
     "pgm": "26년 첫 출하!!",
     "title": "제주 극조생 감귤 특가 오픈",
+    "category": "식품"
+   },
+   {
+    "start": "18:00",
+    "end": "19:30",
+    "brand": "월간제철",
+    "product": "[GAP 인증] 산지직송 당일수확 당일발송 전남 영암 진한 당도 홍무화과 특품 1kg 10~16과",
+    "price": 21900,
+    "link": "https://store.kakao.com/seasonfarm2018/products/609318141",
+    "slot_id": "60425",
+    "pgm": "제철맞은 산지직송 홍무화과",
+    "title": "입안 가득 퍼지는 달콤함~!",
     "category": "식품"
    },
    {
@@ -4799,7 +4811,7 @@
     "link": "https://store.kakao.com/amorepacific/products/189965992",
     "slot_id": "59740",
     "pgm": "일리윤 ~42% + 5%쿠폰",
-    "title": "라이브중 전원 선로션 증정",
+    "title": "라이브중 전원 로션 증정",
     "category": "뷰티"
    },
    {
@@ -4810,7 +4822,7 @@
     "price": 25000,
     "link": "https://gift.kakao.com/product/14169502?url=product&cId=14169502",
     "slot_id": "59840",
-    "pgm": "BHC와 아시안게임 즐기기",
+    "pgm": "BHC와 대한민국 응원!",
     "title": "치킨+떡볶이 필승 조합",
     "category": "교환권"
    },
@@ -4847,7 +4859,7 @@
     "link": "https://store.kakao.com/shakebaby/products/68017554",
     "slot_id": "59820",
     "pgm": "쉐이크베이비 1+1 톡딜특가",
-    "title": "연휴 전 마지막 배송 기회",
+    "title": "황금연휴 마지막 특가!",
     "category": "식품"
    },
    {
@@ -5030,8 +5042,8 @@
     "price": 25900,
     "link": "https://gift.kakao.com/product/1309530?url=product&cId=1309530",
     "slot_id": "60350",
-    "pgm": "화제의 포켓몬X스팸부터",
-    "title": "카카오프렌즈 에디션까지!",
+    "pgm": "추석 전 마지막 라이브",
+    "title": "선물하기로 마음 전해요",
     "category": "식품",
     "rerun": true,
     "rerun_of": "59774"
@@ -5345,7 +5357,7 @@
     "end": "13:00",
     "brand": "풀무원가전",
     "product": "스팀쿡 마스터+ 듀얼스팀 오븐 에어프라이어 20L",
-    "price": 349000,
+    "price": 350000,
     "link": "https://store.kakao.com/pulmuone/products/706537720",
     "slot_id": "60197",
     "pgm": "스팀쿡 추석맞이 특가!",
@@ -5404,8 +5416,8 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "브라운공식스토어",
-    "product": "[BRAUN] 브라운 전기면도기 시리즈9 PRO+ 울트라 씬 세척&충전스테이션 전용날망 번들 에디션",
-    "price": 379000,
+    "product": "[BRAUN] 브라운 전기면도기 시리즈9 PRO+ 울트라 씬 세척&충전스테이션 전용 날망 번들 에디션 + 추가 사은품 증정",
+    "price": 799100,
     "link": "https://store.kakao.com/braunoralb/products/785234938",
     "slot_id": "60090",
     "pgm": "브라운 울트라씬 특가할인",
@@ -5442,7 +5454,7 @@
     "start": "11:30",
     "end": "13:00",
     "brand": "블루나 도리도리 물티슈",
-    "product": "[70평량 엠보싱] 블루나 더퍼스트 물티슈 블루 70매 20팩",
+    "product": "[10+10팩] 블루나 물티슈 블루 70평량, 70매 20팩 외 고평량 특가",
     "price": 47900,
     "link": "https://store.kakao.com/jaywave/products/47536873",
     "slot_id": "59824",
@@ -5553,7 +5565,7 @@
     "end": "10:30",
     "brand": "신일전자 온라인스토어",
     "product": "신일 전기히터 2IN1 카본 탄소발열 히터 온풍기",
-    "price": 128000,
+    "price": 198000,
     "link": "https://store.kakao.com/shinilonline/products/632210789",
     "slot_id": "60409",
     "pgm": "신일 전기 히터 난로 가습기",
