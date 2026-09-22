@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-22T12:30:44+09:00",
+ "generated_at": "2026-09-22T12:47:40+09:00",
  "today": "2026-09-22",
  "dates": [
   "2026-09-21",
@@ -7841,7 +7841,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -9254,7 +9254,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 5
     },
     {
      "start": "12:00",
@@ -20400,7 +20400,7 @@ window.SCHEDULE = {
      "slot_id": "252429",
      "pgm": "[한가위 빅세일] LG그램&모니터 마지막 특가세일!",
      "category": "디지털·PC",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "11:00",
