@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-22T10:58:35+09:00",
+ "generated_at": "2026-09-22T11:15:51+09:00",
  "today": "2026-09-22",
  "dates": [
   "2026-09-21",
@@ -2138,8 +2138,7 @@ window.SCHEDULE = {
      "title": "애프터 잇솔지🔥 셀렙샵 26FW 방송 중 1시간 쿠폰 10% + 사은품",
      "pgm": "잇솔지",
      "pgm_cd": "1109",
-     "cast": "influencer",
-     "hot": 7
+     "cast": "influencer"
     },
     {
      "start": "11:00",
@@ -7234,8 +7233,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 8
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -7279,8 +7277,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프",
-     "hot": 9
+     "category": "라이프"
     },
     {
      "start": "10:00",
@@ -7337,7 +7334,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -7393,7 +7390,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -8286,7 +8283,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -16850,8 +16848,7 @@ window.SCHEDULE = {
      "slot_id": "59598",
      "pgm": "코피코 캔디&레이즈 감자칩",
      "title": "랑네제 꿀 선물세트 특가",
-     "category": "식품",
-     "hot": 10
+     "category": "식품"
     },
     {
      "start": "08:30",
@@ -16888,7 +16885,7 @@ window.SCHEDULE = {
      "pgm": "가을에도 스케쳐스",
      "title": "성인화&키즈 추석 특가 찬스",
      "category": "패션",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -17944,8 +17941,8 @@ window.SCHEDULE = {
    "2026-09-21",
    "2026-09-22"
   ],
-  "matched": 15,
-  "unmatched": 5
+  "matched": 12,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
