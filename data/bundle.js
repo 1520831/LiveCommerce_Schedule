@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-23T07:57:53+09:00",
+ "generated_at": "2026-09-23T08:12:44+09:00",
  "today": "2026-09-23",
  "dates": [
   "2026-09-22",
@@ -398,7 +398,7 @@ window.SCHEDULE = {
      ],
      "title": "⏰잠시 후 종료! 알레보 라이브 특별가",
      "pgm": "[재방] 알레보 (P.D.Lab)",
-     "hot": 3
+     "hot": 6
     },
     {
      "start": "08:00",
@@ -19734,7 +19734,7 @@ window.SCHEDULE = {
    "2026-09-23"
   ],
   "matched": 8,
-  "unmatched": 11
+  "unmatched": 12
  },
  "fixed": {
   "rows": [
