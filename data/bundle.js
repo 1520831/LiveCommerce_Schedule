@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-22T08:54:43+09:00",
+ "generated_at": "2026-09-22T09:12:20+09:00",
  "today": "2026-09-22",
  "dates": [
   "2026-09-21",
@@ -452,8 +452,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[노블리타] 이태리 18K 주얼리 월 7천원대부터~",
-     "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 1
+     "pgm": "[재방] 노블리타 (노블레스)"
     },
     {
      "start": "07:00",
@@ -16844,7 +16843,8 @@ window.SCHEDULE = {
      "slot_id": "59598",
      "pgm": "코피코 캔디&레이즈 감자칩",
      "title": "랑네제 꿀 선물세트 특가",
-     "category": "식품"
+     "category": "식품",
+     "hot": 2
     },
     {
      "start": "08:30",
@@ -16857,7 +16857,7 @@ window.SCHEDULE = {
      "pgm": "JMW 추석맞이 카쇼라 특가",
      "title": "보름달처럼 풍성한 혜택!",
      "category": "뷰티",
-     "hot": 5
+     "hot": 3
     },
     {
      "start": "08:30",
@@ -16882,7 +16882,7 @@ window.SCHEDULE = {
      "pgm": "가을에도 스케쳐스",
      "title": "성인화&키즈 추석 특가 찬스",
      "category": "패션",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "10:00",
