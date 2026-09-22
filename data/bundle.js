@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-22T16:25:54+09:00",
+ "generated_at": "2026-09-22T16:39:59+09:00",
  "today": "2026-09-22",
  "dates": [
   "2026-09-21",
@@ -7787,7 +7787,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -20426,7 +20426,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]한가위빅세일×LG가전 추석맞이 인기템 최대혜택",
      "rerun": true,
      "category": "가전",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "11:00",
