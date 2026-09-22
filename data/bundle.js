@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-22T10:48:49+09:00",
+ "generated_at": "2026-09-22T10:58:35+09:00",
  "today": "2026-09-22",
  "dates": [
   "2026-09-21",
@@ -7280,7 +7280,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 10
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -16851,7 +16851,7 @@ window.SCHEDULE = {
      "pgm": "코피코 캔디&레이즈 감자칩",
      "title": "랑네제 꿀 선물세트 특가",
      "category": "식품",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "08:30",
