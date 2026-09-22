@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-22T12:14:22+09:00",
+ "generated_at": "2026-09-22T12:30:44+09:00",
  "today": "2026-09-22",
  "dates": [
   "2026-09-21",
@@ -7787,7 +7787,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -8706,8 +8706,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -9254,7 +9253,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 7
     },
     {
      "start": "12:00",
@@ -20425,7 +20425,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]한가위빅세일×LG가전 추석맞이 인기템 최대혜택",
      "rerun": true,
      "category": "가전",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "11:00",
