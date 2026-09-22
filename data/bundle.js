@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-22T10:21:25+09:00",
+ "generated_at": "2026-09-22T10:38:35+09:00",
  "today": "2026-09-22",
  "dates": [
   "2026-09-21",
@@ -2138,7 +2138,8 @@ window.SCHEDULE = {
      "title": "애프터 잇솔지🔥 셀렙샵 26FW 방송 중 1시간 쿠폰 10% + 사은품",
      "pgm": "잇솔지",
      "pgm_cd": "1109",
-     "cast": "influencer"
+     "cast": "influencer",
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -7277,7 +7278,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -7309,7 +7311,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -16232,7 +16234,7 @@ window.SCHEDULE = {
      "slot_id": "252429",
      "pgm": "[한가위 빅세일] LG그램&모니터 마지막 특가세일!",
      "category": "디지털·PC",
-     "hot": 8
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -16848,7 +16850,7 @@ window.SCHEDULE = {
      "pgm": "코피코 캔디&레이즈 감자칩",
      "title": "랑네제 꿀 선물세트 특가",
      "category": "식품",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "08:30",
@@ -16861,7 +16863,7 @@ window.SCHEDULE = {
      "pgm": "JMW 추석맞이 카쇼라 특가",
      "title": "보름달처럼 풍성한 혜택!",
      "category": "뷰티",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "08:30",
@@ -16886,7 +16888,7 @@ window.SCHEDULE = {
      "pgm": "가을에도 스케쳐스",
      "title": "성인화&키즈 추석 특가 찬스",
      "category": "패션",
-     "hot": 2
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -17942,8 +17944,8 @@ window.SCHEDULE = {
    "2026-09-21",
    "2026-09-22"
   ],
-  "matched": 13,
-  "unmatched": 7
+  "matched": 15,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
