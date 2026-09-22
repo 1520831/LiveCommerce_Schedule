@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-22T09:51:35+09:00",
+ "generated_at": "2026-09-22T10:07:58+09:00",
  "today": "2026-09-22",
  "dates": [
   "2026-09-21",
@@ -7332,7 +7332,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -7619,7 +7620,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -16869,7 +16871,7 @@ window.SCHEDULE = {
      "pgm": "신세계푸드 등심/치즈돈까스",
      "title": "추석 전 간편식 파티!",
      "category": "식품",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "08:30",
@@ -17938,8 +17940,8 @@ window.SCHEDULE = {
    "2026-09-21",
    "2026-09-22"
   ],
-  "matched": 9,
-  "unmatched": 11
+  "matched": 11,
+  "unmatched": 9
  },
  "fixed": {
   "rows": [
