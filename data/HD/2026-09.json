@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-22T18:13:24+09:00",
+ "updated_at": "2026-09-22T23:47:03+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -8595,6 +8595,24 @@
     ],
     "title": "[명품특별전] 셀린느 40만원대 타임 찬스",
     "pgm": "명품특별전 (노블레스)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "주크",
+    "product": "퀼팅 구스 다운점퍼 Z254PSG807 Z254PSG807",
+    "price": 229700,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253563349",
+    "slot_id": "202609226017",
+    "items": [
+     {
+      "brand": "주크",
+      "product": "퀼팅 구스 다운점퍼 Z254PSG807 Z254PSG807",
+      "price": 229700,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253563349"
+     }
+    ],
+    "title": "쥬크의 간절기 이너·외투🥼 이월+신상 ~78%▼"
    }
   ],
   "2026-09-23": [
@@ -9827,14 +9845,14 @@
     "end": "15:59",
     "brand": "다우닝가구",
     "product": "[네이버페이 5천][다우닝] 클로 3인 전체 천연가죽 소파",
-    "price": 2000000,
+    "price": 1960000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2240411570",
     "slot_id": "202609276018",
     "items": [
      {
       "brand": "다우닝가구",
       "product": "[네이버페이 5천][다우닝] 클로 3인 전체 천연가죽 소파",
-      "price": 2000000,
+      "price": 1960000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2240411570"
      }
     ],
