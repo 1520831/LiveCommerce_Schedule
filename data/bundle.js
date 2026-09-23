@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-23T11:39:58+09:00",
+ "generated_at": "2026-09-23T11:51:59+09:00",
  "today": "2026-09-23",
  "dates": [
   "2026-09-22",
@@ -454,7 +454,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 프라다/르메르 인기 가방 득템 찬스",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -2593,7 +2593,8 @@ window.SCHEDULE = {
      "title": "바이림 애프터 세일💗 바니스뉴욕 역시즌 한정 수량, 단독 특가!",
      "pgm": "바이림",
      "pgm_cd": "0092",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 10
     },
     {
      "start": "12:00",
@@ -7756,7 +7757,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "패션",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -18487,7 +18488,7 @@ window.SCHEDULE = {
      "pgm": "동아오츠카 음료 최대 혜택!",
      "title": "나랑드사이다 최대 ~39%",
      "category": "식품",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "08:30",
@@ -18512,7 +18513,7 @@ window.SCHEDULE = {
      "pgm": "스킨푸드 라이브 중~80%",
      "title": "5만원 이상 크림 본품 증정",
      "category": "뷰티",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -18585,7 +18586,7 @@ window.SCHEDULE = {
      "pgm": "베베숲 고평량 인기 세트",
      "title": "아기 물티슈 판매 1위",
      "category": "키즈",
-     "hot": 9
+     "hot": 5
     },
     {
      "start": "11:30",
@@ -19737,8 +19738,8 @@ window.SCHEDULE = {
    "2026-09-22",
    "2026-09-23"
   ],
-  "matched": 12,
-  "unmatched": 8
+  "matched": 13,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
