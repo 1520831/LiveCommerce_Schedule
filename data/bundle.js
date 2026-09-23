@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-23T16:10:19+09:00",
+ "generated_at": "2026-09-23T16:31:13+09:00",
  "today": "2026-09-23",
  "dates": [
   "2026-09-22",
@@ -454,7 +454,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 프라다/르메르 인기 가방 득템 찬스",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -21484,8 +21484,7 @@ window.SCHEDULE = {
      "slot_id": "59884",
      "pgm": "동아오츠카 음료 최대 혜택!",
      "title": "나랑드사이다 최대 ~39%",
-     "category": "식품",
-     "hot": 10
+     "category": "식품"
     },
     {
      "start": "08:30",
@@ -22735,8 +22734,8 @@ window.SCHEDULE = {
    "2026-09-22",
    "2026-09-23"
   ],
-  "matched": 14,
-  "unmatched": 6
+  "matched": 13,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
