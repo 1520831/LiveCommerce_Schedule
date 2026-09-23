@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-24T08:48:38+09:00",
+ "generated_at": "2026-09-24T08:57:56+09:00",
  "today": "2026-09-24",
  "dates": [
   "2026-09-23",
@@ -456,7 +456,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[프로쉬] 식세기 세제&세탁세제 등 홈케어 특집!",
-     "pgm": "[재방] 프로쉬 세제 (리빙)"
+     "pgm": "[재방] 프로쉬 세제 (리빙)",
+     "hot": 10
     },
     {
      "start": "09:00",
@@ -23093,8 +23094,8 @@ window.SCHEDULE = {
    "2026-09-23",
    "2026-09-24"
   ],
-  "matched": 11,
-  "unmatched": 8
+  "matched": 12,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
