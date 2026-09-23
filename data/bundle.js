@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-23T21:18:30+09:00",
+ "generated_at": "2026-09-23T21:38:11+09:00",
  "today": "2026-09-23",
  "dates": [
   "2026-09-22",
@@ -493,7 +493,7 @@ window.SCHEDULE = {
      ],
      "title": "[맛춤가게] 하남쭈꾸미 & 오징어",
      "pgm": "맛춤가게 (식품)",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "12:00",
@@ -721,7 +721,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[현명쇼] 프라다 15만▼ 전 상품 무이자 60개월",
-     "pgm": "현명쇼(노블레스)"
+     "pgm": "현명쇼(노블레스)",
+     "hot": 6
     },
     {
      "start": "22:00",
@@ -8394,7 +8395,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "패션",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -22754,7 +22755,7 @@ window.SCHEDULE = {
      "pgm": "팸퍼스x카카오",
      "title": "라이브 전 라인 골라담기!",
      "category": "키즈",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "20:30",
@@ -23844,8 +23845,8 @@ window.SCHEDULE = {
    "2026-09-22",
    "2026-09-23"
   ],
-  "matched": 13,
-  "unmatched": 7
+  "matched": 14,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
