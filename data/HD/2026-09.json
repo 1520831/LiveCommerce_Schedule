@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-23T07:10:14+09:00",
+ "updated_at": "2026-09-23T12:09:19+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -8698,14 +8698,14 @@
     "end": "11:59",
     "brand": "제로블럭",
     "product": "프리미엄1200 퍼즐매트 전문가 시공 2.0cm 20평 (120x120x2.0cm)",
-    "price": 3042000,
+    "price": 2862000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2230386210",
     "slot_id": "202609236004",
     "items": [
      {
       "brand": "제로블럭",
       "product": "프리미엄1200 퍼즐매트 전문가 시공 2.0cm 20평 (120x120x2.0cm)",
-      "price": 3042000,
+      "price": 2862000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2230386210"
      }
     ],
@@ -8730,6 +8730,24 @@
     ],
     "title": "[맛춤가게] 하남쭈꾸미 & 오징어",
     "pgm": "맛춤가게 (식품)"
+   },
+   {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "SOUP",
+    "product": "[숲] 코튼 레터링 맨투맨 티셔츠 SC3LT30",
+    "price": 32000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252531469",
+    "slot_id": "202609236025",
+    "items": [
+     {
+      "brand": "SOUP",
+      "product": "[숲] 코튼 레터링 맨투맨 티셔츠 SC3LT30",
+      "price": 32000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252531469"
+     }
+    ],
+    "title": "[SOUP] 로맨틱한 계절의 시작 26FW 데일리룩✨"
    },
    {
     "start": "13:00",
@@ -8768,6 +8786,25 @@
     ],
     "title": "[넘버이즈] 고함량 레몬 애사비 한정수량 80% 쿠폰",
     "pgm": "[넘버이즈] 애사비 (뷰티1)"
+   },
+   {
+    "start": "14:00",
+    "end": "14:59",
+    "brand": "메트로시티",
+    "product": "라 로사 14K 로즈 귀걸이 A251GE0067R4H A251GE0067R4H",
+    "price": 880000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250596873",
+    "slot_id": "202609236024",
+    "items": [
+     {
+      "brand": "메트로시티",
+      "product": "라 로사 14K 로즈 귀걸이 A251GE0067R4H A251GE0067R4H",
+      "price": 880000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250596873"
+     }
+    ],
+    "title": "[메트로시티주얼리] 인기 주얼리/시계 특별가 ~66%▼",
+    "pgm": "[재방] 메트로시티 주얼리 (멀티커머스)"
    },
    {
     "start": "15:00",
@@ -9099,14 +9136,14 @@
     "end": "15:59",
     "brand": "루블리",
     "product": "[루블리] GRA인증 모이사나이트 테니스팔찌 3mm+1캐럿 귀걸이",
-    "price": 227700,
+    "price": 198000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253245482",
     "slot_id": "202609246009",
     "items": [
      {
       "brand": "루블리",
       "product": "[루블리] GRA인증 모이사나이트 테니스팔찌 3mm+1캐럿 귀걸이",
-      "price": 227700,
+      "price": 198000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253245482"
      }
     ],
@@ -9169,6 +9206,25 @@
     ],
     "title": "생활용품은 믿고 쓰는 프로그",
     "pgm": "[재방] 프로그 생활용품 (리빙)"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "셀린느",
+    "product": "선글라스(CL40194U)",
+    "price": 498000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252765355",
+    "slot_id": "202609246012",
+    "items": [
+     {
+      "brand": "셀린느",
+      "product": "선글라스(CL40194U)",
+      "price": 498000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252765355"
+     }
+    ],
+    "title": "[명품특별전] 셀린느 40만원대 타임 찬스",
+    "pgm": "[재방] 명품특별전 (노블레스)"
    },
    {
     "start": "20:00",
@@ -9249,6 +9305,25 @@
     "pgm": "[재방] 투명쇼 (패션잡화)"
    },
    {
+    "start": "08:00",
+    "end": "08:59",
+    "brand": "DIFF(디프)",
+    "product": "[디프(DIFF)] 호보백 S 시그니처 (블랙)",
+    "price": 52000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253463885",
+    "slot_id": "202609256017",
+    "items": [
+     {
+      "brand": "DIFF(디프)",
+      "product": "[디프(DIFF)] 호보백 S 시그니처 (블랙)",
+      "price": 52000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253463885"
+     }
+    ],
+    "title": "[디프] 가벼운 데일리백👜 역대급 혜택✨",
+    "pgm": "[재방] diff 가방 (패션잡화)"
+   },
+   {
     "start": "09:00",
     "end": "09:59",
     "brand": "헤지스",
@@ -9306,18 +9381,37 @@
     "pgm": "[잭슨코리아] 유정란"
    },
    {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "에이글로벌",
+    "product": "제우스3 글로우업겔 5개",
+    "price": 168000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250391865",
+    "slot_id": "202609256008",
+    "items": [
+     {
+      "brand": "에이글로벌",
+      "product": "제우스3 글로우업겔 5개",
+      "price": 168000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250391865"
+     }
+    ],
+    "title": "에이글로벌 뷰티 디바이스 특집⭐",
+    "pgm": "[재방] 제우스3 디바이스 (뷰티2)"
+   },
+   {
     "start": "13:00",
     "end": "13:59",
     "brand": "루블리",
     "product": "[루블리] GRA인증 모이사나이트 테니스팔찌 3mm+1캐럿 귀걸이",
-    "price": 227700,
+    "price": 198000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253245482",
     "slot_id": "202609256009",
     "items": [
      {
       "brand": "루블리",
       "product": "[루블리] GRA인증 모이사나이트 테니스팔찌 3mm+1캐럿 귀걸이",
-      "price": 227700,
+      "price": 198000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253245482"
      }
     ],
@@ -9380,6 +9474,25 @@
     ],
     "title": "[해밀턴비치] 진공 흡착 스팀다리미 론칭 특별가",
     "pgm": "[잭슨코리아] 해밀턴비치 스팀다리미 (쇼핑라이브)"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "알레보",
+    "product": "[2025NEW.통3중.IH인덕션 가능] 알레보 디 엣지 프라이팬 리뉴얼 세트(26팬+26웍+사각팬+스텐돔+유리뚜껑)",
+    "price": 159000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2228377985",
+    "slot_id": "202609256012",
+    "items": [
+     {
+      "brand": "알레보",
+      "product": "[2025NEW.통3중.IH인덕션 가능] 알레보 디 엣지 프라이팬 리뉴얼 세트(26팬+26웍+사각팬+스텐돔+유리뚜껑)",
+      "price": 159000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2228377985"
+     }
+    ],
+    "title": "⏰잠시 후 종료! 알레보 라이브 특별가",
+    "pgm": "[재방] 알레보 (P.D.Lab)"
    },
    {
     "start": "20:00",
@@ -9494,7 +9607,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253641568"
      }
     ],
-    "title": "최강희 PICK! 다이아몬드석고팩 & 미스트~55%▼",
+    "title": "최강희 PICK! 다이아몬드석고팩 & 미스트 ~55%▼",
     "pgm": "[오키뷰티] 기초화장품 (뷰티1)"
    },
    {
@@ -9629,6 +9742,25 @@
     ],
     "title": "[로벤트] 하이브리드 바큠 셀렉트세트 라이브 특별가",
     "pgm": "[잭슨코리아] 로벤트 바큠 (쇼핑라이브)"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "DIFF(디프)",
+    "product": "[디프(DIFF)] 호보백 S 시그니처 (블랙)",
+    "price": 52000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253463885",
+    "slot_id": "202609266005",
+    "items": [
+     {
+      "brand": "DIFF(디프)",
+      "product": "[디프(DIFF)] 호보백 S 시그니처 (블랙)",
+      "price": 52000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253463885"
+     }
+    ],
+    "title": "[디프] 가벼운 데일리백 방송에서만 최대 혜택!",
+    "pgm": "[diff] 가방 (패션잡화)"
    },
    {
     "start": "20:00",
@@ -9785,6 +9917,25 @@
     "pgm": "[잭슨코리아] 골드손 리프팅 패치 (쇼핑라이브)"
    },
    {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "모스오브제",
+    "product": "소프트 릴리 플랫 [모스오브제]",
+    "price": 28900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253697055",
+    "slot_id": "202609276004",
+    "items": [
+     {
+      "brand": "모스오브제",
+      "product": "소프트 릴리 플랫 [모스오브제]",
+      "price": 28900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253697055"
+     }
+    ],
+    "title": "[모스오브제] 내 발에 감기는 편안한 신발👠",
+    "pgm": "[스타일오브마인] 모스오브제 잡화 (쇼핑라이브)"
+   },
+   {
     "start": "13:00",
     "end": "13:59",
     "brand": "스타우브",
@@ -9845,14 +9996,14 @@
     "start": "15:00",
     "end": "15:59",
     "brand": "다우닝가구",
-    "product": "[네이버페이 5천][다우닝] 클로 3인 전체 천연가죽 소파",
+    "product": "[다우닝] 클로 3인 전체 천연가죽 소파",
     "price": 1960000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2240411570",
     "slot_id": "202609276018",
     "items": [
      {
       "brand": "다우닝가구",
-      "product": "[네이버페이 5천][다우닝] 클로 3인 전체 천연가죽 소파",
+      "product": "[다우닝] 클로 3인 전체 천연가죽 소파",
       "price": 1960000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2240411570"
      }
@@ -10205,6 +10356,44 @@
     "pgm": "[잭슨코리아] 아노디끄 압력솥 (쇼핑라이브)"
    },
    {
+    "start": "16:00",
+    "end": "16:59",
+    "brand": "카푸네",
+    "product": "샴푸 3개+트리트먼트 3개+헤어토닉 1개+헤어오일 1개 (+ 실리콘 브러쉬 우드 브러쉬 바디워시 30ml)",
+    "price": 119000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253536906",
+    "slot_id": "202609286009",
+    "items": [
+     {
+      "brand": "카푸네",
+      "product": "샴푸 3개+트리트먼트 3개+헤어토닉 1개+헤어오일 1개 (+ 실리콘 브러쉬 우드 브러쉬 바디워시 30ml)",
+      "price": 119000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253536906"
+     }
+    ],
+    "title": "[카푸네] 첫 쇼라 런칭!",
+    "pgm": "[카푸네] 헤어토닉 (액티브라이프)"
+   },
+   {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "해외직구",
+    "product": "[해외배송] 브리짓 타나카 물랑루즈 르 발 백 한정판",
+    "price": 80000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253763091",
+    "slot_id": "202609286010",
+    "items": [
+     {
+      "brand": "해외직구",
+      "product": "[해외배송] 브리짓 타나카 물랑루즈 르 발 백 한정판",
+      "price": 80000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253763091"
+     }
+    ],
+    "title": "[글로벌 쇼라] 유럽 현지 LIVE",
+    "pgm": "[해외직구] 스페인 현지방송"
+   },
+   {
     "start": "18:00",
     "end": "18:59",
     "brand": "에이스침대",
@@ -10224,6 +10413,25 @@
     "pgm": "[에이스침대] 침대/매트리스 (리빙)"
    },
    {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "아서앤그레이스",
+    "product": "샤를린 23 오닉스 블랙",
+    "price": 1820000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2202396221",
+    "slot_id": "202609286012",
+    "items": [
+     {
+      "brand": "아서앤그레이스",
+      "product": "샤를린 23 오닉스 블랙",
+      "price": 1820000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2202396221"
+     }
+    ],
+    "title": "[50% 적립] 아서앤그레이스/프라다 명품 패션 특별전",
+    "pgm": "[50% 적립 명품특별전] (패션잡화)"
+   },
+   {
     "start": "20:00",
     "end": "21:59",
     "brand": "버버리",
@@ -10241,6 +10449,25 @@
     ],
     "title": "[현명쇼] 프라다 7만▼ 무이자 60개월 & 커피쿠폰",
     "pgm": "현명쇼(노블레스)"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "블랙야크",
+    "product": "1BYRTFU902 클라이밍 홀릭 라운드 긴팔티 1BYRTFU902",
+    "price": 39000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252935790",
+    "slot_id": "202609286014",
+    "items": [
+     {
+      "brand": "블랙야크",
+      "product": "1BYRTFU902 클라이밍 홀릭 라운드 긴팔티 1BYRTFU902",
+      "price": 39000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252935790"
+     }
+    ],
+    "title": "[블랙야크] F/W 간절기 베스트 아이템!",
+    "pgm": "[블랙야크] 아웃도어 (멀티커머스)"
    },
    {
     "start": "23:00",

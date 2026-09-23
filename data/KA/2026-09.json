@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-09-23T07:10:30+09:00",
+ "updated_at": "2026-09-23T12:09:33+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -4854,7 +4854,7 @@
   "2026-09-23": [
    {
     "start": "08:30",
-    "end": "10:00",
+    "end": "09:50",
     "brand": "동아오츠카SHOP",
     "product": "나랑드사이다 모음전 (오리지널,그린애플,파인애플) - 9/28부터 순차배송",
     "price": 16500,
@@ -4866,7 +4866,7 @@
    },
    {
     "start": "08:30",
-    "end": "11:30",
+    "end": "09:52",
     "brand": "티르리르",
     "product": "티르리르 랩다이아 리엘 러브듀 화이트 실버 목걸이/귀걸이 세트 (A/S가능)",
     "price": 146000,
@@ -4878,11 +4878,11 @@
    },
    {
     "start": "08:30",
-    "end": "11:30",
+    "end": "09:51",
     "brand": "스킨푸드 본사직영",
-    "product": "[총110매/NEW] 당근 피디알엔 속수분 패드 100매 + (증정)당근 피디알엔 속수분 패드 2매입 5개",
-    "price": 15500,
-    "link": "https://store.kakao.com/theskinfood/products/792135493",
+    "product": "[패드리필3+2/총5개] 패드리필 30매*3개+(증정)리필30매*2개+수비드브로콜리마스크*5매",
+    "price": 39000,
+    "link": "https://store.kakao.com/theskinfood/products/190549698",
     "slot_id": "60006",
     "pgm": "스킨푸드 라이브 중~80%",
     "title": "5만원 이상 크림 본품 증정",
@@ -4890,19 +4890,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
-    "brand": "농협안심한우",
-    "product": "농협안심한우 1등급 '소소한 행복' 선물세트 1kg(등심200g+채끝150g+부채150g+국거리200g+불고기300g)",
-    "price": 100000,
-    "link": "https://gift.kakao.com/product/1304069?url=product&cId=1304069",
-    "slot_id": "59837",
-    "pgm": "농협 명품 투뿔 1++한우",
-    "title": "연휴 전 전하는 고마운 마음",
-    "category": "식품"
-   },
-   {
-    "start": "10:00",
-    "end": "11:30",
+    "end": "11:00",
     "brand": "듀얼소닉",
     "product": "듀얼소닉 글림빛 세모 플러스 (물광 진정 4in1 물방울초음파 테크)",
     "price": 349000,
@@ -4914,7 +4902,7 @@
    },
    {
     "start": "10:00",
-    "end": "13:00",
+    "end": "11:01",
     "brand": "폴레드",
     "product": "[폴레드 픽셀] 직접살균 UVC LED 젖병소독기 모음",
     "price": 425000,
@@ -4925,8 +4913,20 @@
     "category": "키즈"
    },
    {
+    "start": "10:30",
+    "end": "11:32",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49900,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "60395",
+    "pgm": "터치그라운드 발편한운동화",
+    "title": "가벼우면서 쿠션감 좋은운동화",
+    "category": "패션"
+   },
+   {
     "start": "11:00",
-    "end": "12:30",
+    "end": "11:19",
     "brand": "신선하랑",
     "product": "26년 햇 달콤한 신품종 호풍미 호박고구마 3kg 5kg 못난이",
     "price": 55000,
@@ -4938,14 +4938,14 @@
    },
    {
     "start": "11:00",
-    "end": "12:30",
+    "end": "12:00",
     "brand": "퓨어잇",
     "product": "한봉부터 골라담는 퓨어잇 유기농 떡뻥 과일칩 아기간식 김 보리차",
-    "price": 2300,
+    "price": 1500,
     "link": "https://store.kakao.com/pureat/products/36508405",
     "slot_id": "60376",
     "pgm": "한봉부터 골라담는 아이간식",
-    "title": "[10+1] 라이브 특가!",
+    "title": "라이브 특가!",
     "category": "키즈"
    },
    {
@@ -4968,7 +4968,7 @@
     "price": 41400,
     "link": "https://store.kakao.com/inertia/products/570823642",
     "slot_id": "60331",
-    "pgm": "이너시아 유기농생리대 쟁이기",
+    "pgm": "이너시아 유기농 생리대",
     "title": "추석맞이 초특가 &사은품",
     "category": "리빙"
    },
@@ -5069,18 +5069,6 @@
     "pgm": "산숲 신규입점 라이브",
     "title": "간편하게 애재올 한 포",
     "category": "식품"
-   },
-   {
-    "start": "22:30",
-    "end": "00:00",
-    "brand": "터치그라운드 스니커즈",
-    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-    "price": 49900,
-    "link": "https://store.kakao.com/touchground/products/774098244",
-    "slot_id": "60395",
-    "pgm": "터치그라운드 발편한운동화",
-    "title": "가벼우면서 쿠션감 좋은운동화",
-    "category": "패션"
    }
   ],
   "2026-09-24": [
@@ -5208,9 +5196,9 @@
     "start": "19:00",
     "end": "20:30",
     "brand": "달심",
-    "product": "[모닝클렌즈] 달심 ABC주스 (달심ver. 외 1종) 30일",
-    "price": 59100,
-    "link": "https://store.kakao.com/dalsim/products/249719120",
+    "product": "[모닝 클렌즈] 달심 CCA주스 30일 (까주스 클렌즈)",
+    "price": 77300,
+    "link": "https://store.kakao.com/dalsim/products/323027820",
     "slot_id": "59879",
     "pgm": "명절 폭식 관리엔 달심!",
     "title": "최대 50% 할인 단독 특가",
@@ -5232,7 +5220,7 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "헬스헬퍼",
-    "product": "[공식] 헬스헬퍼 맥스컷 프로 크롬 60캡슐/에메랄드워터 14포/허리업 10포/다이글로메라 1박스",
+    "product": "[공식] 헬스헬퍼 맥스컷 프로 크롬 60캡슐/에메랄드워터 14포/허리업 10포/다이글로메라 1박스 (증정)컷팅젤리+쇼핑백",
     "price": 72500,
     "link": "https://store.kakao.com/healthhelper/products/768405833",
     "slot_id": "59882",
@@ -5286,8 +5274,8 @@
     "price": 38900,
     "link": "https://gift.kakao.com/product/13722550?url=product&cId=13722550",
     "slot_id": "60002",
-    "pgm": "슬룸 마사지기 추석 특가",
-    "title": "선물하기 추석 프로모션",
+    "pgm": "슬룸 부위별 효도 마사지기",
+    "title": "추석 맞이 최대 64%",
     "category": "리빙"
    },
    {
@@ -5319,7 +5307,7 @@
     "end": "20:30",
     "brand": "얼라인랩",
     "product": "세상에서 가장 작은 마사지샵 | EMS+TENS 저주파 승모근+종아리+팔뚝 전신 마사지기 얼라인랩 릴렉스 미니EMS마사지기",
-    "price": 35900,
+    "price": 32900,
     "link": "https://gift.kakao.com/product/13802123?url=product&cId=13802123",
     "slot_id": "60049",
     "pgm": "추석 선물 추천! 얼라인랩",
@@ -5737,6 +5725,18 @@
     "pgm": "스튜디오담 투명 발매트",
     "title": "카카오 첫 라이브 특가",
     "category": "리빙"
+   },
+   {
+    "start": "22:30",
+    "end": "00:00",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49900,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "60432",
+    "pgm": "터치그라운드 발편한운동화",
+    "title": "가벼우면서 쿠션감 좋은운동화",
+    "category": "패션"
    }
   ],
   "2026-09-28": [
@@ -5840,8 +5840,8 @@
     "start": "10:00",
     "end": "11:30",
     "brand": "오브제그랑스",
-    "product": "[1+1+1] 오브제그랑스 디퓨저 170ml | 호텔pick | 화제의 향기 브랜드 론칭",
-    "price": 57600,
+    "product": "[2+2] 오브제그랑스 보습 핸드크림 30ml | 호텔pick | 화제의 향기 브랜드",
+    "price": 56000,
     "link": "https://store.kakao.com/objegrance/products/768707212",
     "slot_id": "60354",
     "pgm": "오브제그랑스 퍼퓸 핸드크림",
@@ -5962,9 +5962,9 @@
     "start": "19:00",
     "end": "22:00",
     "brand": "키엘",
-    "product": "72시간 수분장벽! 키엘 수분크림 125ml 세트 (+스패출러, 칼렌듈라 클렌저 120ml)",
-    "price": 95000,
-    "link": "https://gift.kakao.com/product/11144559?url=product&cId=11144559",
+    "product": "울트라 훼이셜 메디크림 50ml+14ml 세트 (총 64ml 용량, 스패출러 증정)",
+    "price": 54000,
+    "link": "https://gift.kakao.com/product/12672848?url=product&cId=12672848",
     "slot_id": "60037",
     "pgm": "키엘 메디크림&메디립 외",
     "title": "방송중 선착순 메디 립 증정",
@@ -6038,7 +6038,7 @@
     "price": 72000,
     "link": "https://store.kakao.com/jsoop/products/332051106",
     "slot_id": "60183",
-    "pgm": "제이숲 1+1 베스트 헤어템",
+    "pgm": "제이숲 브랜드데이 1+1",
     "title": "안심케어 단독특가!",
     "category": "뷰티"
    },
@@ -6079,16 +6079,16 @@
     "category": "뷰티"
    },
    {
-    "start": "20:50",
-    "end": "22:20",
-    "brand": "닥터치카",
-    "product": "6 set 치과의사가 만든 닥터치카 어린이 고불소 치약 주니어 초등학생 유아 키즈 아기 충치 예방 불소 1450 80g",
-    "price": 44300,
-    "link": "https://store.kakao.com/drchika/products/173286573",
-    "slot_id": "60180",
-    "pgm": "은우야X닥터치카1450",
-    "title": "고불소치약 런칭특가",
-    "category": "리빙"
+    "start": "22:30",
+    "end": "00:00",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49900,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "60433",
+    "pgm": "터치그라운드 쿠셔닝슬리퍼",
+    "title": "날도 더워지는데 구매각?!",
+    "category": "패션"
    }
   ]
  }
