@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-23T12:40:21+09:00",
+ "generated_at": "2026-09-23T12:56:25+09:00",
  "today": "2026-09-23",
  "dates": [
   "2026-09-22",
@@ -492,7 +492,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[맛춤가게] 하남쭈꾸미 & 오징어",
-     "pgm": "맛춤가게 (식품)"
+     "pgm": "맛춤가게 (식품)",
+     "hot": 8
     },
     {
      "start": "12:00",
@@ -8693,8 +8694,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "패션",
-     "hot": 10
+     "category": "패션"
     },
     {
      "start": "12:30",
@@ -20759,7 +20759,7 @@ window.SCHEDULE = {
      "pgm": "동아오츠카 음료 최대 혜택!",
      "title": "나랑드사이다 최대 ~39%",
      "category": "식품",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "08:30",
