@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-23T12:09:19+09:00",
+ "updated_at": "2026-09-23T14:54:53+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -8747,7 +8747,8 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252531469"
      }
     ],
-    "title": "[SOUP] 로맨틱한 계절의 시작 26FW 데일리룩✨"
+    "title": "[SOUP] 로맨틱한 계절의 시작 26FW 데일리룩✨",
+    "pgm": "[재방] 백화점 프리오픈쇼(멀티커머스)"
    },
    {
     "start": "13:00",
@@ -8763,6 +8764,12 @@
       "product": "26FW 프리미엄피플컬러배럴데님",
       "price": 79000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253084128"
+     },
+     {
+      "brand": "피플오브더월드",
+      "product": "25FW 시그니처 로고 아플리케 슬리브",
+      "price": 19900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247068477"
      }
     ],
     "title": "[피플오브더월드] 가을무드 완성🤎 무료 교환, 배송",
@@ -8900,6 +8907,25 @@
     ],
     "title": "[고비] TV 방송보다 먼저 보여드리는 26FW 신상품",
     "pgm": "[재방] 고비 (패션1Lab)"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "제로블럭",
+    "product": "프리미엄1200 퍼즐매트 전문가 시공 2.0cm 20평 (120x120x2.0cm)",
+    "price": 2862000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2230386210",
+    "slot_id": "202609236023",
+    "items": [
+     {
+      "brand": "제로블럭",
+      "product": "프리미엄1200 퍼즐매트 전문가 시공 2.0cm 20평 (120x120x2.0cm)",
+      "price": 2862000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2230386210"
+     }
+    ],
+    "title": "[파크론 제로블럭] 프리미엄 시공매트 소음걱정 ZERO",
+    "pgm": "[재방] 파크론 제로블럭 (액티브라이프)"
    },
    {
     "start": "20:00",
@@ -9050,6 +9076,12 @@
       "product": "보테가베네타 239988 V3UN1 1275 (239988 V0016 8175) 인트레치아토 스몰 숄더백",
       "price": 2750000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253348263"
+     },
+     {
+      "brand": "더로우(the row)",
+      "product": "더로우 W1709-L614 BLACK ANS 90S 라운드 탑 핸들 토트백",
+      "price": 2290000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253476130"
      }
     ],
     "title": "[투명쇼] 막스마라 코트 60개월 무이자 찬스!",
@@ -9527,6 +9559,12 @@
       "product": "보테가베네타 239988 V3UN1 1275 (239988 V0016 8175) 인트레치아토 스몰 숄더백",
       "price": 2750000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253348263"
+     },
+     {
+      "brand": "더로우(the row)",
+      "product": "더로우 W1709-L614 BLACK ANS 90S 라운드 탑 핸들 토트백",
+      "price": 2290000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253476130"
      }
     ],
     "title": "[투명쇼] 막스마라 코트 60개월 무이자 찬스!",
