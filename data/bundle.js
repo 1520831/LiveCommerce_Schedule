@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-24T00:18:12+09:00",
+ "generated_at": "2026-09-24T00:33:49+09:00",
  "today": "2026-09-24",
  "dates": [
   "2026-09-23",
@@ -456,7 +456,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이태리 18K 체인주얼리 최저가 도전",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "08:00",
@@ -19614,7 +19614,7 @@ window.SCHEDULE = {
    "2026-09-24"
   ],
   "matched": 9,
-  "unmatched": 4
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
