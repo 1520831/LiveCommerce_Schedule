@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-23T09:22:20+09:00",
+ "generated_at": "2026-09-23T09:42:30+09:00",
  "today": "2026-09-23",
  "dates": [
   "2026-09-22",
@@ -434,7 +434,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[메트로시티주얼리] 인기 주얼리/시계 특별가 ~66%▼",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -18509,7 +18510,7 @@ window.SCHEDULE = {
      "pgm": "스킨푸드 라이브 중~80%",
      "title": "5만원 이상 크림 본품 증정",
      "category": "뷰티",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -19733,8 +19734,8 @@ window.SCHEDULE = {
    "2026-09-22",
    "2026-09-23"
   ],
-  "matched": 8,
-  "unmatched": 12
+  "matched": 9,
+  "unmatched": 11
  },
  "fixed": {
   "rows": [
