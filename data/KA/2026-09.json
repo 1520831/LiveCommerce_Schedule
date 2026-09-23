@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-09-23T14:55:09+09:00",
+ "updated_at": "2026-09-23T18:13:47+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -4743,18 +4743,6 @@
     "category": "리빙"
    },
    {
-    "start": "15:00",
-    "end": "15:59",
-    "brand": "온라인가구닷컴",
-    "product": "보루네오 파비앙 비건레더 모션 무빙 슬라이딩 리클라이닝 전동 소파 4인",
-    "price": 2156250,
-    "link": "https://store.kakao.com/onlinegagu/products/792970390",
-    "slot_id": "60413",
-    "pgm": "보루네오 모션 슬라이딩 소파",
-    "title": "추석 통큰 세일~!",
-    "category": "리빙"
-   },
-   {
     "start": "16:00",
     "end": "17:01",
     "brand": "온라인가구닷컴",
@@ -4973,11 +4961,23 @@
     "category": "리빙"
    },
    {
+    "start": "16:00",
+    "end": "17:02",
+    "brand": "온라인가구닷컴",
+    "product": "보루네오 파비앙 비건레더 모션 무빙 슬라이딩 리클라이닝 전동 소파 4인",
+    "price": 2156250,
+    "link": "https://store.kakao.com/onlinegagu/products/792970390",
+    "slot_id": "60440",
+    "pgm": "보루네오 모션 슬라이딩 소파",
+    "title": "추석 통큰 세일~!",
+    "category": "리빙"
+   },
+   {
     "start": "17:00",
-    "end": "18:30",
+    "end": "18:00",
     "brand": "명태잡는날",
     "product": "[명태잡는날] 속초 명태회무침 400g, 1kg 외 밥도둑 젓갈 모음",
-    "price": 10900,
+    "price": 20900,
     "link": "https://store.kakao.com/myeontae/products/97653773",
     "slot_id": "60069",
     "pgm": "속초식 명태회무침 특집",
@@ -5003,7 +5003,7 @@
     "end": "20:30",
     "brand": "라이온코리아",
     "product": "비트 캡슐세제 몬스터팟 25입x2개+탈취부스터 26개입+ 세탁조 클리너 8개입+몬스터팟 5입 증정(옵션선택)",
-    "price": 49000,
+    "price": 69900,
     "link": "https://store.kakao.com/lionkorea/products/691958948",
     "slot_id": "60115",
     "pgm": "아이깨끗해&비트캡슐 단독특가",
@@ -5030,8 +5030,8 @@
     "price": 133800,
     "link": "https://store.kakao.com/klenheim/products/735764139",
     "slot_id": "59594",
-    "pgm": "프리미엄 마사지기 클렌하임",
-    "title": "근막이완부터 붓기관리까지!",
+    "pgm": "클렌하임 바디탭 마사지기",
+    "title": "추석 건강 선물",
     "category": "테크"
    },
    {
@@ -5185,7 +5185,7 @@
     "end": "22:00",
     "brand": "미스터밀크",
     "product": "제주 성이시돌 목장 젤라또 파인트 3개 골라담기",
-    "price": 34900,
+    "price": 53700,
     "link": "https://store.kakao.com/mrmilk/products/383776492",
     "slot_id": "59604",
     "pgm": "제주 성이시돌 목장 젤라또",
@@ -5526,7 +5526,7 @@
     "start": "10:00",
     "end": "13:00",
     "brand": "마미케어공식스토어",
-    "product": "[마미케어] 들깨기미크림 업그레이드 2세대+증정",
+    "product": "[마미케어] 약국 1등 기미크림 2세대 업그레이드! 더욱 강력해진 들깨기미크림 단독 특가+사은품 추가 증정!",
     "price": 100000,
     "link": "https://store.kakao.com/mommycare/products/238332679",
     "slot_id": "60012",
@@ -6027,7 +6027,7 @@
     "link": "https://store.kakao.com/samlip/products/615274644",
     "slot_id": "59968",
     "pgm": "닭가슴살/치즈볼/포켓몬빵",
-    "title": "9월 마지막 세일",
+    "title": "9월 마지막 세일 ~52%",
     "category": "식품"
    },
    {

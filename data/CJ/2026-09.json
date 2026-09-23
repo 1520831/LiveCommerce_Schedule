@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-09-23T14:54:59+09:00",
+ "updated_at": "2026-09-23T18:13:38+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -11033,7 +11033,7 @@
     "start": "11:00",
     "end": "11:59",
     "brand": "바오먼트",
-    "product": "한정수량 바오먼트 쿡플레이트 스퀘어 풀세트",
+    "product": "바오먼트 쿡플레이트 스퀘어 풀세트",
     "price": 179000,
     "link": "https://item.cjonstyle.com/item/2080540412?channelCode=30002002",
     "slot_id": "29732",
@@ -11268,7 +11268,7 @@
     "end": "20:59",
     "brand": "한국금거래소",
     "product": "골드바 3.75g",
-    "price": 945920,
+    "price": 926010,
     "link": "https://item.cjonstyle.com/item/2076536118?channelCode=30002002",
     "slot_id": "29738",
     "title": "한국 금거래소 단 하루 특가 LIVE",
@@ -11567,7 +11567,7 @@
     "end": "14:59",
     "brand": "토리든",
     "product": "[내일오네] [NEW] 다이브인 저분자 히알루론산 세럼 50ml * 4개 + 수딩크림 * 2개 + 다이브인 필링젤 150ml + 다이브인 트라이얼",
-    "price": 78000,
+    "price": 136000,
     "link": "https://item.cjonstyle.com/item/2089793735?channelCode=30002002",
     "slot_id": "29914",
     "title": "다시보는 수분명가 토리든x겟잇스타일🩵 방송에서만 최대 할인가!",
@@ -12475,14 +12475,15 @@
    {
     "start": "21:40",
     "end": "22:44",
-    "brand": "",
-    "product": "애프터라이브❤️르네디피/까사렐 26FW 신상품 할인",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/29757",
+    "brand": "르네디피",
+    "product": "26FW 엑스트라 파인울 100 시어니트 1+1",
+    "price": 99900,
+    "link": "https://item.cjonstyle.com/item/2092468422?channelCode=30002002",
     "slot_id": "29757",
     "title": "애프터라이브❤️르네디피/까사렐 26FW 신상품 할인",
     "pgm": "라이브쇼",
-    "pgm_cd": "0146"
+    "pgm_cd": "0146",
+    "category": "여성패션"
    },
    {
     "start": "22:00",
@@ -12619,7 +12620,7 @@
     "end": "12:29",
     "brand": "지스튜디오",
     "product": "26FW 야크울 블렌디드 이중직 롱코트",
-    "price": 299000,
+    "price": 284050,
     "link": "https://item.cjonstyle.com/item/2090680789?channelCode=30002002",
     "slot_id": "29758",
     "title": "지스튜디오 신상 코트 최초 공개 LIVE 방송 중 추가 할인까지",
@@ -12811,14 +12812,15 @@
    {
     "start": "22:00",
     "end": "22:59",
-    "brand": "",
-    "product": "다시보는 애프터라이브❤️르네디피/까사렐 26FW 신상품 할인",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/30219",
+    "brand": "르네디피",
+    "product": "26FW 엑스트라 파인울 100 시어니트 1+1",
+    "price": 99900,
+    "link": "https://item.cjonstyle.com/item/2092468422?channelCode=30002002",
     "slot_id": "30219",
     "title": "다시보는 애프터라이브❤️르네디피/까사렐 26FW 신상품 할인",
     "pgm": "라이브쇼",
-    "pgm_cd": "0146"
+    "pgm_cd": "0146",
+    "category": "여성패션"
    },
    {
     "start": "23:00",
@@ -13032,14 +13034,14 @@
     "start": "17:00",
     "end": "17:59",
     "brand": "에스까다",
-    "product": "'26 퍼펙트 더블V 퓨징 브라팬티 1차 4세트(런닝형)",
-    "price": 65940,
-    "link": "https://item.cjonstyle.com/item/2083269890?channelCode=30002002",
+    "product": "26FW 실크블렌드 하프넥 니트 여성",
+    "price": 149000,
+    "link": "https://item.cjonstyle.com/item/2092488161?channelCode=30002002",
     "slot_id": "29997",
     "title": "다시보는 엣지쇼💗 에스까다 화이트라벨 의류 & 언더웨어 연합 특가",
     "pgm": "엣지쇼",
     "pgm_cd": "0223",
-    "category": "여성패션"
+    "category": "스포츠·아웃도어"
    },
    {
     "start": "17:00",
@@ -13225,7 +13227,7 @@
     "end": "22:59",
     "brand": "한국금거래소",
     "product": "골드바 3.75g",
-    "price": 945920,
+    "price": 926010,
     "link": "https://item.cjonstyle.com/item/2076536118?channelCode=30002002",
     "slot_id": "30006",
     "title": "다시보는 한국 금거래소 단 하루 특가",
@@ -13408,7 +13410,7 @@
     "end": "17:59",
     "brand": "금강제화",
     "product": "[CJ비밀가]페어레이디 장식 청키로퍼 2종 택1 RICSLC5150WFAIK",
-    "price": 69600,
+    "price": 68000,
     "link": "https://item.cjonstyle.com/item/2049440284?channelCode=30002002",
     "slot_id": "30087",
     "title": "다시보는 금강제화👞소가죽 4만원대~ 특가✨",
@@ -13545,6 +13547,57 @@
     "pgm": "전자전능",
     "pgm_cd": "1020",
     "category": "가전"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "LG전자",
+    "product": "LG 오브제 워시타워 25KG+25KG 그린_베이지 WA2525GEHF",
+    "price": 3862800,
+    "link": "https://item.cjonstyle.com/item/2088080756?channelCode=30002002",
+    "slot_id": "30093",
+    "title": "다시보는 💛LG 워시타워 & 제습기 쿠폰 특가!",
+    "pgm": "라이브쇼",
+    "pgm_cd": "1007",
+    "category": "가전"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "로제도르",
+    "product": "무아르딘 원터치 귀고리(PG)_282300051",
+    "price": 510000,
+    "link": "https://item.cjonstyle.com/item/2057789980?channelCode=30002002",
+    "slot_id": "30094",
+    "title": "다시보는 로제도르 14K골드 쥬얼리✨",
+    "pgm": "라이브쇼",
+    "pgm_cd": "1006",
+    "category": "잡화·슈즈"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "스튜디오톰보이",
+    "product": "소매 체크 카라 배색 집업 점퍼_라이트카키 9166313871",
+    "price": 133840,
+    "link": "https://item.cjonstyle.com/item/2088205809?channelCode=30002002",
+    "slot_id": "30095",
+    "title": "다시보는 남다른스타일 첫회🤎 스튜디오 톰보이 우먼&맨 FW 단독특가!",
+    "pgm": "남다른 스타일",
+    "pgm_cd": "1141",
+    "category": "여성패션"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "",
+    "product": "다시보는 잘사는 언니들❤️빌딘 단독특가! 레몬버베나 애프터샷",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/30096",
+    "slot_id": "30096",
+    "title": "다시보는 잘사는 언니들❤️빌딘 단독특가! 레몬버베나 애프터샷",
+    "pgm": "잘사는 언니들",
+    "pgm_cd": "1028"
    }
   ]
  }
