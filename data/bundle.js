@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-23T12:25:06+09:00",
+ "generated_at": "2026-09-23T12:40:21+09:00",
  "today": "2026-09-23",
  "dates": [
   "2026-09-22",
@@ -2820,7 +2820,7 @@ window.SCHEDULE = {
      "pgm": "바이림",
      "pgm_cd": "0092",
      "category": "여성패션",
-     "hot": 6
+     "hot": 3
     },
     {
      "start": "12:00",
@@ -8693,7 +8693,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "패션"
+     "category": "패션",
+     "hot": 10
     },
     {
      "start": "12:30",
@@ -20782,8 +20783,7 @@ window.SCHEDULE = {
      "slot_id": "60006",
      "pgm": "스킨푸드 라이브 중~80%",
      "title": "5만원 이상 크림 본품 증정",
-     "category": "뷰티",
-     "hot": 10
+     "category": "뷰티"
     },
     {
      "start": "10:00",
@@ -20808,7 +20808,7 @@ window.SCHEDULE = {
      "pgm": "픽셀 X 헤겐이 만났다!",
      "title": "쿠폰에 페이할인까지",
      "category": "키즈",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "10:30",
