@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-23T09:57:24+09:00",
+ "generated_at": "2026-09-23T10:12:44+09:00",
  "today": "2026-09-23",
  "dates": [
   "2026-09-22",
@@ -435,7 +435,7 @@ window.SCHEDULE = {
      ],
      "title": "[메트로시티주얼리] 인기 주얼리/시계 특별가 ~66%▼",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 6
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -454,7 +454,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 프라다/르메르 인기 가방 득템 찬스",
-     "pgm": "투명쇼 (패션잡화)"
+     "pgm": "투명쇼 (패션잡화)",
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -18546,7 +18547,8 @@ window.SCHEDULE = {
      "slot_id": "60148",
      "pgm": "픽셀 X 헤겐이 만났다!",
      "title": "쿠폰에 페이할인까지",
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -19734,8 +19736,8 @@ window.SCHEDULE = {
    "2026-09-22",
    "2026-09-23"
   ],
-  "matched": 9,
-  "unmatched": 11
+  "matched": 11,
+  "unmatched": 9
  },
  "fixed": {
   "rows": [
