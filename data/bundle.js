@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-23T11:25:28+09:00",
+ "generated_at": "2026-09-23T11:39:58+09:00",
  "today": "2026-09-23",
  "dates": [
   "2026-09-22",
@@ -473,7 +473,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[파크론 제로블럭] 프리미엄 시공매트 소음걱정 ZERO",
-     "pgm": "[파크론] 제로블럭 (액티브라이프)"
+     "pgm": "[파크론] 제로블럭 (액티브라이프)",
+     "hot": 1
     },
     {
      "start": "12:00",
@@ -7683,8 +7684,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티",
-     "hot": 10
+     "category": "뷰티"
     },
     {
      "start": "11:00",
@@ -7756,7 +7756,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "패션",
-     "hot": 9
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -18512,7 +18512,7 @@ window.SCHEDULE = {
      "pgm": "스킨푸드 라이브 중~80%",
      "title": "5만원 이상 크림 본품 증정",
      "category": "뷰티",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -18548,8 +18548,7 @@ window.SCHEDULE = {
      "slot_id": "60148",
      "pgm": "픽셀 X 헤겐이 만났다!",
      "title": "쿠폰에 페이할인까지",
-     "category": "키즈",
-     "hot": 2
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -18585,7 +18584,8 @@ window.SCHEDULE = {
      "slot_id": "59907",
      "pgm": "베베숲 고평량 인기 세트",
      "title": "아기 물티슈 판매 1위",
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 9
     },
     {
      "start": "11:30",
