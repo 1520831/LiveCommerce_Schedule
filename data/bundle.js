@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-23T21:38:11+09:00",
+ "generated_at": "2026-09-23T21:53:43+09:00",
  "today": "2026-09-23",
  "dates": [
   "2026-09-22",
@@ -492,8 +492,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[맛춤가게] 하남쭈꾸미 & 오징어",
-     "pgm": "맛춤가게 (식품)",
-     "hot": 10
+     "pgm": "맛춤가게 (식품)"
     },
     {
      "start": "12:00",
@@ -722,7 +721,7 @@ window.SCHEDULE = {
      ],
      "title": "[현명쇼] 프라다 15만▼ 전 상품 무이자 60개월",
      "pgm": "현명쇼(노블레스)",
-     "hot": 6
+     "hot": 2
     },
     {
      "start": "22:00",
@@ -2880,7 +2879,7 @@ window.SCHEDULE = {
      "pgm": "바이림",
      "pgm_cd": "0092",
      "category": "여성패션",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "12:00",
@@ -3179,7 +3178,8 @@ window.SCHEDULE = {
      "title": "LG전자💙 <냉장고> 최대 33% 쿠폰 / <인덕션> 최대 24% 쿠폰",
      "pgm": "전자전능",
      "pgm_cd": "1020",
-     "category": "가전"
+     "category": "가전",
+     "hot": 8
     },
     {
      "start": "21:00",
@@ -8395,7 +8395,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "패션",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -22631,7 +22631,7 @@ window.SCHEDULE = {
      "pgm": "픽셀 X 헤겐이 만났다!",
      "title": "쿠폰에 페이할인까지",
      "category": "키즈",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "10:30",
@@ -22680,7 +22680,7 @@ window.SCHEDULE = {
      "pgm": "베베숲 고평량 인기 세트",
      "title": "아기 물티슈 판매 1위",
      "category": "키즈",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "11:30",
@@ -22755,7 +22755,7 @@ window.SCHEDULE = {
      "pgm": "팸퍼스x카카오",
      "title": "라이브 전 라인 골라담기!",
      "category": "키즈",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "20:30",
