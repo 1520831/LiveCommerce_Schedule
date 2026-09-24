@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-24T10:43:59+09:00",
+ "generated_at": "2026-09-24T10:56:30+09:00",
  "today": "2026-09-24",
  "dates": [
   "2026-09-23",
@@ -495,7 +495,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 막스마라 코트 60개월 무이자 찬스!",
      "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -8227,7 +8227,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "08:00",
