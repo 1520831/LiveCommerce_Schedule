@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-24T10:56:30+09:00",
+ "generated_at": "2026-09-24T11:11:58+09:00",
  "today": "2026-09-24",
  "dates": [
   "2026-09-23",
@@ -437,7 +437,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이태리 18K 체인주얼리 최저가 도전",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "08:00",
@@ -8227,7 +8227,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "08:00",
@@ -8606,7 +8606,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "패션"
+     "category": "패션",
+     "hot": 1
     },
     {
      "start": "11:00",
@@ -21764,7 +21765,7 @@ window.SCHEDULE = {
      "pgm": "우리가 믿는 물 제주 삼다수",
      "title": "한정판 굿즈 추첨 이벤트",
      "category": "식품",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -23094,8 +23095,8 @@ window.SCHEDULE = {
    "2026-09-23",
    "2026-09-24"
   ],
-  "matched": 12,
-  "unmatched": 7
+  "matched": 13,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
