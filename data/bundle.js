@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-24T11:48:17+09:00",
+ "generated_at": "2026-09-24T11:58:12+09:00",
  "today": "2026-09-24",
  "dates": [
   "2026-09-23",
@@ -8226,8 +8226,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "08:00",
@@ -21825,7 +21824,8 @@ window.SCHEDULE = {
      "slot_id": "59893",
      "pgm": "베지밀 [주문인증 이벤트]",
      "title": "다이소 1만원권 50명",
-     "category": "식품"
+     "category": "식품",
+     "hot": 10
     },
     {
      "start": "11:30",
