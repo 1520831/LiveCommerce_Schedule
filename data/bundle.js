@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-24T10:13:39+09:00",
+ "generated_at": "2026-09-24T10:29:26+09:00",
  "today": "2026-09-24",
  "dates": [
   "2026-09-23",
@@ -437,7 +437,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이태리 18K 체인주얼리 최저가 도전",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "08:00",
@@ -476,7 +476,7 @@ window.SCHEDULE = {
      ],
      "title": "[레노마 캐주얼] 26FW 신상 정장 外 LIVE",
      "pgm": "[재방] 레노마캐주얼 (멀티커머스)",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -495,7 +495,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 막스마라 코트 60개월 무이자 찬스!",
-     "pgm": "[재방] 투명쇼 (패션잡화)"
+     "pgm": "[재방] 투명쇼 (패션잡화)",
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -8296,8 +8297,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "09:30",
@@ -21765,7 +21765,7 @@ window.SCHEDULE = {
      "pgm": "우리가 믿는 물 제주 삼다수",
      "title": "한정판 굿즈 추첨 이벤트",
      "category": "식품",
-     "hot": 4
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -23096,7 +23096,7 @@ window.SCHEDULE = {
    "2026-09-24"
   ],
   "matched": 13,
-  "unmatched": 7
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
