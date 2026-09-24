@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-09-24T07:11:16+09:00",
+ "updated_at": "2026-09-24T12:09:31+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -11593,7 +11593,7 @@
     "end": "15:59",
     "brand": "이오에이",
     "product": "EOA 풀써마 프로+부스팅젤 2개",
-    "price": 454000,
+    "price": 469000,
     "link": "https://item.cjonstyle.com/item/2091543677?channelCode=30002002",
     "slot_id": "29916",
     "title": "다시보는 피부전문기관 동일 주파수 6.78MHz💜EOA 풀써마 PRO",
@@ -11957,7 +11957,7 @@
     "end": "13:00",
     "brand": "세컨스킨",
     "product": "골지 서포트 브라 4종(어깨끈 조절형)",
-    "price": 67500,
+    "price": 50250,
     "link": "https://item.cjonstyle.com/item/2083356354?channelCode=30002002",
     "slot_id": "29938",
     "title": "다시보는 [맘만하니] 세컨스킨, 편안한 언더웨어❤️",
@@ -12734,6 +12734,19 @@
     "pgm": "라이브쇼",
     "pgm_cd": "0146",
     "category": "스포츠·아웃도어"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "락포트",
+    "product": "토탈모션 360도 100% 천연양털 로퍼(4cm 키높이)",
+    "price": 94500,
+    "link": "https://item.cjonstyle.com/item/2073111940?channelCode=30002002",
+    "slot_id": "29761",
+    "title": "🍂락포트 가을 신상/이월 클리어런스",
+    "pgm": "엣지쇼",
+    "pgm_cd": "0223",
+    "category": "잡화·슈즈"
    },
    {
     "start": "19:00",
