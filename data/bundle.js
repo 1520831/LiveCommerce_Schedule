@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-24T15:14:35+09:00",
+ "generated_at": "2026-09-24T15:36:56+09:00",
  "today": "2026-09-24",
  "dates": [
   "2026-09-23",
@@ -21827,7 +21827,7 @@ window.SCHEDULE = {
      "pgm": "베지밀 [주문인증 이벤트]",
      "title": "다이소 1만원권 50명",
      "category": "식품",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "11:30",
