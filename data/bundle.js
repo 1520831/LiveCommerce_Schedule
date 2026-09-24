@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-24T09:57:46+09:00",
+ "generated_at": "2026-09-24T10:13:39+09:00",
  "today": "2026-09-24",
  "dates": [
   "2026-09-23",
@@ -476,7 +476,7 @@ window.SCHEDULE = {
      ],
      "title": "[레노마 캐주얼] 26FW 신상 정장 外 LIVE",
      "pgm": "[재방] 레노마캐주얼 (멀티커머스)",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -8227,7 +8227,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "08:00",
@@ -8297,7 +8297,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "09:30",
@@ -21764,7 +21764,8 @@ window.SCHEDULE = {
      "slot_id": "59599",
      "pgm": "우리가 믿는 물 제주 삼다수",
      "title": "한정판 굿즈 추첨 이벤트",
-     "category": "식품"
+     "category": "식품",
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -23094,8 +23095,8 @@ window.SCHEDULE = {
    "2026-09-23",
    "2026-09-24"
   ],
-  "matched": 12,
-  "unmatched": 8
+  "matched": 13,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
