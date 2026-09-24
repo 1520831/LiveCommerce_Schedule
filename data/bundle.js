@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-24T12:15:29+09:00",
+ "generated_at": "2026-09-24T12:31:09+09:00",
  "today": "2026-09-24",
  "dates": [
   "2026-09-23",
@@ -21802,7 +21802,8 @@ window.SCHEDULE = {
      "slot_id": "59875",
      "pgm": "[돈시몬] 올토샷 등장!!",
      "title": "올리브오일+토마토주스LIVE",
-     "category": "식품"
+     "category": "식품",
+     "hot": 10
     },
     {
      "start": "11:30",
@@ -21827,7 +21828,7 @@ window.SCHEDULE = {
      "pgm": "베지밀 [주문인증 이벤트]",
      "title": "다이소 1만원권 50명",
      "category": "식품",
-     "hot": 9
+     "hot": 8
     },
     {
      "start": "11:30",
@@ -23097,7 +23098,7 @@ window.SCHEDULE = {
    "2026-09-23",
    "2026-09-24"
   ],
-  "matched": 13,
+  "matched": 14,
   "unmatched": 6
  },
  "fixed": {
