@@ -2,7 +2,7 @@
  "company": "NV",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-09-24T12:10:28+09:00",
+ "updated_at": "2026-09-24T18:15:46+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -58408,7 +58408,7 @@
     "start": "11:00",
     "end": "12:01",
     "brand": "풀무원",
-    "product": "풀무원 특등급 국산콩두유 190ml 16팩 +(증정)특등급 두유 190ml 6팩",
+    "product": "풀무원 특등급 국산콩두유 190ml 16팩",
     "price": 17800,
     "link": "https://shoppinglive.naver.com/livebridge/2024625",
     "slot_id": "2024625",
@@ -61721,7 +61721,7 @@
     "end": "12:00",
     "brand": "브랜든",
     "product": "세이프 데이즈 월렛백",
-    "price": 51900,
+    "price": 58000,
     "link": "https://shoppinglive.naver.com/livebridge/2006303",
     "slot_id": "2006303",
     "pgm": "브랜든 단독 혜택! 최대 67% 할인+한정수량 재입고!",
@@ -61770,7 +61770,7 @@
     "start": "11:00",
     "end": "12:02",
     "brand": "글채움",
-    "product": "[NEW아기별그림책핫딜 라이브 09/24(목) 오전11시]NEW 아기별 그림책(20권) / 전권놀이조작북 세이펜호환책",
+    "product": "[NEW아기별그림책핫딜]NEW 아기별 그림책(20권) / 전권놀이조작북 세이펜호환책",
     "price": 108000,
     "link": "https://shoppinglive.naver.com/livebridge/2014960",
     "slot_id": "2014960",
@@ -61830,7 +61830,7 @@
    },
    {
     "start": "13:50",
-    "end": "",
+    "end": "15:48",
     "brand": "갤럭시",
     "product": "삼성 갤럭시 워치9 강화유리 패키지 크림, 40mm, 블루투스",
     "price": 499000,
@@ -61934,7 +61934,7 @@
    },
    {
     "start": "14:00",
-    "end": "",
+    "end": "15:57",
     "brand": "JBL",
     "product": "삼성공식파트너 JBL BAR 1300 MK2 11.1.4채널 사운드바 홈시어터 TV스피커",
     "price": 1698000,
@@ -62047,7 +62047,7 @@
    },
    {
     "start": "15:00",
-    "end": "",
+    "end": "16:00",
     "brand": "워시콤보",
     "product": "LG 오브제컬렉션 워시콤보 미니워시 FH25WAX 올인원 세탁기 건조기 일체형 화이트",
     "price": 3478000,
@@ -62168,7 +62168,7 @@
    },
    {
     "start": "15:00",
-    "end": "",
+    "end": "17:00",
     "brand": "CUCKOO",
     "product": "[쿠쇼페] 쿠쿠 인앤아웃 직수 정수기 CP-TS011WS",
     "price": 2512800,
@@ -67143,26 +67143,6 @@
     "category": "테크"
    },
    {
-    "start": "09:00",
-    "end": "",
-    "brand": "CUCKOO",
-    "product": "[쿠쇼페] 쿠쿠 인앤아웃 직수 정수기 CP-TS011WS",
-    "price": 2512800,
-    "link": "https://shoppinglive.naver.com/livebridge/2043702",
-    "slot_id": "2043702",
-    "pgm": "[AI라이브] 연휴 마지막 날, 쿠쿠 정수기 최대혜택 만나보기💚",
-    "title": "📢 본사 직영 단독 혜택",
-    "items": [
-     {},
-     {},
-     {},
-     {},
-     {},
-     {}
-    ],
-    "category": "테크"
-   },
-   {
     "start": "09:30",
     "end": "",
     "brand": "갤럭시",
@@ -69560,7 +69540,7 @@
     "start": "10:00",
     "end": "",
     "brand": "딥몽",
-    "product": "딥몽 매트리스 허리에 좋은 침대 유로탑 단단한 포켓 딱딱한 메모리폼 수면 27cm, S(싱글)900, 미디엄하드",
+    "product": "딥몽 매트리스 허리에 좋은 침대 유로탑 단단한 포켓 딱딱한 메모리폼 수면 27cm, S(싱글)970, 미디엄하드",
     "price": 490000,
     "link": "https://shoppinglive.naver.com/livebridge/1991489",
     "slot_id": "1991489",
