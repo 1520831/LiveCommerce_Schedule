@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-24T10:29:26+09:00",
+ "generated_at": "2026-09-24T10:43:59+09:00",
  "today": "2026-09-24",
  "dates": [
   "2026-09-23",
@@ -475,8 +475,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[레노마 캐주얼] 26FW 신상 정장 外 LIVE",
-     "pgm": "[재방] 레노마캐주얼 (멀티커머스)",
-     "hot": 10
+     "pgm": "[재방] 레노마캐주얼 (멀티커머스)"
     },
     {
      "start": "10:00",
@@ -496,7 +495,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 막스마라 코트 60개월 무이자 찬스!",
      "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 9
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -8228,7 +8227,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "08:00",
@@ -23095,8 +23094,8 @@ window.SCHEDULE = {
    "2026-09-23",
    "2026-09-24"
   ],
-  "matched": 13,
-  "unmatched": 6
+  "matched": 12,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
