@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-24T09:43:28+09:00",
+ "generated_at": "2026-09-24T09:57:46+09:00",
  "today": "2026-09-24",
  "dates": [
   "2026-09-23",
@@ -476,7 +476,7 @@ window.SCHEDULE = {
      ],
      "title": "[레노마 캐주얼] 26FW 신상 정장 外 LIVE",
      "pgm": "[재방] 레노마캐주얼 (멀티커머스)",
-     "hot": 9
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -8297,7 +8297,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "09:30",
