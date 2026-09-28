@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-29T08:00:17+09:00",
+ "generated_at": "2026-09-29T08:20:12+09:00",
  "today": "2026-09-29",
  "dates": [
   "2026-09-28",
@@ -417,7 +417,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 막스마라 코트 월 1만원대",
      "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "07:00",
@@ -436,8 +436,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "⏰잠시 후 종료! 알레보 라이브 특별가",
-     "pgm": "[재방] 알레보 (P.D.Lab)",
-     "hot": 7
+     "pgm": "[재방] 알레보 (P.D.Lab)"
     },
     {
      "start": "08:00",
@@ -456,7 +455,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[예작] 26FW 신상 셔츠 / 인기 니트 外 LIVE",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 7
     },
     {
      "start": "09:00",
@@ -6672,7 +6672,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 4
     },
     {
      "start": "07:20",
@@ -6786,7 +6786,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 10
+     "hot": 3
     },
     {
      "start": "08:00",
@@ -6881,7 +6881,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 8
     },
     {
      "start": "09:30",
@@ -19176,8 +19177,8 @@ window.SCHEDULE = {
    "2026-09-28",
    "2026-09-29"
   ],
-  "matched": 10,
-  "unmatched": 8
+  "matched": 11,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
