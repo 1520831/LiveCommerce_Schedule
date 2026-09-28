@@ -1,0 +1,167 @@
+{
+ "company": "CJ",
+ "channel": "liveshow",
+ "month": "2026-10",
+ "updated_at": "2026-09-28T11:29:47+09:00",
+ "days": {
+  "2026-10-01": [
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "",
+    "product": "써스데이아일랜드 본사 공식 LIVE🍁 가을 신상 최대 할인!",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/29251",
+    "slot_id": "29251",
+    "title": "써스데이아일랜드 본사 공식 LIVE🍁 가을 신상 최대 할인!",
+    "pgm": "브랜디드 라이브쇼",
+    "pgm_cd": "1130"
+   },
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "케어베어",
+    "product": "텐더하트베어포근플리스점퍼",
+    "price": 53900,
+    "link": "https://item.cjonstyle.com/item/2091735026?channelCode=30002002",
+    "slot_id": "30139",
+    "title": "[케어베어x하짱네]하짱네 PICK! 케어베어로 가을등원룩 완성!~81%",
+    "pgm": "인플루언서LIVE",
+    "pgm_cd": "1052",
+    "category": "여성패션"
+   },
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "맛있는家",
+    "product": "[바로도착] 방배쭈꾸미볶음 500g 5팩",
+    "price": 59900,
+    "link": "https://item.cjonstyle.com/item/2083272840?channelCode=30002002",
+    "slot_id": "29834",
+    "title": "CJ온스타일 PB브랜드 방배쭈꾸미 + 방배왕갈비탕 최초 동시 공개🍖",
+    "pgm": "푸드온다",
+    "pgm_cd": "1018",
+    "category": "식품·건강"
+   },
+   {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "유에스피에이",
+    "product": "[U.S POLO ASSN.] 26FW 헤리티지 울100 가디건 1종 남성",
+    "price": 98100,
+    "link": "https://item.cjonstyle.com/item/2091190867?channelCode=30002002",
+    "slot_id": "30230",
+    "title": "다시보는 USPA 🌕 26FW 신상 전 상품 최초공개!",
+    "pgm": "라이브쇼",
+    "pgm_cd": "1006",
+    "category": "여성패션"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "리베니프",
+    "product": "[탄력+리프팅]  리마지 실프팅 앰플 플러스 (녹는실 앰플), 3box",
+    "price": 42470,
+    "link": "https://item.cjonstyle.com/item/2046455471?channelCode=30002002",
+    "slot_id": "30149",
+    "title": "다시보는 1년 만에 돌아온 녹는실 리베니프 앰플🤍",
+    "pgm": "라이브쇼",
+    "pgm_cd": "1008",
+    "category": "뷰티"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "한국금거래소",
+    "product": "골드바 3.75g",
+    "price": 898010,
+    "link": "https://item.cjonstyle.com/item/2076536118?channelCode=30002002",
+    "slot_id": "30151",
+    "title": "다시보는 한국 금거래소 단 하루 특가",
+    "pgm": "라이브쇼",
+    "pgm_cd": "0213",
+    "category": "잡화·슈즈"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "",
+    "product": "매드딜X쿠르🖤스킨부스팅 칵테일 앰플 3박스 역대급 초특가",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/29836",
+    "slot_id": "29836",
+    "title": "매드딜X쿠르🖤스킨부스팅 칵테일 앰플 3박스 역대급 초특가",
+    "pgm": "김해나의 매드딜",
+    "pgm_cd": "1132"
+   },
+   {
+    "start": "21:45",
+    "end": "22:44",
+    "brand": "",
+    "product": "김호영의 투머치쇼X광화문연가 뮤지컬 티켓! 최대 ~57% 할인 특가",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/29839",
+    "slot_id": "29839",
+    "title": "김호영의 투머치쇼X광화문연가 뮤지컬 티켓! 최대 ~57% 할인 특가",
+    "pgm": "김호영의 투머치쇼",
+    "pgm_cd": "1083"
+   }
+  ],
+  "2026-10-02": [
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "캐치티니핑",
+    "product": "노트북",
+    "price": 127900,
+    "link": "https://item.cjonstyle.com/item/2091199990?channelCode=30002002",
+    "slot_id": "29844",
+    "title": "다겨미네x캐치티니핑🎁캐치티니핑 노트북 한정수량! 온키즈패스 할인혜택!",
+    "pgm": "다겨미네",
+    "pgm_cd": "1099",
+    "category": "유아동"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "리베니프",
+    "product": "[탄력+리프팅]  리마지 실프팅 앰플 플러스 (녹는실 앰플), 3box",
+    "price": 42470,
+    "link": "https://item.cjonstyle.com/item/2046455471?channelCode=30002002",
+    "slot_id": "30165",
+    "title": "다시보는 1년 만에 돌아온 녹는실 리베니프 앰플🤍",
+    "pgm": "라이브쇼",
+    "pgm_cd": "1008",
+    "category": "뷰티"
+   }
+  ],
+  "2026-10-03": [
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "리베니프",
+    "product": "[탄력+리프팅]  리마지 실프팅 앰플 플러스 (녹는실 앰플), 3box",
+    "price": 42470,
+    "link": "https://item.cjonstyle.com/item/2046455471?channelCode=30002002",
+    "slot_id": "30178",
+    "title": "다시보는 1년 만에 돌아온 녹는실 리베니프 앰플🤍",
+    "pgm": "라이브쇼",
+    "pgm_cd": "1008",
+    "category": "뷰티"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "LG전자",
+    "product": "LG 디오스 AI 오브제 글라스 6도어 더블매직 냉장고_M876GBB232 M876GBC232",
+    "price": 3678400,
+    "link": "https://item.cjonstyle.com/item/2088286173?channelCode=30002002",
+    "slot_id": "30189",
+    "title": "다시보는 LG전자 냉장고 글라스 6도어+전자레인지! 최대 혜택🎁",
+    "pgm": "라이브쇼",
+    "pgm_cd": "1016",
+    "category": "가전"
+   }
+  ]
+ }
+}
