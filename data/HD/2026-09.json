@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-28T12:00:23+09:00",
+ "updated_at": "2026-09-28T18:00:48+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -10321,17 +10321,17 @@
    {
     "start": "10:00",
     "end": "10:59",
-    "brand": "몽클레르",
-    "product": "MONCLER 몽클레어 코클리코 여성 바람막이 자켓 1A00022 539ZD 80D L1093",
-    "price": 1644000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252698161",
+    "brand": "톰브라운",
+    "product": "남성 가디건 MKC002A Y1014 038",
+    "price": 1792000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2138968020",
     "slot_id": "202609286004",
     "items": [
      {
-      "brand": "몽클레르",
-      "product": "MONCLER 몽클레어 코클리코 여성 바람막이 자켓 1A00022 539ZD 80D L1093",
-      "price": 1644000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252698161"
+      "brand": "톰브라운",
+      "product": "남성 가디건 MKC002A Y1014 038",
+      "price": 1792000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2138968020"
      }
     ],
     "title": "[투명쇼] 발렌시아가 숄더백 한정 수량",
@@ -10490,6 +10490,25 @@
     "pgm": "[에이스침대] 침대/매트리스 (리빙)"
    },
    {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "주크",
+    "product": "[LIVE무료반품][ZOOC] 카라리스 트위드 자켓 Z264MSF201",
+    "price": 194500,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253627279",
+    "slot_id": "202609286023",
+    "items": [
+     {
+      "brand": "주크",
+      "product": "[LIVE무료반품][ZOOC] 카라리스 트위드 자켓 Z264MSF201",
+      "price": 194500,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253627279"
+     }
+    ],
+    "title": "[ZOOC] 인기 가을템 최대 84% OFF🔥",
+    "pgm": "[재방] [쥬크] 의류 (패션1Lab)"
+   },
+   {
     "start": "19:00",
     "end": "19:59",
     "brand": "아서앤그레이스",
@@ -10507,6 +10526,25 @@
     ],
     "title": "[50% 적립] 아서앤그레이스/프라다 명품 패션 특별전",
     "pgm": "[50% 적립 명품특별전] (패션잡화)"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "조니스 그로서리",
+    "product": "[쇼라][조니스그로서리][BEST입문팩] 납작 플레인1 + 초코1 + 저당1 + 한끼 오곡1 + 카카오1",
+    "price": 53900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253383970",
+    "slot_id": "202609286022",
+    "items": [
+     {
+      "brand": "조니스 그로서리",
+      "product": "[쇼라][조니스그로서리][BEST입문팩] 납작 플레인1 + 초코1 + 저당1 + 한끼 오곡1 + 카카오1",
+      "price": 53900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253383970"
+     }
+    ],
+    "title": "無설탕 無첨가물! 통귀리 가득 납작 청크 그래놀라",
+    "pgm": "[재방] 조니스그로서리 그래놀라 (멀티커머스)"
    },
    {
     "start": "20:00",
@@ -10646,17 +10684,17 @@
    {
     "start": "10:00",
     "end": "10:59",
-    "brand": "막스마라",
-    "product": "누라게 윈드브레이커 아이보리 NURAGHE-001",
-    "price": 549000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253005464",
+    "brand": "발렌시아가",
+    "product": "르 시티 스몰 토트백 873201 2ABEK 1000 블랙",
+    "price": 2200000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253189228",
     "slot_id": "202609296005",
     "items": [
      {
-      "brand": "막스마라",
-      "product": "누라게 윈드브레이커 아이보리 NURAGHE-001",
-      "price": 549000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253005464"
+      "brand": "발렌시아가",
+      "product": "르 시티 스몰 토트백 873201 2ABEK 1000 블랙",
+      "price": 2200000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253189228"
      }
     ],
     "title": "[투명쇼] 26F/W 최신상 인기 명품 득템 찬스!",
@@ -10781,14 +10819,14 @@
     "end": "19:59",
     "brand": "골드앤",
     "product": "황소 디자인 실버바 3.75g [1+1][2개 구성/개별포장]",
-    "price": 70200,
+    "price": 69500,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247311092",
     "slot_id": "202609296014",
     "items": [
      {
       "brand": "골드앤",
       "product": "황소 디자인 실버바 3.75g [1+1][2개 구성/개별포장]",
-      "price": 70200,
+      "price": 69500,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247311092"
      }
     ],
@@ -10874,18 +10912,37 @@
   ],
   "2026-09-30": [
    {
+    "start": "00:00",
+    "end": "00:59",
+    "brand": "골든클레프",
+    "product": "18K 삼색 로프체인 반지",
+    "price": 1199000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252905708",
+    "slot_id": "202609306023",
+    "items": [
+     {
+      "brand": "골든클레프",
+      "product": "18K 삼색 로프체인 반지",
+      "price": 1199000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252905708"
+     }
+    ],
+    "title": "[노블리타] 한가위 이탈리아 18K주얼리 BIG 페스타",
+    "pgm": "[재방] 노블리타 (노블레스)"
+   },
+   {
     "start": "08:00",
     "end": "08:59",
     "brand": "라인",
     "product": "포켓 카라 셔츠 블라우스 (NMWBLQH030) 블라우스 2colors NMWBLQH030",
-    "price": 153000,
+    "price": 119000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253592437",
     "slot_id": "202609306004",
     "items": [
      {
       "brand": "라인",
       "product": "포켓 카라 셔츠 블라우스 (NMWBLQH030) 블라우스 2colors NMWBLQH030",
-      "price": 153000,
+      "price": 119000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253592437"
      }
     ],
@@ -10910,6 +10967,25 @@
     ],
     "title": "[메트로시티] 최대 65% 쇼라 특별가🩷",
     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "르메르",
+    "product": "르메르 BG293 LF1320 BK983 소프트 게임 스몰 숄더백",
+    "price": 1290000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251714651",
+    "slot_id": "202609306006",
+    "items": [
+     {
+      "brand": "르메르",
+      "product": "르메르 BG293 LF1320 BK983 소프트 게임 스몰 숄더백",
+      "price": 1290000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251714651"
+     }
+    ],
+    "title": "[투명쇼] 본격 가을 26FW 신상 명품 득템 찬스",
+    "pgm": "투명쇼 (패션잡화)"
    },
    {
     "start": "11:00",
@@ -10988,17 +11064,36 @@
     "pgm": "[알래스카큐브] 샤워바 (액티브라이프)"
    },
    {
+    "start": "16:00",
+    "end": "16:59",
+    "brand": "한국민속촌",
+    "product": "장어품은 추어탕 450g 11팩",
+    "price": 39900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253729800",
+    "slot_id": "202609306012",
+    "items": [
+     {
+      "brand": "한국민속촌",
+      "product": "장어품은 추어탕 450g 11팩",
+      "price": 39900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253729800"
+     }
+    ],
+    "title": "한국민속촌 장어 품은 추어탕 쇼라",
+    "pgm": "[창업기업지원사업] 한국민속촌 추어탕 (일반식품2)"
+   },
+   {
     "start": "17:00",
     "end": "17:59",
     "brand": "로라애슐리",
-    "product": "파르테르 고밀도 극세사 담요 S",
+    "product": "파르테르 고밀도 극세사 담요 S 100x150cm",
     "price": 42000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253701583",
     "slot_id": "202609306013",
     "items": [
      {
       "brand": "로라애슐리",
-      "product": "파르테르 고밀도 극세사 담요 S",
+      "product": "파르테르 고밀도 극세사 담요 S 100x150cm",
       "price": 42000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253701583"
      }
@@ -11024,6 +11119,25 @@
     ],
     "title": "[50% 적립] 몽클레어 구매하고 100만P 받기",
     "pgm": "[50% 적립 명품특별전] (패션잡화)"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "프리마클라쎄",
+    "product": "GEO 후드집업 재킷 1종",
+    "price": 199000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253379712",
+    "slot_id": "202609306015",
+    "items": [
+     {
+      "brand": "프리마클라쎄",
+      "product": "GEO 후드집업 재킷 1종",
+      "price": 199000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253379712"
+     }
+    ],
+    "title": "[1A CLASSE] 인기 아이템 모음전",
+    "pgm": "현대쇼룸 (패션)"
    },
    {
     "start": "21:00",
@@ -11062,25 +11176,6 @@
     ],
     "title": "[헤이데이무드] 사우나햇 런칭 + 로브 쇼라 단독가",
     "pgm": "[헤이데이무드] 타월/로브 (멀티커머스)"
-   },
-   {
-    "start": "23:00",
-    "end": "23:59",
-    "brand": "JJ지고트",
-    "product": "포멀 테일러드 더블 원버튼 재킷 GS4M0JK922 (3color) GS4M0JK922",
-    "price": 157920,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253697243",
-    "slot_id": "202609306019",
-    "items": [
-     {
-      "brand": "JJ지고트",
-      "product": "포멀 테일러드 더블 원버튼 재킷 GS4M0JK922 (3color) GS4M0JK922",
-      "price": 157920,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253697243"
-     }
-    ],
-    "title": "[JJ지고트] 26FW 셀럽도 반한 고급스러운 가을룩✨",
-    "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ]
  }

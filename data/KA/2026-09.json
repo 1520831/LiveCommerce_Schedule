@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-09-28T12:00:35+09:00",
+ "updated_at": "2026-09-28T18:01:00+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -5703,20 +5703,8 @@
     "category": "패션"
    },
    {
-    "start": "11:00",
-    "end": "12:30",
-    "brand": "파파야나인",
-    "product": "",
-    "price": 0,
-    "link": "https://shoppinglive.kakao.com/live/60361",
-    "slot_id": "60361",
-    "pgm": "기다리던 봄봄 분유포트",
-    "title": "추석 맞이 단독 LIVE",
-    "category": "키즈"
-   },
-   {
     "start": "11:30",
-    "end": "13:00",
+    "end": "12:31",
     "brand": "아워홈 공식몰",
     "product": "아워홈 온더고 간편 도시락 10팩 세트(bhc, 제육 함박 차돌깍두기 등)",
     "price": 69800,
@@ -5728,7 +5716,7 @@
    },
    {
     "start": "11:30",
-    "end": "13:00",
+    "end": "12:30",
     "brand": "한끼통살",
     "product": "[한끼통살] 닭가슴살 한달 식단 패키지 30팩+(증정)보냉백",
     "price": 45800,
@@ -5740,7 +5728,7 @@
    },
    {
     "start": "11:30",
-    "end": "13:00",
+    "end": "12:32",
     "brand": "젤리스푼",
     "product": "[젤리스푼] 풍성한 가을 신상특가 모음-상하복/티셔츠/원피스 외",
     "price": 99000,
@@ -5755,7 +5743,7 @@
     "end": "18:30",
     "brand": "순수식품",
     "product": "순수식품 이뮨 올인원 4박스(총 28병) 종합 멀티비타민 외 루테인/칼슘 마그네슘 골라담기",
-    "price": 38900,
+    "price": 100000,
     "link": "https://store.kakao.com/soonsoofood/products/350716480",
     "slot_id": "59947",
     "pgm": "순수식품 이뮨비타민 28병",
@@ -5816,7 +5804,7 @@
     "start": "19:00",
     "end": "22:00",
     "brand": "성분에디터 공식 스토어",
-    "product": "[성분에디터] 꺼진볼 + 팔자주름 완벽 리프팅! 고농축 PDRN 핑크 비타민 녹는실앰플+마스크팩 추가 증정!",
+    "product": "[성분에디터] 꺼진볼+팔자주름 완벽 리프팅! 고농축 PDRN 핑크 비타민 녹는실앰플+마스크팩 추가 증정!",
     "price": 96000,
     "link": "https://store.kakao.com/sungboon/products/753056186",
     "slot_id": "60236",
@@ -5833,7 +5821,7 @@
     "link": "https://store.kakao.com/ecliss/products/744658015",
     "slot_id": "60398",
     "pgm": "에클리스 PDRN &",
-    "title": "스테디셀러 ~30% 할인",
+    "title": "스테디셀러 ~30% 톡딜할인",
     "category": "뷰티"
    },
    {
@@ -5919,6 +5907,18 @@
     "pgm": "나무팩토리 헤어스타일러",
     "title": "스타일링부터 속눈썹 컬링까지",
     "category": "뷰티"
+   },
+   {
+    "start": "20:50",
+    "end": "22:20",
+    "brand": "닥터치카",
+    "product": "6 set 치과의사가 만든 닥터치카 어린이 고불소 치약 주니어 초등학생 유아 키즈 아기 충치 예방 불소 1450 80g",
+    "price": 44300,
+    "link": "https://store.kakao.com/drchika/products/173286573",
+    "slot_id": "60180",
+    "pgm": "은우야X닥터치카1450",
+    "title": "고불소치약 런칭특가",
+    "category": "리빙"
    }
   ],
   "2026-09-29": [
@@ -5938,7 +5938,7 @@
     "start": "08:30",
     "end": "10:00",
     "brand": "덴프스",
-    "product": "덴마크 유산균이야기(3박스/6개월분 OR 5박스/10개월분)",
+    "product": "덴마크 유산균이야기(3박스/6개월분 OR 5박스/10개월분) + 마그네슘 프로 10일분 증정",
     "price": 276000,
     "link": "https://store.kakao.com/denpsmall/products/15580428",
     "slot_id": "59984",
@@ -6019,6 +6019,18 @@
     "category": "리빙"
    },
    {
+    "start": "11:00",
+    "end": "12:30",
+    "brand": "퓨어잇",
+    "product": "[8봉+1봉 더] 퓨어잇 유기농 떡뻥 외 아기과자 아이간식",
+    "price": 21500,
+    "link": "https://store.kakao.com/pureat/products/64079573",
+    "slot_id": "60530",
+    "pgm": "[2봉 더주는 덤DAY]",
+    "title": "아이 간식 라이브 특가!",
+    "category": "키즈"
+   },
+   {
     "start": "11:30",
     "end": "13:00",
     "brand": "네츄럴굿띵스",
@@ -6039,7 +6051,7 @@
     "link": "https://store.kakao.com/foodology/products/141907266",
     "slot_id": "59940",
     "pgm": "푸드올로지 명절급찐급빠",
-    "title": "혈당x다이어트 유산균 46%",
+    "title": "혈당x다이어트 유산균 52%",
     "category": "식품"
    },
    {
@@ -6058,12 +6070,12 @@
     "start": "11:30",
     "end": "13:00",
     "brand": "베르블랑",
-    "product": "베르블랑 프리미엄 아기 중성세제/섬유유연제/캡슐세제/건조기시트 외 모음전",
+    "product": "베르블랑 아기 세제/섬유유연제/캡슐세제/건조기시트 1+1 외 모음전",
     "price": 54900,
     "link": "https://store.kakao.com/vertblanc/products/247015450",
     "slot_id": "60161",
     "pgm": "베르블랑 브랜드위크 라이브",
-    "title": "세제&섬유유연제 1+1 특가",
+    "title": "세트 구매시 주방세제 증정!",
     "category": "키즈"
    },
    {
@@ -6190,7 +6202,7 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "티젠",
-    "product": "[1+1] 티젠 콤부차 50스틱 - 당류 0g,유산균 함유(총 100스틱)",
+    "product": "[1+1] 티젠 콤부차 50스틱 - 당류 0g,유산균 함유(총 100스틱)+애사비 10스틱 증정",
     "price": 70000,
     "link": "https://store.kakao.com/teazen/products/565427942",
     "slot_id": "59982",
@@ -6202,7 +6214,7 @@
     "start": "20:30",
     "end": "23:30",
     "brand": "프렌즈푸드",
-    "product": "이야이야앤프렌즈X카카오프렌즈 틴케이스 웰니스 세트 (올리브오일+토마토즙+레몬즙 총 15포)",
+    "product": "\"건강한 일상을 간편하게\" 이야이야앤프렌즈X카카오프렌즈 틴케이스 웰니스 세트 (올리브오일+토마토즙+레몬즙 총 15포)",
     "price": 37900,
     "link": "https://gift.kakao.com/product/14336189?url=product&cId=14336189",
     "slot_id": "60039",
@@ -6253,7 +6265,7 @@
     "end": "11:30",
     "brand": "폰타나 공식스토어",
     "product": "폰타나 파스타소스 토마토/크림/오일 3병(+파스타면&파우치소스 증정)",
-    "price": 18900,
+    "price": 29900,
     "link": "https://store.kakao.com/fontana1/products/129944832",
     "slot_id": "59665",
     "pgm": "유러피안 맛 폰타나 특가",
@@ -6333,6 +6345,18 @@
     "category": "식품"
    },
    {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "신일전자 온라인스토어",
+    "product": "신일 전기히터 2IN1 카본 탄소발열 히터 온풍기",
+    "price": 198000,
+    "link": "https://store.kakao.com/shinilonline/products/632210789",
+    "slot_id": "60476",
+    "pgm": "신일 전기 히터 난로 가습기",
+    "title": "포근한 겨울나기 라이브할인",
+    "category": "리빙"
+   },
+   {
     "start": "11:30",
     "end": "13:00",
     "brand": "몰리멜리",
@@ -6384,7 +6408,7 @@
     "start": "13:00",
     "end": "14:30",
     "brand": "앙블랑",
-    "product": "앙블랑 물티슈 고평량 세이프 카키 캡형 10팩/20팩 외 BEST 모음전",
+    "product": "앙블랑 물티슈 세이프 네이비 20팩+휴대 물티슈 12팩 외 10팩/20팩 BEST 모음전",
     "price": 76000,
     "link": "https://store.kakao.com/enblanc/products/129971713",
     "slot_id": "60160",
@@ -6415,6 +6439,18 @@
     "pgm": "2900원 떡볶이 7가지맛",
     "title": "6+1 9+2 무료배송",
     "category": "식품"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "더빨강양말",
+    "product": "[무료배송] 더빨강양말 사계절 BEST 양말 필수템 모음전 (덧신 / 발목 / 단목 / 중목 / 장목 / 니삭스 / 스포츠)",
+    "price": 17500,
+    "link": "https://store.kakao.com/theredsocks/products/146736918",
+    "slot_id": "60467",
+    "pgm": "[가을시즌할인] 톡딜특가",
+    "title": "천원쿠폰 추가혜택",
+    "category": "패션"
    },
    {
     "start": "19:00",
@@ -6477,11 +6513,23 @@
     "category": "뷰티"
    },
    {
+    "start": "20:00",
+    "end": "21:30",
+    "brand": "(주)상상그램",
+    "product": "[귀뚜라미] 27년형 THE 프리미엄 신형 블루투스 카본 탄소매트",
+    "price": 468000,
+    "link": "https://store.kakao.com/sangsangstore/products/118837559",
+    "slot_id": "60480",
+    "pgm": "2026년 귀뚜라미",
+    "title": "겨울을 위한 카본매트",
+    "category": "테크"
+   },
+   {
     "start": "20:30",
     "end": "22:00",
     "brand": "CarePod",
-    "product": "케어팟 안전한 저온가열 자동살균 저전력 대용량 스텐 큐브 가습기 X50V",
-    "price": 329000,
+    "product": "[스탠드SET] 케어팟 안전한 저온가열 자동살균 스텐 큐브 가습기 X50V",
+    "price": 363000,
     "link": "https://store.kakao.com/carepod/products/302166413",
     "slot_id": "59989",
     "pgm": "케어팟 가습기 특가 라이브",
@@ -6497,7 +6545,7 @@
     "link": "https://store.kakao.com/sukmall/products/65888446",
     "slot_id": "60034",
     "pgm": "[석관동떡볶이] BEST특가",
-    "title": "단 하루 역대급 할인",
+    "title": "단 하루 특별할인!",
     "category": "식품"
    },
    {

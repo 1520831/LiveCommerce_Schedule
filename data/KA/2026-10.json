@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-10",
- "updated_at": "2026-09-28T12:00:35+09:00",
+ "updated_at": "2026-09-28T18:01:00+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -78,6 +78,18 @@
     "category": "키즈"
    },
    {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "신일전자 온라인스토어",
+    "product": "신일 전기히터 2IN1 카본 탄소발열 히터 온풍기",
+    "price": 198000,
+    "link": "https://store.kakao.com/shinilonline/products/632210789",
+    "slot_id": "60477",
+    "pgm": "신일 전기 히터 난로 가습기",
+    "title": "포근한 겨울나기 라이브할인",
+    "category": "리빙"
+   },
+   {
     "start": "11:30",
     "end": "13:00",
     "brand": "도로시",
@@ -129,9 +141,9 @@
     "start": "17:00",
     "end": "18:30",
     "brand": "비타그램",
-    "product": "",
-    "price": 0,
-    "link": "https://shoppinglive.kakao.com/live/60264",
+    "product": "2026년 듀라텍스 탄소 전기매트 전기요 싱글 더블",
+    "price": 69900,
+    "link": "https://store.kakao.com/vitagram/products/618370459",
     "slot_id": "60264",
     "pgm": "듀라텍스 26년형 탄소매트",
     "title": "출시 기념 특가행사!",
@@ -186,6 +198,18 @@
     "category": "리빙"
    },
    {
+    "start": "20:00",
+    "end": "21:30",
+    "brand": "(주)상상그램",
+    "product": "[귀뚜라미] 27년형 THE 프리미엄 신형 블루투스 카본 탄소매트",
+    "price": 468000,
+    "link": "https://store.kakao.com/sangsangstore/products/118837559",
+    "slot_id": "60481",
+    "pgm": "2026년 귀뚜라미",
+    "title": "겨울을 위한 카본매트",
+    "category": "테크"
+   },
+   {
     "start": "20:30",
     "end": "22:00",
     "brand": "SOUP",
@@ -214,12 +238,24 @@
     "end": "22:00",
     "brand": "SLSI",
     "product": "[베네통] 베네통 키즈 플리스 아노락 택 1",
-    "price": 69900,
+    "price": 31900,
     "link": "https://store.kakao.com/slsi/products/783703473",
     "slot_id": "60259",
     "pgm": "베네통키즈 간절기",
     "title": "아우터 &상하의 라이브 특가",
     "category": "패션"
+   },
+   {
+    "start": "21:00",
+    "end": "22:30",
+    "brand": "좋은세상두원",
+    "product": "홈포차 인기메뉴 3종세트 마라 유부전골/떡볶이/튀김 외 안주류 모음세트",
+    "price": 22500,
+    "link": "https://store.kakao.com/doowonfns/products/795215629",
+    "slot_id": "60533",
+    "pgm": "드디어 첫 공개",
+    "title": "오늘만 공개하는 인기상품특가",
+    "category": "식품"
    }
   ],
   "2026-10-02": [
@@ -239,9 +275,9 @@
     "start": "08:30",
     "end": "11:30",
     "brand": "토리든",
-    "product": "[5개/총 230ml] 다이브인 저분자 히알루론산 세럼 50ml 3개+40ml 2개 (+트라이얼 키트&마스크팩 5매 증정)",
+    "product": "[NEW] 다이브인 저분자 히알루론산 세럼 50ml+40ml (+다이브인 세럼 10ml 증정)",
     "price": 26500,
-    "link": "https://gift.kakao.com/product/14280523?url=product&cId=14280523",
+    "link": "https://gift.kakao.com/product/9973392?url=product&cId=9973392",
     "slot_id": "60238",
     "pgm": "토리든으로 환절기 고민해결!",
     "title": "~61%+쿠폰팩 추가할인",
@@ -354,6 +390,18 @@
     "pgm": "대복 순대 400G 3팩",
     "title": "토종/김치/찰/땡초 만천원대",
     "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "AInoon 스토어",
+    "product": "AInoonX(에이아이눈엑스)  AI 스마트안경",
+    "price": 289000,
+    "link": "https://store.kakao.com/ainoon/products/757932907",
+    "slot_id": "60405",
+    "pgm": "국산 AI 스마트안경",
+    "title": "에이아이눈엑스 런칭 특가",
+    "category": "테크"
    }
   ],
   "2026-10-03": [
@@ -449,8 +497,8 @@
     "price": 28900,
     "link": "https://store.kakao.com/ringles/products/580890936",
     "slot_id": "60430",
-    "pgm": "링글스 BEST라인업",
-    "title": "라이브 한정 특가",
+    "pgm": "링글스 고체 애사비",
+    "title": "&클렌즈&듀얼에이드샷",
     "category": "식품"
    }
   ]

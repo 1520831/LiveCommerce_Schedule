@@ -2,20 +2,21 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-10",
- "updated_at": "2026-09-28T12:00:29+09:00",
+ "updated_at": "2026-09-28T18:00:55+09:00",
  "days": {
   "2026-10-01": [
    {
     "start": "10:00",
     "end": "10:59",
-    "brand": "",
-    "product": "써스데이아일랜드 본사 공식 LIVE🍁 가을 신상 최대 할인!",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/29251",
+    "brand": "써스데이아일랜드",
+    "product": "[본사직영] 패턴 보더MIX 미니 원피스_T256MOP165W",
+    "price": 127080,
+    "link": "https://item.cjonstyle.com/item/2069256041?channelCode=30002002",
     "slot_id": "29251",
     "title": "써스데이아일랜드 본사 공식 LIVE🍁 가을 신상 최대 할인!",
     "pgm": "브랜디드 라이브쇼",
-    "pgm_cd": "1130"
+    "pgm_cd": "1130",
+    "category": "여성패션"
    },
    {
     "start": "10:00",
@@ -29,6 +30,18 @@
     "pgm": "인플루언서LIVE",
     "pgm_cd": "1052",
     "category": "여성패션"
+   },
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "",
+    "product": "[맘만하니] 세인트제임스 키즈 최초 론칭! 한정수량 최대할인!🌱",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/29833",
+    "slot_id": "29833",
+    "title": "[맘만하니] 세인트제임스 키즈 최초 론칭! 한정수량 최대할인!🌱",
+    "pgm": "맘만하니",
+    "pgm_cd": "0099"
    },
    {
     "start": "11:00",
@@ -74,7 +87,7 @@
     "end": "19:59",
     "brand": "한국금거래소",
     "product": "골드바 3.75g",
-    "price": 898010,
+    "price": 888620,
     "link": "https://item.cjonstyle.com/item/2076536118?channelCode=30002002",
     "slot_id": "30151",
     "title": "다시보는 한국 금거래소 단 하루 특가",
@@ -93,6 +106,19 @@
     "title": "매드딜X쿠르🖤스킨부스팅 칵테일 앰플 3박스 역대급 초특가",
     "pgm": "김해나의 매드딜",
     "pgm_cd": "1132"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "빌딘",
+    "product": "레몬버베나 애프터샷 다이어트 3+1개월 (30일분, 4BOX)",
+    "price": 389000,
+    "link": "https://item.cjonstyle.com/item/2093453013?channelCode=30002002",
+    "slot_id": "30153",
+    "title": "다시보는 잘사는 언니들❤️빌딘 단독특가! 레몬버베나 애프터샷",
+    "pgm": "잘사는 언니들",
+    "pgm_cd": "1028",
+    "category": "식품·건강"
    },
    {
     "start": "20:40",
@@ -121,6 +147,19 @@
   ],
   "2026-10-02": [
    {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "다니엘크레뮤",
+    "product": "26SS 워셔블 수피마 코튼 100% 크루넥 니트",
+    "price": 53100,
+    "link": "https://item.cjonstyle.com/item/2080821394?channelCode=30002002",
+    "slot_id": "29841",
+    "title": "3만 원대로 데일리 가을 니트 스타일 완성! 다니엘크레뮤 반값 SALE",
+    "pgm": "라이브쇼",
+    "pgm_cd": "0214",
+    "category": "여성패션"
+   },
+   {
     "start": "11:00",
     "end": "11:59",
     "brand": "캐치티니핑",
@@ -145,6 +184,19 @@
     "pgm": "라이브쇼",
     "pgm_cd": "1008",
     "category": "뷰티"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "빌딘",
+    "product": "레몬버베나 애프터샷 다이어트 3+1개월 (30일분, 4BOX)",
+    "price": 389000,
+    "link": "https://item.cjonstyle.com/item/2093453013?channelCode=30002002",
+    "slot_id": "30175",
+    "title": "다시보는 잘사는 언니들❤️빌딘 단독특가! 레몬버베나 애프터샷",
+    "pgm": "잘사는 언니들",
+    "pgm_cd": "1028",
+    "category": "식품·건강"
    }
   ],
   "2026-10-03": [
@@ -160,6 +212,32 @@
     "pgm": "라이브쇼",
     "pgm_cd": "1008",
     "category": "뷰티"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "빌딘",
+    "product": "레몬버베나 애프터샷 다이어트 3+1개월 (30일분, 4BOX)",
+    "price": 389000,
+    "link": "https://item.cjonstyle.com/item/2093453013?channelCode=30002002",
+    "slot_id": "30182",
+    "title": "다시보는 잘사는 언니들❤️빌딘 단독특가! 레몬버베나 애프터샷",
+    "pgm": "잘사는 언니들",
+    "pgm_cd": "1028",
+    "category": "식품·건강"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "지스튜디오",
+    "product": "26SS 시스루 러플 블라우스",
+    "price": 89900,
+    "link": "https://item.cjonstyle.com/item/2078628457?channelCode=30002002",
+    "slot_id": "29846",
+    "title": "엣지쇼❤️지스튜디오 최대64% 할인",
+    "pgm": "엣지쇼",
+    "pgm_cd": "0223",
+    "category": "여성패션"
    },
    {
     "start": "22:00",

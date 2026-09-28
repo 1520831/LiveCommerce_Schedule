@@ -2,9 +2,28 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-10",
- "updated_at": "2026-09-28T12:00:23+09:00",
+ "updated_at": "2026-09-28T18:00:48+09:00",
  "days": {
   "2026-10-01": [
+   {
+    "start": "00:00",
+    "end": "00:59",
+    "brand": "골든클레프",
+    "product": "18K 삼색 로프체인 반지",
+    "price": 1199000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252905708",
+    "slot_id": "202610016020",
+    "items": [
+     {
+      "brand": "골든클레프",
+      "product": "18K 삼색 로프체인 반지",
+      "price": 1199000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252905708"
+     }
+    ],
+    "title": "[노블리타] 한가위 이탈리아 18K주얼리 BIG 페스타",
+    "pgm": "[재방] 노블리타 (노블레스)"
+   },
    {
     "start": "08:00",
     "end": "08:59",
@@ -44,18 +63,37 @@
     "pgm": "백화점 프리오픈쇼(멀티커머스)"
    },
    {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "아이러브경북",
+    "product": "[농할] 국내산 제철 홍로 사과 중소과 3kg 12-16과",
+    "price": 30800,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253528607",
+    "slot_id": "202610016004",
+    "items": [
+     {
+      "brand": "아이러브경북",
+      "product": "[농할] 국내산 제철 홍로 사과 중소과 3kg 12-16과",
+      "price": 30800,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253528607"
+     }
+    ],
+    "title": "[사이소 x Hmall] 가을 제철과일 특집",
+    "pgm": "[위팩토리] 홍로사과 (일반식품2)"
+   },
+   {
     "start": "13:00",
     "end": "13:59",
     "brand": "이에르 로르",
     "product": "에센스 실버(W) 럭스 풀 파베 목걸이 HL4N68464W9450",
-    "price": 130000,
+    "price": 120900,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253245156",
     "slot_id": "202610016006",
     "items": [
      {
       "brand": "이에르 로르",
       "product": "에센스 실버(W) 럭스 풀 파베 목걸이 HL4N68464W9450",
-      "price": 130000,
+      "price": 120900,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253245156"
      }
     ],
@@ -120,6 +158,63 @@
     "pgm": "[코르르] 노즈워머 (가전)"
    },
    {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "에그레히오",
+    "product": "[올레오에스테파] 에그레히오 유기농 엑스트라버진 올리브 오일 3병 세트",
+    "price": 129000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2244698134",
+    "slot_id": "202610016011",
+    "items": [
+     {
+      "brand": "에그레히오",
+      "product": "[올레오에스테파] 에그레히오 유기농 엑스트라버진 올리브 오일 3병 세트",
+      "price": 129000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2244698134"
+     }
+    ],
+    "title": "[글로벌쇼라] 유럽 현지 LIVE",
+    "pgm": "편성기획 삽입용 (편성)"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "페어라이어",
+    "product": "리본 기모 하이넥 티셔츠 (블랙)",
+    "price": 298000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252627447",
+    "slot_id": "202610016012",
+    "items": [
+     {
+      "brand": "페어라이어",
+      "product": "리본 기모 하이넥 티셔츠 (블랙)",
+      "price": 298000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252627447"
+     }
+    ],
+    "title": "갖고 싶은 브랜드 페어라이어⛳",
+    "pgm": "[페어라이어] 골프웨어 (패션4Lab)"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "미리 크루즈",
+    "product": "[쇼라최초][월 4만원대로 떠나는] MIRI(미리)크루즈 (유럽지중해/알래스카 등)",
+    "price": 5940000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252557062",
+    "slot_id": "202610016014",
+    "items": [
+     {
+      "brand": "미리 크루즈",
+      "product": "[쇼라최초][월 4만원대로 떠나는] MIRI(미리)크루즈 (유럽지중해/알래스카 등)",
+      "price": 5940000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252557062"
+     }
+    ],
+    "title": "[미리크루즈] 유럽지중해/알래스카 월 4만원대 찬스",
+    "pgm": "[미리크루즈] 크루즈 (여행)"
+   },
+   {
     "start": "22:00",
     "end": "22:59",
     "brand": "SOUP",
@@ -137,9 +232,47 @@
     ],
     "title": "[SOUP] 로맨틱 클래식룩 2만원대부터💥",
     "pgm": "편성기획 삽입용 (편성)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "어드림오브씨드",
+    "product": "26FW 알파카 가디건",
+    "price": 139000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253477007",
+    "slot_id": "202610016016",
+    "items": [
+     {
+      "brand": "어드림오브씨드",
+      "product": "26FW 알파카 가디건",
+      "price": 139000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253477007"
+     }
+    ],
+    "title": "[어드림오브시드] 26FW 모던 빈티지 트렌드 아이템✨",
+    "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ],
   "2026-10-02": [
+   {
+    "start": "00:00",
+    "end": "00:59",
+    "brand": "버버리",
+    "product": "[버버리]6S 8110531 C1900 브롬리 여성 퀼팅 후드 자켓 블랙",
+    "price": 1940000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247917378",
+    "slot_id": "202610026020",
+    "items": [
+     {
+      "brand": "버버리",
+      "product": "[버버리]6S 8110531 C1900 브롬리 여성 퀼팅 후드 자켓 블랙",
+      "price": 1940000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247917378"
+     }
+    ],
+    "title": "[투명쇼] 르메르 월 1만원대 60개월 무이자",
+    "pgm": "[재방] 투명쇼 (패션잡화)"
+   },
    {
     "start": "08:00",
     "end": "08:59",
@@ -160,6 +293,25 @@
     "pgm": "백화점 프리오픈쇼(멀티커머스)"
    },
    {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "아이더",
+    "product": "DMW24501\tTHERMOLOCK (써모락) α 튜브 슬림 다운 자켓 DMW24501",
+    "price": 119000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252844004",
+    "slot_id": "202610026003",
+    "items": [
+     {
+      "brand": "아이더",
+      "product": "DMW24501\tTHERMOLOCK (써모락) α 튜브 슬림 다운 자켓 DMW24501",
+      "price": 119000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252844004"
+     }
+    ],
+    "title": "[아이더] 방송 중 특별가! 쿠폰 + 카드할인",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
     "start": "11:00",
     "end": "11:59",
     "brand": "클랍",
@@ -175,7 +327,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252275081"
      }
     ],
-    "title": "클랍 사용기한 임박전 앵콜방송",
+    "title": "클랍 사용기한 임박전 앵콜 방송",
     "pgm": "[클랍] 기초 (뷰티브랜드)"
    },
    {
@@ -194,8 +346,27 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251720269"
      }
     ],
-    "title": "[김씨언니마켓] 프리미엄 완도전복죽! 간절기보양식",
+    "title": "[김씨언니마켓] 프리미엄 완도 전복죽!",
     "pgm": "[애드너스] 완도전복죽"
+   },
+   {
+    "start": "16:00",
+    "end": "16:59",
+    "brand": "벨라수",
+    "product": "썬샤인 플라워 스테이션 목걸이",
+    "price": 385600,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253774728",
+    "slot_id": "202610026009",
+    "items": [
+     {
+      "brand": "벨라수",
+      "product": "썬샤인 플라워 스테이션 목걸이",
+      "price": 385600,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253774728"
+     }
+    ],
+    "title": "[벨라수/리폼] 올 가을 나를 빛내는 실버와 테이블웨어",
+    "pgm": "[밸라수/리폼] 액세서리/테이블웨어 (쇼핑라이브)"
    },
    {
     "start": "19:00",
@@ -213,8 +384,27 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252765300"
      }
     ],
-    "title": "에바큐브 캐시미어 최대50%할인혜택",
+    "title": "에바큐브 캐시미어 최대 50%▼ 혜택",
     "pgm": "[에바큐브] 의류 (패션2Lab)"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "한민금거래소",
+    "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
+    "price": 258500,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581",
+    "slot_id": "202610026014",
+    "items": [
+     {
+      "brand": "한민금거래소",
+      "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
+      "price": 258500,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581"
+     }
+    ],
+    "title": "[한민금거래소] 골드바 최대 60개월 무이자 혜택!",
+    "pgm": "[한민금거래소] 금 (패션잡화)"
    },
    {
     "start": "23:00",
@@ -232,11 +422,68 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253620356"
      }
     ],
-    "title": "가을무드 한가득! 타미진 방송중 최대 20%쿠폰헤택",
+    "title": "가을무드 한가득! 타미진 방송 중 최대 20% 쿠폰",
     "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ],
   "2026-10-03": [
+   {
+    "start": "00:00",
+    "end": "00:59",
+    "brand": "필모아(pilmoa)",
+    "product": "필모아 맥주컵 E700BC V2.0 + 오프너형 캡",
+    "price": 78900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253634296",
+    "slot_id": "202610036013",
+    "items": [
+     {
+      "brand": "필모아(pilmoa)",
+      "product": "필모아 맥주컵 E700BC V2.0 + 오프너형 캡",
+      "price": 78900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253634296"
+     }
+    ],
+    "title": "[필모아] 요즘 다 쓰는 세라믹 텀블러🔥 최대 66%",
+    "pgm": "[필모아] 텀블러 (가전)"
+   },
+   {
+    "start": "08:00",
+    "end": "08:59",
+    "brand": "버버리",
+    "product": "골드 로고 윈드 재킷(8113654)",
+    "price": 1399000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247031632",
+    "slot_id": "202610036014",
+    "items": [
+     {
+      "brand": "버버리",
+      "product": "골드 로고 윈드 재킷(8113654)",
+      "price": 1399000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247031632"
+     }
+    ],
+    "title": "[현명쇼] 버버리/막스마라/구찌 전상품 무이자 60개월",
+    "pgm": "현명쇼(노블레스)"
+   },
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "피네플리츠(FINE PLEATS)",
+    "product": "[FINE PLEATS] 피네 플리츠 하이넥 후드 점퍼",
+    "price": 259000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251793955",
+    "slot_id": "202610036002",
+    "items": [
+     {
+      "brand": "피네플리츠(FINE PLEATS)",
+      "product": "[FINE PLEATS] 피네 플리츠 하이넥 후드 점퍼",
+      "price": 259000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251793955"
+     }
+    ],
+    "title": "[피네플리츠] 가을신상 오픈🍂 20%쿠폰+사은품",
+    "pgm": "[피네플리츠] 의류 (패션1Lab)"
+   },
    {
     "start": "11:00",
     "end": "11:59",
@@ -257,23 +504,80 @@
     "pgm": "[위팩토리] 햇고춧가루/청국장 (일반식품2)"
    },
    {
+    "start": "14:00",
+    "end": "14:59",
+    "brand": "LIE317(라이)",
+    "product": "[LIE] 라이 심볼 리핏 자수 로고 오버사이즈 맨투맨 I00B06",
+    "price": 245000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252893320",
+    "slot_id": "202610036015",
+    "items": [
+     {
+      "brand": "LIE317(라이)",
+      "product": "[LIE] 라이 심볼 리핏 자수 로고 오버사이즈 맨투맨 I00B06",
+      "price": 245000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252893320"
+     }
+    ],
+    "title": "이청청 디자이너의 LIE317 최초 공개!",
+    "pgm": "[재방] LIE37 의류 (패션2Lab)"
+   },
+   {
+    "start": "16:00",
+    "end": "17:59",
+    "brand": "구찌",
+    "product": "GG 울실크 투톤 숄(165904)",
+    "price": 349000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252244063",
+    "slot_id": "202610036016",
+    "items": [
+     {
+      "brand": "구찌",
+      "product": "GG 울실크 투톤 숄(165904)",
+      "price": 349000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252244063"
+     }
+    ],
+    "title": "[현명쇼] 막스마라 패딩재킷 재입고! ★월 1만원대★",
+    "pgm": "현명쇼(노블레스)"
+   },
+   {
     "start": "18:00",
     "end": "18:59",
     "brand": "디앤코리빙",
-    "product": "[실리오]속통까지 삶아 쓰는 경추베개",
-    "price": 99000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253531540",
+    "product": "[더블구성][실리오] 통째로 삶아쓰는 경추베개",
+    "price": 109000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253884851",
     "slot_id": "202610036007",
     "items": [
      {
       "brand": "디앤코리빙",
-      "product": "[실리오]속통까지 삶아 쓰는 경추베개",
-      "price": 99000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253531540"
+      "product": "[더블구성][실리오] 통째로 삶아쓰는 경추베개",
+      "price": 109000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253884851"
      }
     ],
     "title": "[현대홈쇼핑 유일] 삶아쓰는 실리오 베개",
     "pgm": "[실리오] 베개 (리빙)"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "지고트",
+    "product": "포켓 숄 가디건(JS3E1CD501) JS3E1CD501",
+    "price": 89000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253021037",
+    "slot_id": "202610036010",
+    "items": [
+     {
+      "brand": "지고트",
+      "product": "포켓 숄 가디건(JS3E1CD501) JS3E1CD501",
+      "price": 89000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253021037"
+     }
+    ],
+    "title": "지고트가 제안하는 모던 클래식룩 3만원대부터❤️",
+    "pgm": "백구쇼 (멀티커머스)"
    },
    {
     "start": "22:00",
