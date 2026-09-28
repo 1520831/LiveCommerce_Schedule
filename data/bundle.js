@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-28T13:20:15+09:00",
+ "generated_at": "2026-09-28T13:30:35+09:00",
  "today": "2026-09-28",
  "dates": [
   "2026-09-27",
@@ -512,7 +512,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K주얼리 BIG 혜택 특집전",
      "pgm": "노블리타 (노블레스)",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "12:00",
@@ -5450,8 +5450,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "09:30",
@@ -6212,7 +6211,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -6943,7 +6942,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -7664,7 +7663,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 6
     },
     {
      "start": "13:00",
