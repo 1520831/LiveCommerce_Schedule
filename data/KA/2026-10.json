@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-10",
- "updated_at": "2026-09-28T11:29:54+09:00",
+ "updated_at": "2026-09-28T12:00:35+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -433,12 +433,12 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "단순생활",
-    "product": "단순생활 초음파 미니 무선 가습기 무드등 모음",
+    "product": "단순생활 초음파 미니 무선 가습기 무드등 7종 모음",
     "price": 17500,
     "link": "https://store.kakao.com/dansoon/products/67955707",
     "slot_id": "60322",
-    "pgm": "[단순생활]우리집습도매니저",
-    "title": "무선가습기 ~44%할인",
+    "pgm": "단순생활 무선가습기 7종",
+    "title": "~44% 할인+LIVE혜택",
     "category": "테크"
    },
    {

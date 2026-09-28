@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-28T11:29:43+09:00",
+ "updated_at": "2026-09-28T12:00:23+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -9959,17 +9959,11 @@
     "start": "11:00",
     "end": "11:59",
     "brand": "골드뷰티",
-    "product": "[골드손] 골드손 리프팅 패치 올인한 더블세트 (영롱한 10매+슬림한 10매+프리한 2롤)",
-    "price": 82000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253619233",
+    "product": "[골드손] 영롱한 골드손 패치 그래핀 에디션 초전도 리프팅 패치 10매",
+    "price": 100000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253619087",
     "slot_id": "202609276003",
     "items": [
-     {
-      "brand": "골드뷰티",
-      "product": "[골드손] 골드손 리프팅 패치 올인한 더블세트 (영롱한 10매+슬림한 10매+프리한 2롤)",
-      "price": 82000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253619233"
-     },
      {
       "brand": "골드뷰티",
       "product": "[골드손] 영롱한 골드손 패치 그래핀 에디션 초전도 리프팅 패치 10매",
@@ -10137,14 +10131,14 @@
     "end": "19:59",
     "brand": "고비",
     "product": "고비(GOBI) 캐시미어100 48수 홀가먼트 풀오버",
-    "price": 199000,
+    "price": 249000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252525646",
     "slot_id": "202609276005",
     "items": [
      {
       "brand": "고비",
       "product": "고비(GOBI) 캐시미어100 48수 홀가먼트 풀오버",
-      "price": 199000,
+      "price": 249000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252525646"
      }
     ],
@@ -10327,18 +10321,12 @@
    {
     "start": "10:00",
     "end": "10:59",
-    "brand": "톰브라운",
-    "product": "남성 가디건 MKC002A Y1014 038",
-    "price": 1397000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2138968020",
+    "brand": "몽클레르",
+    "product": "MONCLER 몽클레어 코클리코 여성 바람막이 자켓 1A00022 539ZD 80D L1093",
+    "price": 1644000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252698161",
     "slot_id": "202609286004",
     "items": [
-     {
-      "brand": "톰브라운",
-      "product": "남성 가디건 MKC002A Y1014 038",
-      "price": 1397000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2138968020"
-     },
      {
       "brand": "몽클레르",
       "product": "MONCLER 몽클레어 코클리코 여성 바람막이 자켓 1A00022 539ZD 80D L1093",
@@ -10656,6 +10644,25 @@
     "pgm": "백화점 프리오픈쇼(멀티커머스)"
    },
    {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "막스마라",
+    "product": "누라게 윈드브레이커 아이보리 NURAGHE-001",
+    "price": 549000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253005464",
+    "slot_id": "202609296005",
+    "items": [
+     {
+      "brand": "막스마라",
+      "product": "누라게 윈드브레이커 아이보리 NURAGHE-001",
+      "price": 549000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253005464"
+     }
+    ],
+    "title": "[투명쇼] 26F/W 최신상 인기 명품 득템 찬스!",
+    "pgm": "투명쇼 (패션잡화)"
+   },
+   {
     "start": "11:00",
     "end": "11:59",
     "brand": "노부영",
@@ -10679,14 +10686,14 @@
     "end": "12:59",
     "brand": "나이스클랍",
     "product": "스트링 박시 자켓 N252MWJ317",
-    "price": 98700,
+    "price": 99000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248499213",
     "slot_id": "202609296007",
     "items": [
      {
       "brand": "나이스클랍",
       "product": "스트링 박시 자켓 N252MWJ317",
-      "price": 98700,
+      "price": 99000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248499213"
      }
     ],

@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-09-28T11:29:47+09:00",
+ "updated_at": "2026-09-28T12:00:29+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -13143,7 +13143,7 @@
     "start": "19:00",
     "end": "19:59",
     "brand": "제로스푼",
-    "product": "치즈폭탄 현미곤약떡 무설탕 치즈떡 85g x 6개입 x 1봉/3봉/5봉/10봉",
+    "product": "치즈폭탄 현미곤약떡 무설탕 치즈떡 85g x 6개입 x 1팩/3팩/5팩/10팩",
     "price": 9310,
     "link": "https://item.cjonstyle.com/item/2093662768?channelCode=30002002",
     "slot_id": "30000",
@@ -13558,7 +13558,7 @@
     "start": "20:00",
     "end": "20:59",
     "brand": "다이슨",
-    "product": "다이슨 에어랩 i.d(블루/코퍼)",
+    "product": "[다이슨X김사장88] 에어랩i.d.(블루/코퍼)",
     "price": 699000,
     "link": "https://item.cjonstyle.com/item/2087809625?channelCode=30002002",
     "slot_id": "29805",
@@ -13827,6 +13827,31 @@
     "pgm": "브랜디드 라이브쇼",
     "pgm_cd": "1130",
     "category": "여성패션"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "",
+    "product": "다시보는🍂바니스뉴욕 가을 클리어런스 세일",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/30104",
+    "slot_id": "30104",
+    "title": "다시보는🍂바니스뉴욕 가을 클리어런스 세일",
+    "pgm": "엣지쇼",
+    "pgm_cd": "0223"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "오야니",
+    "product": "[백화점가 219,000] 26FW 이스트웨스트백(M)",
+    "price": 169000,
+    "link": "https://item.cjonstyle.com/item/2090930709?channelCode=30002002",
+    "slot_id": "29811",
+    "title": "🎇오야니 26FW 대란템 단독 할인",
+    "pgm": "엣지쇼",
+    "pgm_cd": "0223",
+    "category": "잡화·슈즈"
    },
    {
     "start": "19:00",

@@ -2,7 +2,7 @@
  "company": "NV",
  "channel": "shoppinglive",
  "month": "2026-10",
- "updated_at": "2026-09-28T11:30:38+09:00",
+ "updated_at": "2026-09-28T12:01:13+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -368,7 +368,7 @@
     "start": "09:55",
     "end": "",
     "brand": "갤럭시",
-    "product": "[멤버십데이]삼성 공식 갤럭시 Z폴드8 256GB 자급제 SM-F971N",
+    "product": "[LIVE 한정200만]삼성 공식 갤럭시 Z폴드8 256GB 자급제 SM-F971N",
     "price": 2278100,
     "link": "https://shoppinglive.naver.com/livebridge/2035453",
     "slot_id": "2035453",
@@ -3278,6 +3278,21 @@
      {}
     ],
     "category": "테크"
+   },
+   {
+    "start": "10:00",
+    "end": "",
+    "brand": "폴햄키즈",
+    "product": "폴햄키즈 공용 무브 후드 집업_PKF2TC3571",
+    "price": 19900,
+    "link": "https://shoppinglive.naver.com/livebridge/2034601",
+    "slot_id": "2034601",
+    "pgm": "[~80%] 폴햄키즈 10.2 브랜드데이 LIVE💝",
+    "title": "라이브 시간 5% 추가할인",
+    "items": [
+     {}
+    ],
+    "category": "키즈"
    },
    {
     "start": "10:00",
