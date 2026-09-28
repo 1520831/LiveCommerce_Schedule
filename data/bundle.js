@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-28T20:00:12+09:00",
+ "generated_at": "2026-09-28T21:00:13+09:00",
  "today": "2026-09-28",
  "dates": [
   "2026-09-27",
@@ -720,7 +720,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[현명쇼] 프라다 7만▼ 무이자 60개월 & 커피쿠폰",
-     "pgm": "현명쇼(노블레스)"
+     "pgm": "현명쇼(노블레스)",
+     "hot": 9
     },
     {
      "start": "22:00",
@@ -2638,7 +2639,8 @@ window.SCHEDULE = {
      "pgm": "인플루언서LIVE",
      "pgm_cd": "1052",
      "category": "뷰티",
-     "cast": "influencer"
+     "cast": "influencer",
+     "hot": 10
     },
     {
      "start": "20:00",
@@ -6029,8 +6031,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 5
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -6909,7 +6910,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -7737,8 +7738,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 9
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -7974,7 +7974,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "12:30",
@@ -8097,7 +8097,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "13:00",
@@ -8615,8 +8615,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "15:00",
@@ -9677,7 +9676,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "19:00",
@@ -9763,8 +9762,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티",
-     "hot": 8
+     "category": "뷰티"
     },
     {
      "start": "19:00",
@@ -10580,7 +10578,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 5
     },
     {
      "start": "20:00",
@@ -10676,7 +10675,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 2
     },
     {
      "start": "20:00",
@@ -23078,7 +23078,7 @@ window.SCHEDULE = {
    "2026-09-28"
   ],
   "matched": 14,
-  "unmatched": 6
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
