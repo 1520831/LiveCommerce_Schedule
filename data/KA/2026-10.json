@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-10",
- "updated_at": "2026-09-28T23:31:02+09:00",
+ "updated_at": "2026-09-29T07:00:54+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -82,7 +82,7 @@
     "end": "11:30",
     "brand": "신일전자 온라인스토어",
     "product": "신일 전기히터 2IN1 카본 탄소발열 히터 온풍기",
-    "price": 198000,
+    "price": 128000,
     "link": "https://store.kakao.com/shinilonline/products/632210789",
     "slot_id": "60477",
     "pgm": "신일 전기 히터 난로 가습기",
@@ -500,6 +500,92 @@
     "pgm": "링글스 고체 애사비",
     "title": "&클렌즈&듀얼에이드샷",
     "category": "식품"
+   }
+  ],
+  "2026-10-04": [
+   {
+    "start": "10:00",
+    "end": "13:00",
+    "brand": "베베숲",
+    "product": "[베베숲] 시그니처 위드블루 70매 캡 20팩+센시 휴대 4팩 외 베베숲 스테디셀러 모음",
+    "price": 50990,
+    "link": "https://store.kakao.com/bebesup/products/116333987",
+    "slot_id": "60152",
+    "pgm": "베베숲 고평량 인기 세트",
+    "title": "휴대 증정+ 페이 할인",
+    "category": "키즈"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "킨드나나",
+    "product": "[킨드나나] 편하게 입는 킨드나나 인기 파자마&데일리 홈웨어 잠옷 100종",
+    "price": 29800,
+    "link": "https://store.kakao.com/kindnana/products/756747890",
+    "slot_id": "60384",
+    "pgm": "킨드나나 라이브 특가!데일리",
+    "title": "인기파자마&FW 신상 잠옷",
+    "category": "패션"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "플로리아",
+    "product": "[시공비 무료] 플로리아 층간소음매트 시공 매트 TPU 거실 놀이방 아기 70x70x2.4cm",
+    "price": 69000,
+    "link": "https://store.kakao.com/floriahouse/products/313185187",
+    "slot_id": "60403",
+    "pgm": "[톡딜]최대 42% 즉시할인",
+    "title": "플로리아매트 특가 LIVE",
+    "category": "키즈"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "뉴베리프",
+    "product": "뉴베리프 백합 리커버리 선크림 75ml SPF 50+ / PA++++",
+    "price": 49000,
+    "link": "https://store.kakao.com/neuvelif/products/587995257",
+    "slot_id": "60478",
+    "pgm": "뉴베리프 진정 3종",
+    "title": "리커버리선크림 외 카쇼라특가",
+    "category": "뷰티"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "에스더블유코리아",
+    "product": "사토노유키 실큰두부 300g 12개, 고소한 상온보관 멸균두부",
+    "price": 48000,
+    "link": "https://store.kakao.com/swkoreahome/products/674625411",
+    "slot_id": "60375",
+    "pgm": "극강의 고소함 실큰두부",
+    "title": "상온 보관 멸균두부 특가",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "청년상점",
+    "product": "첫수확! 익혀먹는 씨없는 청도 반시 2.5kg 중대과 16-17과 / 홍시 반시 감",
+    "price": 23900,
+    "link": "https://store.kakao.com/youngstore/products/184355129",
+    "slot_id": "60330",
+    "pgm": "청도 익혀먹는 홍시/반시",
+    "title": "중대과 16-17과 만원대",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "바툼",
+    "product": "바툼 메종 욕실온풍기 무타공 욕실 난방기 욕실용 화장실온풍기 가정용 PTC 전기 방수",
+    "price": 158000,
+    "link": "https://store.kakao.com/realbottoom/products/793452509",
+    "slot_id": "60373",
+    "pgm": "[바툼]메종 욕실온풍기",
+    "title": "무타공 욕실 난방기43%할인",
+    "category": "테크"
    }
   ]
  }

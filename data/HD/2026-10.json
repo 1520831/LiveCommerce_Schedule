@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-10",
- "updated_at": "2026-09-28T23:30:45+09:00",
+ "updated_at": "2026-09-29T07:00:42+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -597,6 +597,122 @@
     ],
     "title": "[헤르마] 가을맞이 고급스러운 데일리백 쇼핑 찬스👜",
     "pgm": "[헤르마] 잡화 (패션잡화)"
+   }
+  ],
+  "2026-10-04": [
+   {
+    "start": "00:00",
+    "end": "00:59",
+    "brand": "버버리",
+    "product": "[버버리]5F 8107510 C1900 여성 퀼팅 나일론 자켓 블랙",
+    "price": 1300000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239542581",
+    "slot_id": "202610046010",
+    "items": [
+     {
+      "brand": "버버리",
+      "product": "[버버리]5F 8107510 C1900 여성 퀼팅 나일론 자켓 블랙",
+      "price": 1300000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239542581"
+     }
+    ],
+    "title": "[투명쇼] 막스마라 몽클레어 월 1만원대부터~",
+    "pgm": "[재방] 투명쇼 (패션잡화)"
+   },
+   {
+    "start": "08:00",
+    "end": "09:59",
+    "brand": "버버리",
+    "product": "스트링 체크후드 퀼티드 재킷(8110531)",
+    "price": 2199000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2245890837",
+    "slot_id": "202610046011",
+    "items": [
+     {
+      "brand": "버버리",
+      "product": "스트링 체크후드 퀼티드 재킷(8110531)",
+      "price": 2199000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2245890837"
+     }
+    ],
+    "title": "[현명쇼] 보테가베네타 마지막 수량! 전상품 무이자60",
+    "pgm": "[재방] 현명쇼 (노블레스팀)"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "셀린느",
+    "product": "선글라스(CL40194U)",
+    "price": 498000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252765355",
+    "slot_id": "202610046013",
+    "items": [
+     {
+      "brand": "셀린느",
+      "product": "선글라스(CL40194U)",
+      "price": 498000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252765355"
+     }
+    ],
+    "title": "[명품특별전] 미우미우 안경테 월 9천원대 타임딜!",
+    "pgm": "[재방] 명품특별전 (노블레스)"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "누캐시미어",
+    "product": "26FW 멜팅울캐시 터틀넥",
+    "price": 119000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253702614",
+    "slot_id": "202610046006",
+    "items": [
+     {
+      "brand": "누캐시미어",
+      "product": "26FW 멜팅울캐시 터틀넥",
+      "price": 119000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253702614"
+     }
+    ],
+    "title": "[누캐시미어] 26FW 최신상 최초공개",
+    "pgm": "현대쇼룸 (패션)"
+   },
+   {
+    "start": "20:00",
+    "end": "21:59",
+    "brand": "LG전자",
+    "product": "[모바일라이브] LG QNED AI TV 85형 [85QNED70BKA]",
+    "price": 3290000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250415693",
+    "slot_id": "202610046007",
+    "items": [
+     {
+      "brand": "LG전자",
+      "product": "[모바일라이브] LG QNED AI TV 85형 [85QNED70BKA]",
+      "price": 3290000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250415693"
+     }
+    ],
+    "title": "[LG] LOL 다품목 특집전",
+    "pgm": "[LG] 특별전 (가전)"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "보드라온",
+    "product": "보드라온 착붙 진공 흡착 스팀다리미",
+    "price": 89000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253623806",
+    "slot_id": "202610046008",
+    "items": [
+     {
+      "brand": "보드라온",
+      "product": "보드라온 착붙 진공 흡착 스팀다리미",
+      "price": 89000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253623806"
+     }
+    ],
+    "title": "[보드라온] 흡착 스팀다리미 57% ▼",
+    "pgm": "[보드라온] 스팀다리미 (렌탈)"
    }
   ]
  }

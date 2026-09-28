@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-28T23:30:44+09:00",
+ "updated_at": "2026-09-29T07:00:42+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -10357,37 +10357,18 @@
     "pgm": "노블리타 (노블레스)"
    },
    {
-    "start": "12:00",
-    "end": "12:59",
-    "brand": "조니스 그로서리",
-    "product": "[쇼라][조니스그로서리][BEST입문팩] 납작 플레인1 + 초코1 + 저당1 + 한끼 오곡1 + 카카오1",
-    "price": 53900,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253383970",
-    "slot_id": "202609286001",
-    "items": [
-     {
-      "brand": "조니스 그로서리",
-      "product": "[쇼라][조니스그로서리][BEST입문팩] 납작 플레인1 + 초코1 + 저당1 + 한끼 오곡1 + 카카오1",
-      "price": 53900,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253383970"
-     }
-    ],
-    "title": "無설탕 無첨가물! 통귀리 가득 납작 청크 그래놀라",
-    "pgm": "[조니스그로서리] 식품 (멀티커머스)"
-   },
-   {
     "start": "13:00",
     "end": "13:59",
     "brand": "주크",
     "product": "[LIVE무료반품][ZOOC] 카라리스 트위드 자켓 Z264MSF201",
-    "price": 194500,
+    "price": 259000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253627279",
     "slot_id": "202609286006",
     "items": [
      {
       "brand": "주크",
       "product": "[LIVE무료반품][ZOOC] 카라리스 트위드 자켓 Z264MSF201",
-      "price": 194500,
+      "price": 259000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253627279"
      }
     ],
@@ -10418,14 +10399,14 @@
     "end": "15:59",
     "brand": "풍년",
     "product": "[PN풍년]아노디끄 IH 6인압력솥+20양수냄비+18편수냄비",
-    "price": 119000,
+    "price": 164000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2215149448",
     "slot_id": "202609286008",
     "items": [
      {
       "brand": "풍년",
       "product": "[PN풍년]아노디끄 IH 6인압력솥+20양수냄비+18편수냄비",
-      "price": 119000,
+      "price": 164000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2215149448"
      }
     ],
@@ -10494,14 +10475,14 @@
     "end": "18:59",
     "brand": "주크",
     "product": "[LIVE무료반품][ZOOC] 카라리스 트위드 자켓 Z264MSF201",
-    "price": 194500,
+    "price": 259000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253627279",
     "slot_id": "202609286023",
     "items": [
      {
       "brand": "주크",
       "product": "[LIVE무료반품][ZOOC] 카라리스 트위드 자켓 Z264MSF201",
-      "price": 194500,
+      "price": 259000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253627279"
      }
     ],
@@ -10526,25 +10507,6 @@
     ],
     "title": "[50% 적립] 아서앤그레이스/프라다 명품 패션 특별전",
     "pgm": "[50% 적립 명품특별전] (패션잡화)"
-   },
-   {
-    "start": "19:00",
-    "end": "19:59",
-    "brand": "조니스 그로서리",
-    "product": "[쇼라][조니스그로서리][BEST입문팩] 납작 플레인1 + 초코1 + 저당1 + 한끼 오곡1 + 카카오1",
-    "price": 53900,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253383970",
-    "slot_id": "202609286022",
-    "items": [
-     {
-      "brand": "조니스 그로서리",
-      "product": "[쇼라][조니스그로서리][BEST입문팩] 납작 플레인1 + 초코1 + 저당1 + 한끼 오곡1 + 카카오1",
-      "price": 53900,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253383970"
-     }
-    ],
-    "title": "無설탕 無첨가물! 통귀리 가득 납작 청크 그래놀라",
-    "pgm": "[재방] 조니스그로서리 그래놀라 (멀티커머스)"
    },
    {
     "start": "20:00",
@@ -10608,14 +10570,14 @@
     "end": "23:59",
     "brand": "쥬시쥬디",
     "product": "스웨이드테일러드자켓 JYJK729B",
-    "price": 99000,
+    "price": 179000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247407598",
     "slot_id": "202609286015",
     "items": [
      {
       "brand": "쥬시쥬디",
       "product": "스웨이드테일러드자켓 JYJK729B",
-      "price": 99000,
+      "price": 179000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247407598"
      }
     ],
@@ -10743,14 +10705,14 @@
     "end": "11:59",
     "brand": "노부영",
     "product": "베이비15+ 베스트30(베스트15+스테디15)",
-    "price": 900000,
+    "price": 505000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2210837058",
     "slot_id": "202609296006",
     "items": [
      {
       "brand": "노부영",
       "product": "베이비15+ 베스트30(베스트15+스테디15)",
-      "price": 900000,
+      "price": 505000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2210837058"
      }
     ],
@@ -10819,14 +10781,14 @@
     "end": "17:59",
     "brand": "파나소닉",
     "product": "안마의자 EP-MAK1 (3종택1) + 전용 카페트+무릎담요 증정",
-    "price": 9980000,
+    "price": 6590000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2225355016",
     "slot_id": "202609296012",
     "items": [
      {
       "brand": "파나소닉",
       "product": "안마의자 EP-MAK1 (3종택1) + 전용 카페트+무릎담요 증정",
-      "price": 9980000,
+      "price": 6590000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2225355016"
      }
     ],
@@ -10876,14 +10838,14 @@
     "end": "20:59",
     "brand": "세인트제임스",
     "product": "[세인트제임스 본사정품] 메르디앙 II 긴팔 티셔츠 (051) ASJM2G93731-051",
-    "price": 158000,
+    "price": 126400,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250593812",
     "slot_id": "202609296015",
     "items": [
      {
       "brand": "세인트제임스",
       "product": "[세인트제임스 본사정품] 메르디앙 II 긴팔 티셔츠 (051) ASJM2G93731-051",
-      "price": 158000,
+      "price": 126400,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250593812"
      }
     ],
@@ -11214,6 +11176,25 @@
     ],
     "title": "[헤이데이무드] 사우나햇 런칭 + 로브 쇼라 단독가",
     "pgm": "[헤이데이무드] 타월/로브 (멀티커머스)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "JJ지고트",
+    "product": "포멀 테일러드 더블 원버튼 재킷 GS4M0JK922 (3color) GS4M0JK922",
+    "price": 129000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253697243",
+    "slot_id": "202609306019",
+    "items": [
+     {
+      "brand": "JJ지고트",
+      "product": "포멀 테일러드 더블 원버튼 재킷 GS4M0JK922 (3color) GS4M0JK922",
+      "price": 129000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253697243"
+     }
+    ],
+    "title": "[JJ지고트] 26FW 셀럽도 반한 고급스러운 가을룩✨",
+    "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ]
  }

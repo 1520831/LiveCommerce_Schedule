@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-10",
- "updated_at": "2026-09-28T23:30:51+09:00",
+ "updated_at": "2026-09-29T07:00:48+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -270,13 +270,41 @@
     "end": "22:59",
     "brand": "LG전자",
     "product": "LG 디오스 AI 오브제 글라스 6도어 더블매직 냉장고_M876GBB232 M876GBC232",
-    "price": 3678400,
+    "price": 3484800,
     "link": "https://item.cjonstyle.com/item/2088286173?channelCode=30002002",
     "slot_id": "30189",
     "title": "다시보는 LG전자 냉장고 글라스 6도어+전자레인지! 최대 혜택🎁",
     "pgm": "라이브쇼",
     "pgm_cd": "1016",
     "category": "가전"
+   }
+  ],
+  "2026-10-04": [
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "로라애슐리",
+    "product": "[싱글 2종 세트] 죠앤 60수 아사 면 차렵이불+베개커버1장",
+    "price": 136800,
+    "link": "https://item.cjonstyle.com/item/2093725155?channelCode=30002002",
+    "slot_id": "30191",
+    "title": "다시보는❤️오랜만에 돌아온 로라애슐리!",
+    "pgm": "라이브쇼",
+    "pgm_cd": "0217",
+    "category": "가구·침구"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "리베니프",
+    "product": "[탄력+리프팅]  리마지 실프팅 앰플 플러스 (녹는실 앰플), 3box",
+    "price": 42470,
+    "link": "https://item.cjonstyle.com/item/2046455471?channelCode=30002002",
+    "slot_id": "30198",
+    "title": "다시보는 1년 만에 돌아온 녹는실 리베니프 앰플🤍",
+    "pgm": "라이브쇼",
+    "pgm_cd": "1008",
+    "category": "뷰티"
    }
   ]
  }
