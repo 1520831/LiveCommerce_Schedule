@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-28T18:00:48+09:00",
+ "updated_at": "2026-09-28T23:30:44+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -10585,6 +10585,25 @@
     "pgm": "[블랙야크] 아웃도어 (멀티커머스)"
    },
    {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "에이스침대",
+    "product": "BMA1139-E CA3등급/SS(슈퍼싱글사이즈)",
+    "price": 1279000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250320677",
+    "slot_id": "202609286024",
+    "items": [
+     {
+      "brand": "에이스침대",
+      "product": "BMA1139-E CA3등급/SS(슈퍼싱글사이즈)",
+      "price": 1279000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250320677"
+     }
+    ],
+    "title": "[에이스침대] 신학기 아이방 침대 특별 혜택!",
+    "pgm": "[재방] [에이스침대] 침대/매트리스 (리빙)"
+   },
+   {
     "start": "23:00",
     "end": "23:59",
     "brand": "쥬시쥬디",
@@ -10602,6 +10621,25 @@
     ],
     "title": "[쥬시쥬디] 가을 패션 완성! 트렌디한 이너/아우터✨",
     "pgm": "[쥬시쥬디] 여성의류 (멀티커머스)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "아서앤그레이스",
+    "product": "샤를린 23 오닉스 블랙",
+    "price": 1820000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2202396221",
+    "slot_id": "202609286021",
+    "items": [
+     {
+      "brand": "아서앤그레이스",
+      "product": "샤를린 23 오닉스 블랙",
+      "price": 1820000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2202396221"
+     }
+    ],
+    "title": "[50% 적립] 아서앤그레이스/프라다 명품 패션 특별전",
+    "pgm": "[재방] [50% 적립 명품특별전] (패션잡화)"
    }
   ],
   "2026-09-29": [
@@ -10954,14 +10992,14 @@
     "end": "09:59",
     "brand": "메트로시티",
     "product": "백팩 미듐 M253MT5530Z",
-    "price": 252400,
+    "price": 209500,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239106330",
     "slot_id": "202609306005",
     "items": [
      {
       "brand": "메트로시티",
       "product": "백팩 미듐 M253MT5530Z",
-      "price": 252400,
+      "price": 209500,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239106330"
      }
     ],

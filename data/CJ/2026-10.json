@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-10",
- "updated_at": "2026-09-28T18:00:55+09:00",
+ "updated_at": "2026-09-28T23:30:51+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -68,6 +68,19 @@
     "pgm": "라이브쇼",
     "pgm_cd": "1006",
     "category": "여성패션"
+   },
+   {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "똘똘한쇼",
+    "product": "씨없는 청도 저탄소 GAP 반시 연시 홍시 1.5kg / 2.5kg / 5kg",
+    "price": 9800,
+    "link": "https://item.cjonstyle.com/item/2094033179?channelCode=30002002",
+    "slot_id": "30146",
+    "title": "[똘똘한쇼] 제철 맞아 당도 폭발! 씨 없는 청도 꿀연시 초특가!🍁",
+    "pgm": "똘똘한쇼",
+    "pgm_cd": "1123",
+    "category": "식품·건강"
    },
    {
     "start": "18:00",
@@ -158,6 +171,19 @@
     "pgm": "라이브쇼",
     "pgm_cd": "0214",
     "category": "여성패션"
+   },
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "똘똘한쇼",
+    "product": "[똘똘한쇼] 2026 미쉐린 빕구르망 선정, 오일제 들깨미역국 밀키트 800g",
+    "price": 15000,
+    "link": "https://item.cjonstyle.com/item/2084741952?channelCode=30002002",
+    "slot_id": "30156",
+    "title": "[똘똘한쇼] 미쉐린 빕구르망 맛집! 오일제 미역국 라이브 특가!🍲",
+    "pgm": "똘똘한쇼",
+    "pgm_cd": "1123",
+    "category": "식품·건강"
    },
    {
     "start": "11:00",

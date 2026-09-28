@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-10",
- "updated_at": "2026-09-28T18:01:00+09:00",
+ "updated_at": "2026-09-28T23:31:02+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -363,8 +363,8 @@
     "price": 487700,
     "link": "https://store.kakao.com/ysjlabs/products/712189868",
     "slot_id": "60324",
-    "pgm": "켄싱턴 설악비치",
-    "title": "가을 여행+호텔 힐링까지!",
+    "pgm": "켄싱턴 설악비치_가을힐링여행",
+    "title": "설악산과 동해를 함께!",
     "category": "여행"
    },
    {

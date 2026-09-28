@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-09-28T18:00:55+09:00",
+ "updated_at": "2026-09-28T23:30:51+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -12963,7 +12963,7 @@
     "end": "12:59",
     "brand": "보스(BOSE)",
     "product": "[프리오더] 보스 울트라 오픈 이어버드 2세대",
-    "price": 359000,
+    "price": 351820,
     "link": "https://item.cjonstyle.com/item/2093847608?channelCode=30002002",
     "slot_id": "30240",
     "title": "다시보는 CJ단독 보스(BOSE) 이어폰 신상 오픈🎧론칭 최대 할인혜택",
@@ -13466,7 +13466,7 @@
     "start": "18:00",
     "end": "18:59",
     "brand": "세라젬",
-    "product": "마스터  V5 척추온열 의료기기",
+    "product": "마스터 V5 척추온열 의료기기",
     "price": 3657500,
     "link": "https://item.cjonstyle.com/item/2082610933?channelCode=30002002",
     "slot_id": "29801",
@@ -13543,6 +13543,19 @@
    {
     "start": "20:00",
     "end": "20:59",
+    "brand": "똘똘한쇼",
+    "product": "올레오에스테파 시그니처 조기수확 엑스트라버진 500ml",
+    "price": 43800,
+    "link": "https://item.cjonstyle.com/item/2084734740?channelCode=30002002",
+    "slot_id": "29212",
+    "title": "[똘똘한쇼] 올레오에스테파 프리미엄 엑스트라 버진 올리브 오일 초특가!",
+    "pgm": "똘똘한쇼",
+    "pgm_cd": "1123",
+    "category": "식품·건강"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
     "brand": "핑크원더",
     "product": "CJ단독/30%OFF] 호호바 환절기 세트 (호호바오일+호호바토너+비타크림+비건패드+스프레이)",
     "price": 144550,
@@ -13597,7 +13610,7 @@
     "end": "21:59",
     "brand": "보스(BOSE)",
     "product": "[프리오더] 보스 울트라 오픈 이어버드 2세대",
-    "price": 359000,
+    "price": 351820,
     "link": "https://item.cjonstyle.com/item/2093847608?channelCode=30002002",
     "slot_id": "29806",
     "title": "보스 헤드폰2세대, 이어버드 2세대, CJ 선론칭 특가전",
@@ -13787,6 +13800,19 @@
     "pgm": "라이브쇼",
     "pgm_cd": "1013",
     "category": "여성패션"
+   },
+   {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "똘똘한쇼",
+    "product": "온예록 스테인리스 밀폐용기 6종 세트 + 바큐머 + 멀티핸들",
+    "price": 119000,
+    "link": "https://item.cjonstyle.com/item/2092841122?channelCode=30002002",
+    "slot_id": "29213",
+    "title": "[똘똘한쇼] 온예록 스텐 밀폐용기, 딱 하루만 특가!",
+    "pgm": "똘똘한쇼",
+    "pgm_cd": "1123",
+    "category": "주방·잡화"
    },
    {
     "start": "17:00",
@@ -14192,6 +14218,19 @@
     "category": "잡화·슈즈"
    },
    {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "똘똘한쇼",
+    "product": "명동칼국수 생면으로 만든 칼국수+마늘김치 세트",
+    "price": 23900,
+    "link": "https://item.cjonstyle.com/item/2084735489?channelCode=30002002",
+    "slot_id": "29214",
+    "title": "명동칼국수 마늘김치 100% 국내산 김치 단독 초특가 LIVE🔥",
+    "pgm": "똘똘한쇼",
+    "pgm_cd": "1123",
+    "category": "식품·건강"
+   },
+   {
     "start": "17:00",
     "end": "17:59",
     "brand": "라이나생명",
@@ -14229,6 +14268,18 @@
     "pgm": "라이브쇼",
     "pgm_cd": "0216",
     "category": "가구·침구"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "",
+    "product": "락포트 아울렛 특가! 최대 55% 할인",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/30013",
+    "slot_id": "30013",
+    "title": "락포트 아울렛 특가! 최대 55% 할인",
+    "pgm": "라이브쇼",
+    "pgm_cd": "1008"
    },
    {
     "start": "19:00",
@@ -14365,7 +14416,7 @@
     "end": "21:54",
     "brand": "보스(BOSE)",
     "product": "[프리오더] 보스 울트라 오픈 이어버드 2세대",
-    "price": 359000,
+    "price": 351820,
     "link": "https://item.cjonstyle.com/item/2093847608?channelCode=30002002",
     "slot_id": "29831",
     "title": "[최화정쇼] 최화정쇼 단독 론칭 기획가 OPEN!",
