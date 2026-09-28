@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-28T21:00:13+09:00",
+ "generated_at": "2026-09-28T22:00:10+09:00",
  "today": "2026-09-28",
  "dates": [
   "2026-09-27",
@@ -721,7 +721,7 @@ window.SCHEDULE = {
      ],
      "title": "[현명쇼] 프라다 7만▼ 무이자 60개월 & 커피쿠폰",
      "pgm": "현명쇼(노블레스)",
-     "hot": 9
+     "hot": 3
     },
     {
      "start": "22:00",
@@ -6910,7 +6910,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -7974,7 +7974,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "12:30",
@@ -8097,7 +8097,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "13:00",
@@ -9676,7 +9676,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "19:00",
@@ -10578,8 +10578,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 5
+     "category": "푸드"
     },
     {
      "start": "20:00",
@@ -10878,7 +10877,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 7
     },
     {
      "start": "21:00",
