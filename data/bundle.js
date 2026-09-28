@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-28T11:30:45+09:00",
+ "generated_at": "2026-09-28T11:38:46+09:00",
  "today": "2026-09-28",
  "dates": [
   "2026-09-27",
@@ -523,7 +523,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[노블리타] 이탈리아 18K주얼리 BIG 혜택 특집전",
-     "pgm": "노블리타 (노블레스)"
+     "pgm": "노블리타 (노블레스)",
+     "hot": 9
     },
     {
      "start": "12:00",
@@ -5564,7 +5565,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -6172,7 +6173,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 9
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -7274,7 +7275,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -19489,8 +19490,7 @@ window.SCHEDULE = {
      "slot_id": "59958",
      "pgm": "드시모네x민화마켓",
      "title": "1시간 한정 특가",
-     "category": "식품",
-     "hot": 8
+     "category": "식품"
     },
     {
      "start": "10:00",
