@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-29T08:20:12+09:00",
+ "generated_at": "2026-09-29T08:40:13+09:00",
  "today": "2026-09-29",
  "dates": [
   "2026-09-28",
@@ -417,7 +417,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 막스마라 코트 월 1만원대",
      "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 2
+     "hot": 5
     },
     {
      "start": "07:00",
@@ -6672,7 +6672,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 8
     },
     {
      "start": "07:20",
@@ -6786,7 +6786,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "08:00",
@@ -6882,7 +6882,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 6
     },
     {
      "start": "09:30",
@@ -17945,7 +17945,8 @@ window.SCHEDULE = {
      "slot_id": "58732",
      "pgm": "크리넥스&좋은느낌",
      "title": "쎈딜 물가안정 프로젝트",
-     "category": "리빙"
+     "category": "리빙",
+     "hot": 1
     },
     {
      "start": "08:30",
@@ -17957,7 +17958,8 @@ window.SCHEDULE = {
      "slot_id": "59984",
      "pgm": "덴프스 9월라이브",
      "title": "덴프스와 함께 하반기 준비",
-     "category": "식품"
+     "category": "식품",
+     "hot": 2
     },
     {
      "start": "08:30",
@@ -19177,8 +19179,8 @@ window.SCHEDULE = {
    "2026-09-28",
    "2026-09-29"
   ],
-  "matched": 11,
-  "unmatched": 7
+  "matched": 13,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
