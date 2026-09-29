@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-29T20:00:12+09:00",
+ "generated_at": "2026-09-29T21:00:13+09:00",
  "today": "2026-09-29",
  "dates": [
   "2026-09-28",
@@ -7190,7 +7190,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -7520,7 +7520,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -7703,8 +7703,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 8
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -7845,7 +7844,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -7920,8 +7919,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈",
-     "hot": 10
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -9595,7 +9593,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "19:00",
@@ -10298,7 +10296,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 9
     },
     {
      "start": "20:00",
@@ -10641,7 +10640,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 2
     },
     {
      "start": "20:00",
@@ -21407,7 +21407,7 @@ window.SCHEDULE = {
      "pgm": "베이비 브레짜 카쇼라 특가",
      "title": "7%+5% 페이&쿠폰 할인",
      "category": "키즈",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -22568,7 +22568,7 @@ window.SCHEDULE = {
    "2026-09-29"
   ],
   "matched": 13,
-  "unmatched": 6
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
