@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-29T19:00:09+09:00",
+ "generated_at": "2026-09-29T20:00:12+09:00",
  "today": "2026-09-29",
  "dates": [
   "2026-09-28",
@@ -7704,7 +7704,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -7845,7 +7845,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -7921,7 +7921,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -9594,7 +9594,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 6
     },
     {
      "start": "19:00",
@@ -21357,8 +21358,7 @@ window.SCHEDULE = {
      "slot_id": "59984",
      "pgm": "덴프스 9월라이브",
      "title": "덴프스와 함께 하반기 준비",
-     "category": "식품",
-     "hot": 10
+     "category": "식품"
     },
     {
      "start": "08:30",
