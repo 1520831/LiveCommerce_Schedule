@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-29T11:00:19+09:00",
+ "generated_at": "2026-09-29T11:20:38+09:00",
  "today": "2026-09-29",
  "dates": [
   "2026-09-28",
@@ -7202,8 +7202,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -7586,8 +7585,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 8
+     "category": "푸드"
     },
     {
      "start": "10:00",
@@ -8105,7 +8103,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -8180,7 +8179,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -8320,7 +8320,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -17957,7 +17958,7 @@ window.SCHEDULE = {
      "pgm": "덴프스 9월라이브",
      "title": "덴프스와 함께 하반기 준비",
      "category": "식품",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "08:30",
@@ -18020,7 +18021,7 @@ window.SCHEDULE = {
      "pgm": "프리미엄 스킨케어 무스텔라",
      "title": "라이브 특가 무배+사은품",
      "category": "키즈",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -19180,8 +19181,8 @@ window.SCHEDULE = {
    "2026-09-28",
    "2026-09-29"
   ],
-  "matched": 14,
-  "unmatched": 5
+  "matched": 15,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
