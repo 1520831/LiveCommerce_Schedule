@@ -2,14 +2,14 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-10",
- "updated_at": "2026-09-29T12:01:17+09:00",
+ "updated_at": "2026-09-29T18:01:03+09:00",
  "days": {
   "2026-10-01": [
    {
     "start": "10:00",
     "end": "10:59",
     "brand": "써스데이아일랜드",
-    "product": "[본사직영] 패턴 보더MIX 미니 원피스_T256MOP165W",
+    "product": "패턴 보더MIX 미니 원피스_T256MOP165W",
     "price": 127080,
     "link": "https://item.cjonstyle.com/item/2069256041?channelCode=30002002",
     "slot_id": "29251",
@@ -22,13 +22,26 @@
     "start": "10:00",
     "end": "10:59",
     "brand": "케어베어",
-    "product": "텐더하트베어포근플리스점퍼",
+    "product": "[하짱네][택가 77900원]텐더하트베어포근플리스점퍼",
     "price": 53900,
     "link": "https://item.cjonstyle.com/item/2091735026?channelCode=30002002",
     "slot_id": "30139",
     "title": "[케어베어x하짱네]하짱네 PICK! 케어베어로 가을등원룩 완성!~81%",
     "pgm": "인플루언서LIVE",
     "pgm_cd": "1052",
+    "category": "여성패션"
+   },
+   {
+    "start": "10:20",
+    "end": "11:24",
+    "brand": "지스튜디오",
+    "product": "26FW 야크울 블렌디드 이중직 롱코트",
+    "price": 284050,
+    "link": "https://item.cjonstyle.com/item/2090680789?channelCode=30002002",
+    "slot_id": "30030",
+    "title": "🎶지스튜디오 신상 최초 공개",
+    "pgm": "스타일 나래이션",
+    "pgm_cd": "1116",
     "category": "여성패션"
    },
    {
@@ -58,7 +71,7 @@
    },
    {
     "start": "12:00",
-    "end": "12:59",
+    "end": "13:04",
     "brand": "유에스피에이",
     "product": "[U.S POLO ASSN.] 26FW 헤리티지 울100 가디건 1종 남성",
     "price": 98100,
@@ -175,23 +188,37 @@
     "start": "21:45",
     "end": "22:44",
     "brand": "",
-    "product": "김호영의 투머치쇼X광화문연가 뮤지컬 티켓! 최대 ~57% 할인 특가",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/29839",
+    "product": "[광화문연가] 뮤지컬 예매권",
+    "price": 84000,
+    "link": "https://item.cjonstyle.com/item/2094664022?channelCode=30002002",
     "slot_id": "29839",
     "title": "김호영의 투머치쇼X광화문연가 뮤지컬 티켓! 최대 ~57% 할인 특가",
     "pgm": "김호영의 투머치쇼",
-    "pgm_cd": "1083"
+    "pgm_cd": "1083",
+    "category": "서비스·렌탈"
    }
   ],
   "2026-10-02": [
    {
+    "start": "09:40",
+    "end": "10:59",
+    "brand": "빈다(Vinda)",
+    "product": "빈다 프로엑스 걸어쓰는 키친타월 3겹, 164매, 3팩",
+    "price": 10800,
+    "link": "https://item.cjonstyle.com/item/2011949423?channelCode=30002002",
+    "slot_id": "29840",
+    "title": "[맘만하니] 리베로 기저귀 최저가❤️ 온키즈패스 혜택까지!! ✨",
+    "pgm": "맘만하니",
+    "pgm_cd": "0099",
+    "category": "주방·잡화"
+   },
+   {
     "start": "10:00",
     "end": "10:59",
     "brand": "다니엘크레뮤",
-    "product": "26SS 워셔블 수피마 코튼 100% 크루넥 니트",
-    "price": 53100,
-    "link": "https://item.cjonstyle.com/item/2080821394?channelCode=30002002",
+    "product": "26SS 워셔블 코튼 100% 가디건",
+    "price": 62100,
+    "link": "https://item.cjonstyle.com/item/2080821673?channelCode=30002002",
     "slot_id": "29841",
     "title": "3만 원대로 데일리 가을 니트 스타일 완성! 다니엘크레뮤 반값 SALE",
     "pgm": "라이브쇼",

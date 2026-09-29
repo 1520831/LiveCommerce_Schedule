@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-10",
- "updated_at": "2026-09-29T12:01:23+09:00",
+ "updated_at": "2026-09-29T18:01:10+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -33,7 +33,7 @@
     "start": "08:30",
     "end": "10:00",
     "brand": "그레인온",
-    "product": "그레인온 골드 카무트효소G 3개월 (2g x 90포)",
+    "product": "그레인온 골드 카무트효소G 3개월 (2g x 90포) + 파로저당씬칩 + 파로500g",
     "price": 34900,
     "link": "https://store.kakao.com/grainon/products/469647666",
     "slot_id": "60082",
@@ -82,7 +82,7 @@
     "end": "11:30",
     "brand": "신일전자 온라인스토어",
     "product": "신일 전기히터 2IN1 카본 탄소발열 히터 온풍기",
-    "price": 128000,
+    "price": 198000,
     "link": "https://store.kakao.com/shinilonline/products/632210789",
     "slot_id": "60477",
     "pgm": "신일 전기 히터 난로 가습기",
@@ -150,15 +150,15 @@
     "category": "리빙"
    },
    {
-    "start": "17:10",
-    "end": "18:40",
-    "brand": "신선하랑",
-    "product": "(농할)자연방사 난각번호 1번 무항생제 유정란 20구 에어캡 안전포장",
-    "price": 35000,
-    "link": "https://store.kakao.com/ssharang/products/712533935",
-    "slot_id": "60431",
-    "pgm": "난각번호 1번 유정란 20구",
-    "title": "농할가 8720원 무료배송",
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "홍천한우마을",
+    "product": "[HC한우마을]1등급 한우암소 특수부위(모듬)300g 외 인기상품 선택1",
+    "price": 27900,
+    "link": "https://store.kakao.com/hanukorea01/products/136610960",
+    "slot_id": "60598",
+    "pgm": "HC한우마을 1등급특수부위",
+    "title": "300g1팩외 로스모음",
     "category": "식품"
    },
    {
@@ -189,9 +189,9 @@
     "start": "19:00",
     "end": "20:30",
     "brand": "피에브",
-    "product": "피에브 고체 탈취제 250g 5종 에어워셔 화장실 하수구 냉장고 냄새 제거",
-    "price": 19800,
-    "link": "https://store.kakao.com/piev/products/620706432",
+    "product": "",
+    "price": 0,
+    "link": "https://shoppinglive.kakao.com/live/60312",
     "slot_id": "60312",
     "pgm": "피에브 고체탈취제",
     "title": "완연한 가을 우아한 향기로!",
@@ -244,6 +244,18 @@
     "pgm": "베네통키즈 간절기",
     "title": "아우터 &상하의 라이브 특가",
     "category": "패션"
+   },
+   {
+    "start": "21:00",
+    "end": "22:30",
+    "brand": "좋은세상두원",
+    "product": "홈포차 인기메뉴 3종세트 마라 유부전골/떡볶이/튀김 외 안주류 모음세트",
+    "price": 22500,
+    "link": "https://store.kakao.com/doowonfns/products/795215629",
+    "slot_id": "60533",
+    "pgm": "좋은세상 최초 라이브",
+    "title": "오늘만 공개하는 홈포차 9종",
+    "category": "식품"
    }
   ],
   "2026-10-02": [
@@ -300,7 +312,7 @@
     "end": "11:30",
     "brand": "TRUECOOK",
     "product": "트루쿡 실리콘 원목 조리도구 세트/계란말이팬/한방울 에그팬 모음",
-    "price": 59000,
+    "price": 75000,
     "link": "https://store.kakao.com/ssdbrothers/products/464327370",
     "slot_id": "60271",
     "pgm": "트루쿡 조리도구 세트/",
@@ -330,6 +342,18 @@
     "pgm": "리스테린! 방송중 최대 혜택",
     "title": "환절기에도 입속은 상쾌하게",
     "category": "리빙"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "쿠쿠전자(주)",
+    "product": "쿠쿠 에코웨일 큐브 메가 3L 음식물처리기 눌음방지 (국내 생산)",
+    "price": 769000,
+    "link": "https://store.kakao.com/cuckooel/products/779037456",
+    "slot_id": "60262",
+    "pgm": "쿠쿠 큐브 메가 3L",
+    "title": "음식물처리기 쎈딜 라이브!",
+    "category": "테크"
    },
    {
     "start": "19:00",
@@ -442,6 +466,18 @@
     "category": "식품"
    },
    {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "쿠쿠전자(주)",
+    "product": "쿠쿠 미식컬렉션 마스터셰프 사일런스 큐브",
+    "price": 688000,
+    "link": "https://store.kakao.com/cuckooel/products/773583047",
+    "slot_id": "60263",
+    "pgm": "쿠쿠 쎈딜 특가 라이브",
+    "title": "오늘이 마지막!",
+    "category": "테크"
+   },
+   {
     "start": "20:30",
     "end": "22:00",
     "brand": "단순생활",
@@ -550,6 +586,18 @@
     "pgm": "[바툼]메종 욕실온풍기",
     "title": "무타공 욕실 난방기43%할인",
     "category": "테크"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "에코따숨",
+    "product": "[파라핀전문회사] 국내산 에코따숨 파라핀베스+전상품 왁스증정",
+    "price": 210000,
+    "link": "https://store.kakao.com/ecotasum/products/136505849",
+    "slot_id": "60573",
+    "pgm": "에코따숨 파라핀 베스&왁스",
+    "title": "앵콜 라이브 특가",
+    "category": "리빙"
    }
   ]
  }

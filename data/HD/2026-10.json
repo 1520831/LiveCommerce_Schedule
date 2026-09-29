@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-10",
- "updated_at": "2026-09-29T12:01:08+09:00",
+ "updated_at": "2026-09-29T18:00:56+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -369,6 +369,25 @@
     "pgm": "[종근당건강] 건강식품 (건강식품2)"
    },
    {
+    "start": "13:00",
+    "end": "13:59",
+    "brand": "메르비",
+    "product": "플래티넘 피부관리기기 비타민C앰플 패키지 (앰플:27년4월까지)",
+    "price": 253000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251864541",
+    "slot_id": "202610026001",
+    "items": [
+     {
+      "brand": "메르비",
+      "product": "플래티넘 피부관리기기 비타민C앰플 패키지 (앰플:27년4월까지)",
+      "price": 253000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251864541"
+     }
+    ],
+    "title": "[메르비] 갈바닉 초음파 뷰티 디바이스",
+    "pgm": "[로츠] 뷰티 디바이스 (뷰티2)"
+   },
+   {
     "start": "14:00",
     "end": "14:59",
     "brand": "김씨언니마켓",
@@ -426,6 +445,25 @@
     "pgm": "[유로룩스] 주방용품 (가전)"
    },
    {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "에르노",
+    "product": "하이넥 니트 롱 패딩 아이보리(PI00191DR)",
+    "price": 1299000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251324716",
+    "slot_id": "202610026019",
+    "items": [
+     {
+      "brand": "에르노",
+      "product": "하이넥 니트 롱 패딩 아이보리(PI00191DR)",
+      "price": 1299000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251324716"
+     }
+    ],
+    "title": "[현명쇼] 프라다 15만▼ 전 상품 무이자 60개월",
+    "pgm": "[재방] 현명쇼 (노블레스팀)"
+   },
+   {
     "start": "19:00",
     "end": "19:59",
     "brand": "에바큐브",
@@ -449,14 +487,14 @@
     "end": "21:59",
     "brand": "한민금거래소",
     "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-    "price": 258500,
+    "price": 256200,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581",
     "slot_id": "202610026014",
     "items": [
      {
       "brand": "한민금거래소",
       "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-      "price": 258500,
+      "price": 256200,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581"
      }
     ],
@@ -540,6 +578,25 @@
     ],
     "title": "[현명쇼] 버버리/막스마라/구찌 전상품 무이자 60개월",
     "pgm": "현명쇼(노블레스)"
+   },
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "스튜디오톰보이",
+    "product": "[톰보이] 핸드메이드 울블렌드 자켓 (9176413991) 9176413991",
+    "price": 279000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253652222",
+    "slot_id": "202610036001",
+    "items": [
+     {
+      "brand": "스튜디오톰보이",
+      "product": "[톰보이] 핸드메이드 울블렌드 자켓 (9176413991) 9176413991",
+      "price": 279000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253652222"
+     }
+    ],
+    "title": "스튜디오 톰보이✨ 26F/W 특별가 OPEN💕",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
    },
    {
     "start": "10:00",
@@ -673,6 +730,25 @@
     ],
     "title": "[헤르마] 가을맞이 고급스러운 데일리백 쇼핑 찬스👜",
     "pgm": "[헤르마] 잡화 (패션잡화)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "코데즈컴바인",
+    "product": "스웨이드 블루종 점퍼 (CLA-LE502W2) CLALE502W20",
+    "price": 199000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2245096508",
+    "slot_id": "202610036012",
+    "items": [
+     {
+      "brand": "코데즈컴바인",
+      "product": "스웨이드 블루종 점퍼 (CLA-LE502W2) CLALE502W20",
+      "price": 199000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2245096508"
+     }
+    ],
+    "title": "[코데즈컴바인] 스타일리시한 모던 캐주얼 가을룩🍂",
+    "pgm": "편성기획 삽입용 (편성)"
    }
   ],
   "2026-10-04": [
@@ -713,6 +789,25 @@
     ],
     "title": "[현명쇼] 보테가베네타 마지막 수량! 전상품 무이자60",
     "pgm": "[재방] 현명쇼 (노블레스팀)"
+   },
+   {
+    "start": "13:00",
+    "end": "13:59",
+    "brand": "유니드",
+    "product": "올인원 스탠딩 스마트 칫솔 스패셜패키지(12개입)+데일리패키지(10개입)(체험분 1개 추가증정)",
+    "price": 48900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248731184",
+    "slot_id": "202610046004",
+    "items": [
+     {
+      "brand": "유니드",
+      "product": "올인원 스탠딩 스마트 칫솔 스패셜패키지(12개입)+데일리패키지(10개입)(체험분 1개 추가증정)",
+      "price": 48900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248731184"
+     }
+    ],
+    "title": "일명 문익점 칫솔 칫솔 안에 치간칫솔이 쏘옥",
+    "pgm": "[유니드] 칫솔 (리빙)"
    },
    {
     "start": "18:00",

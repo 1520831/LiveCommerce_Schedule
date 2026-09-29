@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-29T12:01:08+09:00",
+ "updated_at": "2026-09-29T18:00:56+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -10357,6 +10357,24 @@
     "pgm": "노블리타 (노블레스)"
    },
    {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "조니스 그로서리",
+    "product": "[쇼라][조니스그로서리][BEST입문팩] 납작 플레인1 + 초코1 + 저당1 + 한끼 오곡1 + 카카오1",
+    "price": 53900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253383970",
+    "slot_id": "202609286001",
+    "items": [
+     {
+      "brand": "조니스 그로서리",
+      "product": "[쇼라][조니스그로서리][BEST입문팩] 납작 플레인1 + 초코1 + 저당1 + 한끼 오곡1 + 카카오1",
+      "price": 53900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253383970"
+     }
+    ],
+    "title": "無설탕 無첨가물! 통귀리 가득 납작 청크 그래놀라"
+   },
+   {
     "start": "13:00",
     "end": "13:59",
     "brand": "주크",
@@ -10507,6 +10525,24 @@
     ],
     "title": "[50% 적립] 아서앤그레이스/프라다 명품 패션 특별전",
     "pgm": "[50% 적립 명품특별전] (패션잡화)"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "조니스 그로서리",
+    "product": "[쇼라][조니스그로서리][BEST입문팩] 납작 플레인1 + 초코1 + 저당1 + 한끼 오곡1 + 카카오1",
+    "price": 53900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253383970",
+    "slot_id": "202609286022",
+    "items": [
+     {
+      "brand": "조니스 그로서리",
+      "product": "[쇼라][조니스그로서리][BEST입문팩] 납작 플레인1 + 초코1 + 저당1 + 한끼 오곡1 + 카카오1",
+      "price": 53900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253383970"
+     }
+    ],
+    "title": "無설탕 無첨가물! 통귀리 가득 납작 청크 그래놀라"
    },
    {
     "start": "20:00",
@@ -10739,36 +10775,17 @@
     "pgm": "[나이스클랍] 의류 (패션1Lab)"
    },
    {
-    "start": "13:00",
-    "end": "13:59",
-    "brand": "코아시스",
-    "product": "[플루] 퍼퓸드 스파 스크럽 바디워시 500g 4개 + 퍼퓸드 프루티 바디스크럽 200g 2개 + 손소독제키링 3종(",
-    "price": 34900,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253763264",
-    "slot_id": "202609296008",
-    "items": [
-     {
-      "brand": "코아시스",
-      "product": "[플루] 퍼퓸드 스파 스크럽 바디워시 500g 4개 + 퍼퓸드 프루티 바디스크럽 200g 2개 + 손소독제키링 3종(",
-      "price": 34900,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253763264"
-     }
-    ],
-    "title": "[플루] 바디워시 4종부터 바디스크럽 2종까지 함께!",
-    "pgm": "[코아시스] 플루 바디스크럽 (뷰티브랜드)"
-   },
-   {
     "start": "14:00",
     "end": "14:59",
     "brand": "미디엘",
-    "product": "맥주효모 탈모 샴푸 1015g 4개",
+    "product": "미디엘 맥주효모 탈모 대용량샴푸 4개",
     "price": 100000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251340216",
     "slot_id": "202609296009",
     "items": [
      {
       "brand": "미디엘",
-      "product": "맥주효모 탈모 샴푸 1015g 4개",
+      "product": "미디엘 맥주효모 탈모 대용량샴푸 4개",
       "price": 100000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251340216"
      }
@@ -10837,16 +10854,16 @@
     "start": "18:00",
     "end": "18:59",
     "brand": "스튜디오 점선면",
-    "product": "국중박 우수상품공모 선정작 석굴암 조명(대) 돌색/나무색",
-    "price": 106000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252206149",
+    "product": "한글날 기념 굿즈 홍살문조명 세종대왕 영릉 버전",
+    "price": 85000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253736248",
     "slot_id": "202609296013",
     "items": [
      {
       "brand": "스튜디오 점선면",
-      "product": "국중박 우수상품공모 선정작 석굴암 조명(대) 돌색/나무색",
-      "price": 106000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252206149"
+      "product": "한글날 기념 굿즈 홍살문조명 세종대왕 영릉 버전",
+      "price": 85000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253736248"
      }
     ],
     "title": "[한글날 기념] 굿즈 최초공개 방송 중 구매 찬스",
@@ -10856,20 +10873,58 @@
     "start": "19:00",
     "end": "19:59",
     "brand": "골드앤",
-    "product": "황소 디자인 실버바 3.75g [1+1][2개 구성/개별포장]",
-    "price": 69500,
+    "product": "[라이브방송]골드앤 황소 디자인 실버바 3.75g [1+1][2개 구성/개별포장]",
+    "price": 69400,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247311092",
     "slot_id": "202609296014",
     "items": [
      {
       "brand": "골드앤",
-      "product": "황소 디자인 실버바 3.75g [1+1][2개 구성/개별포장]",
-      "price": 69500,
+      "product": "[라이브방송]골드앤 황소 디자인 실버바 3.75g [1+1][2개 구성/개별포장]",
+      "price": 69400,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247311092"
      }
     ],
     "title": "[골드앤] 24K순금 골드바 팬던트 10만원대 타임찬스",
     "pgm": "[골드앤] 주얼리 (패션잡화)"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "조니스 그로서리",
+    "product": "[쇼라][조니스그로서리][BEST입문팩] 납작 플레인1 + 초코1 + 저당1 + 한끼 오곡1 + 카카오1",
+    "price": 53900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253383970",
+    "slot_id": "202609296025",
+    "items": [
+     {
+      "brand": "조니스 그로서리",
+      "product": "[쇼라][조니스그로서리][BEST입문팩] 납작 플레인1 + 초코1 + 저당1 + 한끼 오곡1 + 카카오1",
+      "price": 53900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253383970"
+     }
+    ],
+    "title": "無설탕 無첨가물! 통귀리 가득 납작 청크 그래놀라",
+    "pgm": "[재방] 조니스그로서리 그래놀라 (멀티커머스)"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "바디프랜드",
+    "product": "[공식인증리퍼] 바디프랜드 팔콘2026(뉴팔콘) 안마의자 무상AS 1년 (뉴팔콘리퍼)",
+    "price": 3500000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252561962",
+    "slot_id": "202609296002",
+    "items": [
+     {
+      "brand": "바디프랜드",
+      "product": "[공식인증리퍼] 바디프랜드 팔콘2026(뉴팔콘) 안마의자 무상AS 1년 (뉴팔콘리퍼)",
+      "price": 3500000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252561962"
+     }
+    ],
+    "title": "[바디프랜드] 한가위페스타 리퍼 대전",
+    "pgm": "[재방] 바디프랜드 안마의자 (렌탈)"
    },
    {
     "start": "20:00",
@@ -10908,6 +10963,25 @@
     ],
     "title": "[50% 적립] 막스마라/톰브라운 FW의류 특집전",
     "pgm": "[50% 적립 명품특별전] (패션잡화)"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "노부영",
+    "product": "노부영 베이비15+ 베스트30(베스트15+스테디15)",
+    "price": 505000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2210837058",
+    "slot_id": "202609296024",
+    "items": [
+     {
+      "brand": "노부영",
+      "product": "노부영 베이비15+ 베스트30(베스트15+스테디15)",
+      "price": 505000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2210837058"
+     }
+    ],
+    "title": "[노부영] 아이 오감 발달을 위한 영어 원서 그림책📚",
+    "pgm": "[재방] 노부영 (액티브라이프)"
    },
    {
     "start": "22:00",
@@ -10967,6 +11041,25 @@
     ],
     "title": "[노블리타] 한가위 이탈리아 18K주얼리 BIG 페스타",
     "pgm": "[재방] 노블리타 (노블레스)"
+   },
+   {
+    "start": "07:00",
+    "end": "07:59",
+    "brand": "한민금거래소",
+    "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
+    "price": 256200,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581",
+    "slot_id": "202609306024",
+    "items": [
+     {
+      "brand": "한민금거래소",
+      "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
+      "price": 256200,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581"
+     }
+    ],
+    "title": "[한민금거래소] 금을 생산하는 기업!",
+    "pgm": "[재방] 한민금거래소 (패션잡화)"
    },
    {
     "start": "08:00",
@@ -11030,14 +11123,14 @@
     "end": "11:59",
     "brand": "에떼르노",
     "product": "R127 데이지링 반지 925",
-    "price": 300000,
+    "price": 190000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253697431",
     "slot_id": "202609306007",
     "items": [
      {
       "brand": "에떼르노",
       "product": "R127 데이지링 반지 925",
-      "price": 300000,
+      "price": 190000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253697431"
      }
     ],
@@ -11045,19 +11138,38 @@
     "pgm": "[에떼르노] 주얼리 (패션잡화)"
    },
    {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "노부영",
+    "product": "노부영 베이비15+ 베스트30(베스트15+스테디15)",
+    "price": 505000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2210837058",
+    "slot_id": "202609306025",
+    "items": [
+     {
+      "brand": "노부영",
+      "product": "노부영 베이비15+ 베스트30(베스트15+스테디15)",
+      "price": 505000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2210837058"
+     }
+    ],
+    "title": "[노부영] 아이 오감 발달을 위한 영어 원서 그림책📚",
+    "pgm": "[재방] 노부영 (액티브라이프)"
+   },
+   {
     "start": "12:00",
     "end": "12:59",
     "brand": "프레스샷",
-    "product": "F 5박스",
-    "price": 200000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253562378",
+    "product": "마그코어 마그네슘 액상비타민 10개입 3박스",
+    "price": 92900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253909446",
     "slot_id": "202609306008",
     "items": [
      {
       "brand": "프레스샷",
-      "product": "F 5박스",
-      "price": 200000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253562378"
+      "product": "마그코어 마그네슘 액상비타민 10개입 3박스",
+      "price": 92900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253909446"
      }
     ],
     "title": "[맛춤가게] 단 1시간, 단독 마그네슘 1박스 증정",
@@ -11086,16 +11198,16 @@
     "start": "14:00",
     "end": "14:59",
     "brand": "알래스카큐브",
-    "product": "데오우드 퍼퓸 세트 (샤워바 + 탈취제)",
-    "price": 29700,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251976384",
+    "product": "쿨멘톨 퍼퓸 샤워바",
+    "price": 11000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250930506",
     "slot_id": "202609306010",
     "items": [
      {
       "brand": "알래스카큐브",
-      "product": "데오우드 퍼퓸 세트 (샤워바 + 탈취제)",
-      "price": 29700,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251976384"
+      "product": "쿨멘톨 퍼퓸 샤워바",
+      "price": 11000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250930506"
      }
     ],
     "title": "알래스카큐브 첫 쇼라 론칭!",
@@ -11143,16 +11255,16 @@
     "start": "17:00",
     "end": "17:59",
     "brand": "로라애슐리",
-    "product": "파르테르 고밀도 극세사 담요 S 100x150cm",
+    "product": "아델린 고밀도 극세사 담요 S 100x150cm",
     "price": 42000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253701583",
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253701589",
     "slot_id": "202609306013",
     "items": [
      {
       "brand": "로라애슐리",
-      "product": "파르테르 고밀도 극세사 담요 S 100x150cm",
+      "product": "아델린 고밀도 극세사 담요 S 100x150cm",
       "price": 42000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253701583"
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253701589"
      }
     ],
     "title": "[로라애슐리] 블랭킷/발매트 등 FW 홈패브릭 최초공개",
@@ -11162,16 +11274,16 @@
     "start": "18:00",
     "end": "18:59",
     "brand": "생로랑",
-    "product": "생로랑 590076 GIV6E 1000 카산드라 모노그램 은장 지퍼 바디백 슬링백",
-    "price": 2000000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253432960",
+    "product": "생로랑 379039 CWU01 1000 카산드라 모노그램 마틀라세 금장 스몰 클러치백",
+    "price": 1500000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253432869",
     "slot_id": "202609306014",
     "items": [
      {
       "brand": "생로랑",
-      "product": "생로랑 590076 GIV6E 1000 카산드라 모노그램 은장 지퍼 바디백 슬링백",
-      "price": 2000000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253432960"
+      "product": "생로랑 379039 CWU01 1000 카산드라 모노그램 마틀라세 금장 스몰 클러치백",
+      "price": 1500000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253432869"
      }
     ],
     "title": "[50% 적립] 몽클레어 구매하고 100만P 받기",
