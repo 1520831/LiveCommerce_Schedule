@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-10",
- "updated_at": "2026-09-29T18:01:10+09:00",
+ "updated_at": "2026-09-29T23:31:06+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -160,6 +160,18 @@
     "pgm": "HC한우마을 1등급특수부위",
     "title": "300g1팩외 로스모음",
     "category": "식품"
+   },
+   {
+    "start": "18:00",
+    "end": "19:30",
+    "brand": "에클",
+    "product": "에클 음식물 처리기 PLUS",
+    "price": 429000,
+    "link": "https://store.kakao.com/ecle/products/767010196",
+    "slot_id": "60614",
+    "pgm": "가을맞이 에클 쇼핑라이브",
+    "title": "음식물처리기 단독 특가",
+    "category": "테크"
    },
    {
     "start": "19:00",
@@ -359,7 +371,7 @@
     "start": "19:00",
     "end": "20:30",
     "brand": "와이에스제이랩스",
-    "product": "[카카오쇼핑라이브] 켄싱턴 설악비치 가을여행 PKG",
+    "product": "[카카오쇼핑라이브] 켄싱턴 설악비치 가을힐링여행 PKG",
     "price": 487700,
     "link": "https://store.kakao.com/ysjlabs/products/712189868",
     "slot_id": "60324",

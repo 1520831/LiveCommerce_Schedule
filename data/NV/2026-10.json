@@ -2,7 +2,7 @@
  "company": "NV",
  "channel": "shoppinglive",
  "month": "2026-10",
- "updated_at": "2026-09-29T18:02:12+09:00",
+ "updated_at": "2026-09-29T23:31:59+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -1607,7 +1607,6 @@
     "pgm": "그릭데이 푸드페스타 라이브 역대급 혜택💞",
     "title": "그릭데이 푸드페스타 특가💞",
     "items": [
-     {},
      {},
      {},
      {},
@@ -3453,13 +3452,26 @@
     "start": "10:00",
     "end": "",
     "brand": "폴햄키즈",
-    "product": "폴햄키즈 공용 무브 후드 집업_PKF2TC3571",
-    "price": 19900,
+    "product": "폴햄키즈 공용 핫스킨 세트_PKF4UI3910",
+    "price": 11900,
     "link": "https://shoppinglive.naver.com/livebridge/2034601",
     "slot_id": "2034601",
     "pgm": "[~80%] 폴햄키즈 10.2 브랜드데이 LIVE💝",
     "title": "라이브 시간 5% 추가할인",
     "items": [
+     {},
+     {},
+     {},
+     {},
+     {},
+     {},
+     {},
+     {},
+     {},
+     {},
+     {},
+     {},
+     {},
      {}
     ],
     "category": "키즈"
@@ -4547,6 +4559,26 @@
      {}
     ],
     "category": "테크"
+   },
+   {
+    "start": "20:00",
+    "end": "",
+    "brand": "굿스마일컴퍼니",
+    "product": "[예약] [특전] THE합체 제이데커 l 용자경찰 제이데커 27.06",
+    "price": 309000,
+    "link": "https://shoppinglive.naver.com/livebridge/2046887",
+    "slot_id": "2046887",
+    "pgm": "[키덜트쇼]심형탁 X THE합체 듀크 파이어",
+    "title": "THE합체 듀크 파이어",
+    "planned": true,
+    "items": [
+     {},
+     {},
+     {},
+     {},
+     {}
+    ],
+    "category": "취미레저"
    }
   ],
   "2026-10-03": [
@@ -5388,7 +5420,7 @@
     "end": "",
     "brand": "테일러메이드",
     "product": "테일러메이드코리아 Qi35 MAX 남성 드라이버(DIAMANA BLUE)",
-    "price": 459000,
+    "price": 429000,
     "link": "https://shoppinglive.naver.com/livebridge/2042010",
     "slot_id": "2042010",
     "pgm": "네이버 단독 골프 용품 할인전",
@@ -5746,7 +5778,7 @@
     "end": "",
     "brand": "테일러메이드",
     "product": "테일러메이드코리아 Qi35 MAX 남성 드라이버(DIAMANA BLUE)",
-    "price": 459000,
+    "price": 429000,
     "link": "https://shoppinglive.naver.com/livebridge/2042014",
     "slot_id": "2042014",
     "pgm": "네이버 단독 골프 용품 할인전",

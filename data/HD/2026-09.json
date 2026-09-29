@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-29T18:00:56+09:00",
+ "updated_at": "2026-09-29T23:30:52+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -10854,16 +10854,16 @@
     "start": "18:00",
     "end": "18:59",
     "brand": "스튜디오 점선면",
-    "product": "한글날 기념 굿즈 홍살문조명 세종대왕 영릉 버전",
-    "price": 85000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253736248",
+    "product": "국중박 우수상품공모 선정작 석굴암 조명(대) 돌색/나무색",
+    "price": 106000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252206149",
     "slot_id": "202609296013",
     "items": [
      {
       "brand": "스튜디오 점선면",
-      "product": "한글날 기념 굿즈 홍살문조명 세종대왕 영릉 버전",
-      "price": 85000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253736248"
+      "product": "국중박 우수상품공모 선정작 석굴암 조명(대) 돌색/나무색",
+      "price": 106000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252206149"
      }
     ],
     "title": "[한글날 기념] 굿즈 최초공개 방송 중 구매 찬스",
@@ -11020,6 +11020,25 @@
     ],
     "title": "케네스레이디의 하객룩❤️ UP TO 71%▼",
     "pgm": "[케네스레이디] 의류 (멀티커머스)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "헤르마",
+    "product": "스몰 카바스 숄더백 _ 5컬러",
+    "price": 297000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2233428604",
+    "slot_id": "202609296023",
+    "items": [
+     {
+      "brand": "헤르마",
+      "product": "스몰 카바스 숄더백 _ 5컬러",
+      "price": 297000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2233428604"
+     }
+    ],
+    "title": "[50% 적립] 막스마라/톰브라운 FW의류 특집전",
+    "pgm": "[재방] [50% 적립 명품특별전] (패션잡화)"
    }
   ],
   "2026-09-30": [

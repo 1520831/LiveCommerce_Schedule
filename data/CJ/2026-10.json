@@ -2,9 +2,22 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-10",
- "updated_at": "2026-09-29T18:01:03+09:00",
+ "updated_at": "2026-09-29T23:30:58+09:00",
  "days": {
   "2026-10-01": [
+   {
+    "start": "09:40",
+    "end": "10:59",
+    "brand": "더블하트",
+    "product": "160ml 트윈팩2개(젖병4개) + 젖꼭지 4개 (젖병 노꼭지)",
+    "price": 81750,
+    "link": "https://item.cjonstyle.com/item/2020819641?channelCode=30002002",
+    "slot_id": "29832",
+    "title": "[맘만하니] 아이를 위한 ❤️더블하트 젖꼭지/젖병❤️",
+    "pgm": "맘만하니",
+    "pgm_cd": "0099",
+    "category": "유아동"
+   },
    {
     "start": "10:00",
     "end": "10:59",
@@ -47,14 +60,15 @@
    {
     "start": "11:00",
     "end": "11:59",
-    "brand": "",
-    "product": "[맘만하니] 세인트제임스 키즈 최초 론칭! 한정수량 최대할인!🌱",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/29833",
+    "brand": "세인트제임스",
+    "product": "[본사정품] [4~6세] 키즈 봉봉 쁘띠 스웻셔츠 4종",
+    "price": 115200,
+    "link": "https://item.cjonstyle.com/item/2094741059?channelCode=30002002",
     "slot_id": "29833",
     "title": "[맘만하니] 세인트제임스 키즈 최초 론칭! 한정수량 최대할인!🌱",
     "pgm": "맘만하니",
-    "pgm_cd": "0099"
+    "pgm_cd": "0099",
+    "category": "여성패션"
    },
    {
     "start": "11:00",
