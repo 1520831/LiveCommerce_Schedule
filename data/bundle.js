@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-30T08:00:21+09:00",
+ "generated_at": "2026-09-30T08:20:11+09:00",
  "today": "2026-09-30",
  "dates": [
   "2026-09-29",
@@ -474,7 +474,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "라인✨ ~70%▼ + 19% 쿠폰 + 5~7% 카드할인",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 6
     },
     {
      "start": "09:00",
@@ -6404,7 +6405,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 5
     },
     {
      "start": "08:10",
@@ -18309,8 +18311,8 @@ window.SCHEDULE = {
    "2026-09-29",
    "2026-09-30"
   ],
-  "matched": 6,
-  "unmatched": 11
+  "matched": 8,
+  "unmatched": 9
  },
  "fixed": {
   "rows": [
