@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-29T10:40:17+09:00",
+ "generated_at": "2026-09-29T11:00:19+09:00",
  "today": "2026-09-29",
  "dates": [
   "2026-09-28",
@@ -7782,7 +7782,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -17957,7 +17957,7 @@ window.SCHEDULE = {
      "pgm": "덴프스 9월라이브",
      "title": "덴프스와 함께 하반기 준비",
      "category": "식품",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "08:30",
