@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-29T09:40:11+09:00",
+ "generated_at": "2026-09-29T10:03:09+09:00",
  "today": "2026-09-29",
  "dates": [
   "2026-09-28",
@@ -416,8 +416,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 막스마라 코트 월 1만원대",
-     "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 10
+     "pgm": "[재방] 투명쇼 (패션잡화)"
     },
     {
      "start": "07:00",
@@ -456,7 +455,7 @@ window.SCHEDULE = {
      ],
      "title": "[예작] 26FW 신상 셔츠 / 인기 니트 外 LIVE",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "09:00",
@@ -2127,7 +2126,8 @@ window.SCHEDULE = {
      "title": "르포엠🤎 FW CJ단독 특가! 9,900원~",
      "pgm": "브랜디드 라이브쇼",
      "pgm_cd": "1130",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -6785,7 +6785,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "08:00",
@@ -6880,8 +6880,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "09:30",
@@ -18006,7 +18005,8 @@ window.SCHEDULE = {
      "slot_id": "60230",
      "pgm": "베이비 브레짜 카쇼라 특가",
      "title": "7%+5% 페이&쿠폰 할인",
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 6
     },
     {
      "start": "10:00",
