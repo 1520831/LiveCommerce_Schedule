@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-29T15:40:13+09:00",
+ "generated_at": "2026-09-29T16:00:16+09:00",
  "today": "2026-09-29",
  "dates": [
   "2026-09-28",
@@ -8441,7 +8441,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "11:00",
