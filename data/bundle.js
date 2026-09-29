@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-29T09:00:29+09:00",
+ "generated_at": "2026-09-29T09:20:12+09:00",
  "today": "2026-09-29",
  "dates": [
   "2026-09-28",
@@ -456,7 +456,7 @@ window.SCHEDULE = {
      ],
      "title": "[예작] 26FW 신상 셔츠 / 인기 니트 外 LIVE",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "09:00",
@@ -6785,7 +6785,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 9
+     "hot": 8
     },
     {
      "start": "08:00",
@@ -6881,7 +6881,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "09:30",
