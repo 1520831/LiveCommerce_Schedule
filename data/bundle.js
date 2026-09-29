@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-29T10:03:09+09:00",
+ "generated_at": "2026-09-29T10:21:11+09:00",
  "today": "2026-09-29",
  "dates": [
   "2026-09-28",
@@ -454,8 +454,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[예작] 26FW 신상 셔츠 / 인기 니트 外 LIVE",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 9
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "09:00",
@@ -2126,8 +2125,7 @@ window.SCHEDULE = {
      "title": "르포엠🤎 FW CJ단독 특가! 9,900원~",
      "pgm": "브랜디드 라이브쇼",
      "pgm_cd": "1130",
-     "category": "여성패션",
-     "hot": 8
+     "category": "여성패션"
     },
     {
      "start": "10:00",
@@ -6784,8 +6782,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "08:00",
@@ -7205,7 +7202,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -7588,7 +7586,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -17957,7 +17956,7 @@ window.SCHEDULE = {
      "pgm": "덴프스 9월라이브",
      "title": "덴프스와 함께 하반기 준비",
      "category": "식품",
-     "hot": 2
+     "hot": 5
     },
     {
      "start": "08:30",
@@ -17981,7 +17980,8 @@ window.SCHEDULE = {
      "slot_id": "58733",
      "pgm": "하기스 대용량 쎈딜 혜택",
      "title": "물가안정 프로젝트",
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -18006,7 +18006,7 @@ window.SCHEDULE = {
      "pgm": "베이비 브레짜 카쇼라 특가",
      "title": "7%+5% 페이&쿠폰 할인",
      "category": "키즈",
-     "hot": 6
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -18018,7 +18018,8 @@ window.SCHEDULE = {
      "slot_id": "60239",
      "pgm": "프리미엄 스킨케어 무스텔라",
      "title": "라이브 특가 무배+사은품",
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -19178,8 +19179,8 @@ window.SCHEDULE = {
    "2026-09-28",
    "2026-09-29"
   ],
-  "matched": 12,
-  "unmatched": 7
+  "matched": 13,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
