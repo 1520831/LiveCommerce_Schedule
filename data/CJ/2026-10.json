@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-10",
- "updated_at": "2026-09-29T07:00:48+09:00",
+ "updated_at": "2026-09-29T12:01:17+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -98,9 +98,35 @@
    {
     "start": "19:00",
     "end": "19:59",
+    "brand": "에르헴",
+    "product": "26FW 캐시미어100 홀가먼트 라운드 풀오버 1종",
+    "price": 116100,
+    "link": "https://item.cjonstyle.com/item/2092837052?channelCode=30002002",
+    "slot_id": "29835",
+    "title": "에르헴 26FW 신상 공개🤎 미리주문 10%할인 +방송 중 5% 쿠폰",
+    "pgm": "엣지쇼",
+    "pgm_cd": "0223",
+    "category": "여성패션"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "플로미",
+    "product": "이엘리 작가, 썬플라워 아트 거울 M (30x30cm)",
+    "price": 250000,
+    "link": "https://item.cjonstyle.com/item/2085657338?channelCode=30002002",
+    "slot_id": "30027",
+    "title": "좋아하는 작가를 내 일상에💗이엘리 거울 시리즈 최초 공개",
+    "pgm": "브랜디드 라이브쇼",
+    "pgm_cd": "1130",
+    "category": "가구·침구"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
     "brand": "한국금거래소",
     "product": "골드바 3.75g",
-    "price": 888620,
+    "price": 874670,
     "link": "https://item.cjonstyle.com/item/2076536118?channelCode=30002002",
     "slot_id": "30151",
     "title": "다시보는 한국 금거래소 단 하루 특가",

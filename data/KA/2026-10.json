@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-10",
- "updated_at": "2026-09-29T07:00:54+09:00",
+ "updated_at": "2026-09-29T12:01:23+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -244,18 +244,6 @@
     "pgm": "베네통키즈 간절기",
     "title": "아우터 &상하의 라이브 특가",
     "category": "패션"
-   },
-   {
-    "start": "21:00",
-    "end": "22:30",
-    "brand": "좋은세상두원",
-    "product": "홈포차 인기메뉴 3종세트 마라 유부전골/떡볶이/튀김 외 안주류 모음세트",
-    "price": 22500,
-    "link": "https://store.kakao.com/doowonfns/products/795215629",
-    "slot_id": "60533",
-    "pgm": "드디어 첫 공개",
-    "title": "오늘만 공개하는 인기상품특가",
-    "category": "식품"
    }
   ],
   "2026-10-02": [
@@ -275,9 +263,9 @@
     "start": "08:30",
     "end": "11:30",
     "brand": "토리든",
-    "product": "[NEW] 다이브인 저분자 히알루론산 세럼 50ml+40ml (+다이브인 세럼 10ml 증정)",
+    "product": "[5개/총 230ml] 다이브인 저분자 히알루론산 세럼 50ml 3개+40ml 2개 (+트라이얼 키트&마스크팩 5매 증정)",
     "price": 26500,
-    "link": "https://gift.kakao.com/product/9973392?url=product&cId=9973392",
+    "link": "https://gift.kakao.com/product/14280523?url=product&cId=14280523",
     "slot_id": "60238",
     "pgm": "토리든으로 환절기 고민해결!",
     "title": "~61%+쿠폰팩 추가할인",
@@ -346,18 +334,6 @@
    {
     "start": "19:00",
     "end": "20:30",
-    "brand": "쿠쿠전자(주)",
-    "product": "쿠쿠 에코웨일 큐브 메가 3L 음식물처리기 눌음방지 (국내 생산)",
-    "price": 769000,
-    "link": "https://store.kakao.com/cuckooel/products/779037456",
-    "slot_id": "60262",
-    "pgm": "쿠쿠 큐브 메가 3L",
-    "title": "음식물처리기 쎈딜 라이브!",
-    "category": "테크"
-   },
-   {
-    "start": "19:00",
-    "end": "20:30",
     "brand": "와이에스제이랩스",
     "product": "[카카오쇼핑라이브] 켄싱턴 설악비치 가을여행 PKG",
     "price": 487700,
@@ -422,7 +398,7 @@
     "end": "13:00",
     "brand": "광동제약 직영스토어",
     "product": "(광동 직영) 제주 삼다수 2L/500ML/330ML 모음전",
-    "price": 32900,
+    "price": 35500,
     "link": "https://store.kakao.com/kwangdongmall/products/78647926",
     "slot_id": "60374",
     "pgm": "우리가 믿는 물 제주 삼다수",
@@ -457,25 +433,13 @@
     "start": "19:00",
     "end": "20:30",
     "brand": "동아오츠카SHOP",
-    "product": "동아오츠카 라인바싸 500ml 무라벨 3종 (20입+20입) - 9/28부터 순차배송",
+    "product": "동아오츠카 라인바싸 500ml 무라벨 3종 (20입+20입) - 총 2박스 분리배송",
     "price": 22300,
     "link": "https://store.kakao.com/dongashop/products/599581708",
     "slot_id": "60169",
     "pgm": "동아오츠카 음료 최대 혜택!",
     "title": "라이브 한정 이벤트까지",
     "category": "식품"
-   },
-   {
-    "start": "19:00",
-    "end": "20:30",
-    "brand": "쿠쿠전자(주)",
-    "product": "쿠쿠 미식컬렉션 마스터셰프 사일런스 큐브",
-    "price": 800000,
-    "link": "https://store.kakao.com/cuckooel/products/773583047",
-    "slot_id": "60263",
-    "pgm": "쿠쿠 쎈딜 특가 라이브",
-    "title": "오늘이 마지막!",
-    "category": "테크"
    },
    {
     "start": "20:30",

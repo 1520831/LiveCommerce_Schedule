@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-29T07:00:42+09:00",
+ "updated_at": "2026-09-29T12:01:08+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -10323,14 +10323,14 @@
     "end": "10:59",
     "brand": "톰브라운",
     "product": "남성 가디건 MKC002A Y1014 038",
-    "price": 1792000,
+    "price": 1615000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2138968020",
     "slot_id": "202609286004",
     "items": [
      {
       "brand": "톰브라운",
       "product": "남성 가디건 MKC002A Y1014 038",
-      "price": 1792000,
+      "price": 1615000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2138968020"
      }
     ],
@@ -10685,16 +10685,16 @@
     "start": "10:00",
     "end": "10:59",
     "brand": "발렌시아가",
-    "product": "르 시티 스몰 토트백 873201 2ABEK 1000 블랙",
-    "price": 2200000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253189228",
+    "product": "르 시티 미디엄 토트백 865760 2ACFH 1000 블랙",
+    "price": 3999000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253720194",
     "slot_id": "202609296005",
     "items": [
      {
       "brand": "발렌시아가",
-      "product": "르 시티 스몰 토트백 873201 2ABEK 1000 블랙",
-      "price": 2200000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253189228"
+      "product": "르 시티 미디엄 토트백 865760 2ACFH 1000 블랙",
+      "price": 3999000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253720194"
      }
     ],
     "title": "[투명쇼] 26F/W 최신상 인기 명품 득템 찬스!",
@@ -10704,14 +10704,14 @@
     "start": "11:00",
     "end": "11:59",
     "brand": "노부영",
-    "product": "베이비15+ 베스트30(베스트15+스테디15)",
+    "product": "노부영 베이비15+ 베스트30(베스트15+스테디15)",
     "price": 505000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2210837058",
     "slot_id": "202609296006",
     "items": [
      {
       "brand": "노부영",
-      "product": "베이비15+ 베스트30(베스트15+스테디15)",
+      "product": "노부영 베이비15+ 베스트30(베스트15+스테디15)",
       "price": 505000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2210837058"
      }
@@ -10739,6 +10739,25 @@
     "pgm": "[나이스클랍] 의류 (패션1Lab)"
    },
    {
+    "start": "13:00",
+    "end": "13:59",
+    "brand": "코아시스",
+    "product": "[플루] 퍼퓸드 스파 스크럽 바디워시 500g 4개 + 퍼퓸드 프루티 바디스크럽 200g 2개 + 손소독제키링 3종(",
+    "price": 34900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253763264",
+    "slot_id": "202609296008",
+    "items": [
+     {
+      "brand": "코아시스",
+      "product": "[플루] 퍼퓸드 스파 스크럽 바디워시 500g 4개 + 퍼퓸드 프루티 바디스크럽 200g 2개 + 손소독제키링 3종(",
+      "price": 34900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253763264"
+     }
+    ],
+    "title": "[플루] 바디워시 4종부터 바디스크럽 2종까지 함께!",
+    "pgm": "[코아시스] 플루 바디스크럽 (뷰티브랜드)"
+   },
+   {
     "start": "14:00",
     "end": "14:59",
     "brand": "미디엘",
@@ -10758,18 +10777,37 @@
     "pgm": "[미디엘] 맥주효모 샴푸 (액티브라이프)"
    },
    {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "밋앤밀",
+    "product": "[농할] [밋앤밀] 국내산 제주 산지직송 선별 노지 감귤 4.5kg 로얄과",
+    "price": 18000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253077877",
+    "slot_id": "202609296010",
+    "items": [
+     {
+      "brand": "밋앤밀",
+      "product": "[농할] [밋앤밀] 국내산 제주 산지직송 선별 노지 감귤 4.5kg 로얄과",
+      "price": 18000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253077877"
+     }
+    ],
+    "title": "[밋앤밀] 제주 산지직송 노지 감귤 론칭 특별가~!",
+    "pgm": "[잭슨코리아] 제주감귤 (쇼핑라이브)"
+   },
+   {
     "start": "16:00",
     "end": "16:59",
     "brand": "닐로니카",
-    "product": "시어 올인원 세트",
-    "price": 183000,
+    "product": "닐로니카 시어 5종 세트(케어밤+크림+바디버터+핸드+립케어)",
+    "price": 120000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253761774",
     "slot_id": "202609296011",
     "items": [
      {
       "brand": "닐로니카",
-      "product": "시어 올인원 세트",
-      "price": 183000,
+      "product": "닐로니카 시어 5종 세트(케어밤+크림+바디버터+핸드+립케어)",
+      "price": 120000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253761774"
      }
     ],
@@ -11064,6 +11102,25 @@
     "pgm": "[알래스카큐브] 샤워바 (액티브라이프)"
    },
    {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "밋앤밀",
+    "product": "[농할] [밋앤밀] 국내산 해남농부 비세척 밤고구마(진율미) 특상 3kg(개당 130-300g)",
+    "price": 17800,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253635460",
+    "slot_id": "202609306011",
+    "items": [
+     {
+      "brand": "밋앤밀",
+      "product": "[농할] [밋앤밀] 국내산 해남농부 비세척 밤고구마(진율미) 특상 3kg(개당 130-300g)",
+      "price": 17800,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253635460"
+     }
+    ],
+    "title": "[밋앤밀] 해남 밤고구마 진율미 론칭 특별가",
+    "pgm": "[잭슨코리아] 해남 밤고구마"
+   },
+   {
     "start": "16:00",
     "end": "16:59",
     "brand": "한국민속촌",
@@ -11106,14 +11163,14 @@
     "end": "18:59",
     "brand": "생로랑",
     "product": "생로랑 590076 GIV6E 1000 카산드라 모노그램 은장 지퍼 바디백 슬링백",
-    "price": 2090000,
+    "price": 2000000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253432960",
     "slot_id": "202609306014",
     "items": [
      {
       "brand": "생로랑",
       "product": "생로랑 590076 GIV6E 1000 카산드라 모노그램 은장 지퍼 바디백 슬링백",
-      "price": 2090000,
+      "price": 2000000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253432960"
      }
     ],

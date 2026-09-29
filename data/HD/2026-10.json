@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-10",
- "updated_at": "2026-09-29T07:00:42+09:00",
+ "updated_at": "2026-09-29T12:01:08+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -82,6 +82,25 @@
     "pgm": "[위팩토리] 홍로사과 (일반식품2)"
    },
    {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "셀로니아",
+    "product": "시그니처 바이오 셀에센스 1개 + 마스크 10매",
+    "price": 125000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253897487",
+    "slot_id": "202610016005",
+    "items": [
+     {
+      "brand": "셀로니아",
+      "product": "시그니처 바이오 셀에센스 1개 + 마스크 10매",
+      "price": 125000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253897487"
+     }
+    ],
+    "title": "[셀로니아] 바이오 셀에센스&마스크팩 ~38%▼",
+    "pgm": "[셀로니아] 기초 (뷰티1)"
+   },
+   {
     "start": "13:00",
     "end": "13:59",
     "brand": "이에르 로르",
@@ -118,6 +137,25 @@
     ],
     "title": "[루나앤루나/쎄마비] 간편한 데일리백과 감각적인 블랭킷",
     "pgm": "[루나앤루나/쎄마비] 가방/블랭킷 (쇼핑라이브)"
+   },
+   {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "밋앤밀",
+    "product": "해남농부 비세척 밤고구마(진율미) 특상 3kg(개당 130-300g)",
+    "price": 16200,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239105885",
+    "slot_id": "202610016008",
+    "items": [
+     {
+      "brand": "밋앤밀",
+      "product": "해남농부 비세척 밤고구마(진율미) 특상 3kg(개당 130-300g)",
+      "price": 16200,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239105885"
+     }
+    ],
+    "title": "[밋앤밀] 신선함을 그대로! 프리미엄 유러피안 채소!",
+    "pgm": "[잭슨코리아] 유러피안 채소 (쇼핑라이브)"
    },
    {
     "start": "16:00",
@@ -215,25 +253,6 @@
     "pgm": "[미리크루즈] 크루즈 (여행)"
    },
    {
-    "start": "22:00",
-    "end": "22:59",
-    "brand": "SOUP",
-    "product": "[숲] 아가일 패턴 라운드넥 니트 가디건 SC9GD32 SC9GD32",
-    "price": 71200,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253562917",
-    "slot_id": "202610016015",
-    "items": [
-     {
-      "brand": "SOUP",
-      "product": "[숲] 아가일 패턴 라운드넥 니트 가디건 SC9GD32 SC9GD32",
-      "price": 71200,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253562917"
-     }
-    ],
-    "title": "[SOUP] 로맨틱 클래식룩 2만원대부터💥",
-    "pgm": "편성기획 삽입용 (편성)"
-   },
-   {
     "start": "23:00",
     "end": "23:59",
     "brand": "어드림오브씨드",
@@ -308,7 +327,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252844004"
      }
     ],
-    "title": "[아이더] 방송 중 특별가! 쿠폰 + 카드할인",
+    "title": "[아이더] 방송 중 특별가! 쿠폰 + 카드 할인",
     "pgm": "백화점 프리오픈쇼(멀티커머스)"
    },
    {
@@ -329,6 +348,25 @@
     ],
     "title": "클랍 사용기한 임박전 앵콜 방송",
     "pgm": "[클랍] 기초 (뷰티브랜드)"
+   },
+   {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "종근당건강",
+    "product": "종근당건강 락토핏 당케어프로 16+2통(총 18개월분)",
+    "price": 209000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2232371874",
+    "slot_id": "202610026006",
+    "items": [
+     {
+      "brand": "종근당건강",
+      "product": "종근당건강 락토핏 당케어프로 16+2통(총 18개월분)",
+      "price": 209000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2232371874"
+     }
+    ],
+    "title": "[종근당건강] 현대 단독! 쇼라에서만 최대 32%🔻",
+    "pgm": "[종근당건강] 건강식품 (건강식품2)"
    },
    {
     "start": "14:00",
@@ -369,19 +407,38 @@
     "pgm": "[밸라수/리폼] 액세서리/테이블웨어 (쇼핑라이브)"
    },
    {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "유로룩스",
+    "product": "[쇼라] 유로룩스 뉴베어쿡 냄비 16cm / 316Ti 무연마 스텐",
+    "price": 49000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251919545",
+    "slot_id": "202610026011",
+    "items": [
+     {
+      "brand": "유로룩스",
+      "product": "[쇼라] 유로룩스 뉴베어쿡 냄비 16cm / 316Ti 무연마 스텐",
+      "price": 49000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251919545"
+     }
+    ],
+    "title": "[유로룩스] 독일 프리미엄 브랜드, 베어쿡 특별구성",
+    "pgm": "[유로룩스] 주방용품 (가전)"
+   },
+   {
     "start": "19:00",
     "end": "19:59",
     "brand": "에바큐브",
-    "product": "꾸띄르 26FW 플로럴 플리츠 블라우스",
-    "price": 199000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252765300",
+    "product": "25FW 캐시미어 100 케이블 볼포인트 가디건",
+    "price": 459000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2241042155",
     "slot_id": "202610026012",
     "items": [
      {
       "brand": "에바큐브",
-      "product": "꾸띄르 26FW 플로럴 플리츠 블라우스",
-      "price": 199000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252765300"
+      "product": "25FW 캐시미어 100 케이블 볼포인트 가디건",
+      "price": 459000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2241042155"
      }
     ],
     "title": "에바큐브 캐시미어 최대 50%▼ 혜택",
@@ -405,6 +462,25 @@
     ],
     "title": "[한민금거래소] 골드바 최대 60개월 무이자 혜택!",
     "pgm": "[한민금거래소] 금 (패션잡화)"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "테팔",
+    "product": "매직핸즈 티타늄골드 8p",
+    "price": 129000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2215516795",
+    "slot_id": "202610026015",
+    "items": [
+     {
+      "brand": "테팔",
+      "product": "매직핸즈 티타늄골드 8p",
+      "price": 129000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2215516795"
+     }
+    ],
+    "title": "[테팔] 매직핸즈 시리즈",
+    "pgm": "[앤드윈] 테팔 주방용품 (편성)"
    },
    {
     "start": "23:00",
@@ -481,7 +557,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251793955"
      }
     ],
-    "title": "[피네플리츠] 가을신상 오픈🍂 20%쿠폰+사은품",
+    "title": "[피네플리츠] 가을신상 오픈🍂 20% 쿠폰 + 사은품",
     "pgm": "[피네플리츠] 의류 (패션1Lab)"
    },
    {
@@ -500,7 +576,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251424228"
      }
     ],
-    "title": "상주 100%!! 국산 햇 고춧가루&두레원 청국장",
+    "title": "상주 100%! 국산 햇 고춧가루 & 두레원 청국장",
     "pgm": "[위팩토리] 햇고춧가루/청국장 (일반식품2)"
    },
    {
@@ -519,7 +595,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252893320"
      }
     ],
-    "title": "이청청 디자이너의 LIE317 최초 공개!",
+    "title": "이청청 디자이너의 LIE317  공개!",
     "pgm": "[재방] LIE37 의류 (패션2Lab)"
    },
    {
@@ -557,7 +633,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253884851"
      }
     ],
-    "title": "[현대홈쇼핑 유일] 삶아쓰는 실리오 베개",
+    "title": "[현대홈쇼핑 유일] 삶아 쓰는 실리오 베개",
     "pgm": "[실리오] 베개 (리빙)"
    },
    {
@@ -565,14 +641,14 @@
     "end": "21:59",
     "brand": "지고트",
     "product": "포켓 숄 가디건(JS3E1CD501) JS3E1CD501",
-    "price": 89000,
+    "price": 59000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253021037",
     "slot_id": "202610036010",
     "items": [
      {
       "brand": "지고트",
       "product": "포켓 숄 가디건(JS3E1CD501) JS3E1CD501",
-      "price": 89000,
+      "price": 59000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253021037"
      }
     ],
@@ -673,7 +749,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253702614"
      }
     ],
-    "title": "[누캐시미어] 26FW 최신상 최초공개",
+    "title": "[누캐시미어] 26FW 최신상 최초 공개",
     "pgm": "현대쇼룸 (패션)"
    },
    {
@@ -711,7 +787,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253623806"
      }
     ],
-    "title": "[보드라온] 흡착 스팀다리미 57% ▼",
+    "title": "[보드라온] 흡착 스팀다리미 57%▼",
     "pgm": "[보드라온] 스팀다리미 (렌탈)"
    }
   ]
