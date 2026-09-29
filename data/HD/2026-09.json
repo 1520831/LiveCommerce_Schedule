@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-29T23:30:52+09:00",
+ "updated_at": "2026-09-30T07:00:48+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -10722,14 +10722,14 @@
     "end": "10:59",
     "brand": "발렌시아가",
     "product": "르 시티 미디엄 토트백 865760 2ACFH 1000 블랙",
-    "price": 3999000,
+    "price": 3425000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253720194",
     "slot_id": "202609296005",
     "items": [
      {
       "brand": "발렌시아가",
       "product": "르 시티 미디엄 토트백 865760 2ACFH 1000 블랙",
-      "price": 3999000,
+      "price": 3425000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253720194"
      }
     ],
@@ -10889,25 +10889,6 @@
     "pgm": "[골드앤] 주얼리 (패션잡화)"
    },
    {
-    "start": "19:00",
-    "end": "19:59",
-    "brand": "조니스 그로서리",
-    "product": "[쇼라][조니스그로서리][BEST입문팩] 납작 플레인1 + 초코1 + 저당1 + 한끼 오곡1 + 카카오1",
-    "price": 53900,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253383970",
-    "slot_id": "202609296025",
-    "items": [
-     {
-      "brand": "조니스 그로서리",
-      "product": "[쇼라][조니스그로서리][BEST입문팩] 납작 플레인1 + 초코1 + 저당1 + 한끼 오곡1 + 카카오1",
-      "price": 53900,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253383970"
-     }
-    ],
-    "title": "無설탕 無첨가물! 통귀리 가득 납작 청크 그래놀라",
-    "pgm": "[재방] 조니스그로서리 그래놀라 (멀티커머스)"
-   },
-   {
     "start": "20:00",
     "end": "20:59",
     "brand": "바디프랜드",
@@ -10931,14 +10912,14 @@
     "end": "20:59",
     "brand": "세인트제임스",
     "product": "[세인트제임스 본사정품] 메르디앙 II 긴팔 티셔츠 (051) ASJM2G93731-051",
-    "price": 126400,
+    "price": 158000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250593812",
     "slot_id": "202609296015",
     "items": [
      {
       "brand": "세인트제임스",
       "product": "[세인트제임스 본사정품] 메르디앙 II 긴팔 티셔츠 (051) ASJM2G93731-051",
-      "price": 126400,
+      "price": 158000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250593812"
      }
     ],
@@ -11123,14 +11104,14 @@
     "end": "10:59",
     "brand": "르메르",
     "product": "르메르 BG293 LF1320 BK983 소프트 게임 스몰 숄더백",
-    "price": 1290000,
+    "price": 1190000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251714651",
     "slot_id": "202609306006",
     "items": [
      {
       "brand": "르메르",
       "product": "르메르 BG293 LF1320 BK983 소프트 게임 스몰 숄더백",
-      "price": 1290000,
+      "price": 1190000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251714651"
      }
     ],
@@ -11326,6 +11307,25 @@
     ],
     "title": "[1A CLASSE] 인기 아이템 모음전",
     "pgm": "현대쇼룸 (패션)"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "록시땅",
+    "product": "[기프트][단독]아몬드 샤워 오일 500ml 세트(+3종 디럭스+바디괄사)",
+    "price": 66000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253623567",
+    "slot_id": "202609306016",
+    "items": [
+     {
+      "brand": "록시땅",
+      "product": "[기프트][단독]아몬드 샤워 오일 500ml 세트(+3종 디럭스+바디괄사)",
+      "price": 66000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253623567"
+     }
+    ],
+    "title": "[록시땅] 0단계 보습 아몬드 샤워오일",
+    "pgm": "초밀착뷰티쇼 (멀티커머스)"
    },
    {
     "start": "21:00",

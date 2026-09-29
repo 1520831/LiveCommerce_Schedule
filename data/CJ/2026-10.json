@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-10",
- "updated_at": "2026-09-29T23:30:58+09:00",
+ "updated_at": "2026-09-30T07:00:55+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -337,7 +337,7 @@
     "end": "22:59",
     "brand": "LG전자",
     "product": "LG 디오스 AI 오브제 글라스 6도어 더블매직 냉장고_M876GBB232 M876GBC232",
-    "price": 3484800,
+    "price": 3678400,
     "link": "https://item.cjonstyle.com/item/2088286173?channelCode=30002002",
     "slot_id": "30189",
     "title": "다시보는 LG전자 냉장고 글라스 6도어+전자레인지! 최대 혜택🎁",
@@ -372,6 +372,20 @@
     "pgm": "라이브쇼",
     "pgm_cd": "1008",
     "category": "뷰티"
+   }
+  ],
+  "2026-10-05": [
+   {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "",
+    "product": "겟잇뷰티💖GLOW UP with [위뜨] 펩타이드 크림 1+1",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/30036",
+    "slot_id": "30036",
+    "title": "겟잇뷰티💖GLOW UP with [위뜨] 펩타이드 크림 1+1",
+    "pgm": "겟잇뷰티",
+    "pgm_cd": "1012"
    }
   ]
  }

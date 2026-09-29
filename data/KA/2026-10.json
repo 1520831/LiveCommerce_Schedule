@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-10",
- "updated_at": "2026-09-29T23:31:06+09:00",
+ "updated_at": "2026-09-30T07:01:01+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -579,12 +579,12 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "청년상점",
-    "product": "첫수확! 익혀먹는 씨없는 청도 반시 2.5kg 중대과 16-17과 / 홍시 반시 감",
+    "product": "첫수확! 익혀먹는 씨없는 청도 반시 2.5kg 중대과 20과내 / 홍시 반시 감",
     "price": 23900,
     "link": "https://store.kakao.com/youngstore/products/184355129",
     "slot_id": "60330",
     "pgm": "청도 익혀먹는 홍시/반시",
-    "title": "중대과 16-17과 만원대",
+    "title": "중대과 20과내 만원대",
     "category": "식품"
    },
    {
@@ -609,6 +609,116 @@
     "slot_id": "60573",
     "pgm": "에코따숨 파라핀 베스&왁스",
     "title": "앵콜 라이브 특가",
+    "category": "리빙"
+   }
+  ],
+  "2026-10-05": [
+   {
+    "start": "10:00",
+    "end": "13:00",
+    "brand": "헤어플러스",
+    "product": "[LIVE] 헤어플러스 신제품 런칭 기념 1+1 / 단백질 앰플 15ml 2개 100% 증정",
+    "price": 79600,
+    "link": "https://store.kakao.com/hairplus/products/50707344",
+    "slot_id": "60176",
+    "pgm": "환절기 헤어케어 헤어플러스",
+    "title": "~77%+NEW 헤어마스크!",
+    "category": "뷰티"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "CJ웰케어",
+    "product": "CJ웰케어 100억,500억, 피부면역 유산균/카무트효소 등 건강식품",
+    "price": 27900,
+    "link": "https://store.kakao.com/cjthehealth/products/218964893",
+    "slot_id": "60151",
+    "pgm": "CJ유산균 최대 64%특가",
+    "title": "추가쿠폰+사은품",
+    "category": "식품"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "알품게 삼대인천게장",
+    "product": "깐새우장 25마리내외 간편 밥도둑 1+1",
+    "price": 71800,
+    "link": "https://store.kakao.com/leeyoofood/products/149633048",
+    "slot_id": "60159",
+    "pgm": "알품게 삼대인천게장",
+    "title": "가을 맞이 톡딜!",
+    "category": "식품"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "몬델리즈샵",
+    "product": "[호올스] 어쏘티드 스틱 외  골라담기",
+    "price": 19900,
+    "link": "https://store.kakao.com/seoyoung/products/64854130",
+    "slot_id": "60335",
+    "pgm": "호올스 X 밀카",
+    "title": "10월 간식 특가 라이브!",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "코데즈컴바인이너웨어",
+    "product": "[코데즈컴바인 이너웨어] 카쇼라 LIVE 특가 신상 인기상품 심리스 노와이어 드로즈 12종",
+    "price": 39800,
+    "link": "https://store.kakao.com/codescombine/products/169935406",
+    "slot_id": "60000",
+    "pgm": "코데즈컴바인 FW신상",
+    "title": "심리스/노와이어/드로즈 특가",
+    "category": "패션"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "웹투어(주)",
+    "product": "[한화리조트 설악 쏘라노] 올인클루시브 PKG_객실 1박+조식뷔페&워터피아(성인 2인+소인 2인)_라이브 이벤트 특전 등",
+    "price": 228000,
+    "link": "https://store.kakao.com/webtour/products/730351005",
+    "slot_id": "60202",
+    "pgm": "한화리조트 설악 쏘라노",
+    "title": "조식+워터피아+소인 특전",
+    "category": "여행"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "주디앤",
+    "product": "'편안하게 입기 좋은' 주디앤 FW 긴팔&피치기모 파자마 38종 균일가",
+    "price": 31900,
+    "link": "https://gift.kakao.com/product/12766121?url=product&cId=12766121",
+    "slot_id": "60298",
+    "pgm": "주디앤 긴팔 파자마 OPEN",
+    "title": "편안하게 입기 좋은 파자마",
+    "category": "패션"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "바운티풀",
+    "product": "since1997 호텔납품 경력 진짜 호텔침구 FW 최대 80% 할인 침구모음전",
+    "price": 329900,
+    "link": "https://store.kakao.com/bountiful/products/71989715",
+    "slot_id": "60307",
+    "pgm": "바운티풀 FW 시즌할인 가장",
+    "title": "사랑받는 호텔침구 컬렉션",
+    "category": "리빙"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "화이니카",
+    "product": "[전광렬PICK] 화이니카 치탄플러스 분말치약 구강관리 구취케어",
+    "price": 39900,
+    "link": "https://store.kakao.com/whinica/products/494957619",
+    "slot_id": "60334",
+    "pgm": "화이니카 가을 페스타",
+    "title": "사은품&단독특가",
     "category": "리빙"
    }
   ]

@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-10",
- "updated_at": "2026-09-29T23:30:52+09:00",
+ "updated_at": "2026-09-30T07:00:48+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -884,6 +884,84 @@
     ],
     "title": "[보드라온] 흡착 스팀다리미 57%▼",
     "pgm": "[보드라온] 스팀다리미 (렌탈)"
+   }
+  ],
+  "2026-10-05": [
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "마쟈",
+    "product": "[비밀상점] [마쟈] 트위스트 케이블 카라넥 니트 ZD11QK036NA",
+    "price": 69900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2222710264",
+    "slot_id": "202610056002",
+    "items": [
+     {
+      "brand": "마쟈",
+      "product": "[비밀상점] [마쟈] 트위스트 케이블 카라넥 니트 ZD11QK036NA",
+      "price": 69900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2222710264"
+     }
+    ],
+    "title": "[마쟈] 여성스러운 실루엣, 감각적인 가을룩🩷",
+    "pgm": "[마쟈] 여성의류 (멀티커머스)"
+   },
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "막스마라",
+    "product": "[막스마라]6F 2621086021600 001 레부스 더블 울 캐시미어 쇼츠 코트 카멜",
+    "price": 2290000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253909101",
+    "slot_id": "202610056003",
+    "items": [
+     {
+      "brand": "막스마라",
+      "product": "[막스마라]6F 2621086021600 001 레부스 더블 울 캐시미어 쇼츠 코트 카멜",
+      "price": 2290000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253909101"
+     }
+    ],
+    "title": "[투명쇼] 막스마라 월1만원대 60개월 무이자",
+    "pgm": "투명쇼 (패션잡화)"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "샬랑 드 파리",
+    "product": "[다이아 광채 기획세트] 루미나레 볼륨 광채 쿠션 엑셀랑스 2개+오뜨 쥬얼 샤인 립스틱 8color 1개",
+    "price": 64800,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253767056",
+    "slot_id": "202610056012",
+    "items": [
+     {
+      "brand": "샬랑 드 파리",
+      "product": "[다이아 광채 기획세트] 루미나레 볼륨 광채 쿠션 엑셀랑스 2개+오뜨 쥬얼 샤인 립스틱 8color 1개",
+      "price": 64800,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253767056"
+     }
+    ],
+    "title": "[샬랑 드 파리] 품절대란 립스틱 기획세트 특별가",
+    "pgm": "[샬랑드파리] 색조外 (뷰티1)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "주크",
+    "product": "컬러 라인 하이넥 가디건 Z263KSL013 Z263KSL013",
+    "price": 259000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253919226",
+    "slot_id": "202610056015",
+    "items": [
+     {
+      "brand": "주크",
+      "product": "컬러 라인 하이넥 가디건 Z263KSL013 Z263KSL013",
+      "price": 259000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253919226"
+     }
+    ],
+    "title": "쥬크 26FW 신상 방송중에만 특가 + 쿠폰💕",
+    "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ]
  }
