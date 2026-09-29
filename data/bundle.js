@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-30T08:20:11+09:00",
+ "generated_at": "2026-09-30T08:40:13+09:00",
  "today": "2026-09-30",
  "dates": [
   "2026-09-29",
@@ -475,7 +475,7 @@ window.SCHEDULE = {
      ],
      "title": "라인✨ ~70%▼ + 19% 쿠폰 + 5~7% 카드할인",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "09:00",
@@ -6406,7 +6406,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 8
     },
     {
      "start": "08:10",
@@ -17271,7 +17271,8 @@ window.SCHEDULE = {
      "slot_id": "59665",
      "pgm": "유러피안 맛 폰타나 특가",
      "title": "라이브 한정 특별구성 오픈",
-     "category": "식품"
+     "category": "식품",
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -17283,7 +17284,8 @@ window.SCHEDULE = {
      "slot_id": "60098",
      "pgm": "청소 필수템 아스토니쉬",
      "title": "만능/배스룸/기름때 클리너",
-     "category": "리빙"
+     "category": "리빙",
+     "hot": 6
     },
     {
      "start": "08:30",
@@ -18311,8 +18313,8 @@ window.SCHEDULE = {
    "2026-09-29",
    "2026-09-30"
   ],
-  "matched": 8,
-  "unmatched": 9
+  "matched": 10,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
