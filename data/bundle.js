@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-29T11:20:38+09:00",
+ "generated_at": "2026-09-29T11:40:13+09:00",
  "today": "2026-09-29",
  "dates": [
   "2026-09-28",
@@ -8180,7 +8180,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 10
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -8321,7 +8321,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 8
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -17958,7 +17958,7 @@ window.SCHEDULE = {
      "pgm": "덴프스 9월라이브",
      "title": "덴프스와 함께 하반기 준비",
      "category": "식품",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "08:30",
@@ -18008,7 +18008,7 @@ window.SCHEDULE = {
      "pgm": "베이비 브레짜 카쇼라 특가",
      "title": "7%+5% 페이&쿠폰 할인",
      "category": "키즈",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -18020,8 +18020,7 @@ window.SCHEDULE = {
      "slot_id": "60239",
      "pgm": "프리미엄 스킨케어 무스텔라",
      "title": "라이브 특가 무배+사은품",
-     "category": "키즈",
-     "hot": 9
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -19181,8 +19180,8 @@ window.SCHEDULE = {
    "2026-09-28",
    "2026-09-29"
   ],
-  "matched": 15,
-  "unmatched": 4
+  "matched": 14,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
