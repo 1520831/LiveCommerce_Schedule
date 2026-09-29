@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-29T10:21:11+09:00",
+ "generated_at": "2026-09-29T10:40:17+09:00",
  "today": "2026-09-29",
  "dates": [
   "2026-09-28",
@@ -7781,7 +7781,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -17943,7 +17944,7 @@ window.SCHEDULE = {
      "pgm": "크리넥스&좋은느낌",
      "title": "쎈딜 물가안정 프로젝트",
      "category": "리빙",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "08:30",
@@ -17981,7 +17982,7 @@ window.SCHEDULE = {
      "pgm": "하기스 대용량 쎈딜 혜택",
      "title": "물가안정 프로젝트",
      "category": "키즈",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -18019,7 +18020,7 @@ window.SCHEDULE = {
      "pgm": "프리미엄 스킨케어 무스텔라",
      "title": "라이브 특가 무배+사은품",
      "category": "키즈",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -19179,8 +19180,8 @@ window.SCHEDULE = {
    "2026-09-28",
    "2026-09-29"
   ],
-  "matched": 13,
-  "unmatched": 6
+  "matched": 14,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
