@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-30T11:20:15+09:00",
+ "generated_at": "2026-09-30T11:40:14+09:00",
  "today": "2026-09-30",
  "dates": [
   "2026-09-29",
@@ -435,7 +435,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 한가위 이탈리아 18K주얼리 BIG 페스타",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "07:00",
@@ -512,7 +512,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 본격 가을 26FW 신상 명품 득템 찬스",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -2240,7 +2240,8 @@ window.SCHEDULE = {
      "title": "셀렙샵 에디션 26FW 방송에서만 15% 할인🤎 10% 적립까지!",
      "pgm": "라이브쇼",
      "pgm_cd": "0146",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -7261,7 +7262,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 9
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -17272,7 +17273,7 @@ window.SCHEDULE = {
      "pgm": "유러피안 맛 폰타나 특가",
      "title": "라이브 한정 특별구성 오픈",
      "category": "식품",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "08:30",
@@ -17308,8 +17309,7 @@ window.SCHEDULE = {
      "slot_id": "59731",
      "pgm": "2천만 녹두폼 역대급 할인!",
      "title": "환절기 클렌징 루틴 특집",
-     "category": "뷰티",
-     "hot": 8
+     "category": "뷰티"
     },
     {
      "start": "10:00",
@@ -17334,7 +17334,7 @@ window.SCHEDULE = {
      "pgm": "헤이홈 스마트 홈캠 2세대",
      "title": "라이브 한정 특가",
      "category": "테크",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "10:00",
