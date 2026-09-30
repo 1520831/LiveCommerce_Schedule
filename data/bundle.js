@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-30T13:00:32+09:00",
+ "generated_at": "2026-09-30T13:21:01+09:00",
  "today": "2026-09-30",
  "dates": [
   "2026-09-29",
@@ -8293,7 +8293,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "12:30",
@@ -18699,7 +18699,7 @@ window.SCHEDULE = {
      "pgm": "유러피안 맛 폰타나 특가",
      "title": "라이브 한정 특별구성 오픈",
      "category": "식품",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "08:30",
