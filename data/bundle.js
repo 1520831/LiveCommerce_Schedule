@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-30T20:00:12+09:00",
+ "generated_at": "2026-09-30T21:00:14+09:00",
  "today": "2026-09-30",
  "dates": [
   "2026-09-29",
@@ -8931,7 +8931,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "12:30",
@@ -10033,7 +10033,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "19:00",
@@ -10378,7 +10378,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 5
     },
     {
      "start": "20:00",
@@ -20410,7 +20411,7 @@ window.SCHEDULE = {
      "pgm": "유러피안 맛 폰타나 특가",
      "title": "라이브 한정 특별구성 오픈",
      "category": "식품",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "08:30",
@@ -20470,8 +20471,7 @@ window.SCHEDULE = {
      "slot_id": "60210",
      "pgm": "헤이홈 스마트 홈캠 2세대",
      "title": "라이브 한정 특가",
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -20508,7 +20508,7 @@ window.SCHEDULE = {
      "pgm": "몰리멜리 라이브데이",
      "title": "가을 HOT 아이템",
      "category": "키즈",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "11:30",
@@ -20629,7 +20629,7 @@ window.SCHEDULE = {
      "pgm": "네스프레소 가을 홈카페 특집",
      "title": "머신 ~60% 커피~15%",
      "category": "테크",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "19:00",
