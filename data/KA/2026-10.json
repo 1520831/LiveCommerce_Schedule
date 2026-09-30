@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-10",
- "updated_at": "2026-09-30T12:11:34+09:00",
+ "updated_at": "2026-09-30T18:01:14+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -34,7 +34,7 @@
     "end": "10:00",
     "brand": "그레인온",
     "product": "그레인온 골드 카무트효소G 3개월 (2g x 90포) + 파로저당씬칩 + 파로500g",
-    "price": 34900,
+    "price": 75000,
     "link": "https://store.kakao.com/grainon/products/469647666",
     "slot_id": "60082",
     "pgm": "그레인온 가을맞이 라이브!",
@@ -90,15 +90,27 @@
     "category": "리빙"
    },
    {
+    "start": "11:00",
+    "end": "12:30",
+    "brand": "생활양식",
+    "product": "[프리미엄] 한일의료기 탄소 매트 온열 카본 전기 요 장판 캠핑 침대",
+    "price": 119000,
+    "link": "https://store.kakao.com/sengsiik/products/635998245",
+    "slot_id": "60668",
+    "pgm": "한일의료기 27년형 탄소매트",
+    "title": "전자파 차단",
+    "category": "테크"
+   },
+   {
     "start": "11:30",
     "end": "13:00",
     "brand": "도로시",
     "product": "[10/1 목 카쇼라][주문폭주][선물포장]실버 모이사나이트 올데이 반지_1.5mm",
-    "price": 98100,
+    "price": 97010,
     "link": "https://gift.kakao.com/product/13103365?url=product&cId=13103365",
     "slot_id": "60064",
     "pgm": "도로시주얼리 BEST 특집",
-    "title": "3만9천원~ 67%OFF",
+    "title": "3만9천원~",
     "category": "패션"
    },
    {
@@ -106,7 +118,7 @@
     "end": "13:00",
     "brand": "청년상점",
     "product": "국내산 등심 치즈듬뿍 치즈돈까스 1.8kg(10장) 외 치즈롤까스/등심돈까스 1.3kg",
-    "price": 29900,
+    "price": 56900,
     "link": "https://store.kakao.com/youngstore/products/70446353",
     "slot_id": "60143",
     "pgm": "국내산 치즈돈까스 10장",
@@ -117,7 +129,7 @@
     "start": "11:30",
     "end": "13:00",
     "brand": "슈퍼대디",
-    "product": "[슈퍼대디] 아기상어 옐로우 물티슈+비데휴대 1팩증정 외 아기상어 기저귀, 매직드라이, 고평량 물티슈 BEST 모음전",
+    "product": "아기상어 옐로우 물티슈+비데휴대 1팩증정 외 아기상어 기저귀, 매직드라이, 고평량 물티슈 BEST 모음전",
     "price": 45600,
     "link": "https://store.kakao.com/superdaddy/products/47543873",
     "slot_id": "60222",
@@ -299,8 +311,8 @@
     "start": "08:30",
     "end": "11:30",
     "brand": "토리든",
-    "product": "[5개/총 230ml] 다이브인 저분자 히알루론산 세럼 50ml 3개+40ml 2개 (+트라이얼 키트&마스크팩 5매 증정)",
-    "price": 26500,
+    "product": "[5개/총 270ml]다이브인 저분자 히알루론산 세럼 50ml 3개+40ml 2개(+세럼 20ml&트라이얼 키트&마스크팩5매)",
+    "price": 106000,
     "link": "https://gift.kakao.com/product/14280523?url=product&cId=14280523",
     "slot_id": "60238",
     "pgm": "토리든으로 환절기 고민해결!",
@@ -493,7 +505,7 @@
     "start": "19:00",
     "end": "20:30",
     "brand": "쿠쿠전자(주)",
-    "product": "쿠쿠 미식컬렉션 마스터셰프 사일런스 큐브",
+    "product": "쿠쿠 미식컬렉션 마스터셰프 사일런스 큐브 6인용 밥솥",
     "price": 688000,
     "link": "https://store.kakao.com/cuckooel/products/773583047",
     "slot_id": "60263",
@@ -559,8 +571,8 @@
     "price": 69000,
     "link": "https://store.kakao.com/floriahouse/products/313185187",
     "slot_id": "60403",
-    "pgm": "[톡딜]최대 42% 즉시할인",
-    "title": "플로리아매트 특가 LIVE",
+    "pgm": "플로리아매트 특가 LIVE",
+    "title": "[톡딜]최대 42% 즉시할인",
     "category": "키즈"
    },
    {
@@ -645,20 +657,20 @@
     "price": 27900,
     "link": "https://store.kakao.com/cjthehealth/products/218964893",
     "slot_id": "60151",
-    "pgm": "CJ유산균 최대 64%특가",
-    "title": "추가쿠폰+사은품",
+    "pgm": "CJ 유산균외 최대 64%",
+    "title": "브랜드특가 추가쿠폰+사은품",
     "category": "식품"
    },
    {
     "start": "11:30",
     "end": "13:00",
     "brand": "알품게 삼대인천게장",
-    "product": "깐새우장 25마리내외 간편 밥도둑 1+1",
-    "price": 71800,
-    "link": "https://store.kakao.com/leeyoofood/products/149633048",
+    "product": "알배기 간장게장 | 16만리뷰 62년 씨간장",
+    "price": 37800,
+    "link": "https://store.kakao.com/leeyoofood/products/313430044",
     "slot_id": "60159",
     "pgm": "알품게 삼대인천게장",
-    "title": "가을 맞이 톡딜!",
+    "title": "가을 맞이 베스트 톡딜!",
     "category": "식품"
    },
    {
@@ -681,8 +693,8 @@
     "price": 39800,
     "link": "https://store.kakao.com/codescombine/products/169935406",
     "slot_id": "60000",
-    "pgm": "코데즈컴바인 FW신상",
-    "title": "심리스/노와이어/드로즈 특가",
+    "pgm": "코데즈컴바인 언더웨어",
+    "title": "FW신상/인기상품 할인전!",
     "category": "패션"
    },
    {

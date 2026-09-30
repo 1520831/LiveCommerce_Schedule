@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-09-30T12:11:27+09:00",
+ "updated_at": "2026-09-30T18:01:04+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -14071,7 +14071,7 @@
     "title": "다시보는 굿라이프 명품전✨ 바카라&에르메스 최초공개!",
     "pgm": "굿라이프",
     "pgm_cd": "1015",
-    "category": "잡화·슈즈"
+    "category": "주방·잡화"
    }
   ],
   "2026-09-30": [
@@ -14318,7 +14318,7 @@
     "title": "다시보는 굿라이프 명품전✨ 바카라&에르메스 최초공개!",
     "pgm": "굿라이프",
     "pgm_cd": "1015",
-    "category": "잡화·슈즈"
+    "category": "주방·잡화"
    },
    {
     "start": "15:00",
@@ -14363,9 +14363,9 @@
     "start": "17:00",
     "end": "18:01",
     "brand": "끌레드뽀보떼",
-    "product": "[끌레드뽀 보떼] [인플루언서 pick/단독] 코렉팅 크림 베일 듀오 세트",
-    "price": 156400,
-    "link": "https://item.cjonstyle.com/item/2080919905?channelCode=30002002",
+    "product": "더 세럼 Ⅱ 50ml 단독기획세트",
+    "price": 293250,
+    "link": "https://item.cjonstyle.com/item/2076612836?channelCode=30002002",
     "slot_id": "30126",
     "title": "다시보는 겟잇뷰티💖 GLOW UP with [끌레드뽀 보떼]🌸",
     "pgm": "겟잇뷰티",
@@ -14442,7 +14442,7 @@
     "end": "19:59",
     "brand": "로보",
     "product": "26FW 유로피안 엠보 램스킨 후드 점퍼",
-    "price": 569050,
+    "price": 559050,
     "link": "https://item.cjonstyle.com/item/2092215028?channelCode=30002002",
     "slot_id": "29826",
     "title": "로보 FW 신상 최초 공개! 방송 중 추가 1만원 할인",
@@ -14468,7 +14468,7 @@
     "end": "19:59",
     "brand": "수앤진골드",
     "product": "웨이브 커팅볼 목걸이 24K 순금 2g",
-    "price": 590730,
+    "price": 578120,
     "link": "https://item.cjonstyle.com/item/2093296495?channelCode=30002002",
     "slot_id": "30130",
     "title": "다시보는 수앤진골드 24K 주얼리 & 지금이야 골드바✨ 방송중 특가!",

@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-30T12:11:10+09:00",
+ "updated_at": "2026-09-30T18:00:56+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -10778,14 +10778,14 @@
     "start": "14:00",
     "end": "14:59",
     "brand": "미디엘",
-    "product": "미디엘 맥주효모 탈모 대용량샴푸 4개",
+    "product": "맥주효모 탈모 대용량샴푸 1015g 4개",
     "price": 100000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251340216",
     "slot_id": "202609296009",
     "items": [
      {
       "brand": "미디엘",
-      "product": "미디엘 맥주효모 탈모 대용량샴푸 4개",
+      "product": "맥주효모 탈모 대용량샴푸 1015g 4개",
       "price": 100000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251340216"
      }
@@ -11065,14 +11065,14 @@
     "end": "07:59",
     "brand": "한민금거래소",
     "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-    "price": 258500,
+    "price": 258300,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581",
     "slot_id": "202609306024",
     "items": [
      {
       "brand": "한민금거래소",
       "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-      "price": 258500,
+      "price": 258300,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581"
      }
     ],
@@ -11254,14 +11254,14 @@
     "start": "15:00",
     "end": "15:59",
     "brand": "밋앤밀",
-    "product": "[농할] [밋앤밀] 국내산 해남농부 비세척 밤고구마(진율미) 특상 3kg(개당 130-300g)",
+    "product": "[농할] [밋앤밀] 국내산 해남농부 밤고구마(진율미) 특상 3kg(개당 130-300g)",
     "price": 17800,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253635460",
     "slot_id": "202609306011",
     "items": [
      {
       "brand": "밋앤밀",
-      "product": "[농할] [밋앤밀] 국내산 해남농부 비세척 밤고구마(진율미) 특상 3kg(개당 130-300g)",
+      "product": "[농할] [밋앤밀] 국내산 해남농부 밤고구마(진율미) 특상 3kg(개당 130-300g)",
       "price": 17800,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253635460"
      }
@@ -11289,6 +11289,25 @@
     "pgm": "[창업기업지원사업] 한국민속촌 추어탕 (일반식품2)"
    },
    {
+    "start": "16:00",
+    "end": "16:59",
+    "brand": "르메르",
+    "product": "르메르 BG293 LF1320 BK983 소프트 게임 스몰 숄더백",
+    "price": 1190000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251714651",
+    "slot_id": "202609306030",
+    "items": [
+     {
+      "brand": "르메르",
+      "product": "르메르 BG293 LF1320 BK983 소프트 게임 스몰 숄더백",
+      "price": 1190000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251714651"
+     }
+    ],
+    "title": "[투명쇼] 본격 가을 26FW 신상 명품 득템 찬스",
+    "pgm": "[재방] 투명쇼 (패션잡화)"
+   },
+   {
     "start": "17:00",
     "end": "17:59",
     "brand": "로라애슐리",
@@ -11308,6 +11327,25 @@
     "pgm": "[로라애슐리] 주방잡화 (리빙)"
    },
    {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "라인",
+    "product": "포켓 카라 셔츠 블라우스 (NMWBLQH030) 블라우스 2colors NMWBLQH030",
+    "price": 119000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253592437",
+    "slot_id": "202609306027",
+    "items": [
+     {
+      "brand": "라인",
+      "product": "포켓 카라 셔츠 블라우스 (NMWBLQH030) 블라우스 2colors NMWBLQH030",
+      "price": 119000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253592437"
+     }
+    ],
+    "title": "라인✨ ~70%▼ + 19% 쿠폰 + 5~7% 카드할인",
+    "pgm": "[재방] 백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
     "start": "18:00",
     "end": "18:59",
     "brand": "생로랑",
@@ -11325,6 +11363,25 @@
     ],
     "title": "[50% 적립] 몽클레어 구매하고 100만P 받기",
     "pgm": "[50% 적립 명품특별전] (패션잡화)"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "메트로시티",
+    "product": "백팩 미듐 M253MT5530Z",
+    "price": 209500,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239106330",
+    "slot_id": "202609306028",
+    "items": [
+     {
+      "brand": "메트로시티",
+      "product": "백팩 미듐 M253MT5530Z",
+      "price": 209500,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239106330"
+     }
+    ],
+    "title": "[메트로시티] 최대 65% 쇼라 특별가🩷",
+    "pgm": "[재방] 백화점 프리오픈쇼(멀티커머스)"
    },
    {
     "start": "19:00",
