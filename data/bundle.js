@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-30T12:40:24+09:00",
+ "generated_at": "2026-09-30T13:00:32+09:00",
  "today": "2026-09-30",
  "dates": [
   "2026-09-29",
@@ -529,7 +529,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 본격 가을 26FW 신상 명품 득템 찬스",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -8293,7 +8293,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 5
     },
     {
      "start": "12:30",
@@ -18760,7 +18760,7 @@ window.SCHEDULE = {
      "pgm": "헤이홈 스마트 홈캠 2세대",
      "title": "라이브 한정 특가",
      "category": "테크",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "10:00",
