@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-30T18:00:56+09:00",
+ "updated_at": "2026-09-30T23:30:56+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -10684,14 +10684,14 @@
     "end": "08:59",
     "brand": "예작",
     "product": "(양말증정)긴팔와이셔츠 일반핏 슬림핏 구김적은 스판 남방 드레스 24종택1 YJ1SB0001",
-    "price": 39000,
+    "price": 37000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2232916777",
     "slot_id": "202609296003",
     "items": [
      {
       "brand": "예작",
       "product": "(양말증정)긴팔와이셔츠 일반핏 슬림핏 구김적은 스판 남방 드레스 24종택1 YJ1SB0001",
-      "price": 39000,
+      "price": 37000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2232916777"
      }
     ],
@@ -11235,16 +11235,16 @@
     "start": "14:00",
     "end": "14:59",
     "brand": "알래스카큐브",
-    "product": "[세트1] 알래스카큐브 퍼퓸 샤워바 풀세트 (샤워바 6+3)",
-    "price": 69000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253700734",
+    "product": "쿨멘톨 퍼퓸 샤워바",
+    "price": 10000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250930506",
     "slot_id": "202609306010",
     "items": [
      {
       "brand": "알래스카큐브",
-      "product": "[세트1] 알래스카큐브 퍼퓸 샤워바 풀세트 (샤워바 6+3)",
-      "price": 69000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253700734"
+      "product": "쿨멘톨 퍼퓸 샤워바",
+      "price": 10000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250930506"
      }
     ],
     "title": "알래스카큐브 첫 쇼라 론칭!",
@@ -11477,6 +11477,25 @@
     ],
     "title": "[JJ지고트] 26FW 셀럽도 반한 고급스러운 가을룩✨",
     "pgm": "현대렐라쇼 (멀티커머스)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "생로랑",
+    "product": "생로랑 379039 CWU01 1000 카산드라 모노그램 마틀라세 금장 스몰 클러치백",
+    "price": 1500000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253432869",
+    "slot_id": "202609306029",
+    "items": [
+     {
+      "brand": "생로랑",
+      "product": "생로랑 379039 CWU01 1000 카산드라 모노그램 마틀라세 금장 스몰 클러치백",
+      "price": 1500000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253432869"
+     }
+    ],
+    "title": "[50% 적립] 몽클레어 구매하고 100만P 받기",
+    "pgm": "[재방] [50% 적립 명품특별전] (패션잡화)"
    }
   ]
  }
