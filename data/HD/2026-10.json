@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-10",
- "updated_at": "2026-09-30T07:00:48+09:00",
+ "updated_at": "2026-09-30T12:11:10+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -61,6 +61,25 @@
     ],
     "title": "[헤지스ACC] 가을 신상 아이템 추천🍂",
     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "셀린느",
+    "product": "셀린느 26SS 블랙 마고 체인 월렛백 10L033DPV 38NO",
+    "price": 2856000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252812875",
+    "slot_id": "202610016003",
+    "items": [
+     {
+      "brand": "셀린느",
+      "product": "셀린느 26SS 블랙 마고 체인 월렛백 10L033DPV 38NO",
+      "price": 2856000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252812875"
+     }
+    ],
+    "title": "[투명쇼] 셀린느 월 4만원대, 60개월 무이자 혜택",
+    "pgm": "투명쇼 (패션잡화)"
    },
    {
     "start": "11:00",
@@ -212,7 +231,7 @@
      }
     ],
     "title": "[글로벌쇼라] 유럽 현지 LIVE",
-    "pgm": "편성기획 삽입용 (편성)"
+    "pgm": "[이탈리아 현지방송] 에그레히오 올리브오일 (쇼핑라이브)"
    },
    {
     "start": "19:00",
@@ -487,14 +506,14 @@
     "end": "21:59",
     "brand": "한민금거래소",
     "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-    "price": 256200,
+    "price": 258500,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581",
     "slot_id": "202610026014",
     "items": [
      {
       "brand": "한민금거래소",
       "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-      "price": 256200,
+      "price": 258500,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581"
      }
     ],
@@ -806,7 +825,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248731184"
      }
     ],
-    "title": "일명 문익점 칫솔 칫솔 안에 치간칫솔이 쏘옥",
+    "title": "일명 문익점 칫솔🪥 칫솔 안에 치간칫솔이 쏘옥",
     "pgm": "[유니드] 칫솔 (리빙)"
    },
    {
@@ -888,6 +907,25 @@
   ],
   "2026-10-05": [
    {
+    "start": "08:00",
+    "end": "08:59",
+    "brand": "써스데이아일랜드",
+    "product": "(T266MJK133W) 윈도우체크 투버튼 자켓 T266MJK133",
+    "price": 359100,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253664088",
+    "slot_id": "202610056001",
+    "items": [
+     {
+      "brand": "써스데이아일랜드",
+      "product": "(T266MJK133W) 윈도우체크 투버튼 자켓 T266MJK133",
+      "price": 359100,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253664088"
+     }
+    ],
+    "title": "써스데이아일랜드 가을 신상원피스 OPEN!",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
     "start": "09:00",
     "end": "09:59",
     "brand": "마쟈",
@@ -922,8 +960,65 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253909101"
      }
     ],
-    "title": "[투명쇼] 막스마라 월1만원대 60개월 무이자",
+    "title": "[투명쇼] 막스마라 월 1만원대 60개월 무이자",
     "pgm": "투명쇼 (패션잡화)"
+   },
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "블루오로",
+    "product": "18K 글로우 바 메쉬 뱅글",
+    "price": 1799000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252346539",
+    "slot_id": "202610056004",
+    "items": [
+     {
+      "brand": "블루오로",
+      "product": "18K 글로우 바 메쉬 뱅글",
+      "price": 1799000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252346539"
+     }
+    ],
+    "title": "[노블리타] 이탈리아 18K주얼리 중량템 대공개",
+    "pgm": "노블리타 (노블레스)"
+   },
+   {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "스노야",
+    "product": "[SNOYA]스노야 26FW 메리노울 100% V넥 투웨이 풀오버",
+    "price": 99000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252783490",
+    "slot_id": "202610056005",
+    "items": [
+     {
+      "brand": "스노야",
+      "product": "[SNOYA]스노야 26FW 메리노울 100% V넥 투웨이 풀오버",
+      "price": 99000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252783490"
+     }
+    ],
+    "title": "[스노야]패션칼라테라피~인기상품 초특가 찬스",
+    "pgm": "[스노야] 의류 (패션3Lab)"
+   },
+   {
+    "start": "14:00",
+    "end": "14:59",
+    "brand": "필모아(pilmoa)",
+    "product": "필모아 맥주컵 E700BC V2.0 + 오프너형 캡",
+    "price": 78900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253634296",
+    "slot_id": "202610056007",
+    "items": [
+     {
+      "brand": "필모아(pilmoa)",
+      "product": "필모아 맥주컵 E700BC V2.0 + 오프너형 캡",
+      "price": 78900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253634296"
+     }
+    ],
+    "title": "[필모아] 세라믹 텀블러, 쇼라 단독 특가 OPEN!",
+    "pgm": "[필모아] 텀블러 (가전)"
    },
    {
     "start": "19:00",
@@ -945,6 +1040,25 @@
     "pgm": "[샬랑드파리] 색조外 (뷰티1)"
    },
    {
+    "start": "20:00",
+    "end": "21:59",
+    "brand": "막스마라",
+    "product": "토템 벨티드 울 캐시코트(2616011011600)",
+    "price": 1499000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2245630447",
+    "slot_id": "202610056013",
+    "items": [
+     {
+      "brand": "막스마라",
+      "product": "토템 벨티드 울 캐시코트(2616011011600)",
+      "price": 1499000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2245630447"
+     }
+    ],
+    "title": "[현명쇼] 막스마라 50% 반값세일 선착순",
+    "pgm": "현명쇼(노블레스)"
+   },
+   {
     "start": "23:00",
     "end": "23:59",
     "brand": "주크",
@@ -960,7 +1074,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253919226"
      }
     ],
-    "title": "쥬크 26FW 신상 방송중에만 특가 + 쿠폰💕",
+    "title": "쥬크 26FW 신상 방송 중에만 특별가 + 쿠폰💕",
     "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ]

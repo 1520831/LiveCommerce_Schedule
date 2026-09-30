@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-09-30T07:00:55+09:00",
+ "updated_at": "2026-09-30T12:11:27+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -13752,7 +13752,7 @@
     "start": "11:00",
     "end": "11:59",
     "brand": "바크",
-    "product": "[26FW][주문서 20%쿠폰][정상가 119,900원] BARC C-3 버블 하이탑 클로그 펄 블랙",
+    "product": "[26FW][정상가 119,900원] BARC C-3 버블 하이탑 클로그 펄 블랙",
     "price": 107910,
     "link": "https://item.cjonstyle.com/item/2093443906?channelCode=30002002",
     "slot_id": "30099",
@@ -14012,7 +14012,7 @@
     "start": "21:00",
     "end": "22:00",
     "brand": "스튜디오톰보이",
-    "product": "소매 체크 카라 배색 집업 점퍼_라이트카키 9166313871",
+    "product": "소매 체크 카라 배색 집업 점퍼_ 9166313871",
     "price": 133840,
     "link": "https://item.cjonstyle.com/item/2088205809?channelCode=30002002",
     "slot_id": "30110",
@@ -14093,10 +14093,10 @@
     "end": "09:59",
     "brand": "다크 크런치 시크릿",
     "product": "다크 크런치 다이어트 유산균 24주분 (8박스)",
-    "price": 476000,
+    "price": 252000,
     "link": "https://item.cjonstyle.com/item/2080620696?channelCode=30002002",
     "slot_id": "30026",
-    "title": "추석 끝났으니 다이어트 해야죠? 오하루 다크크런치 다이어트 유산균&두유!",
+    "title": "추석 끝났으니 다이어트 해야죠? 다크크런치 다이어트 유산균&오하루 두유!",
     "pgm": "라이브쇼",
     "pgm_cd": "1016",
     "category": "식품·건강"
@@ -14232,14 +14232,15 @@
    {
     "start": "12:00",
     "end": "12:59",
-    "brand": "",
-    "product": "국민 육아템 브이텍 걸음마 보조기 & 깜짝볼 & 에듀볼 ~57%",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/29823",
+    "brand": "브이텍",
+    "product": "1위 국민템 세트 (NEW 깜짝볼 스마트 소프트 한영버전 + NEW 걸음마 보조기 스마트 폴딩 소프트)",
+    "price": 122500,
+    "link": "https://item.cjonstyle.com/item/2076309972?channelCode=30002002",
     "slot_id": "29823",
     "title": "국민 육아템 브이텍 걸음마 보조기 & 깜짝볼 & 에듀볼 ~57%",
     "pgm": "인플루언서LIVE",
-    "pgm_cd": "1052"
+    "pgm_cd": "1052",
+    "category": "유아동"
    },
    {
     "start": "12:00",
@@ -14453,7 +14454,7 @@
     "start": "19:00",
     "end": "19:59",
     "brand": "LG전자",
-    "product": "[LG구독] 9월 한정 최대35만 상품권+12개월 50% 반값+무상 A/S+케어서비스",
+    "product": "[LG구독] 라이브 한정 최대56만 상품권+12개월 50% 반값+무상 A/S+케어서비스",
     "price": 14450,
     "link": "https://item.cjonstyle.com/item/2025555388?channelCode=30002002",
     "slot_id": "29827",
@@ -14648,7 +14649,7 @@
     "end": "23:59",
     "brand": "MCRN",
     "product": "[mcrn][강주은픽] 핸드스트랩+미니파우치+크리스탈 체리키링 세트",
-    "price": 90440,
+    "price": 85680,
     "link": "https://item.cjonstyle.com/item/2091719654?channelCode=30002002",
     "slot_id": "30213",
     "title": "다시보는 굿라이프 x mcrn 폰스트랩 입점 특집! ✨비교필수 파격조건✨",

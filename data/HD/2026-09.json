@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-09",
- "updated_at": "2026-09-30T07:00:48+09:00",
+ "updated_at": "2026-09-30T12:11:10+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -10889,6 +10889,24 @@
     "pgm": "[골드앤] 주얼리 (패션잡화)"
    },
    {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "조니스 그로서리",
+    "product": "[쇼라][조니스그로서리][BEST입문팩] 납작 플레인1 + 초코1 + 저당1 + 한끼 오곡1 + 카카오1",
+    "price": 53900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253383970",
+    "slot_id": "202609296025",
+    "items": [
+     {
+      "brand": "조니스 그로서리",
+      "product": "[쇼라][조니스그로서리][BEST입문팩] 납작 플레인1 + 초코1 + 저당1 + 한끼 오곡1 + 카카오1",
+      "price": 53900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253383970"
+     }
+    ],
+    "title": "無설탕 無첨가물! 통귀리 가득 납작 청크 그래놀라"
+   },
+   {
     "start": "20:00",
     "end": "20:59",
     "brand": "바디프랜드",
@@ -11047,14 +11065,14 @@
     "end": "07:59",
     "brand": "한민금거래소",
     "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-    "price": 256200,
+    "price": 258500,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581",
     "slot_id": "202609306024",
     "items": [
      {
       "brand": "한민금거래소",
       "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-      "price": 256200,
+      "price": 258500,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581"
      }
     ],
@@ -11123,14 +11141,14 @@
     "end": "11:59",
     "brand": "에떼르노",
     "product": "R127 데이지링 반지 925",
-    "price": 190000,
+    "price": 300000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253697431",
     "slot_id": "202609306007",
     "items": [
      {
       "brand": "에떼르노",
       "product": "R127 데이지링 반지 925",
-      "price": 190000,
+      "price": 300000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253697431"
      }
     ],
@@ -11160,20 +11178,39 @@
     "start": "12:00",
     "end": "12:59",
     "brand": "프레스샷",
-    "product": "마그코어 마그네슘 액상비타민 10개입 3박스",
-    "price": 92900,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253909446",
+    "product": "[맛춤가게 특별구성] 프레스샷F 5박스 + 프레스샷 마그코어 1박스 추가증정",
+    "price": 147900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253909434",
     "slot_id": "202609306008",
     "items": [
      {
       "brand": "프레스샷",
-      "product": "마그코어 마그네슘 액상비타민 10개입 3박스",
-      "price": 92900,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253909446"
+      "product": "[맛춤가게 특별구성] 프레스샷F 5박스 + 프레스샷 마그코어 1박스 추가증정",
+      "price": 147900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253909434"
      }
     ],
     "title": "[맛춤가게] 단 1시간, 단독 마그네슘 1박스 증정",
     "pgm": "맛춤가게 (식품)"
+   },
+   {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "나이스클랍",
+    "product": "스트링 박시 자켓 N252MWJ317",
+    "price": 99000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248499213",
+    "slot_id": "202609306026",
+    "items": [
+     {
+      "brand": "나이스클랍",
+      "product": "스트링 박시 자켓 N252MWJ317",
+      "price": 99000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248499213"
+     }
+    ],
+    "title": "[나이스클랍] 가을 코디 30% 쿠폰 + 무료 교환",
+    "pgm": "[재방] [나이스클랍] 의류 (패션1Lab)"
    },
    {
     "start": "13:00",
@@ -11198,16 +11235,16 @@
     "start": "14:00",
     "end": "14:59",
     "brand": "알래스카큐브",
-    "product": "쿨멘톨 퍼퓸 샤워바",
-    "price": 11000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250930506",
+    "product": "[세트1] 알래스카큐브 퍼퓸 샤워바 풀세트 (샤워바 6+3)",
+    "price": 69000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253700734",
     "slot_id": "202609306010",
     "items": [
      {
       "brand": "알래스카큐브",
-      "product": "쿨멘톨 퍼퓸 샤워바",
-      "price": 11000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250930506"
+      "product": "[세트1] 알래스카큐브 퍼퓸 샤워바 풀세트 (샤워바 6+3)",
+      "price": 69000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253700734"
      }
     ],
     "title": "알래스카큐브 첫 쇼라 론칭!",

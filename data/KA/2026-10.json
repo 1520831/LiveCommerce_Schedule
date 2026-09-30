@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-10",
- "updated_at": "2026-09-30T07:01:01+09:00",
+ "updated_at": "2026-09-30T12:11:34+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -201,9 +201,9 @@
     "start": "19:00",
     "end": "20:30",
     "brand": "피에브",
-    "product": "",
-    "price": 0,
-    "link": "https://shoppinglive.kakao.com/live/60312",
+    "product": "피에브 고체 탈취제 250g 5종 에어워셔 화장실 하수구 냉장고 냄새 제거",
+    "price": 19800,
+    "link": "https://store.kakao.com/piev/products/620706432",
     "slot_id": "60312",
     "pgm": "피에브 고체탈취제",
     "title": "완연한 가을 우아한 향기로!",
@@ -262,12 +262,24 @@
     "end": "22:30",
     "brand": "좋은세상두원",
     "product": "홈포차 인기메뉴 3종세트 마라 유부전골/떡볶이/튀김 외 안주류 모음세트",
-    "price": 22500,
+    "price": 22700,
     "link": "https://store.kakao.com/doowonfns/products/795215629",
     "slot_id": "60533",
     "pgm": "좋은세상 최초 라이브",
     "title": "오늘만 공개하는 홈포차 9종",
     "category": "식품"
+   },
+   {
+    "start": "22:30",
+    "end": "00:00",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49900,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "60620",
+    "pgm": "터치그라운드 발편한운동화",
+    "title": "가벼우면서 쿠션감 좋은운동화",
+    "category": "패션"
    }
   ],
   "2026-10-02": [
