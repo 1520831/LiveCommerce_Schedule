@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-30T09:00:14+09:00",
+ "generated_at": "2026-09-30T09:20:11+09:00",
  "today": "2026-09-30",
  "dates": [
   "2026-09-29",
@@ -455,7 +455,7 @@ window.SCHEDULE = {
      ],
      "title": "[한민금거래소] 금을 생산하는 기업!",
      "pgm": "[재방] 한민금거래소 (패션잡화)",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "08:00",
@@ -494,7 +494,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[메트로시티] 최대 65% 쇼라 특별가🩷",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -2151,7 +2152,8 @@ window.SCHEDULE = {
      "title": "로르서울💕 이태리 램스킨 리얼레더 자켓 십만원대!",
      "pgm": "라이브쇼",
      "pgm_cd": "1013",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 7
     },
     {
      "start": "09:00",
@@ -17284,7 +17286,7 @@ window.SCHEDULE = {
      "pgm": "청소 필수템 아스토니쉬",
      "title": "만능/배스룸/기름때 클리너",
      "category": "리빙",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "08:30",
@@ -18312,8 +18314,8 @@ window.SCHEDULE = {
    "2026-09-29",
    "2026-09-30"
   ],
-  "matched": 9,
-  "unmatched": 9
+  "matched": 11,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
