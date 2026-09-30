@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-30T14:00:35+09:00",
+ "generated_at": "2026-09-30T14:20:24+09:00",
  "today": "2026-09-30",
  "dates": [
   "2026-09-29",
@@ -529,7 +529,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 본격 가을 26FW 신상 명품 득템 찬스",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -2391,7 +2391,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "0146",
      "category": "여성패션",
-     "hot": 8
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -7617,7 +7617,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 10
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -7640,7 +7640,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -8292,7 +8293,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "12:30",
@@ -18698,7 +18699,7 @@ window.SCHEDULE = {
      "pgm": "유러피안 맛 폰타나 특가",
      "title": "라이브 한정 특별구성 오픈",
      "category": "식품",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -18759,7 +18760,7 @@ window.SCHEDULE = {
      "pgm": "헤이홈 스마트 홈캠 2세대",
      "title": "라이브 한정 특가",
      "category": "테크",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -18796,7 +18797,7 @@ window.SCHEDULE = {
      "pgm": "몰리멜리 라이브데이",
      "title": "가을 HOT 아이템",
      "category": "키즈",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "11:30",
@@ -19752,8 +19753,8 @@ window.SCHEDULE = {
    "2026-09-29",
    "2026-09-30"
   ],
-  "matched": 12,
-  "unmatched": 6
+  "matched": 13,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
