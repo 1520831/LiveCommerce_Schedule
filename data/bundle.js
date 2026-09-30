@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-01T08:20:19+09:00",
+ "generated_at": "2026-10-01T08:40:09+09:00",
  "today": "2026-10-01",
  "dates": [
   "2026-09-30",
@@ -6311,7 +6311,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 10
     },
     {
      "start": "08:10",
@@ -15878,7 +15879,8 @@ window.SCHEDULE = {
      "slot_id": "58734",
      "pgm": "좋은느낌&크리넥스",
      "title": "쎈딜 물가안정 프로젝트",
-     "category": "리빙"
+     "category": "리빙",
+     "hot": 2
     },
     {
      "start": "08:30",
@@ -15890,7 +15892,8 @@ window.SCHEDULE = {
      "slot_id": "60075",
      "pgm": "10월의 시작은 이클립스로!",
      "title": "한국마즈 라이브 특가",
-     "category": "식품"
+     "category": "식품",
+     "hot": 5
     },
     {
      "start": "08:30",
@@ -15902,7 +15905,8 @@ window.SCHEDULE = {
      "slot_id": "60082",
      "pgm": "그레인온 가을맞이 라이브!",
      "title": "추가 혜택 가득!",
-     "category": "식품"
+     "category": "식품",
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -16628,8 +16632,8 @@ window.SCHEDULE = {
    "2026-09-30",
    "2026-10-01"
   ],
-  "matched": 9,
-  "unmatched": 10
+  "matched": 13,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
