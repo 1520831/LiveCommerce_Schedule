@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-30T11:00:21+09:00",
+ "generated_at": "2026-09-30T11:20:15+09:00",
  "today": "2026-09-30",
  "dates": [
   "2026-09-29",
@@ -2214,8 +2214,7 @@ window.SCHEDULE = {
      "title": "다시보는 칼라거펠트 잡화 특집! 스니커즈/머플러/백 파격세일",
      "pgm": "라이브쇼",
      "pgm_cd": "0146",
-     "category": "잡화·슈즈",
-     "hot": 8
+     "category": "잡화·슈즈"
     },
     {
      "start": "10:00",
@@ -7261,7 +7260,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -17284,8 +17284,7 @@ window.SCHEDULE = {
      "slot_id": "60098",
      "pgm": "청소 필수템 아스토니쉬",
      "title": "만능/배스룸/기름때 클리너",
-     "category": "리빙",
-     "hot": 10
+     "category": "리빙"
     },
     {
      "start": "08:30",
@@ -17310,7 +17309,7 @@ window.SCHEDULE = {
      "pgm": "2천만 녹두폼 역대급 할인!",
      "title": "환절기 클렌징 루틴 특집",
      "category": "뷰티",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -18315,8 +18314,8 @@ window.SCHEDULE = {
    "2026-09-29",
    "2026-09-30"
   ],
-  "matched": 12,
-  "unmatched": 6
+  "matched": 11,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
