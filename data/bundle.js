@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-30T21:00:14+09:00",
+ "generated_at": "2026-09-30T22:00:13+09:00",
  "today": "2026-09-30",
  "dates": [
   "2026-09-29",
@@ -832,7 +832,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[현명쇼] 버버리 7만▼ 전 상품 무이자 60개월",
-     "pgm": "현명쇼(노블레스)"
+     "pgm": "현명쇼(노블레스)",
+     "hot": 8
     },
     {
      "start": "22:00",
@@ -2981,8 +2982,7 @@ window.SCHEDULE = {
      "title": "로보 FW 신상 최초 공개! 방송 중 추가 1만원 할인",
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
-     "category": "여성패션",
-     "hot": 10
+     "category": "여성패션"
     },
     {
      "start": "19:00",
@@ -3151,7 +3151,8 @@ window.SCHEDULE = {
      "title": "[최화정쇼] 최화정쇼 보스 이어폰 단독 론칭 기획가 OPEN!",
      "pgm": "최화정쇼",
      "pgm_cd": "1043",
-     "category": "가전"
+     "category": "가전",
+     "hot": 1
     },
     {
      "start": "22:00",
@@ -7726,7 +7727,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -8931,7 +8932,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "12:30",
@@ -9905,7 +9906,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "19:00",
@@ -10033,7 +10034,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "19:00",
@@ -10379,7 +10380,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "20:00",
@@ -20410,8 +20411,7 @@ window.SCHEDULE = {
      "slot_id": "59665",
      "pgm": "유러피안 맛 폰타나 특가",
      "title": "라이브 한정 특별구성 오픈",
-     "category": "식품",
-     "hot": 9
+     "category": "식품"
     },
     {
      "start": "08:30",
@@ -20508,7 +20508,7 @@ window.SCHEDULE = {
      "pgm": "몰리멜리 라이브데이",
      "title": "가을 HOT 아이템",
      "category": "키즈",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "11:30",
@@ -20629,7 +20629,7 @@ window.SCHEDULE = {
      "pgm": "네스프레소 가을 홈카페 특집",
      "title": "머신 ~60% 커피~15%",
      "category": "테크",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "19:00",
@@ -20654,7 +20654,7 @@ window.SCHEDULE = {
      "pgm": "프리미엄 밥솥 사일런스큐브",
      "title": "런칭 라이브 with 최현석",
      "category": "테크",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "19:00",
