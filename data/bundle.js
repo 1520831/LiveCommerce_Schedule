@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-30T11:40:14+09:00",
+ "generated_at": "2026-09-30T12:05:42+09:00",
  "today": "2026-09-30",
  "dates": [
   "2026-09-29",
@@ -435,7 +435,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 한가위 이탈리아 18K주얼리 BIG 페스타",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 6
+     "hot": 10
     },
     {
      "start": "07:00",
@@ -512,7 +512,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 본격 가을 26FW 신상 명품 득템 찬스",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -2241,7 +2241,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "0146",
      "category": "여성패션",
-     "hot": 9
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -7238,7 +7238,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -7262,7 +7263,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -17370,7 +17371,8 @@ window.SCHEDULE = {
      "slot_id": "59515",
      "pgm": "몰리멜리 라이브데이",
      "title": "가을 HOT 아이템",
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 5
     },
     {
      "start": "11:30",
@@ -18314,8 +18316,8 @@ window.SCHEDULE = {
    "2026-09-29",
    "2026-09-30"
   ],
-  "matched": 11,
-  "unmatched": 7
+  "matched": 13,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
