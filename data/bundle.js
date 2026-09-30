@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-30T10:40:15+09:00",
+ "generated_at": "2026-09-30T11:00:21+09:00",
  "today": "2026-09-30",
  "dates": [
   "2026-09-29",
@@ -435,7 +435,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 한가위 이탈리아 18K주얼리 BIG 페스타",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "07:00",
@@ -473,8 +473,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "라인✨ ~70%▼ + 19% 쿠폰 + 5~7% 카드할인",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 10
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "09:00",
@@ -513,7 +512,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 본격 가을 26FW 신상 명품 득템 찬스",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -2151,8 +2150,7 @@ window.SCHEDULE = {
      "title": "로르서울💕 이태리 램스킨 리얼레더 자켓 십만원대!",
      "pgm": "라이브쇼",
      "pgm_cd": "1013",
-     "category": "여성패션",
-     "hot": 9
+     "category": "여성패션"
     },
     {
      "start": "09:00",
@@ -2216,7 +2214,8 @@ window.SCHEDULE = {
      "title": "다시보는 칼라거펠트 잡화 특집! 스니커즈/머플러/백 파격세일",
      "pgm": "라이브쇼",
      "pgm_cd": "0146",
-     "category": "잡화·슈즈"
+     "category": "잡화·슈즈",
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -17286,7 +17285,7 @@ window.SCHEDULE = {
      "pgm": "청소 필수템 아스토니쉬",
      "title": "만능/배스룸/기름때 클리너",
      "category": "리빙",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "08:30",
@@ -17311,7 +17310,7 @@ window.SCHEDULE = {
      "pgm": "2천만 녹두폼 역대급 할인!",
      "title": "환절기 클렌징 루틴 특집",
      "category": "뷰티",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -17336,7 +17335,7 @@ window.SCHEDULE = {
      "pgm": "헤이홈 스마트 홈캠 2세대",
      "title": "라이브 한정 특가",
      "category": "테크",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -18316,8 +18315,8 @@ window.SCHEDULE = {
    "2026-09-29",
    "2026-09-30"
   ],
-  "matched": 13,
-  "unmatched": 5
+  "matched": 12,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
