@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-09-30T19:00:14+09:00",
+ "generated_at": "2026-09-30T20:00:12+09:00",
  "today": "2026-09-30",
  "dates": [
   "2026-09-29",
@@ -528,8 +528,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 본격 가을 26FW 신상 명품 득템 찬스",
-     "pgm": "투명쇼 (패션잡화)",
-     "hot": 6
+     "pgm": "투명쇼 (패션잡화)"
     },
     {
      "start": "11:00",
@@ -2706,8 +2705,7 @@ window.SCHEDULE = {
      "title": "셀렙샵 에디션 26FW 방송에서만 15% 할인🤎 10% 적립까지!",
      "pgm": "라이브쇼",
      "pgm_cd": "0146",
-     "category": "여성패션",
-     "hot": 7
+     "category": "여성패션"
     },
     {
      "start": "11:00",
@@ -2983,7 +2981,8 @@ window.SCHEDULE = {
      "title": "로보 FW 신상 최초 공개! 방송 중 추가 1만원 할인",
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 10
     },
     {
      "start": "19:00",
@@ -7727,7 +7726,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -8254,8 +8253,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 9
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -8278,8 +8276,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -8934,7 +8931,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 7
     },
     {
      "start": "12:30",
@@ -9907,7 +9904,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 1
     },
     {
      "start": "19:00",
@@ -10034,7 +10032,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 5
     },
     {
      "start": "19:00",
@@ -20411,7 +20410,7 @@ window.SCHEDULE = {
      "pgm": "유러피안 맛 폰타나 특가",
      "title": "라이브 한정 특별구성 오픈",
      "category": "식품",
-     "hot": 4
+     "hot": 8
     },
     {
      "start": "08:30",
@@ -20472,7 +20471,7 @@ window.SCHEDULE = {
      "pgm": "헤이홈 스마트 홈캠 2세대",
      "title": "라이브 한정 특가",
      "category": "테크",
-     "hot": 5
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -20509,7 +20508,7 @@ window.SCHEDULE = {
      "pgm": "몰리멜리 라이브데이",
      "title": "가을 HOT 아이템",
      "category": "키즈",
-     "hot": 2
+     "hot": 6
     },
     {
      "start": "11:30",
@@ -20629,7 +20628,8 @@ window.SCHEDULE = {
      "slot_id": "59922",
      "pgm": "네스프레소 가을 홈카페 특집",
      "title": "머신 ~60% 커피~15%",
-     "category": "테크"
+     "category": "테크",
+     "hot": 4
     },
     {
      "start": "19:00",
@@ -20653,7 +20653,8 @@ window.SCHEDULE = {
      "slot_id": "60189",
      "pgm": "프리미엄 밥솥 사일런스큐브",
      "title": "런칭 라이브 with 최현석",
-     "category": "테크"
+     "category": "테크",
+     "hot": 3
     },
     {
      "start": "19:00",
@@ -21489,8 +21490,8 @@ window.SCHEDULE = {
    "2026-09-29",
    "2026-09-30"
   ],
-  "matched": 13,
-  "unmatched": 5
+  "matched": 14,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
