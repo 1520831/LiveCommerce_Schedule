@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-01T11:20:07+09:00",
+ "generated_at": "2026-10-01T17:32:23+09:00",
  "today": "2026-10-01",
  "dates": [
   "2026-09-30",
@@ -7920,8 +7920,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -8774,7 +8773,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 8
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -8852,7 +8851,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -8890,7 +8889,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "11:00",
@@ -18479,7 +18478,7 @@ window.SCHEDULE = {
      "slot_id": "252520",
      "pgm": "월첫세일⚡️ 오직 월초에만! 삼성 가전 최대 혜택💚",
      "category": "가전",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -19101,8 +19100,7 @@ window.SCHEDULE = {
      "slot_id": "60075",
      "pgm": "10월의 시작은 이클립스로!",
      "title": "한국마즈 라이브 특가",
-     "category": "식품",
-     "hot": 10
+     "category": "식품"
     },
     {
      "start": "08:30",
@@ -19115,7 +19113,7 @@ window.SCHEDULE = {
      "pgm": "그레인온 가을맞이 라이브!",
      "title": "추가 혜택 가득!",
      "category": "식품",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -20036,8 +20034,8 @@ window.SCHEDULE = {
    "2026-09-30",
    "2026-10-01"
   ],
-  "matched": 14,
-  "unmatched": 6
+  "matched": 12,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
