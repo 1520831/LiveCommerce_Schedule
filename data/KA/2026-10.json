@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-10",
- "updated_at": "2026-10-01T18:45:04+09:00",
+ "updated_at": "2026-10-02T01:05:55+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -52,42 +52,6 @@
     "pgm": "우고래빗 카쇼라 특가",
     "title": "하루견과+사은품 혜택",
     "category": "식품"
-   },
-   {
-    "start": "10:00",
-    "end": "11:03",
-    "brand": "유한킴벌리 직영 스토어",
-    "product": "하기스 오리지널 기저귀 2박스 특가! 네이처/밤부/맥스드라이 외",
-    "price": 166100,
-    "link": "https://store.kakao.com/ykstore/products/77646294",
-    "slot_id": "60150",
-    "pgm": "하기스&그린핑거",
-    "title": "쏀딜",
-    "category": "키즈"
-   },
-   {
-    "start": "10:00",
-    "end": "11:00",
-    "brand": "신일전자 온라인스토어",
-    "product": "신일 전기히터 2IN1 카본 탄소발열 히터 온풍기",
-    "price": 198000,
-    "link": "https://store.kakao.com/shinilonline/products/632210789",
-    "slot_id": "60477",
-    "pgm": "신일 전기 히터 난로 가습기",
-    "title": "포근한 겨울나기 라이브할인",
-    "category": "리빙"
-   },
-   {
-    "start": "10:33",
-    "end": "11:28",
-    "brand": "터치그라운드 스니커즈",
-    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-    "price": 49900,
-    "link": "https://store.kakao.com/touchground/products/774098244",
-    "slot_id": "60620",
-    "pgm": "터치그라운드 발편한운동화",
-    "title": "가벼우면서 쿠션감 좋은운동화",
-    "category": "패션"
    },
    {
     "start": "11:30",
@@ -162,32 +126,8 @@
     "category": "식품"
    },
    {
-    "start": "18:00",
-    "end": "19:30",
-    "brand": "에클",
-    "product": "에클 음식물 처리기 PLUS",
-    "price": 459000,
-    "link": "https://store.kakao.com/ecle/products/767010196",
-    "slot_id": "60614",
-    "pgm": "가을맞이 에클 쇼핑라이브",
-    "title": "음식물처리기 단독 특가",
-    "category": "테크"
-   },
-   {
     "start": "19:00",
-    "end": "22:00",
-    "brand": "매드포갈릭",
-    "product": "실버 패키지",
-    "price": 55000,
-    "link": "https://gift.kakao.com/product/13903890?url=product&cId=13903890",
-    "slot_id": "59998",
-    "pgm": "프리미엄 다이닝 매드포갈릭",
-    "title": "~59%할인과 VIP혜택",
-    "category": "교환권"
-   },
-   {
-    "start": "19:00",
-    "end": "22:00",
+    "end": "20:21",
     "brand": "올라플렉스",
     "product": "No.3PLUS 헤어 리페어 트리트먼트 100ml*2개 세트",
     "price": 80560,
@@ -199,7 +139,7 @@
    },
    {
     "start": "19:00",
-    "end": "20:30",
+    "end": "20:20",
     "brand": "피에브",
     "product": "피에브 고체 탈취제 250g 5종 에어워셔 화장실 하수구 냉장고 냄새 제거",
     "price": 180000,
@@ -210,20 +150,8 @@
     "category": "리빙"
    },
    {
-    "start": "20:00",
-    "end": "21:30",
-    "brand": "(주)상상그램",
-    "product": "[귀뚜라미] 27년형 THE 프리미엄 신형 블루투스 카본 탄소매트",
-    "price": 468000,
-    "link": "https://store.kakao.com/sangsangstore/products/118837559",
-    "slot_id": "60481",
-    "pgm": "2026년 귀뚜라미",
-    "title": "겨울을 위한 카본매트",
-    "category": "테크"
-   },
-   {
     "start": "20:30",
-    "end": "22:00",
+    "end": "21:33",
     "brand": "SOUP",
     "product": "1. 후디드 스트링 점퍼(VC9JPE1)_V",
     "price": 89000,
@@ -235,11 +163,11 @@
    },
    {
     "start": "20:30",
-    "end": "22:00",
+    "end": "21:30",
     "brand": "에뛰드",
-    "product": "에뛰드 듀오 픽싱 틴트 + 에코백 증정",
-    "price": 11000,
-    "link": "https://gift.kakao.com/product/14028295?url=product&cId=14028295",
+    "product": "마이쁘띠팔레트+듀오픽싱틴트 + 하트팝블러셔 + 에코백 증정",
+    "price": 29200,
+    "link": "https://gift.kakao.com/product/14317962?url=product&cId=14317962",
     "slot_id": "60248",
     "pgm": "카카오 단독! 에뛰드",
     "title": "듀오픽싱틴트 런칭 라이브",
@@ -247,7 +175,7 @@
    },
    {
     "start": "20:30",
-    "end": "22:00",
+    "end": "21:30",
     "brand": "SLSI",
     "product": "[베네통] 베네통 키즈 플리스 아노락 택 1",
     "price": 31900,
@@ -259,7 +187,7 @@
    },
    {
     "start": "21:00",
-    "end": "22:30",
+    "end": "22:01",
     "brand": "좋은세상두원",
     "product": "홈포차 인기메뉴 3종세트 마라 유부전골/떡볶이/튀김 외 안주류 모음세트",
     "price": 19900,
@@ -288,7 +216,7 @@
     "end": "11:30",
     "brand": "토리든",
     "product": "[5개/총 270ml]다이브인 저분자 히알루론산 세럼 50ml 3개+40ml 2개(+세럼 20ml&트라이얼 키트&마스크팩5매)",
-    "price": 106000,
+    "price": 66000,
     "link": "https://gift.kakao.com/product/14280523?url=product&cId=14280523",
     "slot_id": "60238",
     "pgm": "토리든으로 환절기 고민해결!",
@@ -962,6 +890,224 @@
     "pgm": "헤드스파7 최대 80% +",
     "title": "카쇼라 한정 추가 혜택",
     "category": "뷰티"
+   }
+  ],
+  "2026-10-07": [
+   {
+    "start": "08:30",
+    "end": "11:30",
+    "brand": "성분에디터 공식 스토어",
+    "product": "[성분에디터] 실크펩타이드 EGF 리프팅앰플 40ml 2개 + 추가 10ml",
+    "price": 90000,
+    "link": "https://store.kakao.com/sungboon/products/162871472",
+    "slot_id": "60344",
+    "pgm": "성분에디터 실크앰플~88%",
+    "title": "전 구매 앰플 5회분 증정",
+    "category": "뷰티"
+   },
+   {
+    "start": "08:30",
+    "end": "10:00",
+    "brand": "킨도",
+    "product": "지금 제일 잘나가는 킨도 기저귀 추천템(최대 43% + 카카오페이 1만원권 증정)",
+    "price": 214000,
+    "link": "https://store.kakao.com/kindoh/products/199844314",
+    "slot_id": "60396",
+    "pgm": "킨도 10월 가을맞이 기저귀",
+    "title": "카쇼라 특가",
+    "category": "키즈"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "나드리프레쉬",
+    "product": "백년가게 40년 나드리_나드리 쫄면 5인세트 4종,우동세트",
+    "price": 25900,
+    "link": "https://store.kakao.com/fresh/products/686415167",
+    "slot_id": "60273",
+    "pgm": "나드리 쫄면세트 4종&우동",
+    "title": "여기서만 최저가 구매기회!",
+    "category": "식품"
+   },
+   {
+    "start": "10:00",
+    "end": "13:00",
+    "brand": "빅토리아 슈즈",
+    "product": "빅토리아슈즈 오다 메리제인 (104913-MARINO)",
+    "price": 79000,
+    "link": "https://gift.kakao.com/product/4232897?url=product&cId=4232897",
+    "slot_id": "60277",
+    "pgm": "가을엔 빅토리아슈즈",
+    "title": "맘앤키즈 커플슈즈 ~74%",
+    "category": "패션"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "락앤락",
+    "product": "산리오캐릭터즈 세라믹 핸들 텀블러 500ml 시나모롤/포차코/폼폼푸린",
+    "price": 52800,
+    "link": "https://gift.kakao.com/product/14320768?url=product&cId=14320768",
+    "slot_id": "60427",
+    "pgm": "산리오캐릭터즈X락앤락",
+    "title": "귀여운 만남!",
+    "category": "리빙"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "동국제약",
+    "product": "[동국제약x버블보블] 덴트릭스 크러쉬 치약 버블보블 에디션 6개+민트볼+선착순 버블보블 컵 or 키링 증정",
+    "price": 95400,
+    "link": "https://store.kakao.com/dkpharm/products/788088616",
+    "slot_id": "60720",
+    "pgm": "동국제약 브랜드데이 특가",
+    "title": "덴트릭스 최대 ~71% 할인",
+    "category": "리빙"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "헤이미니",
+    "product": "[헤이미니] 가을 신상 등원룩 카카오 특가 모음 (상하복/샤원피스/패딩점퍼/맨투맨/바지/레깅스)",
+    "price": 9900,
+    "link": "https://store.kakao.com/hejmini/products/293421715",
+    "slot_id": "60274",
+    "pgm": "헤이미니 가을 신학기전",
+    "title": "카카오 초특가 LIVE!",
+    "category": "키즈"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "WECHIK",
+    "product": "위칙 X 코토나 3종 런드리 세트",
+    "price": 29700,
+    "link": "https://store.kakao.com/wechik/products/795369038",
+    "slot_id": "60451",
+    "pgm": "[WECHIK] 가을 맞이",
+    "title": "위생 쟁여템 특가 LIVE",
+    "category": "리빙"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "청년상점",
+    "product": "신품종 제주직송 유라 그린향 감귤 2kg 로얄과 / 2개구매시 실중량 5kg발송",
+    "price": 25900,
+    "link": "https://store.kakao.com/youngstore/products/611699683",
+    "slot_id": "60697",
+    "pgm": "유라감귤 2kg 9900원",
+    "title": "2개구매시 5kg발송",
+    "category": "식품"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "핫트",
+    "product": "[켈리맘Pick!] 레드루트 온가족 세탁세제 외 섬유유연제,캡슐세제 모음전",
+    "price": 91900,
+    "link": "https://store.kakao.com/hott/products/792155402",
+    "slot_id": "60223",
+    "pgm": "켈리맘x레드루트",
+    "title": "가을맞이 특가 라이브!",
+    "category": "키즈"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "순수식품",
+    "product": "순수식품 유기농 레몬즙 1박스(100포) 대용량 착즙 100% NFC착즙 외 올리브오일/카무트효소",
+    "price": 27500,
+    "link": "https://store.kakao.com/soonsoofood/products/396131060",
+    "slot_id": "60302",
+    "pgm": "순수식품 유기농 레몬즙",
+    "title": "100포 대용량~82%",
+    "category": "식품"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "씨몬스터",
+    "product": "[씨몬스터] 99% 가시제거 순살생선 골라담기 100g 5팩(삼치, 대구, 광어, 참돔, 농어, 아귀, 새우)",
+    "price": 18400,
+    "link": "https://store.kakao.com/seamonster/products/669531985",
+    "slot_id": "60461",
+    "pgm": "씨몬스터 개별포장 순살생선",
+    "title": "5팩 골라담기 특가 라이브!",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "농심 브랜드스토어",
+    "product": "농심 육사김사세트2 (육개장사발면18입 + 김치사발면6입)외 골라담기",
+    "price": 24920,
+    "link": "https://store.kakao.com/nongshim/products/541111149",
+    "slot_id": "60379",
+    "pgm": "쎈딜로 다시 찾아온 농심",
+    "title": "툼바떡볶이면 신상 출시",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "헬스헬퍼",
+    "product": "[공식] 헬스헬퍼 맥스컷 허리업 복부 다이어트 10포 1박스",
+    "price": 40000,
+    "link": "https://store.kakao.com/healthhelper/products/768407705",
+    "slot_id": "60695",
+    "pgm": "맥스컷 카카오 쇼핑라이브",
+    "title": "딱 1시간 1만원대 찬스!",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "블라우풍트",
+    "product": "[유이 PICK] 블라우풍트 블루모션 자동 먼지비움 청소기 + UV 침구청소기",
+    "price": 299000,
+    "link": "https://store.kakao.com/blaupunkt/products/735717984",
+    "slot_id": "60294",
+    "pgm": "[블라우풍트] 자동먼지비움",
+    "title": "블루모션 시스템 청소기 특가",
+    "category": "테크"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "페이지플린",
+    "product": "[페이지플린] 어텀픽! 가을취향 저격전, 니트/가디건/블라우스/셔츠/팬츠/스커트/셋업 외 100종",
+    "price": 104000,
+    "link": "https://store.kakao.com/paigeflynn/products/778551539",
+    "slot_id": "60320",
+    "pgm": "페이지플린 가을 신상 득템!",
+    "title": "최대 80% 라이브 초특가",
+    "category": "패션"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "SPC삼립",
+    "product": "[NEW] 삼립 30주년 로고 1013종 띠부씰 포켓몬빵 10종 12봉 (데덴네/디그다/메가리자몽Y/세레비/레쿠쟈)",
+    "price": 23900,
+    "link": "https://store.kakao.com/samlip/products/776351802",
+    "slot_id": "60537",
+    "pgm": "삼립 포켓몬빵 외~33%",
+    "title": "신규 띠부씰북 추첨행사",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "테팔가전공식판매점",
+    "product": "[테팔] 무선 미니 블렌더 라이트믹스 BL1C06K0 텀블러믹서기",
+    "price": 59900,
+    "link": "https://store.kakao.com/tefalstore/products/741046978",
+    "slot_id": "60540",
+    "pgm": "테팔 특가 라이브",
+    "title": "핫한 주방템 다 모았다!",
+    "category": "테크"
    }
   ]
  }
