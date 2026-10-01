@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-01T10:20:09+09:00",
+ "generated_at": "2026-10-01T10:40:08+09:00",
  "today": "2026-10-01",
  "dates": [
   "2026-09-30",
@@ -512,7 +512,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 한가위 이탈리아 18K주얼리 BIG 페스타",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "07:00",
@@ -7289,7 +7289,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -7747,7 +7748,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -18476,7 +18478,7 @@ window.SCHEDULE = {
      "slot_id": "252520",
      "pgm": "월첫세일⚡️ 오직 월초에만! 삼성 가전 최대 혜택💚",
      "category": "가전",
-     "hot": 8
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -19099,7 +19101,7 @@ window.SCHEDULE = {
      "pgm": "10월의 시작은 이클립스로!",
      "title": "한국마즈 라이브 특가",
      "category": "식품",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "08:30",
@@ -19112,7 +19114,7 @@ window.SCHEDULE = {
      "pgm": "그레인온 가을맞이 라이브!",
      "title": "추가 혜택 가득!",
      "category": "식품",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -19149,7 +19151,7 @@ window.SCHEDULE = {
      "pgm": "하기스&그린핑거",
      "title": "쏀딜",
      "category": "키즈",
-     "hot": 3
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -20033,8 +20035,8 @@ window.SCHEDULE = {
    "2026-09-30",
    "2026-10-01"
   ],
-  "matched": 11,
-  "unmatched": 9
+  "matched": 13,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
