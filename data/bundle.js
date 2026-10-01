@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-01T09:00:11+09:00",
+ "generated_at": "2026-10-01T09:20:10+09:00",
  "today": "2026-10-01",
  "dates": [
   "2026-09-30",
@@ -512,7 +512,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 한가위 이탈리아 18K주얼리 BIG 페스타",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "07:00",
@@ -550,8 +550,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "가을은 라코스테 계절! 26FW 쇼라 특별 구매가❤️",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 8
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "09:00",
@@ -6313,7 +6312,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "08:10",
@@ -15894,7 +15893,7 @@ window.SCHEDULE = {
      "pgm": "10월의 시작은 이클립스로!",
      "title": "한국마즈 라이브 특가",
      "category": "식품",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "08:30",
@@ -16633,8 +16632,8 @@ window.SCHEDULE = {
    "2026-09-30",
    "2026-10-01"
   ],
-  "matched": 14,
-  "unmatched": 6
+  "matched": 13,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
