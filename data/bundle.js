@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-01T11:00:12+09:00",
+ "generated_at": "2026-10-01T11:20:07+09:00",
  "today": "2026-10-01",
  "dates": [
   "2026-09-30",
@@ -2790,8 +2790,7 @@ window.SCHEDULE = {
      "title": "🎶지스튜디오 신상 최초 공개",
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
-     "category": "여성패션",
-     "hot": 8
+     "category": "여성패션"
     },
     {
      "start": "11:00",
@@ -7289,8 +7288,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -7748,8 +7746,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 10
+     "category": "푸드"
     },
     {
      "start": "10:00",
@@ -7924,7 +7921,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -8776,7 +8773,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -8853,7 +8851,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 1
     },
     {
      "start": "11:00",
@@ -8890,7 +8889,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -18479,7 +18479,7 @@ window.SCHEDULE = {
      "slot_id": "252520",
      "pgm": "월첫세일⚡️ 오직 월초에만! 삼성 가전 최대 혜택💚",
      "category": "가전",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -19102,7 +19102,7 @@ window.SCHEDULE = {
      "pgm": "10월의 시작은 이클립스로!",
      "title": "한국마즈 라이브 특가",
      "category": "식품",
-     "hot": 6
+     "hot": 10
     },
     {
      "start": "08:30",
@@ -19115,7 +19115,7 @@ window.SCHEDULE = {
      "pgm": "그레인온 가을맞이 라이브!",
      "title": "추가 혜택 가득!",
      "category": "식품",
-     "hot": 4
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -19152,7 +19152,7 @@ window.SCHEDULE = {
      "pgm": "하기스&그린핑거",
      "title": "쏀딜",
      "category": "키즈",
-     "hot": 1
+     "hot": 3
     },
     {
      "start": "10:00",
