@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-01T10:05:36+09:00",
+ "generated_at": "2026-10-01T10:20:09+09:00",
  "today": "2026-10-01",
  "dates": [
   "2026-09-30",
@@ -512,7 +512,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 한가위 이탈리아 18K주얼리 BIG 페스타",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "07:00",
@@ -18475,7 +18475,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4720896120",
      "slot_id": "252520",
      "pgm": "월첫세일⚡️ 오직 월초에만! 삼성 가전 최대 혜택💚",
-     "category": "가전"
+     "category": "가전",
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -19098,7 +19099,7 @@ window.SCHEDULE = {
      "pgm": "10월의 시작은 이클립스로!",
      "title": "한국마즈 라이브 특가",
      "category": "식품",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -19147,7 +19148,8 @@ window.SCHEDULE = {
      "slot_id": "60150",
      "pgm": "하기스&그린핑거",
      "title": "쏀딜",
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -20031,8 +20033,8 @@ window.SCHEDULE = {
    "2026-09-30",
    "2026-10-01"
   ],
-  "matched": 9,
-  "unmatched": 11
+  "matched": 11,
+  "unmatched": 9
  },
  "fixed": {
   "rows": [
