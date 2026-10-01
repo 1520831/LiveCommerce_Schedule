@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-09",
- "updated_at": "2026-09-30T23:31:10+09:00",
+ "updated_at": "2026-10-01T10:00:05+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -6153,42 +6153,6 @@
     "category": "식품"
    },
    {
-    "start": "10:00",
-    "end": "11:00",
-    "brand": "신일전자 온라인스토어",
-    "product": "신일 전기히터 2IN1 카본 탄소발열 히터 온풍기",
-    "price": 198000,
-    "link": "https://store.kakao.com/shinilonline/products/632210789",
-    "slot_id": "60476",
-    "pgm": "신일 전기 히터 난로 가습기",
-    "title": "포근한 겨울나기 라이브할인",
-    "category": "리빙"
-   },
-   {
-    "start": "11:30",
-    "end": "12:30",
-    "brand": "몰리멜리",
-    "product": "몰리멜리 가을신상베스트! 유아상하복/원피스/티셔츠/팬츠/아우터/등원룩/외출룩",
-    "price": 89900,
-    "link": "https://store.kakao.com/mollimelli/products/280242635",
-    "slot_id": "59515",
-    "pgm": "몰리멜리 라이브데이",
-    "title": "가을 HOT 아이템",
-    "category": "키즈"
-   },
-   {
-    "start": "11:30",
-    "end": "12:33",
-    "brand": "유한킴벌리 직영 스토어",
-    "product": "[1+1] 그린핑거 최강쎈딜! 힘센보습/촉촉한자연보습/마이키즈 BEST 모음딜 외 크림/로션/워시/샴푸/비누",
-    "price": 58600,
-    "link": "https://store.kakao.com/ykstore/products/66606251",
-    "slot_id": "60099",
-    "pgm": "그린핑거 자연의 진심을 담아",
-    "title": "최강쎈딜! 전 품목 초특가",
-    "category": "키즈"
-   },
-   {
     "start": "11:30",
     "end": "12:30",
     "brand": "코토나",
@@ -6321,30 +6285,6 @@
     "category": "뷰티"
    },
    {
-    "start": "20:00",
-    "end": "21:00",
-    "brand": "(주)상상그램",
-    "product": "[귀뚜라미] 27년형 THE 프리미엄 신형 블루투스 카본 탄소매트",
-    "price": 468000,
-    "link": "https://store.kakao.com/sangsangstore/products/118837559",
-    "slot_id": "60480",
-    "pgm": "2026년 귀뚜라미",
-    "title": "겨울을 위한 카본매트",
-    "category": "테크"
-   },
-   {
-    "start": "20:00",
-    "end": "20:29",
-    "brand": "삼초마을",
-    "product": "국내산 당일수확 홍무화과 전라도 함평 산지직송 1.2~2.4kg",
-    "price": 25900,
-    "link": "https://store.kakao.com/samchomaeul/products/792977652",
-    "slot_id": "60703",
-    "pgm": "40년 농부가 수확한",
-    "title": "제철 홍무화과",
-    "category": "식품"
-   },
-   {
     "start": "20:30",
     "end": "21:30",
     "brand": "CarePod",
@@ -6379,18 +6319,6 @@
     "pgm": "털털냥/양털양말 단독특가",
     "title": "가을맞이 따뜻한침구 ~72%",
     "category": "리빙"
-   },
-   {
-    "start": "23:16",
-    "end": "00:46",
-    "brand": "터치그라운드 스니커즈",
-    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-    "price": 49900,
-    "link": "https://store.kakao.com/touchground/products/774098244",
-    "slot_id": "60545",
-    "pgm": "치그라운드 쿠셔닝슬리퍼",
-    "title": "이렇게 편해도 되나요?",
-    "category": "패션"
    }
   ]
  }
