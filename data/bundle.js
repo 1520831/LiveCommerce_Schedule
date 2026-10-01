@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-01T08:40:09+09:00",
+ "generated_at": "2026-10-01T09:00:11+09:00",
  "today": "2026-10-01",
  "dates": [
   "2026-09-30",
@@ -512,7 +512,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 한가위 이탈리아 18K주얼리 BIG 페스타",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 1
+     "hot": 3
     },
     {
      "start": "07:00",
@@ -550,7 +550,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "가을은 라코스테 계절! 26FW 쇼라 특별 구매가❤️",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 8
     },
     {
      "start": "09:00",
@@ -6312,7 +6313,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 10
+     "hot": 7
     },
     {
      "start": "08:10",
@@ -15880,7 +15881,7 @@ window.SCHEDULE = {
      "pgm": "좋은느낌&크리넥스",
      "title": "쎈딜 물가안정 프로젝트",
      "category": "리빙",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "08:30",
@@ -15893,7 +15894,7 @@ window.SCHEDULE = {
      "pgm": "10월의 시작은 이클립스로!",
      "title": "한국마즈 라이브 특가",
      "category": "식품",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -15906,7 +15907,7 @@ window.SCHEDULE = {
      "pgm": "그레인온 가을맞이 라이브!",
      "title": "추가 혜택 가득!",
      "category": "식품",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -16632,7 +16633,7 @@ window.SCHEDULE = {
    "2026-09-30",
    "2026-10-01"
   ],
-  "matched": 13,
+  "matched": 14,
   "unmatched": 6
  },
  "fixed": {
