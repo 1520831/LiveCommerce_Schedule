@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-10",
- "updated_at": "2026-10-01T09:59:57+09:00",
+ "updated_at": "2026-10-01T10:04:29+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -47,15 +47,15 @@
    {
     "start": "10:00",
     "end": "10:59",
-    "brand": "CJ이엔엠",
-    "product": "온키즈패스",
-    "price": 100,
-    "link": "https://item.cjonstyle.com/item/2094169362?channelCode=30002002",
+    "brand": "케어베어",
+    "product": "[하짱네][택가 77900원]텐더하트베어포근플리스점퍼",
+    "price": 26600,
+    "link": "https://item.cjonstyle.com/item/2091735026?channelCode=30002002",
     "slot_id": "30139",
     "title": "[케어베어x하짱네]하짱네 PICK! 케어베어로 가을등원룩 완성!~81%",
     "pgm": "인플루언서LIVE",
     "pgm_cd": "1052",
-    "category": "서비스·렌탈"
+    "category": "여성패션"
    },
    {
     "start": "10:00",
@@ -847,6 +847,19 @@
     "pgm": "라이브쇼",
     "pgm_cd": "1008",
     "category": "뷰티"
+   },
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "락포트",
+    "product": "토탈모션 360도 100% 천연양털 로퍼(4cm 키높이)",
+    "price": 189000,
+    "link": "https://item.cjonstyle.com/item/2073111940?channelCode=30002002",
+    "slot_id": "30180",
+    "title": "다시보는 락포트 아울렛 특가!",
+    "pgm": "라이브쇼",
+    "pgm_cd": "1008",
+    "category": "잡화·슈즈"
    },
    {
     "start": "15:55",

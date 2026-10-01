@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-10",
- "updated_at": "2026-10-01T10:00:05+09:00",
+ "updated_at": "2026-10-01T10:04:35+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -21,7 +21,7 @@
     "start": "08:30",
     "end": "09:50",
     "brand": "그레인온",
-    "product": "(라이브)그레인온 골드 카무트효소G 3개월 (2g x 90포) +파로저당씬칩 + 파로500g",
+    "product": "그레인온 골드 카무트효소G 3개월 (2g x 90포) + 파로저당씬칩 + 파로500g",
     "price": 75000,
     "link": "https://store.kakao.com/grainon/products/469647666",
     "slot_id": "60082",
