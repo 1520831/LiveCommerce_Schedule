@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-09",
- "updated_at": "2026-10-01T10:04:29+09:00",
+ "updated_at": "2026-10-01T18:44:57+09:00",
  "days": {
   "2026-09-01": [
    {
@@ -14273,7 +14273,7 @@
     "end": "13:59",
     "brand": "포맨트",
     "product": "시그니처퍼퓸코튼허그50ml 더블+샤쉐",
-    "price": 74000,
+    "price": 69000,
     "link": "https://item.cjonstyle.com/item/2053643131?channelCode=30002002",
     "slot_id": "30121",
     "title": "다시보는 포맨트 CJ 단독 세트 최저가 찬스✨",
@@ -14610,7 +14610,7 @@
     "start": "21:15",
     "end": "21:54",
     "brand": "보스(BOSE)",
-    "product": "[프리오더] 보스 울트라 오픈 이어버드 2세대",
+    "product": "보스 울트라 오픈 이어버드 2세대",
     "price": 359000,
     "link": "https://item.cjonstyle.com/item/2093847608?channelCode=30002002",
     "slot_id": "29831",
@@ -14634,7 +14634,7 @@
    },
    {
     "start": "22:00",
-    "end": "23:00",
+    "end": "22:59",
     "brand": "한상궁김치",
     "product": "한상궁김치 겉절이 2kg",
     "price": 20900,
