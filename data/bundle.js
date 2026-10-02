@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-03T00:01:23+09:00",
+ "generated_at": "2026-10-03T00:24:13+09:00",
  "today": "2026-10-03",
  "dates": [
   "2026-10-02",
@@ -492,7 +492,7 @@ window.SCHEDULE = {
      ],
      "title": "[필모아] 요즘 다 쓰는 세라믹 텀블러🔥 최대 66%",
      "pgm": "[필모아] 텀블러 (가전)",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "07:00",
@@ -18961,7 +18961,7 @@ window.SCHEDULE = {
    "2026-10-03"
   ],
   "matched": 6,
-  "unmatched": 4
+  "unmatched": 11
  },
  "fixed": {
   "rows": [
