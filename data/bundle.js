@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-03T00:31:00+09:00",
+ "generated_at": "2026-10-03T04:30:27+09:00",
  "today": "2026-10-03",
  "dates": [
   "2026-10-02",
@@ -474,7 +474,7 @@ window.SCHEDULE = {
      ],
      "title": "[필모아] 요즘 다 쓰는 세라믹 텀블러🔥 최대 66%",
      "pgm": "[필모아] 텀블러 (가전)",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "07:00",
@@ -2365,7 +2365,7 @@ window.SCHEDULE = {
      "end": "14:59",
      "brand": "써스데이아일랜드",
      "product": "패턴 보더MIX 미니 원피스_T256MOP165W",
-     "price": 142030,
+     "price": 127080,
      "link": "https://item.cjonstyle.com/item/2069256041?channelCode=30002002",
      "slot_id": "30192",
      "title": "다시보는 써스데이아일랜드 본사 공식🍁 가을 신상 최대 할인!",
@@ -2577,7 +2577,7 @@ window.SCHEDULE = {
      "end": "23:59",
      "brand": "로보락",
      "product": "S10 MaxV Slim 로봇청소기 블랙",
-     "price": 1690000,
+     "price": 1590000,
      "link": "https://item.cjonstyle.com/item/2083279028?channelCode=30002002",
      "slot_id": "30176",
      "title": "다시보는 로보락 S10 MaxV Slim 방송중 할인👀",
@@ -3388,7 +3388,7 @@ window.SCHEDULE = {
      "end": "12:59",
      "brand": "헬렌스타인",
      "product": "프렌치 워셔블 양모 차렵이불 S/Q",
-     "price": 139300,
+     "price": 127360,
      "link": "https://item.cjonstyle.com/item/2068170672?channelCode=30002002",
      "slot_id": "30263",
      "title": "다시보는 헬렌스타인 프렌치 양모! 백화점 퀄리티 호텔식무드 완성",
@@ -6777,7 +6777,7 @@ window.SCHEDULE = {
    "2026-10-03": [
     {
      "start": "01:10",
-     "end": "",
+     "end": "03:08",
      "brand": "갤럭시",
      "product": "삼성 갤럭시 워치9 강화유리 패키지 크림, 40mm, 블루투스",
      "price": 474100,
@@ -6871,7 +6871,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 4
     },
     {
      "start": "03:20",
@@ -6969,7 +6970,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 5
     },
     {
      "start": "07:20",
@@ -7807,8 +7809,8 @@ window.SCHEDULE = {
      "start": "10:00",
      "end": "",
      "brand": "헬스헬퍼",
-     "product": "헬스헬퍼 맥스컷 프로 크롬 추성훈 다이어트 혈당 체지방 컷팅제 120캡슐, 10개",
-     "price": 324000,
+     "product": "헬스헬퍼 맥스컷 프로 크롬 추성훈 다이어트 혈당 체지방 컷팅제 18캡슐, 1개",
+     "price": 8500,
      "link": "https://shoppinglive.naver.com/livebridge/2043362",
      "slot_id": "2043362",
      "pgm": "🔥24시간 슈퍼세일! 맥스컷 최대 70% + 크롬 3천원⚡",
@@ -20920,7 +20922,7 @@ window.SCHEDULE = {
      "end": "22:00",
      "brand": "단순생활",
      "product": "단순생활 초음파 미니 무선 가습기 무드등 7종 모음",
-     "price": 26900,
+     "price": 17500,
      "link": "https://store.kakao.com/dansoon/products/67955707",
      "slot_id": "60322",
      "pgm": "단순생활 무선가습기 7종",
@@ -21901,11 +21903,11 @@ window.SCHEDULE = {
   }
  },
  "updated_at": {
-  "HD": "2026-10-03T00:29:46+09:00",
-  "CJ": "2026-10-03T00:29:52+09:00",
-  "NV": "2026-10-03T00:30:54+09:00",
+  "HD": "2026-10-03T04:29:10+09:00",
+  "CJ": "2026-10-03T04:29:17+09:00",
+  "NV": "2026-10-03T04:30:20+09:00",
   "GM": "2026-10-01T08:19:18+09:00",
-  "KA": "2026-10-03T00:30:00+09:00"
+  "KA": "2026-10-03T04:29:24+09:00"
  },
  "cast_kinds": [
   "celeb",
@@ -21917,7 +21919,7 @@ window.SCHEDULE = {
    "2026-10-02",
    "2026-10-03"
   ],
-  "matched": 8,
+  "matched": 10,
   "unmatched": 10
  },
  "fixed": {
