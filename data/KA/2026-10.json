@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-10",
- "updated_at": "2026-10-02T10:18:08+09:00",
+ "updated_at": "2026-10-02T18:19:43+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -237,7 +237,7 @@
    },
    {
     "start": "09:52",
-    "end": "11:22",
+    "end": "10:36",
     "brand": "터치그라운드 스니커즈",
     "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
     "price": 49900,
@@ -249,7 +249,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:00",
     "brand": "오로라(건강)",
     "product": "오로라 7팩 3종 체험세트(비타민C+비타민B+글루타치온)",
     "price": 59000,
@@ -261,7 +261,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:03",
     "brand": "TRUECOOK",
     "product": "트루쿡 실리콘 원목 조리도구 세트/계란말이팬/한방울 에그팬 모음",
     "price": 75000,
@@ -272,20 +272,8 @@
     "category": "리빙"
    },
    {
-    "start": "15:00",
-    "end": "16:30",
-    "brand": "신선하랑",
-    "product": "통영 제철 홍가리비 조개구이 1kg 2kg (2세트 구매시 1kg 추가증정)",
-    "price": 15000,
-    "link": "https://store.kakao.com/ssharang/products/399602012",
-    "slot_id": "60419",
-    "pgm": "[2+1] 통영 홍가리비",
-    "title": "산지직송 라이브 이벤트!",
-    "category": "식품"
-   },
-   {
     "start": "17:00",
-    "end": "18:30",
+    "end": "18:00",
     "brand": "켄뷰 공식판매",
     "product": "[라이브] 리스테린 토탈케어 마일드 750mLx4+(증정)450ml+선착순/구매인증/구매왕/소통왕/구매금액+할인/장바구니쿠폰",
     "price": 46000,
@@ -320,6 +308,18 @@
     "category": "여행"
    },
    {
+    "start": "19:30",
+    "end": "21:00",
+    "brand": "돌쇠네농산물",
+    "product": "26년 당일 조업 제철 서해안 활 숫꽃게/암꽃게",
+    "price": 14900,
+    "link": "https://store.kakao.com/dol4525/products/798444017",
+    "slot_id": "60802",
+    "pgm": "지금 제일 맛있는 활꽃게!",
+    "title": "돌쇠네 꽃게 먹방 LIVE!",
+    "category": "식품"
+   },
+   {
     "start": "20:30",
     "end": "22:00",
     "brand": "폰드그룹몰",
@@ -336,7 +336,7 @@
     "end": "22:00",
     "brand": "청년상점",
     "product": "대복 찰순대 400g 3팩 외 토종/김치/땡초/누드/백순대/모듬내장 골라담기",
-    "price": 13900,
+    "price": 35900,
     "link": "https://store.kakao.com/youngstore/products/773683894",
     "slot_id": "60328",
     "pgm": "대복 순대 400G 3팩",
@@ -386,7 +386,7 @@
     "end": "13:00",
     "brand": "쿠첸",
     "product": "쿠첸 브레인 듀얼프레셔 IH 전기압력밥솥 6/10인",
-    "price": 249000,
+    "price": 499000,
     "link": "https://store.kakao.com/cuchen/products/174453468",
     "slot_id": "60260",
     "pgm": "쿠첸 베스트셀러 밥솥 특가",
@@ -410,7 +410,7 @@
     "end": "20:30",
     "brand": "동아오츠카SHOP",
     "product": "동아오츠카 라인바싸 500ml 무라벨 3종 (20입+20입) - 총 2박스 분리배송",
-    "price": 22300,
+    "price": 15900,
     "link": "https://store.kakao.com/dongashop/products/599581708",
     "slot_id": "60169",
     "pgm": "동아오츠카 음료 최대 혜택!",
@@ -452,6 +452,18 @@
     "pgm": "링글스 고체 애사비",
     "title": "&클렌즈&듀얼에이드샷",
     "category": "식품"
+   },
+   {
+    "start": "22:30",
+    "end": "00:00",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49900,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "60776",
+    "pgm": "터치그라운드 발편한운동화",
+    "title": "가벼우면서 쿠션감 좋은운동화",
+    "category": "패션"
    }
   ],
   "2026-10-04": [
@@ -484,7 +496,7 @@
     "end": "11:30",
     "brand": "플로리아",
     "product": "[시공비 무료] 플로리아 층간소음매트 시공 매트 TPU 거실 놀이방 아기 70x70x2.4cm",
-    "price": 69000,
+    "price": 39900,
     "link": "https://store.kakao.com/floriahouse/products/313185187",
     "slot_id": "60403",
     "pgm": "플로리아매트 특가 LIVE",
@@ -550,6 +562,18 @@
     "pgm": "에코따숨 파라핀 베스&왁스",
     "title": "앵콜 라이브 특가",
     "category": "리빙"
+   },
+   {
+    "start": "22:30",
+    "end": "00:00",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49900,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "60777",
+    "pgm": "터치그라운드 쿠셔닝슬리퍼",
+    "title": "이렇게 편해도 되나요?",
+    "category": "패션"
    }
   ],
   "2026-10-05": [
@@ -594,7 +618,7 @@
     "end": "13:00",
     "brand": "알품게 삼대인천게장",
     "product": "알배기 간장게장 | 16만리뷰 62년 씨간장",
-    "price": 37800,
+    "price": 57800,
     "link": "https://store.kakao.com/leeyoofood/products/313430044",
     "slot_id": "60159",
     "pgm": "알품게 삼대인천게장",
@@ -630,7 +654,7 @@
     "end": "22:00",
     "brand": "웹투어(주)",
     "product": "[한화리조트 설악 쏘라노] 올인클루시브 PKG_객실 1박+조식뷔페&워터피아(성인 2인+소인 2인)_라이브 이벤트 특전 등",
-    "price": 228000,
+    "price": 218000,
     "link": "https://store.kakao.com/webtour/products/730351005",
     "slot_id": "60202",
     "pgm": "한화리조트 설악 쏘라노",
@@ -696,6 +720,18 @@
     "pgm": "화이니카 가을 페스타",
     "title": "사은품&단독특가",
     "category": "리빙"
+   },
+   {
+    "start": "22:30",
+    "end": "00:00",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49900,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "60778",
+    "pgm": "터치그라운드 발편한운동화",
+    "title": "가벼우면서 쿠션감 좋은운동화",
+    "category": "패션"
    }
   ],
   "2026-10-06": [
@@ -748,8 +784,8 @@
     "category": "뷰티"
    },
    {
-    "start": "09:00",
-    "end": "10:30",
+    "start": "09:30",
+    "end": "11:00",
     "brand": "신선하랑",
     "product": "[2세트 구매시 1kg 추가발송] 26년 첫 출하 제주 극조생감귤 4.5kg 실중량 소과/로얄과/대과",
     "price": 11900,
@@ -835,7 +871,7 @@
     "start": "18:00",
     "end": "19:30",
     "brand": "비윗유",
-    "product": "비윗유 호주 천연 마누카꿀 프로폴리스 캔디 90g",
+    "product": "늘 곁에 두는 프로폴리스!! 비윗유 호주 천연 마누카꿀 프로폴리스 캔디 90g + 캔디 36g 무료증정",
     "price": 19800,
     "link": "https://store.kakao.com/beewithyou/products/260684065",
     "slot_id": "60723",
@@ -938,6 +974,18 @@
     "pgm": "헤드스파7 최대 80% +",
     "title": "카쇼라 한정 추가 혜택",
     "category": "뷰티"
+   },
+   {
+    "start": "22:30",
+    "end": "00:00",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49900,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "60779",
+    "pgm": "터치그라운드 쿠셔닝슬리퍼",
+    "title": "이렇게 편해도 되나요?",
+    "category": "패션"
    }
   ],
   "2026-10-07": [
@@ -993,7 +1041,7 @@
     "start": "10:00",
     "end": "11:30",
     "brand": "락앤락",
-    "product": "산리오캐릭터즈 세라믹 핸들 텀블러 500ml 시나모롤/포차코/폼폼푸린",
+    "product": "산리오캐릭터즈 세라믹 텀블러 500ml 시나모롤/포차코/폼폼푸린",
     "price": 36900,
     "link": "https://gift.kakao.com/product/14320768?url=product&cId=14320768",
     "slot_id": "60427",
@@ -1005,9 +1053,9 @@
     "start": "10:00",
     "end": "11:30",
     "brand": "동국제약",
-    "product": "[동국제약x버블보블] 덴트릭스 크러쉬 치약 버블보블 에디션 6개+민트볼+선착순 버블보블 컵 or 키링 증정",
-    "price": 95400,
-    "link": "https://store.kakao.com/dkpharm/products/788088616",
+    "product": "[동국제약] 잇몸플러스 치약 160g*6개+허브테라피 치약 2개. 에티즘 함유. 잇몸 케어. 구취 개선 효과",
+    "price": 83400,
+    "link": "https://store.kakao.com/dkpharm/products/243166348",
     "slot_id": "60720",
     "pgm": "동국제약 브랜드데이 특가",
     "title": "덴트릭스 최대 ~71% 할인",
@@ -1161,7 +1209,7 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "SPC삼립",
-    "product": "[NEW] 삼립 30주년 로고 1013종 띠부씰 포켓몬빵 10종 12봉 (데덴네/디그다/메가리자몽Y/세레비/레쿠쟈)",
+    "product": "[NEW] 삼립 30주년 로고 1013종 띠부씰 포켓몬빵 9종 12봉 (디그다/메가리자몽Y/세레비/레쿠쟈)",
     "price": 23900,
     "link": "https://store.kakao.com/samlip/products/776351802",
     "slot_id": "60537",
@@ -1173,7 +1221,7 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "테팔가전공식판매점",
-    "product": "[테팔] 무선 미니 블렌더 라이트믹스 BL1C06K0 텀블러믹서기",
+    "product": "[테팔] 무선 미니 블렌더 라이트믹스 BL1C06K0 텀블러믹서기+라이트믹스 스티커",
     "price": 59900,
     "link": "https://store.kakao.com/tefalstore/products/741046978",
     "slot_id": "60540",
