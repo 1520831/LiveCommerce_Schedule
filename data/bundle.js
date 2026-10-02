@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-02T04:47:21+09:00",
+ "generated_at": "2026-10-02T10:16:17+09:00",
  "today": "2026-10-02",
  "dates": [
   "2026-10-01",
@@ -435,8 +435,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 르메르 월 1만원대 60개월 무이자",
-     "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 9
+     "pgm": "[재방] 투명쇼 (패션잡화)"
     },
     {
      "start": "07:00",
@@ -474,7 +473,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "10월 첫쇼라! 레노마로 완성하는 가을 OOTD❤️",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 3
     },
     {
      "start": "09:00",
@@ -493,7 +493,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[아이더] 방송 중 특별가! 쿠폰 + 카드 할인",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -512,7 +513,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 26FW 본격 신상 명품 득템 찬스!",
-     "pgm": "투명쇼 (패션잡화)"
+     "pgm": "투명쇼 (패션잡화)",
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -2602,7 +2604,8 @@ window.SCHEDULE = {
      "title": "[맘만하니] 리베로 기저귀 최저가❤️ 온키즈패스 혜택까지!! ✨",
      "pgm": "맘만하니",
      "pgm_cd": "0099",
-     "category": "주방·잡화"
+     "category": "주방·잡화",
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -6602,8 +6605,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 6
+     "category": "테크"
     },
     {
      "start": "03:20",
@@ -6701,8 +6703,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 5
+     "category": "테크"
     },
     {
      "start": "07:20",
@@ -7191,7 +7192,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -7387,7 +7389,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -7464,7 +7467,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -20703,8 +20707,8 @@ window.SCHEDULE = {
    "2026-10-01",
    "2026-10-02"
   ],
-  "matched": 6,
-  "unmatched": 13
+  "matched": 10,
+  "unmatched": 9
  },
  "fixed": {
   "rows": [
