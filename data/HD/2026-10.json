@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-10",
- "updated_at": "2026-10-02T04:46:10+09:00",
+ "updated_at": "2026-10-02T10:17:54+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -466,17 +466,17 @@
    {
     "start": "10:00",
     "end": "10:59",
-    "brand": "Lemaire",
-    "product": "르메르 미디엄 크루아상 그레인 레더 숄더백 BG0001 LL0018 999 블랙",
-    "price": 2048000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251925245",
+    "brand": "보테가베네타",
+    "product": "노뚜르노 크로스백 843893 VCPP0 8425 블랙",
+    "price": 3649000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253647614",
     "slot_id": "202610026004",
     "items": [
      {
-      "brand": "Lemaire",
-      "product": "르메르 미디엄 크루아상 그레인 레더 숄더백 BG0001 LL0018 999 블랙",
-      "price": 2048000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251925245"
+      "brand": "보테가베네타",
+      "product": "노뚜르노 크로스백 843893 VCPP0 8425 블랙",
+      "price": 3649000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253647614"
      }
     ],
     "title": "[투명쇼] 26FW 본격 신상 명품 득템 찬스!",
@@ -486,16 +486,16 @@
     "start": "11:00",
     "end": "11:59",
     "brand": "클랍",
-    "product": "[사용기한임박] 클랍 30데이 앰플 2박스 비타민A크림 50ml 1개(+증정 안전캡 2개 오프너 2개)",
-    "price": 199000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252275081",
+    "product": "[사용기한임박] 클랍 픽토큐어 3박스+스팟코렉터 1개",
+    "price": 139000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253701337",
     "slot_id": "202610026005",
     "items": [
      {
       "brand": "클랍",
-      "product": "[사용기한임박] 클랍 30데이 앰플 2박스 비타민A크림 50ml 1개(+증정 안전캡 2개 오프너 2개)",
-      "price": 199000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252275081"
+      "product": "[사용기한임박] 클랍 픽토큐어 3박스+스팟코렉터 1개",
+      "price": 139000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253701337"
      }
     ],
     "title": "클랍 사용기한 임박전 앵콜 방송",
@@ -1053,6 +1053,25 @@
     ],
     "title": "[헤르마] 가을맞이 고급스러운 데일리백 쇼핑 찬스👜",
     "pgm": "[헤르마] 잡화 (패션잡화)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "코데즈컴바인",
+    "product": "스웨이드 블루종 점퍼 (CLA-LE502W2) CLALE502W20",
+    "price": 99000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2245096508",
+    "slot_id": "202610036012",
+    "items": [
+     {
+      "brand": "코데즈컴바인",
+      "product": "스웨이드 블루종 점퍼 (CLA-LE502W2) CLALE502W20",
+      "price": 99000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2245096508"
+     }
+    ],
+    "title": "[코데즈컴바인] 스타일리시한 모던 캐주얼 가을룩🍂",
+    "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ],
   "2026-10-04": [
@@ -1321,6 +1340,25 @@
     ],
     "title": "[보드라온] 흡착 스팀다리미 57%▼",
     "pgm": "[보드라온] 스팀다리미 (렌탈)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "파슨스",
+    "product": "Asym Collar Blouse [ASST9BL10]",
+    "price": 149000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253912330",
+    "slot_id": "202610046009",
+    "items": [
+     {
+      "brand": "파슨스",
+      "product": "Asym Collar Blouse [ASST9BL10]",
+      "price": 149000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253912330"
+     }
+    ],
+    "title": "[파슨스] 세련된 데일리룩부터 고급스러운 하객룩까지✨",
+    "pgm": "[파슨스] 의류 (멀티커머스)"
    }
   ],
   "2026-10-05": [
@@ -1385,14 +1423,14 @@
     "start": "09:00",
     "end": "09:59",
     "brand": "마쟈",
-    "product": "[비밀상점] [마쟈] 트위스트 케이블 카라넥 니트 ZD11QK036NA",
+    "product": "트위스트 케이블 카라넥 니트 ZD11QK036NA",
     "price": 69900,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2222710264",
     "slot_id": "202610056002",
     "items": [
      {
       "brand": "마쟈",
-      "product": "[비밀상점] [마쟈] 트위스트 케이블 카라넥 니트 ZD11QK036NA",
+      "product": "트위스트 케이블 카라넥 니트 ZD11QK036NA",
       "price": 69900,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2222710264"
      }
@@ -1462,14 +1500,14 @@
     "end": "13:59",
     "brand": "디아루체",
     "product": "26 FW 울 블렌딩 스트라이프 풀오버 2종 (니트+숄)",
-    "price": 79900,
+    "price": 69900,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253577169",
     "slot_id": "202610056006",
     "items": [
      {
       "brand": "디아루체",
       "product": "26 FW 울 블렌딩 스트라이프 풀오버 2종 (니트+숄)",
-      "price": 79900,
+      "price": 69900,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253577169"
      }
     ],
@@ -1743,6 +1781,25 @@
     ],
     "title": "[지센] 선선한 가을을 위한 간절기룩 오픈!",
     "pgm": "[지센] 여성의류 (패션1Lab)"
+   },
+   {
+    "start": "14:00",
+    "end": "14:59",
+    "brand": "원오오",
+    "product": "100시간 스킨케어 2종 세트",
+    "price": 74000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253896295",
+    "slot_id": "202610066008",
+    "items": [
+     {
+      "brand": "원오오",
+      "product": "100시간 스킨케어 2종 세트",
+      "price": 74000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253896295"
+     }
+    ],
+    "title": "[원오오] 환절기 기초 올해 단 한 번 60% 쿠폰",
+    "pgm": "[원오오] 기초 (뷰티브랜드)"
    },
    {
     "start": "16:00",

@@ -2,16 +2,16 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-10",
- "updated_at": "2026-10-02T04:46:16+09:00",
+ "updated_at": "2026-10-02T10:18:01+09:00",
  "days": {
   "2026-10-01": [
    {
     "start": "09:00",
     "end": "09:59",
     "brand": "르포엠",
-    "product": "클로우 캐시울 블렌디드 펄 니트자켓",
-    "price": 9900,
-    "link": "https://item.cjonstyle.com/item/2093297687?channelCode=30002002",
+    "product": "에셀 세미 와이드 팬츠",
+    "price": 12900,
+    "link": "https://item.cjonstyle.com/item/2076376377?channelCode=30002002",
     "slot_id": "30138",
     "title": "다시보는 르포엠🤎 FW CJ단독 특가! 9,900원~",
     "pgm": "브랜디드 라이브쇼",
@@ -268,7 +268,7 @@
     "end": "19:59",
     "brand": "플로미",
     "product": "이엘리 작가, 썬플라워 아트 거울 M (30x30cm)",
-    "price": 250000,
+    "price": 187500,
     "link": "https://item.cjonstyle.com/item/2085657338?channelCode=30002002",
     "slot_id": "30027",
     "title": "좋아하는 작가를 내 일상에💗이엘리 거울 시리즈 최초 공개",
@@ -450,15 +450,15 @@
    {
     "start": "09:40",
     "end": "10:59",
-    "brand": "빈다(Vinda)",
-    "product": "빈다 프로엑스 걸어쓰는 키친타월 3겹, 164매, 3팩",
-    "price": 10800,
-    "link": "https://item.cjonstyle.com/item/2011949423?channelCode=30002002",
+    "brand": "리베로",
+    "product": "기저귀 터치 밴드형 1~7단계 모음",
+    "price": 86700,
+    "link": "https://item.cjonstyle.com/item/2006770622?channelCode=30002002",
     "slot_id": "29840",
     "title": "[맘만하니] 리베로 기저귀 최저가❤️ 온키즈패스 혜택까지!! ✨",
     "pgm": "맘만하니",
     "pgm_cd": "0099",
-    "category": "주방·잡화"
+    "category": "유아동"
    },
    {
     "start": "10:00",
@@ -708,7 +708,7 @@
    },
    {
     "start": "19:00",
-    "end": "19:59",
+    "end": "20:04",
     "brand": "벨르제이",
     "product": "[투머치쇼 PICK 특별구성] 프리미엄 제이컷 30포 5+5",
     "price": 270000,
@@ -921,7 +921,7 @@
     "end": "19:59",
     "brand": "지스튜디오",
     "product": "26SS 시스루 러플 블라우스",
-    "price": 89900,
+    "price": 49900,
     "link": "https://item.cjonstyle.com/item/2078628457?channelCode=30002002",
     "slot_id": "29846",
     "title": "엣지쇼❤️지스튜디오 최대64% 할인",
@@ -957,7 +957,7 @@
    },
    {
     "start": "20:00",
-    "end": "20:59",
+    "end": "21:04",
     "brand": "벨르제이",
     "product": "[투머치쇼 PICK 특별구성] 프리미엄 제이컷 30포 5+5",
     "price": 270000,
@@ -1177,6 +1177,19 @@
     "category": "여성패션"
    },
    {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "쿠르마레",
+    "product": "쿠르 로즈코드 프라이빗 스킨 프로그램 앰플 대표님패키지 (3박스)",
+    "price": 299000,
+    "link": "https://item.cjonstyle.com/item/2093207265?channelCode=30002002",
+    "slot_id": "30197",
+    "title": "다시보는 매드딜X쿠르🖤피부 치트키! 스킨부스팅 칵테일 앰플 미친 할인",
+    "pgm": "김해나의 매드딜",
+    "pgm_cd": "1132",
+    "category": "뷰티"
+   },
+   {
     "start": "21:00",
     "end": "21:59",
     "brand": "리베니프",
@@ -1190,11 +1203,24 @@
     "category": "뷰티"
    },
    {
+    "start": "21:00",
+    "end": "22:04",
+    "brand": "벨르제이",
+    "product": "[투머치쇼 PICK 특별구성] 프리미엄 제이컷 30포 5+5",
+    "price": 270000,
+    "link": "https://item.cjonstyle.com/item/2094019410?channelCode=30002002",
+    "slot_id": "30199",
+    "title": "다시보는[투머치쇼] 벨르제이가 쏘고간 1억의 주인공은? 제이컷 역대급할인",
+    "pgm": "김호영의 투머치쇼",
+    "pgm_cd": "1083",
+    "category": "식품·건강"
+   },
+   {
     "start": "22:00",
     "end": "23:00",
     "brand": "한상궁김치",
     "product": "한상궁김치 겉절이 2kg",
-    "price": 20900,
+    "price": 13000,
     "link": "https://item.cjonstyle.com/item/2003424003?channelCode=30002002",
     "slot_id": "30200",
     "title": "왔다장보러📢하남쭈꾸미/오징어+한상궁김치+마른안주 9종+꿀고구마",
@@ -1203,6 +1229,44 @@
    }
   ],
   "2026-10-05": [
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "다크 크런치 시크릿",
+    "product": "다크 크런치 다이어트 유산균 24주분 (8박스)",
+    "price": 252000,
+    "link": "https://item.cjonstyle.com/item/2080620696?channelCode=30002002",
+    "slot_id": "30244",
+    "title": "다시보는 다크크런치 다이어트 유산균&오하루 두유!",
+    "pgm": "라이브쇼",
+    "pgm_cd": "1016",
+    "category": "식품·건강"
+   },
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "르포엠",
+    "product": "디에나 듀얼 소프트 카라 가디건",
+    "price": 11900,
+    "link": "https://item.cjonstyle.com/item/2094773614?channelCode=30002002",
+    "slot_id": "30245",
+    "title": "다시보는 르포엠🤎 FW CJ단독 특가! 9,900원~",
+    "pgm": "라이브쇼",
+    "pgm_cd": "0146",
+    "category": "여성패션"
+   },
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "",
+    "product": "다시보는 [나스] 세럼 쿠션 & 파우더 특가",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/30247",
+    "slot_id": "30247",
+    "title": "다시보는 [나스] 세럼 쿠션 & 파우더 특가",
+    "pgm": "세븐어택",
+    "pgm_cd": "1113"
+   },
    {
     "start": "11:00",
     "end": "11:59",
@@ -1220,9 +1284,9 @@
     "start": "19:00",
     "end": "19:59",
     "brand": "더엣지",
-    "product": "26FW 프린지 트랙 커브드 데님",
+    "product": "26FW FAUX레더 봄버재킷",
     "price": 69900,
-    "link": "https://item.cjonstyle.com/item/2089553330?channelCode=30002002",
+    "link": "https://item.cjonstyle.com/item/2090744186?channelCode=30002002",
     "slot_id": "30034",
     "title": "엣지쇼❤️더엣지 겨울 상품 신상품 최초공개",
     "pgm": "엣지쇼",
@@ -1286,11 +1350,11 @@
     "start": "12:00",
     "end": "12:59",
     "brand": "",
-    "product": "블루래밋X서누서나 오감발달 첫 놀이감&플러스세트 23종 공구 최저가",
+    "product": "블루래빗X서누서나 오감발달 첫 놀이감&플러스세트 23종 공구 최저가",
     "price": 0,
     "link": "https://mlive.cjonstyle.com/m/preview/30040",
     "slot_id": "30040",
-    "title": "블루래밋X서누서나 오감발달 첫 놀이감&플러스세트 23종 공구 최저가",
+    "title": "블루래빗X서누서나 오감발달 첫 놀이감&플러스세트 23종 공구 최저가",
     "pgm": "인플루언서LIVE",
     "pgm_cd": "1052"
    },
@@ -1335,11 +1399,11 @@
     "start": "20:00",
     "end": "20:59",
     "brand": "",
-    "product": "위너 이승훈 출연💙 F45 x BEATEMPO 얼리버드 티켓 오픈❤️",
+    "product": "[CJ 단독] F45 x BEATEMPO 얼리버드 티켓 한정 물량 오",
     "price": 0,
     "link": "https://mlive.cjonstyle.com/m/preview/30043",
     "slot_id": "30043",
-    "title": "위너 이승훈 출연💙 F45 x BEATEMPO 얼리버드 티켓 오픈❤️",
+    "title": "[CJ 단독] F45 x BEATEMPO 얼리버드 티켓 한정 물량 오",
     "pgm": "F45xBEATEMPO",
     "pgm_cd": "1029"
    },
@@ -1355,6 +1419,19 @@
     "pgm": "브랜디드 라이브쇼",
     "pgm_cd": "1130",
     "category": "주방·잡화"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "리복",
+    "product": "26FW 라이트 퍼프 경량패딩 남성",
+    "price": 79000,
+    "link": "https://item.cjonstyle.com/item/2093520999?channelCode=30002002",
+    "slot_id": "30044",
+    "title": "리복 / 에디바우어 / 베네통 / 봄부기 겨울 아우터 단 하루 특가💙",
+    "pgm": "라이브쇼",
+    "pgm_cd": "1008",
+    "category": "스포츠·아웃도어"
    }
   ],
   "2026-10-07": [
