@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-02T11:04:15+09:00",
+ "generated_at": "2026-10-02T17:39:00+09:00",
  "today": "2026-10-02",
  "dates": [
   "2026-10-01",
@@ -473,8 +473,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "10월 첫쇼라! 레노마로 완성하는 가을 OOTD❤️",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 6
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "09:00",
@@ -512,8 +511,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 26FW 본격 신상 명품 득템 찬스!",
-     "pgm": "투명쇼 (패션잡화)",
-     "hot": 7
+     "pgm": "투명쇼 (패션잡화)"
     },
     {
      "start": "11:00",
@@ -2673,8 +2671,7 @@ window.SCHEDULE = {
      "title": "3만 원대로 데일리 가을 니트 스타일 완성! 다니엘크레뮤 반값 SALE",
      "pgm": "라이브쇼",
      "pgm_cd": "0214",
-     "category": "여성패션",
-     "hot": 9
+     "category": "여성패션"
     },
     {
      "start": "10:00",
@@ -2727,7 +2724,7 @@ window.SCHEDULE = {
      "pgm_cd": "1099",
      "category": "서비스·렌탈",
      "cast": "influencer",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -7328,8 +7325,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈",
-     "hot": 2
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -7556,8 +7552,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈",
-     "hot": 8
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -7607,7 +7602,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 3
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -8039,7 +8034,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -8113,7 +8109,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 4
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -19596,7 +19592,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4703536717",
      "slot_id": "254457",
      "pgm": "월첫세일xLG가전 라이브❤️ 역대급 할인과 혜택🎊",
-     "category": "가전"
+     "category": "가전",
+     "hot": 6
     },
     {
      "start": "12:00",
@@ -20961,8 +20958,8 @@ window.SCHEDULE = {
    "2026-10-01",
    "2026-10-02"
   ],
-  "matched": 12,
-  "unmatched": 7
+  "matched": 9,
+  "unmatched": 10
  },
  "fixed": {
   "rows": [
