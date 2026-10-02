@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-02T10:19:16+09:00",
+ "generated_at": "2026-10-02T11:04:15+09:00",
  "today": "2026-10-02",
  "dates": [
   "2026-10-01",
@@ -474,7 +474,7 @@ window.SCHEDULE = {
      ],
      "title": "10월 첫쇼라! 레노마로 완성하는 가을 OOTD❤️",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 3
+     "hot": 6
     },
     {
      "start": "09:00",
@@ -493,8 +493,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[아이더] 방송 중 특별가! 쿠폰 + 카드 할인",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 5
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "10:00",
@@ -514,7 +513,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 26FW 본격 신상 명품 득템 찬스!",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 9
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -2661,8 +2660,7 @@ window.SCHEDULE = {
      "title": "[맘만하니] 리베로 기저귀 최저가❤️ 온키즈패스 혜택까지!! ✨",
      "pgm": "맘만하니",
      "pgm_cd": "0099",
-     "category": "유아동",
-     "hot": 8
+     "category": "유아동"
     },
     {
      "start": "10:00",
@@ -2675,7 +2673,8 @@ window.SCHEDULE = {
      "title": "3만 원대로 데일리 가을 니트 스타일 완성! 다니엘크레뮤 반값 SALE",
      "pgm": "라이브쇼",
      "pgm_cd": "0214",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -2727,7 +2726,8 @@ window.SCHEDULE = {
      "pgm": "다겨미네",
      "pgm_cd": "1099",
      "category": "서비스·렌탈",
-     "cast": "influencer"
+     "cast": "influencer",
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -7556,7 +7556,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -7606,7 +7607,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -8111,7 +8112,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -20959,8 +20961,8 @@ window.SCHEDULE = {
    "2026-10-01",
    "2026-10-02"
   ],
-  "matched": 10,
-  "unmatched": 9
+  "matched": 12,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
