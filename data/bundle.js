@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-03T09:57:58+09:00",
+ "generated_at": "2026-10-03T10:47:15+09:00",
  "today": "2026-10-03",
  "dates": [
   "2026-10-02",
@@ -511,8 +511,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[현명쇼] 버버리/막스마라/구찌 전상품 무이자 60개월",
-     "pgm": "현명쇼(노블레스)",
-     "hot": 6
+     "pgm": "현명쇼(노블레스)"
     },
     {
      "start": "09:00",
@@ -532,7 +531,7 @@ window.SCHEDULE = {
      ],
      "title": "스튜디오 톰보이✨ 26F/W 특별가 OPEN💕",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 2
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -551,7 +550,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[피네플리츠] 가을신상 오픈🍂 20% 쿠폰 + 사은품",
-     "pgm": "[피네플리츠] 의류 (패션1Lab)"
+     "pgm": "[피네플리츠] 의류 (패션1Lab)",
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -2601,7 +2601,7 @@ window.SCHEDULE = {
      "pgm_cd": "1109",
      "category": "여성패션",
      "cast": "influencer",
-     "hot": 1
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -7248,7 +7248,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 9
     },
     {
      "start": "09:30",
@@ -7818,7 +7818,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -7869,7 +7870,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -20888,7 +20890,8 @@ window.SCHEDULE = {
      "slot_id": "60134",
      "pgm": "베지밀 고단백 / 케어2종",
      "title": "주문 건 당 [고체탈취제]",
-     "category": "식품"
+     "category": "식품",
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -20900,7 +20903,8 @@ window.SCHEDULE = {
      "slot_id": "60374",
      "pgm": "우리가 믿는 물 제주 삼다수",
      "title": "추가 증정 프로모션",
-     "category": "식품"
+     "category": "식품",
+     "hot": 3
     },
     {
      "start": "11:30",
@@ -21952,8 +21956,8 @@ window.SCHEDULE = {
    "2026-10-02",
    "2026-10-03"
   ],
-  "matched": 11,
-  "unmatched": 8
+  "matched": 15,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
