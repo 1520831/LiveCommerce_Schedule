@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-10",
- "updated_at": "2026-10-03T09:56:59+09:00",
+ "updated_at": "2026-10-03T17:50:59+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -311,7 +311,7 @@
   "2026-10-03": [
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:20",
     "brand": "베지밀",
     "product": "[베지밀] 고단백 플레인 190mlx48팩 외 25종",
     "price": 48000,
@@ -323,7 +323,7 @@
    },
    {
     "start": "10:00",
-    "end": "13:00",
+    "end": "11:22",
     "brand": "광동제약 직영스토어",
     "product": "(광동 직영) 제주 삼다수 2L/500ML/330ML 모음전",
     "price": 35500,
@@ -335,7 +335,7 @@
    },
    {
     "start": "11:30",
-    "end": "13:00",
+    "end": "12:31",
     "brand": "쿠첸",
     "product": "쿠첸 브레인 듀얼프레셔 IH 전기압력밥솥 6/10인",
     "price": 499000,
@@ -347,7 +347,7 @@
    },
    {
     "start": "11:30",
-    "end": "13:00",
+    "end": "12:31",
     "brand": "돈시몬 공식몰",
     "product": "[돈시몬 공식] 100% NFC 착즙 토마토주스 1L/2L 외 오렌지/사과/만다린/레몬/머스캣/적포도 등",
     "price": 40900,
@@ -362,7 +362,7 @@
     "end": "20:30",
     "brand": "동아오츠카SHOP",
     "product": "동아오츠카 라인바싸 500ml 무라벨 3종 (20입+20입) - 총 2박스 분리배송",
-    "price": 15900,
+    "price": 22300,
     "link": "https://store.kakao.com/dongashop/products/599581708",
     "slot_id": "60169",
     "pgm": "동아오츠카 음료 최대 혜택!",
@@ -386,7 +386,7 @@
     "end": "22:00",
     "brand": "단순생활",
     "product": "단순생활 초음파 미니 무선 가습기 무드등 7종 모음",
-    "price": 17500,
+    "price": 26900,
     "link": "https://store.kakao.com/dansoon/products/67955707",
     "slot_id": "60322",
     "pgm": "단순생활 무선가습기 7종",
@@ -448,7 +448,7 @@
     "end": "11:30",
     "brand": "플로리아",
     "product": "[시공비 무료] 플로리아 층간소음매트 시공 매트 TPU 거실 놀이방 아기 70x70x2.4cm",
-    "price": 39900,
+    "price": 69000,
     "link": "https://store.kakao.com/floriahouse/products/313185187",
     "slot_id": "60403",
     "pgm": "플로리아매트 특가 LIVE",
@@ -848,7 +848,7 @@
     "end": "22:00",
     "brand": "리쥬란 코스메틱",
     "product": "\"어른선물 추천\" c-PDRN 스킨 밸런싱 세트 (토너+에멀전+앰플 5mL*2)",
-    "price": 79000,
+    "price": 60000,
     "link": "https://gift.kakao.com/product/11903888?url=product&cId=11903888",
     "slot_id": "60316",
     "pgm": "리쥬란 환절기 스킨케어",

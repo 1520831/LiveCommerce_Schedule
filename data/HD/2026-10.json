@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-10",
- "updated_at": "2026-10-03T09:56:45+09:00",
+ "updated_at": "2026-10-03T17:50:47+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -868,16 +868,16 @@
     "start": "09:00",
     "end": "09:59",
     "brand": "스튜디오톰보이",
-    "product": "[톰보이] 핸드메이드 울블렌드 자켓 (9176413991) 9176413991",
-    "price": 223200,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253652222",
+    "product": "[톰보이] 코듀로이 카라 패딩 맥코트 (9176413986) 9176413986",
+    "price": 239200,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253652194",
     "slot_id": "202610036001",
     "items": [
      {
       "brand": "스튜디오톰보이",
-      "product": "[톰보이] 핸드메이드 울블렌드 자켓 (9176413991) 9176413991",
-      "price": 223200,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253652222"
+      "product": "[톰보이] 코듀로이 카라 패딩 맥코트 (9176413986) 9176413986",
+      "price": 239200,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253652194"
      }
     ],
     "title": "스튜디오 톰보이✨ 26F/W 특별가 OPEN💕",
@@ -1919,11 +1919,17 @@
     "start": "14:00",
     "end": "14:59",
     "brand": "원오오",
-    "product": "바다풀 크라이오 로제 에센스",
-    "price": 42000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252683822",
+    "product": "(약국/클리닉 전용) 100시간 클리닉 스킨케어 2종 세트",
+    "price": 74000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254025541",
     "slot_id": "202610066008",
     "items": [
+     {
+      "brand": "원오오",
+      "product": "(약국/클리닉 전용) 100시간 클리닉 스킨케어 2종 세트",
+      "price": 74000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254025541"
+     },
      {
       "brand": "원오오",
       "product": "바다풀 크라이오 로제 에센스",

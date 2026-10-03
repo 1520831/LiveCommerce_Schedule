@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-10",
- "updated_at": "2026-10-03T09:56:52+09:00",
+ "updated_at": "2026-10-03T17:50:53+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -881,7 +881,7 @@
     "start": "15:55",
     "end": "16:59",
     "brand": "셀렙샵에디션",
-    "product": "26FW 벌키 헨리넥 니트 3종",
+    "product": "셀렙샵 에디션 26FW 소프트 헨리넥 니트 3종",
     "price": 80910,
     "link": "https://item.cjonstyle.com/item/2093298662?channelCode=30002002",
     "slot_id": "29847",
@@ -1943,14 +1943,15 @@
    {
     "start": "09:40",
     "end": "10:59",
-    "brand": "",
-    "product": "맘만하니X문아름 소베맘 4세대 기저귀갈이대 단독특가전",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/30055",
+    "brand": "소베맘",
+    "product": "[문아름PICK] 4세대 H형 트롤리 멀티수납 기저귀갈이대 기저귀교환대 [N차완판]",
+    "price": 149000,
+    "link": "https://item.cjonstyle.com/item/2086067868?channelCode=30002002",
     "slot_id": "30055",
     "title": "맘만하니X문아름 소베맘 4세대 기저귀갈이대 단독특가전",
     "pgm": "맘만하니",
-    "pgm_cd": "1100"
+    "pgm_cd": "1100",
+    "category": "유아동"
    },
    {
     "start": "10:00",
