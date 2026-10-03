@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-03T17:51:51+09:00",
+ "generated_at": "2026-10-03T22:09:09+09:00",
  "today": "2026-10-03",
  "dates": [
   "2026-10-02",
@@ -702,7 +702,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[이탈리아 주얼리] 이태리 18K 체인주얼리 44%🔻",
-     "pgm": "[집방] 골든클레프 주얼리 (노블레스)"
+     "pgm": "[집방] 골든클레프 주얼리 (노블레스)",
+     "hot": 9
     },
     {
      "start": "20:00",
@@ -2631,8 +2632,7 @@ window.SCHEDULE = {
      "title": "다시보는 락포트 아울렛 특가!",
      "pgm": "라이브쇼",
      "pgm_cd": "1008",
-     "category": "잡화·슈즈",
-     "hot": 8
+     "category": "잡화·슈즈"
     },
     {
      "start": "12:00",
@@ -2700,7 +2700,8 @@ window.SCHEDULE = {
      "title": "엣지쇼❤️지스튜디오 최대64% 할인",
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 4
     },
     {
      "start": "19:00",
@@ -7825,7 +7826,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -7877,7 +7878,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -8594,7 +8595,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 10
     },
     {
      "start": "20:00",
@@ -20884,8 +20886,7 @@ window.SCHEDULE = {
      "slot_id": "60134",
      "pgm": "베지밀 고단백 / 케어2종",
      "title": "주문 건 당 [고체탈취제]",
-     "category": "식품",
-     "hot": 7
+     "category": "식품"
     },
     {
      "start": "10:00",
@@ -20946,7 +20947,8 @@ window.SCHEDULE = {
      "slot_id": "60263",
      "pgm": "쿠쿠 쎈딜 특가 라이브",
      "title": "오늘이 마지막!",
-     "category": "테크"
+     "category": "테크",
+     "hot": 6
     },
     {
      "start": "20:30",
@@ -21950,8 +21952,8 @@ window.SCHEDULE = {
    "2026-10-02",
    "2026-10-03"
   ],
-  "matched": 14,
-  "unmatched": 6
+  "matched": 16,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
