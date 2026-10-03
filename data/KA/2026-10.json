@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-10",
- "updated_at": "2026-10-03T23:11:24+09:00",
+ "updated_at": "2026-10-04T03:08:50+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -370,18 +370,6 @@
     "category": "식품"
    },
    {
-    "start": "19:00",
-    "end": "20:22",
-    "brand": "쿠쿠전자(주)",
-    "product": "쿠쿠 미식컬렉션 마스터셰프 사일런스 큐브 6인용 밥솥",
-    "price": 688000,
-    "link": "https://store.kakao.com/cuckooel/products/773583047",
-    "slot_id": "60263",
-    "pgm": "쿠쿠 쎈딜 특가 라이브",
-    "title": "오늘이 마지막!",
-    "category": "테크"
-   },
-   {
     "start": "20:30",
     "end": "21:30",
     "brand": "단순생활",
@@ -404,18 +392,6 @@
     "pgm": "링글스 고체 애사비",
     "title": "&클렌즈&듀얼에이드샷",
     "category": "식품"
-   },
-   {
-    "start": "22:23",
-    "end": "22:59",
-    "brand": "터치그라운드 스니커즈",
-    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-    "price": 49900,
-    "link": "https://store.kakao.com/touchground/products/774098244",
-    "slot_id": "60776",
-    "pgm": "터치그라운드 발편한운동화",
-    "title": "가벼우면서 쿠션감 좋은운동화",
-    "category": "패션"
    }
   ],
   "2026-10-04": [
@@ -1374,6 +1350,104 @@
     "pgm": "풀무원 음처기 초특가 라이브",
     "title": "~41%+멀티스티머 증정",
     "category": "테크"
+   }
+  ],
+  "2026-10-09": [
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "동국제약",
+    "product": "[동국제약] 동국제약 굿잠 무향 스팀안대 6박스 외 손발워머. 온열 스팀마사지. 눈 피로 완화",
+    "price": 131400,
+    "link": "https://store.kakao.com/dkpharm/products/190816627",
+    "slot_id": "60479",
+    "pgm": "동국제약 브랜드데이",
+    "title": "굿잠안대 3종 외 79%할인",
+    "category": "리빙"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "폰드그룹몰",
+    "product": "[어패럴카쇼라] (9/21) 캘빈클라인 스포츠,퍼포먼스,진스 종합 특가전",
+    "price": 129000,
+    "link": "https://store.kakao.com/pondgroup/products/755893337",
+    "slot_id": "60585",
+    "pgm": "[캘빈클라인스포츠]",
+    "title": "가을맞이 종합 기획전 특가!",
+    "category": "패션"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "듀오덤",
+    "product": "듀오덤 스팟패치 60매+밴드 9매 혼합형+스팟패치 12매 증정 /자외선차단, 점, 기미, 여드름 상처보호",
+    "price": 20900,
+    "link": "https://store.kakao.com/jwduoderm/products/452545363",
+    "slot_id": "60626",
+    "pgm": "듀오덤 스팟패치+습윤밴드",
+    "title": "~70%할인+사은품 증정까지",
+    "category": "리빙"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "청년상점",
+    "product": "2026 첫 수확! 달콤한 햇 호풍미 호박고구마 5kg 특상 비세척 외 꿀밤고구마 베니하루카",
+    "price": 25900,
+    "link": "https://store.kakao.com/youngstore/products/144621550",
+    "slot_id": "60734",
+    "pgm": "호풍미 호박고구마 5kg특상",
+    "title": "주문인증 3kg 30명추첨",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "플루",
+    "product": "[플루] 시그니처 바디스크럽 215g 외 스크럽 바디워시 베스트 모음",
+    "price": 16900,
+    "link": "https://store.kakao.com/plu/products/67632585",
+    "slot_id": "60648",
+    "pgm": "플루 미드나잇 특가 ~59%",
+    "title": "환절기 매끈 쫀쫀 바디케어",
+    "category": "뷰티"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "밤비코",
+    "product": "천연실크100% 스카프 F/W신상 캐시미어 울실크 트윌 쁘띠 외 100종 스카프링 선물포장가능",
+    "price": 86000,
+    "link": "https://store.kakao.com/bambiko/products/285765489",
+    "slot_id": "60686",
+    "pgm": "천연실크100% 스카프",
+    "title": "울/캐시미어/트윌 100종",
+    "category": "패션"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "인생식탁",
+    "product": "부산 아미동 몽실종가 돼지국밥 1인분 4개",
+    "price": 48000,
+    "link": "https://store.kakao.com/localtable/products/701876845",
+    "slot_id": "60699",
+    "pgm": "부산 몽실종가 돼지국밥 4팩",
+    "title": "29800원+무료배송",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "바디프로젝트",
+    "product": "바디프로젝트 엠머밀 파로 효소 단백질 프리미엄 30포 3박스. 고소하게 맛잇는 옥수수맛",
+    "price": 90000,
+    "link": "https://store.kakao.com/bodyproject/products/469852706",
+    "slot_id": "60715",
+    "pgm": "바디프로젝트 골드라벨",
+    "title": "엠머밀 파로 효소 카쇼라특가",
+    "category": "식품"
    }
   ]
  }

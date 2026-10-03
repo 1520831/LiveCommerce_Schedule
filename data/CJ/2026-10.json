@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-10",
- "updated_at": "2026-10-03T23:11:17+09:00",
+ "updated_at": "2026-10-04T03:08:43+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -895,7 +895,7 @@
     "end": "18:59",
     "brand": "클라르하임",
     "product": "그린비 60수 고밀도 워싱면·모달 차렵이불 풀세트(이불+패드+베개커버)",
-    "price": 220000,
+    "price": 327000,
     "link": "https://item.cjonstyle.com/item/2092467379?channelCode=30002002",
     "slot_id": "30181",
     "title": "다시보는 클라르하임🤍신상 & BEST 볼륨 텐셀모달 풀세트 최저가",
@@ -908,7 +908,7 @@
     "end": "18:59",
     "brand": "빌딘",
     "product": "레몬버베나 애프터샷 다이어트 3+1개월 (30일분, 4BOX)",
-    "price": 389000,
+    "price": 548250,
     "link": "https://item.cjonstyle.com/item/2093453013?channelCode=30002002",
     "slot_id": "30182",
     "title": "다시보는 잘사는 언니들❤️빌딘 단독특가! 레몬버베나 애프터샷",
@@ -1401,9 +1401,9 @@
     "start": "19:00",
     "end": "19:59",
     "brand": "더엣지",
-    "product": "26FW FAUX레더 봄버재킷",
-    "price": 69900,
-    "link": "https://item.cjonstyle.com/item/2090744186?channelCode=30002002",
+    "product": "26FW 하이넥 버튼 베스트 3종",
+    "price": 62910,
+    "link": "https://item.cjonstyle.com/item/2090668028?channelCode=30002002",
     "slot_id": "30034",
     "title": "엣지쇼❤️더엣지 겨울 상품 신상품 최초공개",
     "pgm": "엣지쇼",
@@ -2131,6 +2131,33 @@
     "title": "다시보는 데스커 더블쿠폰 특가💖",
     "pgm": "하우스윗",
     "pgm_cd": "1048"
+   }
+  ],
+  "2026-10-09": [
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "데스커",
+    "product": "1200폭 5단 책상세트 (콘센트형)",
+    "price": 470400,
+    "link": "https://item.cjonstyle.com/item/97558591?channelCode=30002002",
+    "slot_id": "30327",
+    "title": "다시보는 데스커 더블쿠폰 특가💖",
+    "pgm": "하우스윗",
+    "pgm_cd": "1048"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "LG전자",
+    "product": "LG 디오스 AI 오브제 5도어 원매직 1등급 냉장고_T876MQQ1H1",
+    "price": 2310000,
+    "link": "https://item.cjonstyle.com/item/2090661999?channelCode=30002002",
+    "slot_id": "30071",
+    "title": "⭐컴온스타일⭐LG전자, 냉장고(5도어)+김치냉장고 최대혜택",
+    "pgm": "하우스윗",
+    "pgm_cd": "1048",
+    "category": "가전"
    }
   ]
  }

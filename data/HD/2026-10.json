@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-10",
- "updated_at": "2026-10-03T23:11:12+09:00",
+ "updated_at": "2026-10-04T03:08:37+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -1097,14 +1097,14 @@
     "end": "22:59",
     "brand": "헤르마",
     "product": "쿠아 토트백 _10컬러",
-    "price": 224400,
+    "price": 264000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2231249924",
     "slot_id": "202610036011",
     "items": [
      {
       "brand": "헤르마",
       "product": "쿠아 토트백 _10컬러",
-      "price": 224400,
+      "price": 264000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2231249924"
      }
     ],
@@ -1232,14 +1232,14 @@
     "end": "12:59",
     "brand": "아이프리",
     "product": "프리미엄 전기식 보풀제거기 FX-500",
-    "price": 69000,
+    "price": 49900,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2241219835",
     "slot_id": "202610046003",
     "items": [
      {
       "brand": "아이프리",
       "product": "프리미엄 전기식 보풀제거기 FX-500",
-      "price": 69000,
+      "price": 49900,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2241219835"
      }
     ],
@@ -2544,6 +2544,179 @@
      }
     ],
     "title": "CC콜렉트✨ 26FW 최대 혜택 방송! ~61%▼",
+    "pgm": "현대렐라쇼 (멀티커머스)"
+   }
+  ],
+  "2026-10-09": [
+   {
+    "start": "00:00",
+    "end": "00:59",
+    "brand": "버버리",
+    "product": "[버버리]6S 8110531 C1900 브롬리 여성 퀼팅 후드 자켓 블랙",
+    "price": 1940000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247917378",
+    "slot_id": "202610096019",
+    "items": [
+     {
+      "brand": "버버리",
+      "product": "[버버리]6S 8110531 C1900 브롬리 여성 퀼팅 후드 자켓 블랙",
+      "price": 1940000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247917378"
+     }
+    ],
+    "title": "[투명쇼] 르메르 월 1만원대 60개월 무이자",
+    "pgm": "[재방] 투명쇼 (패션잡화)"
+   },
+   {
+    "start": "07:00",
+    "end": "07:59",
+    "brand": "조니스 그로서리",
+    "product": "[쇼라][조니스그로서리][BEST입문팩] 납작 플레인1 + 초코1 + 저당1 + 한끼 오곡1 + 카카오1",
+    "price": 53900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253383970",
+    "slot_id": "202610096020",
+    "items": [
+     {
+      "brand": "조니스 그로서리",
+      "product": "[쇼라][조니스그로서리][BEST입문팩] 납작 플레인1 + 초코1 + 저당1 + 한끼 오곡1 + 카카오1",
+      "price": 53900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253383970"
+     }
+    ],
+    "title": "無설탕 無첨가물! 통귀리 가득 납작 청크 그래놀라",
+    "pgm": "[재방] 조니스그로서리 그래놀라 (멀티커머스)"
+   },
+   {
+    "start": "08:00",
+    "end": "08:59",
+    "brand": "비지트인뉴욕",
+    "product": "정통 트렌치코트 (VC9BB70) VC9BB70",
+    "price": 199000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253277314",
+    "slot_id": "202610096001",
+    "items": [
+     {
+      "brand": "비지트인뉴욕",
+      "product": "정통 트렌치코트 (VC9BB70) VC9BB70",
+      "price": 199000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253277314"
+     }
+    ],
+    "title": "[비지트인뉴욕] 베이직 아이템으로 더 감각적인 스타일링",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "휠라",
+    "product": "에샤페 LX FS261OD03X087 초코 FS261OD03X087II3",
+    "price": 119000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252831103",
+    "slot_id": "202610096002",
+    "items": [
+     {
+      "brand": "휠라",
+      "product": "에샤페 LX FS261OD03X087 초코 FS261OD03X087II3",
+      "price": 119000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252831103"
+     }
+    ],
+    "title": "[휠라] 방송 중 구매고객 대상 최대 혜택전🔥",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "힘펠",
+    "product": "[본사공식] 힘펠환풍기 휴젠뜨 노바 FHD2-C150P NOVA 욕실 화장실 온풍 제습 자가설치",
+    "price": 429000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239989547",
+    "slot_id": "202610096004",
+    "items": [
+     {
+      "brand": "힘펠",
+      "product": "[본사공식] 힘펠환풍기 휴젠뜨 노바 FHD2-C150P NOVA 욕실 화장실 온풍 제습 자가설치",
+      "price": 429000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239989547"
+     }
+    ],
+    "title": "힘펠 환풍기 가을특가",
+    "pgm": "[힘펠] 환풍기 (가전)"
+   },
+   {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "감동",
+    "product": "국내산 행복 제주 햇 감귤 4.5kg 소과",
+    "price": 11900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253140218",
+    "slot_id": "202610096005",
+    "items": [
+     {
+      "brand": "감동",
+      "product": "국내산 행복 제주 햇 감귤 4.5kg 소과",
+      "price": 11900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253140218"
+     }
+    ],
+    "title": "새콤달콤 제철 제주감귤, 방송에서 맛있게 만나보세요!",
+    "pgm": "[감동] 제주감귤 (일반식품2)"
+   },
+   {
+    "start": "16:00",
+    "end": "16:59",
+    "brand": "Playback",
+    "product": "[PlayBack] 플레이백 리스 멜란지 니트",
+    "price": 320000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252679871",
+    "slot_id": "202610096009",
+    "items": [
+     {
+      "brand": "Playback",
+      "product": "[PlayBack] 플레이백 리스 멜란지 니트",
+      "price": 320000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252679871"
+     }
+    ],
+    "title": "[플레이백] BEST 아이템 특별할인전",
+    "pgm": "[플레이백] 패션 의류 (패션1Lab)"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "약손명가 헬스케어",
+    "product": "[약손명가] 올리리라 웨이브 밴드 + 올리패치 10박스 + 올리겔 1박스",
+    "price": 592000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253896051",
+    "slot_id": "202610096013",
+    "items": [
+     {
+      "brand": "약손명가 헬스케어",
+      "product": "[약손명가] 올리리라 웨이브 밴드 + 올리패치 10박스 + 올리겔 1박스",
+      "price": 592000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253896051"
+     }
+    ],
+    "title": "쇼라 최초공개 약손명가헬스케어",
+    "pgm": "[약손명가] 올리리라 밴드 (뷰티브랜드)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "플라스틱아일랜드",
+    "product": "요크 절개 스웨이드 테일러드 투버튼 자켓 PS3TJ861 PS3TJ861",
+    "price": 181300,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252722436",
+    "slot_id": "202610096016",
+    "items": [
+     {
+      "brand": "플라스틱아일랜드",
+      "product": "요크 절개 스웨이드 테일러드 투버튼 자켓 PS3TJ861 PS3TJ861",
+      "price": 181300,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252722436"
+     }
+    ],
+    "title": "[플라스틱아일랜드] 다채로운 가을룩! 최대 60%",
     "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ]
