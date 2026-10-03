@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-03T10:47:15+09:00",
+ "generated_at": "2026-10-03T16:46:54+09:00",
  "today": "2026-10-03",
  "dates": [
   "2026-10-02",
@@ -530,8 +530,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "스튜디오 톰보이✨ 26F/W 특별가 OPEN💕",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 8
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "10:00",
@@ -550,8 +549,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[피네플리츠] 가을신상 오픈🍂 20% 쿠폰 + 사은품",
-     "pgm": "[피네플리츠] 의류 (패션1Lab)",
-     "hot": 10
+     "pgm": "[피네플리츠] 의류 (패션1Lab)"
     },
     {
      "start": "11:00",
@@ -665,7 +663,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[현명쇼] 막스마라 패딩재킷 재입고! ★월 1만원대★",
-     "pgm": "현명쇼(노블레스)"
+     "pgm": "현명쇼(노블레스)",
+     "hot": 4
     },
     {
      "start": "18:00",
@@ -2600,8 +2599,7 @@ window.SCHEDULE = {
      "pgm": "잇솔지",
      "pgm_cd": "1109",
      "category": "여성패션",
-     "cast": "influencer",
-     "hot": 4
+     "cast": "influencer"
     },
     {
      "start": "10:00",
@@ -2627,7 +2625,8 @@ window.SCHEDULE = {
      "title": "다시보는 락포트 아울렛 특가!",
      "pgm": "라이브쇼",
      "pgm_cd": "1008",
-     "category": "잡화·슈즈"
+     "category": "잡화·슈즈",
+     "hot": 7
     },
     {
      "start": "12:00",
@@ -2655,7 +2654,8 @@ window.SCHEDULE = {
      "pgm": "잇솔지",
      "pgm_cd": "1109",
      "category": "여성패션",
-     "cast": "influencer"
+     "cast": "influencer",
+     "hot": 1
     },
     {
      "start": "18:00",
@@ -7247,8 +7247,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "09:30",
@@ -7819,7 +7818,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 2
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -7871,7 +7870,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 1
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -20891,7 +20890,7 @@ window.SCHEDULE = {
      "pgm": "베지밀 고단백 / 케어2종",
      "title": "주문 건 당 [고체탈취제]",
      "category": "식품",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -20904,7 +20903,7 @@ window.SCHEDULE = {
      "pgm": "우리가 믿는 물 제주 삼다수",
      "title": "추가 증정 프로모션",
      "category": "식품",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "11:30",
@@ -21956,8 +21955,8 @@ window.SCHEDULE = {
    "2026-10-02",
    "2026-10-03"
   ],
-  "matched": 15,
-  "unmatched": 5
+  "matched": 14,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
