@@ -2,7 +2,7 @@
  "company": "NV",
  "channel": "shoppinglive",
  "month": "2026-10",
- "updated_at": "2026-10-03T17:51:44+09:00",
+ "updated_at": "2026-10-03T23:12:07+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -4681,7 +4681,7 @@
     "end": "18:00",
     "brand": "JBL",
     "product": "삼성공식파트너 JBL PARTYBOX ENCORE2 블루투스 스피커 앙코르2 플러스",
-    "price": 698000,
+    "price": 688000,
     "link": "https://shoppinglive.naver.com/livebridge/2034903",
     "slot_id": "2034903",
     "pgm": "JBL 이어폰·스피커·헤드셋 🎉메가 세일 LIVE🎉",
@@ -7277,7 +7277,7 @@
    },
    {
     "start": "16:00",
-    "end": "",
+    "end": "18:00",
     "brand": "CUCKOO",
     "product": "[가을 프로모션] 쿠쿠 인앤아웃 직수 정수기 CP-TS011WS",
     "price": 2512800,
@@ -7297,7 +7297,7 @@
    },
    {
     "start": "18:00",
-    "end": "",
+    "end": "18:33",
     "brand": "힐스사이언스다이어트",
     "product": "힐스 고양이사료 어덜트 7+ 시니어 바이탈리티 치킨 1.4kg",
     "price": 43200,
@@ -7335,7 +7335,7 @@
    },
    {
     "start": "18:00",
-    "end": "",
+    "end": "18:35",
     "brand": "테일러메이드",
     "product": "테일러메이드코리아 Qi35 MAX 남성 드라이버(DIAMANA BLUE)",
     "price": 479000,
@@ -7353,7 +7353,7 @@
    },
    {
     "start": "19:00",
-    "end": "",
+    "end": "20:59",
     "brand": "갤럭시",
     "product": "삼성 갤럭시워치8 강화유리 패키지 실버, 40mm, 블루투스",
     "price": 419000,
@@ -7400,7 +7400,7 @@
    },
    {
     "start": "20:00",
-    "end": "",
+    "end": "21:13",
     "brand": "바이오코어",
     "product": "CJ 바이오코어 500억 보장 부자 화사 유산균 상온보관 프로바이오틱스 90캡슐, 4개",
     "price": 165000,
@@ -7514,7 +7514,7 @@
    },
    {
     "start": "20:00",
-    "end": "",
+    "end": "22:00",
     "brand": "비스포크AI콤보",
     "product": "삼성 WD80H25BHY 비스포크 AI콤보 세탁25kg 건조18kg 26년형 일체형 1등급",
     "price": 3299000,
@@ -7558,7 +7558,7 @@
    },
    {
     "start": "20:00",
-    "end": "",
+    "end": "21:01",
     "brand": "코베아",
     "product": "코베아 고스트 팬텀 에어 블랙 대형 텐트 전면 TPU창 내장펌프 KEC29TO-04",
     "price": 1521000,
@@ -7659,7 +7659,7 @@
    },
    {
     "start": "20:00",
-    "end": "",
+    "end": "21:57",
     "brand": "JBL",
     "product": "삼성공식파트너 JBL BAR 1300 MK2 11.1.4채널 사운드바 홈시어터 TV스피커",
     "price": 1699000,
@@ -7772,7 +7772,7 @@
    },
    {
     "start": "20:00",
-    "end": "",
+    "end": "21:03",
     "brand": "스노우피크",
     "product": "랜드록 아이보리 TP-671IV",
     "price": 1480000,
@@ -7888,7 +7888,7 @@
    },
    {
     "start": "20:04",
-    "end": "",
+    "end": "22:02",
     "brand": "갤럭시북6",
     "product": "삼성 갤럭시북6 NT740VJT-A51A U5 16GB 256GB 휴대성 좋고 가벼운 강의용 업무용 AI 노트북",
     "price": 1699000,
@@ -9368,7 +9368,7 @@
     "price": 2584800,
     "link": "https://shoppinglive.naver.com/livebridge/2036539",
     "slot_id": "2036539",
-    "pgm": "[코웨이X네이버] 브랜드데이 마지막 방송!",
+    "pgm": "[코웨이X네이버] 브랜드데이 마지막 방송",
     "title": "코웨이 브랜드데이 특집",
     "items": [
      {},
@@ -12663,15 +12663,13 @@
     "start": "21:00",
     "end": "",
     "brand": "샤틴",
-    "product": "샤틴 큐빅장식 데님 집업자켓 S263K110",
-    "price": 138000,
+    "product": "샤틴 트리밍 배색 누빔 자켓 S254K865",
+    "price": 99000,
     "link": "https://shoppinglive.naver.com/livebridge/2038461",
     "slot_id": "2038461",
     "pgm": "NC야탑점『샤틴』💛10/5(월),오후9시💛10월슈퍼위크 라이브쇼💕",
     "title": "라이브진행시 더블쿠폰 증정!",
     "items": [
-     {},
-     {},
      {},
      {},
      {},
@@ -12694,7 +12692,7 @@
     "start": "21:30",
     "end": "",
     "brand": "온앤온",
-    "product": "온앤온 카라넥 아웃포켓 인조가죽 점퍼 NJL6WM999",
+    "product": "온앤온 [26F/W]카라넥 아웃포켓 인조가죽 점퍼 NJL6WM999",
     "price": 167400,
     "link": "https://shoppinglive.naver.com/livebridge/2037718",
     "slot_id": "2037718",
