@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-03T04:30:27+09:00",
+ "generated_at": "2026-10-03T09:54:15+09:00",
  "today": "2026-10-03",
  "dates": [
   "2026-10-02",
@@ -474,7 +474,7 @@ window.SCHEDULE = {
      ],
      "title": "[필모아] 요즘 다 쓰는 세라믹 텀블러🔥 최대 66%",
      "pgm": "[필모아] 텀블러 (가전)",
-     "hot": 1
+     "hot": 10
     },
     {
      "start": "07:00",
@@ -512,7 +512,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[현명쇼] 버버리/막스마라/구찌 전상품 무이자 60개월",
-     "pgm": "현명쇼(노블레스)"
+     "pgm": "현명쇼(노블레스)",
+     "hot": 4
     },
     {
      "start": "09:00",
@@ -531,7 +532,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "스튜디오 톰보이✨ 26F/W 특별가 OPEN💕",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -2599,7 +2601,8 @@ window.SCHEDULE = {
      "pgm": "잇솔지",
      "pgm_cd": "1109",
      "category": "여성패션",
-     "cast": "influencer"
+     "cast": "influencer",
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -6871,8 +6874,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 4
+     "category": "테크"
     },
     {
      "start": "03:20",
@@ -6970,8 +6972,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 5
+     "category": "테크"
     },
     {
      "start": "07:20",
@@ -7218,7 +7219,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 2
     },
     {
      "start": "09:30",
@@ -21919,8 +21921,8 @@ window.SCHEDULE = {
    "2026-10-02",
    "2026-10-03"
   ],
-  "matched": 10,
-  "unmatched": 10
+  "matched": 12,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
