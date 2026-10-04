@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-04T03:09:31+09:00",
+ "generated_at": "2026-10-04T09:20:33+09:00",
  "today": "2026-10-04",
  "dates": [
   "2026-10-03",
@@ -380,7 +380,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 막스마라 몽클레어 월 1만원대부터~",
      "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 1
+     "hot": 7
     },
     {
      "start": "07:00",
@@ -5650,8 +5650,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 4
+     "category": "테크"
     },
     {
      "start": "03:20",
@@ -5862,7 +5861,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 6
     },
     {
      "start": "09:30",
@@ -19689,7 +19689,7 @@ window.SCHEDULE = {
    "2026-10-04"
   ],
   "matched": 10,
-  "unmatched": 10
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
