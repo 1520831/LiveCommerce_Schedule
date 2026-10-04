@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-04T11:27:16+09:00",
+ "generated_at": "2026-10-04T17:45:48+09:00",
  "today": "2026-10-04",
  "dates": [
   "2026-10-03",
@@ -6407,7 +6407,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 9
     },
     {
      "start": "12:00",
@@ -18620,7 +18621,7 @@ window.SCHEDULE = {
      "pgm": "베베숲 고평량 인기 세트",
      "title": "휴대 증정+ 페이 할인",
      "category": "키즈",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -18633,7 +18634,7 @@ window.SCHEDULE = {
      "pgm": "킨드나나 라이브 특가!데일리",
      "title": "인기파자마&FW 신상 잠옷",
      "category": "패션",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -18646,7 +18647,7 @@ window.SCHEDULE = {
      "pgm": "플로리아매트 특가 LIVE",
      "title": "[톡딜]최대 42% 즉시할인",
      "category": "키즈",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "11:30",
@@ -19698,8 +19699,8 @@ window.SCHEDULE = {
    "2026-10-03",
    "2026-10-04"
   ],
-  "matched": 11,
-  "unmatched": 8
+  "matched": 12,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
