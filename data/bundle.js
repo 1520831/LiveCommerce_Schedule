@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-04T18:19:24+09:00",
+ "generated_at": "2026-10-04T23:37:36+09:00",
  "today": "2026-10-04",
  "dates": [
   "2026-10-03",
@@ -589,7 +589,7 @@ window.SCHEDULE = {
      ],
      "title": "[명품특별전] 미우미우 안경테 월 9천원대 타임딜!",
      "pgm": "[재방] 명품특별전 (노블레스)",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "19:00",
@@ -2261,7 +2261,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "1008",
      "category": "잡화·슈즈",
-     "hot": 4
+     "hot": 1
     },
     {
      "start": "18:00",
@@ -7047,7 +7047,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 6
     },
     {
      "start": "20:00",
@@ -7213,7 +7214,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "취미레저"
+     "category": "취미레저",
+     "hot": 7
     },
     {
      "start": "20:00",
@@ -18702,7 +18704,7 @@ window.SCHEDULE = {
      "pgm": "베베숲 고평량 인기 세트",
      "title": "휴대 증정+ 페이 할인",
      "category": "키즈",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -18714,8 +18716,7 @@ window.SCHEDULE = {
      "slot_id": "60384",
      "pgm": "킨드나나 라이브 특가!데일리",
      "title": "인기파자마&FW 신상 잠옷",
-     "category": "패션",
-     "hot": 7
+     "category": "패션"
     },
     {
      "start": "10:00",
@@ -18728,7 +18729,7 @@ window.SCHEDULE = {
      "pgm": "플로리아매트 특가 LIVE",
      "title": "[톡딜]최대 42% 즉시할인",
      "category": "키즈",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "11:30",
@@ -18752,7 +18753,8 @@ window.SCHEDULE = {
      "slot_id": "60375",
      "pgm": "극강의 고소함 실큰두부",
      "title": "상온 보관 멸균두부 특가",
-     "category": "식품"
+     "category": "식품",
+     "hot": 10
     },
     {
      "start": "20:30",
@@ -19780,8 +19782,8 @@ window.SCHEDULE = {
    "2026-10-03",
    "2026-10-04"
   ],
-  "matched": 13,
-  "unmatched": 5
+  "matched": 15,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
