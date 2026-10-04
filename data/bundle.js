@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-04T09:23:04+09:00",
+ "generated_at": "2026-10-04T11:27:16+09:00",
  "today": "2026-10-04",
  "dates": [
   "2026-10-03",
@@ -379,8 +379,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 막스마라 몽클레어 월 1만원대부터~",
-     "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 7
+     "pgm": "[재방] 투명쇼 (패션잡화)"
     },
     {
      "start": "07:00",
@@ -5858,8 +5857,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 6
+     "category": "테크"
     },
     {
      "start": "09:30",
@@ -18621,7 +18619,8 @@ window.SCHEDULE = {
      "slot_id": "60152",
      "pgm": "베베숲 고평량 인기 세트",
      "title": "휴대 증정+ 페이 할인",
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -18633,7 +18632,8 @@ window.SCHEDULE = {
      "slot_id": "60384",
      "pgm": "킨드나나 라이브 특가!데일리",
      "title": "인기파자마&FW 신상 잠옷",
-     "category": "패션"
+     "category": "패션",
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -18645,7 +18645,8 @@ window.SCHEDULE = {
      "slot_id": "60403",
      "pgm": "플로리아매트 특가 LIVE",
      "title": "[톡딜]최대 42% 즉시할인",
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 1
     },
     {
      "start": "11:30",
@@ -19697,7 +19698,7 @@ window.SCHEDULE = {
    "2026-10-03",
    "2026-10-04"
   ],
-  "matched": 10,
+  "matched": 11,
   "unmatched": 8
  },
  "fixed": {
