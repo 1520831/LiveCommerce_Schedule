@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-04T17:45:48+09:00",
+ "generated_at": "2026-10-04T18:19:24+09:00",
  "today": "2026-10-04",
  "dates": [
   "2026-10-03",
@@ -588,7 +588,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[명품특별전] 미우미우 안경테 월 9천원대 타임딜!",
-     "pgm": "[재방] 명품특별전 (노블레스)"
+     "pgm": "[재방] 명품특별전 (노블레스)",
+     "hot": 6
     },
     {
      "start": "19:00",
@@ -2038,7 +2039,7 @@ window.SCHEDULE = {
      "start": "18:00",
      "end": "18:59",
      "brand": "빌딘",
-     "product": "레몬버베나 애프터샷 다이어트 3+1개월 (30일분, 4BOX)",
+     "product": "레몬버베나 애프터샷 다이어트 4개월 (30일분, 4BOX)",
      "price": 548250,
      "link": "https://item.cjonstyle.com/item/2093453013?channelCode=30002002",
      "slot_id": "30182",
@@ -2215,7 +2216,7 @@ window.SCHEDULE = {
      "brand": "",
      "product": "다시보는 [티켓투더문 x 센스홍] 공구 특가! 최대 할인",
      "price": 0,
-     "link": "https://mlive.cjonstyle.com/m/preview/30229",
+     "link": "https://mlive.cjonstyle.com/m/mlc/main/30229",
      "slot_id": "30229",
      "title": "다시보는 [티켓투더문 x 센스홍] 공구 특가! 최대 할인",
      "pgm": "인플루언서LIVE",
@@ -2240,7 +2241,7 @@ window.SCHEDULE = {
      "end": "17:59",
      "brand": "에스까다",
      "product": "26FW 후드 숏 패딩 베스트 여성",
-     "price": 259000,
+     "price": 129000,
      "link": "https://item.cjonstyle.com/item/2092494267?channelCode=30002002",
      "slot_id": "30237",
      "title": "다시보는👀에스까다 피무베아 브랜드 선공개",
@@ -2259,7 +2260,8 @@ window.SCHEDULE = {
      "title": "다시보는 프라이 26FW 신상 방송 중에만 이 가격! 라이브쇼 최저가🤎",
      "pgm": "라이브쇼",
      "pgm_cd": "1008",
-     "category": "잡화·슈즈"
+     "category": "잡화·슈즈",
+     "hot": 4
     },
     {
      "start": "18:00",
@@ -4535,7 +4537,7 @@ window.SCHEDULE = {
      "end": "12:03",
      "brand": "리한",
      "product": "한국도자기리빙 리한 밥알이 붙지 않고 세워지는 오뚝이 롤리 주걱 1+1",
-     "price": 14900,
+     "price": 22900,
      "link": "https://shoppinglive.naver.com/livebridge/2047302",
      "slot_id": "2047302",
      "pgm": "[쁘띠리빙] 한국도자기 리한 최대 65% 단독 특가 LIVE",
@@ -5861,7 +5863,7 @@ window.SCHEDULE = {
     },
     {
      "start": "09:30",
-     "end": "",
+     "end": "10:33",
      "brand": "갤럭시",
      "product": "삼성 갤럭시 워치8 (강화유리 2매 패키지) 실버, 40mm, 블루투스",
      "price": 419000,
@@ -5974,7 +5976,7 @@ window.SCHEDULE = {
     },
     {
      "start": "09:30",
-     "end": "",
+     "end": "11:28",
      "brand": "갤럭시",
      "product": "삼성 갤럭시 워치9 강화유리 패키지 크림, 40mm, 블루투스",
      "price": 474100,
@@ -6072,7 +6074,7 @@ window.SCHEDULE = {
     },
     {
      "start": "10:00",
-     "end": "",
+     "end": "11:57",
      "brand": "JBL",
      "product": "삼성공식파트너 JBL BAR 1300 MK2 11.1.4채널 사운드바 홈시어터 TV스피커",
      "price": 1699000,
@@ -6144,7 +6146,7 @@ window.SCHEDULE = {
     },
     {
      "start": "10:00",
-     "end": "",
+     "end": "10:35",
      "brand": "ANF",
      "product": "[N배송] ANF 식스프리플러스 인도어 독 소고기&연어 5.6kg+캔 95gx1 강아지 대용량 사료 + 해양토이(랜덤) + 독 소고기&연어 샘플 40gx2개",
      "price": 49000,
@@ -6181,7 +6183,7 @@ window.SCHEDULE = {
     },
     {
      "start": "10:00",
-     "end": "",
+     "end": "10:32",
      "brand": "아레나",
      "product": "[아레나수영복] 리플 워터 남성 3부 A6BM1PM66BLK",
      "price": 62100,
@@ -6199,7 +6201,7 @@ window.SCHEDULE = {
     },
     {
      "start": "10:20",
-     "end": "",
+     "end": "12:18",
      "brand": "경동나비엔",
      "product": "경동나비엔 숙면 카본매트 EME650D 전기매트 AI케어 WIFI 싱글, 100x195cm, 아이보리",
      "price": 449000,
@@ -6225,7 +6227,7 @@ window.SCHEDULE = {
     },
     {
      "start": "11:00",
-     "end": "",
+     "end": "12:01",
      "brand": "코웨이",
      "product": "코웨이 정수기 아이콘 3 CHP-7220N 냉온정수기",
      "price": 2584800,
@@ -6274,7 +6276,7 @@ window.SCHEDULE = {
     },
     {
      "start": "11:00",
-     "end": "",
+     "end": "12:00",
      "brand": "워시콤보",
      "product": "LG 오브제컬렉션 워시콤보 미니워시 FH25WAX 올인원 세탁기 건조기 일체형 화이트",
      "price": 3488000,
@@ -6369,7 +6371,7 @@ window.SCHEDULE = {
     },
     {
      "start": "11:00",
-     "end": "",
+     "end": "13:00",
      "brand": "비스포크AI콤보",
      "product": "삼성 WD80H25BHB 비스포크 AI콤보 세탁25kg 건조18kg 26년형 일체형 1등급",
      "price": 3299000,
@@ -6407,12 +6409,11 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "12:00",
-     "end": "",
+     "end": "14:00",
      "brand": "삼성",
      "product": "삼성 비스포크 AI 키친핏 Max 냉장고 1등급 4도어 640리터 RM70H63R1A 코타화이트 2026년 신상품",
      "price": 2749000,
@@ -6481,7 +6482,7 @@ window.SCHEDULE = {
     },
     {
      "start": "12:30",
-     "end": "",
+     "end": "14:29",
      "brand": "갤럭시",
      "product": "삼성 갤럭시워치8 강화유리 패키지 실버, 40mm, 블루투스",
      "price": 419000,
@@ -6528,7 +6529,7 @@ window.SCHEDULE = {
     },
     {
      "start": "15:00",
-     "end": "",
+     "end": "16:00",
      "brand": "워시콤보",
      "product": "LG 오브제컬렉션 워시콤보 미니워시 FH25WAX 올인원 세탁기 건조기 일체형 화이트",
      "price": 3488000,
@@ -6623,7 +6624,7 @@ window.SCHEDULE = {
     },
     {
      "start": "15:00",
-     "end": "",
+     "end": "16:03",
      "brand": "CUCKOO",
      "product": "[가을 프로모션] 쿠쿠 인앤아웃 직수 정수기 CP-TS011WS",
      "price": 2512800,
@@ -8742,6 +8743,13 @@ window.SCHEDULE = {
       {},
       {},
       {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
       {}
      ],
      "category": "패션"
@@ -9297,6 +9305,11 @@ window.SCHEDULE = {
       {},
       {},
       {},
+      {},
+      {},
+      {},
+      {},
+      {},
       {}
      ],
      "category": "패션"
@@ -9418,6 +9431,39 @@ window.SCHEDULE = {
      "pgm": "듀엘 ♥2001분당 슈퍼원데이★슈퍼위크★최대 할인 특가 혜택 1탄!!",
      "title": "듀엘 슈퍼원데이 최저가 할인",
      "items": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
       {}
      ],
      "category": "패션"
@@ -9492,21 +9538,27 @@ window.SCHEDULE = {
      "pgm": "발렌시아🛒10월 5일 7시🍂가을 완판템 최대혜택🍂",
      "title": "FW 핫템 단독 라이브 특가",
      "items": [
-      {}
-     ],
-     "category": "패션"
-    },
-    {
-     "start": "19:00",
-     "end": "",
-     "brand": "JJ지고트",
-     "product": "JJ지고트 프린지 플레어 롱 원피스+자켓 세트 GRAA0OP_321",
-     "price": 229000,
-     "link": "https://shoppinglive.naver.com/livebridge/2039212",
-     "slot_id": "2039212",
-     "pgm": "NC강서 『JJ지고트』 셋업 하나로 코디 끝! 득템찬스",
-     "title": "🎁JJ지고트 라이브특가🎁",
-     "items": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
       {},
       {},
       {},
@@ -10309,6 +10361,31 @@ window.SCHEDULE = {
      "pgm": "🍂온앤온🍂10.5(월) 저녁 9시30분, 가을 완판 득템전🛒",
      "title": "🍂온앤온🍂완판템 다시만나",
      "items": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
       {}
      ],
      "category": "패션"
@@ -11762,7 +11839,7 @@ window.SCHEDULE = {
      "end": "",
      "brand": "헬스헬퍼",
      "product": "헬스헬퍼 맥스컷 프로 크롬 추성훈 다이어트 혈당 체지방 컷팅제 120캡슐, 5개",
-     "price": 162900,
+     "price": 172900,
      "link": "https://shoppinglive.naver.com/livebridge/2031894",
      "slot_id": "2031894",
      "pgm": "[헬시페스타] 맥스컷 LIVE🔴최대 67% 할인+선물 GET‼️",
@@ -13974,13 +14051,17 @@ window.SCHEDULE = {
      "start": "11:00",
      "end": "",
      "brand": "에고이스트",
-     "product": "[에고이스트] 아웃포켓 포인트 슬림핏 자켓 EQ3TJ300",
-     "price": 79600,
+     "product": "[에고이스트] 핸드메이드 토글 포인트 롱코트 EQ4WC960",
+     "price": 279200,
      "link": "https://shoppinglive.naver.com/livebridge/2038480",
      "slot_id": "2038480",
      "pgm": "NC야탑점『에고이스트』💛10/7(수),오전11시💛10월슈퍼위크💕",
      "title": "라이브진행시 더블쿠폰 증정!",
      "items": [
+      {},
+      {},
+      {},
+      {},
       {},
       {},
       {},
@@ -18612,7 +18693,7 @@ window.SCHEDULE = {
    "2026-10-04": [
     {
      "start": "10:00",
-     "end": "13:00",
+     "end": "11:21",
      "brand": "베베숲",
      "product": "[베베숲] 시그니처 위드블루 70매 캡 20팩+센시 휴대 4팩 외 베베숲 스테디셀러 모음",
      "price": 50990,
@@ -18625,7 +18706,7 @@ window.SCHEDULE = {
     },
     {
      "start": "10:00",
-     "end": "11:30",
+     "end": "11:20",
      "brand": "킨드나나",
      "product": "[킨드나나] 편하게 입는 킨드나나 인기 파자마&데일리 홈웨어 잠옷 100종",
      "price": 29800,
@@ -18634,11 +18715,11 @@ window.SCHEDULE = {
      "pgm": "킨드나나 라이브 특가!데일리",
      "title": "인기파자마&FW 신상 잠옷",
      "category": "패션",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "10:00",
-     "end": "11:30",
+     "end": "11:20",
      "brand": "플로리아",
      "product": "[시공비 무료] 플로리아 층간소음매트 시공 매트 TPU 거실 놀이방 아기 70x70x2.4cm",
      "price": 69000,
@@ -18651,7 +18732,7 @@ window.SCHEDULE = {
     },
     {
      "start": "11:30",
-     "end": "13:00",
+     "end": "12:31",
      "brand": "뉴베리프",
      "product": "뉴베리프 백합 리커버리 선크림 75ml SPF 50+ / PA++++",
      "price": 49000,
@@ -19054,7 +19135,7 @@ window.SCHEDULE = {
      "end": "22:00",
      "brand": "리쥬란 코스메틱",
      "product": "\"어른선물 추천\" c-PDRN 스킨 밸런싱 세트 (토너+에멀전+앰플 5mL*2)",
-     "price": 60000,
+     "price": 79000,
      "link": "https://gift.kakao.com/product/11903888?url=product&cId=11903888",
      "slot_id": "60316",
      "pgm": "리쥬란 환절기 스킨케어",
@@ -19683,11 +19764,11 @@ window.SCHEDULE = {
   }
  },
  "updated_at": {
-  "HD": "2026-10-04T09:22:10+09:00",
-  "CJ": "2026-10-04T09:22:16+09:00",
-  "NV": "2026-10-04T09:22:58+09:00",
+  "HD": "2026-10-04T18:18:25+09:00",
+  "CJ": "2026-10-04T18:18:31+09:00",
+  "NV": "2026-10-04T18:19:17+09:00",
   "GM": "2026-10-01T08:19:18+09:00",
-  "KA": "2026-10-04T09:22:22+09:00"
+  "KA": "2026-10-04T18:18:38+09:00"
  },
  "cast_kinds": [
   "celeb",
@@ -19699,8 +19780,8 @@ window.SCHEDULE = {
    "2026-10-03",
    "2026-10-04"
   ],
-  "matched": 12,
-  "unmatched": 6
+  "matched": 13,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
