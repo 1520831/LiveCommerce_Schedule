@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-10",
- "updated_at": "2026-10-04T23:41:10+09:00",
+ "updated_at": "2026-10-05T03:19:27+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -1232,14 +1232,14 @@
     "end": "12:59",
     "brand": "아이프리",
     "product": "프리미엄 전기식 보풀제거기 FX-500",
-    "price": 49900,
+    "price": 69000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2241219835",
     "slot_id": "202610046003",
     "items": [
      {
       "brand": "아이프리",
       "product": "프리미엄 전기식 보풀제거기 FX-500",
-      "price": 49900,
+      "price": 69000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2241219835"
      }
     ],
@@ -1500,14 +1500,14 @@
     "end": "09:59",
     "brand": "마쟈",
     "product": "트위스트 케이블 카라넥 니트 ZD11QK036NA",
-    "price": 69900,
+    "price": 29000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2222710264",
     "slot_id": "202610056002",
     "items": [
      {
       "brand": "마쟈",
       "product": "트위스트 케이블 카라넥 니트 ZD11QK036NA",
-      "price": 69900,
+      "price": 29000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2222710264"
      }
     ],
@@ -2165,6 +2165,25 @@
     "pgm": "투명쇼 (패션잡화)"
    },
    {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "리딩게이트",
+    "product": "온라인 영어 독서 프로그램 12개월 이용권",
+    "price": 197500,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248587828",
+    "slot_id": "202610076009",
+    "items": [
+     {
+      "brand": "리딩게이트",
+      "product": "온라인 영어 독서 프로그램 12개월 이용권",
+      "price": 197500,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248587828"
+     }
+    ],
+    "title": "[리딩게이트/하이도도] 영어 독서 교육의 정석!",
+    "pgm": "[리딩게이트] 독서교육 (렌탈)"
+   },
+   {
     "start": "12:00",
     "end": "12:59",
     "brand": "비티원후르츠",
@@ -2718,6 +2737,84 @@
     ],
     "title": "[플라스틱아일랜드] 다채로운 가을룩! 최대 60%",
     "pgm": "현대렐라쇼 (멀티커머스)"
+   }
+  ],
+  "2026-10-10": [
+   {
+    "start": "00:00",
+    "end": "00:59",
+    "brand": "버버리",
+    "product": "[버버리]5F 8107510 C1900 여성 퀼팅 나일론 자켓 블랙",
+    "price": 1180000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239542581",
+    "slot_id": "202610106015",
+    "items": [
+     {
+      "brand": "버버리",
+      "product": "[버버리]5F 8107510 C1900 여성 퀼팅 나일론 자켓 블랙",
+      "price": 1180000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239542581"
+     }
+    ],
+    "title": "[투명쇼] 막스마라 몽클레어 월 1만원대부터~",
+    "pgm": "[재방] 투명쇼 (패션잡화)"
+   },
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "유한킴벌리생활",
+    "product": "[좋은느낌] 오리지널 입는오버나이트 소/중/대/특대형 x4 +(증)입오버4P",
+    "price": 25400,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2149887056",
+    "slot_id": "202610106002",
+    "items": [
+     {
+      "brand": "유한킴벌리생활",
+      "product": "[좋은느낌] 오리지널 입는오버나이트 소/중/대/특대형 x4 +(증)입오버4P",
+      "price": 25400,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2149887056"
+     }
+    ],
+    "title": "[좋은느낌/화이트] BEST 생리대 쟁여두기 찬스♥️",
+    "pgm": "[집방] 좋은느낌 생리대 (액티브라이프)"
+   },
+   {
+    "start": "13:00",
+    "end": "14:59",
+    "brand": "큰뿌리인삼",
+    "product": "100% 풍기 인삼 300g 난발삼 세척삼 (영주소공인지원센터)",
+    "price": 35000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254013202",
+    "slot_id": "202610106005",
+    "items": [
+     {
+      "brand": "큰뿌리인삼",
+      "product": "100% 풍기 인삼 300g 난발삼 세척삼 (영주소공인지원센터)",
+      "price": 35000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254013202"
+     }
+    ],
+    "title": "[풍기인삼축제] 인삼축제 현장 생생하게 쇼라에서🔥🔥",
+    "pgm": "[스타일오브마인] 인삼 (쇼핑라이브)"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "아서앤그레이스",
+    "product": "샤를린 18 오닉스 블랙",
+    "price": 1560000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2203827020",
+    "slot_id": "202610106009",
+    "items": [
+     {
+      "brand": "아서앤그레이스",
+      "product": "샤를린 18 오닉스 블랙",
+      "price": 1560000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2203827020"
+     }
+    ],
+    "title": "[아서앤그레이스] 가방 장인들이 직접 만드는 명품 가방",
+    "pgm": "[아서앤그레이스] 가방/지갑 (패션잡화)"
    }
   ]
  }

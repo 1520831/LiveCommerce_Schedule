@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-10",
- "updated_at": "2026-10-04T23:41:22+09:00",
+ "updated_at": "2026-10-05T03:19:39+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -432,18 +432,6 @@
     "category": "키즈"
    },
    {
-    "start": "11:30",
-    "end": "12:31",
-    "brand": "뉴베리프",
-    "product": "뉴베리프 백합 리커버리 선크림 75ml SPF 50+ / PA++++",
-    "price": 49000,
-    "link": "https://store.kakao.com/neuvelif/products/587995257",
-    "slot_id": "60478",
-    "pgm": "뉴베리프 진정 3종",
-    "title": "리커버리선크림 외 카쇼라특가",
-    "category": "뷰티"
-   },
-   {
     "start": "19:00",
     "end": "20:24",
     "brand": "에스더블유코리아",
@@ -490,18 +478,6 @@
     "pgm": "에코따숨 파라핀 베스&왁스",
     "title": "앵콜 라이브 특가",
     "category": "리빙"
-   },
-   {
-    "start": "21:55",
-    "end": "22:29",
-    "brand": "터치그라운드 스니커즈",
-    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-    "price": 49900,
-    "link": "https://store.kakao.com/touchground/products/774098244",
-    "slot_id": "60777",
-    "pgm": "터치그라운드 쿠셔닝슬리퍼",
-    "title": "이렇게 편해도 되나요?",
-    "category": "패션"
    }
   ],
   "2026-10-05": [
@@ -618,7 +594,7 @@
     "end": "22:00",
     "brand": "주디앤",
     "product": "'편안하게 입기 좋은' 주디앤 FW 긴팔&피치기모 파자마 38종 균일가",
-    "price": 31900,
+    "price": 27900,
     "link": "https://gift.kakao.com/product/12766121?url=product&cId=12766121",
     "slot_id": "60298",
     "pgm": "주디앤 긴팔 파자마 OPEN",
@@ -823,9 +799,9 @@
     "start": "19:00",
     "end": "22:00",
     "brand": "헉슬리",
-    "product": "[1+1/총2개] 환절기 보습세트 (클렌징+크림)",
-    "price": 33000,
-    "link": "https://gift.kakao.com/product/12793213?url=product&cId=12793213",
+    "product": "헤어 샴푸 750mL 1+1 패키지",
+    "price": 48000,
+    "link": "https://gift.kakao.com/product/11793013?url=product&cId=11793013",
     "slot_id": "60186",
     "pgm": "환절기 대비 헉슬리 헤어바디",
     "title": "최저가+라이브중 전원 립밤",
@@ -836,7 +812,7 @@
     "end": "22:00",
     "brand": "리쥬란 코스메틱",
     "product": "\"어른선물 추천\" c-PDRN 스킨 밸런싱 세트 (토너+에멀전+앰플 5mL*2)",
-    "price": 79000,
+    "price": 59000,
     "link": "https://gift.kakao.com/product/11903888?url=product&cId=11903888",
     "slot_id": "60316",
     "pgm": "리쥬란 환절기 스킨케어",
@@ -982,7 +958,7 @@
     "end": "13:00",
     "brand": "빅토리아 슈즈",
     "product": "빅토리아슈즈 오다 메리제인 (104913-MARINO)",
-    "price": 79000,
+    "price": 49900,
     "link": "https://gift.kakao.com/product/4232897?url=product&cId=4232897",
     "slot_id": "60277",
     "pgm": "가을엔 빅토리아슈즈",
@@ -1211,8 +1187,8 @@
     "start": "08:30",
     "end": "11:30",
     "brand": "가쉬",
-    "product": "가쉬 노워시 10초 퀵 버블팩 80ml (+헤어핀&클렌저 3.3ml 3개 증정)",
-    "price": 32800,
+    "product": "[1개 골라담기] 가쉬 1위 10초버블팩 (탄력/미백/수분/진정/남성 5종 택1) (+헤어핀 증정)",
+    "price": 31600,
     "link": "https://gift.kakao.com/product/11668113?url=product&cId=11668113",
     "slot_id": "60345",
     "pgm": "선착순 가쉬 토너 9900원",
@@ -1459,6 +1435,56 @@
     "slot_id": "60715",
     "pgm": "바디프로젝트 골드라벨",
     "title": "엠머밀 파로 효소 카쇼라특가",
+    "category": "식품"
+   }
+  ],
+  "2026-10-10": [
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "이롬 공식스토어",
+    "product": "[이롬]국산약콩 무가당두유 190mlX32입,64입/국산콩 99.9두유190mlX16입,32입 외 9종 (옵션별 맛/수량선택)",
+    "price": 39900,
+    "link": "https://store.kakao.com/eromnatureon/products/240585506",
+    "slot_id": "60355",
+    "pgm": "이롬 10월 텐텐 특집!",
+    "title": "라이브 최대 ~58% 할인",
+    "category": "식품"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "쿠첸",
+    "product": "쿠첸 브레인 듀얼프레셔 IH 전기압력밥솥 6/10인",
+    "price": 499000,
+    "link": "https://store.kakao.com/cuchen/products/174453468",
+    "slot_id": "60771",
+    "pgm": "쿠첸 브랜드데이 60분 한정",
+    "title": "최다 판매 1위 밥솥 특가",
+    "category": "테크"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "청년상점",
+    "product": "(출고당일 갓버무린) 국산 전라도 포기김치 10kg",
+    "price": 34900,
+    "link": "https://store.kakao.com/youngstore/products/62881449",
+    "slot_id": "60422",
+    "pgm": "전라도 포기김치 10kg",
+    "title": "카쇼라특가 2만원대",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "BBQ 본사 직영",
+    "product": "[BBQ] 닭다리 직화 바베큐 치킨 550g (5개/1팩) x 3세트 외 골라담기",
+    "price": 53700,
+    "link": "https://store.kakao.com/15889282/products/628100592",
+    "slot_id": "60380",
+    "pgm": "BBQ 닭다리직화구이바베큐",
+    "title": "치킨 외 골라담기 57%할인",
     "category": "식품"
    }
   ]
