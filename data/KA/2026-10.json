@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-10",
- "updated_at": "2026-10-04T03:08:50+09:00",
+ "updated_at": "2026-10-04T09:22:22+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -793,6 +793,18 @@
     "slot_id": "60707",
     "pgm": "순수식품 흑도라지청 100포",
     "title": "가을맞이 톡딜~55%",
+    "category": "식품"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "만수동떡볶이만떡",
+    "product": "떡볶이 7가지맛 내맘대로 무료배송 300g 밀키트 만수동떡볶이 만떡",
+    "price": 6000,
+    "link": "https://store.kakao.com/mantteok/products/678920045",
+    "slot_id": "60815",
+    "pgm": "2800원 떡볶이 7가지맛",
+    "title": "6+1 7%할인혜택 무료배송",
     "category": "식품"
    },
    {

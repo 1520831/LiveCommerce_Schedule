@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-10",
- "updated_at": "2026-10-04T03:08:43+09:00",
+ "updated_at": "2026-10-04T09:22:16+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -867,15 +867,14 @@
    {
     "start": "12:00",
     "end": "12:59",
-    "brand": "티켓투더문",
-    "product": "[공식수입정품]  엑스스몰 백팩 6L 블랙",
-    "price": 52250,
-    "link": "https://item.cjonstyle.com/item/2081887994?channelCode=30002002",
+    "brand": "",
+    "product": "다시보는 [티켓투더문 x 센스홍] 공구 특가! 최대 할인",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/mlc/main/30228",
     "slot_id": "30228",
     "title": "다시보는 [티켓투더문 x 센스홍] 공구 특가! 최대 할인",
     "pgm": "인플루언서LIVE",
-    "pgm_cd": "1052",
-    "category": "잡화·슈즈"
+    "pgm_cd": "1052"
    },
    {
     "start": "15:55",
@@ -1076,15 +1075,14 @@
    {
     "start": "12:00",
     "end": "12:59",
-    "brand": "티켓투더문",
-    "product": "[공식수입정품]  엑스스몰 백팩 6L 블랙",
-    "price": 52250,
-    "link": "https://item.cjonstyle.com/item/2081887994?channelCode=30002002",
+    "brand": "",
+    "product": "다시보는 [티켓투더문 x 센스홍] 공구 특가! 최대 할인",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/30229",
     "slot_id": "30229",
     "title": "다시보는 [티켓투더문 x 센스홍] 공구 특가! 최대 할인",
     "pgm": "인플루언서LIVE",
-    "pgm_cd": "1052",
-    "category": "잡화·슈즈"
+    "pgm_cd": "1052"
    },
    {
     "start": "12:00",
@@ -1464,15 +1462,14 @@
    {
     "start": "20:00",
     "end": "20:59",
-    "brand": "티켓투더문",
-    "product": "[공식수입정품]  엑스스몰 백팩 6L 블랙",
-    "price": 52250,
-    "link": "https://item.cjonstyle.com/item/2081887994?channelCode=30002002",
+    "brand": "",
+    "product": "다시보는 [티켓투더문 x 센스홍] 공구 특가! 최대 할인",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/30257",
     "slot_id": "30257",
     "title": "다시보는 [티켓투더문 x 센스홍] 공구 특가! 최대 할인",
     "pgm": "인플루언서LIVE",
-    "pgm_cd": "1052",
-    "category": "잡화·슈즈"
+    "pgm_cd": "1052"
    },
    {
     "start": "21:00",

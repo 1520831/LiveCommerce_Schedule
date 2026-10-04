@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-04T09:20:33+09:00",
+ "generated_at": "2026-10-04T09:23:04+09:00",
  "today": "2026-10-04",
  "dates": [
   "2026-10-03",
@@ -1997,15 +1997,14 @@ window.SCHEDULE = {
     {
      "start": "12:00",
      "end": "12:59",
-     "brand": "티켓투더문",
-     "product": "[공식수입정품]  엑스스몰 백팩 6L 블랙",
-     "price": 52250,
-     "link": "https://item.cjonstyle.com/item/2081887994?channelCode=30002002",
+     "brand": "",
+     "product": "다시보는 [티켓투더문 x 센스홍] 공구 특가! 최대 할인",
+     "price": 0,
+     "link": "https://mlive.cjonstyle.com/m/mlc/main/30228",
      "slot_id": "30228",
      "title": "다시보는 [티켓투더문 x 센스홍] 공구 특가! 최대 할인",
      "pgm": "인플루언서LIVE",
      "pgm_cd": "1052",
-     "category": "잡화·슈즈",
      "cast": "influencer"
     },
     {
@@ -2214,15 +2213,14 @@ window.SCHEDULE = {
     {
      "start": "12:00",
      "end": "12:59",
-     "brand": "티켓투더문",
-     "product": "[공식수입정품]  엑스스몰 백팩 6L 블랙",
-     "price": 52250,
-     "link": "https://item.cjonstyle.com/item/2081887994?channelCode=30002002",
+     "brand": "",
+     "product": "다시보는 [티켓투더문 x 센스홍] 공구 특가! 최대 할인",
+     "price": 0,
+     "link": "https://mlive.cjonstyle.com/m/preview/30229",
      "slot_id": "30229",
      "title": "다시보는 [티켓투더문 x 센스홍] 공구 특가! 최대 할인",
      "pgm": "인플루언서LIVE",
      "pgm_cd": "1052",
-     "category": "잡화·슈즈",
      "cast": "influencer"
     },
     {
@@ -2609,15 +2607,14 @@ window.SCHEDULE = {
     {
      "start": "20:00",
      "end": "20:59",
-     "brand": "티켓투더문",
-     "product": "[공식수입정품]  엑스스몰 백팩 6L 블랙",
-     "price": 52250,
-     "link": "https://item.cjonstyle.com/item/2081887994?channelCode=30002002",
+     "brand": "",
+     "product": "다시보는 [티켓투더문 x 센스홍] 공구 특가! 최대 할인",
+     "price": 0,
+     "link": "https://mlive.cjonstyle.com/m/preview/30257",
      "slot_id": "30257",
      "title": "다시보는 [티켓투더문 x 센스홍] 공구 특가! 최대 할인",
      "pgm": "인플루언서LIVE",
      "pgm_cd": "1052",
-     "category": "잡화·슈즈",
      "cast": "influencer"
     },
     {
@@ -5654,7 +5651,7 @@ window.SCHEDULE = {
     },
     {
      "start": "03:20",
-     "end": "",
+     "end": "05:18",
      "brand": "갤럭시",
      "product": "삼성 갤럭시 워치9 강화유리 패키지 크림, 40mm, 블루투스",
      "price": 474100,
@@ -5752,7 +5749,7 @@ window.SCHEDULE = {
     },
     {
      "start": "07:20",
-     "end": "",
+     "end": "09:20",
      "brand": "갤럭시",
      "product": "삼성 갤럭시 워치8 (강화유리 2매 패키지) 실버, 40mm, 블루투스",
      "price": 419000,
@@ -19015,6 +19012,18 @@ window.SCHEDULE = {
      "category": "식품"
     },
     {
+     "start": "17:00",
+     "end": "18:30",
+     "brand": "만수동떡볶이만떡",
+     "product": "떡볶이 7가지맛 내맘대로 무료배송 300g 밀키트 만수동떡볶이 만떡",
+     "price": 6000,
+     "link": "https://store.kakao.com/mantteok/products/678920045",
+     "slot_id": "60815",
+     "pgm": "2800원 떡볶이 7가지맛",
+     "title": "6+1 7%할인혜택 무료배송",
+     "category": "식품"
+    },
+    {
      "start": "18:00",
      "end": "19:30",
      "brand": "비윗유",
@@ -19672,11 +19681,11 @@ window.SCHEDULE = {
   }
  },
  "updated_at": {
-  "HD": "2026-10-04T03:08:37+09:00",
-  "CJ": "2026-10-04T03:08:43+09:00",
-  "NV": "2026-10-04T03:09:24+09:00",
+  "HD": "2026-10-04T09:22:10+09:00",
+  "CJ": "2026-10-04T09:22:16+09:00",
+  "NV": "2026-10-04T09:22:58+09:00",
   "GM": "2026-10-01T08:19:18+09:00",
-  "KA": "2026-10-04T03:08:50+09:00"
+  "KA": "2026-10-04T09:22:22+09:00"
  },
  "cast_kinds": [
   "celeb",
