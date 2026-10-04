@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-10",
- "updated_at": "2026-10-04T18:18:25+09:00",
+ "updated_at": "2026-10-04T23:41:10+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -1919,14 +1919,14 @@
     "start": "14:00",
     "end": "14:59",
     "brand": "원오오",
-    "product": "(약국/클리닉 전용) 100시간 클리닉 스킨케어 2종 세트",
+    "product": "100시간 스킨케어 2종 세트",
     "price": 74000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254025541",
     "slot_id": "202610066008",
     "items": [
      {
       "brand": "원오오",
-      "product": "(약국/클리닉 전용) 100시간 클리닉 스킨케어 2종 세트",
+      "product": "100시간 스킨케어 2종 세트",
       "price": 74000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254025541"
      }
@@ -2591,14 +2591,14 @@
     "end": "08:59",
     "brand": "비지트인뉴욕",
     "product": "정통 트렌치코트 (VC9BB70) VC9BB70",
-    "price": 199000,
+    "price": 149200,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253277314",
     "slot_id": "202610096001",
     "items": [
      {
       "brand": "비지트인뉴욕",
       "product": "정통 트렌치코트 (VC9BB70) VC9BB70",
-      "price": 199000,
+      "price": 149200,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253277314"
      }
     ],
