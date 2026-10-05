@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-05T09:24:58+09:00",
+ "generated_at": "2026-10-05T09:28:17+09:00",
  "today": "2026-10-05",
  "dates": [
   "2026-10-04",
@@ -1958,9 +1958,9 @@ window.SCHEDULE = {
      "start": "09:00",
      "end": "09:59",
      "brand": "르포엠",
-     "product": "에셀 세미 와이드 팬츠",
-     "price": 12900,
-     "link": "https://item.cjonstyle.com/item/2076376377?channelCode=30002002",
+     "product": "디에나 듀얼 소프트 카라 가디건",
+     "price": 11900,
+     "link": "https://item.cjonstyle.com/item/2094773614?channelCode=30002002",
      "slot_id": "30245",
      "title": "다시보는 르포엠🤎 FW CJ단독 특가! 9,900원~",
      "pgm": "라이브쇼",
@@ -4521,7 +4521,7 @@ window.SCHEDULE = {
      "end": "21:02",
      "brand": "알투지(R2G)",
      "product": "알투지 메이트 미니 블랙 삼각측정 레이저 골프 거리측정기",
-     "price": 179000,
+     "price": 198990,
      "link": "https://shoppinglive.naver.com/livebridge/2048880",
      "slot_id": "2048880",
      "pgm": "[레저부스터] 골프존마켓 단독 UP TO 56% SALE",
@@ -5124,7 +5124,7 @@ window.SCHEDULE = {
     },
     {
      "start": "03:20",
-     "end": "",
+     "end": "05:18",
      "brand": "갤럭시",
      "product": "삼성 갤럭시 워치9 강화유리 패키지 크림, 40mm, 블루투스",
      "price": 474100,
@@ -5222,7 +5222,7 @@ window.SCHEDULE = {
     },
     {
      "start": "08:00",
-     "end": "",
+     "end": "09:00",
      "brand": "워시콤보",
      "product": "LG 오브제컬렉션 워시콤보 미니워시 FH25WAX 올인원 세탁기 건조기 일체형 화이트",
      "price": 3488000,
@@ -18186,11 +18186,11 @@ window.SCHEDULE = {
   }
  },
  "updated_at": {
-  "HD": "2026-10-05T03:19:27+09:00",
-  "CJ": "2026-10-05T03:19:33+09:00",
-  "NV": "2026-10-05T03:20:25+09:00",
+  "HD": "2026-10-05T09:27:03+09:00",
+  "CJ": "2026-10-05T09:27:09+09:00",
+  "NV": "2026-10-05T09:28:11+09:00",
   "GM": "2026-10-01T08:19:18+09:00",
-  "KA": "2026-10-05T03:19:39+09:00"
+  "KA": "2026-10-05T09:27:16+09:00"
  },
  "cast_kinds": [
   "celeb",
