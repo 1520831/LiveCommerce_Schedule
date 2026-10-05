@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-05T09:28:17+09:00",
+ "generated_at": "2026-10-05T10:44:32+09:00",
  "today": "2026-10-05",
  "dates": [
   "2026-10-04",
@@ -360,7 +360,7 @@ window.SCHEDULE = {
      ],
      "title": "[라클라우드] 모션 매트리스 단독 조건",
      "pgm": "[재방] 라클라우드 침대 (렌탈)",
-     "hot": 2
+     "hot": 5
     },
     {
      "start": "07:00",
@@ -399,7 +399,7 @@ window.SCHEDULE = {
      ],
      "title": "써스데이아일랜드 가을 신상 원피스 OPEN!",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 1
+     "hot": 4
     },
     {
      "start": "09:00",
@@ -418,7 +418,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[마쟈] 여성스러운 실루엣, 감각적인 가을룩🩷",
-     "pgm": "[마쟈] 여성의류 (멀티커머스)"
+     "pgm": "[마쟈] 여성의류 (멀티커머스)",
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -437,7 +438,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 막스마라 월 1만원대 60개월 무이자",
-     "pgm": "투명쇼 (패션잡화)"
+     "pgm": "투명쇼 (패션잡화)",
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -5314,7 +5316,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 7
     },
     {
      "start": "09:30",
@@ -5752,7 +5754,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -5858,7 +5861,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -17198,7 +17202,8 @@ window.SCHEDULE = {
      "slot_id": "60176",
      "pgm": "환절기 헤어케어 헤어플러스",
      "title": "~77%+NEW 헤어마스크!",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 2
     },
     {
      "start": "11:30",
@@ -18202,8 +18207,8 @@ window.SCHEDULE = {
    "2026-10-04",
    "2026-10-05"
   ],
-  "matched": 10,
-  "unmatched": 7
+  "matched": 15,
+  "unmatched": 3
  },
  "fixed": {
   "rows": [
