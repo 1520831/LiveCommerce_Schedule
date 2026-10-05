@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-10",
- "updated_at": "2026-10-05T18:59:37+09:00",
+ "updated_at": "2026-10-06T03:04:19+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -1500,14 +1500,14 @@
     "end": "09:59",
     "brand": "마쟈",
     "product": "트위스트 케이블 카라넥 니트 ZD11QK036NA",
-    "price": 29000,
+    "price": 69900,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2222710264",
     "slot_id": "202610056002",
     "items": [
      {
       "brand": "마쟈",
       "product": "트위스트 케이블 카라넥 니트 ZD11QK036NA",
-      "price": 29000,
+      "price": 69900,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2222710264"
      }
     ],
@@ -1650,17 +1650,17 @@
    {
     "start": "17:00",
     "end": "17:59",
-    "brand": "",
-    "product": "[메르시] Merci 라지 토트백 네이비/레드/데님",
-    "price": 105000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253923483",
+    "brand": "롤랑 드 드뢰이",
+    "product": "레이스 미니 토트백",
+    "price": 109000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252823349",
     "slot_id": "202610056010",
     "items": [
      {
-      "brand": "",
-      "product": "[메르시] Merci 라지 토트백 네이비/레드/데님",
-      "price": 105000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253923483"
+      "brand": "롤랑 드 드뢰이",
+      "product": "레이스 미니 토트백",
+      "price": 109000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252823349"
      }
     ],
     "title": "[메르시] 프랑스 핸드백 신상 공개",
@@ -1863,14 +1863,14 @@
     "end": "11:59",
     "brand": "도노도노",
     "product": "맘마존 아기 이유식의자 하이체어+쿠션 세트",
-    "price": 269000,
+    "price": 229000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2202126864",
     "slot_id": "202610066005",
     "items": [
      {
       "brand": "도노도노",
       "product": "맘마존 아기 이유식의자 하이체어+쿠션 세트",
-      "price": 269000,
+      "price": 229000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2202126864"
      }
     ],
@@ -1977,14 +1977,14 @@
     "end": "17:59",
     "brand": "쿠쿠",
     "product": "6인용 IH전기압력밥솥 그레이스 화이트 CRP-DHPNL0615FGW",
-    "price": 298000,
+    "price": 280000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2246627785",
     "slot_id": "202610066011",
     "items": [
      {
       "brand": "쿠쿠",
       "product": "6인용 IH전기압력밥솥 그레이스 화이트 CRP-DHPNL0615FGW",
-      "price": 298000,
+      "price": 280000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2246627785"
      }
     ],
@@ -2014,15 +2014,15 @@
     "start": "19:00",
     "end": "19:59",
     "brand": "로보락",
-    "product": "로보락 S10 MaxV Ultra 로봇청소기 화이트",
-    "price": 1740000,
+    "product": "S10 MaxV Ultra 로봇청소기 화이트",
+    "price": 1890000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247738342",
     "slot_id": "202610066013",
     "items": [
      {
       "brand": "로보락",
-      "product": "로보락 S10 MaxV Ultra 로봇청소기 화이트",
-      "price": 1740000,
+      "product": "S10 MaxV Ultra 로봇청소기 화이트",
+      "price": 1890000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247738342"
      }
     ],
@@ -2815,6 +2815,65 @@
     ],
     "title": "[아서앤그레이스] 가방 장인들이 직접 만드는 명품 가방",
     "pgm": "[아서앤그레이스] 가방/지갑 (패션잡화)"
+   }
+  ],
+  "2026-10-11": [
+   {
+    "start": "00:00",
+    "end": "00:59",
+    "brand": "버버리",
+    "product": "[버버리]6S 8107465 C1900 올드햄 여성 퀼팅 크롭 자켓 블랙",
+    "price": 1700000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247564867",
+    "slot_id": "202610116012",
+    "items": [
+     {
+      "brand": "버버리",
+      "product": "[버버리]6S 8107465 C1900 올드햄 여성 퀼팅 크롭 자켓 블랙",
+      "price": 1700000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247564867"
+     }
+    ],
+    "title": "[투명쇼] 막스마라 코트 월 1만원대",
+    "pgm": "[재방] 투명쇼 (패션잡화)"
+   },
+   {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "유로룩스",
+    "product": "베어쿡 라이스쿠커 16cm+24cm 양수냄비",
+    "price": 150000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253924573",
+    "slot_id": "202610116015",
+    "items": [
+     {
+      "brand": "유로룩스",
+      "product": "베어쿡 라이스쿠커 16cm+24cm 양수냄비",
+      "price": 150000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253924573"
+     }
+    ],
+    "title": "[유로룩스] 독일 프리미엄 브랜드, 베어쿡 특별구성",
+    "pgm": "[재방] 유로룩스 (가전)"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "똘똘한쇼",
+    "product": "명동칼국수 김치 3인 세트(면500g+소스3개+마늘김치1kg)",
+    "price": 23900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251994867",
+    "slot_id": "202610116007",
+    "items": [
+     {
+      "brand": "똘똘한쇼",
+      "product": "명동칼국수 김치 3인 세트(면500g+소스3개+마늘김치1kg)",
+      "price": 23900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251994867"
+     }
+    ],
+    "title": "MD픽 맛집, 집에서 즐기는 명동칼국수",
+    "pgm": "[명동칼국수] 칼국수/김치 (일반식품1)"
    }
   ]
  }
