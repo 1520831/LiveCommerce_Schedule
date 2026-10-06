@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-10",
- "updated_at": "2026-10-06T06:36:45+09:00",
+ "updated_at": "2026-10-06T11:04:42+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -558,7 +558,7 @@
     "end": "21:30",
     "brand": "주디앤",
     "product": "'편안하게 입기 좋은' 주디앤 FW 긴팔&피치기모 파자마 38종 균일가",
-    "price": 27900,
+    "price": 31900,
     "link": "https://gift.kakao.com/product/12766121?url=product&cId=12766121",
     "slot_id": "60298",
     "pgm": "주디앤 긴팔 파자마 OPEN",
@@ -593,7 +593,7 @@
   "2026-10-06": [
    {
     "start": "08:30",
-    "end": "10:00",
+    "end": "09:50",
     "brand": "아토팜",
     "product": "[1+1] 아토팜 가을필수템 MLE 외 보습/워시/선케어/키즈 BEST+대용량 키트 증정",
     "price": 76000,
@@ -605,7 +605,7 @@
    },
    {
     "start": "08:30",
-    "end": "11:30",
+    "end": "09:51",
     "brand": "아로마티카",
     "product": "[2개 세트] 유기농 100% 골든 호호바 오일+베이비 돌고래 괄사 (+로즈마리 탄력크림2개&스카프 증정)",
     "price": 54600,
@@ -617,11 +617,11 @@
    },
    {
     "start": "08:30",
-    "end": "11:30",
+    "end": "09:51",
     "brand": "비오템",
-    "product": "[임산부 튼살크림] 비오템 비오베르제뛰르 튼살크림 150ml",
-    "price": 67000,
-    "link": "https://gift.kakao.com/product/1223034?url=product&cId=1223034",
+    "product": "[임산부 튼살크림] 비오템 비오베르제뛰르 튼살크림 400ml 세트 (+레꼬포렐 바디밀크 200ml 증정)",
+    "price": 83200,
+    "link": "https://gift.kakao.com/product/1247807?url=product&cId=1247807",
     "slot_id": "60267",
     "pgm": "임산부 튼살크림 비오템!",
     "title": "라이브중~20%+전구매사은품",
@@ -629,7 +629,7 @@
    },
    {
     "start": "08:30",
-    "end": "11:30",
+    "end": "09:52",
     "brand": "미샤공식스토어",
     "product": "[집중 탄력/1+1] 미샤 타임레볼루션 나이트리페어 앰플5X(5세대) 70ml",
     "price": 35200,
@@ -653,7 +653,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:01",
     "brand": "나무팩토리",
     "product": "[콧볼브러쉬] 모공 속 노폐물까지 딥-클렌징! 듀얼브러쉬 고주파 진동클렌저",
     "price": 29900,
@@ -688,8 +688,8 @@
     "category": "리빙"
    },
    {
-    "start": "14:30",
-    "end": "16:00",
+    "start": "10:30",
+    "end": "10:47",
     "brand": "신선하랑",
     "product": "[2세트 구매시 1kg 추가발송] 26년 첫 출하 제주 극조생감귤 4.5kg 실중량 소과/로얄과/대과",
     "price": 40000,
@@ -697,6 +697,18 @@
     "slot_id": "60721",
     "pgm": "제주 직송 상큼한 극조생감귤",
     "title": "4-5kg 10900원",
+    "category": "식품"
+   },
+   {
+    "start": "14:30",
+    "end": "16:00",
+    "brand": "닥터안스에그",
+    "product": "[닥터안스에그] 무항생제 인증 수의사 계란 햇달걀/대란/특란 (30구+30구)",
+    "price": 27000,
+    "link": "https://store.kakao.com/ahnilfarm/products/145039582",
+    "slot_id": "60821",
+    "pgm": "[30구 + 30구]",
+    "title": "닥터안스에그 무항생제 특가전",
     "category": "식품"
    },
    {
@@ -780,16 +792,16 @@
     "link": "https://gift.kakao.com/product/14353372?url=product&cId=14353372",
     "slot_id": "60383",
     "pgm": "무무키 첫 카카오쇼핑라이브!",
-    "title": "5만원 이상 진액 마스크팩",
+    "title": "쿠폰+10% 적립까지",
     "category": "리빙"
    },
    {
     "start": "19:00",
     "end": "20:30",
     "brand": "헤라",
-    "product": "[NEW컬러/각인] 센슈얼 틴티드 샤인 스틱",
-    "price": 36000,
-    "link": "https://gift.kakao.com/product/11151233?url=product&cId=11151233",
+    "product": "[7일한정/각인] 센슈얼 누드 밤 (+센티드 핸드크림 30ml 증정)",
+    "price": 33200,
+    "link": "https://gift.kakao.com/product/14371252?url=product&cId=14371252",
     "slot_id": "60621",
     "pgm": "헤라 립&쿠션/파데",
     "title": "원데이 최대~18%+증정",
@@ -851,8 +863,8 @@
     "price": 300000,
     "link": "https://store.kakao.com/headspa7/products/59242033",
     "slot_id": "60464",
-    "pgm": "헤드스파7 최대 80% +",
-    "title": "카쇼라 한정 추가 혜택",
+    "pgm": "헤드스파7 환절기 헤어케어",
+    "title": "트리트먼트/샴푸 최대 80%",
     "category": "뷰티"
    },
    {
@@ -1284,7 +1296,7 @@
     "end": "22:00",
     "brand": "풀무원가전",
     "product": "(리뷰시 하드필터 증정) 풀무원 그린더 에어드라이 열풍건조 음식물처리기 3L FD25FWWS",
-    "price": 489000,
+    "price": 299000,
     "link": "https://store.kakao.com/pulmuone/products/742359974",
     "slot_id": "60446",
     "pgm": "풀무원 음처기 초특가 라이브",
@@ -1395,7 +1407,7 @@
     "start": "11:30",
     "end": "13:00",
     "brand": "이롬 공식스토어",
-    "product": "[이롬]국산약콩 무가당두유 190mlX32입,64입/국산콩 99.9두유190mlX16입,32입 외 9종 (옵션별 맛/수량선택)",
+    "product": "[이롬]국산약콩 무가당두유 190mlX32입,64입/국산콩 99.9두유190mlX32입,64입 외 9종 (옵션별 맛/수량선택)",
     "price": 39900,
     "link": "https://store.kakao.com/eromnatureon/products/240585506",
     "slot_id": "60355",
@@ -1408,7 +1420,7 @@
     "end": "13:00",
     "brand": "쿠첸",
     "product": "쿠첸 브레인 듀얼프레셔 IH 전기압력밥솥 6/10인",
-    "price": 499000,
+    "price": 249000,
     "link": "https://store.kakao.com/cuchen/products/174453468",
     "slot_id": "60771",
     "pgm": "쿠첸 브랜드데이 60분 한정",
