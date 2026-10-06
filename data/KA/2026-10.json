@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-10",
- "updated_at": "2026-10-06T11:04:42+09:00",
+ "updated_at": "2026-10-06T18:45:38+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -641,7 +641,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:03",
     "brand": "펠드아포테케",
     "product": "펠드아포테케 에어리 수분 선크림 듀오 SET (37ml X 2)",
     "price": 64000,
@@ -665,7 +665,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:00",
     "brand": "JSOOP 제이숲",
     "product": "[제이숲]브랜드데이 특가 환절기 모발/새치/스킨케어 외 1+1",
     "price": 72000,
@@ -677,7 +677,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:00",
     "brand": "신일전자 온라인스토어",
     "product": "신일 전기히터 2IN1 카본 탄소발열 히터 온풍기",
     "price": 198000,
@@ -701,7 +701,7 @@
    },
    {
     "start": "14:30",
-    "end": "16:00",
+    "end": "15:30",
     "brand": "닥터안스에그",
     "product": "[닥터안스에그] 무항생제 인증 수의사 계란 햇달걀/대란/특란 (30구+30구)",
     "price": 27000,
@@ -713,7 +713,7 @@
    },
    {
     "start": "17:00",
-    "end": "18:30",
+    "end": "18:00",
     "brand": "명태잡는날",
     "product": "청양고추 명란 비밥장 150g, 400g 외 멸치 분란 비빔장 땡초장 다진고추 반찬",
     "price": 19900,
@@ -725,10 +725,10 @@
    },
    {
     "start": "17:00",
-    "end": "18:30",
+    "end": "18:00",
     "brand": "순수식품",
     "product": "순수식품 흑도라지 배 생강청 1박스(100포) 스틱 도라지배즙 배도라지청 외 홍삼100포/홍삼 선물세트",
-    "price": 21900,
+    "price": 40000,
     "link": "https://store.kakao.com/soonsoofood/products/61504307",
     "slot_id": "60707",
     "pgm": "순수식품 흑도라지청 100포",
@@ -736,23 +736,11 @@
     "category": "식품"
    },
    {
-    "start": "17:00",
-    "end": "18:30",
-    "brand": "만수동떡볶이만떡",
-    "product": "떡볶이 7가지맛 내맘대로 무료배송 300g 밀키트 만수동떡볶이 만떡",
-    "price": 6000,
-    "link": "https://store.kakao.com/mantteok/products/678920045",
-    "slot_id": "60815",
-    "pgm": "2800원 떡볶이 7가지맛",
-    "title": "6+1 7%할인혜택 무료배송",
-    "category": "식품"
-   },
-   {
     "start": "18:00",
     "end": "19:30",
     "brand": "비윗유",
     "product": "늘 곁에 두는 프로폴리스!! 비윗유 호주 천연 마누카꿀 프로폴리스 캔디 90g + 캔디 36g 무료증정",
-    "price": 19800,
+    "price": 29900,
     "link": "https://store.kakao.com/beewithyou/products/260684065",
     "slot_id": "60723",
     "pgm": "늘 곁에 두는 프로폴리스!",
@@ -806,6 +794,18 @@
     "pgm": "헤라 립&쿠션/파데",
     "title": "원데이 최대~18%+증정",
     "category": "뷰티"
+   },
+   {
+    "start": "19:10",
+    "end": "20:40",
+    "brand": "단디잇",
+    "product": "83만 요리유튜버가 만든 밥도둑 매콤찬 고추다짐이 250g",
+    "price": 33800,
+    "link": "https://store.kakao.com/dandiit/products/738640799",
+    "slot_id": "60869",
+    "pgm": "매콤찬 고추다짐이",
+    "title": "카쇼라 브랜드데이",
+    "category": "식품"
    },
    {
     "start": "20:00",
@@ -885,11 +885,11 @@
     "start": "08:30",
     "end": "11:30",
     "brand": "성분에디터 공식 스토어",
-    "product": "[성분에디터] 실크펩타이드 EGF 리프팅앰플 40ml 2개 + 추가 10ml",
+    "product": "[성분에디터] 1,388배 더 강력해진 녹는실 리프팅! 실크펩타이드 EGF 볼륨 리프팅 앰플 선착순특가 + 사은품 추가 증정!",
     "price": 90000,
     "link": "https://store.kakao.com/sungboon/products/162871472",
     "slot_id": "60344",
-    "pgm": "성분에디터 실크앰플~88%",
+    "pgm": "성분에디터 실크앰플~79%",
     "title": "전 구매 앰플 5회분 증정",
     "category": "뷰티"
    },
@@ -978,11 +978,23 @@
     "category": "식품"
    },
    {
+    "start": "11:00",
+    "end": "12:30",
+    "brand": "퓨어잇",
+    "product": "퓨어잇 유기농 떡뻥 쌀과자 과일칩 외 골라담기",
+    "price": 7900,
+    "link": "https://store.kakao.com/pureat/products/59795729",
+    "slot_id": "60862",
+    "pgm": "[가을맞이 무배데이]",
+    "title": "아이간식 라이브 특가!",
+    "category": "키즈"
+   },
+   {
     "start": "11:30",
     "end": "13:00",
     "brand": "헤이미니",
     "product": "[헤이미니] 가을 신상 등원룩 카카오 특가 모음 (상하복/샤원피스/패딩점퍼/맨투맨/바지/레깅스)",
-    "price": 9900,
+    "price": 79900,
     "link": "https://store.kakao.com/hejmini/products/293421715",
     "slot_id": "60274",
     "pgm": "헤이미니 가을 신학기전",
@@ -1006,7 +1018,7 @@
     "end": "13:00",
     "brand": "청년상점",
     "product": "신품종 제주직송 유라 그린향 감귤 2kg 로얄과 / 2개구매시 실중량 5kg발송",
-    "price": 11900,
+    "price": 25900,
     "link": "https://store.kakao.com/youngstore/products/611699683",
     "slot_id": "60697",
     "pgm": "유라감귤 2kg 9900원",
@@ -1047,6 +1059,29 @@
     "slot_id": "60461",
     "pgm": "씨몬스터 개별포장 순살생선",
     "title": "5팩 골라담기 특가 라이브!",
+    "category": "식품"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "만수동떡볶이만떡",
+    "product": "떡볶이 7가지맛 내맘대로 무료배송 300g 밀키트 만수동떡볶이 만떡",
+    "price": 6000,
+    "link": "https://store.kakao.com/mantteok/products/678920045",
+    "slot_id": "60815",
+    "pgm": "2800원 떡볶이 7가지맛",
+    "title": "6+1 7%할인혜택 무료배송",
+    "category": "식품"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "시골내음",
+    "product": "맑은 빛깔의 물없이 착즙한 맛있는 양배추즙 30팩 1박스 국내산 양배추100%",
+    "price": 21500,
+    "link": "https://store.kakao.com/sigolmall/products/735744969",
+    "slot_id": "60860",
+    "pgm": "양배추즙 사과즙 보러오세요!",
     "category": "식품"
    },
    {
@@ -1101,7 +1136,7 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "페이지플린",
-    "product": "[페이지플린] 어텀픽! 가을취향 저격전, 니트/가디건/블라우스/셔츠/팬츠/스커트/셋업 외 100종",
+    "product": "[무료반품][페이지플린] 어텀픽! 가을취향 저격전, 니트/가디건/블라우스/셔츠/팬츠/스커트/셋업 외 100종",
     "price": 104000,
     "link": "https://store.kakao.com/paigeflynn/products/778551539",
     "slot_id": "60320",
@@ -1132,6 +1167,18 @@
     "pgm": "테팔 특가 라이브",
     "title": "핫한 주방템 다 모았다!",
     "category": "테크"
+   },
+   {
+    "start": "22:30",
+    "end": "00:00",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49900,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "60850",
+    "pgm": "터치그라운드 발편한운동화",
+    "title": "가벼우면서 쿠션감 좋은운동화",
+    "category": "패션"
    }
   ],
   "2026-10-08": [
@@ -1151,9 +1198,9 @@
     "start": "08:30",
     "end": "11:30",
     "brand": "가쉬",
-    "product": "[1개 골라담기] 가쉬 1위 10초버블팩 (탄력/미백/수분/진정/남성 5종 택1) (+헤어핀 증정)",
-    "price": 31600,
-    "link": "https://gift.kakao.com/product/11668113?url=product&cId=11668113",
+    "product": "[4개 골라담기] 가쉬 1위 10초버블팩 (탄력/미백/수분/진정/남성 5종 택4) (+헤어핀 증정)",
+    "price": 114800,
+    "link": "https://gift.kakao.com/product/12782094?url=product&cId=12782094",
     "slot_id": "60345",
     "pgm": "선착순 가쉬 토너 9900원",
     "title": "전구매 LED 손거울 증정",
@@ -1164,7 +1211,7 @@
     "end": "11:30",
     "brand": "샘표 공식 스토어",
     "product": "차오차이 짜장/마파/짬뽕/마라탕 3+3+3 골라담기(+2개 증정)",
-    "price": 19900,
+    "price": 35900,
     "link": "https://store.kakao.com/semiemarket/products/344194955",
     "slot_id": "60086",
     "pgm": "취향대로 골라먹는 차오차이",
@@ -1212,7 +1259,7 @@
     "end": "13:00",
     "brand": "우아한에프앤비",
     "product": "70년전통 국내산간장게장 우아한게장 2인분+2인분",
-    "price": 43800,
+    "price": 53800,
     "link": "https://store.kakao.com/wooahancrab/products/749416574",
     "slot_id": "60543",
     "pgm": "[1+1특가] 70년 전통!",
@@ -1224,7 +1271,7 @@
     "end": "18:30",
     "brand": "리상회",
     "product": "리상회 촉촉 페스츄리 오징어 외 맥주안주 모음전",
-    "price": 11900,
+    "price": 12900,
     "link": "https://store.kakao.com/resanghoe/products/487340503",
     "slot_id": "60548",
     "pgm": "리상회 카쇼라 라이브!",
@@ -1302,6 +1349,18 @@
     "pgm": "풀무원 음처기 초특가 라이브",
     "title": "~41%+멀티스티머 증정",
     "category": "테크"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "(주)상상그램",
+    "product": "대성 국내생산 THE 프리미엄 전자파 없는 빨아쓰는 탄소 카본매트",
+    "price": 289000,
+    "link": "https://store.kakao.com/sangsangstore/products/411649763",
+    "slot_id": "60848",
+    "pgm": "대성셀틱 프리미엄 카본매트",
+    "title": "77년의 보일러기술을 담다",
+    "category": "테크"
    }
   ],
   "2026-10-09": [
@@ -1340,6 +1399,18 @@
     "pgm": "듀오덤 스팟패치+습윤밴드",
     "title": "~70%할인+사은품 증정까지",
     "category": "리빙"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "필터포유",
+    "product": "LG엘지 코드제로 / 삼성 제트 청소기소모품 모음전",
+    "price": 129000,
+    "link": "https://store.kakao.com/filter4u/products/351013025",
+    "slot_id": "60853",
+    "pgm": "LG코드제로/삼성배터리소모품",
+    "title": "성능은UP!가격은DOWN!",
+    "category": "테크"
    },
    {
     "start": "19:00",
@@ -1404,8 +1475,8 @@
   ],
   "2026-10-10": [
    {
-    "start": "11:30",
-    "end": "13:00",
+    "start": "10:00",
+    "end": "11:30",
     "brand": "이롬 공식스토어",
     "product": "[이롬]국산약콩 무가당두유 190mlX32입,64입/국산콩 99.9두유190mlX32입,64입 외 9종 (옵션별 맛/수량선택)",
     "price": 39900,
@@ -1414,6 +1485,17 @@
     "pgm": "이롬 10월 텐텐 특집!",
     "title": "라이브 최대 ~58% 할인",
     "category": "식품"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "브라운공식스토어",
+    "product": "[BRAUN] 브라운 전기면도기 시리즈9 PRO+ 울트라 씬 세척&충전스테이션 전용 날망 번들 에디션",
+    "price": 399000,
+    "link": "https://store.kakao.com/braunoralb/products/785234938",
+    "slot_id": "60836",
+    "pgm": "브라운 울트라씬 라이브",
+    "category": "뷰티"
    },
    {
     "start": "11:30",
@@ -1425,6 +1507,18 @@
     "slot_id": "60771",
     "pgm": "쿠첸 브랜드데이 60분 한정",
     "title": "최다 판매 1위 밥솥 특가",
+    "category": "테크"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "감성전자",
+    "product": "한일의료기 국내생산 프리미엄 탄소매트 모음전 (KC인증)",
+    "price": 99000,
+    "link": "https://store.kakao.com/gamsunge/products/418368107",
+    "slot_id": "60855",
+    "pgm": "한일의료기 감사전",
+    "title": "80%할인특가",
     "category": "테크"
    },
    {
@@ -1450,6 +1544,30 @@
     "pgm": "BBQ 닭다리직화구이바베큐",
     "title": "치킨 외 골라담기 57%할인",
     "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "JSOOP 제이숲",
+    "product": "[제이숲]브랜드데이 특가 환절기 모발/새치/스킨케어 외 1+1",
+    "price": 72000,
+    "link": "https://store.kakao.com/jsoop/products/332051106",
+    "slot_id": "60852",
+    "pgm": "제이숲 앵콜 특가 1+1",
+    "title": "토요일 1시간의 혜택",
+    "category": "뷰티"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "신일전자 온라인스토어",
+    "product": "신일 초절전 무전자계 EMF 온열 전기요 전기매트 전기장판 워셔블 쇼파 캠핑",
+    "price": 179900,
+    "link": "https://store.kakao.com/shinilonline/products/684102692",
+    "slot_id": "60856",
+    "pgm": "신일 26년 동계가전모음전",
+    "title": "라이브 추가 1만원할인쿠폰",
+    "category": "테크"
    }
   ],
   "2026-10-11": [

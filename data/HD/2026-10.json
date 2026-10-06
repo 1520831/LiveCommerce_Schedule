@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-10",
- "updated_at": "2026-10-06T11:04:29+09:00",
+ "updated_at": "2026-10-06T18:45:25+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -1842,17 +1842,17 @@
    {
     "start": "10:00",
     "end": "10:59",
-    "brand": "셀린느",
-    "product": "하프문 소프트 트리옹프 숄더백 124142T88 38NO 블랙",
-    "price": 5439000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253776093",
+    "brand": "더로우",
+    "product": "스몰 파크 N/S 토트백 W1314 L129 DKMU 다크 무스치오",
+    "price": 2989000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253352174",
     "slot_id": "202610066004",
     "items": [
      {
-      "brand": "셀린느",
-      "product": "하프문 소프트 트리옹프 숄더백 124142T88 38NO 블랙",
-      "price": 5439000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253776093"
+      "brand": "더로우",
+      "product": "스몰 파크 N/S 토트백 W1314 L129 DKMU 다크 무스치오",
+      "price": 2989000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253352174"
      }
     ],
     "title": "[투명쇼] 셀린느 / 버버리 60개월 무이자 혜택!",
@@ -2011,6 +2011,25 @@
     "pgm": "[LIE37] 의류 (패션2Lab)"
    },
    {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "BCBG",
+    "product": "[비씨비지] 미엘 JK B5W9J110  B5W9J110",
+    "price": 259000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253654368",
+    "slot_id": "202610066023",
+    "items": [
+     {
+      "brand": "BCBG",
+      "product": "[비씨비지] 미엘 JK B5W9J110  B5W9J110",
+      "price": 259000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253654368"
+     }
+    ],
+    "title": "시선을 사로잡는 BCBG 가을 스타일링! 3만원대부터❤",
+    "pgm": "[재방] 백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
     "start": "19:00",
     "end": "19:59",
     "brand": "로보락",
@@ -2030,6 +2049,25 @@
     "pgm": "[로보락] 로봇청소기 (가전)"
    },
    {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "메트로시티",
+    "product": "1992 PERLA 스털링 실버 로즈 목걸이 A251SN1752RPH A251SN1752RPH",
+    "price": 309000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250596767",
+    "slot_id": "202610066021",
+    "items": [
+     {
+      "brand": "메트로시티",
+      "product": "1992 PERLA 스털링 실버 로즈 목걸이 A251SN1752RPH A251SN1752RPH",
+      "price": 309000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250596767"
+     }
+    ],
+    "title": "[메트로시티주얼리] 실버/14K 주얼리 최대 60%▼",
+    "pgm": "[재방] 메트로시티 주얼리 (멀티커머스)"
+   },
+   {
     "start": "20:00",
     "end": "20:59",
     "brand": "바디프랜드",
@@ -2047,6 +2085,25 @@
     ],
     "title": "[바디프랜드] 가을맞이 안마의자 핫딜",
     "pgm": "[바디프랜드] 안마의자 (렌탈)"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "더로우",
+    "product": "스몰 파크 N/S 토트백 W1314 L129 DKMU 다크 무스치오",
+    "price": 2989000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253352174",
+    "slot_id": "202610066024",
+    "items": [
+     {
+      "brand": "더로우",
+      "product": "스몰 파크 N/S 토트백 W1314 L129 DKMU 다크 무스치오",
+      "price": 2989000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253352174"
+     }
+    ],
+    "title": "[투명쇼] 셀린느 / 버버리 60개월 무이자 혜택!",
+    "pgm": "[재방] 투명쇼 (패션잡화)"
    },
    {
     "start": "21:00",
@@ -2108,6 +2165,25 @@
   ],
   "2026-10-07": [
    {
+    "start": "00:00",
+    "end": "00:59",
+    "brand": "에클랏",
+    "product": "18K 보티첼리(Botticelli) 네크리스",
+    "price": 1199000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252750279",
+    "slot_id": "202610076020",
+    "items": [
+     {
+      "brand": "에클랏",
+      "product": "18K 보티첼리(Botticelli) 네크리스",
+      "price": 1199000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252750279"
+     }
+    ],
+    "title": "[노블리타] 이탈리아 18K주얼리 BIG 혜택 특집전",
+    "pgm": "[재방] 노블리타 (노블레스)"
+   },
+   {
     "start": "07:00",
     "end": "07:59",
     "brand": "한민금거래소",
@@ -2150,14 +2226,14 @@
     "end": "09:59",
     "brand": "닥스",
     "product": "닥스 구두 여성 버클포인트 청키 경량 로퍼 DRF504 DRF504",
-    "price": 229600,
+    "price": 213200,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247935535",
     "slot_id": "202610076002",
     "items": [
      {
       "brand": "닥스",
       "product": "닥스 구두 여성 버클포인트 청키 경량 로퍼 DRF504 DRF504",
-      "price": 229600,
+      "price": 213200,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247935535"
      }
     ],
@@ -2260,6 +2336,25 @@
     "pgm": "[소니] 카메라 (가전)"
    },
    {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "밋앤밀",
+    "product": "영주 뜬바우골 산지직송 선별 정품 시나노골드 황금사과 5kg 대과(17-19과)",
+    "price": 55900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2220318080",
+    "slot_id": "202610076007",
+    "items": [
+     {
+      "brand": "밋앤밀",
+      "product": "영주 뜬바우골 산지직송 선별 정품 시나노골드 황금사과 5kg 대과(17-19과)",
+      "price": 55900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2220318080"
+     }
+    ],
+    "title": "[밋앤밀] 영주 산지직송 뜬바우골 시나노골드 특별가",
+    "pgm": "[잭슨코리아] 시나노 사과"
+   },
+   {
     "start": "16:00",
     "end": "16:59",
     "brand": "에이디솔루션",
@@ -2301,15 +2396,15 @@
     "start": "18:00",
     "end": "18:59",
     "brand": "아시아골드",
-    "product": "골드바 3.75g 백제금동대향로",
-    "price": 965000,
+    "product": "골드바 3.75g 석굴암",
+    "price": 946000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251790188",
     "slot_id": "202610076011",
     "items": [
      {
       "brand": "아시아골드",
-      "product": "골드바 3.75g 백제금동대향로",
-      "price": 965000,
+      "product": "골드바 3.75g 석굴암",
+      "price": 946000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251790188"
      }
     ],
@@ -2374,6 +2469,25 @@
     "pgm": "[북토크] 10분만에 완성하는 시크릿 메이크업 (쇼핑라이브)"
    },
    {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "블랙야크",
+    "product": "크루핏 기모 긴팔티2 여성용 겨울 기모 긴팔 티셔츠 1BYRTWU501 (2컬러) 1BYRTWU501",
+    "price": 39000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253391644",
+    "slot_id": "202610076015",
+    "items": [
+     {
+      "brand": "블랙야크",
+      "product": "크루핏 기모 긴팔티2 여성용 겨울 기모 긴팔 티셔츠 1BYRTWU501 (2컬러) 1BYRTWU501",
+      "price": 39000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253391644"
+     }
+    ],
+    "title": "[블랙야크] BEST 간절기 아이템 쇼라 핫딜!",
+    "pgm": "[블랙야크] 아웃도어 (멀티커머스)"
+   },
+   {
     "start": "23:00",
     "end": "23:59",
     "brand": "쥬시쥬디",
@@ -2387,12 +2501,6 @@
       "product": "배색헨리넥골지니트 J1KT026D",
       "price": 89000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253005809"
-     },
-     {
-      "brand": "쥬시쥬디",
-      "product": "스웨이드테일러드자켓 JYJK729B",
-      "price": 179000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247407598"
      }
     ],
     "title": "[쥬시쥬디] 가을 베스트 나들이룩🍂",
@@ -2400,6 +2508,25 @@
    }
   ],
   "2026-10-08": [
+   {
+    "start": "00:00",
+    "end": "00:59",
+    "brand": "에클랏",
+    "product": "18K 보티첼리(Botticelli) 네크리스",
+    "price": 1199000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252750279",
+    "slot_id": "202610086019",
+    "items": [
+     {
+      "brand": "에클랏",
+      "product": "18K 보티첼리(Botticelli) 네크리스",
+      "price": 1199000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252750279"
+     }
+    ],
+    "title": "[노블리타] 이탈리아 18K주얼리 BIG 혜택 특집전",
+    "pgm": "[재방] 노블리타 (노블레스)"
+   },
    {
     "start": "07:00",
     "end": "07:59",
@@ -2442,15 +2569,15 @@
     "start": "09:00",
     "end": "09:59",
     "brand": "메트로시티",
-    "product": "[26F/W NEW] 백팩 M263MT5520Z M263MT5520Z",
-    "price": 479000,
+    "product": "[26F/W NEW] 백팩 M263MT5520Z",
+    "price": 383200,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253736998",
     "slot_id": "202610086004",
     "items": [
      {
       "brand": "메트로시티",
-      "product": "[26F/W NEW] 백팩 M263MT5520Z M263MT5520Z",
-      "price": 479000,
+      "product": "[26F/W NEW] 백팩 M263MT5520Z",
+      "price": 383200,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253736998"
      }
     ],
@@ -2515,6 +2642,25 @@
     "pgm": "[크리스탈렌] 가방 (멀티커머스)"
    },
    {
+    "start": "13:00",
+    "end": "13:59",
+    "brand": "듀엘",
+    "product": "[라이브무료반품][듀엘] 하프 트렌치 자켓 D263MSF701",
+    "price": 299000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254127920",
+    "slot_id": "202610086008",
+    "items": [
+     {
+      "brand": "듀엘",
+      "product": "[라이브무료반품][듀엘] 하프 트렌치 자켓 D263MSF701",
+      "price": 299000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254127920"
+     }
+    ],
+    "title": "[듀엘] 26년 가을 최신상 최저가 도전",
+    "pgm": "[듀엘] 여성의류 (패션1Lab)"
+   },
+   {
     "start": "14:00",
     "end": "14:59",
     "brand": "워니스초이스",
@@ -2532,6 +2678,25 @@
     ],
     "title": "[워니스초이스] 프라이머 듀얼 쿠션 반값 혜택▼",
     "pgm": "[워니스초이스] 쿠션 (뷰티1)"
+   },
+   {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "밋앤밀",
+    "product": "해남 산지직송 친환경 무농약 하우스 홍무화과 800g(8∼15입)",
+    "price": 23400,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252366913",
+    "slot_id": "202610086010",
+    "items": [
+     {
+      "brand": "밋앤밀",
+      "product": "해남 산지직송 친환경 무농약 하우스 홍무화과 800g(8∼15입)",
+      "price": 23400,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252366913"
+     }
+    ],
+    "title": "[밋앤밀] 해남 산지직송 친환경 무농약 홍무화과",
+    "pgm": "[잭슨코리아] 무화과"
    },
    {
     "start": "18:00",
@@ -2570,6 +2735,25 @@
     ],
     "title": "[슈쇼케] 주영/은지 PICK✨가평 더 스테이 힐링파크",
     "pgm": "[더트래블] 여행 (여행)"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "메종마르지엘라",
+    "product": "메종마르지엘라 SA1VL0038 P4455 T8013 스티치 그레인 WOC 체인 크로스백",
+    "price": 1090000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253264844",
+    "slot_id": "202610086015",
+    "items": [
+     {
+      "brand": "메종마르지엘라",
+      "product": "메종마르지엘라 SA1VL0038 P4455 T8013 스티치 그레인 WOC 체인 크로스백",
+      "price": 1090000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253264844"
+     }
+    ],
+    "title": "[메종 마르지엘라] 라벨 속 넘버링 비하인드 스토리",
+    "pgm": "[마르지엘라] 명품잡화 外 (패션잡화)"
    },
    {
     "start": "21:00",
@@ -2688,6 +2872,25 @@
     "pgm": "백화점 프리오픈쇼(멀티커머스)"
    },
    {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "더로우",
+    "product": "Bindle 미디엄 레더 토트백 W1722 L50 BLANS 블랙",
+    "price": 4357000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239542266",
+    "slot_id": "202610096003",
+    "items": [
+     {
+      "brand": "더로우",
+      "product": "Bindle 미디엄 레더 토트백 W1722 L50 BLANS 블랙",
+      "price": 4357000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239542266"
+     }
+    ],
+    "title": "[투명쇼 스페셜] 하이엔드 명품 무료 배송/반품",
+    "pgm": "투명쇼 (패션잡화)"
+   },
+   {
     "start": "11:00",
     "end": "11:59",
     "brand": "힘펠",
@@ -2745,6 +2948,44 @@
     "pgm": "[플레이백] 패션 의류 (패션1Lab)"
    },
    {
+    "start": "16:00",
+    "end": "16:59",
+    "brand": "막스마라",
+    "product": "클레스 울캐시 롱 코트(6016021)",
+    "price": 1699000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252609617",
+    "slot_id": "202610096022",
+    "items": [
+     {
+      "brand": "막스마라",
+      "product": "클레스 울캐시 롱 코트(6016021)",
+      "price": 1699000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252609617"
+     }
+    ],
+    "title": "[현명쇼] 버버리 7만▼ 전 상품 무이자 60개월",
+    "pgm": "[재방] 현명쇼 (노블레스팀)"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "용평리조트",
+    "product": "[쇼라] [2박 4인] 용평리조트 폴 인 러브 패키지 (식사(2회)+BIG5 이용권(2회)+BIG12 쿠폰)",
+    "price": 269000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254103501",
+    "slot_id": "202610096012",
+    "items": [
+     {
+      "brand": "용평리조트",
+      "product": "[쇼라] [2박 4인] 용평리조트 폴 인 러브 패키지 (식사(2회)+BIG5 이용권(2회)+BIG12 쿠폰)",
+      "price": 269000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254103501"
+     }
+    ],
+    "title": "[슈쇼케] 하라 PICK✨ 용평리조트🍁",
+    "pgm": "[용평] 리조트 (여행)"
+   },
+   {
     "start": "20:00",
     "end": "20:59",
     "brand": "약손명가 헬스케어",
@@ -2762,6 +3003,25 @@
     ],
     "title": "쇼라 최초 공개! 약손명가 헬스케어",
     "pgm": "[약손명가] 올리리라 밴드 (뷰티브랜드)"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "Lemaire",
+    "product": "르메르 스몰 크루아상 그레인 레더 숄더백 BG0003 LL0018 490 다크 초콜릿",
+    "price": 1763000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247408891",
+    "slot_id": "202610096014",
+    "items": [
+     {
+      "brand": "Lemaire",
+      "product": "르메르 스몰 크루아상 그레인 레더 숄더백 BG0003 LL0018 490 다크 초콜릿",
+      "price": 1763000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247408891"
+     }
+    ],
+    "title": "[르메르] 크루아상백 한정수량 입고",
+    "pgm": "[르메르] 가방 (패션잡화)"
    },
    {
     "start": "22:00",
@@ -2823,6 +3083,44 @@
     "pgm": "[재방] 투명쇼 (패션잡화)"
    },
    {
+    "start": "07:00",
+    "end": "07:59",
+    "brand": "에클랏",
+    "product": "18K 로짜(Loggia) 브레이슬릿",
+    "price": 1799000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252750245",
+    "slot_id": "202610106016",
+    "items": [
+     {
+      "brand": "에클랏",
+      "product": "18K 로짜(Loggia) 브레이슬릿",
+      "price": 1799000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252750245"
+     }
+    ],
+    "title": "[노블리타] 이탈리아 18K 주얼리 중량템 대공개",
+    "pgm": "[재방] 노블리타 (노블레스)"
+   },
+   {
+    "start": "08:00",
+    "end": "08:59",
+    "brand": "에르노",
+    "product": "하이넥 니트 롱 패딩 아이보리(PI00191DR)",
+    "price": 1299000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251324716",
+    "slot_id": "202610106017",
+    "items": [
+     {
+      "brand": "에르노",
+      "product": "하이넥 니트 롱 패딩 아이보리(PI00191DR)",
+      "price": 1299000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251324716"
+     }
+    ],
+    "title": "[현명쇼] 구찌 스카프 30만▼ 전상품 무이자60",
+    "pgm": "[재방] 현명쇼 (노블레스팀)"
+   },
+   {
     "start": "09:00",
     "end": "09:59",
     "brand": "라코스테",
@@ -2880,6 +3178,25 @@
     "pgm": "[스타일오브마인] 인삼 (쇼핑라이브)"
    },
    {
+    "start": "16:00",
+    "end": "17:59",
+    "brand": "버버리",
+    "product": "뉴 파크게이트 퀼팅 롱 후드 코트(8121467)",
+    "price": 1999000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250929296",
+    "slot_id": "202610106018",
+    "items": [
+     {
+      "brand": "버버리",
+      "product": "뉴 파크게이트 퀼팅 롱 후드 코트(8121467)",
+      "price": 1999000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250929296"
+     }
+    ],
+    "title": "[현명쇼] 막스마라 코트 35%▼ 최저가 도전",
+    "pgm": "[재방] 현명쇼 (노블레스팀)"
+   },
+   {
     "start": "20:00",
     "end": "20:59",
     "brand": "아서앤그레이스",
@@ -2920,6 +3237,44 @@
     "pgm": "[재방] 투명쇼 (패션잡화)"
    },
    {
+    "start": "07:00",
+    "end": "07:59",
+    "brand": "에클랏",
+    "product": "18K 로짜(Loggia) 브레이슬릿",
+    "price": 1799000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252750245",
+    "slot_id": "202610116013",
+    "items": [
+     {
+      "brand": "에클랏",
+      "product": "18K 로짜(Loggia) 브레이슬릿",
+      "price": 1799000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252750245"
+     }
+    ],
+    "title": "[노블리타] 이탈리아 18K 주얼리 중량템 대공개",
+    "pgm": "[재방] 노블리타 (노블레스)"
+   },
+   {
+    "start": "08:00",
+    "end": "09:59",
+    "brand": "구찌",
+    "product": "GG 울실크 투톤 숄(165904)",
+    "price": 349000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252244063",
+    "slot_id": "202610116014",
+    "items": [
+     {
+      "brand": "구찌",
+      "product": "GG 울실크 투톤 숄(165904)",
+      "price": 349000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252244063"
+     }
+    ],
+    "title": "[현명쇼] 미우미우 특가존 최대 85만▼",
+    "pgm": "[재방] 현명쇼 (노블레스팀)"
+   },
+   {
     "start": "13:00",
     "end": "13:59",
     "brand": "스타우브",
@@ -2956,6 +3311,25 @@
     ],
     "title": "[유로룩스] 독일 프리미엄 브랜드, 베어쿡 특별구성",
     "pgm": "[재방] 유로룩스 (가전)"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "셀린느",
+    "product": "선글라스(CL40194U)",
+    "price": 498000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252765355",
+    "slot_id": "202610116016",
+    "items": [
+     {
+      "brand": "셀린느",
+      "product": "선글라스(CL40194U)",
+      "price": 498000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252765355"
+     }
+    ],
+    "title": "[명품특별전] 발렌티노 신상 무이자 60개월 혜택!",
+    "pgm": "[재방] 명품특별전 (노블레스)"
    },
    {
     "start": "20:00",
