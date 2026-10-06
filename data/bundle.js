@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-06T11:05:57+09:00",
+ "generated_at": "2026-10-06T11:45:25+09:00",
  "today": "2026-10-06",
  "dates": [
   "2026-10-05",
@@ -1880,8 +1880,7 @@ window.SCHEDULE = {
      "title": "맘만xLee키즈👖또니맘 공구! 덕다운 6만원대! FW 멋쟁이 모여라✨",
      "pgm": "맘만하니",
      "pgm_cd": "1100",
-     "category": "여성패션",
-     "hot": 6
+     "category": "여성패션"
     },
     {
      "start": "10:00",
@@ -6357,7 +6356,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -6453,8 +6452,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈",
-     "hot": 10
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -6766,8 +6764,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프",
-     "hot": 7
+     "category": "라이프"
     },
     {
      "start": "10:00",
@@ -7105,8 +7102,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈",
-     "hot": 8
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -7474,7 +7470,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -7547,7 +7544,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -7852,7 +7850,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -7928,7 +7927,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -18119,7 +18119,7 @@ window.SCHEDULE = {
      "pgm": "아토팜 가을세일 LIVE",
      "title": "판테놀/MLE 외 워시/키즈",
      "category": "뷰티",
-     "hot": 4
+     "hot": 8
     },
     {
      "start": "08:30",
@@ -18155,8 +18155,7 @@ window.SCHEDULE = {
      "slot_id": "60418",
      "pgm": "미샤 ~60%+추가 쿠폰",
      "title": "2만원이상 마스크10매 증정",
-     "category": "뷰티",
-     "hot": 9
+     "category": "뷰티"
     },
     {
      "start": "10:00",
@@ -19112,8 +19111,8 @@ window.SCHEDULE = {
    "2026-10-05",
    "2026-10-06"
   ],
-  "matched": 19,
-  "unmatched": 1
+  "matched": 18,
+  "unmatched": 2
  },
  "fixed": {
   "rows": [
