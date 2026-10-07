@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-08T08:20:51+09:00",
+ "generated_at": "2026-10-08T08:40:27+09:00",
  "today": "2026-10-08",
  "dates": [
   "2026-10-07",
@@ -494,7 +494,7 @@ window.SCHEDULE = {
      ],
      "title": "⏰잠시 후 종료! 알레보 라이브 특별가",
      "pgm": "[재방] 알레보 (P.D.Lab)",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "08:00",
@@ -6776,8 +6776,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 8
+     "category": "테크"
     },
     {
      "start": "03:20",
@@ -20574,7 +20573,8 @@ window.SCHEDULE = {
      "slot_id": "60343",
      "pgm": "마미케어 생율무 효소세안제",
      "title": "~76%+쿠폰+마스크팩 증정",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 4
     },
     {
      "start": "08:30",
