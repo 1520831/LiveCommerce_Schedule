@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-08T08:00:18+09:00",
+ "generated_at": "2026-10-08T08:20:51+09:00",
  "today": "2026-10-08",
  "dates": [
   "2026-10-07",
@@ -494,7 +494,7 @@ window.SCHEDULE = {
      ],
      "title": "⏰잠시 후 종료! 알레보 라이브 특별가",
      "pgm": "[재방] 알레보 (P.D.Lab)",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "08:00",
@@ -513,7 +513,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "쇼라 최대 혜택! 보니스팍스로 완성하는 가을 옷장❤️",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 2
     },
     {
      "start": "09:00",
@@ -6776,7 +6777,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 8
     },
     {
      "start": "03:20",
@@ -6969,7 +6970,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 3
     },
     {
      "start": "09:20",
@@ -21806,8 +21808,8 @@ window.SCHEDULE = {
    "2026-10-07",
    "2026-10-08"
   ],
-  "matched": 7,
-  "unmatched": 11
+  "matched": 9,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
