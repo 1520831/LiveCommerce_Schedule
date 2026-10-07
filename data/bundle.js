@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-07T17:18:27+09:00",
+ "generated_at": "2026-10-07T17:40:22+09:00",
  "today": "2026-10-07",
  "dates": [
   "2026-10-06",
@@ -7056,7 +7056,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -8021,8 +8021,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -23200,7 +23199,7 @@ window.SCHEDULE = {
      "pgm": "헤이미니 가을 신학기전",
      "title": "카카오 초특가 LIVE!",
      "category": "키즈",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "11:30",
@@ -23236,7 +23235,8 @@ window.SCHEDULE = {
      "slot_id": "60223",
      "pgm": "켈리맘x레드루트",
      "title": "가을맞이 특가 라이브!",
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 8
     },
     {
      "start": "17:00",
