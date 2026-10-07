@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-10",
- "updated_at": "2026-10-07T18:01:11+09:00",
+ "updated_at": "2026-10-07T23:31:00+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -2396,16 +2396,16 @@
     "start": "16:00",
     "end": "16:59",
     "brand": "에이디솔루션",
-    "product": "리페어 밤 100ml 2개+카밍 세럼 50g 2개+카밍 패치(2매10개) 1개+리페어 마스크 (5매) 1개",
-    "price": 242000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253929685",
+    "product": "베리어 리페어 밤 100ml 3개",
+    "price": 117000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253918161",
     "slot_id": "202610076008",
     "items": [
      {
       "brand": "에이디솔루션",
-      "product": "리페어 밤 100ml 2개+카밍 세럼 50g 2개+카밍 패치(2매10개) 1개+리페어 마스크 (5매) 1개",
-      "price": 242000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253929685"
+      "product": "베리어 리페어 밤 100ml 3개",
+      "price": 117000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253918161"
      }
     ],
     "title": "[에이디솔루션] 전 구성 30%▼ + 카드 할인 5%",
@@ -2463,12 +2463,6 @@
       "product": "골드바 3.75g 석굴암",
       "price": 917000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251790188"
-     },
-     {
-      "brand": "아시아골드",
-      "product": "훈민정음 반포 580주년 실버바 200g (우드케이스 포함)",
-      "price": 910000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254001273"
      }
     ],
     "title": "[아시아골드] 골드바 쇼라 혜택가!",
@@ -2625,6 +2619,25 @@
     ],
     "title": "[쥬시쥬디] 가을 베스트 나들이룩🍂",
     "pgm": "[쥬시쥬디] 여성의류 (멀티커머스)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "아시아골드",
+    "product": "골드바 3.75g 석굴암",
+    "price": 917000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251790188",
+    "slot_id": "202610076023",
+    "items": [
+     {
+      "brand": "아시아골드",
+      "product": "골드바 3.75g 석굴암",
+      "price": 917000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251790188"
+     }
+    ],
+    "title": "[아시아골드] 골드바 쇼라 혜택가!",
+    "pgm": "[재방] [아시아골드] 금 (패션잡화)"
    }
   ],
   "2026-10-08": [
@@ -3492,14 +3505,14 @@
     "end": "21:59",
     "brand": "케네스레이디",
     "product": "글로디 롱 원피스 EMWOPQB010 EMWOPQB010",
-    "price": 429000,
+    "price": 150000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254461597",
     "slot_id": "202610106010",
     "items": [
      {
       "brand": "케네스레이디",
       "product": "글로디 롱 원피스 EMWOPQB010 EMWOPQB010",
-      "price": 429000,
+      "price": 150000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254461597"
      }
     ],
@@ -3510,14 +3523,14 @@
     "start": "23:00",
     "end": "23:59",
     "brand": "제이바이라라",
-    "product": "와이드 레그 블루 DP",
+    "product": "와이드 레그 블루 데님 팬츠",
     "price": 149000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254110032",
     "slot_id": "202610106012",
     "items": [
      {
       "brand": "제이바이라라",
-      "product": "와이드 레그 블루 DP",
+      "product": "와이드 레그 블루 데님 팬츠",
       "price": 149000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254110032"
      }
