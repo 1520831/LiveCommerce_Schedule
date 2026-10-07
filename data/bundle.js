@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-07T22:00:11+09:00",
+ "generated_at": "2026-10-07T23:00:14+09:00",
  "today": "2026-10-07",
  "dates": [
   "2026-10-06",
@@ -820,7 +820,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[현명쇼] 프라다 월 7천원대 전 상품 무이자 60개월",
-     "pgm": "현명쇼(노블레스)"
+     "pgm": "현명쇼(노블레스)",
+     "hot": 10
     },
     {
      "start": "20:00",
@@ -7608,7 +7609,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 8
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -8690,7 +8691,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 10
+     "hot": 9
     },
     {
      "start": "13:00",
@@ -9870,8 +9871,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티",
-     "hot": 6
+     "category": "뷰티"
     },
     {
      "start": "19:00",
