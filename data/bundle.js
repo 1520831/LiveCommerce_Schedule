@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-07T11:10:37+09:00",
+ "generated_at": "2026-10-07T17:07:02+09:00",
  "today": "2026-10-07",
  "dates": [
   "2026-10-06",
@@ -6625,8 +6625,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -6682,8 +6681,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티",
-     "hot": 8
+     "category": "뷰티"
     },
     {
      "start": "10:00",
@@ -7144,7 +7142,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 5
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -7312,8 +7310,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 7
+     "category": "푸드"
     },
     {
      "start": "10:30",
@@ -8090,7 +8087,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -19858,7 +19856,7 @@ window.SCHEDULE = {
      "pgm": "성분에디터 실크앰플~79%",
      "title": "전 구매 앰플 5회분 증정",
      "category": "뷰티",
-     "hot": 3
+     "hot": 7
     },
     {
      "start": "08:30",
@@ -19978,7 +19976,8 @@ window.SCHEDULE = {
      "slot_id": "60274",
      "pgm": "헤이미니 가을 신학기전",
      "title": "카카오 초특가 LIVE!",
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 9
     },
     {
      "start": "11:30",
@@ -21007,8 +21006,8 @@ window.SCHEDULE = {
    "2026-10-06",
    "2026-10-07"
   ],
-  "matched": 14,
-  "unmatched": 4
+  "matched": 13,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
