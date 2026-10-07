@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-07T20:00:11+09:00",
+ "generated_at": "2026-10-07T21:00:12+09:00",
  "today": "2026-10-07",
  "dates": [
   "2026-10-06",
@@ -7608,7 +7608,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -8690,7 +8690,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "13:00",
@@ -9943,7 +9943,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "19:00",
@@ -10599,7 +10599,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 4
     },
     {
      "start": "20:00",
@@ -23222,8 +23223,7 @@ window.SCHEDULE = {
      "slot_id": "60344",
      "pgm": "성분에디터 실크앰플~79%",
      "title": "전 구매 앰플 5회분 증정",
-     "category": "뷰티",
-     "hot": 10
+     "category": "뷰티"
     },
     {
      "start": "08:30",
@@ -23428,7 +23428,7 @@ window.SCHEDULE = {
      "pgm": "쎈딜로 다시 찾아온 농심",
      "title": "툼바떡볶이면 신상 출시",
      "category": "식품",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "19:00",
