@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-10",
- "updated_at": "2026-10-07T10:13:37+09:00",
+ "updated_at": "2026-10-07T17:12:44+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -1596,7 +1596,7 @@
     "end": "11:59",
     "brand": "수면공감",
     "product": "1+1 NEW우유베개 기능성 경추베개/빨아쓰는 우유토퍼",
-    "price": 89000,
+    "price": 103680,
     "link": "https://item.cjonstyle.com/item/2036129947?channelCode=30002002",
     "slot_id": "30262",
     "title": "다시보는 NEW우유베개 시리즈로 꿀잠 정착! 방송 한정특가",
@@ -1635,7 +1635,7 @@
     "end": "12:59",
     "brand": "플루크",
     "product": "[1+1]라이트 데이오프 오버핏 맨투맨 티셔츠 + 후드 티셔츠 FMT901FHT901",
-    "price": 37800,
+    "price": 55800,
     "link": "https://item.cjonstyle.com/item/2093852609?channelCode=30002002",
     "slot_id": "30462",
     "title": "다시보는 인기 캐쥬얼! 플루크 특가🤍CJ단독 최저가보장",
@@ -1764,8 +1764,8 @@
     "start": "21:00",
     "end": "21:59",
     "brand": "다룸",
-    "product": "시그니처 스마트 센서 휴지통 쓰레기통 10L+20L세트",
-    "price": 166000,
+    "product": "시그니처 스마트 센서 휴지통 쓰레기통 10L+20L+다리SET",
+    "price": 189000,
     "link": "https://item.cjonstyle.com/item/2094765540?channelCode=30002002",
     "slot_id": "30016",
     "title": "다룸📢 자동센서 휴지통/가열식 가습기/전기포트 CJ 런칭 방송!",
@@ -1776,7 +1776,7 @@
    {
     "start": "21:00",
     "end": "21:59",
-    "brand": "리복",
+    "brand": "리복골프",
     "product": "26FW 라이트 퍼프 경량패딩 남성",
     "price": 79000,
     "link": "https://item.cjonstyle.com/item/2093520999?channelCode=30002002",
@@ -2079,7 +2079,7 @@
     "end": "19:59",
     "brand": "데상트",
     "product": "[히카리 착용] 에센셜 컴포트핏 미들 다운 자켓 SR323UDJ88",
-    "price": 284050,
+    "price": 269100,
     "link": "https://item.cjonstyle.com/item/2092058953?channelCode=30002002",
     "slot_id": "30048",
     "title": "멋진 나를 발견하는 애슬레저룩 데상트 최대 혜택! 무료 교환&반품",
@@ -2157,7 +2157,7 @@
     "end": "20:59",
     "brand": "먼데이에디션",
     "product": "[SET 1] Crystal Orb Drop Necklace + Everyday Pearl Necklace 4mm",
-    "price": 135380,
+    "price": 128620,
     "link": "https://item.cjonstyle.com/item/2094672428?channelCode=30002002",
     "slot_id": "30052",
     "title": "세련되고 캐주얼한 진주 주얼리✨먼데이에디션 (with.헤이가가)",
@@ -2272,7 +2272,7 @@
     "end": "00:00",
     "brand": "페어라이어",
     "product": "[LIVE]브이넥 리본 집업 가디건 (블랙)",
-    "price": 383350,
+    "price": 320600,
     "link": "https://item.cjonstyle.com/item/2092143633?channelCode=30002002",
     "slot_id": "30464",
     "title": "다시보는 첫방송 기념! 여배우 한그루 Pick 페어라이어",
@@ -2323,7 +2323,7 @@
    },
    {
     "start": "10:00",
-    "end": "10:59",
+    "end": "11:00",
     "brand": "리바트",
     "product": "뚜뚜 높이조절 아이 책상 의자세트 병아리 베어",
     "price": 216000,
@@ -2376,9 +2376,9 @@
     "start": "12:00",
     "end": "12:59",
     "brand": "고려은단",
-    "product": "메가도스C 3000 비타민C 100포 X 2개",
-    "price": 54900,
-    "link": "https://item.cjonstyle.com/item/2062439647?channelCode=30002002",
+    "product": "관절 올케어 콘드로이친·MSM·NAG 30포, 3개",
+    "price": 143900,
+    "link": "https://item.cjonstyle.com/item/2092832110?channelCode=30002002",
     "slot_id": "30017",
     "title": "유재석 Pick 고려은단 신제품 콘드로이친 + 멀티비타민 ~40%",
     "pgm": "브랜디드 라이브쇼",
@@ -2388,21 +2388,21 @@
    {
     "start": "12:00",
     "end": "12:59",
-    "brand": "드시모네",
-    "product": "키즈스텝1(블루베리/딸기/사과) 3박스",
-    "price": 147420,
-    "link": "https://item.cjonstyle.com/item/2020062157?channelCode=30002002",
+    "brand": "CJ이엔엠",
+    "product": "온키즈패스",
+    "price": 100,
+    "link": "https://item.cjonstyle.com/item/2094169362?channelCode=30002002",
     "slot_id": "30058",
     "title": "[이거 탐나린] 나린맘의 육아 비결, 드시모네 CJ단독 딸바맛&보냉백!",
     "pgm": "이거 탐나린",
     "pgm_cd": "1146",
-    "category": "식품·건강"
+    "category": "서비스·렌탈"
    },
    {
     "start": "12:00",
     "end": "12:59",
     "brand": "산리오",
-    "product": "[각인상품] 헬로키티주얼리 시그니처 실버 에나멜 미아방지 목걸이 HLSN366",
+    "product": "[뚜미니네pick][정상가 248,000원][각인상품] 헬로키티주얼리 시그니처 실버 에나멜 미아방지 목걸이 HLSN366",
     "price": 210800,
     "link": "https://item.cjonstyle.com/item/2079843469?channelCode=30002002",
     "slot_id": "30298",
@@ -2416,7 +2416,7 @@
     "end": "13:00",
     "brand": "페어라이어",
     "product": "[LIVE]브이넥 리본 집업 가디건 (블랙)",
-    "price": 383350,
+    "price": 320600,
     "link": "https://item.cjonstyle.com/item/2092143633?channelCode=30002002",
     "slot_id": "30465",
     "title": "다시보는 첫방송 기념! 여배우 한그루 Pick 페어라이어",
@@ -2427,14 +2427,15 @@
    {
     "start": "13:00",
     "end": "13:59",
-    "brand": "",
-    "product": "다시보는 제옥스👞단 하루 온라인 최저가 ✨",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/30299",
+    "brand": "제옥스",
+    "product": "팔마리아 여성 모카-블랙",
+    "price": 83340,
+    "link": "https://item.cjonstyle.com/item/2086518396?channelCode=30002002",
     "slot_id": "30299",
     "title": "다시보는 제옥스👞단 하루 온라인 최저가 ✨",
     "pgm": "브랜디드 라이브쇼",
-    "pgm_cd": "1130"
+    "pgm_cd": "1130",
+    "category": "잡화·슈즈"
    },
    {
     "start": "13:00",
@@ -2461,6 +2462,19 @@
     "pgm": "똘똘한쇼",
     "pgm_cd": "1123",
     "category": "식품·건강"
+   },
+   {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "와이드뷰",
+    "product": "[와이바이 공동구매] 와이드무빙뷰 클래식 삼탠바이미 32인치 HD 화이트에디션 세트",
+    "price": 309000,
+    "link": "https://item.cjonstyle.com/item/2063099679?channelCode=30002002",
+    "slot_id": "30454",
+    "title": "[와이바이X와이드뷰TV] CJ단독! ~26% 할인+ 카드할인&적립금",
+    "pgm": "인플루언서LIVE",
+    "pgm_cd": "1052",
+    "category": "가전"
    },
    {
     "start": "17:00",
@@ -2593,13 +2607,26 @@
     "start": "19:00",
     "end": "19:59",
     "brand": "",
-    "product": "다시보는 겟잇뷰티💖GLOW UP with [트리티니스파 위뜨]",
+    "product": "[다겨미네] 우리 아이를 위한 무연마제 스텐팬, 스테니 공구 핫딜 떴다!",
     "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/30306",
+    "link": "https://mlive.cjonstyle.com/m/preview/30305",
+    "slot_id": "30305",
+    "title": "[다겨미네] 우리 아이를 위한 무연마제 스텐팬, 스테니 공구 핫딜 떴다!",
+    "pgm": "다겨미네",
+    "pgm_cd": "1099"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "더트리니티스파 위뜨",
+    "product": "[겟잇뷰티/선택1] HUIT SPA 크림 50ml 2개 + 랩 1개",
+    "price": 103550,
+    "link": "https://item.cjonstyle.com/item/2094880493?channelCode=30002002",
     "slot_id": "30306",
     "title": "다시보는 겟잇뷰티💖GLOW UP with [트리티니스파 위뜨]",
     "pgm": "겟잇뷰티",
-    "pgm_cd": "1012"
+    "pgm_cd": "1012",
+    "category": "뷰티"
    },
    {
     "start": "20:00",
@@ -2693,7 +2720,7 @@
    {
     "start": "21:00",
     "end": "21:59",
-    "brand": "리복",
+    "brand": "리복골프",
     "product": "26FW 라이트 퍼프 경량패딩 남성",
     "price": 79000,
     "link": "https://item.cjonstyle.com/item/2093520999?channelCode=30002002",
@@ -2729,29 +2756,31 @@
    },
    {
     "start": "23:00",
-    "end": "00:00",
-    "brand": "",
-    "product": "다시보는 던스트 FW자켓&기본템 여배우의 어른 여자 스타일링",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/30312",
+    "end": "23:59",
+    "brand": "던스트",
+    "product": "UNISEX CREWNECK KNIT CARDIGAN_UDSW6C101",
+    "price": 126650,
+    "link": "https://item.cjonstyle.com/item/2092122986?channelCode=30002002",
     "slot_id": "30312",
     "title": "다시보는 던스트 FW자켓&기본템 여배우의 어른 여자 스타일링",
     "pgm": "그루의 비밀 옷장",
-    "pgm_cd": "1140"
+    "pgm_cd": "1140",
+    "category": "여성패션"
    }
   ],
   "2026-10-09": [
    {
     "start": "09:00",
-    "end": "10:00",
-    "brand": "",
-    "product": "다시보는 던스트 FW자켓&기본템 여배우의 어른 여자 스타일링",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/30314",
+    "end": "09:59",
+    "brand": "던스트",
+    "product": "UNISEX CREWNECK KNIT CARDIGAN_UDSW6C101",
+    "price": 126650,
+    "link": "https://item.cjonstyle.com/item/2092122986?channelCode=30002002",
     "slot_id": "30314",
     "title": "다시보는 던스트 FW자켓&기본템 여배우의 어른 여자 스타일링",
     "pgm": "그루의 비밀 옷장",
-    "pgm_cd": "1140"
+    "pgm_cd": "1140",
+    "category": "여성패션"
    },
    {
     "start": "09:00",
@@ -2771,7 +2800,7 @@
     "end": "10:19",
     "brand": "더엣지",
     "product": "26FW 울블렌드 사이드 카라 베스트 3종",
-    "price": 62910,
+    "price": 71910,
     "link": "https://item.cjonstyle.com/item/2092138801?channelCode=30002002",
     "slot_id": "30069",
     "title": "없솔지 ❤️ 더엣지 26FW 신상품 6종 최초공개",
@@ -2791,6 +2820,18 @@
     "pgm": "라이브쇼",
     "pgm_cd": "1008",
     "category": "가전"
+   },
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "",
+    "product": "다시보는 이너시아X싸모님💖생리대 역대급 특가찬스+인턴 도전기 미리보기!",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/30318",
+    "slot_id": "30318",
+    "title": "다시보는 이너시아X싸모님💖생리대 역대급 특가찬스+인턴 도전기 미리보기!",
+    "pgm": "라이브쇼",
+    "pgm_cd": "1016"
    },
    {
     "start": "11:00",
@@ -2819,6 +2860,71 @@
     "category": "여성패션"
    },
    {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "소르크",
+    "product": "핸드메이드 더블 하프 코트",
+    "price": 284400,
+    "link": "https://item.cjonstyle.com/item/2076577447?channelCode=30002002",
+    "slot_id": "30321",
+    "title": "다시보는 성수, 한남에서 만나던 그 소르크🤍FW패션",
+    "pgm": "브랜디드 라이브쇼",
+    "pgm_cd": "1130",
+    "category": "여성패션"
+   },
+   {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "CJ이엔엠",
+    "product": "온키즈패스",
+    "price": 100,
+    "link": "https://item.cjonstyle.com/item/2094169362?channelCode=30002002",
+    "slot_id": "30473",
+    "title": "다시보는 맘만하니X문아름 소베맘 4세대 기저귀갈이대 단독특가전",
+    "pgm": "맘만하니",
+    "pgm_cd": "1100",
+    "category": "서비스·렌탈"
+   },
+   {
+    "start": "13:00",
+    "end": "13:59",
+    "brand": "꼬달리",
+    "product": "비노 퍼펙트세럼 2병+브라이트닝에센스 1병+세럼 미니 6병",
+    "price": 169000,
+    "link": "https://item.cjonstyle.com/item/2079050655?channelCode=30002002",
+    "slot_id": "30322",
+    "title": "다시보는 CJ 단독! 꼬달리 방송에서만 추가 할인🍇💚",
+    "pgm": "라이브쇼",
+    "pgm_cd": "1008",
+    "category": "뷰티"
+   },
+   {
+    "start": "14:00",
+    "end": "15:00",
+    "brand": "아이그너",
+    "product": "버튼탑 티셔츠",
+    "price": 129000,
+    "link": "https://item.cjonstyle.com/item/2089799390?channelCode=30002002",
+    "slot_id": "30471",
+    "title": "다시보는 [은세로운발견] 아이그너 26FW 신상을 방송에서만 이 가격에?",
+    "pgm": "은세로운 발견",
+    "pgm_cd": "1075",
+    "category": "여성패션"
+   },
+   {
+    "start": "16:00",
+    "end": "17:00",
+    "brand": "말본골프",
+    "product": "래글런 컬러블럭 재킷 OFF WHITE (WOMAN)",
+    "price": 351200,
+    "link": "https://item.cjonstyle.com/item/2084889597?channelCode=30002002",
+    "slot_id": "30467",
+    "title": "다시보는 Hi해나🖐️말본골프 본사 공식 방송! 가을 신상 역대 최저가",
+    "pgm": "하이해나",
+    "pgm_cd": "1135",
+    "category": "스포츠·아웃도어"
+   },
+   {
     "start": "17:00",
     "end": "17:59",
     "brand": "아티드",
@@ -2834,6 +2940,18 @@
    {
     "start": "18:00",
     "end": "18:59",
+    "brand": "",
+    "product": "다시보는 블랑두부 드디어 매드딜🖤레전드 앰플 역대 최다&최저가 구성",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/30324",
+    "slot_id": "30324",
+    "title": "다시보는 블랑두부 드디어 매드딜🖤레전드 앰플 역대 최다&최저가 구성",
+    "pgm": "김해나의 매드딜",
+    "pgm_cd": "1132"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
     "brand": "루씨에어",
     "product": "레이더 커넥트 실링팬 천장형 선풍기 132cm 3colors",
     "price": 720000,
@@ -2843,6 +2961,32 @@
     "pgm": "라이브쇼",
     "pgm_cd": "1016",
     "category": "가전"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "지스튜디오",
+    "product": "25FW 퓨어 캐시미어 100 컬렉션 케이프",
+    "price": 1290000,
+    "link": "https://item.cjonstyle.com/item/2064041782?channelCode=30002002",
+    "slot_id": "30070",
+    "title": "엣지쇼💕지스튜디오 이월 ~72% 할인/게스 신상 ~27% 할인",
+    "pgm": "엣지쇼",
+    "pgm_cd": "0223",
+    "category": "여성패션"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "에싸",
+    "product": "마제티 4인 스윙기능 크라비츠 패브릭 소파",
+    "price": 3060000,
+    "link": "https://item.cjonstyle.com/item/2079440129?channelCode=30002002",
+    "slot_id": "30326",
+    "title": "다시보는 에싸 BEST 소파 특가💛적립+백화점 상품권 증정 찬스!",
+    "pgm": "라이브쇼",
+    "pgm_cd": "1007",
+    "category": "가구·침구"
    },
    {
     "start": "19:00",
@@ -2910,6 +3054,32 @@
    },
    {
     "start": "21:00",
+    "end": "21:59",
+    "brand": "DB손해보험",
+    "product": "DB손보 참좋은 행복 더블플러스 여성전용플랜",
+    "price": 0,
+    "link": "https://item.cjonstyle.com/item/2079531825?channelCode=30002002",
+    "slot_id": "30330",
+    "title": "보험 궁금한 점 있으면 여기에서 물어봐!~ DB손해보험 상담신청 기회까지",
+    "pgm": "일타보험",
+    "pgm_cd": "1112",
+    "category": "서비스·렌탈"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "삼육식품",
+    "product": "삼육 검은콩볶은귀리45팩+흑임자30팩+검은콩과칼슘30팩  총105팩",
+    "price": 48370,
+    "link": "https://item.cjonstyle.com/item/2015653088?channelCode=30002002",
+    "slot_id": "30331",
+    "title": "왔다장보러📢호랑이김치&방배쭈꾸미&삼육두유 등 BEST 식품 추천✨",
+    "pgm": "왔다! 장보러",
+    "pgm_cd": "1120",
+    "category": "식품·건강"
+   },
+   {
+    "start": "21:00",
     "end": "22:00",
     "brand": "락포트",
     "product": "토탈모션 360도 100% 천연양털 로퍼(4cm 키높이)",
@@ -2920,6 +3090,45 @@
     "pgm": "엣지쇼",
     "pgm_cd": "0223",
     "category": "잡화·슈즈"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "다이아미",
+    "product": "[송해나PICK] 보우보우 14K골드 랩그로운 다이아몬드 목걸이 FGDN1303WLAB",
+    "price": 1632000,
+    "link": "https://item.cjonstyle.com/item/2081123373?channelCode=30002002",
+    "slot_id": "30333",
+    "title": "다시보는 Hi해나🖐️다이아미 CJ 단독 랩다이아 공개!",
+    "pgm": "하이해나",
+    "pgm_cd": "1135",
+    "category": "잡화·슈즈"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "바이오던스",
+    "product": "[총40매] 콜라겐팩24매+세라놀/씨켈프/비타/캐비어팩16매(+콜라겐버블부스터)",
+    "price": 228000,
+    "link": "https://item.cjonstyle.com/item/2094650108?channelCode=30002002",
+    "slot_id": "30334",
+    "title": "다시보는 매드딜🖤바이오던스/피부 고민별로 다르게 버라이어티팩 최대 할인",
+    "pgm": "김해나의 매드딜",
+    "pgm_cd": "1132",
+    "category": "뷰티"
+   },
+   {
+    "start": "23:00",
+    "end": "00:04",
+    "brand": "유스트",
+    "product": "[LIVE] 호이픽 풀 힐링 세트 VER3.",
+    "price": 417000,
+    "link": "https://item.cjonstyle.com/item/2094795927?channelCode=30002002",
+    "slot_id": "30335",
+    "title": "다시보는 [유스트x투머치쇼] 레전드 혜택 특집",
+    "pgm": "김호영의 투머치쇼",
+    "pgm_cd": "1083",
+    "category": "뷰티"
    }
   ],
   "2026-10-10": [
@@ -2935,6 +3144,44 @@
     "pgm": "인플루언서LIVE",
     "pgm_cd": "1052",
     "category": "서비스·렌탈"
+   },
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "CJ이엔엠",
+    "product": "온키즈패스",
+    "price": 100,
+    "link": "https://item.cjonstyle.com/item/2094169362?channelCode=30002002",
+    "slot_id": "30474",
+    "title": "다시보는 맘만하니X문아름 소베맘 4세대 기저귀갈이대 단독특가전",
+    "pgm": "맘만하니",
+    "pgm_cd": "1100",
+    "category": "서비스·렌탈"
+   },
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "",
+    "product": "드엘리사 with 바이오렉트라, 건강한 하루 루틴 함께 시작해요❤️",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/30338",
+    "slot_id": "30338",
+    "title": "드엘리사 with 바이오렉트라, 건강한 하루 루틴 함께 시작해요❤️",
+    "pgm": "드엘리사적인시선",
+    "pgm_cd": "1053"
+   },
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "칼라거펠트",
+    "product": "슈레이스 플랫슈즈",
+    "price": 30000,
+    "link": "https://item.cjonstyle.com/item/2064917632?channelCode=30002002",
+    "slot_id": "30339",
+    "title": "다시보는 칼라거펠트 잡화 특집! 스니커즈/머플러/백 파격세일",
+    "pgm": "라이브쇼",
+    "pgm_cd": "0146",
+    "category": "잡화·슈즈"
    },
    {
     "start": "11:00",
@@ -2963,6 +3210,19 @@
     "category": "여성패션"
    },
    {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "로라애슐리",
+    "product": "올리비아 스테인리스 텀블러 591ML",
+    "price": 56910,
+    "link": "https://item.cjonstyle.com/item/2090805999?channelCode=30002002",
+    "slot_id": "30482",
+    "title": "다시보는❤️오랜만에 돌아온 로라애슐리!",
+    "pgm": "라이브쇼",
+    "pgm_cd": "1016",
+    "category": "가구·침구"
+   },
+   {
     "start": "14:00",
     "end": "14:59",
     "brand": "지누스",
@@ -2974,6 +3234,45 @@
     "pgm": "오늘도 카루셀리PICK",
     "pgm_cd": "1071",
     "category": "가구·침구"
+   },
+   {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "나스",
+    "product": "라이트 리플렉팅 세럼 쿠션 싱글 패키지 [+미니 블러쉬] 세트",
+    "price": 72250,
+    "link": "https://item.cjonstyle.com/item/2094179877?channelCode=30002002",
+    "slot_id": "30342",
+    "title": "다시보는 [나스] 세럼 쿠션 & 파우더 특가",
+    "pgm": "세븐어택",
+    "pgm_cd": "1113",
+    "category": "뷰티"
+   },
+   {
+    "start": "16:00",
+    "end": "16:59",
+    "brand": "바이오던스",
+    "product": "[총40매] 콜라겐팩24매+세라놀/씨켈프/비타/캐비어팩16매(+콜라겐버블부스터)",
+    "price": 228000,
+    "link": "https://item.cjonstyle.com/item/2094650108?channelCode=30002002",
+    "slot_id": "30343",
+    "title": "다시보는 매드딜🖤바이오던스/피부 고민별로 다르게 버라이어티팩 최대 할인",
+    "pgm": "김해나의 매드딜",
+    "pgm_cd": "1132",
+    "category": "뷰티"
+   },
+   {
+    "start": "16:00",
+    "end": "16:59",
+    "brand": "더엣지",
+    "product": "26FW 플리스 체크 셔츠자켓",
+    "price": 71910,
+    "link": "https://item.cjonstyle.com/item/2090046883?channelCode=30002002",
+    "slot_id": "30478",
+    "title": "다시보는 더엣지 ❤️ 플리스체크셔츠자켓,터틀넥니트 방송 중 추가 혜택",
+    "pgm": "라이브쇼",
+    "pgm_cd": "0146",
+    "category": "여성패션"
    },
    {
     "start": "17:25",
@@ -2989,6 +3288,18 @@
     "category": "여성패션"
    },
    {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "",
+    "product": "다시보는 이너시아X싸모님💖생리대 역대급 특가찬스+인턴 도전기 미리보기!",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/30344",
+    "slot_id": "30344",
+    "title": "다시보는 이너시아X싸모님💖생리대 역대급 특가찬스+인턴 도전기 미리보기!",
+    "pgm": "라이브쇼",
+    "pgm_cd": "1016"
+   },
+   {
     "start": "19:00",
     "end": "19:59",
     "brand": "바니스뉴욕",
@@ -3000,6 +3311,32 @@
     "pgm": "엣지쇼",
     "pgm_cd": "0223",
     "category": "여성패션"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "다이아미",
+    "product": "[송해나PICK] 보우보우 14K골드 랩그로운 다이아몬드 목걸이 FGDN1303WLAB",
+    "price": 1632000,
+    "link": "https://item.cjonstyle.com/item/2081123373?channelCode=30002002",
+    "slot_id": "30346",
+    "title": "다시보는 Hi해나🖐️다이아미 CJ 단독 랩다이아 공개!",
+    "pgm": "하이해나",
+    "pgm_cd": "1135",
+    "category": "잡화·슈즈"
+   },
+   {
+    "start": "19:00",
+    "end": "20:04",
+    "brand": "유스트",
+    "product": "[LIVE] 호이픽 풀 힐링 세트 VER3.",
+    "price": 417000,
+    "link": "https://item.cjonstyle.com/item/2094795927?channelCode=30002002",
+    "slot_id": "30347",
+    "title": "다시보는 [유스트x투머치쇼] 레전드 혜택 특집",
+    "pgm": "김호영의 투머치쇼",
+    "pgm_cd": "1083",
+    "category": "뷰티"
    },
    {
     "start": "20:00",
@@ -3043,6 +3380,19 @@
    {
     "start": "21:00",
     "end": "21:59",
+    "brand": "꼬달리",
+    "product": "비노 퍼펙트세럼 2병+브라이트닝에센스 1병+세럼 미니 6병",
+    "price": 169000,
+    "link": "https://item.cjonstyle.com/item/2079050655?channelCode=30002002",
+    "slot_id": "30350",
+    "title": "다시보는 CJ 단독! 꼬달리 방송에서만 추가 할인🍇💚",
+    "pgm": "라이브쇼",
+    "pgm_cd": "0216",
+    "category": "뷰티"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
     "brand": "한일의료기",
     "product": "[E][내일도착] 전기요/국내생산100%/탄소열선/블루포레스트 대/중/소",
     "price": 27900,
@@ -3056,6 +3406,18 @@
    {
     "start": "22:00",
     "end": "22:59",
+    "brand": "",
+    "product": "다시보는 블랑두부 드디어 매드딜🖤레전드 앰플 역대 최다&최저가 구성",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/30352",
+    "slot_id": "30352",
+    "title": "다시보는 블랑두부 드디어 매드딜🖤레전드 앰플 역대 최다&최저가 구성",
+    "pgm": "김해나의 매드딜",
+    "pgm_cd": "1132"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
     "brand": "루씨에어",
     "product": "레이더 커넥트 실링팬 천장형 선풍기 132cm 3colors",
     "price": 720000,
@@ -3065,6 +3427,19 @@
     "pgm": "라이브쇼",
     "pgm_cd": "1016",
     "category": "가전"
+   },
+   {
+    "start": "23:00",
+    "end": "00:00",
+    "brand": "말본골프",
+    "product": "래글런 컬러블럭 재킷 OFF WHITE (WOMAN)",
+    "price": 351200,
+    "link": "https://item.cjonstyle.com/item/2084889597?channelCode=30002002",
+    "slot_id": "30469",
+    "title": "다시보는 Hi해나🖐️말본골프 본사 공식 방송! 가을 신상 역대 최저가",
+    "pgm": "하이해나",
+    "pgm_cd": "1135",
+    "category": "스포츠·아웃도어"
    }
   ],
   "2026-10-11": [
@@ -3121,6 +3496,18 @@
     "category": "가구·침구"
    },
    {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "",
+    "product": "다시보는 블랑두부 드디어 매드딜🖤레전드 앰플 역대 최다&최저가 구성",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/30364",
+    "slot_id": "30364",
+    "title": "다시보는 블랑두부 드디어 매드딜🖤레전드 앰플 역대 최다&최저가 구성",
+    "pgm": "김해나의 매드딜",
+    "pgm_cd": "1132"
+   },
+   {
     "start": "19:00",
     "end": "19:59",
     "brand": "메디인랩",
@@ -3173,6 +3560,31 @@
     "category": "뷰티"
    },
    {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "바이오던스",
+    "product": "[총40매] 콜라겐팩24매+세라놀/씨켈프/비타/캐비어팩16매(+콜라겐버블부스터)",
+    "price": 228000,
+    "link": "https://item.cjonstyle.com/item/2094650108?channelCode=30002002",
+    "slot_id": "30368",
+    "title": "다시보는 매드딜🖤바이오던스/피부 고민별로 다르게 버라이어티팩 최대 할인",
+    "pgm": "김해나의 매드딜",
+    "pgm_cd": "1132",
+    "category": "뷰티"
+   },
+   {
+    "start": "20:30",
+    "end": "21:29",
+    "brand": "",
+    "product": "[비아신세계] 찬란한 예술, 르네상스부터 돌로미티까지 이탈리아 9일",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/30080",
+    "slot_id": "30080",
+    "title": "[비아신세계] 찬란한 예술, 르네상스부터 돌로미티까지 이탈리아 9일",
+    "pgm": "트래블edit",
+    "pgm_cd": "1111"
+   },
+   {
     "start": "21:00",
     "end": "21:59",
     "brand": "세컨스킨",
@@ -3196,9 +3608,47 @@
     "title": "「Pokémon Pokopia」라디오 방송⚡단독 드롭부터 키링 사은품까지",
     "pgm": "라이브쇼",
     "pgm_cd": "1008"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "다이아미",
+    "product": "[송해나PICK] 보우보우 14K골드 랩그로운 다이아몬드 목걸이 FGDN1303WLAB",
+    "price": 1632000,
+    "link": "https://item.cjonstyle.com/item/2081123373?channelCode=30002002",
+    "slot_id": "30369",
+    "title": "다시보는 Hi해나🖐️다이아미 CJ 단독 랩다이아 공개!",
+    "pgm": "하이해나",
+    "pgm_cd": "1135",
+    "category": "잡화·슈즈"
+   },
+   {
+    "start": "21:00",
+    "end": "22:04",
+    "brand": "유스트",
+    "product": "[LIVE] 호이픽 풀 힐링 세트 VER3.",
+    "price": 417000,
+    "link": "https://item.cjonstyle.com/item/2094795927?channelCode=30002002",
+    "slot_id": "30370",
+    "title": "다시보는 [유스트x투머치쇼] 레전드 혜택 특집",
+    "pgm": "김호영의 투머치쇼",
+    "pgm_cd": "1083",
+    "category": "뷰티"
    }
   ],
   "2026-10-12": [
+   {
+    "start": "09:40",
+    "end": "10:59",
+    "brand": "",
+    "product": "베이비브레짜 젖병세척기, 분유제조기🌟 컴온+온키즈패스 혜택까지❤️",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/30373",
+    "slot_id": "30373",
+    "title": "베이비브레짜 젖병세척기, 분유제조기🌟 컴온+온키즈패스 혜택까지❤️",
+    "pgm": "맘만하니",
+    "pgm_cd": "1100"
+   },
    {
     "start": "10:00",
     "end": "10:59",
@@ -3240,14 +3690,15 @@
    {
     "start": "18:00",
     "end": "18:59",
-    "brand": "",
-    "product": "다시보는 지누스X카루셀리💚 얼티마/그린티 매트리스 최저가",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/30500",
+    "brand": "지누스",
+    "product": "얼티마 하이브리드 스프링 매트리스 (30cm/킹)",
+    "price": 369000,
+    "link": "https://item.cjonstyle.com/item/2047850531?channelCode=30002002",
     "slot_id": "30500",
     "title": "다시보는 지누스X카루셀리💚 얼티마/그린티 매트리스 최저가",
     "pgm": "오늘도 카루셀리PICK",
-    "pgm_cd": "1071"
+    "pgm_cd": "1071",
+    "category": "가구·침구"
    },
    {
     "start": "19:00",
@@ -3273,6 +3724,18 @@
     "pgm": "트래블edit",
     "pgm_cd": "1111",
     "category": "서비스·렌탈"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "",
+    "product": "엣지쇼❤️베라왕 26FW 신상품 방송 중 할인",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/30385",
+    "slot_id": "30385",
+    "title": "엣지쇼❤️베라왕 26FW 신상품 방송 중 할인",
+    "pgm": "엣지쇼",
+    "pgm_cd": "0223"
    },
    {
     "start": "20:00",
@@ -3302,14 +3765,15 @@
    {
     "start": "20:00",
     "end": "20:59",
-    "brand": "",
-    "product": "[똘똘한쇼] 산지직송! 붉은빛 속 아삭하고 풍부한 과즙, 감홍사과",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/30503",
+    "brand": "똘똘한쇼",
+    "product": "영주 풍기 금계농장 감홍사과 2kg, 4kg, 5kg",
+    "price": 33500,
+    "link": "https://item.cjonstyle.com/item/2094786567?channelCode=30002002",
     "slot_id": "30503",
     "title": "[똘똘한쇼] 산지직송! 붉은빛 속 아삭하고 풍부한 과즙, 감홍사과",
     "pgm": "똘똘한쇼",
-    "pgm_cd": "1123"
+    "pgm_cd": "1123",
+    "category": "식품·건강"
    }
   ]
  }
