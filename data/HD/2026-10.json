@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-10",
- "updated_at": "2026-10-07T04:46:59+09:00",
+ "updated_at": "2026-10-07T10:13:31+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -2281,17 +2281,17 @@
    {
     "start": "10:00",
     "end": "10:59",
-    "brand": "보테가베네타",
-    "product": "보테가베네타 239988 V3UN1 1275 (239988 V0016 8175) 인트레치아토 스몰 숄더백",
-    "price": 2690000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253348263",
+    "brand": "멀버리",
+    "product": "멀버리 HH9375 275 G110 칠턴 그레인 스몰 크로스백",
+    "price": 1190000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253073893",
     "slot_id": "202610076003",
     "items": [
      {
-      "brand": "보테가베네타",
-      "product": "보테가베네타 239988 V3UN1 1275 (239988 V0016 8175) 인트레치아토 스몰 숄더백",
-      "price": 2690000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253348263"
+      "brand": "멀버리",
+      "product": "멀버리 HH9375 275 G110 칠턴 그레인 스몰 크로스백",
+      "price": 1190000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253073893"
      }
     ],
     "title": "[투명쇼] 막스마라/버버리 外 명품 아이템 핫딜",
@@ -2529,16 +2529,16 @@
     "start": "23:00",
     "end": "23:59",
     "brand": "쥬시쥬디",
-    "product": "배색헨리넥골지니트 J1KT026D",
-    "price": 68000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253005809",
+    "product": "스웨이드테일러드자켓 JZJK729A",
+    "price": 117000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2242691713",
     "slot_id": "202610076016",
     "items": [
      {
       "brand": "쥬시쥬디",
-      "product": "배색헨리넥골지니트 J1KT026D",
-      "price": 68000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253005809"
+      "product": "스웨이드테일러드자켓 JZJK729A",
+      "price": 117000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2242691713"
      }
     ],
     "title": "[쥬시쥬디] 가을 베스트 나들이룩🍂",
@@ -2894,16 +2894,16 @@
     "start": "09:00",
     "end": "09:59",
     "brand": "휠라",
-    "product": "에샤페 LX FS261OD03X087 초코 FS261OD03X087II3",
+    "product": "공용 에샤페 LX FS261OD03X087 퍼플 FS261OD03X087CJ1",
     "price": 119000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252831103",
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253110031",
     "slot_id": "202610096002",
     "items": [
      {
       "brand": "휠라",
-      "product": "에샤페 LX FS261OD03X087 초코 FS261OD03X087II3",
+      "product": "공용 에샤페 LX FS261OD03X087 퍼플 FS261OD03X087CJ1",
       "price": 119000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252831103"
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253110031"
      }
     ],
     "title": "[휠라] 방송 중 구매 고객 대상 최대 혜택전🔥",
@@ -3252,6 +3252,25 @@
     ],
     "title": "[아서앤그레이스] 가방 장인들이 직접 만드는 명품 가방",
     "pgm": "[아서앤그레이스] 가방/지갑 (패션잡화)"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "케네스레이디",
+    "product": "글로디 롱 원피스 EMWOPQB010 EMWOPQB010",
+    "price": 429000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254461597",
+    "slot_id": "202610106010",
+    "items": [
+     {
+      "brand": "케네스레이디",
+      "product": "글로디 롱 원피스 EMWOPQB010 EMWOPQB010",
+      "price": 429000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254461597"
+     }
+    ],
+    "title": "케네스레이디🍂 간절기 의류 특별 방송💕",
+    "pgm": "백구쇼 (멀티커머스)"
    }
   ],
   "2026-10-11": [
@@ -3387,6 +3406,25 @@
     ],
     "title": "MD PICK 맛집, 집에서 즐기는 명동칼국수",
     "pgm": "[명동칼국수] 칼국수/김치 (일반식품1)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "린",
+    "product": "벨티드 구스 하프다운 LGDJPK9900 LGDJPK9900",
+    "price": 233000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253972828",
+    "slot_id": "202610116010",
+    "items": [
+     {
+      "brand": "린",
+      "product": "벨티드 구스 하프다운 LGDJPK9900 LGDJPK9900",
+      "price": 233000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253972828"
+     }
+    ],
+    "title": "최저가 도전! 가을을 담은 LYNN의 페미닌 감성❤️",
+    "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ],
   "2026-10-12": [
