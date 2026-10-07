@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-07T10:15:00+09:00",
+ "generated_at": "2026-10-07T11:10:37+09:00",
  "today": "2026-10-07",
  "dates": [
   "2026-10-06",
@@ -6625,7 +6625,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -6681,7 +6682,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -6972,7 +6974,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -7140,7 +7143,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -7308,7 +7312,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 7
     },
     {
      "start": "10:30",
@@ -7660,7 +7665,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -19851,7 +19857,8 @@ window.SCHEDULE = {
      "slot_id": "60344",
      "pgm": "성분에디터 실크앰플~79%",
      "title": "전 구매 앰플 5회분 증정",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 3
     },
     {
      "start": "08:30",
@@ -20997,10 +21004,11 @@ window.SCHEDULE = {
  "hot": {
   "top": 10,
   "dates": [
-   "2026-10-06"
+   "2026-10-06",
+   "2026-10-07"
   ],
-  "matched": 7,
-  "unmatched": 2
+  "matched": 14,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
