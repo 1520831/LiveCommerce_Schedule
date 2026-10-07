@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-07T19:00:12+09:00",
+ "generated_at": "2026-10-07T20:00:11+09:00",
  "today": "2026-10-07",
  "dates": [
   "2026-10-06",
@@ -7081,8 +7081,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 9
+     "category": "푸드"
     },
     {
      "start": "10:00",
@@ -7609,7 +7608,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 4
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -8691,7 +8690,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "13:00",
@@ -9871,7 +9870,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 6
     },
     {
      "start": "19:00",
@@ -9942,7 +9942,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 3
     },
     {
      "start": "19:00",
@@ -23222,7 +23223,7 @@ window.SCHEDULE = {
      "pgm": "성분에디터 실크앰플~79%",
      "title": "전 구매 앰플 5회분 증정",
      "category": "뷰티",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "08:30",
@@ -23342,8 +23343,7 @@ window.SCHEDULE = {
      "slot_id": "60274",
      "pgm": "헤이미니 가을 신학기전",
      "title": "카카오 초특가 LIVE!",
-     "category": "키즈",
-     "hot": 10
+     "category": "키즈"
     },
     {
      "start": "11:30",
@@ -23379,8 +23379,7 @@ window.SCHEDULE = {
      "slot_id": "60223",
      "pgm": "켈리맘x레드루트",
      "title": "가을맞이 특가 라이브!",
-     "category": "키즈",
-     "hot": 8
+     "category": "키즈"
     },
     {
      "start": "17:00",
@@ -23428,7 +23427,8 @@ window.SCHEDULE = {
      "slot_id": "60379",
      "pgm": "쎈딜로 다시 찾아온 농심",
      "title": "툼바떡볶이면 신상 출시",
-     "category": "식품"
+     "category": "식품",
+     "hot": 4
     },
     {
      "start": "19:00",
