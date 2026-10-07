@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-10",
- "updated_at": "2026-10-07T17:17:09+09:00",
+ "updated_at": "2026-10-07T18:01:25+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -1026,8 +1026,8 @@
     "category": "식품"
    },
    {
-    "start": "18:30",
-    "end": "20:00",
+    "start": "17:40",
+    "end": "19:10",
     "brand": "만수동떡볶이만떡",
     "product": "떡볶이 7가지맛 내맘대로 무료배송 300g 밀키트 만수동떡볶이 만떡",
     "price": 6000,
@@ -1756,6 +1756,18 @@
     "pgm": "루브르파리 인기14K 주얼리",
     "title": "한정수량 최대 83%특가!",
     "category": "패션"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "커리쉴",
+    "product": "[26FW에디션][선물포장] 바바수오일 70ml 헤어에센스 세트 (+ 샴푸/트리트먼트 증정)",
+    "price": 36000,
+    "link": "https://gift.kakao.com/product/4984842?url=product&cId=4984842",
+    "slot_id": "60569",
+    "pgm": "커리쉴x카쇼라",
+    "title": "스페셜 헤어케어 LIVE",
+    "category": "뷰티"
    },
    {
     "start": "10:00",

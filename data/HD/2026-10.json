@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-10",
- "updated_at": "2026-10-07T17:16:54+09:00",
+ "updated_at": "2026-10-07T18:01:11+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -2463,6 +2463,12 @@
       "product": "골드바 3.75g 석굴암",
       "price": 917000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251790188"
+     },
+     {
+      "brand": "아시아골드",
+      "product": "훈민정음 반포 580주년 실버바 200g (우드케이스 포함)",
+      "price": 910000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254001273"
      }
     ],
     "title": "[아시아골드] 골드바 쇼라 혜택가!",
@@ -3423,6 +3429,25 @@
     ],
     "title": "[현명쇼] 막스마라 코트 35%▼ 최저가 도전",
     "pgm": "[재방] 현명쇼 (노블레스팀)"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "써스데이아일랜드",
+    "product": "[Thursday Island] 부클 레글런 롱 풀오버(T238MSW231W)",
+    "price": 88000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2240279780",
+    "slot_id": "202610106008",
+    "items": [
+     {
+      "brand": "써스데이아일랜드",
+      "product": "[Thursday Island] 부클 레글런 롱 풀오버(T238MSW231W)",
+      "price": 88000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2240279780"
+     }
+    ],
+    "title": "[써스데이아일랜드] FW 가을에 입기 딱 좋은 코디템",
+    "pgm": "[써스데이아일랜드] 여성의류 (패션1Lab)"
    },
    {
     "start": "19:00",
