@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-08T14:42:21+09:00",
+ "generated_at": "2026-10-08T15:00:35+09:00",
  "today": "2026-10-08",
  "dates": [
   "2026-10-07",
@@ -9835,7 +9835,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 8
+     "hot": 7
     },
     {
      "start": "14:00",
@@ -23306,7 +23306,7 @@ window.SCHEDULE = {
      "pgm": "마미케어 생율무 효소세안제",
      "title": "~76%+쿠폰+마스크팩 증정",
      "category": "뷰티",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "08:30",
