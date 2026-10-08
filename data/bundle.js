@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-08T13:40:36+09:00",
+ "generated_at": "2026-10-08T14:00:22+09:00",
  "today": "2026-10-08",
  "dates": [
   "2026-10-07",
@@ -2806,7 +2806,7 @@ window.SCHEDULE = {
      "pgm": "이거 탐나린",
      "pgm_cd": "1146",
      "category": "식품·건강",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "12:00",
@@ -2845,7 +2845,8 @@ window.SCHEDULE = {
      "title": "다시보는 제옥스👞단 하루 온라인 최저가 ✨",
      "pgm": "브랜디드 라이브쇼",
      "pgm_cd": "1130",
-     "category": "잡화·슈즈"
+     "category": "잡화·슈즈",
+     "hot": 4
     },
     {
      "start": "13:00",
@@ -7968,7 +7969,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -22970,7 +22971,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]쿠쿠×끝장세일! 쿠폰+카드+적립 트리플혜택🤩",
      "rerun": true,
      "category": "가전",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "12:00",
@@ -23305,7 +23306,7 @@ window.SCHEDULE = {
      "pgm": "마미케어 생율무 효소세안제",
      "title": "~76%+쿠폰+마스크팩 증정",
      "category": "뷰티",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "08:30",
@@ -24611,8 +24612,8 @@ window.SCHEDULE = {
    "2026-10-07",
    "2026-10-08"
   ],
-  "matched": 11,
-  "unmatched": 8
+  "matched": 12,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
