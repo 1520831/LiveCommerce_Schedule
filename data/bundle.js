@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-08T12:20:14+09:00",
+ "generated_at": "2026-10-08T12:40:14+09:00",
  "today": "2026-10-08",
  "dates": [
   "2026-10-07",
@@ -550,7 +550,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 페라가모 버킷백 월 1만원대",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -2806,7 +2806,8 @@ window.SCHEDULE = {
      "title": "[이거 탐나린] 나린맘의 육아 비결, 드시모네 10% 카드+10% 적립!",
      "pgm": "이거 탐나린",
      "pgm_cd": "1146",
-     "category": "식품·건강"
+     "category": "식품·건강",
+     "hot": 8
     },
     {
      "start": "12:00",
@@ -24611,8 +24612,8 @@ window.SCHEDULE = {
    "2026-10-07",
    "2026-10-08"
   ],
-  "matched": 11,
-  "unmatched": 8
+  "matched": 12,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
