@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-08T09:40:19+09:00",
+ "generated_at": "2026-10-08T10:00:18+09:00",
  "today": "2026-10-08",
  "dates": [
   "2026-10-07",
@@ -474,7 +474,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K주얼리 BIG 혜택 특집전",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "07:00",
@@ -513,7 +513,7 @@ window.SCHEDULE = {
      ],
      "title": "쇼라 최대 혜택! 보니스팍스로 완성하는 가을 옷장❤️",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "09:00",
@@ -2376,7 +2376,8 @@ window.SCHEDULE = {
      "title": "맘만하니X문아름 소베맘 4세대 기저귀갈이대 단독특가전",
      "pgm": "맘만하니",
      "pgm_cd": "1100",
-     "category": "서비스·렌탈"
+     "category": "서비스·렌탈",
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -6970,7 +6971,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "09:20",
@@ -20587,7 +20588,7 @@ window.SCHEDULE = {
      "pgm": "선착순 가쉬 토너 9900원",
      "title": "전구매 LED 손거울 증정",
      "category": "뷰티",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -21809,8 +21810,8 @@ window.SCHEDULE = {
    "2026-10-07",
    "2026-10-08"
   ],
-  "matched": 10,
-  "unmatched": 9
+  "matched": 11,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
