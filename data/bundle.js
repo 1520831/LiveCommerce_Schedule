@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-08T11:00:38+09:00",
+ "generated_at": "2026-10-08T11:20:16+09:00",
  "today": "2026-10-08",
  "dates": [
   "2026-10-07",
@@ -473,8 +473,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[노블리타] 이탈리아 18K주얼리 BIG 혜택 특집전",
-     "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 10
+     "pgm": "[재방] 노블리타 (노블레스)"
     },
     {
      "start": "07:00",
@@ -551,7 +550,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 페라가모 버킷백 월 1만원대",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -2390,7 +2389,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "1008",
      "category": "식품·건강",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -2403,7 +2402,7 @@ window.SCHEDULE = {
      "title": "[두둥맘대로] 두둥맘 PICK✔️리바트 뚜뚜 아이 책상+의자❤️최대혜택✨",
      "pgm": "두둥맘대로",
      "pgm_cd": "1119",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -7318,7 +7317,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -7408,7 +7407,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -8267,7 +8266,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -20579,7 +20579,7 @@ window.SCHEDULE = {
      "pgm": "마미케어 생율무 효소세안제",
      "title": "~76%+쿠폰+마스크팩 증정",
      "category": "뷰티",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "08:30",
