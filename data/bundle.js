@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-08T15:00:35+09:00",
+ "generated_at": "2026-10-08T15:20:20+09:00",
  "today": "2026-10-08",
  "dates": [
   "2026-10-07",
@@ -2806,7 +2806,7 @@ window.SCHEDULE = {
      "pgm": "이거 탐나린",
      "pgm_cd": "1146",
      "category": "식품·건강",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "12:00",
@@ -9835,7 +9835,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 7
+     "hot": 5
     },
     {
      "start": "14:00",
