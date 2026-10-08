@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-08T10:20:23+09:00",
+ "generated_at": "2026-10-08T10:40:12+09:00",
  "today": "2026-10-08",
  "dates": [
   "2026-10-07",
@@ -474,7 +474,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K주얼리 BIG 혜택 특집전",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 4
+     "hot": 7
     },
     {
      "start": "07:00",
@@ -513,7 +513,7 @@ window.SCHEDULE = {
      ],
      "title": "쇼라 최대 혜택! 보니스팍스로 완성하는 가을 옷장❤️",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 5
+     "hot": 9
     },
     {
      "start": "09:00",
@@ -552,7 +552,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 페라가모 버킷백 월 1만원대",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -2390,7 +2390,8 @@ window.SCHEDULE = {
      "title": "아슈니버스💚초코 아보카도 단쉐 최초 공개💚선착순 아보카도 키캡증정",
      "pgm": "라이브쇼",
      "pgm_cd": "1008",
-     "category": "식품·건강"
+     "category": "식품·건강",
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -7318,7 +7319,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 9
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -7408,7 +7409,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 8
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -21812,8 +21813,8 @@ window.SCHEDULE = {
    "2026-10-07",
    "2026-10-08"
   ],
-  "matched": 13,
-  "unmatched": 6
+  "matched": 14,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
