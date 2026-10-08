@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-08T09:00:20+09:00",
+ "generated_at": "2026-10-08T09:20:13+09:00",
  "today": "2026-10-08",
  "dates": [
   "2026-10-07",
@@ -474,7 +474,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K주얼리 BIG 혜택 특집전",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "07:00",
@@ -532,7 +532,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[메트로시티] 26F/W 신상&베스트 라인 쇼라 특별가",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -20573,7 +20574,7 @@ window.SCHEDULE = {
      "pgm": "마미케어 생율무 효소세안제",
      "title": "~76%+쿠폰+마스크팩 증정",
      "category": "뷰티",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "08:30",
@@ -21808,8 +21809,8 @@ window.SCHEDULE = {
    "2026-10-07",
    "2026-10-08"
   ],
-  "matched": 9,
-  "unmatched": 8
+  "matched": 10,
+  "unmatched": 9
  },
  "fixed": {
   "rows": [
