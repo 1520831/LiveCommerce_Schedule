@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-08T14:20:55+09:00",
+ "generated_at": "2026-10-08T14:42:21+09:00",
  "today": "2026-10-08",
  "dates": [
   "2026-10-07",
@@ -7968,8 +7968,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈",
-     "hot": 10
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -9835,7 +9834,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 8
     },
     {
      "start": "14:00",
@@ -22971,7 +22971,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]쿠쿠×끝장세일! 쿠폰+카드+적립 트리플혜택🤩",
      "rerun": true,
      "category": "가전",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "12:00",
