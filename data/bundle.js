@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-08T09:20:13+09:00",
+ "generated_at": "2026-10-08T09:40:19+09:00",
  "today": "2026-10-08",
  "dates": [
   "2026-10-07",
@@ -533,7 +533,7 @@ window.SCHEDULE = {
      ],
      "title": "[메트로시티] 26F/W 신상&베스트 라인 쇼라 특별가",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -20587,7 +20587,7 @@ window.SCHEDULE = {
      "pgm": "선착순 가쉬 토너 9900원",
      "title": "전구매 LED 손거울 증정",
      "category": "뷰티",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "10:00",
