@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-08T11:20:16+09:00",
+ "generated_at": "2026-10-08T11:40:16+09:00",
  "today": "2026-10-08",
  "dates": [
   "2026-10-07",
@@ -2388,8 +2388,7 @@ window.SCHEDULE = {
      "title": "아슈니버스💚초코 아보카도 단쉐 최초 공개💚선착순 아보카도 키캡증정",
      "pgm": "라이브쇼",
      "pgm_cd": "1008",
-     "category": "식품·건강",
-     "hot": 8
+     "category": "식품·건강"
     },
     {
      "start": "10:00",
@@ -2401,8 +2400,7 @@ window.SCHEDULE = {
      "slot_id": "30294",
      "title": "[두둥맘대로] 두둥맘 PICK✔️리바트 뚜뚜 아이 책상+의자❤️최대혜택✨",
      "pgm": "두둥맘대로",
-     "pgm_cd": "1119",
-     "hot": 10
+     "pgm_cd": "1119"
     },
     {
      "start": "10:00",
@@ -7728,8 +7726,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈",
-     "hot": 9
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -20244,7 +20241,8 @@ window.SCHEDULE = {
      "slot_id": "255026",
      "pgm": "[앵콜]쿠쿠×끝장세일! 쿠폰+카드+적립 트리플혜택🤩",
      "rerun": true,
-     "category": "가전"
+     "category": "가전",
+     "hot": 8
     },
     {
      "start": "12:00",
@@ -21813,8 +21811,8 @@ window.SCHEDULE = {
    "2026-10-07",
    "2026-10-08"
   ],
-  "matched": 14,
-  "unmatched": 5
+  "matched": 12,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
