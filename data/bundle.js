@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-08T08:40:27+09:00",
+ "generated_at": "2026-10-08T09:00:20+09:00",
  "today": "2026-10-08",
  "dates": [
   "2026-10-07",
@@ -493,8 +493,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "⏰잠시 후 종료! 알레보 라이브 특별가",
-     "pgm": "[재방] 알레보 (P.D.Lab)",
-     "hot": 6
+     "pgm": "[재방] 알레보 (P.D.Lab)"
     },
     {
      "start": "08:00",
@@ -514,7 +513,7 @@ window.SCHEDULE = {
      ],
      "title": "쇼라 최대 혜택! 보니스팍스로 완성하는 가을 옷장❤️",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "09:00",
@@ -6970,7 +6969,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "09:20",
@@ -20574,7 +20573,7 @@ window.SCHEDULE = {
      "pgm": "마미케어 생율무 효소세안제",
      "title": "~76%+쿠폰+마스크팩 증정",
      "category": "뷰티",
-     "hot": 4
+     "hot": 2
     },
     {
      "start": "08:30",
@@ -20586,7 +20585,8 @@ window.SCHEDULE = {
      "slot_id": "60345",
      "pgm": "선착순 가쉬 토너 9900원",
      "title": "전구매 LED 손거울 증정",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 6
     },
     {
      "start": "10:00",
