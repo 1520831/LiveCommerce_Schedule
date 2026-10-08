@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-08T11:40:16+09:00",
+ "generated_at": "2026-10-08T12:00:37+09:00",
  "today": "2026-10-08",
  "dates": [
   "2026-10-07",
@@ -550,7 +550,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 페라가모 버킷백 월 1만원대",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -7263,7 +7263,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 1
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -7315,7 +7315,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -7404,8 +7404,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티",
-     "hot": 5
+     "category": "뷰티"
     },
     {
      "start": "10:00",
@@ -8264,7 +8263,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 1
     },
     {
      "start": "11:00",
@@ -20242,7 +20241,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]쿠쿠×끝장세일! 쿠폰+카드+적립 트리플혜택🤩",
      "rerun": true,
      "category": "가전",
-     "hot": 8
+     "hot": 6
     },
     {
      "start": "12:00",
@@ -21811,8 +21810,8 @@ window.SCHEDULE = {
    "2026-10-07",
    "2026-10-08"
   ],
-  "matched": 12,
-  "unmatched": 7
+  "matched": 11,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
