@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-08T10:00:18+09:00",
+ "generated_at": "2026-10-08T10:20:23+09:00",
  "today": "2026-10-08",
  "dates": [
   "2026-10-07",
@@ -474,7 +474,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K주얼리 BIG 혜택 특집전",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "07:00",
@@ -513,7 +513,7 @@ window.SCHEDULE = {
      ],
      "title": "쇼라 최대 혜택! 보니스팍스로 완성하는 가을 옷장❤️",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "09:00",
@@ -532,8 +532,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[메트로시티] 26F/W 신상&베스트 라인 쇼라 특별가",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 6
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "10:00",
@@ -552,7 +551,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 페라가모 버킷백 월 1만원대",
-     "pgm": "투명쇼 (패션잡화)"
+     "pgm": "투명쇼 (패션잡화)",
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -2402,7 +2402,8 @@ window.SCHEDULE = {
      "slot_id": "30294",
      "title": "[두둥맘대로] 두둥맘 PICK✔️리바트 뚜뚜 아이 책상+의자❤️최대혜택✨",
      "pgm": "두둥맘대로",
-     "pgm_cd": "1119"
+     "pgm_cd": "1119",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -6970,8 +6971,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 7
+     "category": "테크"
     },
     {
      "start": "09:20",
@@ -7265,7 +7265,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -7316,7 +7317,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -7405,7 +7407,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -20575,7 +20578,7 @@ window.SCHEDULE = {
      "pgm": "마미케어 생율무 효소세안제",
      "title": "~76%+쿠폰+마스크팩 증정",
      "category": "뷰티",
-     "hot": 1
+     "hot": 3
     },
     {
      "start": "08:30",
@@ -20587,8 +20590,7 @@ window.SCHEDULE = {
      "slot_id": "60345",
      "pgm": "선착순 가쉬 토너 9900원",
      "title": "전구매 LED 손거울 증정",
-     "category": "뷰티",
-     "hot": 8
+     "category": "뷰티"
     },
     {
      "start": "10:00",
@@ -21810,8 +21812,8 @@ window.SCHEDULE = {
    "2026-10-07",
    "2026-10-08"
   ],
-  "matched": 11,
-  "unmatched": 8
+  "matched": 13,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
