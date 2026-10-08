@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-08T12:40:14+09:00",
+ "generated_at": "2026-10-08T13:00:27+09:00",
  "today": "2026-10-08",
  "dates": [
   "2026-10-07",
@@ -2807,7 +2807,7 @@ window.SCHEDULE = {
      "pgm": "이거 탐나린",
      "pgm_cd": "1146",
      "category": "식품·건강",
-     "hot": 8
+     "hot": 4
     },
     {
      "start": "12:00",
@@ -7969,7 +7969,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -22971,7 +22971,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]쿠쿠×끝장세일! 쿠폰+카드+적립 트리플혜택🤩",
      "rerun": true,
      "category": "가전",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "12:00",
@@ -23306,7 +23306,7 @@ window.SCHEDULE = {
      "pgm": "마미케어 생율무 효소세안제",
      "title": "~76%+쿠폰+마스크팩 증정",
      "category": "뷰티",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "08:30",
