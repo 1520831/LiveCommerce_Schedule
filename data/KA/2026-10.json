@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-10",
- "updated_at": "2026-10-08T07:01:04+09:00",
+ "updated_at": "2026-10-08T12:02:18+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -1053,7 +1053,7 @@
   "2026-10-08": [
    {
     "start": "08:30",
-    "end": "11:30",
+    "end": "09:53",
     "brand": "마미케어공식스토어",
     "product": "[마미케어/특대용량] 죽은각질 완벽 제거!! 생율무 효소세안제 반값 체험특가 + 영양크림 & 마스크팩 추가 증정!!",
     "price": 100000,
@@ -1065,7 +1065,7 @@
    },
    {
     "start": "08:30",
-    "end": "11:30",
+    "end": "09:51",
     "brand": "가쉬",
     "product": "[4개 골라담기] 가쉬 1위 10초버블팩 (탄력/미백/수분/진정/남성 5종 택4) (+헤어핀 증정)",
     "price": 114800,
@@ -1077,7 +1077,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:01",
     "brand": "샘표 공식 스토어",
     "product": "차오차이 짜장/마파/짬뽕/마라탕 3+3+3 골라담기(+2개 증정)",
     "price": 35900,
@@ -1089,7 +1089,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:01",
     "brand": "피죤공식몰",
     "product": "액츠 클린젤 액체세제(겸용) 3.1Lx2개+1개더p",
     "price": 29900,
@@ -1101,7 +1101,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:01",
     "brand": "해양심층수 딥스 DEEPS",
     "product": "DEEPS 프로틴워터 레몬 500mL X 24개(유/무라벨 랜덤발송)",
     "price": 28900,
@@ -1112,8 +1112,20 @@
     "category": "식품"
    },
    {
+    "start": "10:41",
+    "end": "11:19",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49900,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "60876",
+    "pgm": "터치그라운드 쿠셔닝슬리퍼",
+    "title": "이렇게 편해도 되나요?",
+    "category": "패션"
+   },
+   {
     "start": "11:00",
-    "end": "12:30",
+    "end": "11:58",
     "brand": "홍천한우마을",
     "product": "[HC한우마을] 1등급 한우홈파티 600g~800g 초특가 세일",
     "price": 93800,
@@ -1122,18 +1134,6 @@
     "pgm": "HC한우마을 홈파티세트",
     "title": "600g~800g외 로스모음",
     "category": "식품"
-   },
-   {
-    "start": "11:00",
-    "end": "12:30",
-    "brand": "생활양식",
-    "product": "[프리미엄] 한일의료기 탄소 매트 온열 카본 전기 요 장판 캠핑 침대",
-    "price": 119000,
-    "link": "https://store.kakao.com/sengsiik/products/635998245",
-    "slot_id": "60896",
-    "pgm": "한일의료기 27년형 탄소매트",
-    "title": "전자파 차단",
-    "category": "테크"
    },
    {
     "start": "11:30",
@@ -1220,18 +1220,6 @@
     "category": "뷰티"
    },
    {
-    "start": "19:00",
-    "end": "20:30",
-    "brand": "에클리스",
-    "product": "에클리스 촉촉 바이알 앰플 50ml 세라마이드+히알루론산",
-    "price": 43000,
-    "link": "https://store.kakao.com/ecliss/products/763767129",
-    "slot_id": "60904",
-    "pgm": "한글날 맞이 특별 라이브",
-    "title": "바이알앰플 4종 30% 특가",
-    "category": "뷰티"
-   },
-   {
     "start": "20:30",
     "end": "22:00",
     "brand": "레인보우샵",
@@ -1248,7 +1236,7 @@
     "end": "22:00",
     "brand": "풀무원가전",
     "product": "풀무원 그린더 에어드라이 열풍건조 음식물처리기 3L FD25FWWS",
-    "price": 299000,
+    "price": 290000,
     "link": "https://store.kakao.com/pulmuone/products/742359974",
     "slot_id": "60446",
     "pgm": "풀무원 음처기 초특가 라이브",
@@ -1266,18 +1254,6 @@
     "pgm": "대성셀틱 프리미엄 카본매트",
     "title": "77년의 보일러기술을 담다",
     "category": "테크"
-   },
-   {
-    "start": "22:30",
-    "end": "00:00",
-    "brand": "터치그라운드 스니커즈",
-    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-    "price": 49900,
-    "link": "https://store.kakao.com/touchground/products/774098244",
-    "slot_id": "60876",
-    "pgm": "터치그라운드 쿠셔닝슬리퍼",
-    "title": "이렇게 편해도 되나요?",
-    "category": "패션"
    }
   ],
   "2026-10-09": [
@@ -1400,6 +1376,18 @@
     "pgm": "바디프로젝트 골드라벨",
     "title": "엠머밀 파로 효소 카쇼라특가",
     "category": "식품"
+   },
+   {
+    "start": "22:30",
+    "end": "00:00",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49900,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "60919",
+    "pgm": "터치그라운드 발편한운동화",
+    "title": "가벼우면서 쿠션감 좋은운동화",
+    "category": "패션"
    }
   ],
   "2026-10-10": [
@@ -1510,6 +1498,18 @@
     "pgm": "신일 26년 동계가전모음전",
     "title": "라이브 추가 1만원할인쿠폰",
     "category": "테크"
+   },
+   {
+    "start": "22:30",
+    "end": "00:00",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49900,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "60920",
+    "pgm": "터치그라운드 쿠셔닝슬리퍼",
+    "title": "이렇게 편해도 되나요?",
+    "category": "패션"
    }
   ],
   "2026-10-11": [
@@ -1524,6 +1524,18 @@
     "pgm": "신일 전기 히터 난로 가습기",
     "title": "포근한 겨울나기 라이브할인",
     "category": "리빙"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "인스탁스",
+    "product": "인스탁스x캐치 티니핑 미니12 패키지 (카메라, 필름 10매, 케이스, 스트랩, 스티커, 틴케이스)",
+    "price": 159000,
+    "link": "https://store.kakao.com/instax/products/365410190",
+    "slot_id": "60910",
+    "pgm": "인스탁스 인기 상품",
+    "title": "최대 30%&구매인증 이벤트",
+    "category": "테크"
    },
    {
     "start": "11:30",
@@ -1603,9 +1615,9 @@
     "start": "19:00",
     "end": "20:30",
     "brand": "브라운공식스토어",
-    "product": "[BRAUN] 브라운 전기면도기 시리즈9 PRO+ 울트라 씬 세척&충전스테이션 전용 날망 번들 에디션",
-    "price": 385000,
-    "link": "https://store.kakao.com/braunoralb/products/785234938",
+    "product": "[BRAUN] 브라운 전기면도기 시리즈9 PRO+ 울트라 씬 세척&충전스테이션 모델",
+    "price": 345000,
+    "link": "https://store.kakao.com/braunoralb/products/581142595",
     "slot_id": "60836",
     "pgm": "브라운 울트라씬 할인혜택",
     "title": "추가 상품권 증정까지!",
@@ -1658,6 +1670,18 @@
     "pgm": "에센비즈 막스마라",
     "title": "메종키츠네 라이브 특가",
     "category": "패션"
+   },
+   {
+    "start": "22:30",
+    "end": "00:00",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49900,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "60921",
+    "pgm": "터치그라운드 발편한운동화",
+    "title": "가벼우면서 쿠션감 좋은운동화",
+    "category": "패션"
    }
   ],
   "2026-10-12": [
@@ -1705,8 +1729,8 @@
     "price": 239000,
     "link": "https://gift.kakao.com/product/14419234?url=product&cId=14419234",
     "slot_id": "60278",
-    "pgm": "키즈패션 주얼리 루미플래닛",
-    "title": "[첫런칭]엄마랑 아이 커플템",
+    "pgm": "키즈주얼리 루미플래닛",
+    "title": "미아방지 외 맘앤키즈 커플템",
     "category": "패션"
    },
    {
@@ -2008,6 +2032,18 @@
     "pgm": "얼라인랩X카쇼라",
     "title": "릴렉스마사지기 앵콜 특가",
     "category": "테크"
+   },
+   {
+    "start": "22:30",
+    "end": "00:00",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49900,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "60922",
+    "pgm": "터치그라운드 쿠셔닝슬리퍼",
+    "title": "이렇게 편해도 되나요?",
+    "category": "패션"
    }
   ],
   "2026-10-13": [
@@ -2044,8 +2080,20 @@
     "link": "https://store.kakao.com/skecherskr/products/66544898",
     "slot_id": "60600",
     "pgm": "기분 좋은 착화감 스케쳐스",
-    "title": "스테디셀러 라인업 모음",
+    "title": "가을/겨울 온가족 슈즈!",
     "category": "패션"
+   },
+   {
+    "start": "08:30",
+    "end": "10:00",
+    "brand": "헤트라스",
+    "product": "헤트라스 프리미엄 대용량 디퓨저 500ml x 2개입 선물세트",
+    "price": 18800,
+    "link": "https://gift.kakao.com/product/5872250?url=product&cId=5872250",
+    "slot_id": "60639",
+    "pgm": "[헤트라스] 카쇼페 라이브!",
+    "title": "올해 최대 할인 혜택",
+    "category": "리빙"
    },
    {
     "start": "08:30",
@@ -2056,7 +2104,7 @@
     "link": "https://gift.kakao.com/product/10343767?url=product&cId=10343767",
     "slot_id": "60783",
     "pgm": "아떼 미니 립글로이밤 기획",
-    "title": "카카오 선물하기 단독 런칭",
+    "title": "카카오 선물하기 최초 런칭",
     "category": "뷰티"
    },
    {
@@ -2152,7 +2200,7 @@
     "link": "https://store.kakao.com/cerolabs/products/797791007",
     "slot_id": "60913",
     "pgm": "[세로랩스]신제품 런칭 특가",
-    "title": "NEW 글레이즈 라",
+    "title": "NEW 글레이즈 라이브",
     "category": "뷰티"
    },
    {
@@ -2170,9 +2218,21 @@
    {
     "start": "19:00",
     "end": "22:00",
+    "brand": "웹투어(주)",
+    "product": "[더앤리조트 가든온 2/3/4인 패키지] 객실 1박+조식+가든온 수영장&스파+더나이트포차 할인권+주중 얼리체크인&레이트체크아웃",
+    "price": 129000,
+    "link": "https://store.kakao.com/webtour/products/722434397",
+    "slot_id": "60204",
+    "pgm": "더앤리조트 양양 단독 패키지",
+    "title": "조식+온천+22시간스테이",
+    "category": "여행"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
     "brand": "다이슨(일반)",
     "product": "다이슨 에어랩 i.d. 멀티 스타일러 앤 드라이어 3중 택1+사은품 증정",
-    "price": 529100,
+    "price": 538100,
     "link": "https://gift.kakao.com/product/12913406?url=product&cId=12913406",
     "slot_id": "60205",
     "pgm": "다이슨 에어랩/슈퍼소닉 등",
@@ -2201,6 +2261,18 @@
     "slot_id": "60642",
     "pgm": "헤라X카쇼페 블랙쿠션&립",
     "title": "하반기 최대 혜택 LIVE",
+    "category": "뷰티"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "맥(MAC)",
+    "product": "[선물포장] 맥 스튜디오 래디언스 세럼-파워드 쿠션 파운데이션 SPF 50+/PA+++ (+ 메이크업 서비스 쿠폰 증정)",
+    "price": 79000,
+    "link": "https://gift.kakao.com/product/14154421?url=product&cId=14154421",
+    "slot_id": "60643",
+    "pgm": "MAC 홀리데이 립밤 선출시",
+    "title": "전구매 선착순 미니맥 증정",
     "category": "뷰티"
    },
    {
