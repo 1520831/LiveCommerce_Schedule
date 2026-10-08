@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-08T13:00:27+09:00",
+ "generated_at": "2026-10-08T13:21:05+09:00",
  "today": "2026-10-08",
  "dates": [
   "2026-10-07",
@@ -549,8 +549,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 페라가모 버킷백 월 1만원대",
-     "pgm": "투명쇼 (패션잡화)",
-     "hot": 10
+     "pgm": "투명쇼 (패션잡화)"
     },
     {
      "start": "11:00",
@@ -24612,8 +24611,8 @@ window.SCHEDULE = {
    "2026-10-07",
    "2026-10-08"
   ],
-  "matched": 12,
-  "unmatched": 7
+  "matched": 11,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
