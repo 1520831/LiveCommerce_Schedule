@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-12T08:29:24+09:00",
+ "generated_at": "2026-10-12T08:40:10+09:00",
  "today": "2026-10-12",
  "dates": [
   "2026-10-11",
@@ -360,7 +360,7 @@ window.SCHEDULE = {
      ],
      "title": "디아루체 X 라씨엔토 26FW 방송에서만 최대 50%!",
      "pgm": "[재방] 디아루체/라씨엔토 (패션2Lab)",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "08:00",
@@ -380,7 +380,7 @@ window.SCHEDULE = {
      ],
      "title": "타미힐피거 여성 FW 신상 방송 중 36% OFF❤️",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "09:00",
@@ -2011,7 +2011,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "0146",
      "category": "여성패션",
-     "hot": 7
+     "hot": 5
     },
     {
      "start": "09:00",
@@ -6463,8 +6463,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "09:00",
@@ -20521,7 +20520,8 @@ window.SCHEDULE = {
      "slot_id": "60386",
      "pgm": "종근당건강 X 카쇼페",
      "title": "최대 10%+10% 중복할인",
-     "category": "식품"
+     "category": "식품",
+     "hot": 10
     },
     {
      "start": "08:30",
@@ -20545,7 +20545,8 @@ window.SCHEDULE = {
      "slot_id": "60785",
      "pgm": "시크릿데이x슈퍼대디 연합전",
      "title": "생리대/기저귀/물티슈 특가",
-     "category": "리빙"
+     "category": "리빙",
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -22472,8 +22473,8 @@ window.SCHEDULE = {
    "2026-10-11",
    "2026-10-12"
   ],
-  "matched": 14,
-  "unmatched": 5
+  "matched": 15,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
