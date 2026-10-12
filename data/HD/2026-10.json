@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-10",
- "updated_at": "2026-10-12T23:30:54+09:00",
+ "updated_at": "2026-10-13T07:00:40+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -4038,14 +4038,14 @@
     "end": "12:59",
     "brand": "이롬",
     "product": "황성주 두유 고단백 플레인 32팩+검은콩 32팩/총64팩 [정가 68500원]",
-    "price": 43900,
+    "price": 68500,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254015497",
     "slot_id": "202610126006",
     "items": [
      {
       "brand": "이롬",
       "product": "황성주 두유 고단백 플레인 32팩+검은콩 32팩/총64팩 [정가 68500원]",
-      "price": 43900,
+      "price": 68500,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254015497"
      }
     ],
@@ -4129,25 +4129,6 @@
     "pgm": "[엘케이] 선앰플 (뷰티1)"
    },
    {
-    "start": "17:00",
-    "end": "17:59",
-    "brand": "해외직구",
-    "product": "[해외배송] 세잔느 에샤프 루시안 울 스카프 토메트(브릭)",
-    "price": 100000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254710965",
-    "slot_id": "202610126011",
-    "items": [
-     {
-      "brand": "해외직구",
-      "product": "[해외배송] 세잔느 에샤프 루시안 울 스카프 토메트(브릭)",
-      "price": 100000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254710965"
-     }
-    ],
-    "title": "[글로벌쇼라] 유럽 현지 LIVE",
-    "pgm": "[이탈리아 현지방송] 세잔느 스카프 (쇼핑라이브)"
-   },
-   {
     "start": "18:00",
     "end": "18:59",
     "brand": "스태비엘",
@@ -4190,14 +4171,14 @@
     "end": "19:59",
     "brand": "신선 설한우",
     "product": "[신선설한우] 1++No.8 한우세트 등심300g 안심300g 살치살 300g 채끝 300g 총 1.2kg",
-    "price": 225000,
+    "price": 255000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2242209067",
     "slot_id": "202610126001",
     "items": [
      {
       "brand": "신선 설한우",
       "product": "[신선설한우] 1++No.8 한우세트 등심300g 안심300g 살치살 300g 채끝 300g 총 1.2kg",
-      "price": 225000,
+      "price": 255000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2242209067"
      }
     ],
@@ -4363,14 +4344,14 @@
     "end": "10:59",
     "brand": "비앙스",
     "product": "VONI 편백나무 원형 회전책장 4단 착불",
-    "price": 526000,
+    "price": 344000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249257918",
     "slot_id": "202610136006",
     "items": [
      {
       "brand": "비앙스",
       "product": "VONI 편백나무 원형 회전책장 4단 착불",
-      "price": 526000,
+      "price": 344000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249257918"
      }
     ],
@@ -4566,6 +4547,25 @@
     ],
     "title": "[아디다스키즈] FW 트랙탑/슈즈 外 최대 혜택❤️",
     "pgm": "[아디다스 키즈] 의류 (멀티커머스)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "러브앤쇼",
+    "product": "롤링 모크넥 니트 GCGIGKT11 GCGIGKT11",
+    "price": 52200,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253081624",
+    "slot_id": "202610136017",
+    "items": [
+     {
+      "brand": "러브앤쇼",
+      "product": "롤링 모크넥 니트 GCGIGKT11 GCGIGKT11",
+      "price": 52200,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253081624"
+     }
+    ],
+    "title": "[러브앤쇼] 스타일리시한 가을 데일리룩❤️",
+    "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ],
   "2026-10-14": [
@@ -5448,6 +5448,84 @@
     ],
     "title": "[르샵블랑] 노윤서PICK! FW코디 고민 끝!",
     "pgm": "현대렐라쇼 (멀티커머스)"
+   }
+  ],
+  "2026-10-18": [
+   {
+    "start": "00:00",
+    "end": "00:59",
+    "brand": "막스마라",
+    "product": "[막스마라]6F 2621086021600 001 레부스 더블 울 캐시미어 쇼츠 코트 카멜",
+    "price": 2290000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253909101",
+    "slot_id": "202610186012",
+    "items": [
+     {
+      "brand": "막스마라",
+      "product": "[막스마라]6F 2621086021600 001 레부스 더블 울 캐시미어 쇼츠 코트 카멜",
+      "price": 2290000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253909101"
+     }
+    ],
+    "title": "[투명쇼] 막스마라 월 1만원대 60개월 무이자",
+    "pgm": "[재방] 투명쇼 (패션잡화)"
+   },
+   {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "무아스",
+    "product": "퓨어 스팀 에어 대용량 가열식 가습기 4L",
+    "price": 179900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2242146689",
+    "slot_id": "202610186003",
+    "items": [
+     {
+      "brand": "무아스",
+      "product": "퓨어 스팀 에어 대용량 가열식 가습기 4L",
+      "price": 179900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2242146689"
+     }
+    ],
+    "title": "[무아스] 가열식 가습기 外 특가전 + 벽시계 경품까지",
+    "pgm": "[집방] 무아스 가습기 (가전)"
+   },
+   {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "스노야",
+    "product": "[SNOYA]스노야 26FW 메리노울 100% V넥 투웨이 풀오버",
+    "price": 99000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252783490",
+    "slot_id": "202610186015",
+    "items": [
+     {
+      "brand": "스노야",
+      "product": "[SNOYA]스노야 26FW 메리노울 100% V넥 투웨이 풀오버",
+      "price": 99000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252783490"
+     }
+    ],
+    "title": "[스노야] 패션컬러테라피❤️ 인기 상품 특별가",
+    "pgm": "[재방] 스노야 (패션3Lab)"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "오운",
+    "product": "24K 행운의 황금 키링 0.02g (럭키 네잎클로버)",
+    "price": 32000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254582297",
+    "slot_id": "202610186008",
+    "items": [
+     {
+      "brand": "오운",
+      "product": "24K 행운의 황금 키링 0.02g (럭키 네잎클로버)",
+      "price": 32000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254582297"
+     }
+    ],
+    "title": "[오운] 🍀행운을 부르는 골드 신상 찬스",
+    "pgm": "[오운] 주얼리 (패션잡화)"
    }
   ]
  }
