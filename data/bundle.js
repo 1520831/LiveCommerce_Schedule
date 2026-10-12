@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-12T10:40:08+09:00",
+ "generated_at": "2026-10-12T11:00:25+09:00",
  "today": "2026-10-12",
  "dates": [
   "2026-10-11",
@@ -2048,7 +2048,7 @@ window.SCHEDULE = {
      "pgm": "맘만하니",
      "pgm_cd": "1100",
      "category": "유아동",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -7059,7 +7059,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -7214,7 +7215,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -7687,7 +7689,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -20522,8 +20524,7 @@ window.SCHEDULE = {
      "slot_id": "60386",
      "pgm": "종근당건강 X 카쇼페",
      "title": "최대 10%+10% 중복할인",
-     "category": "식품",
-     "hot": 10
+     "category": "식품"
     },
     {
      "start": "08:30",
@@ -22474,8 +22475,8 @@ window.SCHEDULE = {
    "2026-10-11",
    "2026-10-12"
   ],
-  "matched": 16,
-  "unmatched": 4
+  "matched": 17,
+  "unmatched": 3
  },
  "fixed": {
   "rows": [
