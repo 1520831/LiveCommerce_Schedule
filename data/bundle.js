@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-12T20:00:10+09:00",
+ "generated_at": "2026-10-12T21:00:12+09:00",
  "today": "2026-10-12",
  "dates": [
   "2026-10-11",
@@ -454,7 +454,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 혜택 총집합",
      "pgm": "노블리타 (노블레스)",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "12:00",
@@ -644,7 +644,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[현명쇼] 셀린느 월 4만원대 15점 선착순",
-     "pgm": "현명쇼(노블레스)"
+     "pgm": "현명쇼(노블레스)",
+     "hot": 10
     },
     {
      "start": "22:00",
@@ -9894,8 +9895,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티",
-     "hot": 9
+     "category": "뷰티"
     },
     {
      "start": "18:00",
@@ -10544,7 +10544,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "19:00",
@@ -11931,7 +11931,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 6
     },
     {
      "start": "20:00",
@@ -24713,7 +24714,7 @@ window.SCHEDULE = {
      "pgm": "역대급 혜택!! 비발디파크",
      "title": "주말도 최대 30시간 스테이",
      "category": "여행",
-     "hot": 8
+     "hot": 5
     },
     {
      "start": "19:00",
@@ -24773,8 +24774,7 @@ window.SCHEDULE = {
      "slot_id": "60637",
      "pgm": "에스트라 크림&로션 쟁이기",
      "title": "카카오단독! 보스턴백 증정",
-     "category": "뷰티",
-     "hot": 10
+     "category": "뷰티"
     },
     {
      "start": "19:00",
