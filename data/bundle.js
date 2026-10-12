@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-12T18:01:52+09:00",
+ "generated_at": "2026-10-12T19:00:13+09:00",
  "today": "2026-10-12",
  "dates": [
   "2026-10-11",
@@ -7628,8 +7628,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -8596,7 +8595,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "12:00",
@@ -9896,7 +9895,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 5
     },
     {
      "start": "18:00",
@@ -24617,7 +24617,7 @@ window.SCHEDULE = {
      "pgm": "하기스 오리지널 라인업",
      "title": "쿠폰 + 페이 할인까지",
      "category": "키즈",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "11:30",
