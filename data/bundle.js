@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-12T08:40:10+09:00",
+ "generated_at": "2026-10-12T09:00:26+09:00",
  "today": "2026-10-12",
  "dates": [
   "2026-10-11",
@@ -340,7 +340,7 @@ window.SCHEDULE = {
      ],
      "title": "[필모아] 세라믹 텀블러, 쇼라 단독가 OPEN!",
      "pgm": "[재방] 필모아 텀블러 (가전)",
-     "hot": 4
+     "hot": 9
     },
     {
      "start": "07:00",
@@ -359,8 +359,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "디아루체 X 라씨엔토 26FW 방송에서만 최대 50%!",
-     "pgm": "[재방] 디아루체/라씨엔토 (패션2Lab)",
-     "hot": 9
+     "pgm": "[재방] 디아루체/라씨엔토 (패션2Lab)"
     },
     {
      "start": "08:00",
@@ -380,7 +379,7 @@ window.SCHEDULE = {
      ],
      "title": "타미힐피거 여성 FW 신상 방송 중 36% OFF❤️",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 3
+     "hot": 1
     },
     {
      "start": "09:00",
@@ -2011,7 +2010,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "0146",
      "category": "여성패션",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "09:00",
@@ -19760,7 +19759,7 @@ window.SCHEDULE = {
      "slot_id": "254479",
      "pgm": "[올인데이] CJ로 채우는 식탁, BEST 특가 총출동",
      "category": "식품·건강",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -20521,7 +20520,7 @@ window.SCHEDULE = {
      "pgm": "종근당건강 X 카쇼페",
      "title": "최대 10%+10% 중복할인",
      "category": "식품",
-     "hot": 10
+     "hot": 3
     },
     {
      "start": "08:30",
@@ -20546,7 +20545,7 @@ window.SCHEDULE = {
      "pgm": "시크릿데이x슈퍼대디 연합전",
      "title": "생리대/기저귀/물티슈 특가",
      "category": "리빙",
-     "hot": 8
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -22473,8 +22472,8 @@ window.SCHEDULE = {
    "2026-10-11",
    "2026-10-12"
   ],
-  "matched": 15,
-  "unmatched": 4
+  "matched": 14,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
