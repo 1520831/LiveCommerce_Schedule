@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-10",
- "updated_at": "2026-10-12T08:27:01+09:00",
+ "updated_at": "2026-10-12T12:01:09+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -3943,14 +3943,14 @@
     "end": "08:59",
     "brand": "타미힐피거",
     "product": "소프트 울 저지 크루넥 스웨터(T22G7KTO060WT1) T22G7KTO060WT1",
-    "price": 207200,
+    "price": 259000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254009604",
     "slot_id": "202610126002",
     "items": [
      {
       "brand": "타미힐피거",
       "product": "소프트 울 저지 크루넥 스웨터(T22G7KTO060WT1) T22G7KTO060WT1",
-      "price": 207200,
+      "price": 259000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254009604"
      }
     ],
@@ -4114,14 +4114,14 @@
     "end": "17:59",
     "brand": "해외직구",
     "product": "[해외배송] 세잔느 에샤프 루시안 울 스카프 토메트(브릭)",
-    "price": 130000,
+    "price": 100000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254710965",
     "slot_id": "202610126011",
     "items": [
      {
       "brand": "해외직구",
       "product": "[해외배송] 세잔느 에샤프 루시안 울 스카프 토메트(브릭)",
-      "price": 130000,
+      "price": 100000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254710965"
      }
     ],
@@ -4287,14 +4287,14 @@
     "end": "08:59",
     "brand": "타미힐피거",
     "product": "남성 4종택1 에센셜 테리 크루넥 티셔츠(T12G6TPO030MT1) T12G6TPO030MT1",
-    "price": 169000,
+    "price": 135200,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252226680",
     "slot_id": "202610136004",
     "items": [
      {
       "brand": "타미힐피거",
       "product": "남성 4종택1 에센셜 테리 크루넥 티셔츠(T12G6TPO030MT1) T12G6TPO030MT1",
-      "price": 169000,
+      "price": 135200,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252226680"
      }
     ],
@@ -4397,22 +4397,41 @@
     "pgm": "[MLB키즈] 아동의류 (멀티커머스)"
    },
    {
+    "start": "14:00",
+    "end": "14:59",
+    "brand": "에티나",
+    "product": "[선택1] 에티나 매쉬 에어니스 내추럴 글로우 쿠션 본품 2개",
+    "price": 70000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254101496",
+    "slot_id": "202610136010",
+    "items": [
+     {
+      "brand": "에티나",
+      "product": "[선택1] 에티나 매쉬 에어니스 내추럴 글로우 쿠션 본품 2개",
+      "price": 70000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254101496"
+     }
+    ],
+    "title": "에티나 글로우 쿠션 최대 70%▼",
+    "pgm": "[더제이앤에스] 쿠션 (뷰티2)"
+   },
+   {
     "start": "15:00",
     "end": "15:59",
     "brand": "밋앤밀",
     "product": "경북 영천 산지직송 26년 햇 사과대추 2kg",
-    "price": 39900,
+    "price": 39100,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254591004",
     "slot_id": "202610136011",
     "items": [
      {
       "brand": "밋앤밀",
       "product": "경북 영천 산지직송 26년 햇 사과대추 2kg",
-      "price": 39900,
+      "price": 39100,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254591004"
      }
     ],
-    "title": "[밋앤밀] 영천 산지직송 사과대추 라이브 론칭 특가",
+    "title": "[밋앤밀] 영천 산지직송 사과대추 라이브 론칭 특별가",
     "pgm": "[잭슨코리아] 사과대추 (쇼핑라이브)"
    },
    {
@@ -4454,6 +4473,25 @@
     "pgm": "[곰보배추] 배추 (액티브라이프)"
    },
    {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "아이러브경북",
+    "product": "그린웰 26년 영주 햇 꿀찬 고구마 실속 3kg",
+    "price": 15900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254580285",
+    "slot_id": "202610136015",
+    "items": [
+     {
+      "brand": "아이러브경북",
+      "product": "그린웰 26년 영주 햇 꿀찬 고구마 실속 3kg",
+      "price": 15900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254580285"
+     }
+    ],
+    "title": "기다리던 고구마! 40년 농부가 키운 영주 꿀 햇고구마",
+    "pgm": "[위팩토리] 햇고구마 (일반식품2)"
+   },
+   {
     "start": "21:00",
     "end": "21:59",
     "brand": "삼성",
@@ -4490,28 +4528,28 @@
     ],
     "title": "[아디다스키즈] FW 트랙탑/슈즈 外 최대 혜택❤️",
     "pgm": "[아디다스 키즈] 의류 (멀티커머스)"
-   },
-   {
-    "start": "23:00",
-    "end": "23:59",
-    "brand": "러브앤쇼",
-    "product": "롤링 모크넥 니트 GCGIGKT11 GCGIGKT11",
-    "price": 58000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253081624",
-    "slot_id": "202610136017",
-    "items": [
-     {
-      "brand": "러브앤쇼",
-      "product": "롤링 모크넥 니트 GCGIGKT11 GCGIGKT11",
-      "price": 58000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253081624"
-     }
-    ],
-    "title": "[러브앤쇼] 스타일리시한 가을 데일리룩❤️",
-    "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ],
   "2026-10-14": [
+   {
+    "start": "07:00",
+    "end": "07:59",
+    "brand": "알레보",
+    "product": "X스텐락 대용량 컬러 스텐 숨 용기 5종 세트",
+    "price": 139000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2219698131",
+    "slot_id": "202610146020",
+    "items": [
+     {
+      "brand": "알레보",
+      "product": "X스텐락 대용량 컬러 스텐 숨 용기 5종 세트",
+      "price": 139000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2219698131"
+     }
+    ],
+    "title": "⏰잠시 후 종료! 알레보 라이브 특별가",
+    "pgm": "[재방] 알레보 (P.D.Lab)"
+   },
    {
     "start": "08:00",
     "end": "08:59",
@@ -4604,7 +4642,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2204753784"
      }
     ],
-    "title": "[맛춤가게] 선진포크한돈 맛춤가게 특집 쇼라!",
+    "title": "[맛춤가게] 선진포크한돈 특집 쇼라!",
     "pgm": "맛춤가게 (식품)"
    },
    {
@@ -4760,6 +4798,25 @@
     "pgm": "[LG] 정수기 (렌탈)"
    },
    {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "닥스",
+    "product": "닥스 구두 여성 버클포인트 청키 경량 로퍼 DRF504 DRF504",
+    "price": 295200,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247935535",
+    "slot_id": "202610146015",
+    "items": [
+     {
+      "brand": "닥스",
+      "product": "닥스 구두 여성 버클포인트 청키 경량 로퍼 DRF504 DRF504",
+      "price": 295200,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247935535"
+     }
+    ],
+    "title": "[닥스] 26FW 슈즈 추천! 쇼라 특별가 득템 찬스",
+    "pgm": "[닥스] 슈즈 (멀티커머스)"
+   },
+   {
     "start": "23:00",
     "end": "23:59",
     "brand": "타미힐피거",
@@ -4815,7 +4872,26 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254609892"
      }
     ],
-    "title": "써스데이아일랜드 심쿵룩 원피스 코디 ! 방송중 55%▼",
+    "title": "써스데이아일랜드 심쿵룩 원피스 코디! 방송 중 55%▼",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "루즈앤라운지",
+    "product": "네오지오 크로스 숄더 RA2G3ABG261KBK RA2G3ABG261KBK",
+    "price": 191400,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251704988",
+    "slot_id": "202610156004",
+    "items": [
+     {
+      "brand": "루즈앤라운지",
+      "product": "네오지오 크로스 숄더 RA2G3ABG261KBK RA2G3ABG261KBK",
+      "price": 191400,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251704988"
+     }
+    ],
+    "title": "[루즈앤라운지] 최대 55%▼ 쇼라 득템가 찬스",
     "pgm": "백화점 프리오픈쇼(멀티커머스)"
    },
    {
@@ -4853,7 +4929,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253965009"
      }
     ],
-    "title": "르크루제 가을맞이 시크릿특가🔥",
+    "title": "르크루제 가을맞이 시크릿 특별가🔥",
     "pgm": "[르크루제] 주방용품 (멀티커머스)"
    },
    {
@@ -4891,7 +4967,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254007334"
      }
     ],
-    "title": "[서대문평양옥] 토종닭 닭곰탕 론칭 20% 쿠폰특가",
+    "title": "[서대문평양옥] 토종닭 닭곰탕 론칭 20% 쿠폰",
     "pgm": "[서대문평양옥] 닭곰탕 (일반식품2)"
    },
    {
@@ -4910,7 +4986,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253976438"
      }
     ],
-    "title": "[라브린] 가을맞이 수분보충템! 스킨케어~50%",
+    "title": "[라브린] 가을맞이 수분보충템! 스킨케어 최대 50%",
     "pgm": "[엔씨지컴퍼니] 기초 (뷰티1)"
    },
    {
@@ -4933,6 +5009,25 @@
     "pgm": "[막스마라] 의류 (패션잡화)"
    },
    {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "시세이도",
+    "product": "[특별] 글로우 쿠션 세트(리필+케이스)+리필정품증정",
+    "price": 64000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2151205623",
+    "slot_id": "202610156014",
+    "items": [
+     {
+      "brand": "시세이도",
+      "product": "[특별] 글로우 쿠션 세트(리필+케이스)+리필정품증정",
+      "price": 64000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2151205623"
+     }
+    ],
+    "title": "[시세이도] FW 파운데이션, 얼티뮨 세럼 外",
+    "pgm": "초밀착뷰티쇼 (뷰티)"
+   },
+   {
     "start": "21:00",
     "end": "21:59",
     "brand": "한국금다이아몬드",
@@ -4950,9 +5045,47 @@
     ],
     "title": "[한국금다이아몬드] 실속형 골드바 쇼라 혜택가!",
     "pgm": "[한국금다이아몬드] 순금 주얼리/골드바 (패션잡화)"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "시스티나",
+    "product": "울 타이넥 니트 풀오버 ASKPOQ41190 ASKPOQ41190",
+    "price": 70200,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254721572",
+    "slot_id": "202610156016",
+    "items": [
+     {
+      "brand": "시스티나",
+      "product": "울 타이넥 니트 풀오버 ASKPOQ41190 ASKPOQ41190",
+      "price": 70200,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254721572"
+     }
+    ],
+    "title": "레이어드하기 좋은 계절, 시스티나가 제안하는 가을룩❤️",
+    "pgm": "[시스티나] 여성의류 (패션1Lab)"
    }
   ],
   "2026-10-16": [
+   {
+    "start": "00:00",
+    "end": "00:59",
+    "brand": "스노야",
+    "product": "[SNOYA]스노야 26FW 메리노울 100% V넥 투웨이 풀오버",
+    "price": 99000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252783490",
+    "slot_id": "202610166021",
+    "items": [
+     {
+      "brand": "스노야",
+      "product": "[SNOYA]스노야 26FW 메리노울 100% V넥 투웨이 풀오버",
+      "price": 99000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252783490"
+     }
+    ],
+    "title": "[스노야] 패션컬러테라피❤️ 인기 상품 특별가",
+    "pgm": "[재방] 스노야 (패션3Lab)"
+   },
    {
     "start": "07:00",
     "end": "07:59",
@@ -5144,6 +5277,25 @@
     ],
     "title": "게스진 방송중 가을 신상 최대 55%OFF",
     "pgm": "백구쇼 (멀티커머스)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "르샵블랑",
+    "product": "데님패치 카라 스웨이드 자켓 (L1H32LJK020) L1H32LJK020",
+    "price": 287200,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253185659",
+    "slot_id": "202610176012",
+    "items": [
+     {
+      "brand": "르샵블랑",
+      "product": "데님패치 카라 스웨이드 자켓 (L1H32LJK020) L1H32LJK020",
+      "price": 287200,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253185659"
+     }
+    ],
+    "title": "[르샵블랑] 노윤서PICK! FW코디 고민 끝!",
+    "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ]
  }
