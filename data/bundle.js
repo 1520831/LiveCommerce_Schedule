@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-12T10:00:10+09:00",
+ "generated_at": "2026-10-12T10:20:09+09:00",
  "today": "2026-10-12",
  "dates": [
   "2026-10-11",
@@ -378,7 +378,7 @@ window.SCHEDULE = {
      ],
      "title": "타미힐피거 여성 FW 신상 방송 중 36% OFF❤️",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 4
+     "hot": 7
     },
     {
      "start": "09:00",
@@ -2008,8 +2008,7 @@ window.SCHEDULE = {
      "title": "다시보는 애드아보아 26FW 신상 최초공개💕",
      "pgm": "라이브쇼",
      "pgm_cd": "0146",
-     "category": "여성패션",
-     "hot": 10
+     "category": "여성패션"
     },
     {
      "start": "09:00",
@@ -2049,7 +2048,7 @@ window.SCHEDULE = {
      "pgm": "맘만하니",
      "pgm_cd": "1100",
      "category": "유아동",
-     "hot": 8
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -7375,7 +7374,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -7496,7 +7496,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -7626,7 +7627,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -19760,7 +19762,7 @@ window.SCHEDULE = {
      "slot_id": "254479",
      "pgm": "[올인데이] CJ로 채우는 식탁, BEST 특가 총출동",
      "category": "식품·건강",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -20521,7 +20523,7 @@ window.SCHEDULE = {
      "pgm": "종근당건강 X 카쇼페",
      "title": "최대 10%+10% 중복할인",
      "category": "식품",
-     "hot": 3
+     "hot": 6
     },
     {
      "start": "08:30",
@@ -20546,7 +20548,7 @@ window.SCHEDULE = {
      "pgm": "시크릿데이x슈퍼대디 연합전",
      "title": "생리대/기저귀/물티슈 특가",
      "category": "리빙",
-     "hot": 5
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -22473,8 +22475,8 @@ window.SCHEDULE = {
    "2026-10-11",
    "2026-10-12"
   ],
-  "matched": 15,
-  "unmatched": 5
+  "matched": 17,
+  "unmatched": 3
  },
  "fixed": {
   "rows": [
