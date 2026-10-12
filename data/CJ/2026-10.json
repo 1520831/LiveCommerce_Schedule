@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-10",
- "updated_at": "2026-10-12T18:00:50+09:00",
+ "updated_at": "2026-10-12T23:31:00+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -4028,7 +4028,7 @@
     "end": "12:59",
     "brand": "에스까다",
     "product": "26FW 후드 숏 패딩 베스트",
-    "price": 181300,
+    "price": 259000,
     "link": "https://item.cjonstyle.com/item/2092494267?channelCode=30002002",
     "slot_id": "30492",
     "title": "다시보는👀에스까다 피무베아 브랜드 선공개",
@@ -4131,7 +4131,7 @@
     "start": "17:00",
     "end": "17:59",
     "brand": "가연",
-    "product": "단독 특별 가입비 혜택 35% + 전화 상담만 해도 투썸아메리카노 (10/12~10/15)",
+    "product": "단독 연중 최대혜택 특별 가입비 혜택 35% + 전화 상담만 해도 투썸아메리카노 (10/12~10/15)",
     "price": 0,
     "link": "https://item.cjonstyle.com/item/2081449551?channelCode=30002002",
     "slot_id": "30380",
@@ -4209,9 +4209,9 @@
     "start": "19:00",
     "end": "19:59",
     "brand": "베라왕",
-    "product": "26FW FAUX레더 렉싱턴 사파리",
-    "price": 119000,
-    "link": "https://item.cjonstyle.com/item/2090809096?channelCode=30002002",
+    "product": "26 FW 아르떼 시어 니트 3종",
+    "price": 89900,
+    "link": "https://item.cjonstyle.com/item/2089879641?channelCode=30002002",
     "slot_id": "30385",
     "title": "엣지쇼❤️베라왕 26FW 신상품 방송 중 할인",
     "pgm": "엣지쇼",
@@ -4236,7 +4236,7 @@
     "end": "20:59",
     "brand": "어그",
     "product": "[공식][26FW] 여성 비아 메리제인 1167612-CHE",
-    "price": 218000,
+    "price": 174400,
     "link": "https://item.cjonstyle.com/item/2092843904?channelCode=30002002",
     "slot_id": "30386",
     "title": "겟잇뷰티 POP-UP💖 어그 공식 수입 정품! 26FW 최초 LIVE",
@@ -4338,15 +4338,14 @@
    {
     "start": "21:45",
     "end": "22:44",
-    "brand": "펠트로스튜디오",
-    "product": "[프리오더_11월20일발송] 강주은 PICK 아티초크 디너세트",
-    "price": 1389600,
-    "link": "https://item.cjonstyle.com/item/2095568099?channelCode=30002002",
+    "brand": "",
+    "product": "펠트로스튜디오X굿라이프 NEW 아티초크세트 공개🩷",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/mlc/main/30389",
     "slot_id": "30389",
     "title": "펠트로스튜디오X굿라이프 NEW 아티초크세트 공개🩷",
     "pgm": "굿라이프",
-    "pgm_cd": "1015",
-    "category": "주방·잡화"
+    "pgm_cd": "1015"
    },
    {
     "start": "22:00",
@@ -4406,14 +4405,14 @@
     "start": "09:15",
     "end": "10:19",
     "brand": "지스튜디오",
-    "product": "26FW 이태리 직수입레더 컴팩트 카바스백",
-    "price": 254150,
-    "link": "https://item.cjonstyle.com/item/2091661981?channelCode=30002002",
+    "product": "26FW 웜 기모 하이넥 브라티 3종",
+    "price": 99000,
+    "link": "https://item.cjonstyle.com/item/2093668199?channelCode=30002002",
     "slot_id": "30390",
     "title": "스타일나래이션🎇지스튜디오 릴레이라이브",
     "pgm": "스타일 나래이션",
     "pgm_cd": "1116",
-    "category": "잡화·슈즈"
+    "category": "여성패션"
    },
    {
     "start": "09:40",
@@ -4445,11 +4444,11 @@
     "start": "10:00",
     "end": "10:59",
     "brand": "",
-    "product": "[두둥맘대로] 두둥맘 PICK✔️리마이크로킥보드❤️최대 혜택가✨",
+    "product": "[두둥맘대로] 두둥맘 PICK✔️마이크로킥보드❤️최대 혜택가✨",
     "price": 0,
     "link": "https://mlive.cjonstyle.com/m/preview/30510",
     "slot_id": "30510",
-    "title": "[두둥맘대로] 두둥맘 PICK✔️리마이크로킥보드❤️최대 혜택가✨",
+    "title": "[두둥맘대로] 두둥맘 PICK✔️마이크로킥보드❤️최대 혜택가✨",
     "pgm": "두둥맘대로",
     "pgm_cd": "1119"
    },
@@ -4744,7 +4743,7 @@
     "price": 2175000,
     "link": "https://item.cjonstyle.com/item/2094746173?channelCode=30002002",
     "slot_id": "30398",
-    "title": "[은세로운 발견] LG전자♥️스타일러&공기청정기 外 역대급 텐텐찬스💫",
+    "title": "[은세로운발견] LG전자♥️스타일러&공기청정기 外 역대급 텐텐찬스💫",
     "pgm": "은세로운 발견",
     "pgm_cd": "1075",
     "category": "가전"
@@ -4897,7 +4896,7 @@
     "end": "23:59",
     "brand": "어그",
     "product": "[공식][26FW] 여성 비아 메리제인 1167612-CHE",
-    "price": 218000,
+    "price": 174400,
     "link": "https://item.cjonstyle.com/item/2092843904?channelCode=30002002",
     "slot_id": "30532",
     "title": "다시보는 겟잇뷰티 POP-UP💖어그 공식 수입 정품! 26FW 최초공개",
@@ -5032,6 +5031,19 @@
     "title": "다시보는 시몬스 10월 브티 역대급혜택💟신규프레임 루티안 최초공개👀",
     "pgm": "브티나는 생활",
     "pgm_cd": "0101"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "LG전자",
+    "product": "LG 스탠바이미 2 Max 32LX6BPGA",
+    "price": 1446900,
+    "link": "https://item.cjonstyle.com/item/2084415280?channelCode=30002002",
+    "slot_id": "30408",
+    "title": "LG전자 스탠바이미2 MAX +워시타워 초특가 쿠폰 적용!",
+    "pgm": "라이브쇼",
+    "pgm_cd": "0216",
+    "category": "가전"
    },
    {
     "start": "19:00",
@@ -5226,6 +5238,19 @@
     "pgm": "라이브쇼",
     "pgm_cd": "0213",
     "category": "잡화·슈즈"
+   },
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "마담주",
+    "product": "사과의 王, 진한맛 최고의 감홍 사과 (2.0kg내외/5-6과)",
+    "price": 49500,
+    "link": "https://item.cjonstyle.com/item/2095431228?channelCode=30002002",
+    "slot_id": "30417",
+    "title": "프리미엄 과일 부띠크 \"마담주\" CJ 온스타일 최초&최저가🍎🍈",
+    "pgm": "푸드온다",
+    "pgm_cd": "1018",
+    "category": "식품·건강"
    },
    {
     "start": "11:00",

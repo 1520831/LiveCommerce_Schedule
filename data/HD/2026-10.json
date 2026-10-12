@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-10",
- "updated_at": "2026-10-12T18:00:44+09:00",
+ "updated_at": "2026-10-12T23:30:54+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -4382,14 +4382,14 @@
     "end": "11:59",
     "brand": "제로블럭",
     "product": "프리미엄1200 퍼즐매트 전문가 시공 2.0cm 20평 (120x120x2.0cm)",
-    "price": 3042000,
+    "price": 2862000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2230386210",
     "slot_id": "202610136007",
     "items": [
      {
       "brand": "제로블럭",
       "product": "프리미엄1200 퍼즐매트 전문가 시공 2.0cm 20평 (120x120x2.0cm)",
-      "price": 3042000,
+      "price": 2862000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2230386210"
      }
     ],
@@ -5368,12 +5368,6 @@
       "product": "아델리나백 블랙",
       "price": 1130000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253652254"
-     },
-     {
-      "brand": "헨리베글린",
-      "product": "클라라 마이크로 램올드아이언 베이지",
-      "price": 930000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249213198"
      }
     ],
     "title": "[헨리베글린] 26FW 최신상&베스트 라인 쇼라 단독",
