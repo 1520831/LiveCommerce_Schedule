@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-13T07:01:48+09:00",
+ "generated_at": "2026-10-13T08:00:18+09:00",
  "today": "2026-10-13",
  "dates": [
   "2026-10-12",
@@ -398,7 +398,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 막스마라 코트 월 1만원대",
      "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "07:00",
@@ -417,7 +417,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[한민금거래소] 골드바 최대 60개월 무이자 혜택!",
-     "pgm": "[재방] 한민금거래소 (패션잡화)"
+     "pgm": "[재방] 한민금거래소 (패션잡화)",
+     "hot": 1
     },
     {
      "start": "08:00",
@@ -6910,7 +6911,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 6
     },
     {
      "start": "03:20",
@@ -7008,8 +7009,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "03:50",
@@ -7136,7 +7136,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 7
     },
     {
      "start": "08:00",
@@ -22633,7 +22633,7 @@ window.SCHEDULE = {
    "2026-10-13"
   ],
   "matched": 9,
-  "unmatched": 10
+  "unmatched": 9
  },
  "fixed": {
   "rows": [
