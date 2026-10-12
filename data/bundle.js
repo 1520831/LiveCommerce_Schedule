@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-12T21:00:12+09:00",
+ "generated_at": "2026-10-12T22:00:11+09:00",
  "today": "2026-10-12",
  "dates": [
   "2026-10-11",
@@ -453,8 +453,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 혜택 총집합",
-     "pgm": "노블리타 (노블레스)",
-     "hot": 9
+     "pgm": "노블리타 (노블레스)"
     },
     {
      "start": "12:00",
@@ -645,7 +644,7 @@ window.SCHEDULE = {
      ],
      "title": "[현명쇼] 셀린느 월 4만원대 15점 선착순",
      "pgm": "현명쇼(노블레스)",
-     "hot": 10
+     "hot": 4
     },
     {
      "start": "22:00",
@@ -10544,7 +10543,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "19:00",
@@ -24714,7 +24713,7 @@ window.SCHEDULE = {
      "pgm": "역대급 혜택!! 비발디파크",
      "title": "주말도 최대 30시간 스테이",
      "category": "여행",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "19:00",
@@ -26558,7 +26557,7 @@ window.SCHEDULE = {
    "2026-10-11",
    "2026-10-12"
   ],
-  "matched": 16,
+  "matched": 15,
   "unmatched": 4
  },
  "fixed": {
