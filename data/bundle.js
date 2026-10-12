@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-12T10:20:09+09:00",
+ "generated_at": "2026-10-12T10:40:08+09:00",
  "today": "2026-10-12",
  "dates": [
   "2026-10-11",
@@ -377,8 +377,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "타미힐피거 여성 FW 신상 방송 중 36% OFF❤️",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 7
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "09:00",
@@ -416,7 +415,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 버버리 퀼팅 자켓 월 2만원대~",
-     "pgm": "투명쇼 (패션잡화)"
+     "pgm": "투명쇼 (패션잡화)",
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -6733,7 +6733,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -7496,8 +7497,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프",
-     "hot": 10
+     "category": "라이프"
     },
     {
      "start": "10:00",
@@ -7686,7 +7686,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -19761,8 +19762,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4661595671",
      "slot_id": "254479",
      "pgm": "[올인데이] CJ로 채우는 식탁, BEST 특가 총출동",
-     "category": "식품·건강",
-     "hot": 9
+     "category": "식품·건강"
     },
     {
      "start": "10:00",
@@ -20523,7 +20523,7 @@ window.SCHEDULE = {
      "pgm": "종근당건강 X 카쇼페",
      "title": "최대 10%+10% 중복할인",
      "category": "식품",
-     "hot": 6
+     "hot": 10
     },
     {
      "start": "08:30",
@@ -20547,8 +20547,7 @@ window.SCHEDULE = {
      "slot_id": "60785",
      "pgm": "시크릿데이x슈퍼대디 연합전",
      "title": "생리대/기저귀/물티슈 특가",
-     "category": "리빙",
-     "hot": 8
+     "category": "리빙"
     },
     {
      "start": "10:00",
@@ -22475,8 +22474,8 @@ window.SCHEDULE = {
    "2026-10-11",
    "2026-10-12"
   ],
-  "matched": 17,
-  "unmatched": 3
+  "matched": 16,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
