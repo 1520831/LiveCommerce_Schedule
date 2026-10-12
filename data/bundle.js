@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-12T12:20:10+09:00",
+ "generated_at": "2026-10-12T12:40:13+09:00",
  "today": "2026-10-12",
  "dates": [
   "2026-10-11",
@@ -2201,7 +2201,7 @@ window.SCHEDULE = {
      "pgm": "맘만하니",
      "pgm_cd": "1100",
      "category": "유아동",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -8512,8 +8512,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 9
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -9118,7 +9117,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -22762,7 +22761,7 @@ window.SCHEDULE = {
      "pgm": "하기스 오리지널 라인업",
      "title": "쿠폰 + 페이 할인까지",
      "category": "키즈",
-     "hot": 10
+     "hot": 7
     },
     {
      "start": "11:30",
@@ -22774,7 +22773,8 @@ window.SCHEDULE = {
      "slot_id": "60532",
      "pgm": "에스더버니리틀X카쇼라",
      "title": "가을 메가 세일 오픈!",
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 9
     },
     {
      "start": "12:00",
