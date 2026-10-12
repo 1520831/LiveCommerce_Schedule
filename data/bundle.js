@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-12T19:00:13+09:00",
+ "generated_at": "2026-10-12T20:00:10+09:00",
  "today": "2026-10-12",
  "dates": [
   "2026-10-11",
@@ -454,7 +454,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 혜택 총집합",
      "pgm": "노블리타 (노블레스)",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "12:00",
@@ -2424,7 +2424,7 @@ window.SCHEDULE = {
      "pgm_cd": "1099",
      "category": "서비스·렌탈",
      "cast": "influencer",
-     "hot": 1
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -8594,8 +8594,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 8
+     "category": "푸드"
     },
     {
      "start": "12:00",
@@ -9896,7 +9895,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 5
+     "hot": 9
     },
     {
      "start": "18:00",
@@ -10544,7 +10543,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 7
     },
     {
      "start": "19:00",
@@ -10769,7 +10769,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 2
     },
     {
      "start": "19:00",
@@ -11020,7 +11021,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 1
     },
     {
      "start": "19:00",
@@ -24616,8 +24618,7 @@ window.SCHEDULE = {
      "slot_id": "60453",
      "pgm": "하기스 오리지널 라인업",
      "title": "쿠폰 + 페이 할인까지",
-     "category": "키즈",
-     "hot": 10
+     "category": "키즈"
     },
     {
      "start": "11:30",
@@ -24711,7 +24712,8 @@ window.SCHEDULE = {
      "slot_id": "60203",
      "pgm": "역대급 혜택!! 비발디파크",
      "title": "주말도 최대 30시간 스테이",
-     "category": "여행"
+     "category": "여행",
+     "hot": 8
     },
     {
      "start": "19:00",
@@ -24771,7 +24773,8 @@ window.SCHEDULE = {
      "slot_id": "60637",
      "pgm": "에스트라 크림&로션 쟁이기",
      "title": "카카오단독! 보스턴백 증정",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 10
     },
     {
      "start": "19:00",
@@ -26555,8 +26558,8 @@ window.SCHEDULE = {
    "2026-10-11",
    "2026-10-12"
   ],
-  "matched": 13,
-  "unmatched": 7
+  "matched": 16,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
