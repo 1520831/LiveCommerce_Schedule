@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-12T22:00:11+09:00",
+ "generated_at": "2026-10-12T23:00:13+09:00",
  "today": "2026-10-12",
  "dates": [
   "2026-10-11",
@@ -644,7 +644,7 @@ window.SCHEDULE = {
      ],
      "title": "[현명쇼] 셀린느 월 4만원대 15점 선착순",
      "pgm": "현명쇼(노블레스)",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "22:00",
@@ -2424,7 +2424,7 @@ window.SCHEDULE = {
      "pgm_cd": "1099",
      "category": "서비스·렌탈",
      "cast": "influencer",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -10543,7 +10543,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 9
+     "hot": 8
     },
     {
      "start": "19:00",
@@ -10769,7 +10769,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 2
+     "hot": 10
     },
     {
      "start": "19:00",
@@ -11931,7 +11931,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "20:00",
@@ -24713,7 +24713,7 @@ window.SCHEDULE = {
      "pgm": "역대급 혜택!! 비발디파크",
      "title": "주말도 최대 30시간 스테이",
      "category": "여행",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "19:00",
