@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-12T11:00:25+09:00",
+ "generated_at": "2026-10-12T11:20:56+09:00",
  "today": "2026-10-12",
  "dates": [
   "2026-10-11",
@@ -416,7 +416,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 버버리 퀼팅 자켓 월 2만원대~",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -435,7 +435,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 혜택 총집합",
-     "pgm": "노블리타 (노블레스)"
+     "pgm": "노블리타 (노블레스)",
+     "hot": 7
     },
     {
      "start": "12:00",
@@ -2048,7 +2049,7 @@ window.SCHEDULE = {
      "pgm": "맘만하니",
      "pgm_cd": "1100",
      "category": "유아동",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -2111,7 +2112,8 @@ window.SCHEDULE = {
      "title": "[다겨미네] 블루타이거💙방송중 추가 시간 증정",
      "pgm": "다겨미네",
      "pgm_cd": "1099",
-     "cast": "influencer"
+     "cast": "influencer",
+     "hot": 1
     },
     {
      "start": "11:00",
@@ -6562,7 +6564,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "09:30",
@@ -6734,7 +6736,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -7059,8 +7061,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프",
-     "hot": 9
+     "category": "라이프"
     },
     {
      "start": "10:00",
@@ -7378,7 +7379,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -7689,7 +7690,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -22475,8 +22476,8 @@ window.SCHEDULE = {
    "2026-10-11",
    "2026-10-12"
   ],
-  "matched": 17,
-  "unmatched": 3
+  "matched": 18,
+  "unmatched": 2
  },
  "fixed": {
   "rows": [
