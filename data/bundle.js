@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-12T09:20:11+09:00",
+ "generated_at": "2026-10-12T09:40:13+09:00",
  "today": "2026-10-12",
  "dates": [
   "2026-10-11",
@@ -339,8 +339,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[필모아] 세라믹 텀블러, 쇼라 단독가 OPEN!",
-     "pgm": "[재방] 필모아 텀블러 (가전)",
-     "hot": 10
+     "pgm": "[재방] 필모아 텀블러 (가전)"
     },
     {
      "start": "07:00",
@@ -2010,7 +2009,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "0146",
      "category": "여성패션",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "09:00",
@@ -19760,7 +19759,7 @@ window.SCHEDULE = {
      "slot_id": "254479",
      "pgm": "[올인데이] CJ로 채우는 식탁, BEST 특가 총출동",
      "category": "식품·건강",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -20521,7 +20520,7 @@ window.SCHEDULE = {
      "pgm": "종근당건강 X 카쇼페",
      "title": "최대 10%+10% 중복할인",
      "category": "식품",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "08:30",
@@ -20546,7 +20545,7 @@ window.SCHEDULE = {
      "pgm": "시크릿데이x슈퍼대디 연합전",
      "title": "생리대/기저귀/물티슈 특가",
      "category": "리빙",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -22473,8 +22472,8 @@ window.SCHEDULE = {
    "2026-10-11",
    "2026-10-12"
   ],
-  "matched": 15,
-  "unmatched": 5
+  "matched": 14,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
