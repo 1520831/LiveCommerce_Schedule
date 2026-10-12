@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-12T12:04:08+09:00",
+ "generated_at": "2026-10-12T12:20:10+09:00",
  "today": "2026-10-12",
  "dates": [
   "2026-10-11",
@@ -8702,8 +8702,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티",
-     "hot": 10
+     "category": "뷰티"
     },
     {
      "start": "11:00",
@@ -22762,7 +22761,8 @@ window.SCHEDULE = {
      "slot_id": "60453",
      "pgm": "하기스 오리지널 라인업",
      "title": "쿠폰 + 페이 할인까지",
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 10
     },
     {
      "start": "11:30",
