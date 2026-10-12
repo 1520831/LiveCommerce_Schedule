@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-13T08:00:18+09:00",
+ "generated_at": "2026-10-13T08:20:14+09:00",
  "today": "2026-10-13",
  "dates": [
   "2026-10-12",
@@ -437,7 +437,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "타미힐피거남성 방송 중 26FW 신상 20% 쿠폰❤️",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 10
     },
     {
      "start": "09:00",
@@ -6910,8 +6911,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 6
+     "category": "테크"
     },
     {
      "start": "03:20",
@@ -7135,8 +7135,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 7
+     "category": "테크"
     },
     {
      "start": "08:00",
@@ -22632,7 +22631,7 @@ window.SCHEDULE = {
    "2026-10-12",
    "2026-10-13"
   ],
-  "matched": 9,
+  "matched": 8,
   "unmatched": 9
  },
  "fixed": {
