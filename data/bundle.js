@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-13T08:20:14+09:00",
+ "generated_at": "2026-10-13T08:40:18+09:00",
  "today": "2026-10-13",
  "dates": [
   "2026-10-12",
@@ -398,7 +398,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 막스마라 코트 월 1만원대",
      "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 2
+     "hot": 4
     },
     {
      "start": "07:00",
@@ -418,7 +418,7 @@ window.SCHEDULE = {
      ],
      "title": "[한민금거래소] 골드바 최대 60개월 무이자 혜택!",
      "pgm": "[재방] 한민금거래소 (패션잡화)",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "08:00",
@@ -438,7 +438,7 @@ window.SCHEDULE = {
      ],
      "title": "타미힐피거남성 방송 중 26FW 신상 20% 쿠폰❤️",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 10
+     "hot": 9
     },
     {
      "start": "09:00",
@@ -20763,7 +20763,8 @@ window.SCHEDULE = {
      "slot_id": "60389",
      "pgm": "덴마크 유산균이야기",
      "title": "카쇼페 최대10%+10%할인",
-     "category": "식품"
+     "category": "식품",
+     "hot": 1
     },
     {
      "start": "08:30",
@@ -20775,7 +20776,8 @@ window.SCHEDULE = {
      "slot_id": "60485",
      "pgm": "CJ제일제당 든든한 한상차림",
      "title": "햇반 함박 외 골라담기",
-     "category": "식품"
+     "category": "식품",
+     "hot": 3
     },
     {
      "start": "08:30",
@@ -22631,8 +22633,8 @@ window.SCHEDULE = {
    "2026-10-12",
    "2026-10-13"
   ],
-  "matched": 8,
-  "unmatched": 9
+  "matched": 10,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
