@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-13T09:40:16+09:00",
+ "generated_at": "2026-10-13T10:00:16+09:00",
  "today": "2026-10-13",
  "dates": [
   "2026-10-12",
@@ -416,8 +416,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[한민금거래소] 골드바 최대 60개월 무이자 혜택!",
-     "pgm": "[재방] 한민금거래소 (패션잡화)",
-     "hot": 7
+     "pgm": "[재방] 한민금거래소 (패션잡화)"
     },
     {
      "start": "08:00",
@@ -437,7 +436,7 @@ window.SCHEDULE = {
      ],
      "title": "타미힐피거남성 방송 중 26FW 신상 20% 쿠폰❤️",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "09:00",
@@ -457,7 +456,7 @@ window.SCHEDULE = {
      ],
      "title": "[슈콤마보니] BEST 로퍼/앵클부츠 外 최대 25%▼",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 8
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -2191,7 +2190,7 @@ window.SCHEDULE = {
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
      "category": "여성패션",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "09:40",
@@ -20791,7 +20790,7 @@ window.SCHEDULE = {
      "pgm": "기분 좋은 착화감 스케쳐스",
      "title": "가을/겨울 온가족 슈즈!",
      "category": "패션",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -22635,8 +22634,8 @@ window.SCHEDULE = {
    "2026-10-12",
    "2026-10-13"
   ],
-  "matched": 12,
-  "unmatched": 6
+  "matched": 11,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
