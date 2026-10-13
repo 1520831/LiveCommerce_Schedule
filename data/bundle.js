@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-14T08:20:12+09:00",
+ "generated_at": "2026-10-14T08:40:34+09:00",
  "today": "2026-10-14",
  "dates": [
   "2026-10-13",
@@ -359,8 +359,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "⏰잠시 후 종료! 알레보 라이브 특별가",
-     "pgm": "[재방] 알레보 (P.D.Lab)",
-     "hot": 6
+     "pgm": "[재방] 알레보 (P.D.Lab)"
     },
     {
      "start": "08:00",
@@ -380,7 +379,7 @@ window.SCHEDULE = {
      ],
      "title": "[레노마] 남성 수트 세트 外 정장 아이템 LIVE",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 7
+     "hot": 5
     },
     {
      "start": "09:00",
@@ -2305,7 +2304,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "1007",
      "category": "여성패션",
-     "hot": 4
+     "hot": 9
     },
     {
      "start": "08:00",
@@ -6461,8 +6460,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "03:20",
@@ -6688,8 +6686,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "08:00",
@@ -6807,7 +6804,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 2
     },
     {
      "start": "09:30",
@@ -21221,7 +21219,8 @@ window.SCHEDULE = {
      "slot_id": "60455",
      "pgm": "프로쉬X전자폐기물의 날 맞이",
      "title": "주방/세탁/청소세제 쟁이기",
-     "category": "리빙"
+     "category": "리빙",
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -21233,7 +21232,8 @@ window.SCHEDULE = {
      "slot_id": "60487",
      "pgm": "설탕 걱정없는 마이노멀",
      "title": "제로칩 외 식단관리 필수템",
-     "category": "식품"
+     "category": "식품",
+     "hot": 8
     },
     {
      "start": "08:30",
@@ -21245,7 +21245,8 @@ window.SCHEDULE = {
      "slot_id": "60526",
      "pgm": "그레인온 X 카카오쇼핑페스타",
      "title": "라이브 추가 혜택 가득!",
-     "category": "식품"
+     "category": "식품",
+     "hot": 7
     },
     {
      "start": "08:30",
@@ -21257,7 +21258,8 @@ window.SCHEDULE = {
      "slot_id": "60538",
      "pgm": "한끼통살 닭가슴살~65%",
      "title": "카카오쇼핑페스타 더블할인",
-     "category": "식품"
+     "category": "식품",
+     "hot": 3
     },
     {
      "start": "09:00",
@@ -23091,8 +23093,8 @@ window.SCHEDULE = {
    "2026-10-13",
    "2026-10-14"
   ],
-  "matched": 8,
-  "unmatched": 9
+  "matched": 10,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
