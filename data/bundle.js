@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-13T22:00:10+09:00",
+ "generated_at": "2026-10-13T23:00:10+09:00",
  "today": "2026-10-13",
  "dates": [
   "2026-10-12",
@@ -2587,7 +2587,8 @@ window.SCHEDULE = {
      "title": "[두둥맘대로] 두둥맘 PICK✔️마이크로킥보드❤️최대 혜택가✨",
      "pgm": "두둥맘대로",
      "pgm_cd": "1119",
-     "category": "유아동"
+     "category": "유아동",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -9308,7 +9309,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 10
+     "hot": 9
     },
     {
      "start": "14:00",
@@ -10406,7 +10407,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 9
+     "hot": 8
     },
     {
      "start": "19:00",
@@ -11480,8 +11481,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프",
-     "hot": 7
+     "category": "라이프"
     },
     {
      "start": "20:00",
