@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-13T11:20:22+09:00",
+ "generated_at": "2026-10-13T11:40:32+09:00",
  "today": "2026-10-13",
  "dates": [
   "2026-10-12",
@@ -2214,8 +2214,7 @@ window.SCHEDULE = {
      "pgm": "인플루언서LIVE",
      "pgm_cd": "1052",
      "category": "유아동",
-     "cast": "influencer",
-     "hot": 10
+     "cast": "influencer"
     },
     {
      "start": "10:00",
@@ -2228,7 +2227,7 @@ window.SCHEDULE = {
      "title": "[두둥맘대로] 두둥맘 PICK✔️마이크로킥보드❤️최대 혜택가✨",
      "pgm": "두둥맘대로",
      "pgm_cd": "1119",
-     "hot": 1
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -2253,7 +2252,8 @@ window.SCHEDULE = {
      "title": "다시보는 엣지쇼🍂락포트 가을 슈즈 특가전",
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
-     "category": "잡화·슈즈"
+     "category": "잡화·슈즈",
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -7593,7 +7593,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -7783,7 +7783,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -8341,7 +8341,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "10:30",
@@ -9096,7 +9096,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -20767,7 +20768,7 @@ window.SCHEDULE = {
      "pgm": "덴마크 유산균이야기",
      "title": "카쇼페 최대10%+10%할인",
      "category": "식품",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "08:30",
@@ -20779,8 +20780,7 @@ window.SCHEDULE = {
      "slot_id": "60485",
      "pgm": "CJ제일제당 든든한 한상차림",
      "title": "햇반 함박 외 골라담기",
-     "category": "식품",
-     "hot": 8
+     "category": "식품"
     },
     {
      "start": "08:30",
@@ -22637,7 +22637,7 @@ window.SCHEDULE = {
    "2026-10-13"
   ],
   "matched": 13,
-  "unmatched": 6
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
