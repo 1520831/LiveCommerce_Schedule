@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-13T14:00:25+09:00",
+ "generated_at": "2026-10-13T14:20:13+09:00",
  "today": "2026-10-13",
  "dates": [
   "2026-10-12",
@@ -2342,7 +2342,7 @@ window.SCHEDULE = {
      "pgm": "두둥맘대로",
      "pgm_cd": "1119",
      "category": "유아동",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -2368,7 +2368,7 @@ window.SCHEDULE = {
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
      "category": "잡화·슈즈",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -8223,7 +8223,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -8667,7 +8667,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 9
+     "hot": 8
     },
     {
      "start": "10:30",
@@ -9047,7 +9047,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 10
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -9441,8 +9441,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프",
-     "hot": 2
+     "category": "라이프"
     },
     {
      "start": "11:00",
@@ -9506,7 +9505,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -22990,7 +22990,7 @@ window.SCHEDULE = {
      "pgm": "덴마크 유산균이야기",
      "title": "카쇼페 최대10%+10%할인",
      "category": "식품",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "08:30",
