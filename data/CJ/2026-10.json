@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-10",
- "updated_at": "2026-10-13T18:01:33+09:00",
+ "updated_at": "2026-10-13T23:31:04+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -4625,9 +4625,9 @@
     "start": "18:00",
     "end": "18:59",
     "brand": "프롬파이토",
-    "product": "듀얼케어 초임계 알티지 오메가 3BOX + 이뮨 낙산균 베타글루칸 SOD 3BOX",
-    "price": 224000,
-    "link": "https://item.cjonstyle.com/item/2079004532?channelCode=30002002",
+    "product": "듀얼케어 초임계 알티지 오메가 8+4BOX(24개월분/총720캡슐)",
+    "price": 466560,
+    "link": "https://item.cjonstyle.com/item/2080161586?channelCode=30002002",
     "slot_id": "30393",
     "title": "프롬파이토💙알티지 오메가 마지막 물량 공개! 최대 47% 할인!",
     "pgm": "라이브쇼",
@@ -4759,7 +4759,7 @@
     "price": 0,
     "link": "https://item.cjonstyle.com/item/2028908003?channelCode=30002002",
     "slot_id": "30399",
-    "title": "[컴온스타일x카빌리지] GV-80 하이브리드 출시특집,인기차종도 빠짐없이",
+    "title": "[컴온스타일x카빌리지] GV80 하이브리드 출시특집,인기차종도 빠짐없이",
     "pgm": "라이브쇼",
     "pgm_cd": "1006",
     "category": "서비스·렌탈"
@@ -5040,14 +5040,15 @@
    {
     "start": "11:00",
     "end": "12:00",
-    "brand": "",
-    "product": "다시보는 탈모 기능성 인증! 하아르 샴푸 단독 특가",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/30540",
+    "brand": "하아르",
+    "product": "닥터란 플러스 탈모샴푸 500ml 4개 + (증) 브러쉬 1개 + (증) 닥터란 75ml 1개",
+    "price": 192000,
+    "link": "https://item.cjonstyle.com/item/2076349754?channelCode=30002002",
     "slot_id": "30540",
     "title": "다시보는 탈모 기능성 인증! 하아르 샴푸 단독 특가",
     "pgm": "라이브쇼",
-    "pgm_cd": "1016"
+    "pgm_cd": "1016",
+    "category": "뷰티"
    },
    {
     "start": "12:00",
@@ -5376,7 +5377,7 @@
     "end": "20:59",
     "brand": "홈앤힐",
     "product": "휴고 LED 플러스 도어형 데이베드 패브릭 저상형 프레임 SS+안전가드세트",
-    "price": 970200,
+    "price": 596820,
     "link": "https://item.cjonstyle.com/item/2086083359?channelCode=30002002",
     "slot_id": "30412",
     "title": "집가구싶다X홈앤힐 휴고 데이베드🏠단독최저가+경품+사은품",
@@ -5570,14 +5571,15 @@
    {
     "start": "10:00",
     "end": "10:59",
-    "brand": "",
-    "product": "[맘만하니] 베베드피노 FW 아울렛 라스트찬스⚡⚡ 온라인 최저가!",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/30415",
+    "brand": "베베드피노",
+    "product": "[정상가49000]펭귄 베이비 기모 맨투맨 티셔츠_BP54MC135",
+    "price": 34300,
+    "link": "https://item.cjonstyle.com/item/2070538218?channelCode=30002002",
     "slot_id": "30415",
     "title": "[맘만하니] 베베드피노 FW 아울렛 라스트찬스⚡⚡ 온라인 최저가!",
     "pgm": "맘만하니",
-    "pgm_cd": "0099"
+    "pgm_cd": "0099",
+    "category": "여성패션"
    },
    {
     "start": "10:00",
@@ -5778,7 +5780,7 @@
     "end": "20:59",
     "brand": "홈앤힐",
     "product": "휴고 LED 플러스 도어형 데이베드 패브릭 저상형 프레임 SS+안전가드세트",
-    "price": 970200,
+    "price": 596820,
     "link": "https://item.cjonstyle.com/item/2086083359?channelCode=30002002",
     "slot_id": "30590",
     "title": "다시보는 집가구싶다X홈앤힐 휴고 데이베드🏠단독최저가",
@@ -6171,6 +6173,19 @@
    {
     "start": "19:00",
     "end": "19:59",
+    "brand": "필립스",
+    "product": "흡착 진공 다리미 STH8040/80",
+    "price": 179000,
+    "link": "https://item.cjonstyle.com/item/2094255739?channelCode=30002002",
+    "slot_id": "30441",
+    "title": "잘사는💚필립스 흡착 다리미 최초 공개! 더블업 카드10+적립10💥",
+    "pgm": "잘사는 언니들",
+    "pgm_cd": "1028",
+    "category": "가전"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
     "brand": "아카라",
     "product": "스마트 도어락 K100 웜다크실버 방문설치 패키지",
     "price": 539000,
@@ -6199,7 +6214,7 @@
     "end": "20:59",
     "brand": "홈앤힐",
     "product": "휴고 LED 플러스 도어형 데이베드 패브릭 저상형 프레임 SS+안전가드세트",
-    "price": 970200,
+    "price": 596820,
     "link": "https://item.cjonstyle.com/item/2086083359?channelCode=30002002",
     "slot_id": "30685",
     "title": "다시보는 집가구싶다X홈앤힐 휴고 데이베드🏠단독최저가",

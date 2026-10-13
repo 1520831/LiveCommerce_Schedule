@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-10",
- "updated_at": "2026-10-13T18:01:25+09:00",
+ "updated_at": "2026-10-13T23:30:57+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -5031,14 +5031,14 @@
     "end": "11:59",
     "brand": "크록스",
     "product": "크록스 바야 클로그 블랙 10126-001",
-    "price": 54900,
+    "price": 43900,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254610060",
     "slot_id": "202610156006",
     "items": [
      {
       "brand": "크록스",
       "product": "크록스 바야 클로그 블랙 10126-001",
-      "price": 54900,
+      "price": 43900,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254610060"
      }
     ],
