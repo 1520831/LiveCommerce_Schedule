@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-10",
- "updated_at": "2026-10-13T23:30:57+09:00",
+ "updated_at": "2026-10-14T07:01:21+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -4306,14 +4306,14 @@
     "end": "08:59",
     "brand": "타미힐피거",
     "product": "남성 4종택1 에센셜 테리 크루넥 티셔츠(T12G6TPO030MT1) T12G6TPO030MT1",
-    "price": 169000,
+    "price": 135200,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252226680",
     "slot_id": "202610136004",
     "items": [
      {
       "brand": "타미힐피거",
       "product": "남성 4종택1 에센셜 테리 크루넥 티셔츠(T12G6TPO030MT1) T12G6TPO030MT1",
-      "price": 169000,
+      "price": 135200,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252226680"
      }
     ],
@@ -4473,24 +4473,6 @@
     "pgm": "[더마핏] 바디케어 (뷰티1)"
    },
    {
-    "start": "17:00",
-    "end": "17:59",
-    "brand": "코아시스",
-    "product": "[코치] 우먼 EDT 90ML + 향수 공병",
-    "price": 123200,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253933420",
-    "slot_id": "202610136013",
-    "items": [
-     {
-      "brand": "코아시스",
-      "product": "[코치] 우먼 EDT 90ML + 향수 공병",
-      "price": 123200,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253933420"
-     }
-    ],
-    "title": "[코치] 가을 향수 추천🍂 향수 공병 증정"
-   },
-   {
     "start": "19:00",
     "end": "19:59",
     "brand": "슈퍼세이브",
@@ -4565,25 +4547,6 @@
     ],
     "title": "[아디다스키즈] FW 트랙탑/슈즈 外 최대 혜택❤️",
     "pgm": "[아디다스 키즈] 의류 (멀티커머스)"
-   },
-   {
-    "start": "23:00",
-    "end": "23:59",
-    "brand": "러브앤쇼",
-    "product": "롤링 모크넥 니트 GCGIGKT11 GCGIGKT11",
-    "price": 52200,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253081624",
-    "slot_id": "202610136017",
-    "items": [
-     {
-      "brand": "러브앤쇼",
-      "product": "롤링 모크넥 니트 GCGIGKT11 GCGIGKT11",
-      "price": 52200,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253081624"
-     }
-    ],
-    "title": "[러브앤쇼] 스타일리시한 가을 데일리룩❤️",
-    "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ],
   "2026-10-14": [
@@ -4649,14 +4612,14 @@
     "end": "09:59",
     "brand": "바바라",
     "product": "캐주얼 패브릭 리본 여성 스니커즈 5cm BBI603BK BBI603",
-    "price": 188000,
+    "price": 169200,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239317170",
     "slot_id": "202610146003",
     "items": [
      {
       "brand": "바바라",
       "product": "캐주얼 패브릭 리본 여성 스니커즈 5cm BBI603BK BBI603",
-      "price": 188000,
+      "price": 169200,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239317170"
      }
     ],
@@ -4668,14 +4631,14 @@
     "end": "10:59",
     "brand": "막스마라",
     "product": "막스마라 2526016061600 013 NEWMANG 뉴망 벨티드 후드 울 여성 코트",
-    "price": 1029000,
+    "price": 1050000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252012536",
     "slot_id": "202610146004",
     "items": [
      {
       "brand": "막스마라",
       "product": "막스마라 2526016061600 013 NEWMANG 뉴망 벨티드 후드 울 여성 코트",
-      "price": 1029000,
+      "price": 1050000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252012536"
      }
     ],
@@ -4706,14 +4669,14 @@
     "end": "12:59",
     "brand": "선진포크한돈",
     "product": "[맛춤세트] 생대패 삼겹살 800g + 삼겹살 수육용 1kg + 더 두툼한 목심 1kg + 앞다리 찌개용 500g",
-    "price": 88500,
+    "price": 79200,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248931341",
     "slot_id": "202610146006",
     "items": [
      {
       "brand": "선진포크한돈",
       "product": "[맛춤세트] 생대패 삼겹살 800g + 삼겹살 수육용 1kg + 더 두툼한 목심 1kg + 앞다리 찌개용 500g",
-      "price": 88500,
+      "price": 79200,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248931341"
      }
     ],
@@ -4915,14 +4878,14 @@
     "end": "23:59",
     "brand": "타미힐피거",
     "product": "[타미진] 여성 크롭 오버사이즈 후드 티셔츠 2컬러 T32G7TTO26TWT1 T32G7TTO26TWT3",
-    "price": 179000,
+    "price": 125300,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253474199",
     "slot_id": "202610146016",
     "items": [
      {
       "brand": "타미힐피거",
       "product": "[타미진] 여성 크롭 오버사이즈 후드 티셔츠 2컬러 T32G7TTO26TWT1 T32G7TTO26TWT3",
-      "price": 179000,
+      "price": 125300,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253474199"
      }
     ],
@@ -5886,6 +5849,141 @@
     ],
     "title": "쇼라 최저가 도전! 기분 좋은 비비안 가을 혜택❤️",
     "pgm": "현대렐라쇼 (멀티커머스)"
+   }
+  ],
+  "2026-10-19": [
+   {
+    "start": "08:00",
+    "end": "08:59",
+    "brand": "닥스",
+    "product": "26년FW 기모 체크 남방 DMW3SHCL121-N1 DMW3SHCL121N1",
+    "price": 95000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253480820",
+    "slot_id": "202610196002",
+    "items": [
+     {
+      "brand": "닥스",
+      "product": "26년FW 기모 체크 남방 DMW3SHCL121-N1 DMW3SHCL121N1",
+      "price": 95000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253480820"
+     }
+    ],
+    "title": "[닥스] 26FW 신상셔츠 外 기모셔츠 ~49%▼",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "에클랏",
+    "product": "18K 쿠폴라(Cupola) 네크리스",
+    "price": 1399000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252750124",
+    "slot_id": "202610196001",
+    "items": [
+     {
+      "brand": "에클랏",
+      "product": "18K 쿠폴라(Cupola) 네크리스",
+      "price": 1399000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252750124"
+     }
+    ],
+    "title": "[노블리타] 이탈리아 18K 주얼리 월 1만원대부터",
+    "pgm": "노블리타 (노블레스)"
+   },
+   {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "헤지스",
+    "product": "[헤지스 여성] [26FW] HSCO6DP01I1 HAVE HAZZYSEXCLUSIVE 밍크fur 페이크퍼 자켓 라이트",
+    "price": 599000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253408419",
+    "slot_id": "202610196005",
+    "items": [
+     {
+      "brand": "헤지스",
+      "product": "[헤지스 여성] [26FW] HSCO6DP01I1 HAVE HAZZYSEXCLUSIVE 밍크fur 페이크퍼 자켓 라이트",
+      "price": 599000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253408419"
+     }
+    ],
+    "title": "🔔 헤지스 LIVE! 단독 울캐시미어 코트 外",
+    "pgm": "[헤지스우먼] 의류 (패션1Lab)"
+   },
+   {
+    "start": "13:00",
+    "end": "13:59",
+    "brand": "비와이씨",
+    "product": "BYC 여성 보디히트 발열내의 상하세트",
+    "price": 33900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2222471310",
+    "slot_id": "202610196006",
+    "items": [
+     {
+      "brand": "비와이씨",
+      "product": "BYC 여성 보디히트 발열내의 상하세트",
+      "price": 33900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2222471310"
+     }
+    ],
+    "title": "[BYC/TRY 外] 동내의로 가을/겨울 준비❤️",
+    "pgm": "[BYC/TRY/제임스딘] 언더웨어 (패션1Lab)"
+   },
+   {
+    "start": "14:00",
+    "end": "14:59",
+    "brand": "케이로지",
+    "product": "비타- C 20 다크 스팟 코렉팅 앰플 3개 [쇼라 단독]",
+    "price": 130300,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255229559",
+    "slot_id": "202610196007",
+    "items": [
+     {
+      "brand": "케이로지",
+      "product": "비타- C 20 다크 스팟 코렉팅 앰플 3개 [쇼라 단독]",
+      "price": 130300,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255229559"
+     }
+    ],
+    "title": "가을 기초 앰플 & 노워시트리트먼트 모음전",
+    "pgm": "[빅터케이] 앰플 (뷰티브랜드)"
+   },
+   {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "해외직구",
+    "product": "니시구치 양말 Merino Wool Socks ME0104",
+    "price": 31900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255240643",
+    "slot_id": "202610196010",
+    "items": [
+     {
+      "brand": "해외직구",
+      "product": "니시구치 양말 Merino Wool Socks ME0104",
+      "price": 31900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255240643"
+     }
+    ],
+    "title": "[니시구치] 도쿄 no.1 프리미엄 양말은 다릅니다",
+    "pgm": "[해외직구] 일본 현지 방송"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "장인가구",
+    "product": "도이 5인용 스윙 가죽 코너형 소파 (스툴 포함)",
+    "price": 1070500,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2244284493",
+    "slot_id": "202610196011",
+    "items": [
+     {
+      "brand": "장인가구",
+      "product": "도이 5인용 스윙 가죽 코너형 소파 (스툴 포함)",
+      "price": 1070500,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2244284493"
+     }
+    ],
+    "title": "[장인가구]이사/혼수맞이 BEST 소파침대 단독혜택",
+    "pgm": "[장인가구] 침대/소파 (리빙)"
    }
   ]
  }
