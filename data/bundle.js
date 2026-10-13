@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-14T08:00:19+09:00",
+ "generated_at": "2026-10-14T08:20:12+09:00",
  "today": "2026-10-14",
  "dates": [
   "2026-10-13",
@@ -360,7 +360,7 @@ window.SCHEDULE = {
      ],
      "title": "⏰잠시 후 종료! 알레보 라이브 특별가",
      "pgm": "[재방] 알레보 (P.D.Lab)",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "08:00",
@@ -379,7 +379,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[레노마] 남성 수트 세트 外 정장 아이템 LIVE",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 7
     },
     {
      "start": "09:00",
@@ -2303,7 +2304,8 @@ window.SCHEDULE = {
      "title": "다시보는 M12&드베로타 신상 최초 공개! 지금부터 겨울까지 입는 아이템",
      "pgm": "라이브쇼",
      "pgm_cd": "1007",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 4
     },
     {
      "start": "08:00",
@@ -6460,7 +6462,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "03:20",
@@ -6622,8 +6624,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "06:00",
@@ -6688,7 +6689,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "08:00",
@@ -23090,8 +23091,8 @@ window.SCHEDULE = {
    "2026-10-13",
    "2026-10-14"
   ],
-  "matched": 7,
-  "unmatched": 10
+  "matched": 8,
+  "unmatched": 9
  },
  "fixed": {
   "rows": [
