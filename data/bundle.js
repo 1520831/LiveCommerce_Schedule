@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-13T10:20:12+09:00",
+ "generated_at": "2026-10-13T10:40:13+09:00",
  "today": "2026-10-13",
  "dates": [
   "2026-10-12",
@@ -2188,7 +2188,7 @@ window.SCHEDULE = {
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
      "category": "여성패션",
-     "hot": 4
+     "hot": 7
     },
     {
      "start": "09:40",
@@ -2215,7 +2215,8 @@ window.SCHEDULE = {
      "pgm": "인플루언서LIVE",
      "pgm_cd": "1052",
      "category": "유아동",
-     "cast": "influencer"
+     "cast": "influencer",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -7783,7 +7784,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 6
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -7954,7 +7955,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 9
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -20780,7 +20781,7 @@ window.SCHEDULE = {
      "pgm": "CJ제일제당 든든한 한상차림",
      "title": "햇반 함박 외 골라담기",
      "category": "식품",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -20792,8 +20793,7 @@ window.SCHEDULE = {
      "slot_id": "60600",
      "pgm": "기분 좋은 착화감 스케쳐스",
      "title": "가을/겨울 온가족 슈즈!",
-     "category": "패션",
-     "hot": 7
+     "category": "패션"
     },
     {
      "start": "08:30",
