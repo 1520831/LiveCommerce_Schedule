@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-13T10:40:13+09:00",
+ "generated_at": "2026-10-13T11:00:20+09:00",
  "today": "2026-10-13",
  "dates": [
   "2026-10-12",
@@ -2188,7 +2188,7 @@ window.SCHEDULE = {
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
      "category": "여성패션",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "09:40",
@@ -2216,7 +2216,7 @@ window.SCHEDULE = {
      "pgm_cd": "1052",
      "category": "유아동",
      "cast": "influencer",
-     "hot": 10
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -7594,7 +7594,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 8
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -7784,7 +7784,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -7955,7 +7955,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -8031,8 +8031,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈",
-     "hot": 5
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -20768,7 +20767,7 @@ window.SCHEDULE = {
      "pgm": "덴마크 유산균이야기",
      "title": "카쇼페 최대10%+10%할인",
      "category": "식품",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "08:30",
@@ -20781,7 +20780,7 @@ window.SCHEDULE = {
      "pgm": "CJ제일제당 든든한 한상차림",
      "title": "햇반 함박 외 골라담기",
      "category": "식품",
-     "hot": 4
+     "hot": 7
     },
     {
      "start": "08:30",
@@ -22637,8 +22636,8 @@ window.SCHEDULE = {
    "2026-10-12",
    "2026-10-13"
   ],
-  "matched": 14,
-  "unmatched": 5
+  "matched": 13,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
