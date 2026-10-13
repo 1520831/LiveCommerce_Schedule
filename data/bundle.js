@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-14T07:02:30+09:00",
+ "generated_at": "2026-10-14T08:00:19+09:00",
  "today": "2026-10-14",
  "dates": [
   "2026-10-13",
@@ -359,7 +359,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "⏰잠시 후 종료! 알레보 라이브 특별가",
-     "pgm": "[재방] 알레보 (P.D.Lab)"
+     "pgm": "[재방] 알레보 (P.D.Lab)",
+     "hot": 4
     },
     {
      "start": "08:00",
@@ -6459,7 +6460,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "03:20",
@@ -6557,8 +6558,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "03:50",
@@ -6623,7 +6623,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "06:00",
@@ -6688,7 +6688,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "08:00",
@@ -23091,7 +23091,7 @@ window.SCHEDULE = {
    "2026-10-14"
   ],
   "matched": 7,
-  "unmatched": 11
+  "unmatched": 10
  },
  "fixed": {
   "rows": [
