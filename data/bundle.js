@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-13T13:00:16+09:00",
+ "generated_at": "2026-10-13T13:20:13+09:00",
  "today": "2026-10-13",
  "dates": [
   "2026-10-12",
@@ -2368,7 +2368,7 @@ window.SCHEDULE = {
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
      "category": "잡화·슈즈",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -22990,7 +22990,7 @@ window.SCHEDULE = {
      "pgm": "덴마크 유산균이야기",
      "title": "카쇼페 최대10%+10%할인",
      "category": "식품",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "08:30",
