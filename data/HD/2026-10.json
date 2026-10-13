@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-10",
- "updated_at": "2026-10-13T07:00:40+09:00",
+ "updated_at": "2026-10-13T12:00:50+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -4287,14 +4287,14 @@
     "end": "07:59",
     "brand": "한민금거래소",
     "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-    "price": 254200,
+    "price": 258800,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581",
     "slot_id": "202610136021",
     "items": [
      {
       "brand": "한민금거래소",
       "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-      "price": 254200,
+      "price": 258800,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581"
      }
     ],
@@ -4306,14 +4306,14 @@
     "end": "08:59",
     "brand": "타미힐피거",
     "product": "남성 4종택1 에센셜 테리 크루넥 티셔츠(T12G6TPO030MT1) T12G6TPO030MT1",
-    "price": 135200,
+    "price": 169000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252226680",
     "slot_id": "202610136004",
     "items": [
      {
       "brand": "타미힐피거",
       "product": "남성 4종택1 에센셜 테리 크루넥 티셔츠(T12G6TPO030MT1) T12G6TPO030MT1",
-      "price": 135200,
+      "price": 169000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252226680"
      }
     ],
@@ -4760,6 +4760,25 @@
     "pgm": "[잭슨코리아] 태추단감 (쇼핑라이브)"
    },
    {
+    "start": "16:00",
+    "end": "16:59",
+    "brand": "이너타이드",
+    "product": "[루틴세트2] 이너타이드 나이트루틴 올인원버블에센스 + 리제너앰플2박스 + 아이앤링클솔루션 + 리제너크림",
+    "price": 157500,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254446145",
+    "slot_id": "202610146010",
+    "items": [
+     {
+      "brand": "이너타이드",
+      "product": "[루틴세트2] 이너타이드 나이트루틴 올인원버블에센스 + 리제너앰플2박스 + 아이앤링클솔루션 + 리제너크림",
+      "price": 157500,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254446145"
+     }
+    ],
+    "title": "이너타이드 론칭 기념 전 상품 50% 쿠폰 지급",
+    "pgm": "[데일리랩스] 스킨케어 (뷰티1)"
+   },
+   {
     "start": "17:00",
     "end": "17:59",
     "brand": "피플오브더월드",
@@ -5127,14 +5146,14 @@
     "end": "21:59",
     "brand": "한국금다이아몬드",
     "product": "만족도높은 순금 12지신골드바 24K 3.75g 999.9 금시세",
-    "price": 934000,
+    "price": 925000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2124047598",
     "slot_id": "202610156015",
     "items": [
      {
       "brand": "한국금다이아몬드",
       "product": "만족도높은 순금 12지신골드바 24K 3.75g 999.9 금시세",
-      "price": 934000,
+      "price": 925000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2124047598"
      }
     ],
@@ -5186,19 +5205,38 @@
     "end": "07:59",
     "brand": "한민금거래소",
     "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-    "price": 254200,
+    "price": 258800,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581",
     "slot_id": "202610166022",
     "items": [
      {
       "brand": "한민금거래소",
       "product": "[LIVE.한민금거래소] 골드바 24K 순금 1g",
-      "price": 254200,
+      "price": 258800,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967581"
      }
     ],
     "title": "[한민금거래소] 골드바 최대 60개월 무이자 혜택!",
     "pgm": "[재방] 한민금거래소 (패션잡화)"
+   },
+   {
+    "start": "08:00",
+    "end": "08:59",
+    "brand": "베네통",
+    "product": "[아울렛] 코듀로이 배기핏 팬츠 BAPTC8661 BAPTC8661",
+    "price": 102060,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255259282",
+    "slot_id": "202610166001",
+    "items": [
+     {
+      "brand": "베네통",
+      "product": "[아울렛] 코듀로이 배기핏 팬츠 BAPTC8661 BAPTC8661",
+      "price": 102060,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255259282"
+     }
+    ],
+    "title": "김포현대아울렛 베네통💙 UP TO 84%▼",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
    },
    {
     "start": "09:00",
@@ -5237,6 +5275,25 @@
     ],
     "title": "[투명쇼] 셀린느/막스마라 26FW 신상 OPEN!",
     "pgm": "투명쇼 (패션잡화)"
+   },
+   {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "듀엘",
+    "product": "[아울렛] 페이크 밍크 집업 자켓 L264FSG851 L264FSG851",
+    "price": 354430,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254771794",
+    "slot_id": "202610166005",
+    "items": [
+     {
+      "brand": "듀엘",
+      "product": "[아울렛] 페이크 밍크 집업 자켓 L264FSG851 L264FSG851",
+      "price": 354430,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254771794"
+     }
+    ],
+    "title": "김포현대아울렛 듀엘💙 아우터 UP TO 44%▼",
+    "pgm": "[듀엘] 여성의류 (멀티커머스)"
    },
    {
     "start": "13:00",
@@ -5292,7 +5349,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2238849371"
      }
     ],
-    "title": "[밋앤밀] 영주 산지직송 양광사과 론칭 특가!",
+    "title": "[밋앤밀] 영주 산지직송 양광사과 론칭 특별가",
     "pgm": "[잭슨코리아] 양광사과 (쇼핑라이브)"
    },
    {
@@ -5332,6 +5389,25 @@
     ],
     "title": "[테팔] 매직핸즈 시리즈",
     "pgm": "[앤드윈] 테팔 주방용품 (편성)"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "다우닝가구",
+    "product": "[다우닝] 클로 3인 전체 천연가죽 소파",
+    "price": 1960000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2240411570",
+    "slot_id": "202610166012",
+    "items": [
+     {
+      "brand": "다우닝가구",
+      "product": "[다우닝] 클로 3인 전체 천연가죽 소파",
+      "price": 1960000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2240411570"
+     }
+    ],
+    "title": "다우닝 창립 46주년 특집 혜택💛",
+    "pgm": "[다우닝] 소파 (리빙)"
    }
   ],
   "2026-10-17": [
@@ -5391,6 +5467,25 @@
     ],
     "title": "[마이르핀] 쌀쌀한 날씨대비를 위한 FW패션 오픈전!",
     "pgm": "[마이르핀] 의류 (패션1Lab)"
+   },
+   {
+    "start": "13:00",
+    "end": "13:59",
+    "brand": "루즈앤라운지",
+    "product": "윈터 룰라베어 RA2G7ABZ006WNY",
+    "price": 68000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253145320",
+    "slot_id": "202610176005",
+    "items": [
+     {
+      "brand": "루즈앤라운지",
+      "product": "윈터 룰라베어 RA2G7ABZ006WNY",
+      "price": 68000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253145320"
+     }
+    ],
+    "title": "[루즈앤라운지] 가을나들이 잡화 단독 혜택가🍂",
+    "pgm": "[루즈앤라운지] 패션잡화 (패션잡화)"
    },
    {
     "start": "14:00",
@@ -5507,6 +5602,25 @@
     ],
     "title": "[스노야] 패션컬러테라피❤️ 인기 상품 특별가",
     "pgm": "[재방] 스노야 (패션3Lab)"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "자연의정",
+    "product": "제철과일 제주 극조생 타이벡 감귤 프리미엄 로얄과 5kg",
+    "price": 18900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253628594",
+    "slot_id": "202610186007",
+    "items": [
+     {
+      "brand": "자연의정",
+      "product": "제철과일 제주 극조생 타이벡 감귤 프리미엄 로얄과 5kg",
+      "price": 18900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253628594"
+     }
+    ],
+    "title": "홍로 사과, 극조생 감귤 쇼라 핫딜",
+    "pgm": "[집방] 자연의정 과일 (일반식품2)"
    },
    {
     "start": "21:00",
