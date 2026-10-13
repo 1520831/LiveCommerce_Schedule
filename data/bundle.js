@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-13T20:00:11+09:00",
+ "generated_at": "2026-10-13T21:00:12+09:00",
  "today": "2026-10-13",
  "dates": [
   "2026-10-12",
@@ -2588,7 +2588,7 @@ window.SCHEDULE = {
      "pgm": "두둥맘대로",
      "pgm_cd": "1119",
      "category": "유아동",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -2613,8 +2613,7 @@ window.SCHEDULE = {
      "title": "다시보는 엣지쇼🍂락포트 가을 슈즈 특가전",
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
-     "category": "잡화·슈즈",
-     "hot": 10
+     "category": "잡화·슈즈"
     },
     {
      "start": "11:00",
@@ -9310,7 +9309,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 9
     },
     {
      "start": "14:00",
@@ -10408,7 +10407,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "19:00",
@@ -11482,7 +11481,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 6
     },
     {
      "start": "20:00",
@@ -11800,7 +11800,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "패션"
+     "category": "패션",
+     "hot": 3
     },
     {
      "start": "20:00",
@@ -12114,7 +12115,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "패션"
+     "category": "패션",
+     "hot": 2
     },
     {
      "start": "20:00",
@@ -24801,7 +24803,7 @@ window.SCHEDULE = {
      "pgm": "다이슨 에어랩/슈퍼소닉 등",
      "title": "카카오 단독 구성과 특별혜택",
      "category": "테크",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "19:00",
@@ -26501,7 +26503,7 @@ window.SCHEDULE = {
    "2026-10-12",
    "2026-10-13"
   ],
-  "matched": 11,
+  "matched": 13,
   "unmatched": 5
  },
  "fixed": {
