@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-13T19:00:11+09:00",
+ "generated_at": "2026-10-13T20:00:11+09:00",
  "today": "2026-10-13",
  "dates": [
   "2026-10-12",
@@ -2588,7 +2588,7 @@ window.SCHEDULE = {
      "pgm": "두둥맘대로",
      "pgm_cd": "1119",
      "category": "유아동",
-     "hot": 4
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -2614,7 +2614,7 @@ window.SCHEDULE = {
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
      "category": "잡화·슈즈",
-     "hot": 6
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -9310,7 +9310,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "14:00",
@@ -10407,7 +10407,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 6
     },
     {
      "start": "19:00",
@@ -10875,7 +10876,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 1
     },
     {
      "start": "19:00",
@@ -24559,8 +24561,7 @@ window.SCHEDULE = {
      "slot_id": "60389",
      "pgm": "덴마크 유산균이야기",
      "title": "카쇼페 최대10%+10%할인",
-     "category": "식품",
-     "hot": 7
+     "category": "식품"
     },
     {
      "start": "08:30",
@@ -24799,7 +24800,8 @@ window.SCHEDULE = {
      "slot_id": "60205",
      "pgm": "다이슨 에어랩/슈퍼소닉 등",
      "title": "카카오 단독 구성과 특별혜택",
-     "category": "테크"
+     "category": "테크",
+     "hot": 3
     },
     {
      "start": "19:00",
@@ -26499,8 +26501,8 @@ window.SCHEDULE = {
    "2026-10-12",
    "2026-10-13"
   ],
-  "matched": 9,
-  "unmatched": 8
+  "matched": 11,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
