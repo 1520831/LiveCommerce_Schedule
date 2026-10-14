@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-14T08:40:34+09:00",
+ "generated_at": "2026-10-14T09:01:36+09:00",
  "today": "2026-10-14",
  "dates": [
   "2026-10-13",
@@ -340,7 +340,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K주얼리 BIG 혜택 특집전",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 1
+     "hot": 5
     },
     {
      "start": "07:00",
@@ -379,7 +379,7 @@ window.SCHEDULE = {
      ],
      "title": "[레노마] 남성 수트 세트 外 정장 아이템 LIVE",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "09:00",
@@ -2304,7 +2304,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "1007",
      "category": "여성패션",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "08:00",
@@ -6805,7 +6805,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 2
+     "hot": 4
     },
     {
      "start": "09:30",
@@ -21220,7 +21220,7 @@ window.SCHEDULE = {
      "pgm": "프로쉬X전자폐기물의 날 맞이",
      "title": "주방/세탁/청소세제 쟁이기",
      "category": "리빙",
-     "hot": 4
+     "hot": 1
     },
     {
      "start": "08:30",
@@ -21233,7 +21233,7 @@ window.SCHEDULE = {
      "pgm": "설탕 걱정없는 마이노멀",
      "title": "제로칩 외 식단관리 필수템",
      "category": "식품",
-     "hot": 8
+     "hot": 2
     },
     {
      "start": "08:30",
@@ -21246,7 +21246,7 @@ window.SCHEDULE = {
      "pgm": "그레인온 X 카카오쇼핑페스타",
      "title": "라이브 추가 혜택 가득!",
      "category": "식품",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "08:30",
@@ -23094,7 +23094,7 @@ window.SCHEDULE = {
    "2026-10-14"
   ],
   "matched": 10,
-  "unmatched": 7
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
