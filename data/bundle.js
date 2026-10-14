@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-14T22:00:09+09:00",
+ "generated_at": "2026-10-14T23:00:11+09:00",
  "today": "2026-10-14",
  "dates": [
   "2026-10-13",
@@ -663,7 +663,7 @@ window.SCHEDULE = {
      ],
      "title": "[현명쇼] 막스마라 50% 반값 혜택 곧 종료",
      "pgm": "현명쇼(노블레스)",
-     "hot": 10
+     "hot": 7
     },
     {
      "start": "21:00",
@@ -3147,7 +3147,7 @@ window.SCHEDULE = {
      "pgm": "브티나는 생활",
      "pgm_cd": "0101",
      "category": "가전",
-     "hot": 7
+     "hot": 5
     },
     {
      "start": "21:00",
@@ -7985,7 +7985,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "11:00",
@@ -9017,7 +9017,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 9
     },
     {
      "start": "14:00",
@@ -10295,8 +10296,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티",
-     "hot": 1
+     "category": "뷰티"
     },
     {
      "start": "19:00",
@@ -10639,8 +10639,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티",
-     "hot": 9
+     "category": "뷰티"
     },
     {
      "start": "19:00",
@@ -11457,7 +11456,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 10
     },
     {
      "start": "20:00",
@@ -25991,7 +25991,7 @@ window.SCHEDULE = {
      "pgm": "신라모노그램 강릉_단독 구성",
      "title": "객실UP+조식+수영장+음료",
      "category": "여행",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "19:00",
@@ -26016,7 +26016,7 @@ window.SCHEDULE = {
      "pgm": "일리윤X임정빈 ~41%",
      "title": "임정빈 픽!핸드크림 추가증정",
      "category": "뷰티",
-     "hot": 6
+     "hot": 4
     },
     {
      "start": "19:00",
