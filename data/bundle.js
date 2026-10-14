@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-14T10:40:14+09:00",
+ "generated_at": "2026-10-14T11:00:12+09:00",
  "today": "2026-10-14",
  "dates": [
   "2026-10-13",
@@ -6801,8 +6801,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티",
-     "hot": 10
+     "category": "뷰티"
     },
     {
      "start": "09:30",
@@ -7396,7 +7395,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -7821,7 +7820,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -21588,8 +21588,7 @@ window.SCHEDULE = {
      "slot_id": "60487",
      "pgm": "설탕 걱정없는 마이노멀",
      "title": "제로칩 외 식단관리 필수템",
-     "category": "식품",
-     "hot": 6
+     "category": "식품"
     },
     {
      "start": "08:30",
@@ -21613,8 +21612,7 @@ window.SCHEDULE = {
      "slot_id": "60538",
      "pgm": "한끼통살 닭가슴살~65%",
      "title": "카카오쇼핑페스타 더블할인",
-     "category": "식품",
-     "hot": 9
+     "category": "식품"
     },
     {
      "start": "09:00",
@@ -23448,8 +23446,8 @@ window.SCHEDULE = {
    "2026-10-13",
    "2026-10-14"
   ],
-  "matched": 10,
-  "unmatched": 8
+  "matched": 8,
+  "unmatched": 10
  },
  "fixed": {
   "rows": [
