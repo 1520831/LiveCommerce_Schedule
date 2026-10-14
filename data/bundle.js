@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-14T09:01:36+09:00",
+ "generated_at": "2026-10-14T09:20:44+09:00",
  "today": "2026-10-14",
  "dates": [
   "2026-10-13",
@@ -340,7 +340,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K주얼리 BIG 혜택 특집전",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "07:00",
@@ -2303,8 +2303,7 @@ window.SCHEDULE = {
      "title": "다시보는 M12&드베로타 신상 최초 공개! 지금부터 겨울까지 입는 아이템",
      "pgm": "라이브쇼",
      "pgm_cd": "1007",
-     "category": "여성패션",
-     "hot": 10
+     "category": "여성패션"
     },
     {
      "start": "08:00",
@@ -21246,7 +21245,7 @@ window.SCHEDULE = {
      "pgm": "그레인온 X 카카오쇼핑페스타",
      "title": "라이브 추가 혜택 가득!",
      "category": "식품",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "08:30",
@@ -23093,8 +23092,8 @@ window.SCHEDULE = {
    "2026-10-13",
    "2026-10-14"
   ],
-  "matched": 10,
-  "unmatched": 8
+  "matched": 9,
+  "unmatched": 9
  },
  "fixed": {
   "rows": [
