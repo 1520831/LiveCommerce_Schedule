@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-14T20:00:11+09:00",
+ "generated_at": "2026-10-14T21:00:08+09:00",
  "today": "2026-10-14",
  "dates": [
   "2026-10-13",
@@ -662,7 +662,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[현명쇼] 막스마라 50% 반값 혜택 곧 종료",
-     "pgm": "현명쇼(노블레스)"
+     "pgm": "현명쇼(노블레스)",
+     "hot": 8
     },
     {
      "start": "21:00",
@@ -9015,8 +9016,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "14:00",
@@ -26015,7 +26015,7 @@ window.SCHEDULE = {
      "pgm": "일리윤X임정빈 ~41%",
      "title": "임정빈 픽!핸드크림 추가증정",
      "category": "뷰티",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "19:00",
@@ -26027,8 +26027,7 @@ window.SCHEDULE = {
      "slot_id": "60549",
      "pgm": "로보락 S10 스팀 신제품!",
      "title": "방송중 추첨 이벤트까지",
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "19:00",
@@ -27767,7 +27766,7 @@ window.SCHEDULE = {
    "2026-10-13",
    "2026-10-14"
   ],
-  "matched": 10,
+  "matched": 9,
   "unmatched": 9
  },
  "fixed": {
