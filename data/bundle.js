@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-14T11:20:08+09:00",
+ "generated_at": "2026-10-14T11:40:09+09:00",
  "today": "2026-10-14",
  "dates": [
   "2026-10-13",
@@ -9070,7 +9070,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -21577,7 +21578,7 @@ window.SCHEDULE = {
      "pgm": "프로쉬X전자폐기물의 날 맞이",
      "title": "주방/세탁/청소세제 쟁이기",
      "category": "리빙",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "08:30",
@@ -23447,8 +23448,8 @@ window.SCHEDULE = {
    "2026-10-13",
    "2026-10-14"
   ],
-  "matched": 9,
-  "unmatched": 9
+  "matched": 10,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
