@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-14T11:00:12+09:00",
+ "generated_at": "2026-10-14T11:20:08+09:00",
  "today": "2026-10-14",
  "dates": [
   "2026-10-13",
@@ -7370,7 +7370,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -7394,8 +7394,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 9
+     "category": "푸드"
     },
     {
      "start": "10:00",
@@ -7712,7 +7711,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 2
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -7821,7 +7820,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -8945,7 +8944,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -8977,7 +8977,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -21576,7 +21577,7 @@ window.SCHEDULE = {
      "pgm": "프로쉬X전자폐기물의 날 맞이",
      "title": "주방/세탁/청소세제 쟁이기",
      "category": "리빙",
-     "hot": 4
+     "hot": 8
     },
     {
      "start": "08:30",
@@ -23446,8 +23447,8 @@ window.SCHEDULE = {
    "2026-10-13",
    "2026-10-14"
   ],
-  "matched": 8,
-  "unmatched": 10
+  "matched": 9,
+  "unmatched": 9
  },
  "fixed": {
   "rows": [
