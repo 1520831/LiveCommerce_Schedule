@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-14T09:20:44+09:00",
+ "generated_at": "2026-10-14T09:40:33+09:00",
  "today": "2026-10-14",
  "dates": [
   "2026-10-13",
@@ -379,7 +379,7 @@ window.SCHEDULE = {
      ],
      "title": "[레노마] 남성 수트 세트 外 정장 아이템 LIVE",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "09:00",
@@ -2342,7 +2342,8 @@ window.SCHEDULE = {
      "title": "다시보는 더엣지 ❤️ 플리스체크셔츠자켓,터틀넥니트 방송 중 추가 혜택",
      "pgm": "라이브쇼",
      "pgm_cd": "0146",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -23092,8 +23093,8 @@ window.SCHEDULE = {
    "2026-10-13",
    "2026-10-14"
   ],
-  "matched": 9,
-  "unmatched": 9
+  "matched": 10,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
