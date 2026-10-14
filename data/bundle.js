@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-15T07:01:49+09:00",
+ "generated_at": "2026-10-15T08:00:18+09:00",
  "today": "2026-10-15",
  "dates": [
   "2026-10-14",
@@ -455,7 +455,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 막스마라 월 1만원대 60개월 무이자",
      "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "07:00",
@@ -474,7 +474,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[노블리타] 이탈리아 18K주얼리 BIG 혜택 특집전",
-     "pgm": "[재방] 노블리타 (노블레스)"
+     "pgm": "[재방] 노블리타 (노블레스)",
+     "hot": 1
     },
     {
      "start": "08:00",
@@ -7030,7 +7031,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 9
     },
     {
      "start": "06:00",
@@ -7094,7 +7095,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 4
     },
     {
      "start": "07:20",
@@ -7208,7 +7210,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 5
     },
     {
      "start": "08:00",
@@ -24913,8 +24916,8 @@ window.SCHEDULE = {
    "2026-10-14",
    "2026-10-15"
   ],
-  "matched": 9,
-  "unmatched": 10
+  "matched": 12,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
