@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-14T21:00:08+09:00",
+ "generated_at": "2026-10-14T22:00:09+09:00",
  "today": "2026-10-14",
  "dates": [
   "2026-10-13",
@@ -663,7 +663,7 @@ window.SCHEDULE = {
      ],
      "title": "[현명쇼] 막스마라 50% 반값 혜택 곧 종료",
      "pgm": "현명쇼(노블레스)",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "21:00",
@@ -3146,7 +3146,8 @@ window.SCHEDULE = {
      "title": "브티나는생활 X 힘펠💚 컴온스타일 더블업 10%+10% 특가 찬스!",
      "pgm": "브티나는 생활",
      "pgm_cd": "0101",
-     "category": "가전"
+     "category": "가전",
+     "hot": 7
     },
     {
      "start": "21:00",
@@ -10639,7 +10640,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "19:00",
@@ -27766,8 +27767,8 @@ window.SCHEDULE = {
    "2026-10-13",
    "2026-10-14"
   ],
-  "matched": 9,
-  "unmatched": 9
+  "matched": 10,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
