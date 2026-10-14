@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-14T19:00:09+09:00",
+ "generated_at": "2026-10-14T20:00:11+09:00",
  "today": "2026-10-14",
  "dates": [
   "2026-10-13",
@@ -7983,7 +7983,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -8107,8 +8107,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 6
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -9017,7 +9016,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 9
     },
     {
      "start": "14:00",
@@ -10295,7 +10294,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 1
     },
     {
      "start": "19:00",
@@ -10638,7 +10638,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 7
     },
     {
      "start": "19:00",
@@ -25760,8 +25761,7 @@ window.SCHEDULE = {
      "slot_id": "60455",
      "pgm": "프로쉬X전자폐기물의 날 맞이",
      "title": "주방/세탁/청소세제 쟁이기",
-     "category": "리빙",
-     "hot": 9
+     "category": "리빙"
     },
     {
      "start": "08:30",
@@ -25989,7 +25989,8 @@ window.SCHEDULE = {
      "slot_id": "60207",
      "pgm": "신라모노그램 강릉_단독 구성",
      "title": "객실UP+조식+수영장+음료",
-     "category": "여행"
+     "category": "여행",
+     "hot": 4
     },
     {
      "start": "19:00",
@@ -26013,7 +26014,8 @@ window.SCHEDULE = {
      "slot_id": "60524",
      "pgm": "일리윤X임정빈 ~41%",
      "title": "임정빈 픽!핸드크림 추가증정",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 5
     },
     {
      "start": "19:00",
@@ -26025,7 +26027,8 @@ window.SCHEDULE = {
      "slot_id": "60549",
      "pgm": "로보락 S10 스팀 신제품!",
      "title": "방송중 추첨 이벤트까지",
-     "category": "테크"
+     "category": "테크",
+     "hot": 10
     },
     {
      "start": "19:00",
@@ -27764,8 +27767,8 @@ window.SCHEDULE = {
    "2026-10-13",
    "2026-10-14"
   ],
-  "matched": 7,
-  "unmatched": 12
+  "matched": 10,
+  "unmatched": 9
  },
  "fixed": {
   "rows": [
