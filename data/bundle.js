@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-14T09:40:33+09:00",
+ "generated_at": "2026-10-14T10:00:40+09:00",
  "today": "2026-10-14",
  "dates": [
   "2026-10-13",
@@ -340,7 +340,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K주얼리 BIG 혜택 특집전",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "07:00",
@@ -378,8 +378,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[레노마] 남성 수트 세트 外 정장 아이템 LIVE",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 9
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "09:00",
@@ -2343,7 +2342,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "0146",
      "category": "여성패션",
-     "hot": 10
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -23093,8 +23092,8 @@ window.SCHEDULE = {
    "2026-10-13",
    "2026-10-14"
   ],
-  "matched": 10,
-  "unmatched": 8
+  "matched": 9,
+  "unmatched": 9
  },
  "fixed": {
   "rows": [
