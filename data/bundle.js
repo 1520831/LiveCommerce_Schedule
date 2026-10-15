@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-15T11:20:11+09:00",
+ "generated_at": "2026-10-15T11:40:10+09:00",
  "today": "2026-10-15",
  "dates": [
   "2026-10-14",
@@ -2709,8 +2709,7 @@ window.SCHEDULE = {
      "title": "지금이야 골드바 방송중 한정수량 특가✨ 수앤진골드 인기 주얼리까지!",
      "pgm": "라이브쇼",
      "pgm_cd": "0213",
-     "category": "잡화·슈즈",
-     "hot": 10
+     "category": "잡화·슈즈"
     },
     {
      "start": "10:00",
@@ -7710,7 +7709,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 5
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -9015,7 +9014,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -9130,7 +9130,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 9
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -9682,7 +9682,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -23278,8 +23279,7 @@ window.SCHEDULE = {
      "slot_id": "60625",
      "pgm": "쿤달 카쇼페 역대급 더블할인",
      "title": "전원 샴푸 추가증정!!!",
-     "category": "뷰티",
-     "hot": 8
+     "category": "뷰티"
     },
     {
      "start": "10:00",
