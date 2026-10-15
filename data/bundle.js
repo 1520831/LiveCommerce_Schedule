@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-16T07:02:06+09:00",
+ "generated_at": "2026-10-16T08:00:17+09:00",
  "today": "2026-10-16",
  "dates": [
   "2026-10-15",
@@ -492,7 +492,7 @@ window.SCHEDULE = {
      ],
      "title": "[스노야] 패션컬러테라피❤️ 인기 상품 특별가",
      "pgm": "[재방] 스노야 (패션3Lab)",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "07:00",
@@ -511,7 +511,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[한민금거래소] 골드바 최대 60개월 무이자 혜택!",
-     "pgm": "[재방] 한민금거래소 (패션잡화)"
+     "pgm": "[재방] 한민금거래소 (패션잡화)",
+     "hot": 1
     },
     {
      "start": "09:00",
@@ -7435,8 +7436,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 8
+     "category": "테크"
     },
     {
      "start": "03:20",
@@ -7651,7 +7651,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 7
     },
     {
      "start": "08:00",
@@ -25864,8 +25865,8 @@ window.SCHEDULE = {
    "2026-10-15",
    "2026-10-16"
   ],
-  "matched": 6,
-  "unmatched": 12
+  "matched": 7,
+  "unmatched": 11
  },
  "fixed": {
   "rows": [
