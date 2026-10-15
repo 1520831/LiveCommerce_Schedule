@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-15T20:00:11+09:00",
+ "generated_at": "2026-10-15T21:00:10+09:00",
  "today": "2026-10-15",
  "dates": [
   "2026-10-14",
@@ -720,8 +720,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[슈쇼케] 아정/예진 PICK✨ 막스마라",
-     "pgm": "[막스마라] 의류 (패션잡화)",
-     "hot": 7
+     "pgm": "[막스마라] 의류 (패션잡화)"
     },
     {
      "start": "19:00",
@@ -3198,8 +3197,7 @@ window.SCHEDULE = {
      "title": "[두둥맘대로] 베베숲 물티슈 CJ단독 세트💙우주 최저가 보장🚀",
      "pgm": "두둥맘대로",
      "pgm_cd": "1119",
-     "category": "유아동",
-     "hot": 9
+     "category": "유아동"
     },
     {
      "start": "11:00",
@@ -3542,7 +3540,8 @@ window.SCHEDULE = {
      "title": "[컴온스타일 더블업] 올해 마지막, 핀크스 포도호텔 단하루 초특가!",
      "pgm": "럭셔리체크인",
      "pgm_cd": "0220",
-     "category": "서비스·렌탈"
+     "category": "서비스·렌탈",
+     "hot": 8
     },
     {
      "start": "20:00",
@@ -3582,7 +3581,8 @@ window.SCHEDULE = {
      "pgm": "김호영의 투머치쇼",
      "pgm_cd": "1083",
      "category": "가구·침구",
-     "cast": "celeb"
+     "cast": "celeb",
+     "hot": 10
     },
     {
      "start": "21:00",
@@ -8564,7 +8564,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -8945,8 +8945,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 8
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -9893,7 +9892,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "13:00",
@@ -11401,7 +11400,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 2
+     "hot": 4
     },
     {
      "start": "19:00",
@@ -12157,7 +12156,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 1
     },
     {
      "start": "20:00",
@@ -27016,7 +27016,7 @@ window.SCHEDULE = {
      "pgm": "드시모네 장면역 특허유산균",
      "title": "최대 10%+10% 중복할인",
      "category": "식품",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "08:30",
