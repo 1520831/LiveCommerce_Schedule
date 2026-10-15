@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-15T21:00:10+09:00",
+ "generated_at": "2026-10-15T22:00:11+09:00",
  "today": "2026-10-15",
  "dates": [
   "2026-10-14",
@@ -3540,8 +3540,7 @@ window.SCHEDULE = {
      "title": "[컴온스타일 더블업] 올해 마지막, 핀크스 포도호텔 단하루 초특가!",
      "pgm": "럭셔리체크인",
      "pgm_cd": "0220",
-     "category": "서비스·렌탈",
-     "hot": 8
+     "category": "서비스·렌탈"
     },
     {
      "start": "20:00",
@@ -3582,7 +3581,7 @@ window.SCHEDULE = {
      "pgm_cd": "1083",
      "category": "가구·침구",
      "cast": "celeb",
-     "hot": 10
+     "hot": 3
     },
     {
      "start": "21:00",
@@ -8563,8 +8562,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 9
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -9892,7 +9890,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "13:00",
@@ -11400,7 +11398,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "19:00",
@@ -11543,7 +11541,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "19:00",
@@ -12157,7 +12155,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "20:00",
@@ -12942,7 +12940,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 1
     },
     {
      "start": "21:00",
@@ -26146,7 +26145,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4838559641",
      "slot_id": "260005",
      "pgm": "가을맞이 LG그램북 라인업 특가!",
-     "category": "디지털·PC"
+     "category": "디지털·PC",
+     "hot": 10
     }
    ],
    "2026-10-16": [
@@ -27016,7 +27016,7 @@ window.SCHEDULE = {
      "pgm": "드시모네 장면역 특허유산균",
      "title": "최대 10%+10% 중복할인",
      "category": "식품",
-     "hot": 2
+     "hot": 4
     },
     {
      "start": "08:30",
