@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-15T09:40:11+09:00",
+ "generated_at": "2026-10-15T10:00:23+09:00",
  "today": "2026-10-15",
  "dates": [
   "2026-10-14",
@@ -2634,7 +2634,7 @@ window.SCHEDULE = {
      "pgm_cd": "1052",
      "category": "유아동",
      "cast": "influencer",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "08:00",
@@ -23251,8 +23251,7 @@ window.SCHEDULE = {
      "slot_id": "60513",
      "pgm": "동아오츠카 가을맞이 특가!",
      "title": "오직 카쇼라에서만",
-     "category": "식품",
-     "hot": 9
+     "category": "식품"
     },
     {
      "start": "08:30",
@@ -25199,8 +25198,8 @@ window.SCHEDULE = {
    "2026-10-14",
    "2026-10-15"
   ],
-  "matched": 14,
-  "unmatched": 5
+  "matched": 13,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
