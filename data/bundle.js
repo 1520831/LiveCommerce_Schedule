@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-15T09:00:33+09:00",
+ "generated_at": "2026-10-15T09:20:19+09:00",
  "today": "2026-10-15",
  "dates": [
   "2026-10-14",
@@ -455,7 +455,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 막스마라 월 1만원대 60개월 무이자",
      "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "07:00",
@@ -2635,7 +2635,7 @@ window.SCHEDULE = {
      "pgm_cd": "1052",
      "category": "유아동",
      "cast": "influencer",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "08:00",
@@ -7305,8 +7305,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "09:30",
@@ -23254,7 +23253,7 @@ window.SCHEDULE = {
      "pgm": "동아오츠카 가을맞이 특가!",
      "title": "오직 카쇼라에서만",
      "category": "식품",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "08:30",
@@ -23267,7 +23266,7 @@ window.SCHEDULE = {
      "pgm": "갤럭시 S26/Z플립8 등",
      "title": "톡학생증 혜택 및 추가 할인",
      "category": "테크",
-     "hot": 9
+     "hot": 7
     },
     {
      "start": "08:30",
@@ -25201,8 +25200,8 @@ window.SCHEDULE = {
    "2026-10-14",
    "2026-10-15"
   ],
-  "matched": 16,
-  "unmatched": 3
+  "matched": 15,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
