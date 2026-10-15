@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-15T10:20:15+09:00",
+ "generated_at": "2026-10-15T10:40:16+09:00",
  "today": "2026-10-15",
  "dates": [
   "2026-10-14",
@@ -474,7 +474,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K주얼리 BIG 혜택 특집전",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 3
+     "hot": 6
     },
     {
      "start": "08:00",
@@ -493,8 +493,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "써스데이아일랜드 심쿵룩 원피스 코디! 방송 중 55%▼",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 8
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "09:00",
@@ -532,7 +531,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 몽클레어 패딩가디건 월 2만원대",
-     "pgm": "투명쇼 (패션잡화)"
+     "pgm": "투명쇼 (패션잡화)",
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -2712,7 +2712,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "0213",
      "category": "잡화·슈즈",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -7712,7 +7712,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -7773,7 +7773,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -8153,7 +8153,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 9
     },
     {
      "start": "10:30",
@@ -23265,8 +23266,7 @@ window.SCHEDULE = {
      "slot_id": "60550",
      "pgm": "갤럭시 S26/Z플립8 등",
      "title": "톡학생증 혜택 및 추가 할인",
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "08:30",
