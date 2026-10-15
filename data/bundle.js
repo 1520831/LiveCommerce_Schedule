@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-15T14:00:16+09:00",
+ "generated_at": "2026-10-15T14:20:15+09:00",
  "today": "2026-10-15",
  "dates": [
   "2026-10-14",
@@ -2932,7 +2932,7 @@ window.SCHEDULE = {
      "pgm": "두둥맘대로",
      "pgm_cd": "1119",
      "category": "유아동",
-     "hot": 10
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -8660,7 +8660,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 1
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -9180,8 +9180,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 3
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -9253,8 +9252,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈",
-     "hot": 6
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -9369,7 +9367,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 8
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -9403,8 +9401,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 7
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -9752,7 +9749,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 2
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -9941,8 +9938,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 9
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -10144,7 +10140,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 9
     },
     {
      "start": "12:00",
@@ -10700,7 +10697,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 2
     },
     {
      "start": "13:00",
@@ -24748,7 +24745,7 @@ window.SCHEDULE = {
      "pgm": "드시모네 장면역 특허유산균",
      "title": "최대 10%+10% 중복할인",
      "category": "식품",
-     "hot": 4
+     "hot": 1
     },
     {
      "start": "08:30",
@@ -24784,7 +24781,8 @@ window.SCHEDULE = {
      "slot_id": "60625",
      "pgm": "쿤달 카쇼페 역대급 더블할인",
      "title": "전원 샴푸 추가증정!!!",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 10
     },
     {
      "start": "09:37",
@@ -26729,8 +26727,8 @@ window.SCHEDULE = {
    "2026-10-14",
    "2026-10-15"
   ],
-  "matched": 17,
-  "unmatched": 2
+  "matched": 15,
+  "unmatched": 3
  },
  "fixed": {
   "rows": [
