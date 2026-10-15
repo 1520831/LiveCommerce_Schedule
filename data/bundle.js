@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-15T13:40:17+09:00",
+ "generated_at": "2026-10-15T14:00:16+09:00",
  "today": "2026-10-15",
  "dates": [
   "2026-10-14",
@@ -9254,7 +9254,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -9369,7 +9369,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -9404,7 +9404,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -9942,7 +9942,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -10700,7 +10700,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 9
+     "hot": 5
     },
     {
      "start": "13:00",
