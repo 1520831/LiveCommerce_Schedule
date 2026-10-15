@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-15T10:00:23+09:00",
+ "generated_at": "2026-10-15T10:20:15+09:00",
  "today": "2026-10-15",
  "dates": [
   "2026-10-14",
@@ -494,7 +494,7 @@ window.SCHEDULE = {
      ],
      "title": "써스데이아일랜드 심쿵룩 원피스 코디! 방송 중 55%▼",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 4
+     "hot": 8
     },
     {
      "start": "09:00",
@@ -2633,8 +2633,7 @@ window.SCHEDULE = {
      "pgm": "인플루언서LIVE",
      "pgm_cd": "1052",
      "category": "유아동",
-     "cast": "influencer",
-     "hot": 8
+     "cast": "influencer"
     },
     {
      "start": "08:00",
@@ -2712,7 +2711,8 @@ window.SCHEDULE = {
      "title": "지금이야 골드바 방송중 한정수량 특가✨ 수앤진골드 인기 주얼리까지!",
      "pgm": "라이브쇼",
      "pgm_cd": "0213",
-     "category": "잡화·슈즈"
+     "category": "잡화·슈즈",
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -7711,7 +7711,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -7771,7 +7772,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -23264,7 +23266,7 @@ window.SCHEDULE = {
      "pgm": "갤럭시 S26/Z플립8 등",
      "title": "톡학생증 혜택 및 추가 할인",
      "category": "테크",
-     "hot": 5
+     "hot": 9
     },
     {
      "start": "08:30",
@@ -25198,8 +25200,8 @@ window.SCHEDULE = {
    "2026-10-14",
    "2026-10-15"
   ],
-  "matched": 13,
-  "unmatched": 6
+  "matched": 15,
+  "unmatched": 3
  },
  "fixed": {
   "rows": [
