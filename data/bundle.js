@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-15T13:20:11+09:00",
+ "generated_at": "2026-10-15T13:40:17+09:00",
  "today": "2026-10-15",
  "dates": [
   "2026-10-14",
@@ -2932,7 +2932,7 @@ window.SCHEDULE = {
      "pgm": "두둥맘대로",
      "pgm_cd": "1119",
      "category": "유아동",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -10699,7 +10699,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 9
     },
     {
      "start": "13:00",
@@ -26728,7 +26729,7 @@ window.SCHEDULE = {
    "2026-10-14",
    "2026-10-15"
   ],
-  "matched": 16,
+  "matched": 17,
   "unmatched": 2
  },
  "fixed": {
