@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-15T10:40:16+09:00",
+ "generated_at": "2026-10-15T11:00:14+09:00",
  "today": "2026-10-15",
  "dates": [
   "2026-10-14",
@@ -474,7 +474,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K주얼리 BIG 혜택 특집전",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "08:00",
@@ -532,7 +532,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 몽클레어 패딩가디건 월 2만원대",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 10
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -2712,7 +2712,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "0213",
      "category": "잡화·슈즈",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -7712,7 +7712,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 4
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -8154,7 +8154,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "10:30",
@@ -23279,7 +23279,7 @@ window.SCHEDULE = {
      "pgm": "쿤달 카쇼페 역대급 더블할인",
      "title": "전원 샴푸 추가증정!!!",
      "category": "뷰티",
-     "hot": 2
+     "hot": 5
     },
     {
      "start": "10:00",
