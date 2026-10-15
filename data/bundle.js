@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-15T08:40:13+09:00",
+ "generated_at": "2026-10-15T09:00:33+09:00",
  "today": "2026-10-15",
  "dates": [
   "2026-10-14",
@@ -455,7 +455,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 막스마라 월 1만원대 60개월 무이자",
      "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "07:00",
@@ -475,7 +475,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K주얼리 BIG 혜택 특집전",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "08:00",
@@ -495,7 +495,7 @@ window.SCHEDULE = {
      ],
      "title": "써스데이아일랜드 심쿵룩 원피스 코디! 방송 중 55%▼",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "09:00",
@@ -2635,7 +2635,7 @@ window.SCHEDULE = {
      "pgm_cd": "1052",
      "category": "유아동",
      "cast": "influencer",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "08:00",
@@ -7306,7 +7306,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "09:30",
@@ -23241,7 +23241,7 @@ window.SCHEDULE = {
      "pgm": "드시모네 장면역 특허유산균",
      "title": "최대 10%+10% 중복할인",
      "category": "식품",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "08:30",
@@ -23253,7 +23253,8 @@ window.SCHEDULE = {
      "slot_id": "60513",
      "pgm": "동아오츠카 가을맞이 특가!",
      "title": "오직 카쇼라에서만",
-     "category": "식품"
+     "category": "식품",
+     "hot": 7
     },
     {
      "start": "08:30",
@@ -23265,7 +23266,8 @@ window.SCHEDULE = {
      "slot_id": "60550",
      "pgm": "갤럭시 S26/Z플립8 등",
      "title": "톡학생증 혜택 및 추가 할인",
-     "category": "테크"
+     "category": "테크",
+     "hot": 9
     },
     {
      "start": "08:30",
@@ -23278,7 +23280,7 @@ window.SCHEDULE = {
      "pgm": "쿤달 카쇼페 역대급 더블할인",
      "title": "전원 샴푸 추가증정!!!",
      "category": "뷰티",
-     "hot": 5
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -25199,8 +25201,8 @@ window.SCHEDULE = {
    "2026-10-14",
    "2026-10-15"
   ],
-  "matched": 14,
-  "unmatched": 5
+  "matched": 16,
+  "unmatched": 3
  },
  "fixed": {
   "rows": [
