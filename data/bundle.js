@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-16T08:20:16+09:00",
+ "generated_at": "2026-10-16T08:40:22+09:00",
  "today": "2026-10-16",
  "dates": [
   "2026-10-15",
@@ -492,7 +492,7 @@ window.SCHEDULE = {
      ],
      "title": "[스노야] 패션컬러테라피❤️ 인기 상품 특별가",
      "pgm": "[재방] 스노야 (패션3Lab)",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "07:00",
@@ -7651,8 +7651,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "08:00",
@@ -24214,7 +24213,8 @@ window.SCHEDULE = {
      "slot_id": "60339",
      "pgm": "JMW 뉴젠(N-GEN)",
      "title": "카쇼페 단독 선런칭 라이브",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -24238,7 +24238,8 @@ window.SCHEDULE = {
      "slot_id": "60737",
      "pgm": "동국제약 x 유리하다 특가",
      "title": "PDRN글래스외~76% 할인",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 8
     },
     {
      "start": "08:30",
@@ -24250,7 +24251,8 @@ window.SCHEDULE = {
      "slot_id": "60760",
      "pgm": "피지모락셀라 최고혁신상 수상",
      "title": "기념 최대 43%+증정품",
-     "category": "리빙"
+     "category": "리빙",
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -26200,8 +26202,8 @@ window.SCHEDULE = {
    "2026-10-15",
    "2026-10-16"
   ],
-  "matched": 7,
-  "unmatched": 10
+  "matched": 9,
+  "unmatched": 9
  },
  "fixed": {
   "rows": [
