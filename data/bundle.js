@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-15T19:00:11+09:00",
+ "generated_at": "2026-10-15T20:00:11+09:00",
  "today": "2026-10-15",
  "dates": [
   "2026-10-14",
@@ -720,7 +720,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[슈쇼케] 아정/예진 PICK✨ 막스마라",
-     "pgm": "[막스마라] 의류 (패션잡화)"
+     "pgm": "[막스마라] 의류 (패션잡화)",
+     "hot": 7
     },
     {
      "start": "19:00",
@@ -3198,7 +3199,7 @@ window.SCHEDULE = {
      "pgm": "두둥맘대로",
      "pgm_cd": "1119",
      "category": "유아동",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -8563,7 +8564,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -8945,7 +8946,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 5
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -9336,8 +9337,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "12:00",
@@ -9893,7 +9893,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 4
     },
     {
      "start": "13:00",
@@ -11400,7 +11400,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 2
     },
     {
      "start": "19:00",
@@ -11542,7 +11543,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 3
     },
     {
      "start": "19:00",
@@ -27050,8 +27052,7 @@ window.SCHEDULE = {
      "slot_id": "60625",
      "pgm": "쿤달 카쇼페 역대급 더블할인",
      "title": "전원 샴푸 추가증정!!!",
-     "category": "뷰티",
-     "hot": 10
+     "category": "뷰티"
     },
     {
      "start": "09:37",
@@ -29009,8 +29010,8 @@ window.SCHEDULE = {
    "2026-10-14",
    "2026-10-15"
   ],
-  "matched": 14,
-  "unmatched": 4
+  "matched": 15,
+  "unmatched": 3
  },
  "fixed": {
   "rows": [
