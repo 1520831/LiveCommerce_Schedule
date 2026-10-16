@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-16T11:40:18+09:00",
+ "generated_at": "2026-10-16T12:00:15+09:00",
  "today": "2026-10-16",
  "dates": [
   "2026-10-15",
@@ -8006,8 +8006,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -8224,7 +8223,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -8332,7 +8331,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -8537,7 +8536,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -24253,7 +24253,7 @@ window.SCHEDULE = {
      "pgm": "피지모락셀라 최고혁신상 수상",
      "title": "기념 최대 43%+증정품",
      "category": "리빙",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -24349,7 +24349,8 @@ window.SCHEDULE = {
      "slot_id": "60618",
      "pgm": "베베숲 고평량 인기 세트",
      "title": "아기 물티슈 판매 1위",
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 7
     },
     {
      "start": "11:30",
@@ -24362,7 +24363,7 @@ window.SCHEDULE = {
      "pgm": "밀크마일 따끈포근 가을옷장",
      "title": "쌀쌀한 가을 날씨 고민해결!",
      "category": "키즈",
-     "hot": 6
+     "hot": 3
     },
     {
      "start": "11:30",
@@ -26204,8 +26205,8 @@ window.SCHEDULE = {
    "2026-10-15",
    "2026-10-16"
   ],
-  "matched": 11,
-  "unmatched": 8
+  "matched": 12,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
