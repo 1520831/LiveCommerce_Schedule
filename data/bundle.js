@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-16T12:20:43+09:00",
+ "generated_at": "2026-10-16T12:40:38+09:00",
  "today": "2026-10-16",
  "dates": [
   "2026-10-15",
@@ -26594,7 +26594,7 @@ window.SCHEDULE = {
      "pgm": "피지모락셀라 최고혁신상 수상",
      "title": "기념 최대 43%+증정품",
      "category": "리빙",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -26703,7 +26703,7 @@ window.SCHEDULE = {
      "pgm": "베베숲 고평량 인기 세트",
      "title": "아기 물티슈 판매 1위",
      "category": "키즈",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "11:30",
