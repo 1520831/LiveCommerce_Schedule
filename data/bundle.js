@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-16T12:40:38+09:00",
+ "generated_at": "2026-10-16T13:00:34+09:00",
  "today": "2026-10-16",
  "dates": [
   "2026-10-15",
@@ -8585,7 +8585,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -8617,7 +8617,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -26703,7 +26703,7 @@ window.SCHEDULE = {
      "pgm": "베베숲 고평량 인기 세트",
      "title": "아기 물티슈 판매 1위",
      "category": "키즈",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "11:30",
