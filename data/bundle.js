@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-16T08:40:22+09:00",
+ "generated_at": "2026-10-16T09:00:13+09:00",
  "today": "2026-10-16",
  "dates": [
   "2026-10-15",
@@ -492,7 +492,7 @@ window.SCHEDULE = {
      ],
      "title": "[스노야] 패션컬러테라피❤️ 인기 상품 특별가",
      "pgm": "[재방] 스노야 (패션3Lab)",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "07:00",
@@ -512,7 +512,7 @@ window.SCHEDULE = {
      ],
      "title": "[한민금거래소] 골드바 최대 60개월 무이자 혜택!",
      "pgm": "[재방] 한민금거래소 (패션잡화)",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "09:00",
@@ -7736,7 +7736,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 10
     },
     {
      "start": "09:30",
@@ -24226,7 +24227,8 @@ window.SCHEDULE = {
      "slot_id": "60494",
      "pgm": "찬바람이 불어오면 삼립호빵",
      "title": "네가지맛을 한번에 즐겨보세요",
-     "category": "식품"
+     "category": "식품",
+     "hot": 6
     },
     {
      "start": "08:30",
@@ -24239,7 +24241,7 @@ window.SCHEDULE = {
      "pgm": "동국제약 x 유리하다 특가",
      "title": "PDRN글래스외~76% 할인",
      "category": "뷰티",
-     "hot": 8
+     "hot": 3
     },
     {
      "start": "08:30",
@@ -24252,7 +24254,7 @@ window.SCHEDULE = {
      "pgm": "피지모락셀라 최고혁신상 수상",
      "title": "기념 최대 43%+증정품",
      "category": "리빙",
-     "hot": 3
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -26202,8 +26204,8 @@ window.SCHEDULE = {
    "2026-10-15",
    "2026-10-16"
   ],
-  "matched": 9,
-  "unmatched": 9
+  "matched": 11,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
