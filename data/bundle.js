@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-16T11:08:31+09:00",
+ "generated_at": "2026-10-16T11:20:39+09:00",
  "today": "2026-10-16",
  "dates": [
   "2026-10-15",
@@ -530,7 +530,7 @@ window.SCHEDULE = {
      ],
      "title": "[디스커버리] 최대 25%🔻쿠폰 + 카드 즉시 할인!",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -8008,7 +8008,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -8193,7 +8193,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 3
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -8225,7 +8225,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -8332,7 +8332,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -8461,8 +8462,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "취미레저",
-     "hot": 7
+     "category": "취미레저"
     },
     {
      "start": "11:00",
@@ -9134,7 +9134,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 4
     },
     {
      "start": "11:40",
@@ -24253,7 +24254,7 @@ window.SCHEDULE = {
      "pgm": "피지모락셀라 최고혁신상 수상",
      "title": "기념 최대 43%+증정품",
      "category": "리빙",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -24266,7 +24267,7 @@ window.SCHEDULE = {
      "pgm": "트윅스 투어스 키링꾸미기 팩",
      "title": "단독 출시 기념 라이브!",
      "category": "식품",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -24302,8 +24303,7 @@ window.SCHEDULE = {
      "slot_id": "60631",
      "pgm": "걸을수록 편한 신발 락포트",
      "title": "안전성+내구성 BEST템!",
-     "category": "패션",
-     "hot": 10
+     "category": "패션"
     },
     {
      "start": "11:00",
