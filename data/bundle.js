@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-16T12:05:20+09:00",
+ "generated_at": "2026-10-16T12:20:43+09:00",
  "today": "2026-10-16",
  "dates": [
   "2026-10-15",
@@ -8724,8 +8724,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -8910,7 +8909,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -9507,7 +9506,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "11:40",
@@ -26717,7 +26716,7 @@ window.SCHEDULE = {
      "pgm": "밀크마일 따끈포근 가을옷장",
      "title": "쌀쌀한 가을 날씨 고민해결!",
      "category": "키즈",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "11:30",
@@ -28547,8 +28546,8 @@ window.SCHEDULE = {
    "2026-10-15",
    "2026-10-16"
   ],
-  "matched": 12,
-  "unmatched": 7
+  "matched": 11,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
