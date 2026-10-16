@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-16T09:00:13+09:00",
+ "generated_at": "2026-10-16T09:20:15+09:00",
  "today": "2026-10-16",
  "dates": [
   "2026-10-15",
@@ -492,7 +492,7 @@ window.SCHEDULE = {
      ],
      "title": "[스노야] 패션컬러테라피❤️ 인기 상품 특별가",
      "pgm": "[재방] 스노야 (패션3Lab)",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "07:00",
@@ -531,7 +531,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[디스커버리] 최대 25%🔻쿠폰 + 카드 즉시 할인!",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -7736,8 +7737,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "09:30",
@@ -24215,7 +24215,7 @@ window.SCHEDULE = {
      "pgm": "JMW 뉴젠(N-GEN)",
      "title": "카쇼페 단독 선런칭 라이브",
      "category": "뷰티",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "08:30",
@@ -24228,7 +24228,7 @@ window.SCHEDULE = {
      "pgm": "찬바람이 불어오면 삼립호빵",
      "title": "네가지맛을 한번에 즐겨보세요",
      "category": "식품",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "08:30",
@@ -24241,7 +24241,7 @@ window.SCHEDULE = {
      "pgm": "동국제약 x 유리하다 특가",
      "title": "PDRN글래스외~76% 할인",
      "category": "뷰티",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "08:30",
