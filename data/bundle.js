@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-16T10:40:35+09:00",
+ "generated_at": "2026-10-16T11:08:31+09:00",
  "today": "2026-10-16",
  "dates": [
   "2026-10-15",
@@ -530,7 +530,7 @@ window.SCHEDULE = {
      ],
      "title": "[디스커버리] 최대 25%🔻쿠폰 + 카드 즉시 할인!",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -8008,7 +8008,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -8225,7 +8225,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -8461,7 +8461,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "취미레저"
+     "category": "취미레저",
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -24215,8 +24216,7 @@ window.SCHEDULE = {
      "slot_id": "60339",
      "pgm": "JMW 뉴젠(N-GEN)",
      "title": "카쇼페 단독 선런칭 라이브",
-     "category": "뷰티",
-     "hot": 10
+     "category": "뷰티"
     },
     {
      "start": "08:30",
@@ -24240,8 +24240,7 @@ window.SCHEDULE = {
      "slot_id": "60737",
      "pgm": "동국제약 x 유리하다 특가",
      "title": "PDRN글래스외~76% 할인",
-     "category": "뷰티",
-     "hot": 9
+     "category": "뷰티"
     },
     {
      "start": "08:30",
@@ -24254,7 +24253,7 @@ window.SCHEDULE = {
      "pgm": "피지모락셀라 최고혁신상 수상",
      "title": "기념 최대 43%+증정품",
      "category": "리빙",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -24267,7 +24266,7 @@ window.SCHEDULE = {
      "pgm": "트윅스 투어스 키링꾸미기 팩",
      "title": "단독 출시 기념 라이브!",
      "category": "식품",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -24303,7 +24302,8 @@ window.SCHEDULE = {
      "slot_id": "60631",
      "pgm": "걸을수록 편한 신발 락포트",
      "title": "안전성+내구성 BEST템!",
-     "category": "패션"
+     "category": "패션",
+     "hot": 10
     },
     {
      "start": "11:00",
