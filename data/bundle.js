@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-16T11:20:39+09:00",
+ "generated_at": "2026-10-16T11:40:18+09:00",
  "today": "2026-10-16",
  "dates": [
   "2026-10-15",
@@ -529,8 +529,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[디스커버리] 최대 25%🔻쿠폰 + 카드 즉시 할인!",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 9
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "10:00",
@@ -8008,7 +8007,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -8193,7 +8192,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -8225,7 +8224,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -9135,7 +9134,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 1
     },
     {
      "start": "11:40",
@@ -24254,7 +24253,7 @@ window.SCHEDULE = {
      "pgm": "피지모락셀라 최고혁신상 수상",
      "title": "기념 최대 43%+증정품",
      "category": "리빙",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -24266,8 +24265,7 @@ window.SCHEDULE = {
      "slot_id": "60458",
      "pgm": "트윅스 투어스 키링꾸미기 팩",
      "title": "단독 출시 기념 라이브!",
-     "category": "식품",
-     "hot": 10
+     "category": "식품"
     },
     {
      "start": "10:00",
@@ -24363,7 +24361,8 @@ window.SCHEDULE = {
      "slot_id": "60713",
      "pgm": "밀크마일 따끈포근 가을옷장",
      "title": "쌀쌀한 가을 날씨 고민해결!",
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 6
     },
     {
      "start": "11:30",
@@ -26205,8 +26204,8 @@ window.SCHEDULE = {
    "2026-10-15",
    "2026-10-16"
   ],
-  "matched": 12,
-  "unmatched": 7
+  "matched": 11,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
