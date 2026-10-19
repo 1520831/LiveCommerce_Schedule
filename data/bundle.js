@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-19T10:40:18+09:00",
+ "generated_at": "2026-10-19T11:00:33+09:00",
  "today": "2026-10-19",
  "dates": [
   "2026-10-18",
@@ -5782,7 +5782,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "09:30",
@@ -6228,7 +6228,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -7115,7 +7115,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -14377,8 +14378,7 @@ window.SCHEDULE = {
      "slot_id": "60497",
      "pgm": "코피코 캔디&부샤드 초콜릿",
      "title": "수입 식품 골라 담기",
-     "category": "식품",
-     "hot": 10
+     "category": "식품"
     },
     {
      "start": "08:30",
@@ -14403,7 +14403,7 @@ window.SCHEDULE = {
      "pgm": "웅진 환절기 수분충전!",
      "title": "시원한 음료라이브",
      "category": "식품",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "08:30",
