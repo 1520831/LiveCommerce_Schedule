@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-19T22:00:10+09:00",
+ "generated_at": "2026-10-19T23:00:09+09:00",
  "today": "2026-10-19",
  "dates": [
   "2026-10-18",
@@ -492,7 +492,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 월 1만원대부터",
      "pgm": "노블리타 (노블레스)",
-     "hot": 9
+     "hot": 8
     },
     {
      "start": "12:00",
@@ -721,7 +721,7 @@ window.SCHEDULE = {
      ],
      "title": "[현명쇼] 버버리 패딩 월 2만원대 + 커피 쿠폰",
      "pgm": "현명쇼(노블레스)",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "21:00",
@@ -9106,7 +9106,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 7
     },
     {
      "start": "12:00",
@@ -10518,8 +10518,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티",
-     "hot": 1
+     "category": "뷰티"
     },
     {
      "start": "19:00",
@@ -10576,7 +10575,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "19:00",
@@ -24110,7 +24109,8 @@ window.SCHEDULE = {
      "slot_id": "60465",
      "pgm": "홍진경이 선택한 곡물도감!",
      "title": "단 80분 최대특가 라이브",
-     "category": "식품"
+     "category": "식품",
+     "hot": 10
     },
     {
      "start": "08:30",
@@ -24303,7 +24303,7 @@ window.SCHEDULE = {
      "pgm": "하겐다즈 홀리데이 에디션출시",
      "title": "달콤한 맛 바삭한 식감까지",
      "category": "식품",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "19:00",
@@ -24352,7 +24352,7 @@ window.SCHEDULE = {
      "pgm": "에스트라X임라라님 빅 라이브",
      "title": "선착순 메가 커피 증정",
      "category": "뷰티",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "20:30",
