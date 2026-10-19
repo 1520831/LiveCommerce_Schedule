@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-10",
- "updated_at": "2026-10-19T23:30:56+09:00",
+ "updated_at": "2026-10-20T07:01:09+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -6864,14 +6864,14 @@
     "end": "10:59",
     "brand": "발렌시아가",
     "product": "르 시티 미디엄 토트백 846921 2ABEK 1000 블랙",
-    "price": 3129000,
+    "price": 3569000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253381481",
     "slot_id": "202610206004",
     "items": [
      {
       "brand": "발렌시아가",
       "product": "르 시티 미디엄 토트백 846921 2ABEK 1000 블랙",
-      "price": 3129000,
+      "price": 3569000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253381481"
      }
     ],
@@ -6921,14 +6921,14 @@
     "end": "12:59",
     "brand": "스텐팩토리",
     "product": "[1+1] 스텐 적층형 그릇 접시 주방 정리대 다단멀티선반 L",
-    "price": 39800,
+    "price": 29900,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255313949",
     "slot_id": "202610206006",
     "items": [
      {
       "brand": "스텐팩토리",
       "product": "[1+1] 스텐 적층형 그릇 접시 주방 정리대 다단멀티선반 L",
-      "price": 39800,
+      "price": 29900,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255313949"
      }
     ],
@@ -6940,14 +6940,14 @@
     "end": "13:59",
     "brand": "모그라미",
     "product": "스킨이즘 베이직 드로즈 남성팬티 5+2",
-    "price": 47600,
+    "price": 35700,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252206157",
     "slot_id": "202610206007",
     "items": [
      {
       "brand": "모그라미",
       "product": "스킨이즘 베이직 드로즈 남성팬티 5+2",
-      "price": 47600,
+      "price": 35700,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252206157"
      }
     ],
@@ -6959,14 +6959,14 @@
     "end": "14:59",
     "brand": "CC콜렉트",
     "product": "[라이브무료반품][CC콜렉트] 하이넥 더블 플라켓 스트링 점퍼_C264MSJ702",
-    "price": 205540,
+    "price": 188000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255493999",
     "slot_id": "202610206008",
     "items": [
      {
       "brand": "CC콜렉트",
       "product": "[라이브무료반품][CC콜렉트] 하이넥 더블 플라켓 스트링 점퍼_C264MSJ702",
-      "price": 205540,
+      "price": 188000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255493999"
      }
     ],
@@ -7079,14 +7079,14 @@
     "end": "20:59",
     "brand": "SM후르츠",
     "product": "감홍 사과 A급 중대과 2kg(6-7과 내외)",
-    "price": 30900,
+    "price": 20900,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255427328",
     "slot_id": "202610206014",
     "items": [
      {
       "brand": "SM후르츠",
       "product": "감홍 사과 A급 중대과 2kg(6-7과 내외)",
-      "price": 30900,
+      "price": 20900,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255427328"
      }
     ],
@@ -8069,6 +8069,27 @@
     ],
     "title": "모노크롬의 가을 헤리티지, 7만원대부터❤️",
     "pgm": "현대렐라쇼 (멀티커머스)"
+   }
+  ],
+  "2026-10-25": [
+   {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "도피러스알엑스",
+    "product": "100억 여성유산균 펨 프로바이오틱스 60캡슐 6개 (총12개월분)",
+    "price": 239000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251419595",
+    "slot_id": "202610256005",
+    "items": [
+     {
+      "brand": "도피러스알엑스",
+      "product": "100억 여성유산균 펨 프로바이오틱스 60캡슐 6개 (총12개월분)",
+      "price": 239000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251419595"
+     }
+    ],
+    "title": "[도피러스알엑스] 100억 여성유산균 특집",
+    "pgm": "[자로우] 여성유산균 (건강식품1)"
    }
   ]
  }

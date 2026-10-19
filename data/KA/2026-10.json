@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-10",
- "updated_at": "2026-10-19T23:31:10+09:00",
+ "updated_at": "2026-10-20T07:01:22+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -3959,18 +3959,6 @@
    },
    {
     "start": "19:00",
-    "end": "20:21",
-    "brand": "하겐다즈공식몰",
-    "product": "하겐다즈 신상 파인트 3개 골라담기",
-    "price": 53700,
-    "link": "https://store.kakao.com/haagendazs/products/94351629",
-    "slot_id": "60506",
-    "pgm": "하겐다즈 홀리데이 에디션출시",
-    "title": "달콤한 맛 바삭한 식감까지",
-    "category": "식품"
-   },
-   {
-    "start": "19:00",
     "end": "20:20",
     "brand": "휠라코리아",
     "product": "[휠라 본사공식] 미리 준비하는 겨울 신발/의류/잡화 총 모음! 최대 56% + 5% 쿠폰",
@@ -4088,35 +4076,21 @@
     "pgm": "우리집 스마트 가습기",
     "title": "큐브 프로 X55V 런칭",
     "category": "테크"
-   },
-   {
-    "start": "21:45",
-    "end": "22:19",
-    "brand": "터치그라운드 스니커즈",
-    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-    "price": 49000,
-    "link": "https://store.kakao.com/touchground/products/774098244",
-    "slot_id": "61140",
-    "pgm": "터치그라운드 발편한운동화",
-    "title": "가벼우면서 쿠션감 좋은운동화",
-    "category": "패션"
-   },
-   {
-    "start": "22:00",
-    "end": "23:22",
-    "brand": "삼성모바일",
-    "product": "[톡학생증/체감가113만]갤럭시 S26 256GB 자급제폰[+풀리오 미니맥스 마사지건 증정]",
-    "price": 1403600,
-    "link": "https://store.kakao.com/samsung/products/687880077",
-    "slot_id": "61117",
-    "pgm": "갤럭시 S26/Z플립8 등",
-    "title": "재방송중 상품권 추가 증정",
-    "category": "테크",
-    "rerun": true,
-    "rerun_of": "60550"
    }
   ],
   "2026-10-20": [
+   {
+    "start": "00:26",
+    "end": "00:34",
+    "brand": "서브네이처",
+    "product": "패드일체형 노와이어 심리스브라 / 팬티",
+    "price": 14900,
+    "link": "https://store.kakao.com/subnature/products/465257510",
+    "slot_id": "61189",
+    "pgm": "편안한 모달팬티/심리스브라",
+    "title": "재구매 폭주! 얼른 쟁이세요",
+    "category": "패션"
+   },
    {
     "start": "08:30",
     "end": "11:30",
@@ -4386,7 +4360,7 @@
     "end": "20:30",
     "brand": "도씨",
     "product": "[선물추천] 후기 좋은 사계절 인기 긴팔/반팔 파자마 50종 택1",
-    "price": 33900,
+    "price": 29900,
     "link": "https://gift.kakao.com/product/10751643?url=product&cId=10751643",
     "slot_id": "60799",
     "pgm": "포근한 밤 준비 도씨 라이브",
@@ -5771,6 +5745,188 @@
     "pgm": "하기스 오리지널 라인업",
     "title": "카쇼페 최대 혜택",
     "category": "키즈"
+   }
+  ],
+  "2026-10-25": [
+   {
+    "start": "10:00",
+    "end": "13:00",
+    "brand": "SK-II",
+    "product": "[현대백화점][SK-II] [10월카쇼라] 대용량 피테라 에센스 330ml세트 (한정수량)",
+    "price": 302250,
+    "link": "https://gift.kakao.com/product/9329638?url=product&cId=9329638",
+    "slot_id": "60594",
+    "pgm": "SK-II 방송 한정 대용량",
+    "title": "피테라 에센스&세럼 특가!",
+    "category": "뷰티"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "플로리아",
+    "product": "[시공비 무료] 플로리아 층간소음매트 시공 매트 TPU 거실 놀이방 아기 70x70x2.4cm",
+    "price": 69000,
+    "link": "https://store.kakao.com/floriahouse/products/313185187",
+    "slot_id": "60780",
+    "pgm": "플로리아매트 톡딜 초특가!",
+    "title": "블프 무제한 더블 혜택!",
+    "category": "키즈"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "청년상점",
+    "product": "(정품) 아삭아삭 달콤한 단감 2kg 7-10과 외 5kg / 2개구매시 5kg 발송",
+    "price": 21900,
+    "link": "https://store.kakao.com/youngstore/products/201556813",
+    "slot_id": "61037",
+    "pgm": "경남 햇 단감 2kg 만원대",
+    "title": "2개구매 시 5kg 발송",
+    "category": "식품"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "슬룸",
+    "product": "[무선] 종아리 다리 롤러 지압볼 온열 마사지기ㅣ리모컨 포함ㅣ손목 전신 안마기ㅣ추석 부모님 임산부ㅣ 슬룸 종아리 발 마사지",
+    "price": 37900,
+    "link": "https://gift.kakao.com/product/13722550?url=product&cId=13722550",
+    "slot_id": "61056",
+    "pgm": "슬룸 부위별 효도 마사지기",
+    "title": "카쇼페 특가",
+    "category": "리빙"
+   },
+   {
+    "start": "10:00",
+    "end": "13:00",
+    "brand": "위자드조선",
+    "product": "[1+1+]누룩밤 수면팩 기미 집중케어 대용량 크림 트라넥삼산 100ml",
+    "price": 119800,
+    "link": "https://store.kakao.com/wizardjoseon/products/724496019",
+    "slot_id": "61086",
+    "pgm": "위자드조선 카쇼라 첫라이브",
+    "title": "~66%+쿠폰+페이머니 할인",
+    "category": "뷰티"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "라카이코리아",
+    "product": "[SHOES] 1945 리버티 나이트로젠 초경량 카본 러닝화(출시 이벤트 중)",
+    "price": 86500,
+    "link": "https://store.kakao.com/lakaikorea/products/768629001",
+    "slot_id": "61001",
+    "pgm": "[라카이코리아] 독도의기념",
+    "title": "베스트셀러 특가 LIVE",
+    "category": "패션"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "헤이홈",
+    "product": "헤이홈 스마트 홈캠 가정용 홈 CCTV카메라 카쇼라 한정 특가",
+    "price": 224300,
+    "link": "https://store.kakao.com/hejhome/products/89493181",
+    "slot_id": "61007",
+    "pgm": "헤이홈 스마트 홈캠 2세대",
+    "title": "카쇼페 특가 라이브",
+    "category": "테크"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "꽃님이",
+    "product": "가을 꽃 생화 오늘의 꽃 믹스 미니장미 국화 스토크 등",
+    "price": 14000,
+    "link": "https://store.kakao.com/cotenim/products/362925713",
+    "slot_id": "60930",
+    "pgm": "제철 생화 9900원 초특가",
+    "title": "무료배송",
+    "category": "리빙"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "아쿠아디파르마",
+    "product": "본조르노 라 콜레지오네 미니어처 세트 10ml x 5 (+미니어쳐 5ml, 쇼핑백)",
+    "price": 270000,
+    "link": "https://gift.kakao.com/product/13743597?url=product&cId=13743597",
+    "slot_id": "60595",
+    "pgm": "아쿠아 디 파르마 홀리데이",
+    "title": "선런칭! 겨울향수 큐레이션",
+    "category": "뷰티"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "풀리오",
+    "product": "[선물SET]풀리오 종아리마사지기 V3+카카오파우치+카카오쇼핑백M 증정",
+    "price": 149000,
+    "link": "https://gift.kakao.com/product/10151065?url=product&cId=10151065",
+    "slot_id": "60805",
+    "pgm": "풀리오 카쇼페 막차 LIVE",
+    "title": "카쇼페 단독 혜택 !",
+    "category": "테크"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "얼라인랩",
+    "product": "물리치료사도 매일 사용하는 손목힐링템ㅣTENS+EMS 마사지 저주파 무선 얼라인랩 릴렉스 손목 마사지기 육아 직장인 출산 선물",
+    "price": 34900,
+    "link": "https://gift.kakao.com/product/10517438?url=product&cId=10517438",
+    "slot_id": "61006",
+    "pgm": "얼라인랩X카쇼라 마사지기",
+    "title": "카쇼페 특가 라이브",
+    "category": "테크"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "메디힐",
+    "product": "메디힐 에센셜 마스크 30매 (7종 택3) + 마스크팩 1매 증정",
+    "price": 30400,
+    "link": "https://gift.kakao.com/product/7043695?url=product&cId=7043695",
+    "slot_id": "60925",
+    "pgm": "압도적 1등 마스크팩 메디힐",
+    "title": "100% 전원 선물 증정!",
+    "category": "뷰티"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "모다모다 스토어",
+    "product": "[모다모다] 새치 갈변 블랙샴푸 기획전",
+    "price": 148000,
+    "link": "https://store.kakao.com/modamoda/products/347753098",
+    "slot_id": "60972",
+    "pgm": "모다모다와 함께하는",
+    "title": "환절기 두피&새치 케어!",
+    "category": "뷰티"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "청년상점",
+    "product": "(아이스박스 포장) 2026 포항 꽁치과메기 10미 20쪽+모듬 야채세트(대) / 해풍에 잘 말려 꼬들한 과메기",
+    "price": 38900,
+    "link": "https://store.kakao.com/youngstore/products/635836494",
+    "slot_id": "60986",
+    "pgm": "포항 햇 과메기+야채세트",
+    "title": "쫀득쫀득 꾸덕한 라이브먹방",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "SLSI",
+    "product": "[베네통] 베네통 키즈 바시티 부클 자켓 택 1",
+    "price": 119800,
+    "link": "https://store.kakao.com/slsi/products/783704887",
+    "slot_id": "61008",
+    "pgm": "베네통키즈 간절기",
+    "title": "아우터&상하의 라이브 특가",
+    "category": "패션"
    }
   ]
  }
