@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-19T14:40:13+09:00",
+ "generated_at": "2026-10-19T15:00:23+09:00",
  "today": "2026-10-19",
  "dates": [
   "2026-10-18",
@@ -9307,7 +9307,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -10951,7 +10951,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 9
     },
     {
      "start": "14:00",
@@ -25111,8 +25112,7 @@ window.SCHEDULE = {
      "slot_id": "60634",
      "pgm": "FW꿀잠필수템 오르시떼!",
      "title": "온가족 커플파자마 할인전",
-     "category": "패션",
-     "hot": 10
+     "category": "패션"
     },
     {
      "start": "08:30",
