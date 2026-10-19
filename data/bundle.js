@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-19T11:20:14+09:00",
+ "generated_at": "2026-10-19T11:40:10+09:00",
  "today": "2026-10-19",
  "dates": [
   "2026-10-18",
@@ -472,7 +472,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 월 1만원대부터",
-     "pgm": "노블리타 (노블레스)"
+     "pgm": "노블리타 (노블레스)",
+     "hot": 8
     },
     {
      "start": "12:00",
@@ -7157,7 +7158,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -7912,7 +7913,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 6
     },
     {
      "start": "12:00",
@@ -14402,8 +14404,7 @@ window.SCHEDULE = {
      "slot_id": "60641",
      "pgm": "웅진 환절기 수분충전!",
      "title": "시원한 음료라이브",
-     "category": "식품",
-     "hot": 9
+     "category": "식품"
     },
     {
      "start": "08:30",
@@ -14475,8 +14476,7 @@ window.SCHEDULE = {
      "slot_id": "60983",
      "pgm": "파파야나인 지바겐 푸쉬카",
      "title": "쿠폰+페이 더블할인",
-     "category": "여행",
-     "hot": 10
+     "category": "여행"
     },
     {
      "start": "11:30",
