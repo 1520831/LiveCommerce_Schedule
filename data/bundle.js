@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-20T08:00:13+09:00",
+ "generated_at": "2026-10-20T08:20:24+09:00",
  "today": "2026-10-20",
  "dates": [
   "2026-10-19",
@@ -514,7 +514,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "스튜디오 톰보이✨ 아우터·맨투맨·가디건·팬츠 外",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 3
     },
     {
      "start": "09:00",
@@ -7030,7 +7031,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "03:20",
@@ -22762,8 +22763,8 @@ window.SCHEDULE = {
    "2026-10-19",
    "2026-10-20"
   ],
-  "matched": 11,
-  "unmatched": 8
+  "matched": 12,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
