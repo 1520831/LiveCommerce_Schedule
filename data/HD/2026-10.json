@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-10",
- "updated_at": "2026-10-19T12:03:25+09:00",
+ "updated_at": "2026-10-19T18:01:00+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -6290,14 +6290,14 @@
     "end": "20:59",
     "brand": "자연의정",
     "product": "제주 타이벡 감귤 고당도 특품 프리미엄 로얄과(S) 5kg",
-    "price": 18900,
+    "price": 21900,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253628594",
     "slot_id": "202610186007",
     "items": [
      {
       "brand": "자연의정",
       "product": "제주 타이벡 감귤 고당도 특품 프리미엄 로얄과(S) 5kg",
-      "price": 18900,
+      "price": 21900,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253628594"
      }
     ],
@@ -6592,6 +6592,25 @@
     "pgm": "[해외직구] 일본 현지 방송"
    },
    {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "버버리",
+    "product": "[버버리]6F 8110329 A1189 여성 크롭 퀼팅 나일론 후드 자켓 블랙",
+    "price": 1910000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253563993",
+    "slot_id": "202610196020",
+    "items": [
+     {
+      "brand": "버버리",
+      "product": "[버버리]6F 8110329 A1189 여성 크롭 퀼팅 나일론 후드 자켓 블랙",
+      "price": 1910000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253563993"
+     }
+    ],
+    "title": "[투명쇼] 막스마라 월 1만원대 득템 찬스",
+    "pgm": "[재방] 투명쇼 (패션잡화)"
+   },
+   {
     "start": "18:00",
     "end": "18:59",
     "brand": "장인가구",
@@ -6609,6 +6628,25 @@
     ],
     "title": "[장인가구] 이사/혼수맞이 BEST 소파침대 단독 혜택",
     "pgm": "[장인가구] 침대/소파 (리빙)"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "파슨스",
+    "product": "클래식 크롭 가디건 [PYPS9CA03]",
+    "price": 35000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255577168",
+    "slot_id": "202610196024",
+    "items": [
+     {
+      "brand": "파슨스",
+      "product": "클래식 크롭 가디건 [PYPS9CA03]",
+      "price": 35000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255577168"
+     }
+    ],
+    "title": "[파슨스] 불경기 타파 초특별가 최대 83%▼",
+    "pgm": "[재방] [파슨스] 의류 (멀티커머스)"
    },
    {
     "start": "19:00",
@@ -6630,6 +6668,25 @@
     "pgm": "[로라애슐리] 침구 (리빙)"
    },
    {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "닥스",
+    "product": "26년FW 기모 체크 남방 DMW3SHCL121-N1 DMW3SHCL121N1",
+    "price": 80000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253480820",
+    "slot_id": "202610196021",
+    "items": [
+     {
+      "brand": "닥스",
+      "product": "26년FW 기모 체크 남방 DMW3SHCL121-N1 DMW3SHCL121N1",
+      "price": 80000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253480820"
+     }
+    ],
+    "title": "[닥스] 26FW 신상셔츠 外 기모셔츠 최대 49%▼",
+    "pgm": "[재방] 닥스셔츠 (멀티커머스)"
+   },
+   {
     "start": "20:00",
     "end": "21:59",
     "brand": "버버리",
@@ -6647,6 +6704,25 @@
     ],
     "title": "[현명쇼] 버버리 패딩 월 2만원대 + 커피 쿠폰",
     "pgm": "현명쇼(노블레스)"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "장인가구",
+    "product": "도이 5인용 스윙 가죽 코너형 소파 (스툴 포함)",
+    "price": 996600,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2244284493",
+    "slot_id": "202610196022",
+    "items": [
+     {
+      "brand": "장인가구",
+      "product": "도이 5인용 스윙 가죽 코너형 소파 (스툴 포함)",
+      "price": 996600,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2244284493"
+     }
+    ],
+    "title": "[장인가구] 이사/혼수맞이 BEST 소파침대 단독 혜택",
+    "pgm": "[재방] 장인가구 (리빙팀)"
    },
    {
     "start": "22:00",
@@ -6731,14 +6807,14 @@
     "end": "08:59",
     "brand": "스튜디오톰보이",
     "product": "[톰보이] 버튼 디테일 후드 데님  점퍼 9106313001 9106313001",
-    "price": 143400,
+    "price": 114700,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255590017",
     "slot_id": "202610206002",
     "items": [
      {
       "brand": "스튜디오톰보이",
       "product": "[톰보이] 버튼 디테일 후드 데님  점퍼 9106313001 9106313001",
-      "price": 143400,
+      "price": 114700,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255590017"
      }
     ],
@@ -6803,6 +6879,25 @@
     "pgm": "육아일기"
    },
    {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "고비",
+    "product": "[30분부터세일] 고비(GOBI) 캐시미어 100 이중직 포켓 가디건",
+    "price": 399000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2240064198",
+    "slot_id": "202610206021",
+    "items": [
+     {
+      "brand": "고비",
+      "product": "[30분부터세일] 고비(GOBI) 캐시미어 100 이중직 포켓 가디건",
+      "price": 399000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2240064198"
+     }
+    ],
+    "title": "[슈쇼케] 미혜 PICK✨ 고비",
+    "pgm": "[재방] 고비 (패션1Lab)"
+   },
+   {
     "start": "12:00",
     "end": "12:59",
     "brand": "스텐팩토리",
@@ -6864,14 +6959,14 @@
     "end": "15:59",
     "brand": "밋앤밀",
     "product": "3대째 이어온 해남농부 꿀고구마(베니하루카) 특상 5kg(개당 130-300g)",
-    "price": 24200,
+    "price": 23700,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2244273358",
     "slot_id": "202610206009",
     "items": [
      {
       "brand": "밋앤밀",
       "product": "3대째 이어온 해남농부 꿀고구마(베니하루카) 특상 5kg(개당 130-300g)",
-      "price": 24200,
+      "price": 23700,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2244273358"
      }
     ],
@@ -6882,16 +6977,16 @@
     "start": "16:00",
     "end": "16:59",
     "brand": "허스텔러",
-    "product": "결 탄력 수분 집중 풀케어 세트 [에센스 2개 + 리벌스 앰플 2개 + 앰플 크림]",
-    "price": 202000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254612546",
+    "product": "결 탄력 페이스 앤 넥 풀케어 세트 [에센스 2개+앰플 2개+앰플 크림+핸드 앤 넥 세럼]",
+    "price": 228000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255682781",
     "slot_id": "202610206010",
     "items": [
      {
       "brand": "허스텔러",
-      "product": "결 탄력 수분 집중 풀케어 세트 [에센스 2개 + 리벌스 앰플 2개 + 앰플 크림]",
-      "price": 202000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254612546"
+      "product": "결 탄력 페이스 앤 넥 풀케어 세트 [에센스 2개+앰플 2개+앰플 크림+핸드 앤 넥 세럼]",
+      "price": 228000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255682781"
      }
     ],
     "title": "허스텔러 최초공개💛 오직 방송에서만 최대 70%▼",
@@ -7191,23 +7286,61 @@
     "pgm": "[폴티보] 크림 (뷰티브랜드)"
    },
    {
+    "start": "16:00",
+    "end": "16:59",
+    "brand": "수앤진골드",
+    "product": "달항아리 골드바 24K 순금 0.52g",
+    "price": 189000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252646884",
+    "slot_id": "202610216009",
+    "items": [
+     {
+      "brand": "수앤진골드",
+      "product": "달항아리 골드바 24K 순금 0.52g",
+      "price": 189000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252646884"
+     }
+    ],
+    "title": "[수앤진골드] 10월 마지막 생방송!",
+    "pgm": "[수앤진골드] 순금 주얼리 (패션잡화)"
+   },
+   {
     "start": "18:00",
     "end": "18:59",
     "brand": "와이잭",
-    "product": "W_캐시미어 실크 블렌드 홀가먼트 크루넥 풀오버 LWSU180035",
-    "price": 209000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253915657",
+    "product": "W_베이비 캐시미어 크루넥 풀오버 LCAU120001",
+    "price": 309000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253150102",
     "slot_id": "202610216011",
     "items": [
      {
       "brand": "와이잭",
-      "product": "W_캐시미어 실크 블렌드 홀가먼트 크루넥 풀오버 LWSU180035",
-      "price": 209000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253915657"
+      "product": "W_베이비 캐시미어 크루넥 풀오버 LCAU120001",
+      "price": 309000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253150102"
      }
     ],
     "title": "[와이잭] 프리미엄 소재의 가을/겨울 클래식 패션!",
     "pgm": "[와이잭] 여성의류 (멀티커머스)"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "로라애슐리",
+    "product": "파르테르 고밀도 극세사 담요 S 100x150cm",
+    "price": 42000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253701583",
+    "slot_id": "202610216022",
+    "items": [
+     {
+      "brand": "로라애슐리",
+      "product": "파르테르 고밀도 극세사 담요 S 100x150cm",
+      "price": 42000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253701583"
+     }
+    ],
+    "title": "[로라애슐리] FW 홈패브릭 쇼라 특별가🍂",
+    "pgm": "[재방] 로라애슐리 침구 (리빙)"
    },
    {
     "start": "19:00",
@@ -7383,6 +7516,25 @@
     "pgm": "백화점 프리오픈쇼(멀티커머스)"
    },
    {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "서사원",
+    "product": "하루 10분 초등 경제 신문+한국사+한국사 인물 세트(전 3권)",
+    "price": 56800,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255943364",
+    "slot_id": "202610226007",
+    "items": [
+     {
+      "brand": "서사원",
+      "product": "하루 10분 초등 경제 신문+한국사+한국사 인물 세트(전 3권)",
+      "price": 56800,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255943364"
+     }
+    ],
+    "title": "[북토크] 아이 첫 경제공부, 집에서 간단하게",
+    "pgm": "[북토크] 하루10분 초등 경제 신문 (쇼핑라이브)"
+   },
+   {
     "start": "13:00",
     "end": "13:59",
     "brand": "종근당건강",
@@ -7417,7 +7569,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255349286"
      }
     ],
-    "title": "FULIM 최대 35%▼ + 카드 5% + 무이자",
+    "title": "FULIM 최대 55%▼ + 카드 5% + 무이자",
     "pgm": "[그리니] 기초화장품 (뷰티브랜드)"
    },
    {
@@ -7481,20 +7633,58 @@
     "start": "20:00",
     "end": "20:59",
     "brand": "유스트",
-    "product": "[스위스유스트] 일상 필수템 세트",
-    "price": 134000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251459694",
+    "product": "[스위스유스트] 백노삼 80",
+    "price": 177000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255599418",
     "slot_id": "202610226014",
     "items": [
      {
       "brand": "유스트",
-      "product": "[스위스유스트] 일상 필수템 세트",
-      "price": 134000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251459694"
+      "product": "[스위스유스트] 백노삼 80",
+      "price": 177000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255599418"
      }
     ],
     "title": "허브 테라피 명가, 스위스 유스트 최대 28% 혜택",
     "pgm": "초밀착뷰티쇼 (멀티커머스)"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "세컨스킨",
+    "product": "세컨스킨 심리스 인견 배색 팬티H 5매입",
+    "price": 99500,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252232477",
+    "slot_id": "202610226016",
+    "items": [
+     {
+      "brand": "세컨스킨",
+      "product": "세컨스킨 심리스 인견 배색 팬티H 5매입",
+      "price": 99500,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252232477"
+     }
+    ],
+    "title": "세컨스킨✨ 가을맞이 속옥 체인지! 방송 특별가 OPEN",
+    "pgm": "[세컨스킨] 여성의류 (멀티커머스)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "CC콜렉트",
+    "product": "[씨씨콜렉트] 캐시미어 블렌디드 케이프 가디건 C254KSL143 C254KSL143",
+    "price": 129000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255589989",
+    "slot_id": "202610226017",
+    "items": [
+     {
+      "brand": "CC콜렉트",
+      "product": "[씨씨콜렉트] 캐시미어 블렌디드 케이프 가디건 C254KSL143 C254KSL143",
+      "price": 129000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255589989"
+     }
+    ],
+    "title": "CC콜렉트✨ 26FW 방송 특별가 + 25% 쿠폰💕",
+    "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ],
   "2026-10-23": [
@@ -7651,6 +7841,25 @@
     "pgm": "[재방] 현명쇼 (노블레스팀)"
    },
    {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "에이글로벌",
+    "product": "리치핏 바디젤 5개",
+    "price": 190000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253701343",
+    "slot_id": "202610236012",
+    "items": [
+     {
+      "brand": "에이글로벌",
+      "product": "리치핏 바디젤 5개",
+      "price": 190000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253701343"
+     }
+    ],
+    "title": "현대 단독⭐ 에이글로벌 무선 기기 제오니스",
+    "pgm": "[에이글로벌] 제오니스 디바이스 (뷰티2)"
+   },
+   {
     "start": "20:00",
     "end": "20:59",
     "brand": "에떼르노",
@@ -7689,6 +7898,25 @@
     ],
     "title": "[투명쇼] 막스마라 월 1만원대 득템 찬스",
     "pgm": "[재방] 투명쇼 (패션잡화)"
+   },
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "비지트인뉴욕",
+    "product": "베이직 더블 재킷(VC9JK01) VC9JK011",
+    "price": 199000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255589960",
+    "slot_id": "202610246010",
+    "items": [
+     {
+      "brand": "비지트인뉴욕",
+      "product": "베이직 더블 재킷(VC9JK01) VC9JK011",
+      "price": 199000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255589960"
+     }
+    ],
+    "title": "[비지트인뉴욕] 가을 데일리 필수템 최대 40%",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
    },
    {
     "start": "11:00",
@@ -7746,6 +7974,82 @@
     ],
     "title": "[멜라비앙카] 포인트 주기 좋은 우아한 헤어 주얼리",
     "pgm": "[멜라비앙카] 헤어주얼리 (패션잡화)"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "피네플리츠(FINE PLEATS)",
+    "product": "[FINE PLEATS] 피네 플리츠 라인 숏 가디건",
+    "price": 229000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254602884",
+    "slot_id": "202610246006",
+    "items": [
+     {
+      "brand": "피네플리츠(FINE PLEATS)",
+      "product": "[FINE PLEATS] 피네 플리츠 라인 숏 가디건",
+      "price": 229000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254602884"
+     }
+    ],
+    "title": "[피네플리츠] 26년 마지막 방송",
+    "pgm": "[피네플리츠] 의류 (패션1Lab)"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "코데즈컴바인",
+    "product": "스트링 연출 투웨이 집업 투턱 팬츠 셋업 CLC-XX502W8 CLC-XX502W8",
+    "price": 79000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253793228",
+    "slot_id": "202610246007",
+    "items": [
+     {
+      "brand": "코데즈컴바인",
+      "product": "스트링 연출 투웨이 집업 투턱 팬츠 셋업 CLC-XX502W8 CLC-XX502W8",
+      "price": 79000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253793228"
+     }
+    ],
+    "title": "[코데즈컴바인] 꾸안꾸의 정석✨ 셋업/가디건/팬츠外",
+    "pgm": "백구쇼 (멀티커머스)"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "알파메디",
+    "product": "라브르베르 데타셩 친환경 얼룩제거제 스프레이 740ml 3개",
+    "price": 48900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2241374372",
+    "slot_id": "202610246008",
+    "items": [
+     {
+      "brand": "알파메디",
+      "product": "라브르베르 데타셩 친환경 얼룩제거제 스프레이 740ml 3개",
+      "price": 48900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2241374372"
+     }
+    ],
+    "title": "[라브르베르] 프랑스 직수입 세제",
+    "pgm": "[라브르베르] 세제 (리빙)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "모노크롬",
+    "product": "챔버경량다운베스트(M264PD04) M264PD04",
+    "price": 269100,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255775460",
+    "slot_id": "202610246009",
+    "items": [
+     {
+      "brand": "모노크롬",
+      "product": "챔버경량다운베스트(M264PD04) M264PD04",
+      "price": 269100,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255775460"
+     }
+    ],
+    "title": "모노크롬의 가을 헤리티지, 7만원대부터❤️",
+    "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ]
  }
