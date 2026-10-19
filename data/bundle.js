@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-19T11:00:33+09:00",
+ "generated_at": "2026-10-19T11:20:14+09:00",
  "today": "2026-10-19",
  "dates": [
   "2026-10-18",
@@ -453,8 +453,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 막스마라 월 1만원대 득템 찬스",
-     "pgm": "투명쇼 (패션잡화)",
-     "hot": 9
+     "pgm": "투명쇼 (패션잡화)"
     },
     {
      "start": "11:00",
@@ -6620,7 +6619,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -7116,7 +7115,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -7157,7 +7156,8 @@ window.SCHEDULE = {
      "items": [
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -14366,7 +14366,7 @@ window.SCHEDULE = {
      "pgm": "홍진경이 선택한 곡물도감!",
      "title": "단 80분 최대특가 라이브",
      "category": "식품",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -14403,7 +14403,7 @@ window.SCHEDULE = {
      "pgm": "웅진 환절기 수분충전!",
      "title": "시원한 음료라이브",
      "category": "식품",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "08:30",
@@ -14475,7 +14475,8 @@ window.SCHEDULE = {
      "slot_id": "60983",
      "pgm": "파파야나인 지바겐 푸쉬카",
      "title": "쿠폰+페이 더블할인",
-     "category": "여행"
+     "category": "여행",
+     "hot": 10
     },
     {
      "start": "11:30",
@@ -15414,8 +15415,8 @@ window.SCHEDULE = {
   "dates": [
    "2026-10-19"
   ],
-  "matched": 7,
-  "unmatched": 3
+  "matched": 8,
+  "unmatched": 2
  },
  "fixed": {
   "rows": [
