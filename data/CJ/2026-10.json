@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-10",
- "updated_at": "2026-10-19T18:01:06+09:00",
+ "updated_at": "2026-10-19T23:31:02+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -7914,9 +7914,9 @@
     "start": "19:00",
     "end": "19:59",
     "brand": "교원투어",
-    "product": "교토/고베 3일 vs 큐슈 3일 #NO옵션 #효도여행 #미식여행",
+    "product": "프라임 교토&오미하치만 4일 #NO팁#대한항공",
     "price": 0,
-    "link": "https://item.cjonstyle.com/item/2095904787?channelCode=30002002",
+    "link": "https://item.cjonstyle.com/item/2095907202?channelCode=30002002",
     "slot_id": "30702",
     "title": "교원투어 프리미엄 일본 온천여행 특집♨️",
     "pgm": "트래블edit",
@@ -8031,7 +8031,7 @@
     "start": "21:00",
     "end": "21:59",
     "brand": "바디프랜드",
-    "product": "뉴팔콘 헬스케어로봇 안마의자 / 새제품 무상AS 5년",
+    "product": "[상품권 증 정] 뉴팔콘 헬스케어로봇 안마의자 / 새제품 무상AS 5년",
     "price": 3120000,
     "link": "https://item.cjonstyle.com/item/2075407936?channelCode=30002002",
     "slot_id": "30707",
@@ -8536,7 +8536,7 @@
     "end": "21:59",
     "brand": "프리츠한센",
     "product": "이케바나 화병 스몰 브라스 IKEBANA SMALL - BRASS",
-    "price": 178600,
+    "price": 169200,
     "link": "https://item.cjonstyle.com/item/2085653283?channelCode=30002002",
     "slot_id": "30720",
     "title": "공식 수입사 정품!🎉프리츠한센 단독 최저가! 빠른 배송",
@@ -8706,7 +8706,7 @@
     "end": "14:59",
     "brand": "프리츠한센",
     "product": "이케바나 화병 스몰 브라스 IKEBANA SMALL - BRASS",
-    "price": 178600,
+    "price": 169200,
     "link": "https://item.cjonstyle.com/item/2085653283?channelCode=30002002",
     "slot_id": "30843",
     "title": "다시보는 공식 수입사 정품!🎉프리츠한센 단독 최저가! 빠른 배송",
@@ -8881,6 +8881,19 @@
     "pgm": "브티나는 생활",
     "pgm_cd": "0101",
     "category": "가구·침구"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "닌자",
+    "product": "샤크 무선청소기 파워클린 BU3641KR",
+    "price": 699000,
+    "link": "https://item.cjonstyle.com/item/2094367190?channelCode=30002002",
+    "slot_id": "30732",
+    "title": "'알잘딱깔센'으로 추천! 샤크 파워클린 스틱 청소기! 닌자쵸퍼 경품추첨多",
+    "pgm": "전자전능",
+    "pgm_cd": "1020",
+    "category": "가전"
    }
   ],
   "2026-10-22": [
@@ -8921,6 +8934,19 @@
     "pgm": "라이브쇼",
     "pgm_cd": "1008",
     "category": "가전"
+   },
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "자연의정",
+    "product": "제주 타이벡 감귤 고당도 특품 프리미엄 로얄과(S) 3kg 5kg 10kg",
+    "price": 15900,
+    "link": "https://item.cjonstyle.com/item/2093440784?channelCode=30002002",
+    "slot_id": "30736",
+    "title": "[푸드온다] 감홍사과/감귤/고구마/유러피안샐러드/설리복숭아까지!!",
+    "pgm": "푸드온다",
+    "pgm_cd": "1018",
+    "category": "식품·건강"
    },
    {
     "start": "11:00",
@@ -9004,7 +9030,7 @@
     "end": "15:59",
     "brand": "프리츠한센",
     "product": "이케바나 화병 스몰 브라스 IKEBANA SMALL - BRASS",
-    "price": 178600,
+    "price": 169200,
     "link": "https://item.cjonstyle.com/item/2085653283?channelCode=30002002",
     "slot_id": "30870",
     "title": "다시보는 공식 수입사 정품!🎉프리츠한센 단독 최저가! 빠른 배송",

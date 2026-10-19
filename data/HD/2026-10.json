@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-10",
- "updated_at": "2026-10-19T18:01:00+09:00",
+ "updated_at": "2026-10-19T23:30:56+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -6501,14 +6501,14 @@
     "end": "13:59",
     "brand": "비와이씨",
     "product": "BYC 여성 보디히트 발열내의 상하세트",
-    "price": 33700,
+    "price": 36900,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2222471310",
     "slot_id": "202610196006",
     "items": [
      {
       "brand": "비와이씨",
       "product": "BYC 여성 보디히트 발열내의 상하세트",
-      "price": 33700,
+      "price": 36900,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2222471310"
      }
     ],
@@ -6742,6 +6742,25 @@
     ],
     "title": "[스케쳐스] 가을 슈즈 득템 찬스🍂",
     "pgm": "[스케쳐스] 슈즈 (멀티커머스)"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "로라애슐리",
+    "product": "[슈퍼킹][로라애슐리] 100% 호주산 프리미엄 양모 베딩 풀세트 SK",
+    "price": 499000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255342441",
+    "slot_id": "202610196023",
+    "items": [
+     {
+      "brand": "로라애슐리",
+      "product": "[슈퍼킹][로라애슐리] 100% 호주산 프리미엄 양모 베딩 풀세트 SK",
+      "price": 499000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255342441"
+     }
+    ],
+    "title": "로라애슐리 100% 양모 침구 얼리버드 특별가",
+    "pgm": "[재방] [로라애슐리] 침구 (리빙)"
    },
    {
     "start": "23:00",
