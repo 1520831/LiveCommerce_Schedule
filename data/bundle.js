@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-19T09:40:29+09:00",
+ "generated_at": "2026-10-19T10:00:24+09:00",
  "today": "2026-10-19",
  "dates": [
   "2026-10-18",
@@ -415,8 +415,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[닥스] 26FW 신상셔츠 外 기모셔츠 최대 49%▼",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 7
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "09:00",
@@ -15412,8 +15411,8 @@ window.SCHEDULE = {
   "dates": [
    "2026-10-19"
   ],
-  "matched": 5,
-  "unmatched": 5
+  "matched": 4,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
