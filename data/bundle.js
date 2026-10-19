@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-20T07:02:11+09:00",
+ "generated_at": "2026-10-20T08:00:13+09:00",
  "today": "2026-10-20",
  "dates": [
   "2026-10-19",
@@ -475,7 +475,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 버버리 퀼팅 자켓 월 2만원대~",
      "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "07:00",
@@ -494,7 +494,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 혜택 총집합",
-     "pgm": "[재방] 노블리타 (노블레스)"
+     "pgm": "[재방] 노블리타 (노블레스)",
+     "hot": 1
     },
     {
      "start": "08:00",
@@ -7029,7 +7030,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 8
     },
     {
      "start": "03:20",
@@ -22761,8 +22762,8 @@ window.SCHEDULE = {
    "2026-10-19",
    "2026-10-20"
   ],
-  "matched": 10,
-  "unmatched": 10
+  "matched": 11,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
