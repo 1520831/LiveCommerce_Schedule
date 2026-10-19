@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-19T10:00:24+09:00",
+ "generated_at": "2026-10-19T10:20:13+09:00",
  "today": "2026-10-19",
  "dates": [
   "2026-10-18",
@@ -453,7 +453,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 막스마라 월 1만원대 득템 찬스",
-     "pgm": "투명쇼 (패션잡화)"
+     "pgm": "투명쇼 (패션잡화)",
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -5781,7 +5782,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "09:30",
@@ -6226,7 +6227,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -6617,7 +6619,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -14362,7 +14365,7 @@ window.SCHEDULE = {
      "pgm": "홍진경이 선택한 곡물도감!",
      "title": "단 80분 최대특가 라이브",
      "category": "식품",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "08:30",
@@ -14375,7 +14378,7 @@ window.SCHEDULE = {
      "pgm": "코피코 캔디&부샤드 초콜릿",
      "title": "수입 식품 골라 담기",
      "category": "식품",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "08:30",
@@ -14400,7 +14403,7 @@ window.SCHEDULE = {
      "pgm": "웅진 환절기 수분충전!",
      "title": "시원한 음료라이브",
      "category": "식품",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "08:30",
@@ -15411,8 +15414,8 @@ window.SCHEDULE = {
   "dates": [
    "2026-10-19"
   ],
-  "matched": 4,
-  "unmatched": 6
+  "matched": 7,
+  "unmatched": 3
  },
  "fixed": {
   "rows": [
