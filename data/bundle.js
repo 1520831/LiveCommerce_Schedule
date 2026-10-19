@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-19T16:00:12+09:00",
+ "generated_at": "2026-10-19T16:20:11+09:00",
  "today": "2026-10-19",
  "dates": [
   "2026-10-18",
@@ -492,7 +492,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 월 1만원대부터",
      "pgm": "노블리타 (노블레스)",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "12:00",
@@ -7831,7 +7831,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "09:30",
@@ -8280,7 +8280,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -8686,7 +8686,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -9265,7 +9265,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 8
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -9307,7 +9307,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 10
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -10410,7 +10410,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "12:00",
@@ -10590,8 +10590,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 1
+     "category": "푸드"
     },
     {
      "start": "13:00",
@@ -10952,7 +10951,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 9
+     "hot": 8
     },
     {
      "start": "14:00",
@@ -25088,7 +25087,7 @@ window.SCHEDULE = {
      "pgm": "홍진경이 선택한 곡물도감!",
      "title": "단 80분 최대특가 라이브",
      "category": "식품",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "08:30",
@@ -25112,7 +25111,8 @@ window.SCHEDULE = {
      "slot_id": "60634",
      "pgm": "FW꿀잠필수템 오르시떼!",
      "title": "온가족 커플파자마 할인전",
-     "category": "패션"
+     "category": "패션",
+     "hot": 10
     },
     {
      "start": "08:30",
