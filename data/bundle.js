@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-19T19:00:08+09:00",
+ "generated_at": "2026-10-19T20:00:09+09:00",
  "today": "2026-10-19",
  "dates": [
   "2026-10-18",
@@ -492,7 +492,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 월 1만원대부터",
      "pgm": "노블리타 (노블레스)",
-     "hot": 4
+     "hot": 7
     },
     {
      "start": "12:00",
@@ -7961,8 +7961,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 7
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -8003,8 +8002,7 @@ window.SCHEDULE = {
      "items": [
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -9107,7 +9105,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 6
     },
     {
      "start": "12:00",
@@ -9720,8 +9718,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 8
+     "category": "테크"
     },
     {
      "start": "14:00",
@@ -10520,7 +10517,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 1
     },
     {
      "start": "19:00",
@@ -10576,7 +10574,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 2
     },
     {
      "start": "19:00",
@@ -24111,7 +24110,7 @@ window.SCHEDULE = {
      "pgm": "홍진경이 선택한 곡물도감!",
      "title": "단 80분 최대특가 라이브",
      "category": "식품",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "08:30",
@@ -24135,8 +24134,7 @@ window.SCHEDULE = {
      "slot_id": "60634",
      "pgm": "FW꿀잠필수템 오르시떼!",
      "title": "온가족 커플파자마 할인전",
-     "category": "패션",
-     "hot": 10
+     "category": "패션"
     },
     {
      "start": "08:30",
@@ -24304,7 +24302,8 @@ window.SCHEDULE = {
      "slot_id": "60506",
      "pgm": "하겐다즈 홀리데이 에디션출시",
      "title": "달콤한 맛 바삭한 식감까지",
-     "category": "식품"
+     "category": "식품",
+     "hot": 4
     },
     {
      "start": "19:00",
@@ -24352,7 +24351,8 @@ window.SCHEDULE = {
      "slot_id": "60967",
      "pgm": "에스트라X임라라님 빅 라이브",
      "title": "선착순 메가 커피 증정",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 10
     },
     {
      "start": "20:30",
