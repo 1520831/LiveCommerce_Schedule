@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-21T08:00:15+09:00",
+ "generated_at": "2026-10-21T08:20:16+09:00",
  "today": "2026-10-21",
  "dates": [
   "2026-10-20",
@@ -511,7 +511,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "보니스팍스 가을맞이 쇼라 단독 최저가 도전❤️",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 8
     },
     {
      "start": "09:00",
@@ -6765,7 +6766,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 10
     },
     {
      "start": "03:20",
@@ -23147,8 +23148,8 @@ window.SCHEDULE = {
    "2026-10-20",
    "2026-10-21"
   ],
-  "matched": 6,
-  "unmatched": 11
+  "matched": 7,
+  "unmatched": 10
  },
  "fixed": {
   "rows": [
