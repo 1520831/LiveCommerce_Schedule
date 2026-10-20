@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-10",
- "updated_at": "2026-10-20T12:01:38+09:00",
+ "updated_at": "2026-10-20T18:00:56+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -6766,14 +6766,14 @@
     "start": "23:00",
     "end": "23:59",
     "brand": "어드림오브씨드",
-    "product": "[어드림오브씨드] 심바 자켓 (Simba FAV_JK025)",
+    "product": "[어드림오브시드] 심바 자켓 (Simba FAV_JK025)",
     "price": 165000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255348944",
     "slot_id": "202610196015",
     "items": [
      {
       "brand": "어드림오브씨드",
-      "product": "[어드림오브씨드] 심바 자켓 (Simba FAV_JK025)",
+      "product": "[어드림오브시드] 심바 자켓 (Simba FAV_JK025)",
       "price": 165000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255348944"
      }
@@ -6997,19 +6997,38 @@
     "end": "16:59",
     "brand": "허스텔러",
     "product": "결 탄력 페이스 앤 넥 풀케어 세트 [에센스 2개+앰플 2개+앰플 크림+핸드 앤 넥 세럼]",
-    "price": 228000,
+    "price": 136700,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255682781",
     "slot_id": "202610206010",
     "items": [
      {
       "brand": "허스텔러",
       "product": "결 탄력 페이스 앤 넥 풀케어 세트 [에센스 2개+앰플 2개+앰플 크림+핸드 앤 넥 세럼]",
-      "price": 228000,
+      "price": 136700,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255682781"
      }
     ],
     "title": "허스텔러 최초공개💛 오직 방송에서만 최대 70%▼",
     "pgm": "[앙티브] 기초/센티드 밤 (뷰티1)"
+   },
+   {
+    "start": "16:00",
+    "end": "16:59",
+    "brand": "스튜디오톰보이",
+    "product": "[톰보이] 버튼 디테일 후드 데님  점퍼 9106313001 9106313001",
+    "price": 114700,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255590017",
+    "slot_id": "202610206023",
+    "items": [
+     {
+      "brand": "스튜디오톰보이",
+      "product": "[톰보이] 버튼 디테일 후드 데님  점퍼 9106313001 9106313001",
+      "price": 114700,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255590017"
+     }
+    ],
+    "title": "스튜디오 톰보이✨ 아우터·맨투맨·가디건·팬츠 外",
+    "pgm": "[재방] 백화점 프리오픈쇼(멀티커머스)"
    },
    {
     "start": "17:00",
@@ -7302,14 +7321,14 @@
     "start": "11:00",
     "end": "11:59",
     "brand": "애티튜드",
-    "product": "[공식수입사] 에티튜드 네이처플러스 고농축 세탁세제 1.05L+유연제 1L 와일드플라워 2입",
+    "product": "[에티튜드공식] 세탁세제 1.05L+유연제 1L 와일드플라워 고농축",
     "price": 56800,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254596334",
     "slot_id": "202610216004",
     "items": [
      {
       "brand": "애티튜드",
-      "product": "[공식수입사] 에티튜드 네이처플러스 고농축 세탁세제 1.05L+유연제 1L 와일드플라워 2입",
+      "product": "[에티튜드공식] 세탁세제 1.05L+유연제 1L 와일드플라워 고농축",
       "price": 56800,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254596334"
      }
@@ -7373,6 +7392,25 @@
     ],
     "title": "[유담화 크림] 환절기 기초 필수템 쇼라 단독 패키지",
     "pgm": "[폴티보] 크림 (뷰티브랜드)"
+   },
+   {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "밋앤밀",
+    "product": "보성 26년 햇수확 골드키위 3kg 특대(21-26과/112g-142g)",
+    "price": 26600,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2215210051",
+    "slot_id": "202610216008",
+    "items": [
+     {
+      "brand": "밋앤밀",
+      "product": "보성 26년 햇수확 골드키위 3kg 특대(21-26과/112g-142g)",
+      "price": 26600,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2215210051"
+     }
+    ],
+    "title": "[밋앤밀] 보성 산지직송 골드키위 론칭 특별가!",
+    "pgm": "[잭슨코리아] 골드키위 (쇼핑라이브)"
    },
    {
     "start": "16:00",
@@ -7571,14 +7609,14 @@
     "end": "08:59",
     "brand": "베스티벨리",
     "product": "[베스띠벨리] 레이스 배색 버튼 블라우스 BMBAB24010",
-    "price": 89900,
+    "price": 79000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255712838",
     "slot_id": "202610226003",
     "items": [
      {
       "brand": "베스티벨리",
       "product": "[베스띠벨리] 레이스 배색 버튼 블라우스 BMBAB24010",
-      "price": 89900,
+      "price": 79000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255712838"
      }
     ],
@@ -7608,14 +7646,14 @@
     "start": "11:00",
     "end": "11:59",
     "brand": "도로시",
-    "product": "14k 클라라 모이사나이트 6프롱 참 펜던트 (1캐럿)",
+    "product": "[타임찬스] 14k 클라라 모이사나이트 6프롱 참 펜던트 (1캐럿)",
     "price": 522000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255425074",
     "slot_id": "202610226006",
     "items": [
      {
       "brand": "도로시",
-      "product": "14k 클라라 모이사나이트 6프롱 참 펜던트 (1캐럿)",
+      "product": "[타임찬스] 14k 클라라 모이사나이트 6프롱 참 펜던트 (1캐럿)",
       "price": 522000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255425074"
      }
@@ -7660,6 +7698,25 @@
     ],
     "title": "[종근당건강] 현대 단독! 쇼라에서만 최대 32%🔻",
     "pgm": "[종근당건강] 건강식품 (건강식품2)"
+   },
+   {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "밋앤밀",
+    "product": "해남 산지직송 친환경 무농약 하우스 홍무화과 800g(8∼15입)",
+    "price": 23400,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252366913",
+    "slot_id": "202610226009",
+    "items": [
+     {
+      "brand": "밋앤밀",
+      "product": "해남 산지직송 친환경 무농약 하우스 홍무화과 800g(8∼15입)",
+      "price": 23400,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252366913"
+     }
+    ],
+    "title": "[밋앤밀] 해남 산지직송 친환경 무농약 홍무화과",
+    "pgm": "[잭슨코리아] 무화과"
    },
    {
     "start": "16:00",
@@ -7780,14 +7837,14 @@
     "end": "23:59",
     "brand": "CC콜렉트",
     "product": "[씨씨콜렉트] 캐시미어 블렌디드 케이프 가디건 C254KSL143 C254KSL143",
-    "price": 129000,
+    "price": 122200,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255589989",
     "slot_id": "202610226017",
     "items": [
      {
       "brand": "CC콜렉트",
       "product": "[씨씨콜렉트] 캐시미어 블렌디드 케이프 가디건 C254KSL143 C254KSL143",
-      "price": 129000,
+      "price": 122200,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255589989"
      }
     ],
@@ -7911,6 +7968,25 @@
     "pgm": "[바이아우어] 샴푸 (뷰티1)"
    },
    {
+    "start": "14:00",
+    "end": "14:59",
+    "brand": "김씨언니마켓",
+    "product": "저온압착 참기름 350ml 2병+들기름 350ml 2병 김씨언니마켓",
+    "price": 48900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239929424",
+    "slot_id": "202610236007",
+    "items": [
+     {
+      "brand": "김씨언니마켓",
+      "product": "저온압착 참기름 350ml 2병+들기름 350ml 2병 김씨언니마켓",
+      "price": 48900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239929424"
+     }
+    ],
+    "title": "[김씨언니마켓] 저온압착 참기름·들기름 특가",
+    "pgm": "[애드너스] 참기름/들기름"
+   },
+   {
     "start": "16:00",
     "end": "16:59",
     "brand": "이올레(IOLE)",
@@ -7971,16 +8047,16 @@
     "start": "19:00",
     "end": "19:59",
     "brand": "에이글로벌",
-    "product": "리치핏 바디젤 5개",
-    "price": 190000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253701343",
+    "product": "[비밀상점] 에이글로벌 글로우업겔 5개",
+    "price": 168000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250391865",
     "slot_id": "202610236012",
     "items": [
      {
       "brand": "에이글로벌",
-      "product": "리치핏 바디젤 5개",
-      "price": 190000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253701343"
+      "product": "[비밀상점] 에이글로벌 글로우업겔 5개",
+      "price": 168000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250391865"
      }
     ],
     "title": "현대 단독⭐ 에이글로벌 무선 기기 제오니스",
@@ -8004,6 +8080,25 @@
     ],
     "title": "[에떼르노] 주얼리 특집 쇼라 특별가!",
     "pgm": "[에떼르노] 주얼리 (패션잡화)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "주크",
+    "product": "쥬크 핸드메이드 더블코트(Z254MSG157) Z254MSG157",
+    "price": 244650,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2242861570",
+    "slot_id": "202610236016",
+    "items": [
+     {
+      "brand": "주크",
+      "product": "쥬크 핸드메이드 더블코트(Z254MSG157) Z254MSG157",
+      "price": 244650,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2242861570"
+     }
+    ],
+    "title": "쥬크✨ 간절기 베스트 방송 특별가 + 25% 쿠폰💕",
+    "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ],
   "2026-10-24": [
@@ -8025,6 +8120,25 @@
     ],
     "title": "[투명쇼] 막스마라 월 1만원대 득템 찬스",
     "pgm": "[재방] 투명쇼 (패션잡화)"
+   },
+   {
+    "start": "07:00",
+    "end": "07:59",
+    "brand": "우노아레",
+    "product": "24K 2g 포르투나(Fortuna) 골드바 네크리스(24K 2g+18K 2.3g)",
+    "price": 1699000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252129558",
+    "slot_id": "202610246015",
+    "items": [
+     {
+      "brand": "우노아레",
+      "product": "24K 2g 포르투나(Fortuna) 골드바 네크리스(24K 2g+18K 2.3g)",
+      "price": 1699000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252129558"
+     }
+    ],
+    "title": "[노블리타] 이탈리아 18K 주얼리 월 1만원대부터",
+    "pgm": "[재방] 노블리타 (노블레스)"
    },
    {
     "start": "09:00",
@@ -8180,6 +8294,82 @@
    }
   ],
   "2026-10-25": [
+   {
+    "start": "07:00",
+    "end": "07:59",
+    "brand": "우노아레",
+    "product": "24K 2g 포르투나(Fortuna) 골드바 네크리스(24K 2g+18K 2.3g)",
+    "price": 1699000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252129558",
+    "slot_id": "202610256013",
+    "items": [
+     {
+      "brand": "우노아레",
+      "product": "24K 2g 포르투나(Fortuna) 골드바 네크리스(24K 2g+18K 2.3g)",
+      "price": 1699000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252129558"
+     }
+    ],
+    "title": "[노블리타] 이탈리아 18K 주얼리 월 1만원대부터",
+    "pgm": "[재방] 노블리타 (노블레스)"
+   },
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "프로그",
+    "product": "고리형 고무장갑 그레이 X 10개 (소/중/대)",
+    "price": 26900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2147613392",
+    "slot_id": "202610256001",
+    "items": [
+     {
+      "brand": "프로그",
+      "product": "고리형 고무장갑 그레이 X 10개 (소/중/대)",
+      "price": 26900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2147613392"
+     }
+    ],
+    "title": "생활 용품은 역시 프로그💚",
+    "pgm": "[프로그] 생활용품 (리빙)"
+   },
+   {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "경동시장",
+    "product": "국산 식도라지 1kg",
+    "price": 28000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255934132",
+    "slot_id": "202610256003",
+    "items": [
+     {
+      "brand": "경동시장",
+      "product": "국산 식도라지 1kg",
+      "price": 28000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255934132"
+     }
+    ],
+    "title": "경동시장 현지 라이브🎥 최대 50%▼ 온누리 가능!",
+    "pgm": "[경동시장스토어] 약재 (쇼핑라이브)"
+   },
+   {
+    "start": "13:00",
+    "end": "13:59",
+    "brand": "켄트",
+    "product": "초극세모 칫솔 12개 (오리지널 클래식/콤팩트) 칫솔모 2종 중 선택",
+    "price": 38000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2146741089",
+    "slot_id": "202610256004",
+    "items": [
+     {
+      "brand": "켄트",
+      "product": "초극세모 칫솔 12개 (오리지널 클래식/콤팩트) 칫솔모 2종 중 선택",
+      "price": 38000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2146741089"
+     }
+    ],
+    "title": "[켄트] 어금니 깊은 곳까지 깨끗하게",
+    "pgm": "[켄트] 칫솔 (리빙)"
+   },
    {
     "start": "15:00",
     "end": "15:59",
