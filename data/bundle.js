@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-20T11:20:22+09:00",
+ "generated_at": "2026-10-20T11:40:14+09:00",
  "today": "2026-10-20",
  "dates": [
   "2026-10-19",
@@ -2307,8 +2307,7 @@ window.SCHEDULE = {
      "slot_id": "30709",
      "title": "[맘만하니] 립프로그🍦 아이스크림 카트/피아노 론칭 특가! 6만원대~",
      "pgm": "맘만하니",
-     "pgm_cd": "1100",
-     "hot": 9
+     "pgm_cd": "1100"
     },
     {
      "start": "10:00",
@@ -2347,7 +2346,7 @@ window.SCHEDULE = {
      "title": "은아쌤XVIP키드💗집에서 VIP키드로 미국 초등학교 보내요👀",
      "pgm": "은아쌤의 맘스클래스",
      "pgm_cd": "1115",
-     "hot": 10
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -7765,7 +7764,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -9559,7 +9558,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -9698,7 +9697,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -20930,7 +20930,7 @@ window.SCHEDULE = {
      "pgm": "덴프스 카쇼페 앵콜라이브!",
      "title": "두 번 깎는 쇼핑축제",
      "category": "식품",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -21029,7 +21029,7 @@ window.SCHEDULE = {
      "pgm": "아토팜 카쇼페 LIVE",
      "title": "가을 보습템/워시/키즈 특가",
      "category": "뷰티",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "10:00",
