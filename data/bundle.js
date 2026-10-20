@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-20T10:40:15+09:00",
+ "generated_at": "2026-10-20T11:00:22+09:00",
  "today": "2026-10-20",
  "dates": [
   "2026-10-19",
@@ -493,8 +493,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 혜택 총집합",
-     "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 8
+     "pgm": "[재방] 노블리타 (노블레스)"
     },
     {
      "start": "08:00",
@@ -2309,7 +2308,7 @@ window.SCHEDULE = {
      "title": "[맘만하니] 립프로그🍦 아이스크림 카트/피아노 론칭 특가! 6만원대~",
      "pgm": "맘만하니",
      "pgm_cd": "1100",
-     "hot": 9
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -7765,7 +7764,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 10
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -20968,7 +20967,7 @@ window.SCHEDULE = {
      "pgm": "건조한 피부 보습끝장 라이브",
      "title": "~81%+쿠폰+선착순 증정",
      "category": "뷰티",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "09:00",
@@ -22769,7 +22768,7 @@ window.SCHEDULE = {
    "2026-10-19",
    "2026-10-20"
   ],
-  "matched": 18,
+  "matched": 17,
   "unmatched": 2
  },
  "fixed": {
