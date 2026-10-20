@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-20T10:00:12+09:00",
+ "generated_at": "2026-10-20T10:20:11+09:00",
  "today": "2026-10-20",
  "dates": [
   "2026-10-19",
@@ -474,8 +474,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 버버리 퀼팅 자켓 월 2만원대~",
-     "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 9
+     "pgm": "[재방] 투명쇼 (패션잡화)"
     },
     {
      "start": "07:00",
@@ -495,7 +494,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 혜택 총집합",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "08:00",
@@ -514,8 +513,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "스튜디오 톰보이✨ 아우터·맨투맨·가디건·팬츠 外",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 7
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "09:00",
@@ -534,8 +532,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[미소페] 26FW 신상 슈즈 최대 69%▼",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 8
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "10:00",
@@ -7369,8 +7366,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티",
-     "hot": 10
+     "category": "뷰티"
     },
     {
      "start": "10:00",
@@ -7810,7 +7806,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -20918,7 +20915,7 @@ window.SCHEDULE = {
      "pgm": "클라랑스 더블세럼/넥크림 외",
      "title": "방송중 토닉배스+바디밤!",
      "category": "뷰티",
-     "hot": 6
+     "hot": 10
     },
     {
      "start": "08:30",
@@ -20931,7 +20928,7 @@ window.SCHEDULE = {
      "pgm": "덴프스 카쇼페 앵콜라이브!",
      "title": "두 번 깎는 쇼핑축제",
      "category": "식품",
-     "hot": 1
+     "hot": 3
     },
     {
      "start": "08:30",
@@ -20944,7 +20941,7 @@ window.SCHEDULE = {
      "pgm": "라보에이치~44%+5% 쿠폰",
      "title": "라이브중 전원 사은품 증정",
      "category": "뷰티",
-     "hot": 2
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -20957,7 +20954,7 @@ window.SCHEDULE = {
      "pgm": "크리넥스&좋은느낌",
      "title": "카쇼페 최대 혜택 증정",
      "category": "리빙",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "08:30",
@@ -20970,7 +20967,7 @@ window.SCHEDULE = {
      "pgm": "건조한 피부 보습끝장 라이브",
      "title": "~81%+쿠폰+선착순 증정",
      "category": "뷰티",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "09:00",
@@ -21030,7 +21027,8 @@ window.SCHEDULE = {
      "slot_id": "60873",
      "pgm": "아토팜 카쇼페 LIVE",
      "title": "가을 보습템/워시/키즈 특가",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -21042,7 +21040,8 @@ window.SCHEDULE = {
      "slot_id": "60939",
      "pgm": "베이비 브레짜 카쇼라 특가",
      "title": "페이&카쇼페 쿠폰 중복 할인",
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -22769,7 +22768,7 @@ window.SCHEDULE = {
    "2026-10-19",
    "2026-10-20"
   ],
-  "matched": 18,
+  "matched": 17,
   "unmatched": 2
  },
  "fixed": {
