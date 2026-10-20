@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-20T12:02:56+09:00",
+ "generated_at": "2026-10-20T12:20:11+09:00",
  "today": "2026-10-20",
  "dates": [
   "2026-10-19",
@@ -2493,7 +2493,8 @@ window.SCHEDULE = {
      "title": "스타일나래이션🎇지스튜디오 릴레이라이브",
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 8
     },
     {
      "start": "12:00",
@@ -8140,7 +8141,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -9671,8 +9672,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -10012,7 +10012,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -10107,8 +10108,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈",
-     "hot": 9
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -22987,7 +22987,7 @@ window.SCHEDULE = {
      "pgm": "라보에이치~44%+5% 쿠폰",
      "title": "라이브중 전원 사은품 증정",
      "category": "뷰티",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "08:30",
@@ -23000,7 +23000,7 @@ window.SCHEDULE = {
      "pgm": "크리넥스&좋은느낌",
      "title": "카쇼페 최대 혜택 증정",
      "category": "리빙",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "08:30",
