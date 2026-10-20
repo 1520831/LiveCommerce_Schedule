@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-20T11:00:22+09:00",
+ "generated_at": "2026-10-20T11:20:22+09:00",
  "today": "2026-10-20",
  "dates": [
   "2026-10-19",
@@ -2308,7 +2308,7 @@ window.SCHEDULE = {
      "title": "[맘만하니] 립프로그🍦 아이스크림 카트/피아노 론칭 특가! 6만원대~",
      "pgm": "맘만하니",
      "pgm_cd": "1100",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -2346,7 +2346,8 @@ window.SCHEDULE = {
      "slot_id": "30480",
      "title": "은아쌤XVIP키드💗집에서 VIP키드로 미국 초등학교 보내요👀",
      "pgm": "은아쌤의 맘스클래스",
-     "pgm_cd": "1115"
+     "pgm_cd": "1115",
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -7764,7 +7765,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -9557,7 +9558,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -20941,7 +20943,7 @@ window.SCHEDULE = {
      "pgm": "라보에이치~44%+5% 쿠폰",
      "title": "라이브중 전원 사은품 증정",
      "category": "뷰티",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "08:30",
@@ -20954,7 +20956,7 @@ window.SCHEDULE = {
      "pgm": "크리넥스&좋은느낌",
      "title": "카쇼페 최대 혜택 증정",
      "category": "리빙",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "08:30",
@@ -20966,8 +20968,7 @@ window.SCHEDULE = {
      "slot_id": "60847",
      "pgm": "건조한 피부 보습끝장 라이브",
      "title": "~81%+쿠폰+선착순 증정",
-     "category": "뷰티",
-     "hot": 9
+     "category": "뷰티"
     },
     {
      "start": "09:00",
@@ -21028,7 +21029,7 @@ window.SCHEDULE = {
      "pgm": "아토팜 카쇼페 LIVE",
      "title": "가을 보습템/워시/키즈 특가",
      "category": "뷰티",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -22768,7 +22769,7 @@ window.SCHEDULE = {
    "2026-10-19",
    "2026-10-20"
   ],
-  "matched": 17,
+  "matched": 18,
   "unmatched": 2
  },
  "fixed": {
