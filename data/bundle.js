@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-20T19:00:11+09:00",
+ "generated_at": "2026-10-20T20:00:10+09:00",
  "today": "2026-10-20",
  "dates": [
   "2026-10-19",
@@ -2642,7 +2642,7 @@ window.SCHEDULE = {
      "title": "은아쌤XVIP키드💗집에서 VIP키드로 미국 초등학교 보내요👀",
      "pgm": "은아쌤의 맘스클래스",
      "pgm_cd": "1115",
-     "hot": 5
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -2681,8 +2681,7 @@ window.SCHEDULE = {
      "title": "스타일나래이션🎇지스튜디오 릴레이라이브",
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
-     "category": "여성패션",
-     "hot": 8
+     "category": "여성패션"
     },
     {
      "start": "12:00",
@@ -8727,7 +8726,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -8838,7 +8837,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -9523,7 +9522,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "13:20",
@@ -10731,7 +10730,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 4
     },
     {
      "start": "19:00",
@@ -24486,7 +24486,7 @@ window.SCHEDULE = {
      "pgm": "덴프스 카쇼페 앵콜라이브!",
      "title": "두 번 깎는 쇼핑축제",
      "category": "식품",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "08:30",
@@ -24498,8 +24498,7 @@ window.SCHEDULE = {
      "slot_id": "60654",
      "pgm": "라보에이치~44%+5% 쿠폰",
      "title": "라이브중 전원 사은품 증정",
-     "category": "뷰티",
-     "hot": 9
+     "category": "뷰티"
     },
     {
      "start": "08:30",
@@ -24511,8 +24510,7 @@ window.SCHEDULE = {
      "slot_id": "60741",
      "pgm": "크리넥스&좋은느낌",
      "title": "카쇼페 최대 혜택 증정",
-     "category": "리빙",
-     "hot": 10
+     "category": "리빙"
     },
     {
      "start": "08:30",
@@ -24597,7 +24595,7 @@ window.SCHEDULE = {
      "pgm": "베이비 브레짜 카쇼라 특가",
      "title": "페이&카쇼페 쿠폰 중복 할인",
      "category": "키즈",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -24717,7 +24715,8 @@ window.SCHEDULE = {
      "slot_id": "60212",
      "pgm": "워커힐 호텔앤리조트_단독혜택",
      "title": "더블 할인&추첨 이벤트",
-     "category": "여행"
+     "category": "여행",
+     "hot": 1
     },
     {
      "start": "19:00",
@@ -24765,7 +24764,8 @@ window.SCHEDULE = {
      "slot_id": "60891",
      "pgm": "쿠쿠 미니 김치냉장고 출시!",
      "title": "런칭특가라이브 with김풍",
-     "category": "테크"
+     "category": "테크",
+     "hot": 7
     },
     {
      "start": "19:00",
