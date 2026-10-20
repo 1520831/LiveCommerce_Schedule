@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-20T11:40:14+09:00",
+ "generated_at": "2026-10-20T12:00:24+09:00",
  "today": "2026-10-20",
  "dates": [
   "2026-10-19",
@@ -2346,7 +2346,7 @@ window.SCHEDULE = {
      "title": "은아쌤XVIP키드💗집에서 VIP키드로 미국 초등학교 보내요👀",
      "pgm": "은아쌤의 맘스클래스",
      "pgm_cd": "1115",
-     "hot": 7
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -9697,8 +9697,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈",
-     "hot": 10
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -9764,7 +9763,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -20930,7 +20930,7 @@ window.SCHEDULE = {
      "pgm": "덴프스 카쇼페 앵콜라이브!",
      "title": "두 번 깎는 쇼핑축제",
      "category": "식품",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "08:30",
@@ -20943,7 +20943,7 @@ window.SCHEDULE = {
      "pgm": "라보에이치~44%+5% 쿠폰",
      "title": "라이브중 전원 사은품 증정",
      "category": "뷰티",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "08:30",
@@ -20956,7 +20956,7 @@ window.SCHEDULE = {
      "pgm": "크리넥스&좋은느낌",
      "title": "카쇼페 최대 혜택 증정",
      "category": "리빙",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "08:30",
@@ -21029,7 +21029,7 @@ window.SCHEDULE = {
      "pgm": "아토팜 카쇼페 LIVE",
      "title": "가을 보습템/워시/키즈 특가",
      "category": "뷰티",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "10:00",
