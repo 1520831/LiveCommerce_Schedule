@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-20T09:40:13+09:00",
+ "generated_at": "2026-10-20T10:00:12+09:00",
  "today": "2026-10-20",
  "dates": [
   "2026-10-19",
@@ -475,7 +475,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 버버리 퀼팅 자켓 월 2만원대~",
      "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "07:00",
@@ -535,7 +535,7 @@ window.SCHEDULE = {
      ],
      "title": "[미소페] 26FW 신상 슈즈 최대 69%▼",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 9
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -7369,7 +7369,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -22768,7 +22769,7 @@ window.SCHEDULE = {
    "2026-10-19",
    "2026-10-20"
   ],
-  "matched": 17,
+  "matched": 18,
   "unmatched": 2
  },
  "fixed": {
