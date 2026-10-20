@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-20T13:40:12+09:00",
+ "generated_at": "2026-10-20T14:00:23+09:00",
  "today": "2026-10-20",
  "dates": [
   "2026-10-19",
@@ -2454,7 +2454,7 @@ window.SCHEDULE = {
      "title": "은아쌤XVIP키드💗집에서 VIP키드로 미국 초등학교 보내요👀",
      "pgm": "은아쌤의 맘스클래스",
      "pgm_cd": "1115",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -9901,7 +9901,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -10012,7 +10012,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -10697,7 +10697,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 3
     },
     {
      "start": "13:20",
