@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-20T12:20:11+09:00",
+ "generated_at": "2026-10-20T12:40:11+09:00",
  "today": "2026-10-20",
  "dates": [
   "2026-10-19",
@@ -2494,7 +2494,7 @@ window.SCHEDULE = {
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
      "category": "여성패션",
-     "hot": 8
+     "hot": 7
     },
     {
      "start": "12:00",
@@ -10013,7 +10013,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -22974,7 +22974,7 @@ window.SCHEDULE = {
      "pgm": "덴프스 카쇼페 앵콜라이브!",
      "title": "두 번 깎는 쇼핑축제",
      "category": "식품",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "08:30",
@@ -22987,7 +22987,7 @@ window.SCHEDULE = {
      "pgm": "라보에이치~44%+5% 쿠폰",
      "title": "라이브중 전원 사은품 증정",
      "category": "뷰티",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "08:30",
