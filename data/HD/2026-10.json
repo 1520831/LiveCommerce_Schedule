@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-10",
- "updated_at": "2026-10-20T18:00:56+09:00",
+ "updated_at": "2026-10-20T23:30:55+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -7110,16 +7110,16 @@
     "start": "19:00",
     "end": "19:59",
     "brand": "세라젬",
-    "product": "세라젬 마스터 V5 척추온열 의료기기 무상 AS 1년",
-    "price": 3950000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249642639",
+    "product": "[쇼라 핫딜] [현대단독무60]세라젬 마스터 V9 2027 척추온열 의료기기",
+    "price": 6700000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255600573",
     "slot_id": "202610206013",
     "items": [
      {
       "brand": "세라젬",
-      "product": "세라젬 마스터 V5 척추온열 의료기기 무상 AS 1년",
-      "price": 3950000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249642639"
+      "product": "[쇼라 핫딜] [현대단독무60]세라젬 마스터 V9 2027 척추온열 의료기기",
+      "price": 6700000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255600573"
      }
     ],
     "title": "[세라젬] 방송 단 1시간의 핫딜 찬스🎁",
@@ -7162,25 +7162,6 @@
     ],
     "title": "[SM후르츠] 감홍🍎 시나노🍏 샤인🍇 특별가",
     "pgm": "[성민마켓] 감홍사과 (쇼핑라이브)"
-   },
-   {
-    "start": "21:00",
-    "end": "21:59",
-    "brand": "넘버이즈",
-    "product": "NO.0 레몬 애사비 제로 클렌즈 4 BOX(40포)",
-    "price": 67600,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255265513",
-    "slot_id": "202610206015",
-    "items": [
-     {
-      "brand": "넘버이즈",
-      "product": "NO.0 레몬 애사비 제로 클렌즈 4 BOX(40포)",
-      "price": 67600,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255265513"
-     }
-    ],
-    "title": "쿰쿰한 식초맛 없어요! 넘버이즈 레모네이드맛 애사비🧃",
-    "pgm": "[넘버이즈] 애사비 (뷰티1)"
    },
    {
     "start": "22:00",
@@ -8085,16 +8066,16 @@
     "start": "23:00",
     "end": "23:59",
     "brand": "주크",
-    "product": "쥬크 핸드메이드 더블코트(Z254MSG157) Z254MSG157",
-    "price": 244650,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2242861570",
+    "product": "알파카 블렌디드 부클 하프코트 Z264MSG305 Z264MSG305",
+    "price": 419300,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255595445",
     "slot_id": "202610236016",
     "items": [
      {
       "brand": "주크",
-      "product": "쥬크 핸드메이드 더블코트(Z254MSG157) Z254MSG157",
-      "price": 244650,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2242861570"
+      "product": "알파카 블렌디드 부클 하프코트 Z264MSG305 Z264MSG305",
+      "price": 419300,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255595445"
      }
     ],
     "title": "쥬크✨ 간절기 베스트 방송 특별가 + 25% 쿠폰💕",
