@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-20T20:00:10+09:00",
+ "generated_at": "2026-10-20T21:00:10+09:00",
  "today": "2026-10-20",
  "dates": [
   "2026-10-19",
@@ -2641,8 +2641,7 @@ window.SCHEDULE = {
      "slot_id": "30480",
      "title": "은아쌤XVIP키드💗집에서 VIP키드로 미국 초등학교 보내요👀",
      "pgm": "은아쌤의 맘스클래스",
-     "pgm_cd": "1115",
-     "hot": 8
+     "pgm_cd": "1115"
     },
     {
      "start": "11:00",
@@ -8726,7 +8725,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -8836,8 +8835,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -9522,7 +9520,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 8
     },
     {
      "start": "13:20",
@@ -10731,7 +10729,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "19:00",
@@ -24485,8 +24483,7 @@ window.SCHEDULE = {
      "slot_id": "60567",
      "pgm": "덴프스 카쇼페 앵콜라이브!",
      "title": "두 번 깎는 쇼핑축제",
-     "category": "식품",
-     "hot": 10
+     "category": "식품"
     },
     {
      "start": "08:30",
@@ -24595,7 +24592,7 @@ window.SCHEDULE = {
      "pgm": "베이비 브레짜 카쇼라 특가",
      "title": "페이&카쇼페 쿠폰 중복 할인",
      "category": "키즈",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -26482,8 +26479,8 @@ window.SCHEDULE = {
    "2026-10-19",
    "2026-10-20"
   ],
-  "matched": 17,
-  "unmatched": 3
+  "matched": 14,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
