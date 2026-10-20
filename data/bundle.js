@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-20T12:40:11+09:00",
+ "generated_at": "2026-10-20T13:00:22+09:00",
  "today": "2026-10-20",
  "dates": [
   "2026-10-19",
@@ -2507,7 +2507,8 @@ window.SCHEDULE = {
      "title": "미리보는🎤더김창옥라이브🎤조지루시 가습기🐘",
      "pgm": "더 김창옥 라이브",
      "pgm_cd": "1098",
-     "category": "가전"
+     "category": "가전",
+     "hot": 10
     },
     {
      "start": "12:00",
@@ -8140,8 +8141,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "10:00",
