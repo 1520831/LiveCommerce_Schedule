@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-20T13:20:10+09:00",
+ "generated_at": "2026-10-20T13:40:12+09:00",
  "today": "2026-10-20",
  "dates": [
   "2026-10-19",
@@ -2494,7 +2494,7 @@ window.SCHEDULE = {
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
      "category": "여성패션",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "12:00",
@@ -2507,8 +2507,7 @@ window.SCHEDULE = {
      "title": "미리보는🎤더김창옥라이브🎤조지루시 가습기🐘",
      "pgm": "더 김창옥 라이브",
      "pgm_cd": "1098",
-     "category": "가전",
-     "hot": 10
+     "category": "가전"
     },
     {
      "start": "12:00",
@@ -10697,7 +10696,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 6
     },
     {
      "start": "13:20",
@@ -22974,7 +22974,7 @@ window.SCHEDULE = {
      "pgm": "덴프스 카쇼페 앵콜라이브!",
      "title": "두 번 깎는 쇼핑축제",
      "category": "식품",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "08:30",
@@ -22987,7 +22987,7 @@ window.SCHEDULE = {
      "pgm": "라보에이치~44%+5% 쿠폰",
      "title": "라이브중 전원 사은품 증정",
      "category": "뷰티",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "08:30",
@@ -23000,7 +23000,7 @@ window.SCHEDULE = {
      "pgm": "크리넥스&좋은느낌",
      "title": "카쇼페 최대 혜택 증정",
      "category": "리빙",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "08:30",
