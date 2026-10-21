@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-10",
- "updated_at": "2026-10-21T18:00:54+09:00",
+ "updated_at": "2026-10-21T23:30:56+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -7283,14 +7283,14 @@
     "end": "09:59",
     "brand": "비체",
     "product": "14K 모스카토 핑크 팔찌 CHRB2506-16P CHRB250616P",
-    "price": 663000,
+    "price": 780000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253641130",
     "slot_id": "202610216002",
     "items": [
      {
       "brand": "비체",
       "product": "14K 모스카토 핑크 팔찌 CHRB2506-16P CHRB250616P",
-      "price": 663000,
+      "price": 780000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253641130"
      }
     ],
@@ -7567,14 +7567,14 @@
     "end": "20:59",
     "brand": "비체",
     "product": "14K 모스카토 핑크 팔찌 CHRB2506-16P CHRB250616P",
-    "price": 663000,
+    "price": 780000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253641130",
     "slot_id": "202610216024",
     "items": [
      {
       "brand": "비체",
       "product": "14K 모스카토 핑크 팔찌 CHRB2506-16P CHRB250616P",
-      "price": 663000,
+      "price": 780000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253641130"
      }
     ],
@@ -7815,14 +7815,14 @@
     "start": "14:00",
     "end": "14:59",
     "brand": "캐논",
-    "product": "EOS R8 Mark II Body",
+    "product": "(무6/5만H.Point) 캐논 EOS R8 Mark II Body",
     "price": 2319000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255701293",
     "slot_id": "202610226002",
     "items": [
      {
       "brand": "캐논",
-      "product": "EOS R8 Mark II Body",
+      "product": "(무6/5만H.Point) 캐논 EOS R8 Mark II Body",
       "price": 2319000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255701293"
      }
@@ -8102,16 +8102,16 @@
     "start": "10:00",
     "end": "10:59",
     "brand": "막스마라",
-    "product": "(당일) 26FW 막스마라 마담 101801 아이콘 네이비 여성 코트 262 101801 0600 005",
-    "price": 4087000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253167984",
+    "product": "(당일) 26FW 위켄드 막스마라 SARTA 사르타 카멜 여성 패딩 자켓 262 549609 2600 016",
+    "price": 869000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256026865",
     "slot_id": "202610236003",
     "items": [
      {
       "brand": "막스마라",
-      "product": "(당일) 26FW 막스마라 마담 101801 아이콘 네이비 여성 코트 262 101801 0600 005",
-      "price": 4087000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253167984"
+      "product": "(당일) 26FW 위켄드 막스마라 SARTA 사르타 카멜 여성 패딩 자켓 262 549609 2600 016",
+      "price": 869000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256026865"
      }
     ],
     "title": "[투명쇼 스페셜] 막스마라 루드밀라, 마담 한정수량",
@@ -8541,16 +8541,16 @@
     "start": "23:00",
     "end": "23:59",
     "brand": "모노크롬",
-    "product": "레몬커브드데님(M264DN01) M264DN01",
-    "price": 233100,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255778183",
+    "product": "넨플리스가디건(M264CD04) M264CD04",
+    "price": 269100,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255780618",
     "slot_id": "202610246009",
     "items": [
      {
       "brand": "모노크롬",
-      "product": "레몬커브드데님(M264DN01) M264DN01",
-      "price": 233100,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255778183"
+      "product": "넨플리스가디건(M264CD04) M264CD04",
+      "price": 269100,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255780618"
      }
     ],
     "title": "모노크롬의 가을 헤리티지, 7만원대부터❤️",
@@ -8711,6 +8711,25 @@
     ],
     "title": "한파대비 란제리 교체타임! 비너스 1만원대부터❤️",
     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "버버리",
+    "product": "[버버리]5F 8107463 C1900 여성 퀼팅 나일론 반 자켓 블랙",
+    "price": 1540000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239887383",
+    "slot_id": "202610266003",
+    "items": [
+     {
+      "brand": "버버리",
+      "product": "[버버리]5F 8107463 C1900 여성 퀼팅 나일론 반 자켓 블랙",
+      "price": 1540000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239887383"
+     }
+    ],
+    "title": "[투명쇼] 몽클레어 패딩가디건 월 2만원대 득템찬스",
+    "pgm": "투명쇼 (패션잡화)"
    },
    {
     "start": "11:00",
