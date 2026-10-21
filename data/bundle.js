@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-22T07:02:07+09:00",
+ "generated_at": "2026-10-22T08:00:12+09:00",
  "today": "2026-10-22",
  "dates": [
   "2026-10-21",
@@ -493,7 +493,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[헤지스ACC] 가을 신상 아이템 추천🍂",
-     "pgm": "[재방] 헤지스 잡화 (멀티커머스)"
+     "pgm": "[재방] 헤지스 잡화 (멀티커머스)",
+     "hot": 2
     },
     {
      "start": "08:00",
@@ -22977,8 +22978,8 @@ window.SCHEDULE = {
    "2026-10-21",
    "2026-10-22"
   ],
-  "matched": 9,
-  "unmatched": 11
+  "matched": 10,
+  "unmatched": 9
  },
  "fixed": {
   "rows": [
