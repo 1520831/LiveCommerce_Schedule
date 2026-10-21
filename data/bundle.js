@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-21T19:00:11+09:00",
+ "generated_at": "2026-10-21T20:00:11+09:00",
  "today": "2026-10-21",
  "dates": [
   "2026-10-20",
@@ -2735,7 +2735,7 @@ window.SCHEDULE = {
      "pgm": "바이림",
      "pgm_cd": "0092",
      "category": "잡화·슈즈",
-     "hot": 5
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -7390,7 +7390,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 4
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -8020,7 +8020,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "10:30",
@@ -8458,8 +8458,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈",
-     "hot": 9
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -10363,7 +10362,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 4
     },
     {
      "start": "19:00",
@@ -10794,7 +10794,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "패션"
+     "category": "패션",
+     "hot": 3
     },
     {
      "start": "19:20",
@@ -24765,8 +24766,7 @@ window.SCHEDULE = {
      "slot_id": "60509",
      "pgm": "독일 명품비타민 오쏘몰",
      "title": "오쏘몰이뮨 30+1 추가증정",
-     "category": "식품",
-     "hot": 10
+     "category": "식품"
     },
     {
      "start": "08:30",
@@ -24803,7 +24803,7 @@ window.SCHEDULE = {
      "pgm": "아이다 수분라인 앵콜!",
      "title": "~37%+5%+페이머니10%",
      "category": "뷰티",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "09:00",
@@ -24949,7 +24949,7 @@ window.SCHEDULE = {
      "pgm": "밀크베이비 26 F/W 신상",
      "title": "카쇼라 LIVE 초특가!",
      "category": "키즈",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "19:00",
@@ -24961,7 +24961,8 @@ window.SCHEDULE = {
      "slot_id": "60214",
      "pgm": "휘닉스 겨울 예약 오픈",
      "title": "11월 균일가+더블 할인!",
-     "category": "여행"
+     "category": "여행",
+     "hot": 6
     },
     {
      "start": "19:00",
@@ -26586,8 +26587,8 @@ window.SCHEDULE = {
    "2026-10-20",
    "2026-10-21"
   ],
-  "matched": 13,
-  "unmatched": 5
+  "matched": 14,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
