@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-21T09:20:14+09:00",
+ "generated_at": "2026-10-21T09:41:44+09:00",
  "today": "2026-10-21",
  "dates": [
   "2026-10-20",
@@ -473,7 +473,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 혜택 총집합",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "07:00",
@@ -511,8 +511,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "보니스팍스 가을맞이 쇼라 단독 최저가 도전❤️",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 10
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "09:00",
@@ -531,7 +530,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[비체] ~49%▼ BEST 주얼리 한정수량 선점필수",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -2274,7 +2274,8 @@ window.SCHEDULE = {
      "title": "다시보는 로보 무스탕/가죽 자켓 방송 중 최저가❤️",
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 7
     },
     {
      "start": "09:00",
@@ -7014,7 +7015,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "09:30",
@@ -22189,7 +22190,7 @@ window.SCHEDULE = {
      "pgm": "마녀공장X아랑 3종 더블쿠폰",
      "title": "아줄렌 라인 카쇼페 할인",
      "category": "뷰티",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -23931,8 +23932,8 @@ window.SCHEDULE = {
    "2026-10-20",
    "2026-10-21"
   ],
-  "matched": 12,
-  "unmatched": 6
+  "matched": 13,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
