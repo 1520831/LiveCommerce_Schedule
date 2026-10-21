@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-21T12:05:30+09:00",
+ "generated_at": "2026-10-21T12:20:13+09:00",
  "today": "2026-10-21",
  "dates": [
   "2026-10-20",
@@ -2489,7 +2489,7 @@ window.SCHEDULE = {
      "pgm": "바이림",
      "pgm_cd": "0092",
      "category": "잡화·슈즈",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -23594,7 +23594,7 @@ window.SCHEDULE = {
      "pgm": "아이다 수분라인 앵콜!",
      "title": "~37%+5%+페이머니10%",
      "category": "뷰티",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "09:00",
@@ -23752,7 +23752,7 @@ window.SCHEDULE = {
      "pgm": "밀크베이비 26 F/W 신상",
      "title": "카쇼라 LIVE 초특가!",
      "category": "키즈",
-     "hot": 6
+     "hot": 4
     },
     {
      "start": "19:00",
