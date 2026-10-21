@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-22T08:20:11+09:00",
+ "generated_at": "2026-10-22T08:40:22+09:00",
  "today": "2026-10-22",
  "dates": [
   "2026-10-21",
@@ -474,7 +474,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 막스마라 월 1만원대 60개월 무이자",
      "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 1
+     "hot": 3
     },
     {
      "start": "07:00",
@@ -494,7 +494,7 @@ window.SCHEDULE = {
      ],
      "title": "[헤지스ACC] 가을 신상 아이템 추천🍂",
      "pgm": "[재방] 헤지스 잡화 (멀티커머스)",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "08:00",
@@ -514,7 +514,7 @@ window.SCHEDULE = {
      ],
      "title": "[베스띠벨리] 쌀쌀해진 날씨! 핫한 26FW 신상",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "09:00",
@@ -21328,7 +21328,8 @@ window.SCHEDULE = {
      "slot_id": "60657",
      "pgm": "지방시뷰티 카카오 단독",
      "title": "홀리데이 컬렉션 선런칭!",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 7
     },
     {
      "start": "08:30",
@@ -21340,7 +21341,8 @@ window.SCHEDULE = {
      "slot_id": "60658",
      "pgm": "바이오더마 카쇼페 라이브",
      "title": "선착순 립앤아이리무버 특가!",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 1
     },
     {
      "start": "08:30",
@@ -21364,7 +21366,8 @@ window.SCHEDULE = {
      "slot_id": "60757",
      "pgm": "일리윤 X 소근커플 라이브",
      "title": "고보습 끝판 신제품 출시!",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 8
     },
     {
      "start": "09:00",
@@ -22979,8 +22982,8 @@ window.SCHEDULE = {
    "2026-10-21",
    "2026-10-22"
   ],
-  "matched": 11,
-  "unmatched": 8
+  "matched": 14,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
