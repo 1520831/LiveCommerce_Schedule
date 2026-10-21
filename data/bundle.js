@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-21T11:00:20+09:00",
+ "generated_at": "2026-10-21T11:20:10+09:00",
  "today": "2026-10-21",
  "dates": [
   "2026-10-20",
@@ -2339,7 +2339,7 @@ window.SCHEDULE = {
      "pgm": "바이림",
      "pgm_cd": "0092",
      "category": "잡화·슈즈",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -7930,8 +7930,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "10:20",
@@ -8602,7 +8601,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -8775,7 +8775,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "패션"
+     "category": "패션",
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -22152,7 +22153,7 @@ window.SCHEDULE = {
      "pgm": "유러피안 맛 폰타나 특가",
      "title": "라이브 한정 특별구성 오픈",
      "category": "식품",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "08:30",
@@ -22165,7 +22166,7 @@ window.SCHEDULE = {
      "pgm": "독일 명품비타민 오쏘몰",
      "title": "오쏘몰이뮨 30+1 추가증정",
      "category": "식품",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "08:30",
@@ -22189,8 +22190,7 @@ window.SCHEDULE = {
      "slot_id": "60656",
      "pgm": "마녀공장X아랑 3종 더블쿠폰",
      "title": "아줄렌 라인 카쇼페 할인",
-     "category": "뷰티",
-     "hot": 10
+     "category": "뷰티"
     },
     {
      "start": "08:30",
@@ -22203,7 +22203,7 @@ window.SCHEDULE = {
      "pgm": "아이다 수분라인 앵콜!",
      "title": "~37%+5%+페이머니10%",
      "category": "뷰티",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "09:00",
