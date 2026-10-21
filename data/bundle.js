@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-21T10:20:10+09:00",
+ "generated_at": "2026-10-21T10:40:11+09:00",
  "today": "2026-10-21",
  "dates": [
   "2026-10-20",
@@ -473,7 +473,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 혜택 총집합",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "07:00",
@@ -2339,7 +2339,8 @@ window.SCHEDULE = {
      "title": "세영 언니가 입어주는 바니스뉴욕 신상! 부츠/기모데님 최초공개",
      "pgm": "바이림",
      "pgm_cd": "0092",
-     "category": "잡화·슈즈"
+     "category": "잡화·슈즈",
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -7361,7 +7362,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 5
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -7931,7 +7932,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 9
+     "hot": 7
     },
     {
      "start": "10:20",
@@ -22151,7 +22152,7 @@ window.SCHEDULE = {
      "pgm": "유러피안 맛 폰타나 특가",
      "title": "라이브 한정 특별구성 오픈",
      "category": "식품",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "08:30",
@@ -22164,7 +22165,7 @@ window.SCHEDULE = {
      "pgm": "독일 명품비타민 오쏘몰",
      "title": "오쏘몰이뮨 30+1 추가증정",
      "category": "식품",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -22189,7 +22190,7 @@ window.SCHEDULE = {
      "pgm": "마녀공장X아랑 3종 더블쿠폰",
      "title": "아줄렌 라인 카쇼페 할인",
      "category": "뷰티",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "08:30",
@@ -23932,8 +23933,8 @@ window.SCHEDULE = {
    "2026-10-20",
    "2026-10-21"
   ],
-  "matched": 13,
-  "unmatched": 5
+  "matched": 14,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
