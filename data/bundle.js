@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-21T09:41:44+09:00",
+ "generated_at": "2026-10-21T10:00:15+09:00",
  "today": "2026-10-21",
  "dates": [
   "2026-10-20",
@@ -531,7 +531,7 @@ window.SCHEDULE = {
      ],
      "title": "[비체] ~49%▼ BEST 주얼리 한정수량 선점필수",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 8
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -2275,7 +2275,7 @@ window.SCHEDULE = {
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
      "category": "여성패션",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "09:00",
@@ -7014,8 +7014,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 9
+     "category": "푸드"
     },
     {
      "start": "09:30",
@@ -23932,8 +23931,8 @@ window.SCHEDULE = {
    "2026-10-20",
    "2026-10-21"
   ],
-  "matched": 13,
-  "unmatched": 5
+  "matched": 12,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
