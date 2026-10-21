@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-22T08:00:12+09:00",
+ "generated_at": "2026-10-22T08:20:11+09:00",
  "today": "2026-10-22",
  "dates": [
   "2026-10-21",
@@ -494,7 +494,7 @@ window.SCHEDULE = {
      ],
      "title": "[헤지스ACC] 가을 신상 아이템 추천🍂",
      "pgm": "[재방] 헤지스 잡화 (멀티커머스)",
-     "hot": 2
+     "hot": 4
     },
     {
      "start": "08:00",
@@ -513,7 +513,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[베스띠벨리] 쌀쌀해진 날씨! 핫한 26FW 신상",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 3
     },
     {
      "start": "09:00",
@@ -22978,8 +22979,8 @@ window.SCHEDULE = {
    "2026-10-21",
    "2026-10-22"
   ],
-  "matched": 10,
-  "unmatched": 9
+  "matched": 11,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
