@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-21T20:00:11+09:00",
+ "generated_at": "2026-10-21T21:00:09+09:00",
  "today": "2026-10-21",
  "dates": [
   "2026-10-20",
@@ -812,7 +812,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[현명쇼] 막스마라 月 8천원대 전상품 무이자 60개월",
-     "pgm": "현명쇼(노블레스)"
+     "pgm": "현명쇼(노블레스)",
+     "hot": 8
     },
     {
      "start": "20:00",
@@ -2735,7 +2736,7 @@ window.SCHEDULE = {
      "pgm": "바이림",
      "pgm_cd": "0092",
      "category": "잡화·슈즈",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -8019,8 +8020,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "10:30",
@@ -10363,7 +10363,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "19:00",
@@ -10795,7 +10795,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "패션",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "19:20",
@@ -24803,7 +24803,7 @@ window.SCHEDULE = {
      "pgm": "아이다 수분라인 앵콜!",
      "title": "~37%+5%+페이머니10%",
      "category": "뷰티",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "09:00",
@@ -24949,7 +24949,7 @@ window.SCHEDULE = {
      "pgm": "밀크베이비 26 F/W 신상",
      "title": "카쇼라 LIVE 초특가!",
      "category": "키즈",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "19:00",
@@ -24962,7 +24962,7 @@ window.SCHEDULE = {
      "pgm": "휘닉스 겨울 예약 오픈",
      "title": "11월 균일가+더블 할인!",
      "category": "여행",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "19:00",
