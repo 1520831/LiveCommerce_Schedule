@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-10",
- "updated_at": "2026-10-21T07:00:46+09:00",
+ "updated_at": "2026-10-21T12:04:06+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -7110,16 +7110,16 @@
     "start": "19:00",
     "end": "19:59",
     "brand": "세라젬",
-    "product": "[쇼라 핫딜] [현대단독무60]세라젬 마스터 V9 2027 척추온열 의료기기",
-    "price": 6700000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255600573",
+    "product": "세라젬 마스터 V5 척추온열 의료기기 무상 AS 1년",
+    "price": 3950000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249642639",
     "slot_id": "202610206013",
     "items": [
      {
       "brand": "세라젬",
-      "product": "[쇼라 핫딜] [현대단독무60]세라젬 마스터 V9 2027 척추온열 의료기기",
-      "price": 6700000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255600573"
+      "product": "세라젬 마스터 V5 척추온열 의료기기 무상 AS 1년",
+      "price": 3950000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249642639"
      }
     ],
     "title": "[세라젬] 방송 단 1시간의 핫딜 찬스🎁",
@@ -7162,6 +7162,24 @@
     ],
     "title": "[SM후르츠] 감홍🍎 시나노🍏 샤인🍇 특별가",
     "pgm": "[성민마켓] 감홍사과 (쇼핑라이브)"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "넘버이즈",
+    "product": "NO.0 레몬 애사비 제로 클렌즈 4 BOX(40포)",
+    "price": 33000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255265513",
+    "slot_id": "202610206015",
+    "items": [
+     {
+      "brand": "넘버이즈",
+      "product": "NO.0 레몬 애사비 제로 클렌즈 4 BOX(40포)",
+      "price": 33000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255265513"
+     }
+    ],
+    "title": "쿰쿰한 식초맛 없어요! 넘버이즈 레모네이드맛 애사비🧃"
    },
    {
     "start": "22:00",
@@ -7303,14 +7321,14 @@
     "end": "11:59",
     "brand": "애티튜드",
     "product": "[에티튜드공식] 세탁세제 1.05L+유연제 1L 와일드플라워 고농축",
-    "price": 56800,
+    "price": 45400,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254596334",
     "slot_id": "202610216004",
     "items": [
      {
       "brand": "애티튜드",
       "product": "[에티튜드공식] 세탁세제 1.05L+유연제 1L 와일드플라워 고농축",
-      "price": 56800,
+      "price": 45400,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254596334"
      }
     ],
@@ -7322,14 +7340,14 @@
     "end": "12:59",
     "brand": "마이하노이",
     "product": "고기폭탄 쌀국수 750g 6개",
-    "price": 45600,
+    "price": 35990,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255307360",
     "slot_id": "202610216005",
     "items": [
      {
       "brand": "마이하노이",
       "product": "고기폭탄 쌀국수 750g 6개",
-      "price": 45600,
+      "price": 35990,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255307360"
      }
     ],
@@ -7795,6 +7813,44 @@
     "pgm": "초밀착뷰티쇼 (멀티커머스)"
    },
    {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "한민금거래소",
+    "product": "18K 이태리 글림커브 목걸이",
+    "price": 2690000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253020670",
+    "slot_id": "202610226015",
+    "items": [
+     {
+      "brand": "한민금거래소",
+      "product": "18K 이태리 글림커브 목걸이",
+      "price": 2690000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253020670"
+     }
+    ],
+    "title": "[한민금거래소] 프리미엄 골드바 핫딜 구매 찬스",
+    "pgm": "[한민금거래소] 금 (패션잡화)"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "해외직구",
+    "product": "니시구치 양말 Merino Wool Socks ME0104",
+    "price": 31900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255240643",
+    "slot_id": "202610226022",
+    "items": [
+     {
+      "brand": "해외직구",
+      "product": "니시구치 양말 Merino Wool Socks ME0104",
+      "price": 31900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255240643"
+     }
+    ],
+    "title": "[니시구치] 도쿄 No.1 프리미엄 양말은 다릅니다",
+    "pgm": "[재방] 일본 현지 방송 니시구치 양말 (쇼핑라이브)"
+   },
+   {
     "start": "22:00",
     "end": "22:59",
     "brand": "세컨스킨",
@@ -7810,7 +7866,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252232477"
      }
     ],
-    "title": "세컨스킨✨ 가을맞이 속옥 체인지! 방송 특별가 OPEN",
+    "title": "세컨스킨✨ 가을맞이 속옷 체인지! 방송 특별가 OPEN",
     "pgm": "[세컨스킨] 여성의류 (멀티커머스)"
    },
    {
@@ -7964,7 +8020,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239929424"
      }
     ],
-    "title": "[김씨언니마켓] 저온압착 참기름·들기름 특가",
+    "title": "[김씨언니마켓] 저온압착 참기름·들기름 특별가",
     "pgm": "[애드너스] 참기름/들기름"
    },
    {
@@ -8061,6 +8117,25 @@
     ],
     "title": "[에떼르노] 주얼리 특집 쇼라 특별가!",
     "pgm": "[에떼르노] 주얼리 (패션잡화)"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "닥터스쿡",
+    "product": "[제니홍]월경 전 불편함 개선 초코바 건강기능식품 6개입 1개",
+    "price": 22900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256006535",
+    "slot_id": "202610236015",
+    "items": [
+     {
+      "brand": "닥터스쿡",
+      "product": "[제니홍]월경 전 불편함 개선 초코바 건강기능식품 6개입 1개",
+      "price": 22900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256006535"
+     }
+    ],
+    "title": "[제니홍] 매달 그날, 소중한 사람을 위한 달콤한 챙김",
+    "pgm": "[앤드윈] 제니홍 초콜릿"
    },
    {
     "start": "23:00",
@@ -8369,6 +8444,25 @@
     ],
     "title": "[도피러스알엑스] 100억 여성 유산균 특집",
     "pgm": "[자로우] 여성유산균 (건강식품1)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "에고이스트",
+    "product": "후로피 그래픽 긴팔 티셔츠 ES4OTL01(2color) ES4OTL01",
+    "price": 79000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255700166",
+    "slot_id": "202610256009",
+    "items": [
+     {
+      "brand": "에고이스트",
+      "product": "후로피 그래픽 긴팔 티셔츠 ES4OTL01(2color) ES4OTL01",
+      "price": 79000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255700166"
+     }
+    ],
+    "title": "[에고이스트] 트렌디한 데일리룩의 선두자! 최대 42%",
+    "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ],
   "2026-10-26": [
@@ -8389,6 +8483,25 @@
      }
     ],
     "title": "쌀쌀해진 날씨에 대비하는 BCBG 시그니처 룩❤️",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "비너스",
+    "product": "폴리 기모 라운드넥+별나염 바지 남성+여성 커플 홈웨어 실내복 택1(VEVW10VEVEPW109WM000",
+    "price": 134000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253490954",
+    "slot_id": "202610266002",
+    "items": [
+     {
+      "brand": "비너스",
+      "product": "폴리 기모 라운드넥+별나염 바지 남성+여성 커플 홈웨어 실내복 택1(VEVW10VEVEPW109WM000",
+      "price": 134000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253490954"
+     }
+    ],
+    "title": "한파대비 란제리 교체타임! 비너스 1만원대부터❤️",
     "pgm": "백화점 프리오픈쇼(멀티커머스)"
    },
    {
@@ -8449,6 +8562,25 @@
     "pgm": "[이엔바이오사이언스] 앰플 (뷰티1)"
    },
    {
+    "start": "16:00",
+    "end": "16:59",
+    "brand": "더씨앤랩",
+    "product": "보령머드 리셋 나이트 크림 50ml(미백 주름개선)",
+    "price": 31600,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251809381",
+    "slot_id": "202610266008",
+    "items": [
+     {
+      "brand": "더씨앤랩",
+      "product": "보령머드 리셋 나이트 크림 50ml(미백 주름개선)",
+      "price": 31600,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251809381"
+     }
+    ],
+    "title": "[더씨앤랩] 가을맞이 나이트케어 루틴 특집 LIVE",
+    "pgm": "[투겟로컬] 기초 (뷰티2)"
+   },
+   {
     "start": "18:00",
     "end": "18:59",
     "brand": "건기남",
@@ -8472,19 +8604,38 @@
     "end": "19:59",
     "brand": "지금이야",
     "product": "나랏말싸미 골드바 카드형 1g 24K 순금 999.9 포나인",
-    "price": 254000,
+    "price": 253200,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255914350",
     "slot_id": "202610266011",
     "items": [
      {
       "brand": "지금이야",
       "product": "나랏말싸미 골드바 카드형 1g 24K 순금 999.9 포나인",
-      "price": 254000,
+      "price": 253200,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255914350"
      }
     ],
     "title": "지금이야 골드바 쇼라 혜택가!",
     "pgm": "[지금이야] 금 (패션잡화)"
+   },
+   {
+    "start": "20:00",
+    "end": "21:59",
+    "brand": "구찌",
+    "product": "GG 울실크 투톤 숄(165904)",
+    "price": 349000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252244063",
+    "slot_id": "202610266012",
+    "items": [
+     {
+      "brand": "구찌",
+      "product": "GG 울실크 투톤 숄(165904)",
+      "price": 349000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252244063"
+     }
+    ],
+    "title": "[현명쇼] 버버리 캐시미어 15만▼ & 프라다 경품추첨",
+    "pgm": "현명쇼(노블레스)"
    },
    {
     "start": "23:00",
@@ -8502,7 +8653,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254609711"
      }
     ],
-    "title": "폴햄 FW 가을신상 첫라이브! 최대70%OFF",
+    "title": "폴햄 FW 가을신상 첫 라이브! 최대 70%▼",
     "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ]
