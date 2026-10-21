@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-21T12:20:13+09:00",
+ "generated_at": "2026-10-21T12:40:15+09:00",
  "today": "2026-10-21",
  "dates": [
   "2026-10-20",
@@ -7592,7 +7592,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -23752,7 +23752,7 @@ window.SCHEDULE = {
      "pgm": "밀크베이비 26 F/W 신상",
      "title": "카쇼라 LIVE 초특가!",
      "category": "키즈",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "19:00",
