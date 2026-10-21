@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-21T11:40:07+09:00",
+ "generated_at": "2026-10-21T12:00:53+09:00",
  "today": "2026-10-21",
  "dates": [
   "2026-10-20",
@@ -8475,7 +8475,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 10
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -8776,7 +8776,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "패션",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "11:00",
@@ -22152,8 +22152,7 @@ window.SCHEDULE = {
      "slot_id": "60508",
      "pgm": "유러피안 맛 폰타나 특가",
      "title": "라이브 한정 특별구성 오픈",
-     "category": "식품",
-     "hot": 9
+     "category": "식품"
     },
     {
      "start": "08:30",
@@ -22166,7 +22165,7 @@ window.SCHEDULE = {
      "pgm": "독일 명품비타민 오쏘몰",
      "title": "오쏘몰이뮨 30+1 추가증정",
      "category": "식품",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "08:30",
@@ -22264,7 +22263,7 @@ window.SCHEDULE = {
      "pgm": "스쿳앤라이드X이동아",
      "title": "카쇼페 단독 혜택",
      "category": "키즈",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -22360,7 +22359,8 @@ window.SCHEDULE = {
      "slot_id": "60903",
      "pgm": "밀크베이비 26 F/W 신상",
      "title": "카쇼라 LIVE 초특가!",
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 7
     },
     {
      "start": "19:00",
