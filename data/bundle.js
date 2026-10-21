@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-21T10:00:15+09:00",
+ "generated_at": "2026-10-21T10:20:10+09:00",
  "today": "2026-10-21",
  "dates": [
   "2026-10-20",
@@ -473,7 +473,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 혜택 총집합",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "07:00",
@@ -530,8 +530,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[비체] ~49%▼ BEST 주얼리 한정수량 선점필수",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 7
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "10:00",
@@ -2274,8 +2273,7 @@ window.SCHEDULE = {
      "title": "다시보는 로보 무스탕/가죽 자켓 방송 중 최저가❤️",
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
-     "category": "여성패션",
-     "hot": 8
+     "category": "여성패션"
     },
     {
      "start": "09:00",
@@ -7362,7 +7360,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -7931,7 +7930,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 9
     },
     {
      "start": "10:20",
@@ -22151,7 +22151,7 @@ window.SCHEDULE = {
      "pgm": "유러피안 맛 폰타나 특가",
      "title": "라이브 한정 특별구성 오픈",
      "category": "식품",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -22164,7 +22164,7 @@ window.SCHEDULE = {
      "pgm": "독일 명품비타민 오쏘몰",
      "title": "오쏘몰이뮨 30+1 추가증정",
      "category": "식품",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "08:30",
@@ -22189,7 +22189,7 @@ window.SCHEDULE = {
      "pgm": "마녀공장X아랑 3종 더블쿠폰",
      "title": "아줄렌 라인 카쇼페 할인",
      "category": "뷰티",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "08:30",
@@ -22202,7 +22202,7 @@ window.SCHEDULE = {
      "pgm": "아이다 수분라인 앵콜!",
      "title": "~37%+5%+페이머니10%",
      "category": "뷰티",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "09:00",
@@ -22262,7 +22262,8 @@ window.SCHEDULE = {
      "slot_id": "60743",
      "pgm": "스쿳앤라이드X이동아",
      "title": "카쇼페 단독 혜택",
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -23931,8 +23932,8 @@ window.SCHEDULE = {
    "2026-10-20",
    "2026-10-21"
   ],
-  "matched": 12,
-  "unmatched": 6
+  "matched": 13,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
