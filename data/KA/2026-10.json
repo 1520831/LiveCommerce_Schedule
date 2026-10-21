@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-10",
- "updated_at": "2026-10-21T23:31:16+09:00",
+ "updated_at": "2026-10-22T07:01:07+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -4442,30 +4442,6 @@
     "category": "뷰티"
    },
    {
-    "start": "09:00",
-    "end": "10:00",
-    "brand": "신일전자 온라인스토어",
-    "product": "신일 전기히터 2IN1 카본 탄소발열 히터 온풍기",
-    "price": 198000,
-    "link": "https://store.kakao.com/shinilonline/products/632210789",
-    "slot_id": "61212",
-    "pgm": "신일 전기 히터 난로 가습기",
-    "title": "포근한 겨울나기 라이브할인",
-    "category": "리빙"
-   },
-   {
-    "start": "10:00",
-    "end": "11:00",
-    "brand": "비타바움",
-    "product": "[비타바움] 비타민 K2 & D3 플러스 브이-컴플렉스10 (10mlx30병)+전용쇼핑백(S) 증정",
-    "price": 83300,
-    "link": "https://gift.kakao.com/product/14285547?url=product&cId=14285547",
-    "slot_id": "59894",
-    "pgm": "비타바움 7개입",
-    "title": "특가 라이브!",
-    "category": "식품"
-   },
-   {
     "start": "10:00",
     "end": "11:00",
     "brand": "감자밭",
@@ -4515,18 +4491,6 @@
    },
    {
     "start": "11:00",
-    "end": "12:00",
-    "brand": "리틀천재",
-    "product": "천재교육 돌잡이 스마트패키지(수학+한글+영어+스마트박스)",
-    "price": 433000,
-    "link": "https://store.kakao.com/littlechunjae/products/634086742",
-    "slot_id": "61098",
-    "pgm": "돌잡이 영어 포함 패키지",
-    "title": "스마트 및 펜 패키지 방송!",
-    "category": "키즈"
-   },
-   {
-    "start": "11:00",
     "end": "12:01",
     "brand": "퓨어잇",
     "product": "퓨어잇 유기농 떡뻥 과일칩 아이간식 골라담기",
@@ -4535,42 +4499,6 @@
     "slot_id": "61209",
     "pgm": "[오구오구 59데이]",
     "title": "아이간식 라이브 특가!",
-    "category": "키즈"
-   },
-   {
-    "start": "11:00",
-    "end": "12:00",
-    "brand": "(주)상상그램",
-    "product": "[귀뚜라미] 27년형 THE 프리미엄 신형 블루투스 카본 탄소매트",
-    "price": 468000,
-    "link": "https://store.kakao.com/sangsangstore/products/118837559",
-    "slot_id": "61210",
-    "pgm": "2026년 귀뚜라미",
-    "title": "겨울을 위한 카본매트",
-    "category": "테크"
-   },
-   {
-    "start": "11:30",
-    "end": "12:30",
-    "brand": "단색_dansaek",
-    "product": "단색 웜 핏 주니어 브라탑 (1단계, 2단계)",
-    "price": 90000,
-    "link": "https://store.kakao.com/dansaek/products/802978491",
-    "slot_id": "60820",
-    "pgm": "단색 가을맞이 빅세일",
-    "title": "카쇼라 단독 신제품 특가!",
-    "category": "패션"
-   },
-   {
-    "start": "11:30",
-    "end": "12:28",
-    "brand": "폴레드",
-    "product": "폴레드 NEW허그베어 아기비데 샤워 목욕 핸들 육아 출산선물세트 (스텝퍼,논슬립패드,샴푸캡 증정)",
-    "price": 77900,
-    "link": "https://gift.kakao.com/product/7909299?url=product&cId=7909299",
-    "slot_id": "60867",
-    "pgm": "카쇼페X허그베어",
-    "title": "국민샤워목욕핸들 특가라이브",
     "category": "키즈"
    },
    {
@@ -4771,8 +4699,8 @@
     "start": "08:30",
     "end": "11:30",
     "brand": "지방시(뷰티)",
-    "product": "[선물포장] NEW 퍼펙토 립 오일",
-    "price": 50000,
+    "product": "[라이브][선물포장] NEW 퍼펙토 립 오일 (+르 루즈 하이드라 밤 미니 N10 증정)",
+    "price": 42500,
     "link": "https://gift.kakao.com/product/13409043?url=product&cId=13409043",
     "slot_id": "60657",
     "pgm": "지방시뷰티 카카오 단독",
@@ -5082,8 +5010,8 @@
     "start": "19:00",
     "end": "22:00",
     "brand": "루톤",
-    "product": "루톤 여성 두피용 알파에르겐 비건 탈모샴푸 + 트리트먼트 + 헤어토닉 + 캡슐크림 패키지 SET",
-    "price": 79000,
+    "product": "루톤 탈모케어 올인원 세트 (+샴푸 200ml 카쇼페 한정 증정)",
+    "price": 98500,
     "link": "https://gift.kakao.com/product/6118435?url=product&cId=6118435",
     "slot_id": "61063",
     "pgm": "루톤 첫LIVE 최대 43%",
@@ -5280,8 +5208,8 @@
     "start": "10:00",
     "end": "13:00",
     "brand": "바이오던스",
-    "product": "3억장 광채 마스크팩 바이오던스 콜라겐/캐비어 마스크 20매",
-    "price": 100000,
+    "product": "[선물추천/마스크20매] 바이오던스 하이드로겔 마스크 리센느 원이 PICK",
+    "price": 72900,
     "link": "https://gift.kakao.com/product/14235177?url=product&cId=14235177",
     "slot_id": "60663",
     "pgm": "바이오던스 콜라겐팩 ~41%",
@@ -5935,6 +5863,20 @@
    {
     "start": "19:00",
     "end": "22:00",
+    "brand": "올마이투어",
+    "product": "[룸온리/조식패키지] 그랜드 워커힐 서울_더뷔페 조식/실내수영장/포레스트파크 이용_1/31투숙까지",
+    "price": 798600,
+    "link": "https://store.kakao.com/allmytour/products/800776714",
+    "slot_id": "61235",
+    "pgm": "앵콜! 워커힐 호텔앤리조트",
+    "title": "더블 할인&추첨 이벤트",
+    "category": "여행",
+    "rerun": true,
+    "rerun_of": "60212"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
     "brand": "smartinfini",
     "product": "[LIVE] 쏠비치 양양 3인 올인클루시브 (객실+조식+오션플레이/사우나+웰컴드링크+인추비 무료)_대소인무관&무제한 물놀이",
     "price": 966000,
@@ -6112,8 +6054,8 @@
     "price": 906500,
     "link": "https://store.kakao.com/smartinfini01/products/801224583",
     "slot_id": "60218",
-    "pgm": "쏠비치 삼척_이국적인 여행지",
-    "title": "조식+오션플레이+특전까지!",
+    "pgm": "무제한 특전! 쏠비치 삼척",
+    "title": "3/4인 올인클루시브",
     "category": "여행"
    },
    {
@@ -6199,6 +6141,200 @@
     "pgm": "[르샵&페이지플린주얼리]",
     "title": "가을신상 사은품 & 무료반품",
     "category": "패션"
+   }
+  ],
+  "2026-10-27": [
+   {
+    "start": "08:30",
+    "end": "10:00",
+    "brand": "신세계푸드",
+    "product": "[중앙해장] 서울맛집 양해장국 4팩/사태곰탕",
+    "price": 35900,
+    "link": "https://store.kakao.com/shinsegaefood/products/684060943",
+    "slot_id": "60866",
+    "pgm": "신세계푸드 양해장국!",
+    "title": "가을철 든든한 한 끼",
+    "category": "식품"
+   },
+   {
+    "start": "08:30",
+    "end": "11:30",
+    "brand": "마미케어공식스토어",
+    "product": "[마미케어] 약국 1등 기미크림 2세대 업그레이드! 더욱 강력해진 들깨기미크림 특대용량 특가+사은품 추가 증정!",
+    "price": 150000,
+    "link": "https://store.kakao.com/mommycare/products/238332679",
+    "slot_id": "61141",
+    "pgm": "마미케어 ~79%+쿠폰",
+    "title": "7만원 이상 선크림/립밤 등",
+    "category": "뷰티"
+   },
+   {
+    "start": "08:30",
+    "end": "11:30",
+    "brand": "오쏘몰",
+    "product": "\"독일 명품 비타민\" 오쏘몰 이뮨 멀티비타민&미네랄 30+2입 - 시그니처 기프트 에디션 (공식수입)",
+    "price": 105000,
+    "link": "https://gift.kakao.com/product/2484405?url=product&cId=2484405",
+    "slot_id": "61214",
+    "pgm": "독일 명품비타민 오쏘몰",
+    "title": "오쏘몰이뮨 추가증정",
+    "category": "식품"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "폰타나 공식스토어",
+    "product": "무화과&월넛 외 스프레드 8종 1+1 2병 골라담기 / 스트로베리, 블루베리, 애플시나몬",
+    "price": 20400,
+    "link": "https://store.kakao.com/fontana1/products/657967689",
+    "slot_id": "60846",
+    "pgm": "폰타나 스프레드 페스타",
+    "title": "100% from fruit",
+    "category": "식품"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "시몬하우스",
+    "product": "[안드로스 비넛츠] 땅콩버터 100%/크리미/크런치 1+1 모음 무첨가 무가당 땅콩잼 피넛버터 (디아토스타 증정/이벤트)",
+    "price": 19800,
+    "link": "https://store.kakao.com/uniangels/products/664427510",
+    "slot_id": "60868",
+    "pgm": "안드로스 프랑스 땅콩버터",
+    "title": "100%/크리미/크런치",
+    "category": "식품"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "씨드비",
+    "product": "씨드비 물염색 12회분+1회 체험분+헤어브러쉬",
+    "price": 91000,
+    "link": "https://store.kakao.com/seedbee/products/711574432",
+    "slot_id": "61100",
+    "pgm": "씨드비 물염색",
+    "title": "김용빈 굿즈세트 특집 방송!",
+    "category": "뷰티"
+   },
+   {
+    "start": "11:00",
+    "end": "12:30",
+    "brand": "파파야나인",
+    "product": "봄봄 A형 트롤리 기저귀갈이대 기저귀교환대 기갈대 모빌세트",
+    "price": 269000,
+    "link": "https://store.kakao.com/papaya9/products/715103809",
+    "slot_id": "61203",
+    "pgm": "육아 필수템 A형 기갈대",
+    "title": "카쇼라 단독 역대급 최저가",
+    "category": "키즈"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "주식회사 바디랩",
+    "product": "[바디랩] 검은콩/검은약콩/서리태/귀리두유 1+1 외 무첨가 국산콩 건강 두유 모음",
+    "price": 30900,
+    "link": "https://store.kakao.com/krhs1/products/188073532",
+    "slot_id": "60838",
+    "pgm": "바디랩 99% 고소!담백!",
+    "title": "국산 콩 순수두유 라이브",
+    "category": "식품"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "세이브밀",
+    "product": "진짜 감자로 만든 강원도 감자옹심이 4팩 (4인분) 외 골라담기",
+    "price": 14900,
+    "link": "https://store.kakao.com/savemeal/products/193126908",
+    "slot_id": "61240",
+    "pgm": "진짜 감자로 만든 감자옹심이",
+    "title": "외 강원도 한상차림 기획전",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "동원공식샵",
+    "product": "동원 제주마늘 비엔나 260g x 6개 외 제주마늘 살코기햄,후랑크",
+    "price": 29900,
+    "link": "https://store.kakao.com/dongwonfnb/products/788743374",
+    "slot_id": "60518",
+    "pgm": "동원 캠핑앤통그릴 소시지",
+    "title": "참치 꼬치어묵 외 특가",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "이에르로르",
+    "product": "이에르로르 리뷰선물 \"선물하기 정말 좋은\" 신상/베스트 귀걸이 18종 택1",
+    "price": 60000,
+    "link": "https://gift.kakao.com/product/10602900?url=product&cId=10602900",
+    "slot_id": "61022",
+    "pgm": "나를 더 빛내줄 이에르로르",
+    "title": "귀걸이/목걸이/반지 외",
+    "category": "패션"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "크록스",
+    "product": "[크록스 본사] 최대 74% 가을 클로그/플랫폼/라인드/털크록스/지비츠 외 모음전",
+    "price": 79900,
+    "link": "https://store.kakao.com/crocskr/products/153739011",
+    "slot_id": "61023",
+    "pgm": "크록스로 올가을 따듯하게!",
+    "title": "털크록스/스테디 할인전",
+    "category": "패션"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "트립핏",
+    "product": "[제주 WE호텔_세미/조식/올인PKG]객실 1박+조식2인+치맥세트+천연 암반수 수영장&사우나2인+웰니스프로그램2인+타르트 2개",
+    "price": 555800,
+    "link": "https://store.kakao.com/tripfit/products/802423124",
+    "slot_id": "60988",
+    "pgm": "제주 WE호텔 특가 오픈!",
+    "title": "조식+사우나+웰니스 포함",
+    "category": "여행"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "청년상점",
+    "product": "국산 전라도 생 파김치 2kg 외 포기김치 갓김치 총각김치 깍두기 얼갈이김치 백김치",
+    "price": 53900,
+    "link": "https://store.kakao.com/youngstore/products/65802824",
+    "slot_id": "61170",
+    "pgm": "국산 전라도 파김치 2kg",
+    "title": "15210원+무료배송 특가",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "득근파티",
+    "product": "[득근파티] 촉촉 부드러운 통살 스팀닭가슴살 24팩 6가지맛",
+    "price": 41900,
+    "link": "https://store.kakao.com/dgparty/products/346289090",
+    "slot_id": "61204",
+    "pgm": "역대급 구성 득근파티",
+    "title": "LIVE 특별구성 득템!",
+    "category": "식품"
+   },
+   {
+    "start": "22:00",
+    "end": "23:30",
+    "brand": "브리츠 공식 스토어",
+    "product": "브리츠 액티브 노이즈캔슬링 무선충전 이어폰 BZ-EV7 + 포토리뷰 메가커피 이벤트",
+    "price": 79000,
+    "link": "https://store.kakao.com/britzshop/products/424703721",
+    "slot_id": "61154",
+    "pgm": "브리츠 노이즈캔슬링 이어폰",
+    "title": "앵콜 라이브특가!",
+    "category": "테크"
    }
   ]
  }

@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-10",
- "updated_at": "2026-10-21T23:30:56+09:00",
+ "updated_at": "2026-10-22T07:00:56+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -7321,14 +7321,14 @@
     "end": "11:59",
     "brand": "애티튜드",
     "product": "[에티튜드공식] 세탁세제 1.05L+유연제 1L 와일드플라워 고농축",
-    "price": 45400,
+    "price": 56800,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254596334",
     "slot_id": "202610216004",
     "items": [
      {
       "brand": "애티튜드",
       "product": "[에티튜드공식] 세탁세제 1.05L+유연제 1L 와일드플라워 고농축",
-      "price": 45400,
+      "price": 56800,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254596334"
      }
     ],
@@ -7359,14 +7359,14 @@
     "end": "13:59",
     "brand": "나이스클랍",
     "product": "링구 카라 자켓 A261PWJ106",
-    "price": 119000,
+    "price": 128700,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248641474",
     "slot_id": "202610216006",
     "items": [
      {
       "brand": "나이스클랍",
       "product": "링구 카라 자켓 A261PWJ106",
-      "price": 119000,
+      "price": 128700,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248641474"
      }
     ],
@@ -7429,24 +7429,6 @@
     ],
     "title": "[수앤진골드] 10월 마지막 생방송!",
     "pgm": "[수앤진골드] 순금 주얼리 (패션잡화)"
-   },
-   {
-    "start": "17:00",
-    "end": "17:59",
-    "brand": "코아시스",
-    "product": "[씨스터앤] 더블 이펙트 크림 스틱 섀도우 4개",
-    "price": 55600,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255602504",
-    "slot_id": "202610216019",
-    "items": [
-     {
-      "brand": "코아시스",
-      "product": "[씨스터앤] 더블 이펙트 크림 스틱 섀도우 4개",
-      "price": 55600,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255602504"
-     }
-    ],
-    "title": "[씨스터앤] 대표 상품 스틱 섀도우부터 립블러까지!"
    },
    {
     "start": "17:00",
@@ -7624,14 +7606,14 @@
     "end": "22:59",
     "brand": "바바라",
     "product": "소가죽 렉스퍼 캐주얼 로퍼 1cm BBJ560CM BBJ560CM",
-    "price": 223200,
+    "price": 248000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254075826",
     "slot_id": "202610216015",
     "items": [
      {
       "brand": "바바라",
       "product": "소가죽 렉스퍼 캐주얼 로퍼 1cm BBJ560CM BBJ560CM",
-      "price": 223200,
+      "price": 248000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254075826"
      }
     ],
@@ -7911,14 +7893,14 @@
     "end": "19:59",
     "brand": "한반12",
     "product": "맑은 국 세트 (갈비탕x2+미역국x2+소고기무국x2)",
-    "price": 95400,
+    "price": 83400,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254570403",
     "slot_id": "202610226013",
     "items": [
      {
       "brand": "한반12",
       "product": "맑은 국 세트 (갈비탕x2+미역국x2+소고기무국x2)",
-      "price": 95400,
+      "price": 83400,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254570403"
      }
     ],
@@ -8027,14 +8009,14 @@
     "end": "00:59",
     "brand": "버버리",
     "product": "[버버리]5F 8107463 C1900 여성 퀼팅 나일론 반 자켓 블랙",
-    "price": 1540000,
+    "price": 1490000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239887383",
     "slot_id": "202610236019",
     "items": [
      {
       "brand": "버버리",
       "product": "[버버리]5F 8107463 C1900 여성 퀼팅 나일론 반 자켓 블랙",
-      "price": 1540000,
+      "price": 1490000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239887383"
      }
     ],
@@ -8717,14 +8699,14 @@
     "end": "10:59",
     "brand": "버버리",
     "product": "[버버리]5F 8107463 C1900 여성 퀼팅 나일론 반 자켓 블랙",
-    "price": 1540000,
+    "price": 1490000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239887383",
     "slot_id": "202610266003",
     "items": [
      {
       "brand": "버버리",
       "product": "[버버리]5F 8107463 C1900 여성 퀼팅 나일론 반 자켓 블랙",
-      "price": 1540000,
+      "price": 1490000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239887383"
      }
     ],
@@ -8920,6 +8902,198 @@
     ],
     "title": "폴햄 FW 가을신상 첫 라이브! 최대 70%▼",
     "pgm": "현대렐라쇼 (멀티커머스)"
+   }
+  ],
+  "2026-10-27": [
+   {
+    "start": "08:00",
+    "end": "08:59",
+    "brand": "요이츠",
+    "product": "폭스 카라 후드 덕 다운 퀄팅 점퍼_YG12WNWPD01 YG12WNWPD",
+    "price": 279000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255615240",
+    "slot_id": "202610276002",
+    "items": [
+     {
+      "brand": "요이츠",
+      "product": "폭스 카라 후드 덕 다운 퀄팅 점퍼_YG12WNWPD01 YG12WNWPD",
+      "price": 279000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255615240"
+     }
+    ],
+    "title": "26FW 요이츠 가을 컬렉션! 쇼라 최저가 도전❤️",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "티르리르",
+    "product": "리엘 러브듀 랩다이아 화이트 실버 귀걸이 TEESVW05007S-LGD TEESVW05007S-LGD",
+    "price": 159000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253909190",
+    "slot_id": "202610276003",
+    "items": [
+     {
+      "brand": "티르리르",
+      "product": "리엘 러브듀 랩다이아 화이트 실버 귀걸이 TEESVW05007S-LGD TEESVW05007S-LGD",
+      "price": 159000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253909190"
+     }
+    ],
+    "title": "[티르리르] 선물 추천 FW 베스트주얼리 최대 59%▼",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "더로우",
+    "product": "Park 파크 스몰 레더 토트백 W1199 L129 BLANS 블랙",
+    "price": 2694000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255697516",
+    "slot_id": "202610276004",
+    "items": [
+     {
+      "brand": "더로우",
+      "product": "Park 파크 스몰 레더 토트백 W1199 L129 BLANS 블랙",
+      "price": 2694000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255697516"
+     }
+    ],
+    "title": "[투명쇼] 더로우 60개월 무이자 찬스!",
+    "pgm": "투명쇼 (패션잡화)"
+   },
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "마이크로킥보드",
+    "product": "[10/27 LIVE] 마이크로킥보드 미니 투고 플러스 LED",
+    "price": 249000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251579004",
+    "slot_id": "202610276005",
+    "items": [
+     {
+      "brand": "마이크로킥보드",
+      "product": "[10/27 LIVE] 마이크로킥보드 미니 투고 플러스 LED",
+      "price": 249000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251579004"
+     }
+    ],
+    "title": "[마이크로킥보드] 아이들을 위한 최고의 선물🎁",
+    "pgm": "육아일기"
+   },
+   {
+    "start": "14:00",
+    "end": "14:59",
+    "brand": "러브밋",
+    "product": "데일리 두피케어 세트 (샴푸500ml x 3개 / 앰플 105ml x 2개)",
+    "price": 162000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255919547",
+    "slot_id": "202610276008",
+    "items": [
+     {
+      "brand": "러브밋",
+      "product": "데일리 두피케어 세트 (샴푸500ml x 3개 / 앰플 105ml x 2개)",
+      "price": 162000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255919547"
+     }
+    ],
+    "title": "[러브밋] 머리숱 고민 날려버릴 헤어케어세트 ~70%▼",
+    "pgm": "[케이썸] 샴푸 (뷰티1)"
+   },
+   {
+    "start": "16:00",
+    "end": "16:59",
+    "brand": "새니닥",
+    "product": "베스트팩 풋스프레이 100ml 2개+바디크림 1개+풋스프레이 30ml 1개",
+    "price": 59900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255942697",
+    "slot_id": "202610276010",
+    "items": [
+     {
+      "brand": "새니닥",
+      "product": "베스트팩 풋스프레이 100ml 2개+바디크림 1개+풋스프레이 30ml 1개",
+      "price": 59900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255942697"
+     }
+    ],
+    "title": "환절기 스페셜 풋 & 바디 더마케어 모음집",
+    "pgm": "[새니닥] 풋케어 外 (뷰티브랜드)"
+   },
+   {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "르무통",
+    "product": "[시크릿가] 르무통 메이트 발 편한 메리노울 운동화",
+    "price": 119900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2210550064",
+    "slot_id": "202610276011",
+    "items": [
+     {
+      "brand": "르무통",
+      "product": "[시크릿가] 르무통 메이트 발 편한 메리노울 운동화",
+      "price": 119900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2210550064"
+     }
+    ],
+    "title": "르무통 106,900원 + 무료 교환/반품 + 사은품",
+    "pgm": "[르무통] 제화 (패션잡화)"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "골드무드",
+    "product": "24K 순금 럭키 통통 클로버 펜던트",
+    "price": 159000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251715971",
+    "slot_id": "202610276012",
+    "items": [
+     {
+      "brand": "골드무드",
+      "product": "24K 순금 럭키 통통 클로버 펜던트",
+      "price": 159000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251715971"
+     }
+    ],
+    "title": "[골드무드] 24K 주얼리 쇼라 핫딜",
+    "pgm": "[골드무드] 주얼리 (패션잡화)"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "SK렌터카",
+    "product": "[쇼핑라이브] SK렌터카 월간 라이브",
+    "price": 60000000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250743337",
+    "slot_id": "202610276014",
+    "items": [
+     {
+      "brand": "SK렌터카",
+      "product": "[쇼핑라이브] SK렌터카 월간 라이브",
+      "price": 60000000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250743337"
+     }
+    ],
+    "title": "[SK렌터카] 월간 라이브_10월호",
+    "pgm": "[SK렌터카] 렌터카 (렌탈)"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "타미힐피거",
+    "product": "[타미진] 여성 박시 울 블렌드 더플 코트 네이비 T32G7WJC30TWL1 C1G T32G7WJC30TWL3",
+    "price": 439000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254846940",
+    "slot_id": "202610276016",
+    "items": [
+     {
+      "brand": "타미힐피거",
+      "product": "[타미진] 여성 박시 울 블렌드 더플 코트 네이비 T32G7WJC30TWL1 C1G T32G7WJC30TWL3",
+      "price": 439000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254846940"
+     }
+    ],
+    "title": "26FW 신상 원영픽! 방송 중 최대 20% 쿠폰",
+    "pgm": "[타미진] 의류 (멀티커머스)"
    }
   ]
  }
