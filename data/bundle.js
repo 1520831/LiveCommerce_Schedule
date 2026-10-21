@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-21T08:40:29+09:00",
+ "generated_at": "2026-10-21T09:00:19+09:00",
  "today": "2026-10-21",
  "dates": [
   "2026-10-20",
@@ -473,7 +473,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 혜택 총집합",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 1
+     "hot": 3
     },
     {
      "start": "07:00",
@@ -512,7 +512,7 @@ window.SCHEDULE = {
      ],
      "title": "보니스팍스 가을맞이 쇼라 단독 최저가 도전❤️",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 10
+     "hot": 8
     },
     {
      "start": "09:00",
@@ -6950,8 +6950,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "08:00",
@@ -7014,7 +7013,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 9
     },
     {
      "start": "09:30",
@@ -22151,7 +22151,7 @@ window.SCHEDULE = {
      "pgm": "유러피안 맛 폰타나 특가",
      "title": "라이브 한정 특별구성 오픈",
      "category": "식품",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -22164,7 +22164,7 @@ window.SCHEDULE = {
      "pgm": "독일 명품비타민 오쏘몰",
      "title": "오쏘몰이뮨 30+1 추가증정",
      "category": "식품",
-     "hot": 4
+     "hot": 2
     },
     {
      "start": "08:30",
@@ -22188,7 +22188,8 @@ window.SCHEDULE = {
      "slot_id": "60656",
      "pgm": "마녀공장X아랑 3종 더블쿠폰",
      "title": "아줄렌 라인 카쇼페 할인",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 5
     },
     {
      "start": "08:30",
@@ -22201,7 +22202,7 @@ window.SCHEDULE = {
      "pgm": "아이다 수분라인 앵콜!",
      "title": "~37%+5%+페이머니10%",
      "category": "뷰티",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "09:00",
@@ -23930,8 +23931,8 @@ window.SCHEDULE = {
    "2026-10-20",
    "2026-10-21"
   ],
-  "matched": 11,
-  "unmatched": 7
+  "matched": 12,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
