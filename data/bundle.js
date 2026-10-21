@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-21T11:20:10+09:00",
+ "generated_at": "2026-10-21T11:40:07+09:00",
  "today": "2026-10-21",
  "dates": [
   "2026-10-20",
@@ -2339,7 +2339,7 @@ window.SCHEDULE = {
      "pgm": "바이림",
      "pgm_cd": "0092",
      "category": "잡화·슈즈",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -7361,7 +7361,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -8474,7 +8474,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -8601,8 +8602,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -8776,7 +8776,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "패션",
-     "hot": 5
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -22203,7 +22203,7 @@ window.SCHEDULE = {
      "pgm": "아이다 수분라인 앵콜!",
      "title": "~37%+5%+페이머니10%",
      "category": "뷰티",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "09:00",
