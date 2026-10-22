@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-23T07:02:13+09:00",
+ "generated_at": "2026-10-23T08:00:50+09:00",
  "today": "2026-10-23",
  "dates": [
   "2026-10-22",
@@ -473,7 +473,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "걷기 좋은 계절, 르무통과 함께!",
-     "pgm": "[재방] 르무통 제화 (패션잡화)"
+     "pgm": "[재방] 르무통 제화 (패션잡화)",
+     "hot": 5
     },
     {
      "start": "08:00",
@@ -23711,8 +23712,8 @@ window.SCHEDULE = {
    "2026-10-22",
    "2026-10-23"
   ],
-  "matched": 6,
-  "unmatched": 13
+  "matched": 7,
+  "unmatched": 11
  },
  "fixed": {
   "rows": [
