@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-22T10:20:14+09:00",
+ "generated_at": "2026-10-22T10:40:14+09:00",
  "today": "2026-10-22",
  "dates": [
   "2026-10-21",
@@ -511,8 +511,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[베스띠벨리] 쌀쌀해진 날씨! 핫한 26FW 신상",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 6
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "09:00",
@@ -531,8 +530,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[소다] 가을맞이 FW 슈즈 쇼라 특별가",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 10
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "10:00",
@@ -2516,7 +2514,7 @@ window.SCHEDULE = {
      "title": "은아쌤xVIPKid💗찾아가는 맘스클래스! 집에서 미국초등학교 보내기👀",
      "pgm": "은아쌤의 맘스클래스",
      "pgm_cd": "1115",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -6991,7 +6989,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -7685,7 +7683,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 6
     },
     {
      "start": "10:30",
@@ -21329,8 +21328,7 @@ window.SCHEDULE = {
      "slot_id": "60657",
      "pgm": "지방시뷰티 카카오 단독",
      "title": "홀리데이 컬렉션 선런칭!",
-     "category": "뷰티",
-     "hot": 7
+     "category": "뷰티"
     },
     {
      "start": "08:30",
@@ -21368,7 +21366,7 @@ window.SCHEDULE = {
      "pgm": "일리윤 X 소근커플 라이브",
      "title": "고보습 끝판 신제품 출시!",
      "category": "뷰티",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "09:00",
@@ -21393,7 +21391,7 @@ window.SCHEDULE = {
      "pgm": "블랑101 하반기 최대!",
      "title": "무제한 더블 할인 LIVE",
      "category": "리빙",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -22984,8 +22982,8 @@ window.SCHEDULE = {
    "2026-10-21",
    "2026-10-22"
   ],
-  "matched": 16,
-  "unmatched": 3
+  "matched": 14,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
