@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-22T10:40:14+09:00",
+ "generated_at": "2026-10-22T11:00:24+09:00",
  "today": "2026-10-22",
  "dates": [
   "2026-10-21",
@@ -549,7 +549,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 발렌시아가 BB로고 숄더백 한정수량",
-     "pgm": "투명쇼 (패션잡화)"
+     "pgm": "투명쇼 (패션잡화)",
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -6989,7 +6990,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -7684,7 +7685,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 6
+     "hot": 1
     },
     {
      "start": "10:30",
@@ -21341,7 +21342,7 @@ window.SCHEDULE = {
      "pgm": "바이오더마 카쇼페 라이브",
      "title": "선착순 립앤아이리무버 특가!",
      "category": "뷰티",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "08:30",
@@ -21366,7 +21367,7 @@ window.SCHEDULE = {
      "pgm": "일리윤 X 소근커플 라이브",
      "title": "고보습 끝판 신제품 출시!",
      "category": "뷰티",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "09:00",
@@ -21391,7 +21392,7 @@ window.SCHEDULE = {
      "pgm": "블랑101 하반기 최대!",
      "title": "무제한 더블 할인 LIVE",
      "category": "리빙",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -22982,7 +22983,7 @@ window.SCHEDULE = {
    "2026-10-21",
    "2026-10-22"
   ],
-  "matched": 14,
+  "matched": 15,
   "unmatched": 5
  },
  "fixed": {
