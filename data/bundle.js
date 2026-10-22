@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-22T08:40:22+09:00",
+ "generated_at": "2026-10-22T09:00:35+09:00",
  "today": "2026-10-22",
  "dates": [
   "2026-10-21",
@@ -474,7 +474,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 막스마라 월 1만원대 60개월 무이자",
      "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "07:00",
@@ -494,7 +494,7 @@ window.SCHEDULE = {
      ],
      "title": "[헤지스ACC] 가을 신상 아이템 추천🍂",
      "pgm": "[재방] 헤지스 잡화 (멀티커머스)",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "08:00",
@@ -6595,7 +6595,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 8
     },
     {
      "start": "09:30",
@@ -21329,7 +21330,7 @@ window.SCHEDULE = {
      "pgm": "지방시뷰티 카카오 단독",
      "title": "홀리데이 컬렉션 선런칭!",
      "category": "뷰티",
-     "hot": 7
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -21367,7 +21368,7 @@ window.SCHEDULE = {
      "pgm": "일리윤 X 소근커플 라이브",
      "title": "고보습 끝판 신제품 출시!",
      "category": "뷰티",
-     "hot": 8
+     "hot": 3
     },
     {
      "start": "09:00",
@@ -22982,7 +22983,7 @@ window.SCHEDULE = {
    "2026-10-21",
    "2026-10-22"
   ],
-  "matched": 14,
+  "matched": 15,
   "unmatched": 5
  },
  "fixed": {
