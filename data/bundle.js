@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-22T11:00:24+09:00",
+ "generated_at": "2026-10-22T11:20:12+09:00",
  "today": "2026-10-22",
  "dates": [
   "2026-10-21",
@@ -549,8 +549,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 발렌시아가 BB로고 숄더백 한정수량",
-     "pgm": "투명쇼 (패션잡화)",
-     "hot": 9
+     "pgm": "투명쇼 (패션잡화)"
     },
     {
      "start": "11:00",
@@ -2515,7 +2514,7 @@ window.SCHEDULE = {
      "title": "은아쌤xVIPKid💗찾아가는 맘스클래스! 집에서 미국초등학교 보내기👀",
      "pgm": "은아쌤의 맘스클래스",
      "pgm_cd": "1115",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -2621,7 +2620,8 @@ window.SCHEDULE = {
      "title": "희아패밀리PICK! 수앤진골드 27년 양띠해 타겟 양돌반지 최초공개",
      "pgm": "희아패밀리",
      "pgm_cd": "1149",
-     "category": "잡화·슈즈"
+     "category": "잡화·슈즈",
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -6990,7 +6990,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -8836,7 +8836,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 3
     },
     {
      "start": "11:40",
@@ -21367,7 +21368,7 @@ window.SCHEDULE = {
      "pgm": "일리윤 X 소근커플 라이브",
      "title": "고보습 끝판 신제품 출시!",
      "category": "뷰티",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "09:00",
@@ -21392,7 +21393,7 @@ window.SCHEDULE = {
      "pgm": "블랑101 하반기 최대!",
      "title": "무제한 더블 할인 LIVE",
      "category": "리빙",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -22983,8 +22984,8 @@ window.SCHEDULE = {
    "2026-10-21",
    "2026-10-22"
   ],
-  "matched": 15,
-  "unmatched": 5
+  "matched": 16,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
