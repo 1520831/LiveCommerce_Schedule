@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-22T20:00:12+09:00",
+ "generated_at": "2026-10-22T21:00:12+09:00",
  "today": "2026-10-22",
  "dates": [
   "2026-10-21",
@@ -2809,7 +2809,7 @@ window.SCHEDULE = {
      "pgm": "희아패밀리",
      "pgm_cd": "1149",
      "category": "잡화·슈즈",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -10498,8 +10498,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "19:00",
@@ -24486,7 +24485,7 @@ window.SCHEDULE = {
      "pgm": "바이오더마 카쇼페 라이브",
      "title": "선착순 립앤아이리무버 특가!",
      "category": "뷰티",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -24524,7 +24523,7 @@ window.SCHEDULE = {
      "pgm": "블랑101 하반기 최대!",
      "title": "무제한 더블 할인 LIVE",
      "category": "리빙",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -24716,7 +24715,7 @@ window.SCHEDULE = {
      "pgm": "로보락 S10 스팀 신제품!",
      "title": "방송중 추첨 이벤트까지",
      "category": "테크",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "19:00",
@@ -26200,8 +26199,8 @@ window.SCHEDULE = {
    "2026-10-21",
    "2026-10-22"
   ],
-  "matched": 15,
-  "unmatched": 4
+  "matched": 14,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
