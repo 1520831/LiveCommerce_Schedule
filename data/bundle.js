@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-22T21:00:12+09:00",
+ "generated_at": "2026-10-22T22:00:11+09:00",
  "today": "2026-10-22",
  "dates": [
   "2026-10-21",
@@ -24497,8 +24497,7 @@ window.SCHEDULE = {
      "slot_id": "60757",
      "pgm": "일리윤 X 소근커플 라이브",
      "title": "고보습 끝판 신제품 출시!",
-     "category": "뷰티",
-     "hot": 10
+     "category": "뷰티"
     },
     {
      "start": "09:00",
@@ -24849,7 +24848,8 @@ window.SCHEDULE = {
      "title": "3인조식&롯데월드 22만~",
      "category": "여행",
      "rerun": true,
-     "rerun_of": "60208"
+     "rerun_of": "60208",
+     "hot": 9
     },
     {
      "start": "20:30",
