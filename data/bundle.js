@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-22T11:20:12+09:00",
+ "generated_at": "2026-10-22T11:40:13+09:00",
  "today": "2026-10-22",
  "dates": [
   "2026-10-21",
@@ -2514,7 +2514,7 @@ window.SCHEDULE = {
      "title": "은아쌤xVIPKid💗찾아가는 맘스클래스! 집에서 미국초등학교 보내기👀",
      "pgm": "은아쌤의 맘스클래스",
      "pgm_cd": "1115",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -2621,7 +2621,7 @@ window.SCHEDULE = {
      "pgm": "희아패밀리",
      "pgm_cd": "1149",
      "category": "잡화·슈즈",
-     "hot": 9
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -6990,7 +6990,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -8837,7 +8837,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "11:40",
@@ -21343,7 +21343,7 @@ window.SCHEDULE = {
      "pgm": "바이오더마 카쇼페 라이브",
      "title": "선착순 립앤아이리무버 특가!",
      "category": "뷰티",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "08:30",
@@ -21368,7 +21368,7 @@ window.SCHEDULE = {
      "pgm": "일리윤 X 소근커플 라이브",
      "title": "고보습 끝판 신제품 출시!",
      "category": "뷰티",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "09:00",
@@ -22985,7 +22985,7 @@ window.SCHEDULE = {
    "2026-10-22"
   ],
   "matched": 16,
-  "unmatched": 4
+  "unmatched": 3
  },
  "fixed": {
   "rows": [
