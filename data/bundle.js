@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-22T19:00:10+09:00",
+ "generated_at": "2026-10-22T20:00:12+09:00",
  "today": "2026-10-22",
  "dates": [
   "2026-10-21",
@@ -2702,8 +2702,7 @@ window.SCHEDULE = {
      "slot_id": "30481",
      "title": "은아쌤xVIPKid💗찾아가는 맘스클래스! 집에서 미국초등학교 보내기👀",
      "pgm": "은아쌤의 맘스클래스",
-     "pgm_cd": "1115",
-     "hot": 10
+     "pgm_cd": "1115"
     },
     {
      "start": "10:00",
@@ -2810,7 +2809,7 @@ window.SCHEDULE = {
      "pgm": "희아패밀리",
      "pgm_cd": "1149",
      "category": "잡화·슈즈",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -10499,7 +10498,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 9
     },
     {
      "start": "19:00",
@@ -24499,7 +24499,7 @@ window.SCHEDULE = {
      "pgm": "일리윤 X 소근커플 라이브",
      "title": "고보습 끝판 신제품 출시!",
      "category": "뷰티",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "09:00",
@@ -24524,7 +24524,7 @@ window.SCHEDULE = {
      "pgm": "블랑101 하반기 최대!",
      "title": "무제한 더블 할인 LIVE",
      "category": "리빙",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -24715,7 +24715,8 @@ window.SCHEDULE = {
      "slot_id": "60216",
      "pgm": "로보락 S10 스팀 신제품!",
      "title": "방송중 추첨 이벤트까지",
-     "category": "테크"
+     "category": "테크",
+     "hot": 4
     },
     {
      "start": "19:00",
@@ -26199,8 +26200,8 @@ window.SCHEDULE = {
    "2026-10-21",
    "2026-10-22"
   ],
-  "matched": 14,
-  "unmatched": 5
+  "matched": 15,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
