@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-23T08:20:20+09:00",
+ "generated_at": "2026-10-23T08:40:16+09:00",
  "today": "2026-10-23",
  "dates": [
   "2026-10-22",
@@ -454,7 +454,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 버버리 퀼팅 자켓 월 2만원대~",
      "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 3
+     "hot": 7
     },
     {
      "start": "07:00",
@@ -7088,7 +7088,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 10
+     "hot": 8
     },
     {
      "start": "09:00",
@@ -22190,7 +22190,8 @@ window.SCHEDULE = {
      "slot_id": "60589",
      "pgm": "닥터브로너스 특대용량 특가!",
      "title": "리필부터 펌프 증정까지",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 3
     },
     {
      "start": "08:30",
@@ -22226,7 +22227,8 @@ window.SCHEDULE = {
      "slot_id": "60770",
      "pgm": "킨도 10월 카쇼페 특가",
      "title": "베베썸머 1+1 이벤트",
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 2
     },
     {
      "start": "08:30",
@@ -23714,8 +23716,8 @@ window.SCHEDULE = {
    "2026-10-22",
    "2026-10-23"
   ],
-  "matched": 9,
-  "unmatched": 9
+  "matched": 11,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
