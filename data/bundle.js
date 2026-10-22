@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-22T11:40:13+09:00",
+ "generated_at": "2026-10-22T12:00:22+09:00",
  "today": "2026-10-22",
  "dates": [
   "2026-10-21",
@@ -2621,7 +2621,7 @@ window.SCHEDULE = {
      "pgm": "희아패밀리",
      "pgm_cd": "1149",
      "category": "잡화·슈즈",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -21393,7 +21393,7 @@ window.SCHEDULE = {
      "pgm": "블랑101 하반기 최대!",
      "title": "무제한 더블 할인 LIVE",
      "category": "리빙",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "10:00",
