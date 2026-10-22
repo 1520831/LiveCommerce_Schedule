@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-10",
- "updated_at": "2026-10-22T07:00:56+09:00",
+ "updated_at": "2026-10-22T12:01:32+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -7741,14 +7741,14 @@
     "end": "11:59",
     "brand": "도로시",
     "product": "[타임찬스] 14k 클라라 모이사나이트 6프롱 참 펜던트 (1캐럿)",
-    "price": 522000,
+    "price": 302000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255425074",
     "slot_id": "202610226006",
     "items": [
      {
       "brand": "도로시",
       "product": "[타임찬스] 14k 클라라 모이사나이트 6프롱 참 펜던트 (1캐럿)",
-      "price": 522000,
+      "price": 302000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255425074"
      }
     ],
@@ -7854,14 +7854,14 @@
     "start": "17:00",
     "end": "17:59",
     "brand": "조지루시",
-    "product": "[공식] 조지루시 가열식 살균 가습기 하이파워 4L EE-TAH60K",
+    "product": "가열식 살균 가습기 하이파워 4L EE-TAH60K",
     "price": 379000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253571934",
     "slot_id": "202610226011",
     "items": [
      {
       "brand": "조지루시",
-      "product": "[공식] 조지루시 가열식 살균 가습기 하이파워 4L EE-TAH60K",
+      "product": "가열식 살균 가습기 하이파워 4L EE-TAH60K",
       "price": 379000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253571934"
      }
@@ -7950,14 +7950,14 @@
     "end": "21:59",
     "brand": "해외직구",
     "product": "니시구치 양말 Merino Wool Socks ME0104",
-    "price": 31900,
+    "price": 32000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255240643",
     "slot_id": "202610226022",
     "items": [
      {
       "brand": "해외직구",
       "product": "니시구치 양말 Merino Wool Socks ME0104",
-      "price": 31900,
+      "price": 32000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255240643"
      }
     ],
@@ -8271,6 +8271,25 @@
     "pgm": "[에떼르노] 주얼리 (패션잡화)"
    },
    {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "마이클코어스코리아",
+    "product": "마릴린 미디움 로고 캔버스 사첼 35F5G6AS2B200",
+    "price": 149600,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252249066",
+    "slot_id": "202610236014",
+    "items": [
+     {
+      "brand": "마이클코어스코리아",
+      "product": "마릴린 미디움 로고 캔버스 사첼 35F5G6AS2B200",
+      "price": 149600,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252249066"
+     }
+    ],
+    "title": "[마이클코어스] 10월 창고 大방출",
+    "pgm": "[마이클코어스] 가방/의류 (패션잡화)"
+   },
+   {
     "start": "22:00",
     "end": "22:59",
     "brand": "닥터스쿡",
@@ -8353,14 +8372,14 @@
     "end": "09:59",
     "brand": "비지트인뉴욕",
     "product": "베이직 더블 재킷(VC9JK01) VC9JK011",
-    "price": 199000,
+    "price": 145000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255589960",
     "slot_id": "202610246010",
     "items": [
      {
       "brand": "비지트인뉴욕",
       "product": "베이직 더블 재킷(VC9JK01) VC9JK011",
-      "price": 199000,
+      "price": 145000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255589960"
      }
     ],
@@ -8447,16 +8466,16 @@
     "start": "18:00",
     "end": "18:59",
     "brand": "멜라비앙카",
-    "product": "[Mela Bianca][정가 69000원]루벨 바나나핀 MHC26005",
-    "price": 69000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255571885",
+    "product": "[Mela Bianca][정가 89000원]에코 헤어 집게핀 MH23014",
+    "price": 89000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250193940",
     "slot_id": "202610246011",
     "items": [
      {
       "brand": "멜라비앙카",
-      "product": "[Mela Bianca][정가 69000원]루벨 바나나핀 MHC26005",
-      "price": 69000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255571885"
+      "product": "[Mela Bianca][정가 89000원]에코 헤어 집게핀 MH23014",
+      "price": 89000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250193940"
      }
     ],
     "title": "[멜라비앙카] 포인트 주기 좋은 우아한 헤어 주얼리",
@@ -8636,6 +8655,25 @@
     "pgm": "[자로우] 여성유산균 (건강식품1)"
    },
    {
+    "start": "19:00",
+    "end": "20:59",
+    "brand": "누캐시미어",
+    "product": "26FW 테리 캐시미어 하프집업코트",
+    "price": 1290000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255939760",
+    "slot_id": "202610256006",
+    "items": [
+     {
+      "brand": "누캐시미어",
+      "product": "26FW 테리 캐시미어 하프집업코트",
+      "price": 1290000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255939760"
+     }
+    ],
+    "title": "[현대쇼룸] 베스트브랜드 크로스코디전⭐",
+    "pgm": "현대쇼룸 (패션)"
+   },
+   {
     "start": "23:00",
     "end": "23:59",
     "brand": "에고이스트",
@@ -8793,16 +8831,16 @@
     "start": "16:00",
     "end": "16:59",
     "brand": "더씨앤랩",
-    "product": "보령머드 리셋 나이트 크림 50ml(미백 주름개선)",
-    "price": 31600,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251809381",
+    "product": "보령머드 나이트크림 50ml x 2개 + 앰플패드 70매 x 1개",
+    "price": 58000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256261146",
     "slot_id": "202610266008",
     "items": [
      {
       "brand": "더씨앤랩",
-      "product": "보령머드 리셋 나이트 크림 50ml(미백 주름개선)",
-      "price": 31600,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251809381"
+      "product": "보령머드 나이트크림 50ml x 2개 + 앰플패드 70매 x 1개",
+      "price": 58000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256261146"
      }
     ],
     "title": "[더씨앤랩] 가을맞이 나이트케어 루틴 특집 LIVE",
@@ -8905,6 +8943,25 @@
    }
   ],
   "2026-10-27": [
+   {
+    "start": "00:00",
+    "end": "00:59",
+    "brand": "버버리",
+    "product": "[버버리]5F 8107463 C1900 여성 퀼팅 나일론 반 자켓 블랙",
+    "price": 1490000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239887383",
+    "slot_id": "202610276020",
+    "items": [
+     {
+      "brand": "버버리",
+      "product": "[버버리]5F 8107463 C1900 여성 퀼팅 나일론 반 자켓 블랙",
+      "price": 1490000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239887383"
+     }
+    ],
+    "title": "[투명쇼] 버버리 퀼팅 자켓 월 2만원대~",
+    "pgm": "[재방] 투명쇼 (패션잡화)"
+   },
    {
     "start": "08:00",
     "end": "08:59",

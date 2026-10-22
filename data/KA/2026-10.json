@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-10",
- "updated_at": "2026-10-22T07:01:07+09:00",
+ "updated_at": "2026-10-22T12:01:48+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -4446,7 +4446,7 @@
     "end": "11:00",
     "brand": "감자밭",
     "product": "[선물하기 only] \"내 마음을 밭아줘!\" 감자밭 버라이어티팩 6개입",
-    "price": 17800,
+    "price": 19800,
     "link": "https://gift.kakao.com/product/5822909?url=product&cId=5822909",
     "slot_id": "60615",
     "pgm": "줄 서서 먹는 춘천 감자밭",
@@ -4685,7 +4685,7 @@
   "2026-10-22": [
    {
     "start": "08:30",
-    "end": "11:30",
+    "end": "09:52",
     "brand": "종근당건강",
     "product": "[10+3] 아임비타 멀티비티만 이뮨샷 10입 + 3병 추가증정 / 멀티비타민 비타민선물 에너지선물",
     "price": 27900,
@@ -4697,7 +4697,7 @@
    },
    {
     "start": "08:30",
-    "end": "11:30",
+    "end": "09:56",
     "brand": "지방시(뷰티)",
     "product": "[라이브][선물포장] NEW 퍼펙토 립 오일 (+르 루즈 하이드라 밤 미니 N10 증정)",
     "price": 42500,
@@ -4709,7 +4709,7 @@
    },
    {
     "start": "08:30",
-    "end": "11:30",
+    "end": "09:51",
     "brand": "바이오더마",
     "product": "센시비오 H2O 500ml x 2 + 센시비오 H2O 250ml",
     "price": 71000,
@@ -4721,19 +4721,7 @@
    },
    {
     "start": "08:30",
-    "end": "10:00",
-    "brand": "온브릭스",
-    "product": "고당도 제주 타이벡 감귤 4.5kg+500g(11Brix/로얄과)",
-    "price": 23000,
-    "link": "https://gift.kakao.com/product/6172999?url=product&cId=6172999",
-    "slot_id": "60711",
-    "pgm": "고당도 타이벡 감귤&감홍사과",
-    "title": "LIVE 한정 혜택까지~!",
-    "category": "식품"
-   },
-   {
-    "start": "08:30",
-    "end": "10:00",
+    "end": "09:51",
     "brand": "일리윤",
     "product": "[카쇼페 PICK] \"데일리&고보습기획\" NEW 일리윤 세라마이드 아토 인텐시브 로션 700ml+세라마이드 로션 1128ml",
     "price": 61800,
@@ -4745,7 +4733,7 @@
    },
    {
     "start": "09:00",
-    "end": "10:30",
+    "end": "10:00",
     "brand": "신일전자 온라인스토어",
     "product": "신일 전기히터 2IN1 카본 탄소발열 히터 온풍기",
     "price": 198000,
@@ -4757,7 +4745,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:02",
     "brand": "블랑101",
     "product": "블랑101 유아세제/섬유유연제 대용량 특가",
     "price": 37000,
@@ -4769,7 +4757,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:00",
     "brand": "케이푸드",
     "product": "농협안심한우 1++등급 불고기 200gX3팩",
     "price": 59900,
@@ -4781,7 +4769,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:00",
     "brand": "미스터밀크",
     "product": "제주 성이시돌 목장 우유스틱 85g x 4개 / 성이시돌 스낵 모음전",
     "price": 18600,
@@ -4793,10 +4781,10 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:00",
     "brand": "그릭데이",
     "product": "그릭데이 그릭요거트 100g 8종 맛보기 세트",
-    "price": 37700,
+    "price": 22000,
     "link": "https://gift.kakao.com/product/14331435?url=product&cId=14331435",
     "slot_id": "60796",
     "pgm": "그릭데이 LIVE ~41%",
@@ -4805,7 +4793,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:01",
     "brand": "레이비",
     "product": "레이비 BEST 헤어&바디템 골라담기 UP TO 47%",
     "price": 95900,
@@ -4817,7 +4805,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:00",
     "brand": "시골내음",
     "product": "사과를 통째로 간편하게 마시는 생생사과즙 110mlX30팩",
     "price": 36000,
@@ -4855,9 +4843,9 @@
     "start": "11:30",
     "end": "14:30",
     "brand": "헤겐",
-    "product": "헤겐 컬러젖병 PPSU 150ml 트윈(2P)(꼭지포함)(컬러선택)(*)",
-    "price": 62000,
-    "link": "https://gift.kakao.com/product/12457520?url=product&cId=12457520",
+    "product": "[LIVE SET]헤겐 컬러젖병 PPSU 150ml 3P+240ml 3P(꼭지포함)(컬러선택)(*)(*)",
+    "price": 147000,
+    "link": "https://gift.kakao.com/product/12804760?url=product&cId=12804760",
     "slot_id": "60744",
     "pgm": "헤겐 X 카쇼페 단독 혜택",
     "title": "오직 라이브중 사은품 증정",
@@ -4962,7 +4950,7 @@
     "start": "19:00",
     "end": "22:00",
     "brand": "정관장MALL",
-    "product": "[정관장] 에너지 활기력샷 (20ml x 30병)_ NEW",
+    "product": "[정관장] 에너지 활기력샷 (20ml x 30병)+3병 추가증정",
     "price": 45000,
     "link": "https://store.kakao.com/kgcmall/products/577352114",
     "slot_id": "60514",
@@ -4975,7 +4963,7 @@
     "end": "22:00",
     "brand": "핑크원더",
     "product": "[스킨 웰니스 세트] 타마누 솔트 에센스 150ml 3개+타마누 히어로 앰플 50ml 1개(GIFT. 버블 보틀)",
-    "price": 383000,
+    "price": 147900,
     "link": "https://gift.kakao.com/product/14412568?url=product&cId=14412568",
     "slot_id": "60659",
     "pgm": "핑크원더 61%+쿠폰+할인",
@@ -5129,18 +5117,6 @@
     "category": "테크",
     "rerun": true,
     "rerun_of": "60550"
-   },
-   {
-    "start": "22:30",
-    "end": "00:00",
-    "brand": "터치그라운드 스니커즈",
-    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-    "price": 49000,
-    "link": "https://store.kakao.com/touchground/products/774098244",
-    "slot_id": "61239",
-    "pgm": "터치그라운드 쿠셔닝슬리퍼",
-    "title": "이렇게 편해도 되나요?",
-    "category": "패션"
    }
   ],
   "2026-10-23": [
@@ -5318,9 +5294,9 @@
     "start": "19:00",
     "end": "22:00",
     "brand": "쿠오카",
-    "product": "[선물포장] 쿠오카 오드퍼퓸 50ml (7종 택1)",
-    "price": 135000,
-    "link": "https://gift.kakao.com/product/11972365?url=product&cId=11972365",
+    "product": "쿠오카 와일드피치 솔리드 퍼퓸",
+    "price": 37000,
+    "link": "https://gift.kakao.com/product/14393409?url=product&cId=14393409",
     "slot_id": "60591",
     "pgm": "쿠오카 NEW 솔리드퍼퓸",
     "title": "단독 선런칭+카쇼페 최대혜택",
@@ -5457,6 +5433,18 @@
     "pgm": "양털양말/양털침구/털털냥특가",
     "title": "라이브 최대 30만원 혜택",
     "category": "리빙"
+   },
+   {
+    "start": "22:30",
+    "end": "00:00",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49000,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "61283",
+    "pgm": "터치그라운드 발편한운동화",
+    "title": "가벼우면서 쿠션감 좋은운동화",
+    "category": "패션"
    }
   ],
   "2026-10-24": [
@@ -5756,7 +5744,7 @@
     "start": "10:00",
     "end": "11:30",
     "brand": "슬룸",
-    "product": "[무선] 종아리 다리 롤러 지압볼 온열 마사지기ㅣ리모컨 포함ㅣ손목 전신 안마기ㅣ추석 부모님 임산부ㅣ 슬룸 종아리 발 마사지",
+    "product": "[무선] 종아리 다리 온열 롤러 지압볼 마사지기ㅣ리모컨 포함ㅣ손목 전신 안마기ㅣ수능 부모님 임산부ㅣ 슬룸 종아리 발 마사지",
     "price": 37900,
     "link": "https://gift.kakao.com/product/13722550?url=product&cId=13722550",
     "slot_id": "61056",
@@ -6002,7 +5990,7 @@
     "start": "13:00",
     "end": "14:30",
     "brand": "폰드그룹몰",
-    "product": "[어패럴카쇼라] (9/21) 캘빈클라인 스포츠,퍼포먼스,진스 종합 특가전",
+    "product": "[어패럴카쇼라] (10/24~) 캘빈클라인 스포츠,퍼포먼스,진스 종합 특가전",
     "price": 129000,
     "link": "https://store.kakao.com/pondgroup/products/755893337",
     "slot_id": "60893",
@@ -6274,18 +6262,6 @@
     "slot_id": "61022",
     "pgm": "나를 더 빛내줄 이에르로르",
     "title": "귀걸이/목걸이/반지 외",
-    "category": "패션"
-   },
-   {
-    "start": "19:00",
-    "end": "22:00",
-    "brand": "크록스",
-    "product": "[크록스 본사] 최대 74% 가을 클로그/플랫폼/라인드/털크록스/지비츠 외 모음전",
-    "price": 79900,
-    "link": "https://store.kakao.com/crocskr/products/153739011",
-    "slot_id": "61023",
-    "pgm": "크록스로 올가을 따듯하게!",
-    "title": "털크록스/스테디 할인전",
     "category": "패션"
    },
    {
