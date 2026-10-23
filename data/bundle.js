@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-23T11:20:19+09:00",
+ "generated_at": "2026-10-23T11:40:13+09:00",
  "today": "2026-10-23",
  "dates": [
   "2026-10-22",
@@ -2526,8 +2526,7 @@ window.SCHEDULE = {
      "title": "🎇아디다스 골프&CK",
      "pgm": "김사장88",
      "pgm_cd": "1150",
-     "category": "스포츠·아웃도어",
-     "hot": 10
+     "category": "스포츠·아웃도어"
     },
     {
      "start": "10:00",
@@ -2632,7 +2631,8 @@ window.SCHEDULE = {
      "pgm": "잇솔지",
      "pgm_cd": "1109",
      "category": "여성패션",
-     "cast": "influencer"
+     "cast": "influencer",
+     "hot": 9
     },
     {
      "start": "12:00",
@@ -7520,7 +7520,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -7632,7 +7632,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 9
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -8182,7 +8182,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 6
     },
     {
      "start": "11:00",
