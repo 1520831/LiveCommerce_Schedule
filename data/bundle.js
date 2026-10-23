@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-23T10:20:16+09:00",
+ "generated_at": "2026-10-23T10:40:17+09:00",
  "today": "2026-10-23",
  "dates": [
   "2026-10-22",
@@ -491,8 +491,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "레노마로 완성하는 가을 실루엣, 2만원대부터❤️",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 10
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "09:00",
@@ -512,7 +511,7 @@ window.SCHEDULE = {
      ],
      "title": "[아디다스] 26FW 가을 신상 대전🍂",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -532,7 +531,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼 스페셜] 막스마라 루드밀라, 마담 한정수량",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 5
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -2528,7 +2527,8 @@ window.SCHEDULE = {
      "title": "🎇아디다스 골프&CK",
      "pgm": "김사장88",
      "pgm_cd": "1150",
-     "category": "스포츠·아웃도어"
+     "category": "스포츠·아웃도어",
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -7521,7 +7521,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -22191,7 +22191,7 @@ window.SCHEDULE = {
      "pgm": "닥터브로너스 특대용량 특가!",
      "title": "리필부터 펌프 증정까지",
      "category": "뷰티",
-     "hot": 1
+     "hot": 3
     },
     {
      "start": "08:30",
@@ -22216,7 +22216,7 @@ window.SCHEDULE = {
      "pgm": "셀리맥스 전구매 마스크팩",
      "title": "9900원 베스트셀러 특가",
      "category": "뷰티",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "08:30",
@@ -22229,7 +22229,7 @@ window.SCHEDULE = {
      "pgm": "킨도 10월 카쇼페 특가",
      "title": "베베썸머 1+1 이벤트",
      "category": "키즈",
-     "hot": 2
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -22290,7 +22290,7 @@ window.SCHEDULE = {
      "pgm": "드시모네x민화마켓",
      "title": "60분 한정 6박스 특가!",
      "category": "식품",
-     "hot": 3
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -22317,7 +22317,7 @@ window.SCHEDULE = {
      "category": "키즈",
      "rerun": true,
      "rerun_of": "60939",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "10:00",
