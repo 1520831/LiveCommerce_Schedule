@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-23T09:40:15+09:00",
+ "generated_at": "2026-10-23T10:00:16+09:00",
  "today": "2026-10-23",
  "dates": [
   "2026-10-22",
@@ -492,7 +492,7 @@ window.SCHEDULE = {
      ],
      "title": "레노마로 완성하는 가을 실루엣, 2만원대부터❤️",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "09:00",
@@ -512,7 +512,7 @@ window.SCHEDULE = {
      ],
      "title": "[아디다스] 26FW 가을 신상 대전🍂",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 8
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -2477,7 +2477,7 @@ window.SCHEDULE = {
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
      "category": "여성패션",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "09:00",
@@ -2504,7 +2504,7 @@ window.SCHEDULE = {
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
      "category": "여성패션",
-     "hot": 10
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -7318,8 +7318,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 5
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -22217,7 +22216,7 @@ window.SCHEDULE = {
      "pgm": "셀리맥스 전구매 마스크팩",
      "title": "9900원 베스트셀러 특가",
      "category": "뷰티",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -23718,8 +23717,8 @@ window.SCHEDULE = {
    "2026-10-22",
    "2026-10-23"
   ],
-  "matched": 13,
-  "unmatched": 6
+  "matched": 12,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
