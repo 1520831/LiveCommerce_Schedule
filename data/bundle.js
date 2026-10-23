@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-23T11:00:30+09:00",
+ "generated_at": "2026-10-23T11:20:19+09:00",
  "today": "2026-10-23",
  "dates": [
   "2026-10-22",
@@ -2513,8 +2513,7 @@ window.SCHEDULE = {
      "slot_id": "30750",
      "title": "[맘만하니] 백화점 동일 타티네쇼콜라🩷 카드+적립 찬스👑",
      "pgm": "맘만하니",
-     "pgm_cd": "1100",
-     "hot": 9
+     "pgm_cd": "1100"
     },
     {
      "start": "10:00",
@@ -2528,7 +2527,7 @@ window.SCHEDULE = {
      "pgm": "김사장88",
      "pgm_cd": "1150",
      "category": "스포츠·아웃도어",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -7632,7 +7631,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -8181,7 +8181,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -23718,8 +23719,8 @@ window.SCHEDULE = {
    "2026-10-22",
    "2026-10-23"
   ],
-  "matched": 13,
-  "unmatched": 6
+  "matched": 14,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
