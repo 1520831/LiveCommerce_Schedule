@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-23T12:06:19+09:00",
+ "generated_at": "2026-10-23T12:20:17+09:00",
  "today": "2026-10-23",
  "dates": [
   "2026-10-22",
@@ -2880,7 +2880,7 @@ window.SCHEDULE = {
      "pgm_cd": "1109",
      "category": "여성패션",
      "cast": "influencer",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "12:00",
@@ -8021,7 +8021,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 8
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -8732,7 +8732,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -23144,7 +23144,7 @@ window.SCHEDULE = {
      "pgm": "닥터브로너스 특대용량 특가!",
      "title": "리필부터 펌프 증정까지",
      "category": "뷰티",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -23269,7 +23269,7 @@ window.SCHEDULE = {
      "category": "키즈",
      "rerun": true,
      "rerun_of": "60939",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "10:00",
