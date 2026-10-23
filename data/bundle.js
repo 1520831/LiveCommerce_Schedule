@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-23T08:40:16+09:00",
+ "generated_at": "2026-10-23T09:00:24+09:00",
  "today": "2026-10-23",
  "dates": [
   "2026-10-22",
@@ -454,7 +454,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 버버리 퀼팅 자켓 월 2만원대~",
      "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "07:00",
@@ -493,7 +493,7 @@ window.SCHEDULE = {
      ],
      "title": "레노마로 완성하는 가을 실루엣, 2만원대부터❤️",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "09:00",
@@ -2477,7 +2477,7 @@ window.SCHEDULE = {
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
      "category": "여성패션",
-     "hot": 1
+     "hot": 4
     },
     {
      "start": "09:00",
@@ -7087,8 +7087,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 8
+     "category": "테크"
     },
     {
      "start": "09:00",
@@ -22191,7 +22190,7 @@ window.SCHEDULE = {
      "pgm": "닥터브로너스 특대용량 특가!",
      "title": "리필부터 펌프 증정까지",
      "category": "뷰티",
-     "hot": 3
+     "hot": 1
     },
     {
      "start": "08:30",
@@ -22215,7 +22214,8 @@ window.SCHEDULE = {
      "slot_id": "60661",
      "pgm": "셀리맥스 전구매 마스크팩",
      "title": "9900원 베스트셀러 특가",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 6
     },
     {
      "start": "08:30",
@@ -22240,7 +22240,8 @@ window.SCHEDULE = {
      "slot_id": "60854",
      "pgm": "액상 철분제 스파톤 애플",
      "title": "쉽고 맛있게 챙기는 건강",
-     "category": "식품"
+     "category": "식품",
+     "hot": 9
     },
     {
      "start": "09:00",
@@ -23716,8 +23717,8 @@ window.SCHEDULE = {
    "2026-10-22",
    "2026-10-23"
   ],
-  "matched": 11,
-  "unmatched": 7
+  "matched": 12,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
