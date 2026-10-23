@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-23T10:40:17+09:00",
+ "generated_at": "2026-10-23T11:00:30+09:00",
  "today": "2026-10-23",
  "dates": [
   "2026-10-22",
@@ -510,8 +510,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[아디다스] 26FW 가을 신상 대전🍂",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 8
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "10:00",
@@ -531,7 +530,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼 스페셜] 막스마라 루드밀라, 마담 한정수량",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "11:00",
@@ -2514,7 +2513,8 @@ window.SCHEDULE = {
      "slot_id": "30750",
      "title": "[맘만하니] 백화점 동일 타티네쇼콜라🩷 카드+적립 찬스👑",
      "pgm": "맘만하니",
-     "pgm_cd": "1100"
+     "pgm_cd": "1100",
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -2528,7 +2528,7 @@ window.SCHEDULE = {
      "pgm": "김사장88",
      "pgm_cd": "1150",
      "category": "스포츠·아웃도어",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -22215,8 +22215,7 @@ window.SCHEDULE = {
      "slot_id": "60661",
      "pgm": "셀리맥스 전구매 마스크팩",
      "title": "9900원 베스트셀러 특가",
-     "category": "뷰티",
-     "hot": 10
+     "category": "뷰티"
     },
     {
      "start": "08:30",
@@ -22229,7 +22228,7 @@ window.SCHEDULE = {
      "pgm": "킨도 10월 카쇼페 특가",
      "title": "베베썸머 1+1 이벤트",
      "category": "키즈",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "08:30",
@@ -22290,7 +22289,7 @@ window.SCHEDULE = {
      "pgm": "드시모네x민화마켓",
      "title": "60분 한정 6박스 특가!",
      "category": "식품",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -22317,7 +22316,7 @@ window.SCHEDULE = {
      "category": "키즈",
      "rerun": true,
      "rerun_of": "60939",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -23719,8 +23718,8 @@ window.SCHEDULE = {
    "2026-10-22",
    "2026-10-23"
   ],
-  "matched": 14,
-  "unmatched": 5
+  "matched": 13,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
