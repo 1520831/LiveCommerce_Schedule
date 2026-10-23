@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-23T09:20:20+09:00",
+ "generated_at": "2026-10-23T09:40:15+09:00",
  "today": "2026-10-23",
  "dates": [
   "2026-10-22",
@@ -492,7 +492,7 @@ window.SCHEDULE = {
      ],
      "title": "레노마로 완성하는 가을 실루엣, 2만원대부터❤️",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "09:00",
@@ -2477,7 +2477,7 @@ window.SCHEDULE = {
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
      "category": "여성패션",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "09:00",
@@ -2503,7 +2503,8 @@ window.SCHEDULE = {
      "title": "다시보는🎇바니스뉴욕 가을/겨울 특가전",
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -7317,7 +7318,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -22190,7 +22192,7 @@ window.SCHEDULE = {
      "pgm": "닥터브로너스 특대용량 특가!",
      "title": "리필부터 펌프 증정까지",
      "category": "뷰티",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "08:30",
@@ -22202,8 +22204,7 @@ window.SCHEDULE = {
      "slot_id": "60590",
      "pgm": "아로마티카 로즈퍼퓸 바디오일",
      "title": "외 방송중 추가 오일 증정",
-     "category": "뷰티",
-     "hot": 10
+     "category": "뷰티"
     },
     {
      "start": "08:30",
@@ -22216,7 +22217,7 @@ window.SCHEDULE = {
      "pgm": "셀리맥스 전구매 마스크팩",
      "title": "9900원 베스트셀러 특가",
      "category": "뷰티",
-     "hot": 5
+     "hot": 3
     },
     {
      "start": "08:30",
@@ -22229,7 +22230,7 @@ window.SCHEDULE = {
      "pgm": "킨도 10월 카쇼페 특가",
      "title": "베베썸머 1+1 이벤트",
      "category": "키즈",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "08:30",
@@ -22241,8 +22242,7 @@ window.SCHEDULE = {
      "slot_id": "60854",
      "pgm": "액상 철분제 스파톤 애플",
      "title": "쉽고 맛있게 챙기는 건강",
-     "category": "식품",
-     "hot": 9
+     "category": "식품"
     },
     {
      "start": "09:00",
