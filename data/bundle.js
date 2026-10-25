@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-26T08:36:28+09:00",
+ "generated_at": "2026-10-26T08:40:17+09:00",
  "today": "2026-10-26",
  "dates": [
   "2026-10-25",
@@ -5792,7 +5792,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "09:50",
@@ -21942,7 +21942,8 @@ window.SCHEDULE = {
      "slot_id": "60517",
      "pgm": "우리가 믿는 물 제주 삼다수",
      "title": "한정판 굿즈 추첨 이벤트",
-     "category": "식품"
+     "category": "식품",
+     "hot": 9
     },
     {
      "start": "09:00",
@@ -23138,8 +23139,8 @@ window.SCHEDULE = {
    "2026-10-25",
    "2026-10-26"
   ],
-  "matched": 7,
-  "unmatched": 13
+  "matched": 8,
+  "unmatched": 12
  },
  "fixed": {
   "rows": [
