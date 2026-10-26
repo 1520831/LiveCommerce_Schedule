@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-26T09:00:15+09:00",
+ "generated_at": "2026-10-26T09:20:24+09:00",
  "today": "2026-10-26",
  "dates": [
   "2026-10-25",
@@ -2144,7 +2144,8 @@ window.SCHEDULE = {
      "pgm": "잇솔지",
      "pgm_cd": "1109",
      "category": "여성패션",
-     "cast": "influencer"
+     "cast": "influencer",
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -5792,7 +5793,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 8
     },
     {
      "start": "09:50",
@@ -21943,7 +21944,7 @@ window.SCHEDULE = {
      "pgm": "우리가 믿는 물 제주 삼다수",
      "title": "한정판 굿즈 추첨 이벤트",
      "category": "식품",
-     "hot": 1
+     "hot": 3
     },
     {
      "start": "09:00",
@@ -23139,8 +23140,8 @@ window.SCHEDULE = {
    "2026-10-25",
    "2026-10-26"
   ],
-  "matched": 8,
-  "unmatched": 12
+  "matched": 9,
+  "unmatched": 11
  },
  "fixed": {
   "rows": [
