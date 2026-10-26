@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-26T20:00:09+09:00",
+ "generated_at": "2026-10-26T21:00:11+09:00",
  "today": "2026-10-26",
  "dates": [
   "2026-10-25",
@@ -2842,7 +2842,8 @@ window.SCHEDULE = {
      "title": "[2026 라비앙 블프] 최대 75% 할인! 미백 앰플 론칭 라이브✨",
      "pgm": "겟잇뷰티 스페셜",
      "pgm_cd": "1139",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 9
     },
     {
      "start": "20:00",
@@ -7160,7 +7161,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -9223,8 +9224,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "17:50",
@@ -9802,7 +9802,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "19:00",
@@ -9989,7 +9989,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 9
+     "hot": 8
     },
     {
      "start": "19:00",
