@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-10",
- "updated_at": "2026-10-26T12:01:32+09:00",
+ "updated_at": "2026-10-26T18:01:12+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -6094,7 +6094,7 @@
    },
    {
     "start": "11:00",
-    "end": "12:30",
+    "end": "12:00",
     "brand": "(주)상상그램",
     "product": "[귀뚜라미] 27년형 THE 프리미엄 신형 블루투스 카본 탄소매트",
     "price": 468000,
@@ -6106,7 +6106,7 @@
    },
    {
     "start": "13:00",
-    "end": "14:30",
+    "end": "14:01",
     "brand": "폰드그룹몰",
     "product": "[어패럴카쇼라] (10/24~) 캘빈클라인 스포츠,퍼포먼스,진스 종합 특가전",
     "price": 129000,
@@ -6118,7 +6118,7 @@
    },
    {
     "start": "14:00",
-    "end": "15:30",
+    "end": "15:00",
     "brand": "바롤",
     "product": "[2+2 SET] 탄탄모공&더블탄력 아이스롤 세럼",
     "price": 78900,
@@ -6157,7 +6157,7 @@
     "end": "19:30",
     "brand": "배곱플땐구이요",
     "product": "구이요 소곱창/대창/막창/특양/족발/보쌈+다양한 사은품!",
-    "price": 5500,
+    "price": 9900,
     "link": "https://store.kakao.com/92yo/products/75375550",
     "slot_id": "60999",
     "pgm": "역대급 혜택 소곱창!",
@@ -6184,7 +6184,7 @@
     "price": 56700,
     "link": "https://gift.kakao.com/product/12425586?url=product&cId=12425586",
     "slot_id": "60960",
-    "pgm": "헤라~20%+쿠폰/페이할인",
+    "pgm": "헤라~20%+쿠폰 할인",
     "title": "홀리데이 선런칭 추가 사은품",
     "category": "뷰티"
    },
@@ -6229,7 +6229,7 @@
     "end": "22:00",
     "brand": "순수식품",
     "product": "순수식품 rTG 알티지 오메가3 2박스(4개월분) 식물성캡슐 외 콘드로이친/종합비타민/루테인/밀크씨슬 골라담기",
-    "price": 20900,
+    "price": 40000,
     "link": "https://store.kakao.com/soonsoofood/products/181199031",
     "slot_id": "60895",
     "pgm": "순수식품 오메가3 식물성캡슐",
@@ -6265,7 +6265,7 @@
     "end": "22:00",
     "brand": "청년상점",
     "product": "[대구별미] 쫄깃고소 아우라 숙성 돼지막창 1kg 대용량 (5인분) / 과일숙성으로 담백하고 고소한 육향",
-    "price": 12900,
+    "price": 19900,
     "link": "https://store.kakao.com/youngstore/products/794899581",
     "slot_id": "61348",
     "pgm": "대구별미 쫄깃고소 막창",
@@ -6277,7 +6277,7 @@
     "end": "22:20",
     "brand": "닥터치카",
     "product": "6set 닥터치카 고불소 불소치약 충치예방 치아 탈회 부식 1450 함유",
-    "price": 51000,
+    "price": 66000,
     "link": "https://store.kakao.com/drchika/products/142179881",
     "slot_id": "61327",
     "pgm": "은우야X1450어린이고불소",
@@ -6303,7 +6303,7 @@
     "end": "10:00",
     "brand": "신세계푸드",
     "product": "[중앙해장] 서울맛집 양해장국 4팩/사태곰탕",
-    "price": 29900,
+    "price": 35900,
     "link": "https://store.kakao.com/shinsegaefood/products/684060943",
     "slot_id": "60866",
     "pgm": "신세계푸드 양해장국!",
@@ -6344,7 +6344,7 @@
     "slot_id": "61353",
     "pgm": "신일 전기 히터 난로 가습기",
     "title": "포근한 겨울나기 라이브할인",
-    "category": "리빙"
+    "category": "테크"
    },
    {
     "start": "10:00",
@@ -6458,9 +6458,9 @@
     "start": "17:00",
     "end": "18:30",
     "brand": "듀먼_Dhuman",
-    "product": "[리뉴얼] 굽네X듀먼 강아지화식 10종 14팩/30팩/50팩 세트 외 간식 모음",
-    "price": 70000,
-    "link": "https://store.kakao.com/dhuman/products/70840908",
+    "product": "",
+    "price": 0,
+    "link": "https://shoppinglive.kakao.com/live/61316",
     "slot_id": "61316",
     "pgm": "굽네X듀먼 1위 강아지화식",
     "title": "10월 할로윈데이 달콤한특가",
@@ -6589,6 +6589,18 @@
     "category": "뷰티"
    },
    {
+    "start": "09:00",
+    "end": "10:30",
+    "brand": "신일전자 온라인스토어",
+    "product": "신일 전기히터 2IN1 카본 탄소발열 히터 온풍기",
+    "price": 198000,
+    "link": "https://store.kakao.com/shinilonline/products/632210789",
+    "slot_id": "61441",
+    "pgm": "신일 전기 히터 난로 가습기",
+    "title": "포근한 겨울나기 라이브할인",
+    "category": "테크"
+   },
+   {
     "start": "10:00",
     "end": "11:30",
     "brand": "우고래빗",
@@ -6623,6 +6635,18 @@
     "pgm": "대단한갈비탕4팩+당면4개",
     "title": "2세트구매시마다 사골곰탕2개",
     "category": "식품"
+   },
+   {
+    "start": "11:00",
+    "end": "12:30",
+    "brand": "(주)상상그램",
+    "product": "[귀뚜라미] 27년형 THE 프리미엄 신형 블루투스 카본 탄소매트",
+    "price": 468000,
+    "link": "https://store.kakao.com/sangsangstore/products/118837559",
+    "slot_id": "61440",
+    "pgm": "2026년 귀뚜라미",
+    "title": "겨울을 위한 카본매트",
+    "category": "테크"
    },
    {
     "start": "11:30",
@@ -6701,7 +6725,7 @@
     "end": "22:00",
     "brand": "브랜드 널 담",
     "product": "널담 고단백 저당 고식이섬유 네모 바게트/베이글 10+10, 20개 골라담기",
-    "price": 25900,
+    "price": 64900,
     "link": "https://store.kakao.com/nuldam/products/538676263",
     "slot_id": "60884",
     "pgm": "널담 고식이섬유 네모바게트",
@@ -6713,7 +6737,7 @@
     "end": "22:00",
     "brand": "랭킹닭컴",
     "product": "랭킹닭컴 BEST 통 닭가슴살&닭다리살 골라담기",
-    "price": 29800,
+    "price": 46500,
     "link": "https://store.kakao.com/rankingdak/products/98493186",
     "slot_id": "60923",
     "pgm": "[랭킹닭컴&김원훈쇼]",
@@ -6738,9 +6762,9 @@
     "start": "08:30",
     "end": "10:00",
     "brand": "한국마즈온라인공식몰",
-    "product": "",
-    "price": 0,
-    "link": "https://shoppinglive.kakao.com/live/61314",
+    "product": "이클립스 민트 캔디 8종/플러스 허브 캔디 2종 8개입",
+    "price": 18400,
+    "link": "https://store.kakao.com/mars2022/products/168856836",
     "slot_id": "61314",
     "pgm": "이클립스외 최대 50%할인!",
     "title": "인기 간식 라이브 특가!",
@@ -6779,7 +6803,7 @@
     "link": "https://store.kakao.com/kidari/products/802439210",
     "slot_id": "60991",
     "pgm": "휴게소 일품 우동 세트",
-    "title": "라이브 최대 38% 특가!",
+    "title": "라이브 최대 40% 특가!",
     "category": "식품"
    },
    {
@@ -6823,7 +6847,7 @@
     "end": "18:30",
     "brand": "명태잡는날",
     "product": "[명태잡는날] 속초 명태회무침 400g, 1kg 외 밥도둑 젓갈 모음",
-    "price": 11900,
+    "price": 20900,
     "link": "https://store.kakao.com/myeontae/products/97653773",
     "slot_id": "61016",
     "pgm": "속초식 명태회무침 특집",
@@ -6834,13 +6858,25 @@
     "start": "17:00",
     "end": "18:30",
     "brand": "홍천한우마을",
-    "product": "[HC한우마을]1등급 한우 꽃등심300g1팩x2팩 구이용한마리 선택1",
+    "product": "[HC한우마을]1등급 한우 꽃등심300g 2팩 구이용한마리 선택1",
     "price": 50900,
     "link": "https://store.kakao.com/hanukorea01/products/182833232",
     "slot_id": "61206",
     "pgm": "HC한우마을 1등급한우",
     "title": "꽃등심300g2팩외 로스모음",
     "category": "식품"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "AMANTE",
+    "product": "대용량 엠보싱 캡형 PAN 물티슈 100매 5팩+5팩",
+    "price": 23900,
+    "link": "https://store.kakao.com/amanteshop/products/662708692",
+    "slot_id": "61245",
+    "pgm": "아망떼 물티슈",
+    "title": "라이브 한정 혜택!",
+    "category": "리빙"
    },
    {
     "start": "18:00",
@@ -6935,7 +6971,7 @@
     "link": "https://store.kakao.com/kitchenaid/products/804684182",
     "slot_id": "61229",
     "pgm": "키친에이드 첫 카쇼라!",
-    "title": "최대 20% 할인+혜택 공개",
+    "title": "최대 35% 할인+혜택 공개",
     "category": "테크"
    }
   ],
@@ -7040,8 +7076,8 @@
     "start": "19:00",
     "end": "20:30",
     "brand": "스노우피크 어패럴",
-    "product": "[스노우피크] FW 아울렛 추가 혜택! 카카오 단독 쿠폰",
-    "price": 89000,
+    "product": "[스노우피크] FW 인기 의류 / ACC 최대 혜택+추가 쿠폰",
+    "price": 99000,
     "link": "https://store.kakao.com/snowpeakapparel/products/611110729",
     "slot_id": "61124",
     "pgm": "스노우피크 브랜드딜",
@@ -7053,7 +7089,7 @@
     "end": "20:30",
     "brand": "청년상점",
     "product": "말랑쫀득 해남 꿀 고구마 말랭이 60g 10봉 외 20봉",
-    "price": 29900,
+    "price": 15900,
     "link": "https://store.kakao.com/youngstore/products/62386351",
     "slot_id": "61216",
     "pgm": "고구마말랭이 60g 10봉",
@@ -7089,7 +7125,7 @@
     "end": "22:00",
     "brand": "니아르",
     "product": "니아르 캔디 리치피치맛 브이캔디 PLUS",
-    "price": 39800,
+    "price": 320000,
     "link": "https://store.kakao.com/near/products/766771823",
     "slot_id": "61270",
     "pgm": "니아르 브이케어 외",
@@ -7099,22 +7135,11 @@
   ],
   "2026-10-31": [
    {
-    "start": "00:00",
-    "end": "01:30",
-    "brand": "오로라샤인",
-    "product": "행운을 주는 네잎크로버 복주머니 옥팔찌 패션팔찌",
-    "price": 13000,
-    "link": "https://store.kakao.com/aurorashine/products/779502508",
-    "slot_id": "61404",
-    "pgm": "행운 네잎클로버 옥팔찌",
-    "category": "패션"
-   },
-   {
     "start": "10:00",
     "end": "11:30",
     "brand": "세타필 공식몰",
-    "product": "세타필 모이스춰라이징 크림 453g 2개+50g(총 956g)",
-    "price": 32900,
+    "product": "세타필 모이스춰라이징 크림 453g 2개+50g(총 956g)+크림 10g 3개",
+    "price": 53000,
     "link": "https://store.kakao.com/cetaphil/products/153571164",
     "slot_id": "61156",
     "pgm": "[NEW]세타필 탄력보습라인",
@@ -7158,6 +7183,18 @@
     "category": "키즈"
    },
    {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "포렌코즈",
+    "product": "속타투 틴트 18colors",
+    "price": 11000,
+    "link": "https://store.kakao.com/forencos/products/66042581",
+    "slot_id": "61412",
+    "pgm": "포렌코즈 가을맞이 LIVE",
+    "title": "타투틴트 최대 45% 할인",
+    "category": "뷰티"
+   },
+   {
     "start": "19:00",
     "end": "20:30",
     "brand": "청년상점",
@@ -7168,6 +7205,18 @@
     "pgm": "2026 정품 부사사과2kg",
     "title": "11900원 8-10과",
     "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "누아벨",
+    "product": "누아벨 엑토인 엑소좀 토너 크림 2종 세트",
+    "price": 75000,
+    "link": "https://store.kakao.com/nuabel/products/793312936",
+    "slot_id": "61324",
+    "pgm": "누아벨 버블 세럼 토너",
+    "title": "리셋 크림 카쇼라 특가",
+    "category": "뷰티"
    },
    {
     "start": "20:30",
