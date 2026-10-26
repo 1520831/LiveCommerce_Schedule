@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-10",
- "updated_at": "2026-10-26T08:26:50+09:00",
+ "updated_at": "2026-10-26T12:01:32+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -6046,7 +6046,7 @@
   "2026-10-26": [
    {
     "start": "08:30",
-    "end": "11:30",
+    "end": "09:51",
     "brand": "광동제약 직영스토어",
     "product": "삼다수 2L 24입 외 500ml/330ml 삼다수 모음전",
     "price": 35900,
@@ -6057,20 +6057,8 @@
     "category": "식품"
    },
    {
-    "start": "09:00",
-    "end": "10:30",
-    "brand": "신일전자 온라인스토어",
-    "product": "신일 전기히터 2IN1 카본 탄소발열 히터 온풍기",
-    "price": 198000,
-    "link": "https://store.kakao.com/shinilonline/products/632210789",
-    "slot_id": "61352",
-    "pgm": "신일 전기 히터 난로 가습기",
-    "title": "포근한 겨울나기 라이브할인",
-    "category": "리빙"
-   },
-   {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:01",
     "brand": "보뚜",
     "product": "보뚜 아후카틀 엑스트라버진 아보카도오일 250ml 6병 외",
     "price": 120000,
@@ -6082,7 +6070,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:00",
     "brand": "키스포",
     "product": "[폴로클럽x카쇼라] LIVE런칭기념 겨울가을 신상 하프폴라티셔츠 외 기모 맨투맨 팬츠",
     "price": 99800,
@@ -6094,7 +6082,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:01",
     "brand": "jooniebebe",
     "product": "[주니] 이지 원터치 신제품 컵라인 모음전! 아기상어 자기주도컵, 폴리 빨대컵, 마켓 입모아컵 등",
     "price": 28000,
@@ -6161,7 +6149,7 @@
     "link": "https://store.kakao.com/jardin/products/797045433",
     "slot_id": "61120",
     "pgm": "찬바람 불어오는 가을!",
-    "title": "몸 녹이는 티타임 ~42%",
+    "title": "몸 녹이는 티타임 ~43%",
     "category": "식품"
    },
    {
@@ -6264,7 +6252,7 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "르샵 주얼리",
-    "product": "[르샵&페이지주얼리] 10월 가을 신상 주얼리 14K귀걸이/반지/목걸이/팔찌",
+    "product": "[르샵&페이지주얼리] 79시간 한정세일 14K귀걸이/반지/목걸이/팔찌",
     "price": 77000,
     "link": "https://store.kakao.com/leshopjewelry/products/702160346",
     "slot_id": "61095",
@@ -6315,7 +6303,7 @@
     "end": "10:00",
     "brand": "신세계푸드",
     "product": "[중앙해장] 서울맛집 양해장국 4팩/사태곰탕",
-    "price": 25900,
+    "price": 29900,
     "link": "https://store.kakao.com/shinsegaefood/products/684060943",
     "slot_id": "60866",
     "pgm": "신세계푸드 양해장국!",
@@ -6395,18 +6383,6 @@
     "category": "뷰티"
    },
    {
-    "start": "10:30",
-    "end": "12:00",
-    "brand": "예본제이모피",
-    "product": "예본모피 휘메일 풀스킨 머플러",
-    "price": 100000,
-    "link": "https://store.kakao.com/yebonjayfur/products/803946679",
-    "slot_id": "61373",
-    "pgm": "밍크 40년 자체공장 직영",
-    "title": "예본모피 라이브 ∙ 리아",
-    "category": "패션"
-   },
-   {
     "start": "11:00",
     "end": "12:30",
     "brand": "파파야나인",
@@ -6429,6 +6405,18 @@
     "pgm": "2026년 귀뚜라미",
     "title": "겨울을 위한 카본매트",
     "category": "테크"
+   },
+   {
+    "start": "11:00",
+    "end": "12:30",
+    "brand": "퓨어잇",
+    "product": "한봉부터 골라담는 퓨어잇 유기농 떡뻥 과일칩 아기간식 김 보리차 모음전",
+    "price": 2500,
+    "link": "https://store.kakao.com/pureat/products/36508405",
+    "slot_id": "61408",
+    "pgm": "[10+1]한봉부터 골라담는",
+    "title": "간식 초특가 LIVE!",
+    "category": "키즈"
    },
    {
     "start": "16:45",
@@ -6486,28 +6474,16 @@
     "price": 40900,
     "link": "https://store.kakao.com/lifeedge/products/743484150",
     "slot_id": "61391",
-    "pgm": "옆자리 동료가 쓰는거",
+    "pgm": "의자등받이쿠션 등펴난",
     "title": "'써보면 공구'하게되는 제품",
     "category": "리빙"
-   },
-   {
-    "start": "18:00",
-    "end": "19:30",
-    "brand": "예본제이모피",
-    "product": "예본모피 휘메일 풀스킨 머플러",
-    "price": 100000,
-    "link": "https://store.kakao.com/yebonjayfur/products/803946679",
-    "slot_id": "61374",
-    "pgm": "밍크 40년 자체공장 직영",
-    "title": "예본모피 라이브 ∙ 염선생",
-    "category": "패션"
    },
    {
     "start": "19:00",
     "end": "22:00",
     "brand": "동원공식샵",
-    "product": "동원 제주마늘 비엔나 260g x 6개 외 제주마늘 살코기햄,후랑크",
-    "price": 29900,
+    "product": "그릴리 델리햄,직화후랑크,직화부어스트 등 냉장햄 모음전",
+    "price": 31900,
     "link": "https://store.kakao.com/dongwonfnb/products/788743374",
     "slot_id": "60518",
     "pgm": "동원 캠핑앤통그릴 소시지",
@@ -6534,7 +6510,7 @@
     "price": 79900,
     "link": "https://store.kakao.com/crocskr/products/153739011",
     "slot_id": "61023",
-    "pgm": "크록스로 올가을 따듯하게!",
+    "pgm": "따듯하고 편안한 크록스!",
     "title": "털크록스/스테디 할인전",
     "category": "패션"
    },
@@ -6566,8 +6542,8 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "득근파티",
-    "product": "[득근파티] 촉촉 부드러운 통살 스팀닭가슴살 24팩 6가지맛",
-    "price": 41900,
+    "product": "[득근파티] 촉촉 부드러운 통살 스팀닭가슴살 18팩 6가지맛",
+    "price": 33900,
     "link": "https://store.kakao.com/dgparty/products/346289090",
     "slot_id": "61204",
     "pgm": "역대급 구성 득근파티",
@@ -6585,6 +6561,18 @@
     "pgm": "브리츠 노이즈캔슬링 이어폰",
     "title": "앵콜 라이브특가!",
     "category": "테크"
+   },
+   {
+    "start": "22:30",
+    "end": "00:00",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49000,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "61402",
+    "pgm": "터치그라운드 발편한운동화",
+    "title": "가벼우면서 쿠션감 좋은운동화",
+    "category": "패션"
    }
   ],
   "2026-10-28": [
@@ -6637,18 +6625,6 @@
     "category": "식품"
    },
    {
-    "start": "10:30",
-    "end": "12:00",
-    "brand": "예본제이모피",
-    "product": "예본모피 휘메일 풀스킨 머플러",
-    "price": 100000,
-    "link": "https://store.kakao.com/yebonjayfur/products/803946679",
-    "slot_id": "61375",
-    "pgm": "밍크 40년 자체공장 직영",
-    "title": "예본모피 라이브 ∙ 리아",
-    "category": "패션"
-   },
-   {
     "start": "11:30",
     "end": "13:00",
     "brand": "젤리스푼",
@@ -6661,23 +6637,11 @@
     "category": "키즈"
    },
    {
-    "start": "16:00",
-    "end": "17:30",
-    "brand": "예본제이모피",
-    "product": "예본모피 휘메일 풀스킨 머플러",
-    "price": 100000,
-    "link": "https://store.kakao.com/yebonjayfur/products/803946679",
-    "slot_id": "61376",
-    "pgm": "밍크 40년 자체공장 직영",
-    "title": "예본모피 라이브 ∙ 염선생",
-    "category": "패션"
-   },
-   {
     "start": "17:00",
     "end": "18:30",
     "brand": "순수식품",
-    "product": "순수식품 칼슘 마그네슘 비타민D 아연 망간 2박스(180정) 6개월분 해조칼슘",
-    "price": 32000,
+    "product": "순수식품 칼슘 마그네슘 비타민D 아연 망간 2박스(6개월분) 해조칼슘 외 종합비타민/비타민C/콘드로이친/밀크씨슬",
+    "price": 19900,
     "link": "https://store.kakao.com/soonsoofood/products/58538953",
     "slot_id": "61107",
     "pgm": "순수식품 칼슘 마그네슘",
@@ -6736,8 +6700,8 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "브랜드 널 담",
-    "product": "널담 고단백 저당 고식이섬유 네모바게트 90g 혼합 10개입 (5종 2개씩)",
-    "price": 28900,
+    "product": "널담 고단백 저당 고식이섬유 네모 바게트/베이글 10+10, 20개 골라담기",
+    "price": 25900,
     "link": "https://store.kakao.com/nuldam/products/538676263",
     "slot_id": "60884",
     "pgm": "널담 고식이섬유 네모바게트",
@@ -6819,18 +6783,6 @@
     "category": "식품"
    },
    {
-    "start": "10:30",
-    "end": "12:00",
-    "brand": "예본제이모피",
-    "product": "예본모피 휘메일 풀스킨 머플러",
-    "price": 100000,
-    "link": "https://store.kakao.com/yebonjayfur/products/803946679",
-    "slot_id": "61377",
-    "pgm": "밍크 40년 자체공장 직영",
-    "title": "예본모피 라이브 ∙ 리아",
-    "category": "패션"
-   },
-   {
     "start": "11:30",
     "end": "13:00",
     "brand": "TRUECOOK",
@@ -6865,18 +6817,6 @@
     "pgm": "경북 상주시 달달허니",
     "title": "아카시아꿀 특가 라이브!",
     "category": "식품"
-   },
-   {
-    "start": "16:00",
-    "end": "17:30",
-    "brand": "예본제이모피",
-    "product": "예본모피 휘메일 풀스킨 머플러",
-    "price": 100000,
-    "link": "https://store.kakao.com/yebonjayfur/products/803946679",
-    "slot_id": "61378",
-    "pgm": "밍크 40년 자체공장 직영",
-    "title": "예본모피 라이브 ∙ 염선생",
-    "category": "패션"
    },
    {
     "start": "17:00",
@@ -6971,7 +6911,7 @@
     "link": "https://gift.kakao.com/product/10902844?url=product&cId=10902844",
     "slot_id": "61113",
     "pgm": "귀염 따뜻 양털양말/털털냥",
-    "title": "선물하기 단독특가 ~60%",
+    "title": "선물하기 단독특가 ~72%",
     "category": "리빙"
    },
    {
@@ -7049,18 +6989,6 @@
     "category": "뷰티"
    },
    {
-    "start": "10:30",
-    "end": "12:00",
-    "brand": "예본제이모피",
-    "product": "예본모피 휘메일 풀스킨 머플러",
-    "price": 100000,
-    "link": "https://store.kakao.com/yebonjayfur/products/803946679",
-    "slot_id": "61379",
-    "pgm": "밍크 40년 자체공장 직영",
-    "title": "예본모피 라이브 ∙ 리아",
-    "category": "패션"
-   },
-   {
     "start": "11:30",
     "end": "13:00",
     "brand": "몰리멜리",
@@ -7071,18 +6999,6 @@
     "pgm": "몰리멜리 라이브데이",
     "title": "미리보는 겨울신상",
     "category": "키즈"
-   },
-   {
-    "start": "16:00",
-    "end": "17:30",
-    "brand": "예본제이모피",
-    "product": "예본모피 휘메일 풀스킨 머플러",
-    "price": 100000,
-    "link": "https://store.kakao.com/yebonjayfur/products/803946679",
-    "slot_id": "61380",
-    "pgm": "밍크 40년 자체공장 직영",
-    "title": "예본모피 라이브 ∙ 염선생",
-    "category": "패션"
    },
    {
     "start": "17:00",
@@ -7112,9 +7028,9 @@
     "start": "19:00",
     "end": "20:30",
     "brand": "써모스",
-    "product": "써모스 가을 신제품 모음",
-    "price": 35000,
-    "link": "https://store.kakao.com/thermos/products/802342305",
+    "product": "[베이비] 써모스 빨대컵 & 조제분유용 텀블러 모음",
+    "price": 43000,
+    "link": "https://store.kakao.com/thermos/products/687460107",
     "slot_id": "61122",
     "pgm": "써모스 육아 필수템 총집합!",
     "title": "베이비&키즈 키친웨어 특가",
@@ -7167,9 +7083,32 @@
     "pgm": "사과 2kg 9900원 무배",
     "title": "당일경매/안전배송",
     "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "니아르",
+    "product": "니아르 캔디 리치피치맛 브이캔디 PLUS",
+    "price": 39800,
+    "link": "https://store.kakao.com/near/products/766771823",
+    "slot_id": "61270",
+    "pgm": "니아르 브이케어 외",
+    "title": "라이브중 다양한 혜택!",
+    "category": "뷰티"
    }
   ],
   "2026-10-31": [
+   {
+    "start": "00:00",
+    "end": "01:30",
+    "brand": "오로라샤인",
+    "product": "행운을 주는 네잎크로버 복주머니 옥팔찌 패션팔찌",
+    "price": 13000,
+    "link": "https://store.kakao.com/aurorashine/products/779502508",
+    "slot_id": "61404",
+    "pgm": "행운 네잎클로버 옥팔찌",
+    "category": "패션"
+   },
    {
     "start": "10:00",
     "end": "11:30",
@@ -7205,6 +7144,18 @@
     "pgm": "낫띵베럴 이너클렌즈",
     "title": "단백질쉐이크 카쇼라 특가",
     "category": "식품"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "예일키즈",
+    "product": "[리복키즈] FW 준비 끝! 리복키즈 BEST ITEM 단독특가 맨투맨/긴팔티/상하복/팬츠/아우터/패딩/남아/여아 주니어",
+    "price": 119000,
+    "link": "https://store.kakao.com/yalekids/products/779028180",
+    "slot_id": "61403",
+    "pgm": "리복키즈 가을 BEST &",
+    "title": "겨울 ITEM 미리보기",
+    "category": "키즈"
    },
    {
     "start": "19:00",
