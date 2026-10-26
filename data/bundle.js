@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-26T09:40:16+09:00",
+ "generated_at": "2026-10-26T10:00:14+09:00",
  "today": "2026-10-26",
  "dates": [
   "2026-10-25",
@@ -5792,8 +5792,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "09:50",
@@ -5893,7 +5892,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 5
     },
     {
      "start": "10:00",
