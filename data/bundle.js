@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-26T22:00:12+09:00",
+ "generated_at": "2026-10-26T23:00:12+09:00",
  "today": "2026-10-26",
  "dates": [
   "2026-10-25",
@@ -2843,7 +2843,7 @@ window.SCHEDULE = {
      "pgm": "겟잇뷰티 스페셜",
      "pgm_cd": "1139",
      "category": "뷰티",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "20:00",
@@ -7161,7 +7161,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -9802,7 +9802,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "19:00",
@@ -9989,7 +9989,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 10
+     "hot": 9
     },
     {
      "start": "19:00",
