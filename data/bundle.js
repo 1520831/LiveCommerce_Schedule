@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-26T08:40:17+09:00",
+ "generated_at": "2026-10-26T09:00:15+09:00",
  "today": "2026-10-26",
  "dates": [
   "2026-10-25",
@@ -5792,7 +5792,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "09:50",
@@ -21943,7 +21943,7 @@ window.SCHEDULE = {
      "pgm": "우리가 믿는 물 제주 삼다수",
      "title": "한정판 굿즈 추첨 이벤트",
      "category": "식품",
-     "hot": 9
+     "hot": 1
     },
     {
      "start": "09:00",
