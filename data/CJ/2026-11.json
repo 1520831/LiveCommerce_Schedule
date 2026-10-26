@@ -1,0 +1,60 @@
+{
+ "company": "CJ",
+ "channel": "liveshow",
+ "month": "2026-11",
+ "updated_at": "2026-10-27T07:01:04+09:00",
+ "days": {
+  "2026-11-01": [
+   {
+    "start": "14:00",
+    "end": "14:59",
+    "brand": "",
+    "product": "다시보는 시몬스 앵콜전, 마지막 특가",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/31273",
+    "slot_id": "31273",
+    "title": "다시보는 시몬스 앵콜전, 마지막 특가",
+    "pgm": "라이브쇼",
+    "pgm_cd": "0216"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "한일의료기",
+    "product": "[E][내일도착]전기요/국내생산100%/탄소열선/블루포레스트 사이즈 대/중/소",
+    "price": 27900,
+    "link": "https://item.cjonstyle.com/item/2092738172?channelCode=30002002",
+    "slot_id": "31191",
+    "title": "동계 가전 하면 생각나는 ♥ 대표 브랜드 연합 방송 ♥",
+    "pgm": "라이브쇼",
+    "pgm_cd": "1008",
+    "category": "가전"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "파르페by알레르망",
+    "product": "잘사는언니Pick 파사드 알러지케어 솜털90% 헝가리 사계절구스 차렵이불 단품/세트/풀세트",
+    "price": 333700,
+    "link": "https://item.cjonstyle.com/item/2095832562?channelCode=30002002",
+    "slot_id": "31003",
+    "title": "잘사는💚파르페by알레르망 헝가리 사계절 구스 세트 최대 60% 할인!",
+    "pgm": "잘사는 언니들",
+    "pgm_cd": "1028",
+    "category": "가구·침구"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "",
+    "product": "올해 마지막 비밀 특가 ~71% OFF 사랑스러운 골프웨어 페어라이어",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/31004",
+    "slot_id": "31004",
+    "title": "올해 마지막 비밀 특가 ~71% OFF 사랑스러운 골프웨어 페어라이어",
+    "pgm": "그루의 비밀 옷장",
+    "pgm_cd": "1140"
+   }
+  ]
+ }
+}

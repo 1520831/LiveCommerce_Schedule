@@ -1,0 +1,70 @@
+{
+ "company": "KA",
+ "channel": "shoppinglive",
+ "month": "2026-11",
+ "updated_at": "2026-10-27T07:01:10+09:00",
+ "days": {
+  "2026-11-01": [
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "에코따숨",
+    "product": "[파라핀전문회사] 국내산 에코따숨 파라핀베스",
+    "price": 210000,
+    "link": "https://store.kakao.com/ecotasum/products/136505849",
+    "slot_id": "61329",
+    "pgm": "손발 차가울때 에코따숨!",
+    "title": "파라핀 베스&왁스 선물증정",
+    "category": "테크"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "돈시몬 공식몰",
+    "product": "[돈시몬 공식] 100% NFC 착즙 토마토주스 1L/2L 외 오렌지/사과/만다린/레몬/머스캣/적포도 등",
+    "price": 40900,
+    "link": "https://store.kakao.com/donsimon/products/359712631",
+    "slot_id": "61400",
+    "pgm": "[돈시몬] 착즙주스 명가",
+    "title": "토마토 & 인기주스 LIVE",
+    "category": "식품"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "생생초",
+    "product": "생초 사과 애사비 외 1L 2병+푸어러 2개 증정. 사과/파인애플/유기농석류 선택",
+    "price": 22000,
+    "link": "https://store.kakao.com/sangsangcho/products/59259134",
+    "slot_id": "61426",
+    "pgm": "생생초 살아있는 초모 식초",
+    "title": "매일 가벼운 애사비 루틴",
+    "category": "식품"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "루미키즈",
+    "product": "[LIVE] 오감창작 젤리북 58종 외",
+    "price": 199000,
+    "link": "https://store.kakao.com/lumikids/products/807100825",
+    "slot_id": "61438",
+    "pgm": "육아 필수템 오감창작 젤리북",
+    "title": "58종 초특가 LIVE!",
+    "category": "키즈"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "베르블랑",
+    "product": "베르블랑 아기 세제/섬유유연제/캡슐세제/건조기시트 1+1 외 모음전",
+    "price": 64900,
+    "link": "https://store.kakao.com/vertblanc/products/247015450",
+    "slot_id": "61335",
+    "pgm": "베르블랑 브랜드데이 라이브",
+    "title": "세트 구매시 주방세제 증정!",
+    "category": "키즈"
+   }
+  ]
+ }
+}
