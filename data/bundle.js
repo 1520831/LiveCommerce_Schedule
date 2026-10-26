@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-26T10:00:14+09:00",
+ "generated_at": "2026-10-26T10:20:10+09:00",
  "today": "2026-10-26",
  "dates": [
   "2026-10-25",
@@ -2145,7 +2145,7 @@ window.SCHEDULE = {
      "pgm_cd": "1109",
      "category": "여성패션",
      "cast": "influencer",
-     "hot": 2
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -2185,7 +2185,8 @@ window.SCHEDULE = {
      "title": "다시보는 프라이 26FW 부츠 신상 최초 공개❤️",
      "pgm": "라이브쇼",
      "pgm_cd": "1006",
-     "category": "잡화·슈즈"
+     "category": "잡화·슈즈",
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -5893,7 +5894,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -6074,7 +6075,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -6516,7 +6518,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -6570,7 +6573,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -7184,7 +7188,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -21944,7 +21949,7 @@ window.SCHEDULE = {
      "pgm": "우리가 믿는 물 제주 삼다수",
      "title": "한정판 굿즈 추첨 이벤트",
      "category": "식품",
-     "hot": 3
+     "hot": 8
     },
     {
      "start": "09:00",
@@ -23140,8 +23145,8 @@ window.SCHEDULE = {
    "2026-10-25",
    "2026-10-26"
   ],
-  "matched": 9,
-  "unmatched": 11
+  "matched": 14,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
