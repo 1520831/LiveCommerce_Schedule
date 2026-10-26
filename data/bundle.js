@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-26T10:40:12+09:00",
+ "generated_at": "2026-10-26T11:00:23+09:00",
  "today": "2026-10-26",
  "dates": [
   "2026-10-25",
@@ -2144,8 +2144,7 @@ window.SCHEDULE = {
      "pgm": "잇솔지",
      "pgm_cd": "1109",
      "category": "여성패션",
-     "cast": "influencer",
-     "hot": 9
+     "cast": "influencer"
     },
     {
      "start": "10:00",
@@ -2186,7 +2185,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "1006",
      "category": "잡화·슈즈",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -6076,7 +6075,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 3
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -6225,7 +6224,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 10
     },
     {
      "start": "10:00",
