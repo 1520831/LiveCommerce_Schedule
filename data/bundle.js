@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-26T18:02:12+09:00",
+ "generated_at": "2026-10-26T19:00:09+09:00",
  "today": "2026-10-26",
  "dates": [
   "2026-10-25",
@@ -2486,8 +2486,7 @@ window.SCHEDULE = {
      "title": "다시보는 프라이 26FW 부츠 신상 최초 공개❤️",
      "pgm": "라이브쇼",
      "pgm_cd": "1006",
-     "category": "잡화·슈즈",
-     "hot": 10
+     "category": "잡화·슈즈"
     },
     {
      "start": "11:00",
@@ -8025,7 +8024,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "14:00",
@@ -9225,7 +9224,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 8
     },
     {
      "start": "17:50",
