@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-11",
- "updated_at": "2026-10-27T07:00:57+09:00",
+ "updated_at": "2026-10-27T12:01:09+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -21,7 +21,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253961266"
      }
     ],
-    "title": "[예본모피] 프리미엄 모피 아우터/머플러 外 쇼라특별전",
+    "title": "[예본모피] 프리미엄 모피 아우터/머플러 外 쇼라 핫딜",
     "pgm": "[예본모피] 모피 (패션1Lab)"
    },
    {
@@ -101,6 +101,25 @@
     "pgm": "[재방] 무아스 가습기 (가전)"
    },
    {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "한민금거래소",
+    "product": "18K 이태리 글림커브 목걸이",
+    "price": 2690000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253020670",
+    "slot_id": "202611016018",
+    "items": [
+     {
+      "brand": "한민금거래소",
+      "product": "18K 이태리 글림커브 목걸이",
+      "price": 2690000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253020670"
+     }
+    ],
+    "title": "[한민금거래소] 프리미엄 골드바 핫딜 구매 찬스",
+    "pgm": "[재방] 한민금거래소 (패션잡화)"
+   },
+   {
     "start": "20:00",
     "end": "20:59",
     "brand": "무아스",
@@ -116,7 +135,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251599317"
      }
     ],
-    "title": "[무아스] 흡착식 다리미 外 특별가+보풀제거기 경품까지",
+    "title": "[무아스] 흡착식 다리미 外 특별가 + 보풀제거기 경품",
     "pgm": "[집방] 무아스 다리미 (가전)"
    },
    {
@@ -135,7 +154,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253524765"
      }
     ],
-    "title": "[쥬베라] SNS 품절대란템 진동클렌저 쇼라 단독특가!",
+    "title": "[쥬베라] SNS 품절대란 진동클렌저 쇼라 단독 특별가",
     "pgm": "[쥬베라] 진동클렌저 (가전)"
    },
    {

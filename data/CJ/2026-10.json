@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-10",
- "updated_at": "2026-10-27T07:01:04+09:00",
+ "updated_at": "2026-10-27T12:01:17+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -11247,8 +11247,8 @@
     "start": "12:00",
     "end": "12:59",
     "brand": "필립스",
-    "product": "흡착 진공 다리미 STH8040/80",
-    "price": 179000,
+    "product": "[리빙베스트픽] 흡착 진공 다리미 STH8040/80 + 정품 보풀제거기",
+    "price": 188000,
     "link": "https://item.cjonstyle.com/item/2094255739?channelCode=30002002",
     "slot_id": "30782",
     "title": "아직도 옷 잡고 다리세요? 알아서 착! 달라붙는 필립스 흡착 스팀다리미",
@@ -11573,7 +11573,7 @@
     "end": "21:59",
     "brand": "나인식스뉴욕",
     "product": "정상가209,000원 ㅣ 리버시블 하이넥 버튼 하프 무스탕 자켓 (NP4JK028L0)",
-    "price": 59900,
+    "price": 64900,
     "link": "https://item.cjonstyle.com/item/2076271817?channelCode=30002002",
     "slot_id": "30971",
     "title": "나인식스뉴욕 겨울 아이템 최초공개🤍5만원대 무스탕 자켓/ 3만원대 니트",
@@ -11598,7 +11598,7 @@
     "start": "21:00",
     "end": "21:59",
     "brand": "JOIE",
-    "product": "조이 아이스핀360 메쉬 시그니처 아이사이즈 회전형 신생아 카시트 (+ 후방거울, 보호매트)",
+    "product": "조이 아이스핀360 메쉬 시그니처 아이사이즈 회전형 신생아 카시트",
     "price": 768000,
     "link": "https://item.cjonstyle.com/item/2095755032?channelCode=30002002",
     "slot_id": "31065",
@@ -11717,7 +11717,7 @@
     "end": "10:59",
     "brand": "클라랑스",
     "product": "더블세럼 75ml 대용량 세트",
-    "price": 195050,
+    "price": 189200,
     "link": "https://item.cjonstyle.com/item/2033429726?channelCode=30002002",
     "slot_id": "30972",
     "title": "[맘만하니] 클라랑스 넥크림&예비맘크림 최대 할인! 방송중 선물🎁",
@@ -11772,7 +11772,7 @@
     "price": 35900,
     "link": "https://item.cjonstyle.com/item/2096002607?channelCode=30002002",
     "slot_id": "30778",
-    "title": "~97% 할인❄️남성 겨울 수트&헤비 아우터! 인디안/브루노바피/트레몰로",
+    "title": "~97% 할인❄️남성 겨울 수트&헤비 아우터! 경량점퍼 31,000원?!",
     "pgm": "브랜디드 라이브쇼",
     "pgm_cd": "1130",
     "category": "여성패션"
@@ -11782,7 +11782,7 @@
     "end": "11:59",
     "brand": "카디뷰",
     "product": "아사이오일 220ml  2개",
-    "price": 117800,
+    "price": 116800,
     "link": "https://item.cjonstyle.com/item/74116059?channelCode=30002002",
     "slot_id": "30779",
     "title": "미용실에서 봤던 바로 그 오일✨카디뷰 헤어오일 1년에 단 2번 SALE",
@@ -11794,7 +11794,7 @@
     "end": "11:59",
     "brand": "헤르마",
     "product": "쿠아 토트백 블랙",
-    "price": 190740,
+    "price": 179520,
     "link": "https://item.cjonstyle.com/item/2078506333?channelCode=30002002",
     "slot_id": "31074",
     "title": "다시보는 맘만하니💙여배우 가방 헤르마, 단독 최대 혜택!",
@@ -12220,6 +12220,58 @@
   ],
   "2026-10-28": [
    {
+    "start": "08:00",
+    "end": "08:59",
+    "brand": "라코스테",
+    "product": "공식 여성 루미에르 다이아퀼팅 경량 다운 BF365E-56N 3종 택1",
+    "price": 485100,
+    "link": "https://item.cjonstyle.com/item/2096009606?channelCode=30002002",
+    "slot_id": "31100",
+    "title": "다시보는 라코스테 공식 FW의류 세일🤍",
+    "pgm": "라이브쇼",
+    "pgm_cd": "1013",
+    "category": "여성패션"
+   },
+   {
+    "start": "08:00",
+    "end": "08:59",
+    "brand": "하나투어",
+    "product": "세부 제이파크 4일 5일 #스위트룸업그레이드",
+    "price": 636500,
+    "link": "https://item.cjonstyle.com/item/2096327900?channelCode=30002002",
+    "slot_id": "31253",
+    "title": "다시보는 하나투어 세부 제이파크 자유여행 4일/5일",
+    "pgm": "트래블edit",
+    "pgm_cd": "1111",
+    "category": "서비스·렌탈"
+   },
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "크리스피바바",
+    "product": "컴온기획 세인트 양털이불 겸 담요_니스 (싱글)",
+    "price": 550000,
+    "link": "https://item.cjonstyle.com/item/2094018122?channelCode=30002002",
+    "slot_id": "31101",
+    "title": "다시보는 [잘사는언니들]❤️크리스피바바 양털이불&차렵이불 방송 중 최저가",
+    "pgm": "잘사는 언니들",
+    "pgm_cd": "1028",
+    "category": "가구·침구"
+   },
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "조선호텔앤리조트",
+    "product": "[조선호텔 레스토랑 식사권] 모트32 서울",
+    "price": 80000,
+    "link": "https://item.cjonstyle.com/item/2094179909?channelCode=30002002",
+    "slot_id": "31102",
+    "title": "다시보는💜조선호텔 레스토랑 이용권💜모트32/호무랑/호경전/야마부키",
+    "pgm": "럭셔리체크인",
+    "pgm_cd": "0220",
+    "category": "서비스·렌탈"
+   },
+   {
     "start": "09:15",
     "end": "10:19",
     "brand": "지스튜디오",
@@ -12261,6 +12313,19 @@
    {
     "start": "10:00",
     "end": "10:59",
+    "brand": "커버낫 키즈",
+    "product": "아치로고 맨투맨 커버셋 멜란지그레이 CK2603SUZ7MG",
+    "price": 62100,
+    "link": "https://item.cjonstyle.com/item/2093290005?channelCode=30002002",
+    "slot_id": "31103",
+    "title": "담비홈 공구 특가💙커버낫키즈 최대 혜택 찬스",
+    "pgm": "인플루언서LIVE",
+    "pgm_cd": "1052",
+    "category": "여성패션"
+   },
+   {
+    "start": "10:00",
+    "end": "10:59",
     "brand": "에몬스",
     "product": "[NEW] 모모 4단 높은 키즈 회전책장",
     "price": 295680,
@@ -12285,6 +12350,31 @@
     "category": "잡화·슈즈"
    },
    {
+    "start": "11:00",
+    "end": "12:00",
+    "brand": "한상궁김치",
+    "product": "한상궁김치 겉절이 2kg",
+    "price": 13000,
+    "link": "https://item.cjonstyle.com/item/2003424003?channelCode=30002002",
+    "slot_id": "31105",
+    "title": "왔다장보러📢프로즌 마라탕+한상궁김치+하남오징어+마른안주 9종+꿀고구마",
+    "pgm": "왔다! 장보러",
+    "pgm_cd": "1120"
+   },
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "오하루 자연가득",
+    "product": "에브리데이 견과 4박스 (100봉)",
+    "price": 109900,
+    "link": "https://item.cjonstyle.com/item/2082785891?channelCode=30002002",
+    "slot_id": "31106",
+    "title": "다시보는 CJ 1등 견과&두유 오하루 자연가득💛",
+    "pgm": "라이브쇼",
+    "pgm_cd": "1008",
+    "category": "식품·건강"
+   },
+   {
     "start": "12:00",
     "end": "12:59",
     "brand": "휴롬",
@@ -12296,6 +12386,32 @@
     "pgm": "라이브쇼",
     "pgm_cd": "0217",
     "category": "가전"
+   },
+   {
+    "start": "12:00",
+    "end": "13:00",
+    "brand": "다니엘트루스",
+    "product": "오일퍼퓸 10mL 5종 세트 [바디미스트 트루스 퍼플 선물]",
+    "price": 208260,
+    "link": "https://item.cjonstyle.com/item/2051932494?channelCode=30002002",
+    "slot_id": "31107",
+    "title": "다시보는 겟잇뷰티💖GLOW UP with [다니엘트루스] 앵콜 방송🌸",
+    "pgm": "겟잇뷰티",
+    "pgm_cd": "1012",
+    "category": "뷰티"
+   },
+   {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "화이트코어",
+    "product": "화이트코어 리포좀 글루타치온 글로우샷 1800 84개입(6박스)",
+    "price": 168150,
+    "link": "https://item.cjonstyle.com/item/2087555215?channelCode=30002002",
+    "slot_id": "31108",
+    "title": "다시보는 [잘사는언니들] 셀럽의 비결, 화이트코어💙",
+    "pgm": "잘사는 언니들",
+    "pgm_cd": "1028",
+    "category": "식품·건강"
    },
    {
     "start": "12:30",
@@ -12347,6 +12463,19 @@
     "pgm": "유부림의 라이브쇼",
     "pgm_cd": "1089",
     "category": "가구·침구"
+   },
+   {
+    "start": "14:00",
+    "end": "14:59",
+    "brand": "JMW",
+    "product": "블로우셋 트위스트 에어 스타일러 드라이기(5종노즐,거치대 포함)",
+    "price": 169150,
+    "link": "https://item.cjonstyle.com/item/2091060252?channelCode=30002002",
+    "slot_id": "31252",
+    "title": "다시보는 [JMW] 블로우셋 트위스트 에어 스타일러 드라이기(5종노즐)",
+    "pgm": "라이브쇼",
+    "pgm_cd": "1016",
+    "category": "가전"
    },
    {
     "start": "15:00",
@@ -12506,14 +12635,15 @@
    {
     "start": "21:00",
     "end": "21:59",
-    "brand": "",
-    "product": "브티x소핀 4개월만에 돌아온 소핀세탁조클리너🫧",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/30991",
+    "brand": "도맥스",
+    "product": "[다다살림 공구]독일 소핀 세탁조 클리너 300ml 5+5개+(증)멀티타올1박스(10P)",
+    "price": 98000,
+    "link": "https://item.cjonstyle.com/item/2073331181?channelCode=30002002",
     "slot_id": "30991",
     "title": "브티x소핀 4개월만에 돌아온 소핀세탁조클리너🫧",
     "pgm": "브티나는 생활",
-    "pgm_cd": "0101"
+    "pgm_cd": "0101",
+    "category": "주방·잡화"
    },
    {
     "start": "21:00",
@@ -12592,6 +12722,19 @@
     "pgm": "푸드온다",
     "pgm_cd": "1018",
     "category": "식품·건강"
+   },
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "케어베어",
+    "product": "포근포근폼폼솜사탕퍼점퍼",
+    "price": 75900,
+    "link": "https://item.cjonstyle.com/item/2092628191?channelCode=30002002",
+    "slot_id": "31132",
+    "title": "[다겨미네] 케어베어 유아동 의류, 공구 핫딜 오픈!",
+    "pgm": "다겨미네",
+    "pgm_cd": "1099",
+    "category": "여성패션"
    },
    {
     "start": "15:00",
@@ -12772,6 +12915,19 @@
     "title": "[맘만하니] 프롬베베",
     "pgm": "맘만하니",
     "pgm_cd": "1100"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "바니스뉴욕",
+    "product": "25FW 리사 레오퍼드 가디건",
+    "price": 69000,
+    "link": "https://item.cjonstyle.com/item/2070472542?channelCode=30002002",
+    "slot_id": "31001",
+    "title": "엣지쇼 💙 바니스뉴욕 최대 70% 할인 클리어런스",
+    "pgm": "엣지쇼",
+    "pgm_cd": "0223",
+    "category": "여성패션"
    }
   ]
  }
