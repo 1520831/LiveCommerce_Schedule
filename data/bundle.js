@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-28T07:01:47+09:00",
+ "generated_at": "2026-10-28T08:00:13+09:00",
  "today": "2026-10-28",
  "dates": [
   "2026-10-27",
@@ -474,7 +474,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 막스마라 월 1만원대 득템 찬스",
      "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "07:00",
@@ -493,7 +493,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[스노야] 패션컬러테라피❤️ 인기 상품 특별가",
-     "pgm": "[재방] 스노야 (패션3Lab)"
+     "pgm": "[재방] 스노야 (패션3Lab)",
+     "hot": 4
     },
     {
      "start": "08:00",
@@ -22736,8 +22737,8 @@ window.SCHEDULE = {
    "2026-10-27",
    "2026-10-28"
   ],
-  "matched": 4,
-  "unmatched": 16
+  "matched": 5,
+  "unmatched": 15
  },
  "fixed": {
   "rows": [
