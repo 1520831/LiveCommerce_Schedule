@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-27T12:02:32+09:00",
+ "generated_at": "2026-10-27T18:00:10+09:00",
  "today": "2026-10-27",
  "dates": [
   "2026-10-26",
@@ -7100,7 +7100,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -7159,8 +7159,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈",
-     "hot": 7
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -7426,8 +7425,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 3
+     "category": "푸드"
     },
     {
      "start": "10:00",
@@ -7482,7 +7480,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 10
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -7982,8 +7980,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프",
-     "hot": 5
+     "category": "라이프"
     },
     {
      "start": "10:00",
@@ -8298,7 +8295,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -8417,8 +8415,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티",
-     "hot": 6
+     "category": "뷰티"
     },
     {
      "start": "10:00",
@@ -8803,7 +8800,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 6
     },
     {
      "start": "10:20",
@@ -8983,8 +8980,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 9
+     "category": "푸드"
     },
     {
      "start": "10:30",
@@ -9326,7 +9322,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -23232,8 +23228,8 @@ window.SCHEDULE = {
    "2026-10-26",
    "2026-10-27"
   ],
-  "matched": 12,
-  "unmatched": 7
+  "matched": 8,
+  "unmatched": 11
  },
  "fixed": {
   "rows": [
