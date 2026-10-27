@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-10",
- "updated_at": "2026-10-27T18:01:28+09:00",
+ "updated_at": "2026-10-27T23:31:02+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -9574,14 +9574,14 @@
     "end": "18:59",
     "brand": "골드무드",
     "product": "24K 순금 럭키 통통 클로버 펜던트",
-    "price": 120000,
+    "price": 159000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251715971",
     "slot_id": "202610276012",
     "items": [
      {
       "brand": "골드무드",
       "product": "24K 순금 럭키 통통 클로버 펜던트",
-      "price": 120000,
+      "price": 159000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251715971"
      }
     ],
@@ -9593,14 +9593,14 @@
     "end": "19:59",
     "brand": "바오바오",
     "product": "[국내배송/한정수량]바오바오 루센트 베이직 토트백 AG053 (베이지/화이트/블랙/실버)",
-    "price": 645000,
+    "price": 649000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256790753",
     "slot_id": "202610276013",
     "items": [
      {
       "brand": "바오바오",
       "product": "[국내배송/한정수량]바오바오 루센트 베이직 토트백 AG053 (베이지/화이트/블랙/실버)",
-      "price": 645000,
+      "price": 649000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256790753"
      }
     ],
@@ -9720,6 +9720,25 @@
     ],
     "title": "26FW 신상 원영픽! 방송 중 최대 20% 쿠폰",
     "pgm": "[타미진] 의류 (멀티커머스)"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "르무통",
+    "product": "[시크릿가] 르무통 메이트 발 편한 메리노울 운동화",
+    "price": 106900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2210550064",
+    "slot_id": "202610276025",
+    "items": [
+     {
+      "brand": "르무통",
+      "product": "[시크릿가] 르무통 메이트 발 편한 메리노울 운동화",
+      "price": 106900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2210550064"
+     }
+    ],
+    "title": "르무통 106,900원 + 무료 교환/반품 + 사은품",
+    "pgm": "[재방] [르무통] 제화 (패션잡화)"
    },
    {
     "start": "23:00",
