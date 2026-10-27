@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-27T18:02:51+09:00",
+ "generated_at": "2026-10-27T19:00:11+09:00",
  "today": "2026-10-27",
  "dates": [
   "2026-10-26",
@@ -7489,7 +7489,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -8804,7 +8804,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "12:00",
@@ -10041,7 +10041,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 10
+     "hot": 1
     },
     {
      "start": "18:00",
