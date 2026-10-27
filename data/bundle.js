@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-28T08:20:12+09:00",
+ "generated_at": "2026-10-28T08:40:12+09:00",
  "today": "2026-10-28",
  "dates": [
   "2026-10-27",
@@ -473,8 +473,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 막스마라 월 1만원대 득템 찬스",
-     "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 9
+     "pgm": "[재방] 투명쇼 (패션잡화)"
     },
     {
      "start": "07:00",
@@ -6451,7 +6450,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "08:00",
@@ -6566,7 +6565,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "08:30",
@@ -21723,7 +21722,8 @@ window.SCHEDULE = {
      "slot_id": "61091",
      "pgm": "티타드 구취 제거 치약&",
      "title": "저자극 새치 물염색 LIVE",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 8
     },
     {
      "start": "09:00",
