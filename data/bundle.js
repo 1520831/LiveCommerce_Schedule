@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-28T08:00:13+09:00",
+ "generated_at": "2026-10-28T08:20:12+09:00",
  "today": "2026-10-28",
  "dates": [
   "2026-10-27",
@@ -474,7 +474,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 막스마라 월 1만원대 득템 찬스",
      "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "07:00",
@@ -494,7 +494,7 @@ window.SCHEDULE = {
      ],
      "title": "[스노야] 패션컬러테라피❤️ 인기 상품 특별가",
      "pgm": "[재방] 스노야 (패션3Lab)",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "08:00",
@@ -2511,7 +2511,8 @@ window.SCHEDULE = {
      "title": "다시보는 라코스테 공식 FW의류 세일🤍",
      "pgm": "라이브쇼",
      "pgm_cd": "1013",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 7
     },
     {
      "start": "08:00",
@@ -6449,7 +6450,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 2
     },
     {
      "start": "08:00",
@@ -6563,7 +6565,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 8
     },
     {
      "start": "08:30",
@@ -22737,8 +22740,8 @@ window.SCHEDULE = {
    "2026-10-27",
    "2026-10-28"
   ],
-  "matched": 5,
-  "unmatched": 15
+  "matched": 8,
+  "unmatched": 12
  },
  "fixed": {
   "rows": [
