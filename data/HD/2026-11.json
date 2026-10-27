@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-11",
- "updated_at": "2026-10-27T23:31:02+09:00",
+ "updated_at": "2026-10-28T07:00:43+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -175,6 +175,160 @@
     ],
     "title": "[SOUP] 가을 감성을 담은 26FW 74%▼",
     "pgm": "현대렐라쇼 (멀티커머스)"
+   }
+  ],
+  "2026-11-02": [
+   {
+    "start": "08:00",
+    "end": "08:59",
+    "brand": "비지트인뉴욕",
+    "product": "반더블 테일러드 자켓 (VCAJK07) VCAJK07",
+    "price": 259000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255349941",
+    "slot_id": "202611026001",
+    "items": [
+     {
+      "brand": "비지트인뉴욕",
+      "product": "반더블 테일러드 자켓 (VCAJK07) VCAJK07",
+      "price": 259000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255349941"
+     }
+    ],
+    "title": "[비지트인뉴욕] 세련된 포근한 의류 득템찬스✨",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "주크",
+    "product": "폭스퍼 디테처블 벨티드 구스 패딩 Z264PSG186 Z264PSG186",
+    "price": 829000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256879577",
+    "slot_id": "202611026002",
+    "items": [
+     {
+      "brand": "주크",
+      "product": "폭스퍼 디테처블 벨티드 구스 패딩 Z264PSG186 Z264PSG186",
+      "price": 829000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256879577"
+     }
+    ],
+    "title": "쥬크✨ 26FW 시그니처 상품 특별가 + 23% 쿠폰",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "지센",
+    "product": "(3컬러) 구스 다운 밴드넥 자켓 여성 경량 패딩 LCLWOA22",
+    "price": 159900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256324210",
+    "slot_id": "202611026005",
+    "items": [
+     {
+      "brand": "지센",
+      "product": "(3컬러) 구스 다운 밴드넥 자켓 여성 경량 패딩 LCLWOA22",
+      "price": 159900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256324210"
+     }
+    ],
+    "title": "[지센] 배윤경 PICK! 26FW NEW & BEST",
+    "pgm": "[지센] 여성의류 (패션1Lab)"
+   },
+   {
+    "start": "13:00",
+    "end": "13:59",
+    "brand": "에어룸",
+    "product": "26FW 알러셀 호텔컬렉션 고밀도 알러지케어 기능성 침구풀세트 SS",
+    "price": 119900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256763396",
+    "slot_id": "202611026006",
+    "items": [
+     {
+      "brand": "에어룸",
+      "product": "26FW 알러셀 호텔컬렉션 고밀도 알러지케어 기능성 침구풀세트 SS",
+      "price": 119900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256763396"
+     }
+    ],
+    "title": "[알러셀] 기능성 호텔침구 특별가 + 블랭킷 사은품",
+    "pgm": "[알러셀] 침구 (리빙)"
+   },
+   {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "볼드리니 셀레리아",
+    "product": "비밀상점[볼드리니] 6850 Sofia 핸드백",
+    "price": 550000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2233130317",
+    "slot_id": "202611026010",
+    "items": [
+     {
+      "brand": "볼드리니 셀레리아",
+      "product": "비밀상점[볼드리니] 6850 Sofia 핸드백",
+      "price": 550000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2233130317"
+     }
+    ],
+    "title": "[글로벌쇼라] 유럽 현지 LIVE",
+    "pgm": "[이탈리아 현지방송] 바자르 아틀리에 사블롱 핸드백 (쇼핑라이브)"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "스노우피크",
+    "product": "에어클라우드 10D 씬클라우드 자켓 Ice Gray (S26WMTPJ70) S26WMT-PJ70 IG",
+    "price": 259000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255590006",
+    "slot_id": "202611026011",
+    "items": [
+     {
+      "brand": "스노우피크",
+      "product": "에어클라우드 10D 씬클라우드 자켓 Ice Gray (S26WMTPJ70) S26WMT-PJ70 IG",
+      "price": 259000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255590006"
+     }
+    ],
+    "title": "[스노우피크] 26F/W 신상 아우터 최저가 도전!",
+    "pgm": "[스노우피크] 아웃도어 (멀티커머스)"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "아시아골드",
+    "product": "골드바 3.75g 자유의 여신상",
+    "price": 906000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250419210",
+    "slot_id": "202611026012",
+    "items": [
+     {
+      "brand": "아시아골드",
+      "product": "골드바 3.75g 자유의 여신상",
+      "price": 906000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250419210"
+     }
+    ],
+    "title": "[아시아골드] 골드바 쇼라 혜택가!",
+    "pgm": "[아시아골드] 금 (패션잡화)"
+   },
+   {
+    "start": "20:00",
+    "end": "21:59",
+    "brand": "버버리",
+    "product": "나일론 후드 푸퍼 다운 패딩(81216471)",
+    "price": 2199000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252244039",
+    "slot_id": "202611026013",
+    "items": [
+     {
+      "brand": "버버리",
+      "product": "나일론 후드 푸퍼 다운 패딩(81216471)",
+      "price": 2199000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252244039"
+     }
+    ],
+    "title": "[현명쇼] 버버리 신상 패딩 45만▼",
+    "pgm": "현명쇼(노블레스)"
    }
   ]
  }

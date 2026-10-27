@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-11",
- "updated_at": "2026-10-27T23:31:15+09:00",
+ "updated_at": "2026-10-28T07:00:56+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -100,6 +100,177 @@
     "pgm": "프리미엄 동결건조 과일칩",
     "title": "이치비야x요거모야 특가 판매",
     "category": "키즈"
+   }
+  ],
+  "2026-11-02": [
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "락앤락 리틀럽",
+    "product": "핑크퐁 베베핀 이유식용기 3P세트",
+    "price": 40000,
+    "link": "https://gift.kakao.com/product/14477292?url=product&cId=14477292",
+    "slot_id": "61244",
+    "pgm": "락앤락X베베핀과 함께",
+    "title": "매일의 올바른 식습관 만들기",
+    "category": "리빙"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "비타그램",
+    "product": "\"차박 필수\" 비타그램 USB 그래핀 탄소 극세사 담요 발열 캠핑 블랭킷",
+    "price": 37900,
+    "link": "https://gift.kakao.com/product/10508661?url=product&cId=10508661",
+    "slot_id": "61445",
+    "pgm": "추위 대비 필수템! 그래핀",
+    "title": "담요 특별 혜택 LIVE",
+    "category": "테크"
+   },
+   {
+    "start": "11:30",
+    "end": "14:30",
+    "brand": "마리떼 키즈",
+    "product": "KIDS X SNOOPY HOODED FLEECE JACKET (2color)",
+    "price": 139000,
+    "link": "https://gift.kakao.com/product/14439771?url=product&cId=14439771",
+    "slot_id": "61106",
+    "pgm": "스누피X마리떼 키즈",
+    "title": "카쇼라 단독 선발매",
+    "category": "키즈"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "신선하랑",
+    "product": "해남 산지직송 베니하루카 꿀밤고구마 특품 3kg 5kg 10kg",
+    "price": 10900,
+    "link": "https://store.kakao.com/ssharang/products/347215145",
+    "slot_id": "61242",
+    "pgm": "해남 산지직송 꿀밤고구마",
+    "title": "3kg 추가 증정 이벤트",
+    "category": "식품"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "명태잡는날",
+    "product": "쫄깃쫄깃 담백한 반건조오징어 10미 700g 내외 등 5미, 10미 초장&버터 사은품 100% 구성",
+    "price": 24900,
+    "link": "https://store.kakao.com/myeontae/products/175453732",
+    "slot_id": "61363",
+    "pgm": "쫄깃 담백한 반건조 오징어",
+    "title": "신선함과 탱글함까지~!",
+    "category": "식품"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "에스트라",
+    "product": "[크림쟁이기] 아토베리어365 크림 80ml 4개 세트(옵션-크림2+로션2개 / 크림2+수딩2개)",
+    "price": 132000,
+    "link": "https://store.kakao.com/aestura1/products/292820470",
+    "slot_id": "61531",
+    "pgm": "에스트라 속수분 충전템!",
+    "title": "구매금액별 추가 사은품",
+    "category": "뷰티",
+    "rerun": true,
+    "rerun_of": "59732"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "올가니카",
+    "product": "",
+    "price": 0,
+    "link": "https://shoppinglive.kakao.com/live/61547",
+    "slot_id": "61547",
+    "pgm": "올가니카클렌즈 스프+주스연합",
+    "category": "식품"
+   },
+   {
+    "start": "18:00",
+    "end": "19:30",
+    "brand": "신일전자 온라인스토어",
+    "product": "[최신형] 신일 3.8L 수조분리 대용량 유리 물멍 가열식 가습기 신생아 아기 가습기",
+    "price": 289000,
+    "link": "https://store.kakao.com/shinilonline/products/640654146",
+    "slot_id": "61355",
+    "pgm": "신일 겨울가전 특가전",
+    "title": "라이브중 특별 혜택까지",
+    "category": "테크"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "한끼통살 스토어",
+    "product": "[한끼통살] 한끼통살 단백질 빵빵 30팩",
+    "price": 91100,
+    "link": "https://store.kakao.com/hankkitongsal/products/70651815",
+    "slot_id": "60987",
+    "pgm": "한끼통살 닭가슴살~63%",
+    "title": "카카오 톡딜위크",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "동원공식샵",
+    "product": "딤섬/개성만두 4봉+2봉 골라담기 (새우하가우,부추창펀,샤오롱바오,부채교,완탕,왕교자,고기/김치만두 등)",
+    "price": 43900,
+    "link": "https://store.kakao.com/dongwonfnb/products/211056872",
+    "slot_id": "61202",
+    "pgm": "동원 딤섬 개성만두 특가",
+    "title": "라이브 선착순 구매 경품증정",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "주디앤",
+    "product": "'미피와 포근한 하루' 주디앤+미피 반팔 잠옷 파자마 썸머 컬렉션 10종 택1",
+    "price": 33900,
+    "link": "https://gift.kakao.com/product/13829967?url=product&cId=13829967",
+    "slot_id": "61074",
+    "pgm": "주디앤+미피with최예나",
+    "title": "매일 입고 싶은 파자마",
+    "category": "패션"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "동국제약",
+    "product": "[동국제약] 더 마데카크림 45ml*6개+추가30ml+10ml+아이크림.온가족크림.모녀크림.테카성분.병풀크림",
+    "price": 198000,
+    "link": "https://store.kakao.com/dkpharm/products/155556164",
+    "slot_id": "61286",
+    "pgm": "동국제약 톡딜위크 특가",
+    "title": "더마데카크림 외 80%할인",
+    "category": "뷰티"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "JSOOP 제이숲",
+    "product": "가을맞이 온가족 헤어/바디 안심/맞춤케어 /1+1/구매전원 사은품 증정/라이브 혜택",
+    "price": 63800,
+    "link": "https://store.kakao.com/jsoop/products/332051106",
+    "slot_id": "61453",
+    "pgm": "제이숲X톡딜 1+1 가을특가",
+    "title": "온가족 맞춤 헤어/바디케어",
+    "category": "뷰티"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "필립스생활가전코리아",
+    "product": "필립스 에어스트레치 진공 흡착 스팀다리미 8000시리즈 화이트 STH8020/10",
+    "price": 259000,
+    "link": "https://store.kakao.com/philipsda/products/796794529",
+    "slot_id": "61535",
+    "pgm": "필립스 흡착 다리미 런칭",
+    "title": "라이브 특가&단독 구성 혜택",
+    "category": "테크"
    }
   ]
  }
