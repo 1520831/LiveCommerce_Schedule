@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-11",
- "updated_at": "2026-10-27T12:01:23+09:00",
+ "updated_at": "2026-10-27T18:01:44+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -63,6 +63,42 @@
     "slot_id": "61335",
     "pgm": "베르블랑 브랜드데이 라이브",
     "title": "세트 구매시 주방세제 증정!",
+    "category": "키즈"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "부이",
+    "product": "부이 붕어빵 손난로 핫팩 보조배터리 충전식 휴대용 양면발열 겨울선물 캠핑용 출퇴근용",
+    "price": 27900,
+    "link": "https://store.kakao.com/booie/products/795202523",
+    "slot_id": "61505",
+    "pgm": "BOOIE 따끈따끈",
+    "title": "붕어빵 손난로 ~",
+    "category": "테크"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "클렌하임",
+    "product": "클렌하임 바디탭 라인 마사지기",
+    "price": 74900,
+    "link": "https://store.kakao.com/klenheim/products/735764139",
+    "slot_id": "61516",
+    "pgm": "클렌하임 바디탭 마사지기",
+    "title": "화제의 그 제품 정품 !",
+    "category": "테크"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "동결건조 과일칩 이치비야",
+    "product": "프리미엄 동결건조 과일칩 이치비야 / 요거모야 동결건조 요거트,치즈 큐브,유기농 쌀스틱",
+    "price": 3900,
+    "link": "https://store.kakao.com/ichibiya/products/807412074",
+    "slot_id": "61517",
+    "pgm": "프리미엄 동결건조 과일칩",
+    "title": "이치비야x요거모야 특가 판매",
     "category": "키즈"
    }
   ]

@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-11",
- "updated_at": "2026-10-27T12:01:09+09:00",
+ "updated_at": "2026-10-27T18:01:28+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -27,17 +27,17 @@
    {
     "start": "13:00",
     "end": "13:59",
-    "brand": "쿠지리스",
-    "product": "[화이트페퍼모음] 말라바 화이트 페퍼 40g + 후추 그라인더(색상-아이보리) + 리필 90g",
-    "price": 54000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251179768",
+    "brand": "서대문 평양옥",
+    "product": "[서대문평양옥] 토종닭으로 만든 토종닭곰탕 600g×8팩(총 4.8kg)",
+    "price": 79200,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254007334",
     "slot_id": "202611016015",
     "items": [
      {
-      "brand": "쿠지리스",
-      "product": "[화이트페퍼모음] 말라바 화이트 페퍼 40g + 후추 그라인더(색상-아이보리) + 리필 90g",
-      "price": 54000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251179768"
+      "brand": "서대문 평양옥",
+      "product": "[서대문평양옥] 토종닭으로 만든 토종닭곰탕 600g×8팩(총 4.8kg)",
+      "price": 79200,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254007334"
      }
     ],
     "title": "[서대문평양옥] 토종닭 닭곰탕 20% 쿠폰",
@@ -123,14 +123,14 @@
     "start": "20:00",
     "end": "20:59",
     "brand": "무아스",
-    "product": "파워핏 핸디 휴대용 진공 흡착 스팀다리미",
+    "product": "무아스 파워핏 핸디 휴대용 진공 흡착 스팀다리미",
     "price": 129900,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251599317",
     "slot_id": "202611016006",
     "items": [
      {
       "brand": "무아스",
-      "product": "파워핏 핸디 휴대용 진공 흡착 스팀다리미",
+      "product": "무아스 파워핏 핸디 휴대용 진공 흡착 스팀다리미",
       "price": 129900,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251599317"
      }
@@ -143,14 +143,14 @@
     "end": "22:59",
     "brand": "쥬베라",
     "product": "트리플 진동클렌저 전동세안기",
-    "price": 169000,
+    "price": 189000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253524765",
     "slot_id": "202611016008",
     "items": [
      {
       "brand": "쥬베라",
       "product": "트리플 진동클렌저 전동세안기",
-      "price": 169000,
+      "price": 189000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253524765"
      }
     ],
