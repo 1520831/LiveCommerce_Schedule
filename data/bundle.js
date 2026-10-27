@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-27T20:00:11+09:00",
+ "generated_at": "2026-10-27T21:00:12+09:00",
  "today": "2026-10-27",
  "dates": [
   "2026-10-26",
@@ -718,7 +718,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[SK렌터카] 월간 라이브_10월호",
-     "pgm": "[SK렌터카] 렌터카 (렌탈)"
+     "pgm": "[SK렌터카] 렌터카 (렌탈)",
+     "hot": 3
     },
     {
      "start": "20:00",
@@ -7489,7 +7490,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -10040,8 +10041,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈",
-     "hot": 2
+     "category": "키즈"
     },
     {
      "start": "18:00",
@@ -10393,8 +10393,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "19:00",
@@ -10857,7 +10856,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "19:00",
@@ -10909,7 +10908,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "19:00",
@@ -11721,7 +11720,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 5
     },
     {
      "start": "20:00",
