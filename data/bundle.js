@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-28T12:40:15+09:00",
+ "generated_at": "2026-10-28T13:00:38+09:00",
  "today": "2026-10-28",
  "dates": [
   "2026-10-27",
@@ -6935,7 +6935,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -7160,7 +7160,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -7536,7 +7536,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -9951,7 +9951,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 3
     },
     {
      "start": "12:00",
