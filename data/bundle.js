@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-28T09:00:15+09:00",
+ "generated_at": "2026-10-28T09:20:11+09:00",
  "today": "2026-10-28",
  "dates": [
   "2026-10-27",
@@ -492,8 +492,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[스노야] 패션컬러테라피❤️ 인기 상품 특별가",
-     "pgm": "[재방] 스노야 (패션3Lab)",
-     "hot": 9
+     "pgm": "[재방] 스노야 (패션3Lab)"
     },
     {
      "start": "08:00",
@@ -2511,7 +2510,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "1013",
      "category": "여성패션",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "08:00",
@@ -2563,7 +2562,8 @@ window.SCHEDULE = {
      "title": "💕지스튜디오 릴레이라이브",
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -6450,7 +6450,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 1
+     "hot": 3
     },
     {
      "start": "08:00",
