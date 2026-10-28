@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-28T10:00:12+09:00",
+ "generated_at": "2026-10-28T10:20:11+09:00",
  "today": "2026-10-28",
  "dates": [
   "2026-10-27",
@@ -530,8 +530,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[쿠론] 설윤 추천 핸드백 최대 60% 쇼라 특별가🩷",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 7
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "10:00",
@@ -2563,7 +2562,7 @@ window.SCHEDULE = {
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
      "category": "여성패션",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -6449,8 +6448,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 6
+     "category": "테크"
     },
     {
      "start": "08:00",
@@ -6772,7 +6770,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -6951,7 +6950,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -6995,7 +6995,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -7159,7 +7160,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -7330,7 +7332,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -7361,7 +7364,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -7980,7 +7984,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -21722,7 +21727,7 @@ window.SCHEDULE = {
      "pgm": "티타드 구취 제거 치약&",
      "title": "저자극 새치 물염색 LIVE",
      "category": "뷰티",
-     "hot": 2
+     "hot": 10
     },
     {
      "start": "09:00",
@@ -22739,8 +22744,8 @@ window.SCHEDULE = {
    "2026-10-27",
    "2026-10-28"
   ],
-  "matched": 7,
-  "unmatched": 13
+  "matched": 12,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
