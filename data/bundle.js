@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-28T21:00:10+09:00",
+ "generated_at": "2026-10-28T22:00:11+09:00",
  "today": "2026-10-28",
  "dates": [
   "2026-10-27",
@@ -11009,7 +11009,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 10
     },
     {
      "start": "20:00",
@@ -27228,8 +27229,8 @@ window.SCHEDULE = {
    "2026-10-27",
    "2026-10-28"
   ],
-  "matched": 9,
-  "unmatched": 11
+  "matched": 10,
+  "unmatched": 10
  },
  "fixed": {
   "rows": [
