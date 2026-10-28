@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-28T08:40:12+09:00",
+ "generated_at": "2026-10-28T09:00:15+09:00",
  "today": "2026-10-28",
  "dates": [
   "2026-10-27",
@@ -493,7 +493,7 @@ window.SCHEDULE = {
      ],
      "title": "[스노야] 패션컬러테라피❤️ 인기 상품 특별가",
      "pgm": "[재방] 스노야 (패션3Lab)",
-     "hot": 5
+     "hot": 9
     },
     {
      "start": "08:00",
@@ -6564,8 +6564,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "08:30",
@@ -21723,7 +21722,7 @@ window.SCHEDULE = {
      "pgm": "티타드 구취 제거 치약&",
      "title": "저자극 새치 물염색 LIVE",
      "category": "뷰티",
-     "hot": 8
+     "hot": 2
     },
     {
      "start": "09:00",
@@ -22740,8 +22739,8 @@ window.SCHEDULE = {
    "2026-10-27",
    "2026-10-28"
   ],
-  "matched": 8,
-  "unmatched": 12
+  "matched": 7,
+  "unmatched": 13
  },
  "fixed": {
   "rows": [
