@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-29T08:20:19+09:00",
+ "generated_at": "2026-10-29T08:40:15+09:00",
  "today": "2026-10-29",
  "dates": [
   "2026-10-28",
@@ -378,7 +378,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 막스마라 월 1만원대 60개월 무이자",
      "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 5
+     "hot": 9
     },
     {
      "start": "07:00",
@@ -2465,7 +2465,8 @@ window.SCHEDULE = {
      "pgm": "잇솔지",
      "pgm_cd": "1109",
      "category": "여성패션",
-     "cast": "influencer"
+     "cast": "influencer",
+     "hot": 10
     },
     {
      "start": "09:00",
@@ -6733,7 +6734,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 5
     },
     {
      "start": "08:00",
@@ -22886,7 +22888,8 @@ window.SCHEDULE = {
      "slot_id": "61314",
      "pgm": "이클립스외 최대 50%할인!",
      "title": "인기 간식 라이브 특가!",
-     "category": "식품"
+     "category": "식품",
+     "hot": 4
     },
     {
      "start": "09:00",
@@ -24026,8 +24029,8 @@ window.SCHEDULE = {
    "2026-10-28",
    "2026-10-29"
   ],
-  "matched": 5,
-  "unmatched": 15
+  "matched": 8,
+  "unmatched": 12
  },
  "fixed": {
   "rows": [
