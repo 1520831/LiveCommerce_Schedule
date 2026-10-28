@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-11",
- "updated_at": "2026-10-28T12:03:28+09:00",
+ "updated_at": "2026-10-28T18:01:27+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -55,6 +55,34 @@
     "pgm": "그루의 비밀 옷장",
     "pgm_cd": "1140",
     "category": "스포츠·아웃도어"
+   }
+  ],
+  "2026-11-02": [
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "CJ이엔엠",
+    "product": "뷰티패스 - 최대 22,900원 뷰티 혜택(~11/8)",
+    "price": 1900,
+    "link": "https://item.cjonstyle.com/item/2095347053?channelCode=30002002",
+    "slot_id": "31202",
+    "title": "[아모레뷰티페스타] 설화수 자음생크림 올해 마지막 LIVE💫",
+    "pgm": "라이브쇼",
+    "pgm_cd": "0146",
+    "category": "서비스·렌탈"
+   },
+   {
+    "start": "21:45",
+    "end": "22:44",
+    "brand": "라문",
+    "product": "아물레또 Original [RAMUN amuleto] AMGO 솔리드 불투명 (5가지 컬러 중 택1)",
+    "price": 439000,
+    "link": "https://item.cjonstyle.com/item/2076858138?channelCode=30002002",
+    "slot_id": "31204",
+    "title": "굿라이프x라문 눈이 편한 조명 역대급 가격혜택! 월 2만원대~",
+    "pgm": "굿라이프",
+    "pgm_cd": "1015",
+    "category": "가구·침구"
    }
   ]
  }

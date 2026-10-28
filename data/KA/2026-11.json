@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-11",
- "updated_at": "2026-10-28T12:03:48+09:00",
+ "updated_at": "2026-10-28T18:01:33+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -58,12 +58,38 @@
     "end": "20:30",
     "brand": "베르블랑",
     "product": "베르블랑 아기 세제/섬유유연제/캡슐세제/건조기시트 1+1 외 모음전",
-    "price": 64900,
+    "price": 152000,
     "link": "https://store.kakao.com/vertblanc/products/247015450",
     "slot_id": "61335",
     "pgm": "베르블랑 브랜드데이 라이브",
     "title": "세트 구매시 주방세제 증정!",
     "category": "키즈"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "smartinfini",
+    "product": "[LIVE] 쏠비치 삼척 올인클루시브3인PKG (조식+오션플레이 무제한특전) ~12월30일 투숙까지",
+    "price": 906500,
+    "link": "https://store.kakao.com/smartinfini01/products/801224583",
+    "slot_id": "61569",
+    "pgm": "무제한 특전! 쏠비치 삼척",
+    "title": "3/4인 올인클루시브",
+    "category": "여행",
+    "rerun": true,
+    "rerun_of": "60218"
+   },
+   {
+    "start": "20:00",
+    "end": "21:30",
+    "brand": "만수동떡볶이만떡",
+    "product": "떡볶이 7가지맛 내맘대로 300g 무료배송 밀키트 만수동떡볶이 만떡",
+    "price": 6000,
+    "link": "https://store.kakao.com/mantteok/products/678920045",
+    "slot_id": "61527",
+    "pgm": "2700원 떡볶이 무료배송",
+    "title": "6+1 11+2 빅찬스",
+    "category": "식품"
    },
    {
     "start": "20:30",
@@ -103,6 +129,18 @@
    }
   ],
   "2026-11-02": [
+   {
+    "start": "08:30",
+    "end": "10:00",
+    "brand": "나무팩토리",
+    "product": "출근길 꿀템! 즉각 볼륨 리터치 온도조절 무선 빗고데기 헤어스타일러 뿌리볼륨/S컬/C컬/곱슬/뻗침머리",
+    "price": 35900,
+    "link": "https://gift.kakao.com/product/11834160?url=product&cId=11834160",
+    "slot_id": "61594",
+    "pgm": "나무팩토리 헤어스타일러",
+    "title": "스타일링부터 속눈썹 컬링까지",
+    "category": "뷰티"
+   },
    {
     "start": "10:00",
     "end": "11:30",
@@ -178,6 +216,18 @@
     "rerun_of": "59732"
    },
    {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "올가니카",
+    "product": "[올가니카] 100% 클렌즈 착즙 주스 ABC 190ml 7병 외 골라담기 (*유기농 레몬수 증정)",
+    "price": 29500,
+    "link": "https://store.kakao.com/organica/products/285933529",
+    "slot_id": "61547",
+    "pgm": "올가니카 클렌즈 주스",
+    "title": "& 토마토 스프 최대 혜택!",
+    "category": "식품"
+   },
+   {
     "start": "18:00",
     "end": "19:30",
     "brand": "신일전자 온라인스토어",
@@ -199,6 +249,18 @@
     "slot_id": "60987",
     "pgm": "한끼통살 닭가슴살~63%",
     "title": "카카오 톡딜위크",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "종근당건강",
+    "product": "ALL NEW 락토핏 골드(140포) 1통 + 골드 30포 추가증정",
+    "price": 44700,
+    "link": "https://store.kakao.com/ckdhc/products/40094955",
+    "slot_id": "61201",
+    "pgm": "종근당건강 X 톡딜위크",
+    "title": "최대 7%+7% 중복할인",
     "category": "식품"
    },
    {
@@ -260,6 +322,18 @@
     "pgm": "필립스 흡착 다리미 런칭",
     "title": "라이브 특가&단독 구성 혜택",
     "category": "테크"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "이너시아",
+    "product": "[이너시아] 베스트 특가 생리대 모음전",
+    "price": 39200,
+    "link": "https://store.kakao.com/inertia/products/277658428",
+    "slot_id": "61566",
+    "pgm": "톡딜위크 이너시아생리대 특가",
+    "title": "드브르베 앞치마 단독 증정",
+    "category": "리빙"
    }
   ]
  }

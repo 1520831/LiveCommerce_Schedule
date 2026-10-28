@@ -2,9 +2,28 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-11",
- "updated_at": "2026-10-28T12:02:21+09:00",
+ "updated_at": "2026-10-28T18:01:18+09:00",
  "days": {
   "2026-11-01": [
+   {
+    "start": "00:00",
+    "end": "00:59",
+    "brand": "헨리베글린",
+    "product": "볼라 크로스바디 램올드아이언",
+    "price": 980000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252694018",
+    "slot_id": "202611016012",
+    "items": [
+     {
+      "brand": "헨리베글린",
+      "product": "볼라 크로스바디 램올드아이언",
+      "price": 980000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252694018"
+     }
+    ],
+    "title": "[헨리베글린] 26FW 최신상&베스트 라인 쇼라 단독",
+    "pgm": "[재방] 헨리베글린 잡화 (멀티커머스)"
+   },
    {
     "start": "10:00",
     "end": "10:59",
@@ -48,14 +67,14 @@
     "end": "14:59",
     "brand": "마이클코어스코리아",
     "product": "마릴린 미디움 로고 캔버스 사첼 35F5G6AS2B200",
-    "price": 176000,
+    "price": 158400,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252249066",
     "slot_id": "202611016020",
     "items": [
      {
       "brand": "마이클코어스코리아",
       "product": "마릴린 미디움 로고 캔버스 사첼 35F5G6AS2B200",
-      "price": 176000,
+      "price": 158400,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252249066"
      }
     ],
@@ -120,6 +139,25 @@
     "pgm": "[재방] 한민금거래소 (패션잡화)"
    },
    {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "머티리얼랩",
+    "product": "26FW 라이트 시어쉘 패커블 패딩",
+    "price": 129000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252836261",
+    "slot_id": "202611016005",
+    "items": [
+     {
+      "brand": "머티리얼랩",
+      "product": "26FW 라이트 시어쉘 패커블 패딩",
+      "price": 129000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252836261"
+     }
+    ],
+    "title": "머티리얼랩 26 WINTER 최초 공개",
+    "pgm": "현대쇼룸 (패션)"
+   },
+   {
     "start": "20:00",
     "end": "20:59",
     "brand": "무아스",
@@ -179,25 +217,6 @@
   ],
   "2026-11-02": [
    {
-    "start": "08:00",
-    "end": "08:59",
-    "brand": "비지트인뉴욕",
-    "product": "반더블 테일러드 자켓 (VCAJK07) VCAJK07",
-    "price": 259000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255349941",
-    "slot_id": "202611026001",
-    "items": [
-     {
-      "brand": "비지트인뉴욕",
-      "product": "반더블 테일러드 자켓 (VCAJK07) VCAJK07",
-      "price": 259000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255349941"
-     }
-    ],
-    "title": "[비지트인뉴욕] 세련된 포근한 의류 득템찬스✨",
-    "pgm": "백화점 프리오픈쇼(멀티커머스)"
-   },
-   {
     "start": "09:00",
     "end": "09:59",
     "brand": "주크",
@@ -215,6 +234,25 @@
     ],
     "title": "쥬크✨ 26FW 시그니처 상품 특별가 + 23% 쿠폰",
     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "에클랏",
+    "product": "18K 보티첼리(Botticelli) 브레이슬릿",
+    "price": 799000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252750429",
+    "slot_id": "202611026004",
+    "items": [
+     {
+      "brand": "에클랏",
+      "product": "18K 보티첼리(Botticelli) 브레이슬릿",
+      "price": 799000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252750429"
+     }
+    ],
+    "title": "[노블리타] 이탈리아 18K 주얼리 전 상품 최저가도전",
+    "pgm": "노블리타 (노블레스)"
    },
    {
     "start": "12:00",
@@ -297,14 +335,14 @@
     "end": "19:59",
     "brand": "아시아골드",
     "product": "골드바 3.75g 자유의 여신상",
-    "price": 906000,
+    "price": 924000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250419210",
     "slot_id": "202611026012",
     "items": [
      {
       "brand": "아시아골드",
       "product": "골드바 3.75g 자유의 여신상",
-      "price": 906000,
+      "price": 924000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250419210"
      }
     ],
@@ -329,6 +367,44 @@
     ],
     "title": "[현명쇼] 버버리 신상 패딩 45만▼",
     "pgm": "현명쇼(노블레스)"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "소다",
+    "product": "여성  신상 5CM 펌프스 구두 (ERS627 KS10) ERS627KS10",
+    "price": 149000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252042387",
+    "slot_id": "202611026014",
+    "items": [
+     {
+      "brand": "소다",
+      "product": "여성  신상 5CM 펌프스 구두 (ERS627 KS10) ERS627KS10",
+      "price": 149000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252042387"
+     }
+    ],
+    "title": "[소다] FW 슈즈 쇼라 특별가 최대 68%▼",
+    "pgm": "[소다] 슈즈 (멀티커머스)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "플라스틱아일랜드",
+    "product": "핸드메이드 벨티드 하이넥 롱 코트 PS4TC170 PS4TC170",
+    "price": 321300,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256770003",
+    "slot_id": "202611026015",
+    "items": [
+     {
+      "brand": "플라스틱아일랜드",
+      "product": "핸드메이드 벨티드 하이넥 롱 코트 PS4TC170 PS4TC170",
+      "price": 321300,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256770003"
+     }
+    ],
+    "title": "[플라스틱아일랜드] 트렌드를 담은 겨울 신상❤️",
+    "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ]
  }

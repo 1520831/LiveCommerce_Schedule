@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-10",
- "updated_at": "2026-10-28T12:03:48+09:00",
+ "updated_at": "2026-10-28T18:01:33+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -6350,7 +6350,7 @@
     "start": "17:00",
     "end": "18:00",
     "brand": "라이프엣지",
-    "product": "마이엣지 등펴난2.0 의자등받이쿠션 편안한 자세를 위한 직장인 필수품",
+    "product": "마이엣지 등펴난2.0 '써보면 공구'하게되는 직장인 필수품 의자등받이쿠션",
     "price": 65000,
     "link": "https://store.kakao.com/lifeedge/products/743484150",
     "slot_id": "61391",
@@ -6554,7 +6554,7 @@
    },
    {
     "start": "11:00",
-    "end": "12:30",
+    "end": "12:00",
     "brand": "(주)상상그램",
     "product": "[귀뚜라미] 27년형 THE 프리미엄 신형 블루투스 카본 탄소매트",
     "price": 468000,
@@ -6566,7 +6566,7 @@
    },
    {
     "start": "11:30",
-    "end": "13:00",
+    "end": "12:30",
     "brand": "젤리스푼",
     "product": "[젤리스푼] 가을 신상 인기 아동복 특가 + 미리보는 겨울템 - 상하복/맨투맨/원피스/팬츠 외",
     "price": 79900,
@@ -6577,23 +6577,11 @@
     "category": "키즈"
    },
    {
-    "start": "12:03",
-    "end": "13:33",
-    "brand": "예본제이모피",
-    "product": "예본모피 휘메일 풀스킨 머플러",
-    "price": 100000,
-    "link": "https://store.kakao.com/yebonjayfur/products/803946679",
-    "slot_id": "61558",
-    "pgm": "밍크 40년 자체공장 직영",
-    "title": "예본모피 라이브 ∙ 리아",
-    "category": "패션"
-   },
-   {
     "start": "17:00",
     "end": "18:30",
     "brand": "순수식품",
     "product": "순수식품 칼슘 마그네슘 비타민D 아연 망간 2박스(6개월분) 해조칼슘 외 종합비타민/비타민C/콘드로이친/밀크씨슬",
-    "price": 19900,
+    "price": 40000,
     "link": "https://store.kakao.com/soonsoofood/products/58538953",
     "slot_id": "61107",
     "pgm": "순수식품 칼슘 마그네슘",
@@ -6610,6 +6598,18 @@
     "slot_id": "61219",
     "pgm": "하테 프리미엄 남원추어탕",
     "title": "역대급 혜택 라이브!",
+    "category": "식품"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "낭만부부",
+    "product": "낭만부부 치즈몽땅 떡볶이 밀키트 500g*2봉",
+    "price": 19000,
+    "link": "https://store.kakao.com/nangmanbooboo/products/524858405",
+    "slot_id": "61585",
+    "pgm": "낭만부부 치즈몽땅",
+    "title": "10월 마지막! 대표가 쏜다",
     "category": "식품"
    },
    {
@@ -6711,11 +6711,23 @@
     "category": "식품"
    },
    {
+    "start": "09:00",
+    "end": "10:30",
+    "brand": "신일전자 온라인스토어",
+    "product": "신일 전기히터 2IN1 카본 탄소발열 히터 온풍기",
+    "price": 198000,
+    "link": "https://store.kakao.com/shinilonline/products/632210789",
+    "slot_id": "61601",
+    "pgm": "신일 전기 히터 난로 가습기",
+    "title": "포근한 겨울나기 라이브할인",
+    "category": "테크"
+   },
+   {
     "start": "10:00",
     "end": "11:30",
     "brand": "메디올",
     "product": "메디올 2.0 두피청정샴푸 텐저린 향 출시! 한정 특가 + 사은품증정",
-    "price": 66600,
+    "price": 101700,
     "link": "https://store.kakao.com/mediall/products/73534991",
     "slot_id": "60623",
     "pgm": "메디올 샴푸 탠저린향 출시",
@@ -6756,6 +6768,18 @@
     "slot_id": "61557",
     "pgm": "한일의료기 27년형 탄소매트",
     "title": "전자파 차단",
+    "category": "테크"
+   },
+   {
+    "start": "11:00",
+    "end": "12:30",
+    "brand": "(주)상상그램",
+    "product": "[귀뚜라미] 27년형 THE 프리미엄 신형 블루투스 카본 탄소매트",
+    "price": 468000,
+    "link": "https://store.kakao.com/sangsangstore/products/118837559",
+    "slot_id": "61600",
+    "pgm": "2026년 귀뚜라미",
+    "title": "겨울을 위한 카본매트",
     "category": "테크"
    },
    {
@@ -6839,7 +6863,7 @@
     "link": "https://store.kakao.com/soonsoofood/products/72841439",
     "slot_id": "61215",
     "pgm": "순수식품 홍삼정 100포",
-    "title": "+10포 증정 톡딜~46%",
+    "title": "+레몬 생강즙 증정~46%",
     "category": "식품"
    },
    {
@@ -7004,7 +7028,7 @@
     "start": "10:00",
     "end": "11:30",
     "brand": "파스텔 야돔",
-    "product": "파스텔 야돔 포켓 인헤일러 오리지널/투명/과일 세트 모음",
+    "product": "파스텔 야돔 커피향 5개입 1세트 외 오리지널/투명/과일 세트 모음",
     "price": 15900,
     "link": "https://store.kakao.com/pastelyadom/products/406702467",
     "slot_id": "61268",
@@ -7028,7 +7052,7 @@
     "start": "17:00",
     "end": "18:30",
     "brand": "월간제철",
-    "product": "하동 악양 대봉감 5kg,10kg 대과 외 특과 왕특 홍시 곶감 감말랭이",
+    "product": "[11월 첫수확] 임금님 수라상 명품 하동 악양 대봉감 5kg 10kg 대과 특과 왕특 홍시 곶감 감말랭이",
     "price": 29900,
     "link": "https://store.kakao.com/seasonfarm2018/products/631005213",
     "slot_id": "61227",
@@ -7207,18 +7231,6 @@
     "category": "뷰티"
    },
    {
-    "start": "17:00",
-    "end": "18:30",
-    "brand": "만수동떡볶이만떡",
-    "product": "떡볶이 7가지맛 내맘대로 300g 무료배송 밀키트 만수동떡볶이 만떡",
-    "price": 6000,
-    "link": "https://store.kakao.com/mantteok/products/678920045",
-    "slot_id": "61527",
-    "pgm": "2700원 떡볶이 무료배송",
-    "title": "6+1 11+2 빅찬스",
-    "category": "식품"
-   },
-   {
     "start": "19:00",
     "end": "20:30",
     "brand": "청년상점",
@@ -7245,18 +7257,6 @@
    {
     "start": "20:30",
     "end": "22:00",
-    "brand": "닥터웰핏 스토어",
-    "product": "[닥터웰핏] 먹기편한 콘드로이친, 콘드로이친젤리, 아티웰 콘드로이친 젤리스틱",
-    "price": 145000,
-    "link": "https://store.kakao.com/drwellfit/products/485339401",
-    "slot_id": "61331",
-    "pgm": "닥터웰핏 콘드로이친/프로틴미",
-    "title": "카쇼라 특가",
-    "category": "식품"
-   },
-   {
-    "start": "20:30",
-    "end": "22:00",
     "brand": "오하입",
     "product": "오하입 본딩 알파 케라틴 트리트먼트 헤어팩 260g (쇼핑백 증정)",
     "price": 24800,
@@ -7265,6 +7265,18 @@
     "pgm": "오하입 0초 끝결케어",
     "title": "헤어팩&에센스 골라담기!",
     "category": "뷰티"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "쁠랑뜨",
+    "product": "쁠랑뜨 스무디 210ml 8개입 4종 택1(혼합/퍼플/그린/옐로우/레드)",
+    "price": 69000,
+    "link": "https://store.kakao.com/plante/products/739384513",
+    "slot_id": "61591",
+    "pgm": "쁠랑뜨 스무디로 건강하게",
+    "title": "10월 마지막 라이브",
+    "category": "식품"
    }
   ]
  }
