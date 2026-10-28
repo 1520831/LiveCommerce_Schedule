@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-11",
- "updated_at": "2026-10-28T07:00:51+09:00",
+ "updated_at": "2026-10-28T12:03:28+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -46,14 +46,15 @@
    {
     "start": "19:00",
     "end": "19:59",
-    "brand": "",
-    "product": "올해 마지막 비밀 특가 ~71% OFF 사랑스러운 골프웨어 페어라이어",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/31004",
+    "brand": "페어라이어",
+    "product": "시어링 니트 소매 자켓 (베이지)",
+    "price": 537600,
+    "link": "https://item.cjonstyle.com/item/2071420857?channelCode=30002002",
     "slot_id": "31004",
     "title": "올해 마지막 비밀 특가 ~71% OFF 사랑스러운 골프웨어 페어라이어",
     "pgm": "그루의 비밀 옷장",
-    "pgm_cd": "1140"
+    "pgm_cd": "1140",
+    "category": "스포츠·아웃도어"
    }
   ]
  }

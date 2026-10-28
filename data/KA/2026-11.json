@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-11",
- "updated_at": "2026-10-28T07:00:56+09:00",
+ "updated_at": "2026-10-28T12:03:48+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -94,7 +94,7 @@
     "end": "22:00",
     "brand": "동결건조 과일칩 이치비야",
     "product": "프리미엄 동결건조 과일칩 이치비야 / 요거모야 동결건조 요거트,치즈 큐브,유기농 쌀스틱",
-    "price": 3900,
+    "price": 4000,
     "link": "https://store.kakao.com/ichibiya/products/807412074",
     "slot_id": "61517",
     "pgm": "프리미엄 동결건조 과일칩",
@@ -107,8 +107,8 @@
     "start": "10:00",
     "end": "11:30",
     "brand": "락앤락 리틀럽",
-    "product": "핑크퐁 베베핀 이유식용기 3P세트",
-    "price": 40000,
+    "product": "핑크퐁 베베핀 이유식용기 260ml 3P세트 1+1 총 6P (+실리콘 스푼 2P증정)",
+    "price": 57000,
     "link": "https://gift.kakao.com/product/14477292?url=product&cId=14477292",
     "slot_id": "61244",
     "pgm": "락앤락X베베핀과 함께",
@@ -176,17 +176,6 @@
     "category": "뷰티",
     "rerun": true,
     "rerun_of": "59732"
-   },
-   {
-    "start": "17:00",
-    "end": "18:30",
-    "brand": "올가니카",
-    "product": "",
-    "price": 0,
-    "link": "https://shoppinglive.kakao.com/live/61547",
-    "slot_id": "61547",
-    "pgm": "올가니카클렌즈 스프+주스연합",
-    "category": "식품"
    },
    {
     "start": "18:00",
