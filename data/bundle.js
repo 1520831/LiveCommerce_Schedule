@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-28T10:20:11+09:00",
+ "generated_at": "2026-10-28T10:40:11+09:00",
  "today": "2026-10-28",
  "dates": [
   "2026-10-27",
@@ -2562,7 +2562,7 @@ window.SCHEDULE = {
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
      "category": "여성패션",
-     "hot": 2
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -6771,7 +6771,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -6906,7 +6906,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -6996,7 +6997,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -7161,7 +7162,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -7333,7 +7334,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -21726,8 +21727,7 @@ window.SCHEDULE = {
      "slot_id": "61091",
      "pgm": "티타드 구취 제거 치약&",
      "title": "저자극 새치 물염색 LIVE",
-     "category": "뷰티",
-     "hot": 10
+     "category": "뷰티"
     },
     {
      "start": "09:00",
