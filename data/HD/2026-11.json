@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-11",
- "updated_at": "2026-10-28T23:30:59+09:00",
+ "updated_at": "2026-10-29T07:00:52+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -199,16 +199,16 @@
     "start": "23:00",
     "end": "23:59",
     "brand": "SOUP",
-    "product": "[숲] 배색 무스탕 점퍼 SCBMU30 SCBMU30",
-    "price": 279000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256489972",
+    "product": "[숲] 스트라이프 패턴 니트가디건 SCAGDC1 SCAGDC1",
+    "price": 69000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254121365",
     "slot_id": "202611016009",
     "items": [
      {
       "brand": "SOUP",
-      "product": "[숲] 배색 무스탕 점퍼 SCBMU30 SCBMU30",
-      "price": 279000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256489972"
+      "product": "[숲] 스트라이프 패턴 니트가디건 SCAGDC1 SCAGDC1",
+      "price": 69000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254121365"
      }
     ],
     "title": "[SOUP] 가을 감성을 담은 26FW 74%▼",
@@ -404,6 +404,179 @@
      }
     ],
     "title": "[플라스틱아일랜드] 트렌드를 담은 겨울 신상❤️",
+    "pgm": "현대렐라쇼 (멀티커머스)"
+   }
+  ],
+  "2026-11-03": [
+   {
+    "start": "08:00",
+    "end": "08:59",
+    "brand": "써스데이아일랜드",
+    "product": "(T268MJP233W) 스팽글 벨벳 퀼팅 T268MJP233",
+    "price": 341100,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255775536",
+    "slot_id": "202611036002",
+    "items": [
+     {
+      "brand": "써스데이아일랜드",
+      "product": "(T268MJP233W) 스팽글 벨벳 퀼팅 T268MJP233",
+      "price": 341100,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255775536"
+     }
+    ],
+    "title": "써스데이아일랜드 감성 가득한 원피스룩",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "메트로시티",
+    "product": "백팩 스몰 M253MT4901Z",
+    "price": 186400,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239046985",
+    "slot_id": "202611036003",
+    "items": [
+     {
+      "brand": "메트로시티",
+      "product": "백팩 스몰 M253MT4901Z",
+      "price": 186400,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239046985"
+     }
+    ],
+    "title": "[메트로시티] 최대 70% 쇼라 특별가❤️",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "소중한습관",
+    "product": "체험팩_소중한 산양유 퓨어 100(190mlx3개) + 소중한 바나나맛 믹스 4.0+(4gx3포)",
+    "price": 9900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256445159",
+    "slot_id": "202611036005",
+    "items": [
+     {
+      "brand": "소중한습관",
+      "product": "체험팩_소중한 산양유 퓨어 100(190mlx3개) + 소중한 바나나맛 믹스 4.0+(4gx3포)",
+      "price": 9900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256445159"
+     }
+    ],
+    "title": "소중한 산양유 퓨어 100, Hmall 첫 단독 라이브",
+    "pgm": "육아일기"
+   },
+   {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "파르페by알레르망",
+    "product": "더웜 에센셜 알러지케어 워셔블 탄소매트 S/SS",
+    "price": 189900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253706597",
+    "slot_id": "202611036006",
+    "items": [
+     {
+      "brand": "파르페by알레르망",
+      "product": "더웜 에센셜 알러지케어 워셔블 탄소매트 S/SS",
+      "price": 189900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253706597"
+     }
+    ],
+    "title": "[파르페by알레르망] 알러지케어 탄소매트 최초 공개🔥",
+    "pgm": "[파르페by알레르망] 침구 (리빙)"
+   },
+   {
+    "start": "13:00",
+    "end": "13:59",
+    "brand": "아날도바시니",
+    "product": "에코레더 퀼팅 패딩점퍼",
+    "price": 299000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255223569",
+    "slot_id": "202611036007",
+    "items": [
+     {
+      "brand": "아날도바시니",
+      "product": "에코레더 퀼팅 패딩점퍼",
+      "price": 299000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255223569"
+     }
+    ],
+    "title": "[르오트/꼼빠니아 外] 여성 FW TOP 브랜드연합전",
+    "pgm": "[르오트] 의류 (패션1Lab)"
+   },
+   {
+    "start": "16:00",
+    "end": "16:59",
+    "brand": "힐스 사이언스다이어트",
+    "product": "힐스 강아지사료 어덜트 11+ 스몰 앤 미니 2kg",
+    "price": 50000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239425833",
+    "slot_id": "202611036010",
+    "items": [
+     {
+      "brand": "힐스 사이언스다이어트",
+      "product": "힐스 강아지사료 어덜트 11+ 스몰 앤 미니 2kg",
+      "price": 50000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239425833"
+     }
+    ],
+    "title": "[미국펫푸드협회] 퓨리나/힐스 최대 특별가!",
+    "pgm": "[미국사료협회] 사료 (액티브라이프)"
+   },
+   {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "듀엘",
+    "product": "[라이브무료반품][듀엘] 프릴 배색 울 가디건 D264KSL116",
+    "price": 159000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256786390",
+    "slot_id": "202611036011",
+    "items": [
+     {
+      "brand": "듀엘",
+      "product": "[라이브무료반품][듀엘] 프릴 배색 울 가디건 D264KSL116",
+      "price": 159000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256786390"
+     }
+    ],
+    "title": "[듀엘] 본사 공식 특별전 최대 45%▼",
+    "pgm": "[듀엘] 여성의류 (패션1Lab)"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "다우닝가구",
+    "product": "[다우닝] 클로 3인 전체 천연가죽 소파",
+    "price": 2000000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2240411570",
+    "slot_id": "202611036013",
+    "items": [
+     {
+      "brand": "다우닝가구",
+      "product": "[다우닝] 클로 3인 전체 천연가죽 소파",
+      "price": 2000000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2240411570"
+     }
+    ],
+    "title": "[다우닝] 창립 46주년 기념! 더원&클로 소파 혜택",
+    "pgm": "[다우닝] 소파 (리빙)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "코데즈컴바인",
+    "product": "레자패치 장식 반집업 팬츠 셋업 CLC-XX501W8 CLC-XX501W8",
+    "price": 89000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253087696",
+    "slot_id": "202611036017",
+    "items": [
+     {
+      "brand": "코데즈컴바인",
+      "product": "레자패치 장식 반집업 팬츠 셋업 CLC-XX501W8 CLC-XX501W8",
+      "price": 89000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253087696"
+     }
+    ],
+    "title": "[코데즈컴바인] 가을/겨울 필수💥 셋업/팬츠/니트 外",
     "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ]

@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-11",
- "updated_at": "2026-10-28T23:31:07+09:00",
+ "updated_at": "2026-10-29T07:01:00+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -83,6 +83,46 @@
     "pgm": "굿라이프",
     "pgm_cd": "1015",
     "category": "가구·침구"
+   }
+  ],
+  "2026-11-03": [
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "동아사이언스",
+    "product": "격주간  어린이과학동아 1년 정기구독 24권 구독",
+    "price": 285600,
+    "link": "https://item.cjonstyle.com/item/2013224025?channelCode=30002002",
+    "slot_id": "31206",
+    "title": "겨울방학대비💗어린이과학동아 정기구독 32%할인! 아인슈타인키트 최초공개",
+    "pgm": "인플루언서LIVE",
+    "pgm_cd": "1052",
+    "category": "유아동"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "더엣지",
+    "product": "26FW 시어링카라 패딩 점퍼",
+    "price": 89910,
+    "link": "https://item.cjonstyle.com/item/2094744497?channelCode=30002002",
+    "slot_id": "31208",
+    "title": "엣지쇼💙겨울 아우터 방송중 혜택",
+    "pgm": "엣지쇼",
+    "pgm_cd": "0223",
+    "category": "여성패션"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "",
+    "product": "[은세로운발견] 명품 아우터 모음전✨피레넥스X봄부기 국내 최저가 보장🔥",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/31210",
+    "slot_id": "31210",
+    "title": "[은세로운발견] 명품 아우터 모음전✨피레넥스X봄부기 국내 최저가 보장🔥",
+    "pgm": "은세로운 발견",
+    "pgm_cd": "1075"
    }
   ]
  }

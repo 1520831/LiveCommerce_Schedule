@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-10",
- "updated_at": "2026-10-28T23:31:11+09:00",
+ "updated_at": "2026-10-29T07:01:04+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -6493,18 +6493,6 @@
     "category": "뷰티"
    },
    {
-    "start": "09:00",
-    "end": "10:00",
-    "brand": "신일전자 온라인스토어",
-    "product": "신일 전기히터 2IN1 카본 탄소발열 히터 온풍기",
-    "price": 198000,
-    "link": "https://store.kakao.com/shinilonline/products/632210789",
-    "slot_id": "61441",
-    "pgm": "신일 전기 히터 난로 가습기",
-    "title": "포근한 겨울나기 라이브할인",
-    "category": "테크"
-   },
-   {
     "start": "10:00",
     "end": "11:02",
     "brand": "우고래빗",
@@ -6539,30 +6527,6 @@
     "pgm": "대단한갈비탕4팩+당면4개",
     "title": "2세트구매시마다 사골곰탕2개",
     "category": "식품"
-   },
-   {
-    "start": "10:46",
-    "end": "11:30",
-    "brand": "터치그라운드 스니커즈",
-    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-    "price": 49000,
-    "link": "https://store.kakao.com/touchground/products/774098244",
-    "slot_id": "61463",
-    "pgm": "터치그라운드 쿠셔닝슬리퍼",
-    "title": "이렇게 편해도 되나요?",
-    "category": "패션"
-   },
-   {
-    "start": "11:00",
-    "end": "12:00",
-    "brand": "(주)상상그램",
-    "product": "[귀뚜라미] 27년형 THE 프리미엄 신형 블루투스 카본 탄소매트",
-    "price": 468000,
-    "link": "https://store.kakao.com/sangsangstore/products/118837559",
-    "slot_id": "61440",
-    "pgm": "2026년 귀뚜라미",
-    "title": "겨울을 위한 카본매트",
-    "category": "테크"
    },
    {
     "start": "11:30",
@@ -6838,8 +6802,8 @@
     "price": 23900,
     "link": "https://store.kakao.com/amanteshop/products/662708692",
     "slot_id": "61245",
-    "pgm": "아망떼 물티슈",
-    "title": "라이브 한정 혜택!",
+    "pgm": "인기 롤링 카트 단독 런칭!",
+    "title": "생필품 라이브 한정 혜택!",
     "category": "리빙"
    },
    {
