@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-28T09:40:09+09:00",
+ "generated_at": "2026-10-28T10:00:12+09:00",
  "today": "2026-10-28",
  "dates": [
   "2026-10-27",
@@ -530,7 +530,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[쿠론] 설윤 추천 핸드백 최대 60% 쇼라 특별가🩷",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -6449,7 +6450,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "08:00",
@@ -22738,8 +22739,8 @@ window.SCHEDULE = {
    "2026-10-27",
    "2026-10-28"
   ],
-  "matched": 6,
-  "unmatched": 14
+  "matched": 7,
+  "unmatched": 13
  },
  "fixed": {
   "rows": [
