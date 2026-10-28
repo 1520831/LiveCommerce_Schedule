@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-28T20:00:12+09:00",
+ "generated_at": "2026-10-28T21:00:10+09:00",
  "today": "2026-10-28",
  "dates": [
   "2026-10-27",
@@ -2712,8 +2712,7 @@ window.SCHEDULE = {
      "title": "💕지스튜디오 릴레이라이브",
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
-     "category": "여성패션",
-     "hot": 10
+     "category": "여성패션"
     },
     {
      "start": "10:00",
@@ -7269,7 +7268,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "패션",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -8072,7 +8071,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "12:00",
@@ -9315,7 +9314,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "18:00",
@@ -9901,7 +9900,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "19:00",
@@ -10981,7 +10980,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 2
     },
     {
      "start": "20:00",
@@ -11196,7 +11196,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 5
     },
     {
      "start": "20:00",
@@ -27227,8 +27228,8 @@ window.SCHEDULE = {
    "2026-10-27",
    "2026-10-28"
   ],
-  "matched": 8,
-  "unmatched": 12
+  "matched": 9,
+  "unmatched": 11
  },
  "fixed": {
   "rows": [
