@@ -2,7 +2,7 @@
  "company": "NV",
  "channel": "shoppinglive",
  "month": "2026-11",
- "updated_at": "2026-10-28T18:02:33+09:00",
+ "updated_at": "2026-10-28T23:32:03+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -2995,7 +2995,7 @@
     "start": "09:55",
     "end": "",
     "brand": "갤럭시",
-    "product": "[LIVE 한정190만]삼성 공식 갤럭시 Z폴드8 256GB 자급제 SM-F971N",
+    "product": "[넾다세일]삼성 공식 갤럭시 Z폴드8 256GB 자급제 SM-F971N",
     "price": 2253340,
     "link": "https://shoppinglive.naver.com/livebridge/2062993",
     "slot_id": "2062993",
@@ -4032,6 +4032,21 @@
    {
     "start": "10:30",
     "end": "",
+    "brand": "바이레프",
+    "product": "[놀로스토어] (10봉) 바이레프 허니콤츄 담기",
+    "price": 108000,
+    "link": "https://shoppinglive.naver.com/livebridge/2047133",
+    "slot_id": "2047133",
+    "pgm": "놀로스토어 LIVE",
+    "title": "놀로스토어 LIVE",
+    "items": [
+     {}
+    ],
+    "category": "라이프"
+   },
+   {
+    "start": "10:30",
+    "end": "",
     "brand": "바이탈플랜트",
     "product": "바이탈플랜트 롤팬 플러스+ 자동회전냄비",
     "price": 164000,
@@ -4548,25 +4563,6 @@
      {}
     ],
     "category": "푸드"
-   },
-   {
-    "start": "11:00",
-    "end": "",
-    "brand": "스크럽대디",
-    "product": "스크럽 베이비&디쉬대디 세트 (스크럽 베이비 걸 3P+ 베이비 보이 3P+디쉬대디 클리닝 스틱(실버)+브러쉬 리필 + 수세미 2P 리필(핑크))",
-    "price": 55660,
-    "link": "https://shoppinglive.naver.com/livebridge/2065147",
-    "slot_id": "2065147",
-    "pgm": "[~55%] 스크럽 대디 네이버 브랜드 세일 단독 특가",
-    "title": "브랜드데이 기념 최대 특가",
-    "items": [
-     {},
-     {},
-     {},
-     {},
-     {}
-    ],
-    "category": "라이프"
    },
    {
     "start": "11:00",
@@ -5127,7 +5123,7 @@
     "start": "12:00",
     "end": "",
     "brand": "갤럭시",
-    "product": "[LIVE 한정190만]삼성 공식 갤럭시 Z폴드8 256GB 자급제 SM-F971N",
+    "product": "[넾다세일]삼성 공식 갤럭시 Z폴드8 256GB 자급제 SM-F971N",
     "price": 2253340,
     "link": "https://shoppinglive.naver.com/livebridge/2062994",
     "slot_id": "2062994",
