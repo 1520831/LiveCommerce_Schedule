@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-28T09:20:11+09:00",
+ "generated_at": "2026-10-28T09:40:09+09:00",
  "today": "2026-10-28",
  "dates": [
   "2026-10-27",
@@ -2509,8 +2509,7 @@ window.SCHEDULE = {
      "title": "다시보는 라코스테 공식 FW의류 세일🤍",
      "pgm": "라이브쇼",
      "pgm_cd": "1013",
-     "category": "여성패션",
-     "hot": 10
+     "category": "여성패션"
     },
     {
      "start": "08:00",
@@ -6450,7 +6449,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "08:00",
@@ -22739,8 +22738,8 @@ window.SCHEDULE = {
    "2026-10-27",
    "2026-10-28"
   ],
-  "matched": 7,
-  "unmatched": 13
+  "matched": 6,
+  "unmatched": 14
  },
  "fixed": {
   "rows": [
