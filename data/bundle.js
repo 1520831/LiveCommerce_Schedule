@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-28T19:00:09+09:00",
+ "generated_at": "2026-10-28T20:00:12+09:00",
  "today": "2026-10-28",
  "dates": [
   "2026-10-27",
@@ -2713,7 +2713,7 @@ window.SCHEDULE = {
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
      "category": "여성패션",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -7877,8 +7877,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "11:15",
@@ -8073,7 +8072,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "12:00",
@@ -9316,7 +9315,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "18:00",
@@ -9901,7 +9900,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 5
     },
     {
      "start": "19:00",
