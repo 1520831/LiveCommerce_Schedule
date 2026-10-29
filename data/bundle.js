@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-29T11:20:39+09:00",
+ "generated_at": "2026-10-29T11:40:14+09:00",
  "today": "2026-10-29",
  "dates": [
   "2026-10-28",
@@ -2489,7 +2489,7 @@ window.SCHEDULE = {
      "title": "맘만하니🧸로아앤제인 FW 인기템 모음🍂미소데이즈 공구",
      "pgm": "맘만하니",
      "pgm_cd": "1100",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -2555,7 +2555,7 @@ window.SCHEDULE = {
      "pgm_cd": "1099",
      "category": "여성패션",
      "cast": "influencer",
-     "hot": 9
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -7125,7 +7125,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -7458,7 +7458,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -8797,7 +8797,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 6
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -9058,7 +9058,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 10
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -22892,7 +22892,7 @@ window.SCHEDULE = {
      "pgm": "이클립스외 최대 50%할인!",
      "title": "인기 간식 라이브 특가!",
      "category": "식품",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "09:00",
