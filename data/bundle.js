@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-29T13:20:15+09:00",
+ "generated_at": "2026-10-29T13:40:12+09:00",
  "today": "2026-10-29",
  "dates": [
   "2026-10-28",
@@ -2707,7 +2707,7 @@ window.SCHEDULE = {
      "pgm_cd": "1099",
      "category": "여성패션",
      "cast": "influencer",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -9427,7 +9427,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -9652,7 +9652,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -10552,7 +10552,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "12:00",
@@ -10940,7 +10940,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 6
     },
     {
      "start": "14:00",
@@ -25273,8 +25274,7 @@ window.SCHEDULE = {
      "slot_id": "61314",
      "pgm": "이클립스외 최대 50%할인!",
      "title": "인기 간식 라이브 특가!",
-     "category": "식품",
-     "hot": 10
+     "category": "식품"
     },
     {
      "start": "09:00",
