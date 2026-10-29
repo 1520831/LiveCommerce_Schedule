@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-10",
- "updated_at": "2026-10-29T07:00:52+09:00",
+ "updated_at": "2026-10-29T12:01:44+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -10242,14 +10242,14 @@
     "start": "14:00",
     "end": "14:59",
     "brand": "MELVIRAE",
-    "product": "한국 감성 자개풍 메탈 아트컬렉션 675×480mm",
+    "product": "[MELVIRAE] 한국 자개풍 메탈 아트컬렉션 675×480mm",
     "price": 130000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255943608",
     "slot_id": "202610296008",
     "items": [
      {
       "brand": "MELVIRAE",
-      "product": "한국 감성 자개풍 메탈 아트컬렉션 675×480mm",
+      "product": "[MELVIRAE] 한국 자개풍 메탈 아트컬렉션 675×480mm",
       "price": 130000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255943608"
      }
@@ -10319,14 +10319,14 @@
     "end": "18:59",
     "brand": "해외직구",
     "product": "칸미 마루코 원 숄더백 B24-02",
-    "price": 403000,
+    "price": 349000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253704036",
     "slot_id": "202610296012",
     "items": [
      {
       "brand": "해외직구",
       "product": "칸미 마루코 원 숄더백 B24-02",
-      "price": 403000,
+      "price": 349000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253704036"
      }
     ],
@@ -10548,16 +10548,16 @@
     "start": "13:00",
     "end": "13:59",
     "brand": "루나앤슬립",
-    "product": "[벨리에르] 베르니K 구스 차렵이불 1장(퀸)",
-    "price": 59900,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256790261",
+    "product": "메이트K 고밀도 극세사 차렵이불(슈퍼싱글)",
+    "price": 39900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257037205",
     "slot_id": "202610306006",
     "items": [
      {
       "brand": "루나앤슬립",
-      "product": "[벨리에르] 베르니K 구스 차렵이불 1장(퀸)",
-      "price": 59900,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256790261"
+      "product": "메이트K 고밀도 극세사 차렵이불(슈퍼싱글)",
+      "price": 39900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257037205"
      }
     ],
     "title": "애끌리아 FW 침구 9,900원부터 특별가 찬스",
@@ -10661,17 +10661,17 @@
    {
     "start": "19:00",
     "end": "19:59",
-    "brand": "르메르",
-    "product": "르메르 BG0000 LL095 BK999 크루아상 라지 소프트 나파 숄더백",
-    "price": 2950000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256024778",
+    "brand": "셀린느",
+    "product": "셀린느 120722FQM 04LU 트리옹프 틴 룰루 토트백",
+    "price": 2890000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256025459",
     "slot_id": "202610306012",
     "items": [
      {
-      "brand": "르메르",
-      "product": "르메르 BG0000 LL095 BK999 크루아상 라지 소프트 나파 숄더백",
-      "price": 2950000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256024778"
+      "brand": "셀린느",
+      "product": "셀린느 120722FQM 04LU 트리옹프 틴 룰루 토트백",
+      "price": 2890000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256025459"
      }
     ],
     "title": "[르메르] 크로아상백 한정 수량",
@@ -10720,14 +10720,14 @@
     "end": "21:59",
     "brand": "한민금거래소",
     "product": "[LIVE.한민금거래소] 병오년 버건디 말 카드형 골드바 24K 순금 3.75g",
-    "price": 870900,
+    "price": 880000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251968130",
     "slot_id": "202610306014",
     "items": [
      {
       "brand": "한민금거래소",
       "product": "[LIVE.한민금거래소] 병오년 버건디 말 카드형 골드바 24K 순금 3.75g",
-      "price": 870900,
+      "price": 880000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251968130"
      }
     ],
@@ -10792,6 +10792,25 @@
     ],
     "title": "[투명쇼] 몽클레어 패딩가디건 월 2만원대 득템찬스",
     "pgm": "[재방] 투명쇼 (패션잡화)"
+   },
+   {
+    "start": "08:00",
+    "end": "08:59",
+    "brand": "버버리",
+    "product": "팸브룩 후드 크롭 퀼팅재킷 (8110329)",
+    "price": 2299000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2238796872",
+    "slot_id": "202610316020",
+    "items": [
+     {
+      "brand": "버버리",
+      "product": "팸브룩 후드 크롭 퀼팅재킷 (8110329)",
+      "price": 2299000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2238796872"
+     }
+    ],
+    "title": "[현명쇼] 버버리 퀼팅재킷 한정특가 50만▼",
+    "pgm": "[재방] 현명쇼 (노블레스팀)"
    },
    {
     "start": "09:00",
@@ -10887,6 +10906,25 @@
     ],
     "title": "[한민금거래소] 프리미엄 골드바 핫딜 구매 찬스",
     "pgm": "[재방] 한민금거래소 (패션잡화)"
+   },
+   {
+    "start": "16:00",
+    "end": "17:59",
+    "brand": "프라다",
+    "product": "리나일론 숄더 백팩(1BZ811)",
+    "price": 3549000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254591545",
+    "slot_id": "202610316023",
+    "items": [
+     {
+      "brand": "프라다",
+      "product": "리나일론 숄더 백팩(1BZ811)",
+      "price": 3549000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254591545"
+     }
+    ],
+    "title": "[현명쇼] 프라다 신상 백팩 무이자 60개월",
+    "pgm": "[재방] 현명쇼 (노블레스팀)"
    },
    {
     "start": "18:00",

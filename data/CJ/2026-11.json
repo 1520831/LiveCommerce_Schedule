@@ -2,20 +2,21 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-11",
- "updated_at": "2026-10-29T07:01:00+09:00",
+ "updated_at": "2026-10-29T12:01:52+09:00",
  "days": {
   "2026-11-01": [
    {
     "start": "14:00",
     "end": "14:59",
-    "brand": "",
-    "product": "다시보는 시몬스 앵콜전, 마지막 특가",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/31273",
+    "brand": "시몬스",
+    "product": "아를라. 뷰티레스트 바이브. 퀸 침대",
+    "price": 4428800,
+    "link": "https://item.cjonstyle.com/item/2012672536?channelCode=30002002",
     "slot_id": "31273",
     "title": "다시보는 시몬스 앵콜전, 마지막 특가",
     "pgm": "라이브쇼",
-    "pgm_cd": "0216"
+    "pgm_cd": "0216",
+    "category": "가구·침구"
    },
    {
     "start": "18:00",
@@ -59,6 +60,31 @@
   ],
   "2026-11-02": [
    {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "르포엠",
+    "product": "에셀 세미 와이드 팬츠",
+    "price": 12900,
+    "link": "https://item.cjonstyle.com/item/2076376377?channelCode=30002002",
+    "slot_id": "31030",
+    "title": "르포엠 겨울 세일💕 스커트 9,900원/니트 1만원대/아우터 2만원대",
+    "pgm": "브랜디드 라이브쇼",
+    "pgm_cd": "1130",
+    "category": "여성패션"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "",
+    "product": "내가 찾던 앵클부츠 NEW 최초 공개 기념 특가 SALE + 더블 적립",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/31201",
+    "slot_id": "31201",
+    "title": "내가 찾던 앵클부츠 NEW 최초 공개 기념 특가 SALE + 더블 적립",
+    "pgm": "엣지쇼",
+    "pgm_cd": "0223"
+   },
+   {
     "start": "19:00",
     "end": "19:59",
     "brand": "CJ이엔엠",
@@ -86,6 +112,18 @@
    }
   ],
   "2026-11-03": [
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "",
+    "product": "[맘만하니]이브필라테스X또니맘, 추워지는 날씨에 실내활동 필수! 핫딜🔥",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/31260",
+    "slot_id": "31260",
+    "title": "[맘만하니]이브필라테스X또니맘, 추워지는 날씨에 실내활동 필수! 핫딜🔥",
+    "pgm": "맘만하니",
+    "pgm_cd": "1100"
+   },
    {
     "start": "11:00",
     "end": "11:59",

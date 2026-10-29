@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-11",
- "updated_at": "2026-10-29T07:00:52+09:00",
+ "updated_at": "2026-10-29T12:01:44+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -23,6 +23,25 @@
     ],
     "title": "[헨리베글린] 26FW 최신상&베스트 라인 쇼라 단독",
     "pgm": "[재방] 헨리베글린 잡화 (멀티커머스)"
+   },
+   {
+    "start": "08:00",
+    "end": "09:59",
+    "brand": "막스마라",
+    "product": "토템 벨티드 울 캐시코트(2616011011600)",
+    "price": 1499000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2245630447",
+    "slot_id": "202611016014",
+    "items": [
+     {
+      "brand": "막스마라",
+      "product": "토템 벨티드 울 캐시코트(2616011011600)",
+      "price": 1499000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2245630447"
+     }
+    ],
+    "title": "[현명쇼] 막스마라 코트 마지막 가격! ★",
+    "pgm": "[재방] 현명쇼 (노블레스팀)"
    },
    {
     "start": "10:00",
@@ -139,6 +158,25 @@
     "pgm": "[재방] 한민금거래소 (패션잡화)"
    },
    {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "버버리",
+    "product": "클래식 체크 캐시미어 머플러(8076576)",
+    "price": 849000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248783529",
+    "slot_id": "202611016019",
+    "items": [
+     {
+      "brand": "버버리",
+      "product": "클래식 체크 캐시미어 머플러(8076576)",
+      "price": 849000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248783529"
+     }
+    ],
+    "title": "[명품특별전] 구찌 1등 스카프 ▶월 5천원대◀",
+    "pgm": "[재방] 명품특별전 (노블레스)"
+   },
+   {
     "start": "19:00",
     "end": "19:59",
     "brand": "머티리얼랩",
@@ -217,6 +255,44 @@
   ],
   "2026-11-02": [
    {
+    "start": "00:00",
+    "end": "00:59",
+    "brand": "소다",
+    "product": "여성  신상 5CM 펌프스 구두 (ERS627 KS10) ERS627KS10",
+    "price": 149000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252042387",
+    "slot_id": "202611026019",
+    "items": [
+     {
+      "brand": "소다",
+      "product": "여성  신상 5CM 펌프스 구두 (ERS627 KS10) ERS627KS10",
+      "price": 149000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252042387"
+     }
+    ],
+    "title": "[소다] 가을맞이 FW 슈즈 쇼라 특별가",
+    "pgm": "[재방] 소다 슈즈(멀티커머스)"
+   },
+   {
+    "start": "07:00",
+    "end": "07:59",
+    "brand": "루블리",
+    "product": "[루블리] GRA 인증 정품 모이사나이트 테니스팔찌 3mm+1캐럿 귀걸이",
+    "price": 198000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253245482",
+    "slot_id": "202611026020",
+    "items": [
+     {
+      "brand": "루블리",
+      "product": "[루블리] GRA 인증 정품 모이사나이트 테니스팔찌 3mm+1캐럿 귀걸이",
+      "price": 198000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253245482"
+     }
+    ],
+    "title": "[루블리주얼리] BEST 주얼리 최저가 도전",
+    "pgm": "[재방] 루블리 주얼리 (멀티커머스)"
+   },
+   {
     "start": "09:00",
     "end": "09:59",
     "brand": "주크",
@@ -291,6 +367,25 @@
     ],
     "title": "[알러셀] 기능성 호텔침구 특별가 + 블랭킷 사은품",
     "pgm": "[알러셀] 침구 (리빙)"
+   },
+   {
+    "start": "16:00",
+    "end": "16:59",
+    "brand": "스케쳐스",
+    "product": "스케쳐스 여성 울 블렌디드 리버시블 자켓 (SL3WJCFW)",
+    "price": 119400,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257032172",
+    "slot_id": "202611026009",
+    "items": [
+     {
+      "brand": "스케쳐스",
+      "product": "스케쳐스 여성 울 블렌디드 리버시블 자켓 (SL3WJCFW)",
+      "price": 119400,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257032172"
+     }
+    ],
+    "title": "[스케쳐스] 최대 40%▼ + 20% 적립",
+    "pgm": "[스케쳐스] 슈즈 (패션잡화)"
    },
    {
     "start": "17:00",
@@ -526,16 +621,16 @@
     "start": "17:00",
     "end": "17:59",
     "brand": "듀엘",
-    "product": "[라이브무료반품][듀엘] 프릴 배색 울 가디건 D264KSL116",
-    "price": 159000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256786390",
+    "product": "[라이브무료반품][듀엘] 시어링 페이크퍼 크롭 자켓 D264PSG144",
+    "price": 399000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256786151",
     "slot_id": "202611036011",
     "items": [
      {
       "brand": "듀엘",
-      "product": "[라이브무료반품][듀엘] 프릴 배색 울 가디건 D264KSL116",
-      "price": 159000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256786390"
+      "product": "[라이브무료반품][듀엘] 시어링 페이크퍼 크롭 자켓 D264PSG144",
+      "price": 399000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256786151"
      }
     ],
     "title": "[듀엘] 본사 공식 특별전 최대 45%▼",
@@ -559,6 +654,25 @@
     ],
     "title": "[다우닝] 창립 46주년 기념! 더원&클로 소파 혜택",
     "pgm": "[다우닝] 소파 (리빙)"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "삼성",
+    "product": "[쇼라] 삼성 Mini LED AI TV 85형 [KU85MH80AFXKR] (사은품 : 삼성 사운드바)",
+    "price": 4000000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250415506",
+    "slot_id": "202611036015",
+    "items": [
+     {
+      "brand": "삼성",
+      "product": "[쇼라] 삼성 Mini LED AI TV 85형 [KU85MH80AFXKR] (사은품 : 삼성 사운드바)",
+      "price": 4000000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250415506"
+     }
+    ],
+    "title": "[삼성] 4도어 김치냉장고 + AI콤보 + 로봇청소기",
+    "pgm": "[삼성] 삼성 특별전 (가전)"
    },
    {
     "start": "23:00",

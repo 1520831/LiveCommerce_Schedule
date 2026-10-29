@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-10",
- "updated_at": "2026-10-29T07:01:00+09:00",
+ "updated_at": "2026-10-29T12:01:52+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -12441,7 +12441,7 @@
     "end": "14:00",
     "brand": "자코모",
     "product": "루디아 3인 기능성 럭스 통가죽 천연면피 소가죽 소파+쿠션1개",
-    "price": 1960000,
+    "price": 1822800,
     "link": "https://item.cjonstyle.com/item/94740099?channelCode=30002002",
     "slot_id": "31110",
     "title": "다시보는 자코모소파페스타💖 올해 마지막 최대 혜택 찬스!",
@@ -12505,7 +12505,7 @@
     "end": "16:04",
     "brand": "르네디피",
     "product": "26FW 엑스트라 파인울 100 시어니트 1+1",
-    "price": 129900,
+    "price": 89910,
     "link": "https://item.cjonstyle.com/item/2092468422?channelCode=30002002",
     "slot_id": "31115",
     "title": "다시보는 애프터라이브❤️르네디피/까사렐 26FW 신상품 할인",
@@ -12530,8 +12530,8 @@
     "start": "16:00",
     "end": "16:59",
     "brand": "다우닝",
-    "product": "[라이브방송 구매시 상품권5만+클리너] 플랫 3.5인 스윙 전체 천연가죽 소파",
-    "price": 2604000,
+    "product": "플랫 3.5인 스윙 전체 천연가죽 소파",
+    "price": 2499840,
     "link": "https://item.cjonstyle.com/item/2009402856?channelCode=30002002",
     "slot_id": "31117",
     "title": "다시보는 다우닝X홈픽페스타💜BEST 플랫스윙/모션쿼드/더원 특가 찬스!",
@@ -12712,7 +12712,7 @@
     "start": "20:00",
     "end": "20:59",
     "brand": "도노도노",
-    "product": "[흡착식판&턱받이 1pcs 증.정] 도노맘마존 3in1 러닝타워 폴딩 원목 하이체어",
+    "product": "도노맘마존 3in1 러닝타워 폴딩 원목 하이체어",
     "price": 509000,
     "link": "https://item.cjonstyle.com/item/2089148640?channelCode=30002002",
     "slot_id": "31123",
@@ -12817,7 +12817,7 @@
     "end": "23:59",
     "brand": "호무로",
     "product": "알러젠PRO 모달 이불 풀세트_SS.",
-    "price": 189000,
+    "price": 268000,
     "link": "https://item.cjonstyle.com/item/2093644978?channelCode=30002002",
     "slot_id": "31129",
     "title": "다시보는 최화정쇼 난리난 호무로 알러젠 PRO 텐셀 모달침구 풀세트!",
@@ -12856,14 +12856,15 @@
    {
     "start": "10:00",
     "end": "10:59",
-    "brand": "",
-    "product": "맘만하니🧸로아앤제인 FW 인기템 모음🍂미소데이즈 공구",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/30993",
+    "brand": "로아앤제인",
+    "product": "(웰론)별구름 패딩",
+    "price": 106560,
+    "link": "https://item.cjonstyle.com/item/2088219636?channelCode=30002002",
     "slot_id": "30993",
     "title": "맘만하니🧸로아앤제인 FW 인기템 모음🍂미소데이즈 공구",
     "pgm": "맘만하니",
-    "pgm_cd": "1100"
+    "pgm_cd": "1100",
+    "category": "여성패션"
    },
    {
     "start": "10:00",
@@ -13308,6 +13309,19 @@
   ],
   "2026-10-30": [
    {
+    "start": "09:00",
+    "end": "10:00",
+    "brand": "칼라거펠트",
+    "product": "25FW 폭스 블렌드 스팽글 가디건",
+    "price": 109000,
+    "link": "https://item.cjonstyle.com/item/2065902412?channelCode=30002002",
+    "slot_id": "31235",
+    "title": "다시보는 FW브랜드 초특가 SALE 칼라거펠트&채컬렉티브&드베로타",
+    "pgm": "라이브쇼",
+    "pgm_cd": "0146",
+    "category": "여성패션"
+   },
+   {
     "start": "10:00",
     "end": "10:59",
     "brand": "무드온펫",
@@ -13331,6 +13345,19 @@
     "pgm": "똘똘한쇼",
     "pgm_cd": "1123",
     "category": "가구·침구"
+   },
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "도맥스",
+    "product": "[다다살림 공구]독일 소핀 세탁조 클리너 300ml 5+5개+(증)멀티타올1박스(10P)",
+    "price": 66500,
+    "link": "https://item.cjonstyle.com/item/2073331181?channelCode=30002002",
+    "slot_id": "31152",
+    "title": "다시보는 브티x소핀 4개월만에 돌아온 소핀세탁조클리너🫧특가 찬스",
+    "pgm": "브티나는 생활",
+    "pgm_cd": "0101",
+    "category": "주방·잡화"
    },
    {
     "start": "10:00",
@@ -13371,6 +13398,109 @@
     "category": "잡화·슈즈"
    },
    {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "K2",
+    "product": "[택가49.9만][여성]  씬에어 뉴바이브 구스다운_KWW24558",
+    "price": 142800,
+    "link": "https://item.cjonstyle.com/item/2087733595?channelCode=30002002",
+    "slot_id": "31154",
+    "title": "다시보는 한보름 PICK!❄️ K2 겨울패딩 백화점 물량 최대 할인✨",
+    "pgm": "겟잇스타일 프렌즈",
+    "pgm_cd": "1106",
+    "category": "스포츠·아웃도어"
+   },
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "블루래빗",
+    "product": "NEW 우리 아기 첫 토이북 풀세트",
+    "price": 369000,
+    "link": "https://item.cjonstyle.com/item/2009265725?channelCode=30002002",
+    "slot_id": "31155",
+    "title": "다시보는 [맘만하니] 블루래빗 토이북 풀세트 공구특가! 사은품까지 91종",
+    "pgm": "맘만하니",
+    "pgm_cd": "1100",
+    "category": "유아동"
+   },
+   {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "바비브라운",
+    "product": "BOBBI BROWN 웨이트리스 스킨 쿠션 2개 세트(+쇼핑백 2개)",
+    "price": 134300,
+    "link": "https://item.cjonstyle.com/item/2070556197?channelCode=30002002",
+    "slot_id": "31156",
+    "title": "다시보는 [은세로운발견] #기은세 최애 바비브라운 정품 최대 혜택가",
+    "pgm": "은세로운 발견",
+    "pgm_cd": "1075",
+    "category": "뷰티"
+   },
+   {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "미유박스(meowbox)",
+    "product": "[본사] 국내유일 천연 좁쌀 모래 4.5kg 100% 곡물모래",
+    "price": 19900,
+    "link": "https://item.cjonstyle.com/item/2095912103?channelCode=30002002",
+    "slot_id": "31157",
+    "title": "다시보는[미유박스X다묘한끼냥이] 냥이를 위한 모래, 오늘 바꿔 주라냥😺",
+    "pgm": "라이브쇼",
+    "pgm_cd": "0214"
+   },
+   {
+    "start": "13:00",
+    "end": "13:59",
+    "brand": "플루크",
+    "product": "[1+1]라이트 데이오프 오버핏 맨투맨 티셔츠 + 후드 티셔츠 FMT901/FHT901",
+    "price": 37800,
+    "link": "https://item.cjonstyle.com/item/2093852609?channelCode=30002002",
+    "slot_id": "31158",
+    "title": "다시보는 인기 캐쥬얼! 플루크 특가🤍CJ단독 최저가보장",
+    "pgm": "브랜디드 라이브쇼",
+    "pgm_cd": "1130",
+    "category": "여성패션"
+   },
+   {
+    "start": "13:00",
+    "end": "13:59",
+    "brand": "네리티아",
+    "product": "기미 선세럼 쿠션 5개 +  팩 2개",
+    "price": 158000,
+    "link": "https://item.cjonstyle.com/item/2093917081?channelCode=30002002",
+    "slot_id": "31272",
+    "title": "다시보는 네리티아 기미 선세럼 쿠션 론칭✨",
+    "pgm": "라이브쇼",
+    "pgm_cd": "0214",
+    "category": "뷰티"
+   },
+   {
+    "start": "16:00",
+    "end": "16:59",
+    "brand": "인디안",
+    "product": "[1+1]  풀패턴 라운드 니트/골프 심볼 포인트 롱터틀 니트",
+    "price": 35900,
+    "link": "https://item.cjonstyle.com/item/2096002607?channelCode=30002002",
+    "slot_id": "31159",
+    "title": "다시보는❄️남성 겨울 수트&헤비 아우터! 경량점퍼 31,000원?!",
+    "pgm": "브랜디드 라이브쇼",
+    "pgm_cd": "1130",
+    "category": "여성패션"
+   },
+   {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "화이트코어",
+    "product": "화이트코어 리포좀 글루타치온 글로우샷 1800 84개입(6박스)",
+    "price": 168150,
+    "link": "https://item.cjonstyle.com/item/2087555215?channelCode=30002002",
+    "slot_id": "31160",
+    "title": "다시보는 [잘사는언니들] 셀럽의 비결, 화이트코어💙",
+    "pgm": "잘사는 언니들",
+    "pgm_cd": "1028",
+    "category": "식품·건강"
+   },
+   {
     "start": "19:00",
     "end": "19:59",
     "brand": "바니스뉴욕",
@@ -13382,6 +13512,85 @@
     "pgm": "엣지쇼",
     "pgm_cd": "0223",
     "category": "여성패션"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "에싸",
+    "product": "마제티 4인 스윙기능 크라비츠 패브릭 소파+스툴",
+    "price": 2998200,
+    "link": "https://item.cjonstyle.com/item/2079440124?channelCode=30002002",
+    "slot_id": "31165",
+    "title": "다시보는 브티X에싸 600일만의 귀환 돌아온 에싸 브티 특가찬스",
+    "pgm": "브티나는 생활",
+    "pgm_cd": "0101",
+    "category": "가구·침구"
+   }
+  ],
+  "2026-10-31": [
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "화이트코어",
+    "product": "화이트코어 리포좀 글루타치온 글로우샷 1800 84개입(6박스)",
+    "price": 168150,
+    "link": "https://item.cjonstyle.com/item/2087555215?channelCode=30002002",
+    "slot_id": "31172",
+    "title": "다시보는 [잘사는언니들] 셀럽의 비결, 화이트코어💙",
+    "pgm": "잘사는 언니들",
+    "pgm_cd": "1028",
+    "category": "식품·건강"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "더엣지",
+    "product": "커브드진",
+    "price": 39900,
+    "link": "https://item.cjonstyle.com/item/2076905666?channelCode=30002002",
+    "slot_id": "31002",
+    "title": "엣지쇼💕더엣지X셀렙샵 연합 라이브! 이너 끝장세일&신상 아우터 론칭세일",
+    "pgm": "엣지쇼",
+    "pgm_cd": "0223",
+    "category": "여성패션"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "미유박스(meowbox)",
+    "product": "[본사] 국내유일 천연 좁쌀 모래 4.5kg 100% 곡물모래",
+    "price": 19900,
+    "link": "https://item.cjonstyle.com/item/2095912103?channelCode=30002002",
+    "slot_id": "31175",
+    "title": "다시보는[미유박스X다묘한끼냥이] 냥이를 위한 모래, 오늘 바꿔 주라냥😺",
+    "pgm": "라이브쇼",
+    "pgm_cd": "0214"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "도맥스",
+    "product": "[다다살림 공구]독일 소핀 세탁조 클리너 300ml 5+5개+(증)멀티타올1박스(10P)",
+    "price": 66500,
+    "link": "https://item.cjonstyle.com/item/2073331181?channelCode=30002002",
+    "slot_id": "31177",
+    "title": "다시보는 브티x소핀 4개월만에 돌아온 소핀세탁조클리너🫧특가 찬스",
+    "pgm": "브티나는 생활",
+    "pgm_cd": "0101",
+    "category": "주방·잡화"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "에싸",
+    "product": "마제티 4인 스윙기능 크라비츠 패브릭 소파+스툴",
+    "price": 2998200,
+    "link": "https://item.cjonstyle.com/item/2079440124?channelCode=30002002",
+    "slot_id": "31178",
+    "title": "다시보는 브티X에싸 600일만의 귀환 돌아온 에싸 브티 특가찬스",
+    "pgm": "브티나는 생활",
+    "pgm_cd": "0101",
+    "category": "가구·침구"
    }
   ]
  }
