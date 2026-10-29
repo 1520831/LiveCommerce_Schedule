@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-29T14:40:14+09:00",
+ "generated_at": "2026-10-29T15:00:21+09:00",
  "today": "2026-10-29",
  "dates": [
   "2026-10-28",
@@ -2707,7 +2707,7 @@ window.SCHEDULE = {
      "pgm_cd": "1099",
      "category": "여성패션",
      "cast": "influencer",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -10551,7 +10551,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "12:00",
@@ -11020,7 +11020,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 10
+     "hot": 8
     },
     {
      "start": "14:00",
