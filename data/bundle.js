@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-29T08:40:15+09:00",
+ "generated_at": "2026-10-29T09:00:37+09:00",
  "today": "2026-10-29",
  "dates": [
   "2026-10-28",
@@ -377,8 +377,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 막스마라 월 1만원대 60개월 무이자",
-     "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 9
+     "pgm": "[재방] 투명쇼 (패션잡화)"
     },
     {
      "start": "07:00",
@@ -398,7 +397,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 월 1만원대부터",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "08:00",
@@ -417,7 +416,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[어드림오브씨드] 감도높은 디테일 최대 50%",
-     "pgm": "[어드림오브씨드] 의류 (멀티커머스)"
+     "pgm": "[어드림오브씨드] 의류 (멀티커머스)",
+     "hot": 8
     },
     {
      "start": "09:00",
@@ -2466,7 +2466,7 @@ window.SCHEDULE = {
      "pgm_cd": "1109",
      "category": "여성패션",
      "cast": "influencer",
-     "hot": 10
+     "hot": 7
     },
     {
      "start": "09:00",
@@ -6221,7 +6221,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 4
     },
     {
      "start": "02:00",
@@ -6735,7 +6735,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 3
     },
     {
      "start": "08:00",
@@ -22889,7 +22889,7 @@ window.SCHEDULE = {
      "pgm": "이클립스외 최대 50%할인!",
      "title": "인기 간식 라이브 특가!",
      "category": "식품",
-     "hot": 4
+     "hot": 1
     },
     {
      "start": "09:00",
