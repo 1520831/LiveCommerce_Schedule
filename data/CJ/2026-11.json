@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-11",
- "updated_at": "2026-10-29T23:31:10+09:00",
+ "updated_at": "2026-10-30T07:00:55+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -49,7 +49,7 @@
     "end": "19:59",
     "brand": "페어라이어",
     "product": "시어링 니트 소매 자켓 (베이지)",
-    "price": 537600,
+    "price": 261120,
     "link": "https://item.cjonstyle.com/item/2071420857?channelCode=30002002",
     "slot_id": "31004",
     "title": "올해 마지막 비밀 특가 ~71% OFF 사랑스러운 골프웨어 페어라이어",
@@ -187,6 +187,123 @@
     "title": "[은세로운발견] 명품 아우터 모음전✨피레넥스X봄부기 국내 최저가 보장🔥",
     "pgm": "은세로운 발견",
     "pgm_cd": "1075"
+   }
+  ],
+  "2026-11-04": [
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "",
+    "product": "드엘리사X이너시아 공구 사상 역대 최대 혜택👀최초 적립금+최대사은품",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/31200",
+    "slot_id": "31200",
+    "title": "드엘리사X이너시아 공구 사상 역대 최대 혜택👀최초 적립금+최대사은품",
+    "pgm": "드엘리사적인시선",
+    "pgm_cd": "1053"
+   },
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "",
+    "product": "맘만하니💙에스트라 아뷰페 특집! 오덴세를 준다구요?!🫢",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/31213",
+    "slot_id": "31213",
+    "title": "맘만하니💙에스트라 아뷰페 특집! 오덴세를 준다구요?!🫢",
+    "pgm": "맘만하니",
+    "pgm_cd": "0099"
+   },
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "베어파우",
+    "product": "MONROE 양털부츠 3종 택1",
+    "price": 68010,
+    "link": "https://item.cjonstyle.com/item/2093085255?channelCode=30002002",
+    "slot_id": "31214",
+    "title": "[두둥맘대로] 베어파우 올해 첫 LIVE! 키즈&성인 윈터슈즈 2만원대~",
+    "pgm": "두둥맘대로",
+    "pgm_cd": "1119",
+    "category": "잡화·슈즈"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "키미",
+    "product": "[입문용 추천] 아기궁둥이 광채 퍼프, 기본(L) 3개 + 쿠션용(M) 1개 + 코퍼프(S) 1개",
+    "price": 61500,
+    "link": "https://item.cjonstyle.com/item/2082131508?channelCode=30002002",
+    "slot_id": "31032",
+    "title": "장관상 받은🤍아기궁둥이 퍼프 키미🤍역대급 특가 공개",
+    "pgm": "브랜디드 라이브쇼",
+    "pgm_cd": "1130",
+    "category": "뷰티"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "어그",
+    "product": "[공식][26FW] 여성 클래식 울트라 미니 3종 택",
+    "price": 258000,
+    "link": "https://item.cjonstyle.com/item/2094012904?channelCode=30002002",
+    "slot_id": "31215",
+    "title": "Hi해나🖐️어그(UGG) 26년도 최대 세일! ~40% 할인+떠블적립☃",
+    "pgm": "하이해나",
+    "pgm_cd": "1135",
+    "category": "잡화·슈즈"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "셀렙샵에디션",
+    "product": "26FW FAUX밍크 리버시블 점퍼",
+    "price": 107100,
+    "link": "https://item.cjonstyle.com/item/2095448327?channelCode=30002002",
+    "slot_id": "31216",
+    "title": "에코퍼 밍크 6만 원대 특가! 미리 보는 셀렙샵 에디션 겨울 아우터 특가",
+    "pgm": "엣지쇼",
+    "pgm_cd": "0223",
+    "category": "여성패션"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "시몬스",
+    "product": "아를라. 뷰티레스트 바이브. 퀸 침대",
+    "price": 4428800,
+    "link": "https://item.cjonstyle.com/item/2012672536?channelCode=30002002",
+    "slot_id": "31343",
+    "title": "다시보는 시몬스 앵콜전, 마지막 특가",
+    "pgm": "라이브쇼",
+    "pgm_cd": "0216",
+    "category": "가구·침구"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "뷰앤디",
+    "product": "앤모드 프로(화이트) + 넥세라 + 전용 부스터젤 1개",
+    "price": 239000,
+    "link": "https://item.cjonstyle.com/item/2096777889?channelCode=30002002",
+    "slot_id": "31034",
+    "title": "브라이언Pick 뷰앤디 앤모드 프로+넥케어/아이케어까지🖤역대최저가찬스",
+    "pgm": "브티나는 생활",
+    "pgm_cd": "0101",
+    "category": "뷰티"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "풀무원",
+    "product": "[편백찜기 포함]NEW 스팀쿡 마스터+ 듀얼스팀 오븐 에어프라이어 20L AV20F11GG (딥포레스트)",
+    "price": 349000,
+    "link": "https://item.cjonstyle.com/item/2082075210?channelCode=30002002",
+    "slot_id": "31035",
+    "title": "브티나는생활 X 풀무원💚 에어프라이어 단독특가+사은품 풀패키지 증정!",
+    "pgm": "브티나는 생활",
+    "pgm_cd": "0101",
+    "category": "가전"
    }
   ]
  }

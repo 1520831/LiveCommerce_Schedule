@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-11",
- "updated_at": "2026-10-29T23:31:16+09:00",
+ "updated_at": "2026-10-30T07:01:00+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -288,6 +288,20 @@
     "category": "식품"
    },
    {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "올마이투어",
+    "product": "경원재 바이 워커힐_윈터 레트로 패키지 (객실 1박+윈터 레트로 키트+전원 3종 선물+객실인원추가비 무료+주중특전 2종)",
+    "price": 842500,
+    "link": "https://store.kakao.com/allmytour/products/804625124",
+    "slot_id": "61571",
+    "pgm": "[경원재 바이 워커힐]",
+    "title": "5성 한옥 호텔 윈터 스테이",
+    "category": "여행",
+    "rerun": true,
+    "rerun_of": "60219"
+   },
+   {
     "start": "20:30",
     "end": "22:00",
     "brand": "주디앤",
@@ -378,7 +392,7 @@
     "end": "11:30",
     "brand": "미샤공식스토어",
     "product": "[집중 탄력/1+1] 미샤 타임레볼루션 나이트리페어 앰플5X(5세대) 70ml 외 안티에이징 추천템",
-    "price": 88000,
+    "price": 35200,
     "link": "https://store.kakao.com/missha/products/96174096",
     "slot_id": "61232",
     "pgm": "미샤 ~75%+추가 쿠폰",
@@ -564,6 +578,247 @@
     "pgm": "화이니카 알찬 혜택",
     "title": "사은품&단독특가",
     "category": "리빙"
+   }
+  ],
+  "2026-11-04": [
+   {
+    "start": "08:30",
+    "end": "11:30",
+    "brand": "드시모네",
+    "product": "[민화픽]드시모네 베이비 스텝1/스텝2/키즈1 6박스 (6개월분) + 요거트 3개입 + 요거트볼&커피 증정",
+    "price": 228000,
+    "link": "https://store.kakao.com/desimone/products/162868039",
+    "slot_id": "61253",
+    "pgm": "드시모네 장면역 특허유산균",
+    "title": "최대 20%+7%+7% 할인",
+    "category": "식품"
+   },
+   {
+    "start": "08:30",
+    "end": "10:00",
+    "brand": "그레인온",
+    "product": "그레인온 골드 카무트효소G 3개월 (2g x 90포)",
+    "price": 34900,
+    "link": "https://store.kakao.com/grainon/products/469647666",
+    "slot_id": "61422",
+    "pgm": "그레인온 X 톡딜위크",
+    "title": "달달한 혜택이 팡팡!",
+    "category": "식품"
+   },
+   {
+    "start": "08:30",
+    "end": "10:00",
+    "brand": "아토팜",
+    "product": "[1+1] 아토팜 MLE 외 보습/워시/선케어/키즈 BEST",
+    "price": 76000,
+    "link": "https://store.kakao.com/atopalm/products/217734984",
+    "slot_id": "61444",
+    "pgm": "아토팜 톡딜위크 LIVE",
+    "title": "가을 보습템/워시/키즈 특가",
+    "category": "뷰티"
+   },
+   {
+    "start": "08:30",
+    "end": "10:00",
+    "brand": "Whiff",
+    "product": "공간 필수템 위프 탈취제 F/W 신상런칭! Whiff (린100g/애브리모먼트300g)",
+    "price": 22900,
+    "link": "https://store.kakao.com/whiff/products/576368612",
+    "slot_id": "61465",
+    "pgm": "위프탈취제 F/W 신상!",
+    "title": "딥브라운/크림베이지",
+    "category": "리빙"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "케이푸드",
+    "product": "농협안심한우 1++등급 불고기 200gX3팩",
+    "price": 39900,
+    "link": "https://store.kakao.com/kfoodmall/products/293437656",
+    "slot_id": "61078",
+    "pgm": "케이푸드 농협 1++한우",
+    "title": "불고기 200g 3팩 특가",
+    "category": "식품"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "프로즌",
+    "product": "프로즌 원팩 마라탕 450g 3팩",
+    "price": 42000,
+    "link": "https://store.kakao.com/frozenes/products/197908184",
+    "slot_id": "61079",
+    "pgm": "원팩마라탕 찜수육국밥 외",
+    "title": "인기밀키트 특가 모음!",
+    "category": "식품"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "해태제과식품",
+    "product": "신제품 포키 극세 멜론맛 외 10개 골라담기",
+    "price": 22000,
+    "link": "https://store.kakao.com/htmall11/products/123692318",
+    "slot_id": "61176",
+    "pgm": "해태제과",
+    "title": "포키 라이브  LIVE",
+    "category": "식품"
+   },
+   {
+    "start": "11:00",
+    "end": "12:30",
+    "brand": "리틀천재",
+    "product": "(천재교육)빅키즈 수학+지식자람+빅키즈펜+하루 10분이면 한글 수학 완성",
+    "price": 257000,
+    "link": "https://store.kakao.com/littlechunjae/products/807328442",
+    "slot_id": "61467",
+    "pgm": "빅키즈+하루10분이면 시리즈",
+    "category": "키즈"
+   },
+   {
+    "start": "11:30",
+    "end": "14:30",
+    "brand": "소베맘",
+    "product": "소베맘 자동 센서 휴지통 20L 스마트 기저귀쓰레기통 (다리 증정)",
+    "price": 59900,
+    "link": "https://store.kakao.com/sobemom/products/674574635",
+    "slot_id": "61110",
+    "pgm": "소베맘 완판템 총출동!",
+    "title": "기갈대/멀티수납/매트 외",
+    "category": "키즈"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "더블하트 공식 인증몰",
+    "product": "더블하트 모유실감 PPSU 신상 양띠 뽀양이 젖병 160ml/240ml/330ml+젖꼭지 세트 외 수유용품 모음",
+    "price": 90900,
+    "link": "https://store.kakao.com/coolncooldh/products/359773685",
+    "slot_id": "61251",
+    "pgm": "더블하트 양띠젖병 런칭!",
+    "title": "단독구성 ~최대 71%할인",
+    "category": "키즈"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "비타그램",
+    "product": "2026년 듀라텍스 탄소 전기매트 전기요 싱글 더블 100% 국내제조",
+    "price": 69900,
+    "link": "https://store.kakao.com/vitagram/products/618370459",
+    "slot_id": "61259",
+    "pgm": "듀라텍스 26년형 탄소매트",
+    "title": "겨울맞이 특가행사!",
+    "category": "리빙"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "미식상회",
+    "product": "[미식상회] 재구매 많은 이유 있는 맛! 100% 통참깨 저온압착 참기름/들기름",
+    "price": 12900,
+    "link": "https://store.kakao.com/misic/products/64585397",
+    "slot_id": "61036",
+    "pgm": "미식상회 저온압착 참기름부터",
+    "title": "전상품 최저가!라이브 한정",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "신세계푸드",
+    "product": "밀크앤허니 고급 호두파이 750g X 2개",
+    "price": 39900,
+    "link": "https://store.kakao.com/shinsegaefood/products/69011700",
+    "slot_id": "61172",
+    "pgm": "신세계푸드 대표품목!",
+    "title": "고급호두파이&치아바타샌드위치",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "쿤달 KUNDAL",
+    "product": "",
+    "price": 0,
+    "link": "https://shoppinglive.kakao.com/live/61347",
+    "slot_id": "61347",
+    "pgm": "쿤달 블프 역대급 더블할인",
+    "title": "전원 바디워시 추가증정!!!",
+    "category": "뷰티"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "웹투어(주)",
+    "product": "[홈 마리나 속초 호텔] 롱스테이 올인클루시브 패키지_객실+조식+수영장_얼리체크인&레이트 체크아웃+주중 카바나 이용권",
+    "price": 271000,
+    "link": "https://store.kakao.com/webtour/products/804981832",
+    "slot_id": "61481",
+    "pgm": "홈 마리나 속초_올인클루시브",
+    "title": "30시간스테이+조식+수영장",
+    "category": "여행"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "바운티풀",
+    "product": "since1997 호텔납품 경력 진짜 호텔침구 FW 최대 80% 할인 침구모음전",
+    "price": 329900,
+    "link": "https://store.kakao.com/bountiful/products/71989715",
+    "slot_id": "61228",
+    "pgm": "바운티풀 리버시블 구스차렵",
+    "title": "겨울밤을 위한 스위트 체크인",
+    "category": "리빙"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "펠드아포테케",
+    "product": "펠드아포테케 에어리 수분 선크림 더블 맥스 SET (37ml 3+3)",
+    "price": 192000,
+    "link": "https://store.kakao.com/feldapotheke/products/393285829",
+    "slot_id": "61291",
+    "pgm": "펠드아포테케 얼리 블-프!",
+    "title": "최대 65%할인+사은품 증정",
+    "category": "뷰티"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "청년상점",
+    "product": "HACCP 깨끗한농장 구운계란 중란 30구 2판+소금증정 외 반숙란",
+    "price": 55900,
+    "link": "https://store.kakao.com/youngstore/products/226549675",
+    "slot_id": "61349",
+    "pgm": "구운계란 30구 2판",
+    "title": "필수 영양소 단백질 만원대!",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "SLSI",
+    "product": "[베네통] 26 FW 신상오픈! 최대 50% 시즌오프특가! 플리스/베스트/티셔츠",
+    "price": 35800,
+    "link": "https://store.kakao.com/slsi/products/807788206",
+    "slot_id": "61484",
+    "pgm": "베네통 어덜트 FW 모음전",
+    "title": "카쇼라 특가",
+    "category": "패션"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "히말라야코리아",
+    "product": "[2+2] 히말라야 숙취해소제 파티스마트 10개입 (베리/망고/혼합)",
+    "price": 60000,
+    "link": "https://store.kakao.com/himalayakorea/products/528150403",
+    "slot_id": "61537",
+    "pgm": "파티스마트 젤리 단독 특가!",
+    "title": "맛있게 챙기는 숙취해소!",
+    "category": "식품"
    }
   ]
  }
