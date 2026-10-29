@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-30T08:00:15+09:00",
+ "generated_at": "2026-10-30T08:20:18+09:00",
  "today": "2026-10-30",
  "dates": [
   "2026-10-29",
@@ -416,7 +416,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "CC콜렉트✨ 26FW 신상 특별가 방송💕",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 2
     },
     {
      "start": "09:00",
@@ -6728,7 +6729,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "01:10",
@@ -7337,7 +7338,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "08:00",
@@ -24934,8 +24935,8 @@ window.SCHEDULE = {
    "2026-10-29",
    "2026-10-30"
   ],
-  "matched": 6,
-  "unmatched": 14
+  "matched": 7,
+  "unmatched": 13
  },
  "fixed": {
   "rows": [
