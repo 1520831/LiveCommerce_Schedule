@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-29T20:00:13+09:00",
+ "generated_at": "2026-10-29T21:00:13+09:00",
  "today": "2026-10-29",
  "dates": [
   "2026-10-28",
@@ -3047,7 +3047,8 @@ window.SCHEDULE = {
      "title": "겨울 럭셔리 힐링🩵 리솜리조트 전지점 스파패키지 최대 67% 특가!",
      "pgm": "럭셔리체크인",
      "pgm_cd": "0220",
-     "category": "서비스·렌탈"
+     "category": "서비스·렌탈",
+     "hot": 9
     },
     {
      "start": "20:00",
@@ -7122,8 +7123,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈",
-     "hot": 9
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -8610,7 +8610,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "14:00",
@@ -8689,8 +8689,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "14:00",
@@ -10070,7 +10069,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "19:00",
@@ -10144,8 +10143,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 7
+     "category": "푸드"
     },
     {
      "start": "19:00",
@@ -10845,7 +10843,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 10
     },
     {
      "start": "20:00",
@@ -11324,7 +11323,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 1
     },
     {
      "start": "20:00",
