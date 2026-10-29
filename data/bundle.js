@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-29T19:00:10+09:00",
+ "generated_at": "2026-10-29T20:00:13+09:00",
  "today": "2026-10-29",
  "dates": [
   "2026-10-28",
@@ -2813,8 +2813,7 @@ window.SCHEDULE = {
      "pgm": "다겨미네",
      "pgm_cd": "1099",
      "category": "여성패션",
-     "cast": "influencer",
-     "hot": 9
+     "cast": "influencer"
     },
     {
      "start": "11:00",
@@ -7124,7 +7123,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -8691,7 +8690,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "14:00",
@@ -10070,7 +10069,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 6
     },
     {
      "start": "19:00",
@@ -10144,7 +10144,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 7
     },
     {
      "start": "19:00",
@@ -26673,8 +26674,8 @@ window.SCHEDULE = {
    "2026-10-28",
    "2026-10-29"
   ],
-  "matched": 5,
-  "unmatched": 15
+  "matched": 6,
+  "unmatched": 14
  },
  "fixed": {
   "rows": [
