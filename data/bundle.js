@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-29T09:40:23+09:00",
+ "generated_at": "2026-10-29T10:00:40+09:00",
  "today": "2026-10-29",
  "dates": [
   "2026-10-28",
@@ -416,8 +416,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[어드림오브씨드] 감도높은 디테일 최대 50%",
-     "pgm": "[어드림오브씨드] 의류 (멀티커머스)",
-     "hot": 9
+     "pgm": "[어드림오브씨드] 의류 (멀티커머스)"
     },
     {
      "start": "09:00",
@@ -436,8 +435,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[핏플랍] 인기 슈즈 쇼라 특별가 최대 40%▼",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 10
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "10:00",
@@ -2467,7 +2465,7 @@ window.SCHEDULE = {
      "pgm_cd": "1109",
      "category": "여성패션",
      "cast": "influencer",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "09:00",
@@ -6222,7 +6220,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "02:00",
@@ -7079,7 +7077,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 9
     },
     {
      "start": "09:55",
@@ -24030,8 +24029,8 @@ window.SCHEDULE = {
    "2026-10-28",
    "2026-10-29"
   ],
-  "matched": 9,
-  "unmatched": 11
+  "matched": 8,
+  "unmatched": 12
  },
  "fixed": {
   "rows": [
