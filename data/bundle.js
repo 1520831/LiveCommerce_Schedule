@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-29T10:40:17+09:00",
+ "generated_at": "2026-10-29T11:00:30+09:00",
  "today": "2026-10-29",
  "dates": [
   "2026-10-28",
@@ -396,8 +396,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 월 1만원대부터",
-     "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 10
+     "pgm": "[재방] 노블리타 (노블레스)"
     },
     {
      "start": "08:00",
@@ -455,7 +454,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 버버리/막스마라 아우터류 특별가",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -7459,7 +7458,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -7483,7 +7482,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -8075,7 +8074,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -22893,7 +22892,7 @@ window.SCHEDULE = {
      "pgm": "이클립스외 최대 50%할인!",
      "title": "인기 간식 라이브 특가!",
      "category": "식품",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "09:00",
@@ -24033,8 +24032,8 @@ window.SCHEDULE = {
    "2026-10-28",
    "2026-10-29"
   ],
-  "matched": 12,
-  "unmatched": 8
+  "matched": 11,
+  "unmatched": 9
  },
  "fixed": {
   "rows": [
