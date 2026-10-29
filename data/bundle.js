@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-29T21:00:13+09:00",
+ "generated_at": "2026-10-29T22:00:13+09:00",
  "today": "2026-10-29",
  "dates": [
   "2026-10-28",
@@ -3048,7 +3048,7 @@ window.SCHEDULE = {
      "pgm": "럭셔리체크인",
      "pgm_cd": "0220",
      "category": "서비스·렌탈",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "20:00",
@@ -8610,7 +8610,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "14:00",
@@ -10069,7 +10069,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "19:00",
@@ -10843,8 +10843,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈",
-     "hot": 10
+     "category": "키즈"
     },
     {
      "start": "20:00",
@@ -11476,7 +11475,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 2
     },
     {
      "start": "21:00",
