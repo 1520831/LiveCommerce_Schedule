@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-11",
- "updated_at": "2026-10-29T18:01:05+09:00",
+ "updated_at": "2026-10-29T23:31:03+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -232,6 +232,25 @@
     ],
     "title": "[다이슨] 슈퍼소닉 트래블 현대 단독 가격!",
     "pgm": "[다이슨] 슈퍼소닉 트래블 (가전)"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "우노아레",
+    "product": "18K 디아나(Diana) 네크리스",
+    "price": 1999000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252129583",
+    "slot_id": "202611016007",
+    "items": [
+     {
+      "brand": "우노아레",
+      "product": "18K 디아나(Diana) 네크리스",
+      "price": 1999000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252129583"
+     }
+    ],
+    "title": "[이탈리아 주얼리] 이태리 18K 체인 주얼리 53%▼",
+    "pgm": "[집방] 이탈리아 주얼리 (노블레스)"
    },
    {
     "start": "22:00",
