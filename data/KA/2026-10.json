@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-10",
- "updated_at": "2026-10-29T12:01:57+09:00",
+ "updated_at": "2026-10-29T18:01:21+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -6724,7 +6724,7 @@
    },
    {
     "start": "11:00",
-    "end": "12:30",
+    "end": "12:00",
     "brand": "(주)상상그램",
     "product": "[귀뚜라미] 27년형 THE 프리미엄 신형 블루투스 카본 탄소매트",
     "price": 468000,
@@ -6736,7 +6736,7 @@
    },
    {
     "start": "11:30",
-    "end": "13:00",
+    "end": "12:32",
     "brand": "TRUECOOK",
     "product": "트루쿡 긁힘 없는 시그니처 플렉스 TPU / 스텐 도마 세트 외",
     "price": 81000,
@@ -6748,7 +6748,7 @@
    },
    {
     "start": "11:30",
-    "end": "13:00",
+    "end": "12:30",
     "brand": "메이영",
     "product": "메이영 브랜드데이 핫딜/오일 투 폼 클렌저 외 최대 특가/선착순 쿠폰/사은품 증정",
     "price": 56000,
@@ -6760,7 +6760,7 @@
    },
    {
     "start": "14:00",
-    "end": "15:30",
+    "end": "15:00",
     "brand": "경북프레시몰",
     "product": "[26년 햇꿀] 달달허니 천연 아카시아꿀 2.4kg",
     "price": 50800,
@@ -6787,7 +6787,7 @@
     "end": "18:30",
     "brand": "홍천한우마을",
     "product": "[HC한우마을]1등급 한우 꽃등심300g 2팩 구이용한마리 선택1",
-    "price": 50900,
+    "price": 79900,
     "link": "https://store.kakao.com/hanukorea01/products/182833232",
     "slot_id": "61206",
     "pgm": "HC한우마을 1등급한우",
@@ -6798,7 +6798,7 @@
     "start": "17:00",
     "end": "18:30",
     "brand": "AMANTE",
-    "product": "대용량 엠보싱 캡형 PAN 물티슈 100매 5팩+5팩",
+    "product": "아망떼 물티슈/롤링카트/탈취제 모음전",
     "price": 23900,
     "link": "https://store.kakao.com/amanteshop/products/662708692",
     "slot_id": "61245",
@@ -6811,7 +6811,7 @@
     "end": "19:30",
     "brand": "순수식품",
     "product": "[+레몬 생강즙 14포]순수식품 6년근 홍삼정 100포(1박스)+쇼핑백 에브리데이365 대용량 홍삼스틱 외 홍삼선물/흑도라지청",
-    "price": 34900,
+    "price": 48000,
     "link": "https://store.kakao.com/soonsoofood/products/72841439",
     "slot_id": "61215",
     "pgm": "순수식품 홍삼정 100포",
@@ -6835,7 +6835,7 @@
     "end": "22:00",
     "brand": "웹투어(주)",
     "product": "[스카이베이 호텔 경포] 인피니티풀&사우나 PKG or 조식&사우나 PKG or 자쿠지 PKG_카쇼라 한정 구매혜택 제공",
-    "price": 111000,
+    "price": 700000,
     "link": "https://store.kakao.com/webtour/products/802407991",
     "slot_id": "60220",
     "pgm": "스카이베이호텔 경포_단독혜택",
@@ -6907,7 +6907,7 @@
     "end": "22:00",
     "brand": "청년상점",
     "product": "(2026 햇밤입고) 칼집약단밤 1kg 외 공주 햇 밤 / 마카다미아 고소하고 맛있는 햇 밤",
-    "price": 10900,
+    "price": 38000,
     "link": "https://store.kakao.com/youngstore/products/484577949",
     "slot_id": "61218",
     "pgm": "햇밤입고 칼집약단밤 1kg",
@@ -6939,6 +6939,18 @@
     "pgm": "피죤 BEST상품 특가전",
     "title": "최저가+푸짐한 사은품은 덤~",
     "category": "리빙"
+   },
+   {
+    "start": "09:00",
+    "end": "10:30",
+    "brand": "신일전자 온라인스토어",
+    "product": "신일 전기히터 2IN1 카본 탄소발열 히터 온풍기",
+    "price": 198000,
+    "link": "https://store.kakao.com/shinilonline/products/632210789",
+    "slot_id": "61633",
+    "pgm": "신일 전기 히터 난로 가습기",
+    "title": "포근한 겨울나기 라이브할인",
+    "category": "테크"
    },
    {
     "start": "10:00",
@@ -6977,6 +6989,18 @@
     "category": "뷰티"
    },
    {
+    "start": "11:00",
+    "end": "12:30",
+    "brand": "(주)상상그램",
+    "product": "[귀뚜라미] 27년형 THE 프리미엄 신형 블루투스 카본 탄소매트",
+    "price": 468000,
+    "link": "https://store.kakao.com/sangsangstore/products/118837559",
+    "slot_id": "61634",
+    "pgm": "2026년 귀뚜라미",
+    "title": "겨울을 위한 카본매트",
+    "category": "테크"
+   },
+   {
     "start": "11:30",
     "end": "13:00",
     "brand": "몰리멜리",
@@ -6987,6 +7011,18 @@
     "pgm": "몰리멜리 라이브데이",
     "title": "미리보는 겨울신상",
     "category": "키즈"
+   },
+   {
+    "start": "13:00",
+    "end": "14:30",
+    "brand": "생활양식",
+    "product": "[프리미엄] 한일의료기 탄소 매트 온열 카본 전기 요 장판 캠핑 침대",
+    "price": 119000,
+    "link": "https://store.kakao.com/sengsiik/products/635998245",
+    "slot_id": "61649",
+    "pgm": "한일의료기 27년형 탄소매트",
+    "title": "전자파 차단",
+    "category": "테크"
    },
    {
     "start": "17:00",
@@ -7186,9 +7222,9 @@
     "start": "19:00",
     "end": "20:30",
     "brand": "청년상점",
-    "product": "2026 검은반점이 특징인 나주 햇 추황배 3kg 5~9과 외 5kg",
-    "price": 22000,
-    "link": "https://store.kakao.com/youngstore/products/781140402",
+    "product": "(2개구매 시 5kg발송) [정품] 2026 햇 경북 부사사과 2kg 8-10과 중과",
+    "price": 29900,
+    "link": "https://store.kakao.com/youngstore/products/775241527",
     "slot_id": "61164",
     "pgm": "2026 정품 부사사과2kg",
     "title": "11900원 8-10과",

@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-10",
- "updated_at": "2026-10-29T12:01:44+09:00",
+ "updated_at": "2026-10-29T18:01:05+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -10252,6 +10252,12 @@
       "product": "[MELVIRAE] 한국 자개풍 메탈 아트컬렉션 675×480mm",
       "price": 130000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255943608"
+     },
+     {
+      "brand": "NEUVV 뉴브",
+      "product": "[뉴브] 숙면 기프트 패키지 100ml + 50ml",
+      "price": 80000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256411723"
      }
     ],
     "title": "풍수액자 / 필로우미스트 ~50% 선착순 득템 찬스!",
@@ -10309,6 +10315,12 @@
       "product": "W 레트로 슈퍼 쇼티 부츠 2종 택1",
       "price": 70000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256149022"
+     },
+     {
+      "brand": "47브랜드",
+      "product": "[타임찬스 1] 47 브랜드 LA 다저스 클린업 블랙 B-RGW12GWS-BKJ",
+      "price": 30000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251552457"
      }
     ],
     "title": "[어그/메종키츠네 外] 컨템포러리 브랜드 1만원대~",
@@ -10454,14 +10466,14 @@
     "end": "08:59",
     "brand": "CC콜렉트",
     "product": "[씨씨콜렉트] 캐시미어 라운드넥 크롭 핸드메이드 코트_C264MSG151_ (2color) C264MSG151",
-    "price": 227400,
+    "price": 222400,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256055759",
     "slot_id": "202610306001",
     "items": [
      {
       "brand": "CC콜렉트",
       "product": "[씨씨콜렉트] 캐시미어 라운드넥 크롭 핸드메이드 코트_C264MSG151_ (2color) C264MSG151",
-      "price": 227400,
+      "price": 222400,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256055759"
      }
     ],
@@ -10492,14 +10504,14 @@
     "end": "10:59",
     "brand": "막스마라",
     "product": "브론테 울코트 카멜 BRONTE-026",
-    "price": 2280000,
+    "price": 1099000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256129320",
     "slot_id": "202610306003",
     "items": [
      {
       "brand": "막스마라",
       "product": "브론테 울코트 카멜 BRONTE-026",
-      "price": 2280000,
+      "price": 1099000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256129320"
      }
     ],
@@ -10817,14 +10829,14 @@
     "end": "09:59",
     "brand": "코데즈컴바인",
     "product": "코데즈컴바인 코듀로이 후드집업 팬츠 셋업 (CKD-XX550WA) CKD-XX550WA",
-    "price": 64500,
+    "price": 59000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253448756",
     "slot_id": "202610316005",
     "items": [
      {
       "brand": "코데즈컴바인",
       "product": "코데즈컴바인 코듀로이 후드집업 팬츠 셋업 (CKD-XX550WA) CKD-XX550WA",
-      "price": 64500,
+      "price": 59000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253448756"
      }
     ],
@@ -10906,6 +10918,25 @@
     ],
     "title": "[한민금거래소] 프리미엄 골드바 핫딜 구매 찬스",
     "pgm": "[재방] 한민금거래소 (패션잡화)"
+   },
+   {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "밋앤밀",
+    "product": "3대째 이어온 해남농부 꿀고구마(베니하루카) 특상 5kg(개당 130-300g)",
+    "price": 23700,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2244273358",
+    "slot_id": "202610316010",
+    "items": [
+     {
+      "brand": "밋앤밀",
+      "product": "3대째 이어온 해남농부 꿀고구마(베니하루카) 특상 5kg(개당 130-300g)",
+      "price": 23700,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2244273358"
+     }
+    ],
+    "title": "[밋앤밀] 해남 베니하루카 꿀고구마 라이브 특별가",
+    "pgm": "[잭슨코리아] 꿀고구마"
    },
    {
     "start": "16:00",

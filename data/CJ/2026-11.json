@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-11",
- "updated_at": "2026-10-29T12:01:52+09:00",
+ "updated_at": "2026-10-29T18:01:13+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -73,16 +73,29 @@
     "category": "여성패션"
    },
    {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "",
+    "product": "[맘만하니] 레드루트 머스크피오니향 맘만하니 론칭 특집🩷",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/31259",
+    "slot_id": "31259",
+    "title": "[맘만하니] 레드루트 머스크피오니향 맘만하니 론칭 특집🩷",
+    "pgm": "맘만하니",
+    "pgm_cd": "1100"
+   },
+   {
     "start": "19:00",
     "end": "19:59",
-    "brand": "",
-    "product": "내가 찾던 앵클부츠 NEW 최초 공개 기념 특가 SALE + 더블 적립",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/31201",
+    "brand": "락포트",
+    "product": "[공식정품] NEW 토탈모션 램스킨 스판부츠",
+    "price": 197100,
+    "link": "https://item.cjonstyle.com/item/2096211713?channelCode=30002002",
     "slot_id": "31201",
     "title": "내가 찾던 앵클부츠 NEW 최초 공개 기념 특가 SALE + 더블 적립",
     "pgm": "엣지쇼",
-    "pgm_cd": "0223"
+    "pgm_cd": "0223",
+    "category": "잡화·슈즈"
    },
    {
     "start": "19:00",
@@ -136,6 +149,19 @@
     "pgm": "인플루언서LIVE",
     "pgm_cd": "1052",
     "category": "유아동"
+   },
+   {
+    "start": "12:30",
+    "end": "13:34",
+    "brand": "셀렙샵에디션",
+    "product": "26FW 호주산 클라우드 양모 하프코트",
+    "price": 143100,
+    "link": "https://item.cjonstyle.com/item/2095445902?channelCode=30002002",
+    "slot_id": "31205",
+    "title": "잇솔지❤️셀렙샵에디션 겨울 아우터&리얼밍크 초특가",
+    "pgm": "잇솔지",
+    "pgm_cd": "1109",
+    "category": "여성패션"
    },
    {
     "start": "19:00",
