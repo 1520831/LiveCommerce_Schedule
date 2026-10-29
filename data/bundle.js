@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-29T11:40:14+09:00",
+ "generated_at": "2026-10-29T12:00:26+09:00",
  "today": "2026-10-29",
  "dates": [
   "2026-10-28",
@@ -2488,8 +2488,7 @@ window.SCHEDULE = {
      "slot_id": "30993",
      "title": "맘만하니🧸로아앤제인 FW 인기템 모음🍂미소데이즈 공구",
      "pgm": "맘만하니",
-     "pgm_cd": "1100",
-     "hot": 10
+     "pgm_cd": "1100"
     },
     {
      "start": "10:00",
@@ -22892,7 +22891,7 @@ window.SCHEDULE = {
      "pgm": "이클립스외 최대 50%할인!",
      "title": "인기 간식 라이브 특가!",
      "category": "식품",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "09:00",
@@ -24032,8 +24031,8 @@ window.SCHEDULE = {
    "2026-10-28",
    "2026-10-29"
   ],
-  "matched": 11,
-  "unmatched": 9
+  "matched": 10,
+  "unmatched": 10
  },
  "fixed": {
   "rows": [
