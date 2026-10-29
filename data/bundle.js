@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-29T12:40:12+09:00",
+ "generated_at": "2026-10-29T13:00:32+09:00",
  "today": "2026-10-29",
  "dates": [
   "2026-10-28",
@@ -2641,8 +2641,7 @@ window.SCHEDULE = {
      "title": "맘만하니🧸로아앤제인 FW 인기템 모음🍂미소데이즈 공구",
      "pgm": "맘만하니",
      "pgm_cd": "1100",
-     "category": "여성패션",
-     "hot": 10
+     "category": "여성패션"
     },
     {
      "start": "10:00",
@@ -9653,7 +9652,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -10552,7 +10551,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 8
     },
     {
      "start": "12:00",
@@ -25274,7 +25274,7 @@ window.SCHEDULE = {
      "pgm": "이클립스외 최대 50%할인!",
      "title": "인기 간식 라이브 특가!",
      "category": "식품",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "09:00",
