@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-29T10:00:40+09:00",
+ "generated_at": "2026-10-29T10:20:16+09:00",
  "today": "2026-10-29",
  "dates": [
   "2026-10-28",
@@ -397,7 +397,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 월 1만원대부터",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 2
+     "hot": 8
     },
     {
      "start": "08:00",
@@ -454,7 +454,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 버버리/막스마라 아우터류 특별가",
-     "pgm": "투명쇼 (패션잡화)"
+     "pgm": "투명쇼 (패션잡화)",
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -2464,8 +2465,7 @@ window.SCHEDULE = {
      "pgm": "잇솔지",
      "pgm_cd": "1109",
      "category": "여성패션",
-     "cast": "influencer",
-     "hot": 10
+     "cast": "influencer"
     },
     {
      "start": "09:00",
@@ -2490,7 +2490,8 @@ window.SCHEDULE = {
      "slot_id": "30993",
      "title": "맘만하니🧸로아앤제인 FW 인기템 모음🍂미소데이즈 공구",
      "pgm": "맘만하니",
-     "pgm_cd": "1100"
+     "pgm_cd": "1100",
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -6219,8 +6220,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 7
+     "category": "테크"
     },
     {
      "start": "02:00",
@@ -6733,8 +6733,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 5
+     "category": "테크"
     },
     {
      "start": "08:00",
@@ -7078,7 +7077,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 9
+     "hot": 4
     },
     {
      "start": "09:55",
@@ -7126,7 +7125,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -7302,7 +7302,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -7457,7 +7458,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -7781,7 +7783,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -8071,7 +8074,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -22889,7 +22893,7 @@ window.SCHEDULE = {
      "pgm": "이클립스외 최대 50%할인!",
      "title": "인기 간식 라이브 특가!",
      "category": "식품",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "09:00",
@@ -24029,8 +24033,8 @@ window.SCHEDULE = {
    "2026-10-28",
    "2026-10-29"
   ],
-  "matched": 8,
-  "unmatched": 12
+  "matched": 12,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
