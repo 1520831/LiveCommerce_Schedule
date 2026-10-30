@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-11",
- "updated_at": "2026-10-30T12:06:11+09:00",
+ "updated_at": "2026-10-30T23:30:58+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -267,7 +267,7 @@
     "start": "19:00",
     "end": "20:30",
     "brand": "한끼통살 스토어",
-    "product": "[한끼통살] 한끼통살 단백질 빵빵 30팩",
+    "product": "[한끼통살] 한끼통살 단백질 빵빵 30팩 외 그릴드 소스통살 순살닭다리 현미크리스피 주먹밥 볼 큐브 등",
     "price": 91100,
     "link": "https://store.kakao.com/hankkitongsal/products/70651815",
     "slot_id": "60987",
@@ -374,6 +374,18 @@
     "category": "리빙"
    },
    {
+    "start": "21:00",
+    "end": "22:30",
+    "brand": "(주)상상그램",
+    "product": "[귀뚜라미] 27년형 THE 프리미엄 신형 블루투스 카본 탄소매트",
+    "price": 468000,
+    "link": "https://store.kakao.com/sangsangstore/products/118837559",
+    "slot_id": "61663",
+    "pgm": "2026년 귀뚜라미",
+    "title": "겨울을 위한 카본매트",
+    "category": "테크"
+   },
+   {
     "start": "22:30",
     "end": "00:00",
     "brand": "터치그라운드 스니커즈",
@@ -452,10 +464,10 @@
     "end": "11:30",
     "brand": "창억떡",
     "product": "[SNS 화제 창억떡] 달콤쫀득 호박인절미, 신제품 앙금절편 외 30개입",
-    "price": 36700,
+    "price": 38700,
     "link": "https://store.kakao.com/changeok/products/263354282",
     "slot_id": "61104",
-    "pgm": "광주 명물 창억떡 ~21%",
+    "pgm": "광주 명물 창억떡 ~25%",
     "title": "11월 찰떡&설기 특별라이브",
     "category": "식품"
    },
@@ -535,8 +547,8 @@
     "start": "19:00",
     "end": "22:00",
     "brand": "CJ제일제당 공식 스토어",
-    "product": "CJ 햇반 작은공기 130g x 48입(발아현미12/흑미12/100%현미12) 외 백미/잡곡 24/30/36입 구성",
-    "price": 57600,
+    "product": "CJ 햇반 작은공기 130g x 36입(발아현미12/흑미12/100%현미12) 외 백미/잡곡 24/36입 구성",
+    "price": 33440,
     "link": "https://store.kakao.com/cheiljedang/products/285464862",
     "slot_id": "61252",
     "pgm": "제일제당 든든한 한상차림",
@@ -602,6 +614,18 @@
     "pgm": "화이니카 알찬 혜택",
     "title": "사은품&단독특가",
     "category": "리빙"
+   },
+   {
+    "start": "21:00",
+    "end": "22:30",
+    "brand": "(주)상상그램",
+    "product": "[귀뚜라미] 27년형 THE 프리미엄 신형 블루투스 카본 탄소매트",
+    "price": 468000,
+    "link": "https://store.kakao.com/sangsangstore/products/118837559",
+    "slot_id": "61664",
+    "pgm": "2026년 귀뚜라미",
+    "title": "겨울을 위한 카본매트",
+    "category": "테크"
    }
   ],
   "2026-11-04": [
@@ -792,8 +816,8 @@
     "price": 329900,
     "link": "https://store.kakao.com/bountiful/products/71989715",
     "slot_id": "61228",
-    "pgm": "바운티풀 리버시블 구스차렵",
-    "title": "겨울밤을 위한 스위트 체크인",
+    "pgm": "바운티풀 홈 호텔 묵직한",
+    "title": "안정감부터 가벼운 편안함까지",
     "category": "리빙"
    },
    {
@@ -825,7 +849,7 @@
     "end": "22:00",
     "brand": "SLSI",
     "product": "[베네통] 26 FW 신상오픈! 최대 50% 시즌오프특가! 플리스/베스트/티셔츠",
-    "price": 35800,
+    "price": 59900,
     "link": "https://store.kakao.com/slsi/products/807788206",
     "slot_id": "61484",
     "pgm": "베네통 어덜트 FW 모음전",

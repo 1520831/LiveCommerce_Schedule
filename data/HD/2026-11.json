@@ -2,28 +2,9 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-11",
- "updated_at": "2026-10-30T12:05:34+09:00",
+ "updated_at": "2026-10-30T23:30:47+09:00",
  "days": {
   "2026-11-01": [
-   {
-    "start": "00:00",
-    "end": "00:59",
-    "brand": "헨리베글린",
-    "product": "볼라 크로스바디 램올드아이언",
-    "price": 980000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252694018",
-    "slot_id": "202611016012",
-    "items": [
-     {
-      "brand": "헨리베글린",
-      "product": "볼라 크로스바디 램올드아이언",
-      "price": 980000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252694018"
-     }
-    ],
-    "title": "[헨리베글린] 26FW 최신상&베스트 라인 쇼라 단독",
-    "pgm": "[재방] 헨리베글린 잡화 (멀티커머스)"
-   },
    {
     "start": "07:00",
     "end": "07:59",
@@ -85,16 +66,16 @@
     "start": "11:00",
     "end": "11:59",
     "brand": "밋앤밀",
-    "product": "풍기금계농장 감홍사과+시나노골드 GAP 정품 대과 5kg 내외(16과)",
-    "price": 57100,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256165812",
+    "product": "GAP인증 창원 저탄소 백년시 부유단감 5kg (M/과당 180-210g) 25입",
+    "price": 27700,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2224965385",
     "slot_id": "202611016002",
     "items": [
      {
       "brand": "밋앤밀",
-      "product": "풍기금계농장 감홍사과+시나노골드 GAP 정품 대과 5kg 내외(16과)",
-      "price": 57100,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256165812"
+      "product": "GAP인증 창원 저탄소 백년시 부유단감 5kg (M/과당 180-210g) 25입",
+      "price": 27700,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2224965385"
      }
     ],
     "title": "[밋앤밀] GAP인증 창원 백년시 부유단감 론칭 특별가",
@@ -234,25 +215,6 @@
     "pgm": "현대쇼룸 (패션)"
    },
    {
-    "start": "20:00",
-    "end": "20:59",
-    "brand": "다이슨",
-    "product": "다이슨 슈퍼소닉 트래블 블루코퍼",
-    "price": 399000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257047888",
-    "slot_id": "202611016006",
-    "items": [
-     {
-      "brand": "다이슨",
-      "product": "다이슨 슈퍼소닉 트래블 블루코퍼",
-      "price": 399000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257047888"
-     }
-    ],
-    "title": "[다이슨] 슈퍼소닉 트래블 현대 단독 가격!",
-    "pgm": "[다이슨] 슈퍼소닉 트래블 (가전)"
-   },
-   {
     "start": "21:00",
     "end": "21:59",
     "brand": "우노아레",
@@ -335,38 +297,19 @@
     "end": "07:59",
     "brand": "루블리",
     "product": "[루블리] GRA 인증 정품 모이사나이트 테니스팔찌 3mm+1캐럿 귀걸이",
-    "price": 227700,
+    "price": 198000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253245482",
     "slot_id": "202611026020",
     "items": [
      {
       "brand": "루블리",
       "product": "[루블리] GRA 인증 정품 모이사나이트 테니스팔찌 3mm+1캐럿 귀걸이",
-      "price": 227700,
+      "price": 198000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253245482"
      }
     ],
     "title": "[루블리주얼리] BEST 주얼리 최저가 도전",
     "pgm": "[재방] 루블리 주얼리 (멀티커머스)"
-   },
-   {
-    "start": "09:00",
-    "end": "09:59",
-    "brand": "주크",
-    "product": "폭스퍼 디테처블 벨티드 구스 패딩 Z264PSG186 Z264PSG186",
-    "price": 530400,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256879577",
-    "slot_id": "202611026002",
-    "items": [
-     {
-      "brand": "주크",
-      "product": "폭스퍼 디테처블 벨티드 구스 패딩 Z264PSG186 Z264PSG186",
-      "price": 530400,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256879577"
-     }
-    ],
-    "title": "쥬크✨ 26FW 시그니처 상품 특별가 + 23% 쿠폰",
-    "pgm": "백화점 프리오픈쇼(멀티커머스)"
    },
    {
     "start": "10:00",
@@ -390,17 +333,17 @@
    {
     "start": "11:00",
     "end": "11:59",
-    "brand": "에클랏",
-    "product": "18K 보티첼리(Botticelli) 브레이슬릿",
-    "price": 799000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252750429",
+    "brand": "BLISS",
+    "product": "(블리스) DAPHNE 18K 다이아 크로스 목걸이",
+    "price": 2999000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2217588437",
     "slot_id": "202611026004",
     "items": [
      {
-      "brand": "에클랏",
-      "product": "18K 보티첼리(Botticelli) 브레이슬릿",
-      "price": 799000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252750429"
+      "brand": "BLISS",
+      "product": "(블리스) DAPHNE 18K 다이아 크로스 목걸이",
+      "price": 2999000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2217588437"
      }
     ],
     "title": "[노블리타] 이탈리아 18K 주얼리 전 상품 최저가도전",
@@ -464,6 +407,25 @@
     "pgm": "[애니웨이/핀치그린] 계란/스무디 (일반식품2)"
    },
    {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "밋앤밀",
+    "product": "풍기금계농장 감홍사과+시나노골드 GAP 정품 대과 5kg 내외(16과)",
+    "price": 57100,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256165812",
+    "slot_id": "202611026008",
+    "items": [
+     {
+      "brand": "밋앤밀",
+      "product": "풍기금계농장 감홍사과+시나노골드 GAP 정품 대과 5kg 내외(16과)",
+      "price": 57100,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256165812"
+     }
+    ],
+    "title": "[밋앤밀] 영주 풍기금계농장 감홍사과 + 시나노골드",
+    "pgm": "[잭슨코리아] 감홍사과"
+   },
+   {
     "start": "17:00",
     "end": "17:59",
     "brand": "볼드리니 셀레리아",
@@ -506,14 +468,14 @@
     "end": "19:59",
     "brand": "아시아골드",
     "product": "골드바 3.75g 자유의 여신상",
-    "price": 897000,
+    "price": 917000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250419210",
     "slot_id": "202611026012",
     "items": [
      {
       "brand": "아시아골드",
       "product": "골드바 3.75g 자유의 여신상",
-      "price": 897000,
+      "price": 917000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250419210"
      }
     ],
@@ -579,6 +541,25 @@
    }
   ],
   "2026-11-03": [
+   {
+    "start": "07:00",
+    "end": "07:59",
+    "brand": "알레보",
+    "product": "X스텐락 대용량 컬러 스텐 숨 용기 5종 세트",
+    "price": 139000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2219698131",
+    "slot_id": "202611036021",
+    "items": [
+     {
+      "brand": "알레보",
+      "product": "X스텐락 대용량 컬러 스텐 숨 용기 5종 세트",
+      "price": 139000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2219698131"
+     }
+    ],
+    "title": "⏰잠시 후 종료! 알레보 라이브 특별가",
+    "pgm": "[재방] 알레보 (P.D.Lab)"
+   },
    {
     "start": "08:00",
     "end": "08:59",
@@ -711,6 +692,25 @@
     ],
     "title": "[네이처글로리/더아인코스메틱] 겨울 피부 구원템!",
     "pgm": "[트리니타스/더아인코스메틱] 기초 (뷰티1)"
+   },
+   {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "라뽐므",
+    "product": "한겨울용 오폴레 구스이불 SS(색상선택)",
+    "price": 119900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2243901346",
+    "slot_id": "202611036009",
+    "items": [
+     {
+      "brand": "라뽐므",
+      "product": "한겨울용 오폴레 구스이불 SS(색상선택)",
+      "price": 119900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2243901346"
+     }
+    ],
+    "title": "[라뽐므] 오폴레 구스이불 방송 중 특별가",
+    "pgm": "편성기획 삽입용 (편성)"
    },
    {
     "start": "16:00",
@@ -901,7 +901,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2244522083"
      }
     ],
-    "title": "맛춤가게x워커힐 특집전! 쇼라 최초 25%▼ 찬스",
+    "title": "맛춤가게 x 워커힐 특집전! 쇼라 최초 25%▼ 찬스",
     "pgm": "맛춤가게 (식품)"
    },
    {
@@ -996,7 +996,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255939760"
      }
     ],
-    "title": "[누캐시미어] 시크릿 라이브",
+    "title": "[누캐시미어] 최신상 최초공개 + 미리주문 혜택까지",
     "pgm": "현대쇼룸 (패션)"
    },
    {
