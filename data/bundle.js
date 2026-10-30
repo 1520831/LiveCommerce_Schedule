@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-30T09:40:13+09:00",
+ "generated_at": "2026-10-30T10:00:22+09:00",
  "today": "2026-10-30",
  "dates": [
   "2026-10-29",
@@ -397,7 +397,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 월 1만원대부터",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "08:00",
@@ -437,7 +437,7 @@ window.SCHEDULE = {
      ],
      "title": "포트메리온 전 상품 반값 특별가✨",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -2510,7 +2510,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "0146",
      "category": "여성패션",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -6731,7 +6731,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "01:10",
