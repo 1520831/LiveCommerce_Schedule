@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-11",
- "updated_at": "2026-10-30T07:00:47+09:00",
+ "updated_at": "2026-10-30T12:05:34+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -23,6 +23,25 @@
     ],
     "title": "[헨리베글린] 26FW 최신상&베스트 라인 쇼라 단독",
     "pgm": "[재방] 헨리베글린 잡화 (멀티커머스)"
+   },
+   {
+    "start": "07:00",
+    "end": "07:59",
+    "brand": "골든클레프",
+    "product": "18K 하프 링크 로프체인 네크리스",
+    "price": 1199000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251232822",
+    "slot_id": "202611016013",
+    "items": [
+     {
+      "brand": "골든클레프",
+      "product": "18K 하프 링크 로프체인 네크리스",
+      "price": 1199000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251232822"
+     }
+    ],
+    "title": "[노블리타] 이탈리아 18K 주얼리 BIG 페스타",
+    "pgm": "[재방] 노블리타 (노블레스)"
    },
    {
     "start": "08:00",
@@ -736,14 +755,14 @@
     "end": "19:59",
     "brand": "다우닝가구",
     "product": "[다우닝] 클로 3인 전체 천연가죽 소파",
-    "price": 2000000,
+    "price": 1980000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2240411570",
     "slot_id": "202611036013",
     "items": [
      {
       "brand": "다우닝가구",
       "product": "[다우닝] 클로 3인 전체 천연가죽 소파",
-      "price": 2000000,
+      "price": 1980000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2240411570"
      }
     ],
@@ -810,6 +829,25 @@
     "pgm": "[재방] 투명쇼 (패션잡화)"
    },
    {
+    "start": "08:00",
+    "end": "08:59",
+    "brand": "BCBG",
+    "product": "[비씨비지] 미엘 자켓(B5W9J110) B5W9J110",
+    "price": 299500,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2243268323",
+    "slot_id": "202611046001",
+    "items": [
+     {
+      "brand": "BCBG",
+      "product": "[비씨비지] 미엘 자켓(B5W9J110) B5W9J110",
+      "price": 299500,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2243268323"
+     }
+    ],
+    "title": "결이 다른 겨울의 시작! BCBG 최대 75%▼",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
     "start": "09:00",
     "end": "09:59",
     "brand": "헤지스",
@@ -846,6 +884,25 @@
     ],
     "title": "[미드림] 38년 경력 피부관리사의 유기괄사 + 오일",
     "pgm": "[미드림] 유기괄사 (뷰티2)"
+   },
+   {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "워커힐",
+    "product": "한우 도가니탕 세트 (900g x 6팩)",
+    "price": 69900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2244522083",
+    "slot_id": "202611046005",
+    "items": [
+     {
+      "brand": "워커힐",
+      "product": "한우 도가니탕 세트 (900g x 6팩)",
+      "price": 69900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2244522083"
+     }
+    ],
+    "title": "맛춤가게x워커힐 특집전! 쇼라 최초 25%▼ 찬스",
+    "pgm": "맛춤가게 (식품)"
    },
    {
     "start": "13:00",

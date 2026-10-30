@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-10",
- "updated_at": "2026-10-30T07:00:47+09:00",
+ "updated_at": "2026-10-30T12:05:34+09:00",
  "days": {
   "2026-10-01": [
    {
@@ -10281,14 +10281,14 @@
     "end": "16:59",
     "brand": "순이맘",
     "product": "(1+1) 실리콘 지퍼백 3종 세트(240ml+1.5L+2L)",
-    "price": 69800,
+    "price": 119600,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255591544",
     "slot_id": "202610296010",
     "items": [
      {
       "brand": "순이맘",
       "product": "(1+1) 실리콘 지퍼백 3종 세트(240ml+1.5L+2L)",
-      "price": 69800,
+      "price": 119600,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255591544"
      }
     ],
@@ -10643,15 +10643,15 @@
     "start": "18:00",
     "end": "18:59",
     "brand": "골드앤",
-    "product": "실버바 콩알 행운 오브제 18.75g [5종세트/유리병 증정]",
-    "price": 142500,
+    "product": "실버바 콩알 행운 오브제 18.75g [5종세트/유리병 증정][라이브방송]",
+    "price": 141000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250574627",
     "slot_id": "202610306011",
     "items": [
      {
       "brand": "골드앤",
-      "product": "실버바 콩알 행운 오브제 18.75g [5종세트/유리병 증정]",
-      "price": 142500,
+      "product": "실버바 콩알 행운 오브제 18.75g [5종세트/유리병 증정][라이브방송]",
+      "price": 141000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250574627"
      }
     ],
@@ -10720,14 +10720,14 @@
     "end": "21:59",
     "brand": "한민금거래소",
     "product": "[LIVE.한민금거래소] 병오년 버건디 말 카드형 골드바 24K 순금 3.75g",
-    "price": 880000,
+    "price": 874400,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251968130",
     "slot_id": "202610306014",
     "items": [
      {
       "brand": "한민금거래소",
       "product": "[LIVE.한민금거래소] 병오년 버건디 말 카드형 골드바 24K 순금 3.75g",
-      "price": 880000,
+      "price": 874400,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251968130"
      }
     ],
@@ -10792,6 +10792,25 @@
     ],
     "title": "[투명쇼] 몽클레어 패딩가디건 월 2만원대 득템찬스",
     "pgm": "[재방] 투명쇼 (패션잡화)"
+   },
+   {
+    "start": "07:00",
+    "end": "07:59",
+    "brand": "골든클레프",
+    "product": "18K 하프 링크 로프체인 네크리스",
+    "price": 1199000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251232822",
+    "slot_id": "202610316019",
+    "items": [
+     {
+      "brand": "골든클레프",
+      "product": "18K 하프 링크 로프체인 네크리스",
+      "price": 1199000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251232822"
+     }
+    ],
+    "title": "[노블리타] 이탈리아 18K 주얼리 BIG 페스타",
+    "pgm": "[재방] 노블리타 (노블레스)"
    },
    {
     "start": "08:00",
