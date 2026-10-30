@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-30T10:00:22+09:00",
+ "generated_at": "2026-10-30T10:20:13+09:00",
  "today": "2026-10-30",
  "dates": [
   "2026-10-29",
@@ -397,7 +397,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 월 1만원대부터",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "08:00",
@@ -437,7 +437,7 @@ window.SCHEDULE = {
      ],
      "title": "포트메리온 전 상품 반값 특별가✨",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -456,7 +456,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 26FW 막스마라 아우터 특집!",
-     "pgm": "투명쇼 (패션잡화)"
+     "pgm": "투명쇼 (패션잡화)",
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -2510,7 +2511,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "0146",
      "category": "여성패션",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -6730,8 +6731,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "01:10",
@@ -7751,7 +7751,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 2
     },
     {
      "start": "09:55",
@@ -7967,7 +7968,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -8060,7 +8062,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -8335,7 +8338,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -23760,7 +23764,7 @@ window.SCHEDULE = {
      "pgm": "피죤 BEST상품 특가전",
      "title": "최저가+푸짐한 사은품은 덤~",
      "category": "리빙",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "09:00",
@@ -24937,8 +24941,8 @@ window.SCHEDULE = {
    "2026-10-29",
    "2026-10-30"
   ],
-  "matched": 9,
-  "unmatched": 11
+  "matched": 13,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
