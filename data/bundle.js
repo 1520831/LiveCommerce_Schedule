@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-30T11:00:32+09:00",
+ "generated_at": "2026-10-30T11:22:26+09:00",
  "today": "2026-10-30",
  "dates": [
   "2026-10-29",
@@ -416,7 +416,7 @@ window.SCHEDULE = {
      ],
      "title": "CC콜렉트✨ 26FW 신상 특별가 방송💕",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "09:00",
@@ -435,8 +435,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "포트메리온 전 상품 반값 특별가✨",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 10
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "10:00",
@@ -455,8 +454,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 26FW 막스마라 아우터 특집!",
-     "pgm": "투명쇼 (패션잡화)",
-     "hot": 8
+     "pgm": "투명쇼 (패션잡화)"
     },
     {
      "start": "11:00",
@@ -2509,8 +2507,7 @@ window.SCHEDULE = {
      "title": "다시보는 FW브랜드 초특가 SALE 칼라거펠트&채컬렉티브&드베로타",
      "pgm": "라이브쇼",
      "pgm_cd": "0146",
-     "category": "여성패션",
-     "hot": 9
+     "category": "여성패션"
     },
     {
      "start": "10:00",
@@ -7751,7 +7748,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "09:55",
@@ -7968,7 +7965,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -8062,7 +8059,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -8338,7 +8335,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -8791,7 +8788,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -9215,7 +9213,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 1
     },
     {
      "start": "11:00",
@@ -23763,7 +23762,7 @@ window.SCHEDULE = {
      "pgm": "피죤 BEST상품 특가전",
      "title": "최저가+푸짐한 사은품은 덤~",
      "category": "리빙",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "09:00",
@@ -24940,7 +24939,7 @@ window.SCHEDULE = {
    "2026-10-29",
    "2026-10-30"
   ],
-  "matched": 12,
+  "matched": 11,
   "unmatched": 7
  },
  "fixed": {
