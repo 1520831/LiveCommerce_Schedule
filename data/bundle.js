@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-30T11:22:26+09:00",
+ "generated_at": "2026-10-30T11:40:24+09:00",
  "today": "2026-10-30",
  "dates": [
   "2026-10-29",
@@ -416,7 +416,7 @@ window.SCHEDULE = {
      ],
      "title": "CC콜렉트✨ 26FW 신상 특별가 방송💕",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "09:00",
@@ -7965,7 +7965,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -8059,7 +8059,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -8334,8 +8334,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -8789,7 +8788,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 8
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -8850,7 +8849,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "취미레저"
+     "category": "취미레저",
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -8924,7 +8924,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -23761,8 +23762,7 @@ window.SCHEDULE = {
      "slot_id": "61127",
      "pgm": "피죤 BEST상품 특가전",
      "title": "최저가+푸짐한 사은품은 덤~",
-     "category": "리빙",
-     "hot": 10
+     "category": "리빙"
     },
     {
      "start": "09:00",
