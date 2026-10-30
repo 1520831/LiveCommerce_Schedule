@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-30T12:20:28+09:00",
+ "generated_at": "2026-10-30T12:40:36+09:00",
  "today": "2026-10-30",
  "dates": [
   "2026-10-29",
@@ -8170,7 +8170,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "09:55",
@@ -8416,7 +8416,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -9226,7 +9226,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -9296,7 +9296,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "취미레저",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -9374,7 +9374,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -9872,7 +9872,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 10
+     "hot": 2
     },
     {
      "start": "12:00",
@@ -26206,7 +26206,7 @@ window.SCHEDULE = {
      "pgm": "몰리멜리 라이브데이",
      "title": "미리보는 겨울신상",
      "category": "키즈",
-     "hot": 9
+     "hot": 6
     },
     {
      "start": "13:00",
