@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-30T09:00:25+09:00",
+ "generated_at": "2026-10-30T09:20:13+09:00",
  "today": "2026-10-30",
  "dates": [
   "2026-10-29",
@@ -397,7 +397,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 월 1만원대부터",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "08:00",
@@ -2508,7 +2508,8 @@ window.SCHEDULE = {
      "title": "다시보는 FW브랜드 초특가 SALE 칼라거펠트&채컬렉티브&드베로타",
      "pgm": "라이브쇼",
      "pgm_cd": "0146",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -23758,7 +23759,7 @@ window.SCHEDULE = {
      "pgm": "피죤 BEST상품 특가전",
      "title": "최저가+푸짐한 사은품은 덤~",
      "category": "리빙",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "09:00",
@@ -24935,8 +24936,8 @@ window.SCHEDULE = {
    "2026-10-29",
    "2026-10-30"
   ],
-  "matched": 7,
-  "unmatched": 13
+  "matched": 8,
+  "unmatched": 12
  },
  "fixed": {
   "rows": [
