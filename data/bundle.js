@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-30T08:40:35+09:00",
+ "generated_at": "2026-10-30T09:00:25+09:00",
  "today": "2026-10-30",
  "dates": [
   "2026-10-29",
@@ -6729,7 +6729,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "01:10",
@@ -7337,8 +7337,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "08:00",
@@ -23759,7 +23758,7 @@ window.SCHEDULE = {
      "pgm": "피죤 BEST상품 특가전",
      "title": "최저가+푸짐한 사은품은 덤~",
      "category": "리빙",
-     "hot": 6
+     "hot": 3
     },
     {
      "start": "09:00",
@@ -24936,8 +24935,8 @@ window.SCHEDULE = {
    "2026-10-29",
    "2026-10-30"
   ],
-  "matched": 8,
-  "unmatched": 12
+  "matched": 7,
+  "unmatched": 13
  },
  "fixed": {
   "rows": [
