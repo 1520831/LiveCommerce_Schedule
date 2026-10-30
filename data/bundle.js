@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-10-30T17:40:17+09:00",
+ "generated_at": "2026-10-30T23:00:10+09:00",
  "today": "2026-10-30",
  "dates": [
   "2026-10-29",
@@ -662,7 +662,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[현명쇼] 막스마라 月 8천원대 전상품 무이자 60개월",
-     "pgm": "[재방] 현명쇼 (노블레스팀)"
+     "pgm": "[재방] 현명쇼 (노블레스팀)",
+     "hot": 6
     },
     {
      "start": "21:00",
@@ -8170,7 +8171,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "09:55",
@@ -8416,7 +8417,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 5
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -9225,8 +9226,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 10
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -9295,8 +9295,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "취미레저",
-     "hot": 9
+     "category": "취미레저"
     },
     {
      "start": "11:00",
@@ -9373,8 +9372,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 7
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -9661,7 +9659,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -9872,7 +9870,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 4
     },
     {
      "start": "12:00",
@@ -10767,7 +10765,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 7
     },
     {
      "start": "19:00",
@@ -26206,7 +26205,7 @@ window.SCHEDULE = {
      "pgm": "몰리멜리 라이브데이",
      "title": "미리보는 겨울신상",
      "category": "키즈",
-     "hot": 6
+     "hot": 10
     },
     {
      "start": "13:00",
@@ -27323,7 +27322,7 @@ window.SCHEDULE = {
    "2026-10-29",
    "2026-10-30"
   ],
-  "matched": 11,
+  "matched": 10,
   "unmatched": 7
  },
  "fixed": {
