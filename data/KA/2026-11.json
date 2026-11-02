@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-11",
- "updated_at": "2026-11-02T08:34:41+09:00",
+ "updated_at": "2026-11-02T12:09:33+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -19,7 +19,7 @@
    },
    {
     "start": "10:00",
-    "end": "",
+    "end": "11:23",
     "brand": "돈시몬 공식몰",
     "product": "[돈시몬 공식] 100% NFC 착즙 토마토주스 1L/2L 외 오렌지/사과/만다린/레몬/머스캣/적포도 등",
     "price": 40900,
@@ -31,7 +31,7 @@
    },
    {
     "start": "11:30",
-    "end": "",
+    "end": "12:30",
     "brand": "생생초",
     "product": "생초 사과 애사비 외 1L 2병+푸어러 2개 증정. 사과/파인애플/유기농석류 선택",
     "price": 22000,
@@ -55,7 +55,7 @@
    },
    {
     "start": "20:30",
-    "end": "",
+    "end": "21:32",
     "brand": "부이",
     "product": "부이 붕어빵 손난로 핫팩 보조배터리 충전식 휴대용 양면발열 겨울선물 캠핑용 출퇴근용",
     "price": 27900,
@@ -79,7 +79,7 @@
    },
    {
     "start": "20:30",
-    "end": "",
+    "end": "21:30",
     "brand": "동결건조 과일칩 이치비야",
     "product": "프리미엄 동결건조 과일칩 이치비야 / 요거모야 동결건조 요거트,치즈 큐브,유기농 쌀스틱",
     "price": 4000,
@@ -93,7 +93,7 @@
   "2026-11-02": [
    {
     "start": "08:30",
-    "end": "10:00",
+    "end": "09:50",
     "brand": "나무팩토리",
     "product": "출근길 꿀템! 즉각 볼륨 리터치 온도조절 무선 빗고데기 헤어스타일러 뿌리볼륨/S컬/C컬/곱슬/뻗침머리",
     "price": 31900,
@@ -105,7 +105,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:00",
     "brand": "락앤락 리틀럽",
     "product": "핑크퐁 베베핀 이유식용기 260ml 3P세트 1+1 총 6P (+실리콘 스푼 2P증정)",
     "price": 37900,
@@ -117,10 +117,10 @@
    },
    {
     "start": "10:00",
-    "end": "",
+    "end": "11:00",
     "brand": "비타그램",
     "product": "\"차박 필수\" 비타그램 USB 그래핀 탄소 극세사 담요 발열 캠핑 블랭킷",
-    "price": 39900,
+    "price": 33900,
     "link": "https://gift.kakao.com/product/10508661?url=product&cId=10508661",
     "slot_id": "61445",
     "pgm": "추위 대비 필수템! 그래핀",
@@ -128,11 +128,23 @@
     "category": "테크"
    },
    {
+    "start": "10:43",
+    "end": "11:34",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49000,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "61671",
+    "pgm": "터치그라운드 쿠셔닝슬리퍼",
+    "title": "이렇게 편해도 되나요?",
+    "category": "패션"
+   },
+   {
     "start": "11:30",
     "end": "14:30",
     "brand": "마리떼 키즈",
     "product": "KIDS X SNOOPY HOODED FLEECE JACKET (2color)",
-    "price": 139000,
+    "price": 125100,
     "link": "https://gift.kakao.com/product/14439771?url=product&cId=14439771",
     "slot_id": "61106",
     "pgm": "스누피X마리떼 키즈",
@@ -348,18 +360,6 @@
     "pgm": "2026년 귀뚜라미",
     "title": "겨울을 위한 카본매트",
     "category": "테크"
-   },
-   {
-    "start": "22:30",
-    "end": "00:00",
-    "brand": "터치그라운드 스니커즈",
-    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-    "price": 49000,
-    "link": "https://store.kakao.com/touchground/products/774098244",
-    "slot_id": "61660",
-    "pgm": "터치그라운드 발편한운동화",
-    "title": "가벼우면서 쿠션감 좋은운동화",
-    "category": "패션"
    }
   ],
   "2026-11-03": [
@@ -455,7 +455,7 @@
     "price": 254000,
     "link": "https://store.kakao.com/ykstore/products/89929327",
     "slot_id": "61109",
-    "pgm": "하기스 대용량 특가",
+    "pgm": "하기스 대용량 기저귀 특가",
     "title": "네이쳐/밤부/맥스드라이/ 외",
     "category": "키즈"
    },
@@ -829,7 +829,7 @@
     "link": "https://store.kakao.com/himalayakorea/products/528150403",
     "slot_id": "61537",
     "pgm": "파티스마트 젤리 단독 특가!",
-    "title": "맛있게 챙기는 숙취해소!",
+    "title": "취향대로 골라 즐기는 맛!",
     "category": "식품"
    }
   ],
@@ -844,6 +844,18 @@
     "slot_id": "61051",
     "pgm": "아웃도어프로덕츠와 겨울나기!",
     "title": "기모/플리스 외 FW인기템",
+    "category": "패션"
+   },
+   {
+    "start": "08:30",
+    "end": "11:30",
+    "brand": "스케쳐스코리아 본사",
+    "product": "[스케쳐스 브랜드데이] 가을 베스트 워킹화/아치핏/슬립인스 ~30%+쿠폰",
+    "price": 99000,
+    "link": "https://store.kakao.com/skecherskr/products/66544898",
+    "slot_id": "61052",
+    "pgm": "발이 먼저 아는 스케쳐스",
+    "title": "킵세이크/고워크 외 겨울대비",
     "category": "패션"
    },
    {
@@ -874,9 +886,9 @@
     "start": "10:00",
     "end": "11:30",
     "brand": "풀무원 공식 스토어",
-    "product": "리셋클렌즈 48시간 37% 할인 외 콩즙두유 / 과채주스 특가전",
-    "price": 28000,
-    "link": "https://store.kakao.com/pulmuoneshop/products/719940957",
+    "product": "[디자인밀] 프로틴 솔루션 315g (블랙 7곡, 리얼초코)",
+    "price": 35000,
+    "link": "https://store.kakao.com/pulmuoneshop/products/807464397",
     "slot_id": "61102",
     "pgm": "맛있는 신상 프로틴 솔루션!",
     "title": "가볍고 든든한 루틴!",
@@ -998,8 +1010,8 @@
     "price": 769000,
     "link": "https://store.kakao.com/cuckooel/products/779037456",
     "slot_id": "61401",
-    "pgm": "단80분! 최대혜택",
-    "title": "쿠쿠 톡딜위크 라이브",
+    "pgm": "쿠쿠 톡딜위크 라이브",
+    "title": "단80분! 최대혜택",
     "category": "테크"
    },
    {
@@ -1138,6 +1150,18 @@
    },
    {
     "start": "10:00",
+    "end": "13:00",
+    "brand": "스케쳐스코리아 본사",
+    "product": "[스케쳐스 브랜드데이] 키즈 가을 신발 추천! 인기 운동화/슬립인스 ~22%+쿠폰",
+    "price": 59000,
+    "link": "https://store.kakao.com/skecherskr/products/763740620",
+    "slot_id": "61222",
+    "pgm": "발편한 아이신발 스케쳐스키즈",
+    "title": "부츠/보온템 외 겨울대비",
+    "category": "패션"
+   },
+   {
+    "start": "10:00",
     "end": "11:30",
     "brand": "락토필듀오",
     "product": "락토필듀오 유산균 영양제 모음전",
@@ -1248,7 +1272,7 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "브랜드 널 담",
-    "product": "널담 4.5CM 고식이섬유 뚱카롱 2BOX 외 저당 디저트 모음전",
+    "product": "널담 4.5CM 고식이섬유 뚱카롱(사랑/감동) 2BOX 외 저당 디저트 모음전",
     "price": 23900,
     "link": "https://store.kakao.com/nuldam/products/63422823",
     "slot_id": "61126",
@@ -1308,8 +1332,8 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "플루",
-    "product": "[플루] 시그니처 바디스크럽 215g 외 스크럽 바디워시 베스트 모음",
-    "price": 16900,
+    "product": "[플루] 밀크 앤 퍼퓸 바디워시 1L 외 쟁여두기 특가 모음",
+    "price": 18900,
     "link": "https://store.kakao.com/plu/products/67632585",
     "slot_id": "61510",
     "pgm": "플루 쟁여두기 특가",
@@ -1330,6 +1354,18 @@
    }
   ],
   "2026-11-07": [
+   {
+    "start": "10:00",
+    "end": "13:00",
+    "brand": "원더브라",
+    "product": "[1번] *카쇼라중 구매시 무료교환/반품*  로맨틱 레이스 노와이어 브라4+팬티4 8종세트",
+    "price": 380000,
+    "link": "https://store.kakao.com/wonderbra/products/547522583",
+    "slot_id": "61319",
+    "pgm": "원더브라 베스트 리오더",
+    "title": "카쇼라 특가+10%할인쿠폰",
+    "category": "패션"
+   },
    {
     "start": "10:00",
     "end": "11:30",
