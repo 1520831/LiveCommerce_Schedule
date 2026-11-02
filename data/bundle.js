@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-02T16:00:29+09:00",
+ "generated_at": "2026-11-02T16:20:12+09:00",
  "today": "2026-11-02",
  "dates": [
   "2026-11-01",
@@ -9746,7 +9746,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 10
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -10358,7 +10358,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -11340,7 +11340,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "14:00",
@@ -25170,7 +25170,7 @@ window.SCHEDULE = {
      "slot_id": "260169",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 1",
      "category": "가전",
-     "hot": 9
+     "hot": 8
     },
     {
      "start": "09:00",
@@ -25236,7 +25236,7 @@ window.SCHEDULE = {
      "slot_id": "260175",
      "pgm": "11월 첫 빅스마일데이 쇼핑은 LG가전!🌟",
      "category": "가전",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "11:00",
