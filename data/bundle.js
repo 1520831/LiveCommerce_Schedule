@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-02T13:20:11+09:00",
+ "generated_at": "2026-11-02T13:40:21+09:00",
  "today": "2026-11-02",
  "dates": [
   "2026-11-01",
@@ -9747,7 +9747,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -10359,7 +10359,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -25170,7 +25170,7 @@ window.SCHEDULE = {
      "slot_id": "260169",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 1",
      "category": "가전",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "09:00",
