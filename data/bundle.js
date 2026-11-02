@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-02T09:40:15+09:00",
+ "generated_at": "2026-11-02T10:00:11+09:00",
  "today": "2026-11-02",
  "dates": [
   "2026-11-01",
@@ -412,7 +412,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "쥬크✨ 26FW 시그니처 상품 특별가 + 23% 쿠폰",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -6972,7 +6973,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "01:30",
@@ -7375,7 +7376,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "09:30",
@@ -25048,8 +25049,8 @@ window.SCHEDULE = {
    "2026-11-01",
    "2026-11-02"
   ],
-  "matched": 7,
-  "unmatched": 8
+  "matched": 8,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
