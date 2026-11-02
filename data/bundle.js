@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-02T21:00:11+09:00",
+ "generated_at": "2026-11-02T22:00:10+09:00",
  "today": "2026-11-02",
  "dates": [
   "2026-11-01",
@@ -658,7 +658,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[현명쇼] 버버리 신상 패딩 45만▼",
-     "pgm": "현명쇼(노블레스)"
+     "pgm": "현명쇼(노블레스)",
+     "hot": 10
     },
     {
      "start": "20:00",
@@ -9885,8 +9886,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "14:00",
@@ -11192,7 +11192,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "18:00",
@@ -26432,8 +26432,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4703536717",
      "slot_id": "260175",
      "pgm": "11월 첫 빅스마일데이 쇼핑은 LG가전!🌟",
-     "category": "가전",
-     "hot": 9
+     "category": "가전"
     },
     {
      "start": "11:00",
@@ -26628,7 +26627,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]삼성 가전 빅스마일데이 첫방 특가🔥",
      "rerun": true,
      "category": "가전",
-     "hot": 8
+     "hot": 4
     },
     {
      "start": "20:00",
@@ -26640,7 +26639,7 @@ window.SCHEDULE = {
      "slot_id": "260197",
      "pgm": "빅스마일데이 유튜버 고니TV와 함께하는 LG그램&모니터",
      "category": "디지털·PC",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "20:00",
@@ -29093,8 +29092,8 @@ window.SCHEDULE = {
    "2026-11-01",
    "2026-11-02"
   ],
-  "matched": 10,
-  "unmatched": 7
+  "matched": 9,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
