@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-02T10:00:11+09:00",
+ "generated_at": "2026-11-02T10:20:11+09:00",
  "today": "2026-11-02",
  "dates": [
   "2026-11-01",
@@ -412,8 +412,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "쥬크✨ 26FW 시그니처 상품 특별가 + 23% 쿠폰",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 7
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "10:00",
@@ -6972,8 +6971,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "01:30",
@@ -7284,7 +7282,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 6
     },
     {
      "start": "09:00",
@@ -7858,7 +7856,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -8458,7 +8457,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -8628,7 +8628,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -22423,7 +22424,7 @@ window.SCHEDULE = {
      "slot_id": "260169",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 1",
      "category": "가전",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "09:00",
@@ -22445,7 +22446,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4713493715",
      "slot_id": "259172",
      "pgm": "삼성 가전 빅스마일데이 첫방 특가🔥",
-     "category": "가전"
+     "category": "가전",
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -25049,8 +25051,8 @@ window.SCHEDULE = {
    "2026-11-01",
    "2026-11-02"
   ],
-  "matched": 8,
-  "unmatched": 7
+  "matched": 10,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
