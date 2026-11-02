@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-02T09:02:56+09:00",
+ "generated_at": "2026-11-02T09:20:16+09:00",
  "today": "2026-11-02",
  "dates": [
   "2026-11-01",
@@ -393,8 +393,7 @@ window.SCHEDULE = {
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255349941"
       }
      ],
-     "title": "[비지트인뉴욕] 세련된 포근한 의류 득템찬스✨",
-     "hot": 10
+     "title": "[비지트인뉴욕] 세련된 포근한 의류 득템찬스✨"
     },
     {
      "start": "09:00",
@@ -7141,8 +7140,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "03:50",
@@ -7285,7 +7283,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 2
     },
     {
      "start": "09:00",
@@ -7376,7 +7374,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 10
     },
     {
      "start": "09:30",
@@ -25049,8 +25048,8 @@ window.SCHEDULE = {
    "2026-11-01",
    "2026-11-02"
   ],
-  "matched": 8,
-  "unmatched": 7
+  "matched": 7,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
