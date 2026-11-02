@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-02T19:00:10+09:00",
+ "generated_at": "2026-11-02T20:00:11+09:00",
  "today": "2026-11-02",
  "dates": [
   "2026-11-01",
@@ -8267,8 +8267,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -8880,7 +8879,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -9888,7 +9887,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "14:00",
@@ -26369,8 +26368,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4565350697",
      "slot_id": "260169",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 1",
-     "category": "가전",
-     "hot": 9
+     "category": "가전"
     },
     {
      "start": "09:00",
@@ -26436,7 +26434,7 @@ window.SCHEDULE = {
      "slot_id": "260175",
      "pgm": "11월 첫 빅스마일데이 쇼핑은 LG가전!🌟",
      "category": "가전",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -26575,7 +26573,8 @@ window.SCHEDULE = {
      "slot_id": "259217",
      "pgm": "[앵콜]11월 첫 빅스마일데이 쇼핑은 LG가전!🌟",
      "rerun": true,
-     "category": "가전"
+     "category": "가전",
+     "hot": 9
     },
     {
      "start": "18:00",
@@ -29094,8 +29093,8 @@ window.SCHEDULE = {
    "2026-11-01",
    "2026-11-02"
   ],
-  "matched": 11,
-  "unmatched": 6
+  "matched": 10,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
