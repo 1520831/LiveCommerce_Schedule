@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-03T08:00:15+09:00",
+ "generated_at": "2026-11-03T08:20:13+09:00",
  "today": "2026-11-03",
  "dates": [
   "2026-11-02",
@@ -6752,7 +6752,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "08:00",
@@ -21577,7 +21577,8 @@ window.SCHEDULE = {
      "price": 13960,
      "link": "https://m.gmarket.co.kr/vi/product/4850667921",
      "slot_id": "260170",
-     "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 2"
+     "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 2",
+     "hot": 7
     },
     {
      "start": "09:00",
@@ -24021,8 +24022,8 @@ window.SCHEDULE = {
    "2026-11-02",
    "2026-11-03"
   ],
-  "matched": 9,
-  "unmatched": 11
+  "matched": 10,
+  "unmatched": 10
  },
  "fixed": {
   "rows": [
