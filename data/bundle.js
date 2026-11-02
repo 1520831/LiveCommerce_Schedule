@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-02T10:20:11+09:00",
+ "generated_at": "2026-11-02T10:40:09+09:00",
  "today": "2026-11-02",
  "dates": [
   "2026-11-01",
@@ -7373,8 +7373,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 4
+     "category": "테크"
     },
     {
      "start": "09:30",
@@ -8402,7 +8401,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -8458,7 +8458,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 10
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -8629,7 +8629,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 5
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -8893,7 +8893,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 10
     },
     {
      "start": "10:30",
@@ -22424,7 +22425,7 @@ window.SCHEDULE = {
      "slot_id": "260169",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 1",
      "category": "가전",
-     "hot": 2
+     "hot": 4
     },
     {
      "start": "09:00",
@@ -22447,7 +22448,7 @@ window.SCHEDULE = {
      "slot_id": "259172",
      "pgm": "삼성 가전 빅스마일데이 첫방 특가🔥",
      "category": "가전",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -25051,7 +25052,7 @@ window.SCHEDULE = {
    "2026-11-01",
    "2026-11-02"
   ],
-  "matched": 10,
+  "matched": 11,
   "unmatched": 6
  },
  "fixed": {
