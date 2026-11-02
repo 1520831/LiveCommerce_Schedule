@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-11",
- "updated_at": "2026-11-02T18:01:16+09:00",
+ "updated_at": "2026-11-02T23:30:52+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -406,17 +406,17 @@
    {
     "start": "11:00",
     "end": "11:59",
-    "brand": "BLISS",
-    "product": "(블리스) DAPHNE 18K 다이아 크로스 목걸이",
-    "price": 2999000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2217588437",
+    "brand": "우노아레",
+    "product": "18K 레가치오 브레이슬릿",
+    "price": 1399000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250186194",
     "slot_id": "202611026004",
     "items": [
      {
-      "brand": "BLISS",
-      "product": "(블리스) DAPHNE 18K 다이아 크로스 목걸이",
-      "price": 2999000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2217588437"
+      "brand": "우노아레",
+      "product": "18K 레가치오 브레이슬릿",
+      "price": 1399000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250186194"
      }
     ],
     "title": "[노블리타] 이탈리아 18K 주얼리 전 상품 최저가도전",
@@ -724,6 +724,25 @@
     ],
     "title": "[플라스틱아일랜드] 트렌드를 담은 겨울 신상❤️",
     "pgm": "현대렐라쇼 (멀티커머스)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "스노우피크",
+    "product": "에어클라우드 10D 씬클라우드 자켓 Ice Gray (S26WMTPJ70) S26WMT-PJ70 IG",
+    "price": 259000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255590006",
+    "slot_id": "202611026024",
+    "items": [
+     {
+      "brand": "스노우피크",
+      "product": "에어클라우드 10D 씬클라우드 자켓 Ice Gray (S26WMTPJ70) S26WMT-PJ70 IG",
+      "price": 259000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255590006"
+     }
+    ],
+    "title": "[스노우피크] 26F/W 신상 아우터 최저가 도전!",
+    "pgm": "[재방] [스노우피크] 아웃도어 (멀티커머스)"
    }
   ],
   "2026-11-03": [
@@ -1642,6 +1661,25 @@
     ],
     "title": "최대 73% OFF! LYNN 린의 겨울맞이 스타일링❤",
     "pgm": "[린] 의류 (멀티커머스)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "모노크롬",
+    "product": "리아모크넥가디건 M264KT01 M264KT01",
+    "price": 254000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253891367",
+    "slot_id": "202611056017",
+    "items": [
+     {
+      "brand": "모노크롬",
+      "product": "리아모크넥가디건 M264KT01 M264KT01",
+      "price": 254000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253891367"
+     }
+    ],
+    "title": "겨울의 시작을 알리는 모노크롬! FW 6만원대부터❤️",
+    "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ],
   "2026-11-06": [
@@ -1878,17 +1916,17 @@
    {
     "start": "07:00",
     "end": "07:59",
-    "brand": "BLISS",
-    "product": "(블리스) DAPHNE 18K 다이아 크로스 목걸이",
-    "price": 2999000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2217588437",
+    "brand": "우노아레",
+    "product": "18K 레가치오 브레이슬릿",
+    "price": 1399000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250186194",
     "slot_id": "202611076015",
     "items": [
      {
-      "brand": "BLISS",
-      "product": "(블리스) DAPHNE 18K 다이아 크로스 목걸이",
-      "price": 2999000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2217588437"
+      "brand": "우노아레",
+      "product": "18K 레가치오 브레이슬릿",
+      "price": 1399000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250186194"
      }
     ],
     "title": "[노블리타] 이탈리아 18K 주얼리 전 상품 최저가도전",
