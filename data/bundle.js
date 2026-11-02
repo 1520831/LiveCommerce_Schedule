@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-02T20:00:11+09:00",
+ "generated_at": "2026-11-02T21:00:11+09:00",
  "today": "2026-11-02",
  "dates": [
   "2026-11-01",
@@ -8878,8 +8878,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -9887,7 +9886,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "14:00",
@@ -11193,7 +11192,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "18:00",
@@ -26434,7 +26433,7 @@ window.SCHEDULE = {
      "slot_id": "260175",
      "pgm": "11월 첫 빅스마일데이 쇼핑은 LG가전!🌟",
      "category": "가전",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -26573,8 +26572,7 @@ window.SCHEDULE = {
      "slot_id": "259217",
      "pgm": "[앵콜]11월 첫 빅스마일데이 쇼핑은 LG가전!🌟",
      "rerun": true,
-     "category": "가전",
-     "hot": 9
+     "category": "가전"
     },
     {
      "start": "18:00",
@@ -26629,7 +26627,8 @@ window.SCHEDULE = {
      "slot_id": "259216",
      "pgm": "[앵콜]삼성 가전 빅스마일데이 첫방 특가🔥",
      "rerun": true,
-     "category": "가전"
+     "category": "가전",
+     "hot": 8
     },
     {
      "start": "20:00",
@@ -26640,7 +26639,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4838559641",
      "slot_id": "260197",
      "pgm": "빅스마일데이 유튜버 고니TV와 함께하는 LG그램&모니터",
-     "category": "디지털·PC"
+     "category": "디지털·PC",
+     "hot": 5
     },
     {
      "start": "20:00",
