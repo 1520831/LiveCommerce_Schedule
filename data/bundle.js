@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-02T08:42:01+09:00",
+ "generated_at": "2026-11-02T09:02:56+09:00",
  "today": "2026-11-02",
  "dates": [
   "2026-11-01",
@@ -393,7 +393,8 @@ window.SCHEDULE = {
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255349941"
       }
      ],
-     "title": "[비지트인뉴욕] 세련된 포근한 의류 득템찬스✨"
+     "title": "[비지트인뉴욕] 세련된 포근한 의류 득템찬스✨",
+     "hot": 10
     },
     {
      "start": "09:00",
@@ -6972,7 +6973,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "01:30",
@@ -7141,7 +7142,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "03:50",
@@ -7284,7 +7285,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 4
     },
     {
      "start": "09:00",
@@ -22422,7 +22423,7 @@ window.SCHEDULE = {
      "slot_id": "260169",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 1",
      "category": "가전",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "09:00",
@@ -25048,8 +25049,8 @@ window.SCHEDULE = {
    "2026-11-01",
    "2026-11-02"
   ],
-  "matched": 7,
-  "unmatched": 8
+  "matched": 8,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
