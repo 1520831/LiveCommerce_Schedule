@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-03T12:40:11+09:00",
+ "generated_at": "2026-11-03T13:00:24+09:00",
  "today": "2026-11-03",
  "dates": [
   "2026-11-02",
@@ -8749,8 +8749,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -9202,7 +9201,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "10:30",
@@ -22647,7 +22646,7 @@ window.SCHEDULE = {
      "slot_id": "259176",
      "pgm": "바디프랜드 특가 라이브✨, 최대 50만원 적립 찬스!",
      "category": "가전",
-     "hot": 10
+     "hot": 9
     },
     {
      "start": "12:00",
@@ -25685,8 +25684,8 @@ window.SCHEDULE = {
    "2026-11-02",
    "2026-11-03"
   ],
-  "matched": 14,
-  "unmatched": 4
+  "matched": 13,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
