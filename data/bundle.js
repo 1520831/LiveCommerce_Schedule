@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-03T22:00:11+09:00",
+ "generated_at": "2026-11-03T23:00:09+09:00",
  "today": "2026-11-03",
  "dates": [
   "2026-11-02",
@@ -10902,8 +10902,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티",
-     "hot": 1
+     "category": "뷰티"
     },
     {
      "start": "19:00",
@@ -12726,7 +12725,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "20:00",
@@ -25350,7 +25349,7 @@ window.SCHEDULE = {
      "slot_id": "260223",
      "pgm": "삼성 가전은 빅스마일데이에서 !",
      "category": "가전",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "21:00",
@@ -25362,7 +25361,8 @@ window.SCHEDULE = {
      "slot_id": "259225",
      "pgm": "[앵콜]LG가전 지금 구매 찬스! 놓치지마세요❤️",
      "rerun": true,
-     "category": "가전"
+     "category": "가전",
+     "hot": 9
     },
     {
      "start": "21:00",
@@ -25385,7 +25385,7 @@ window.SCHEDULE = {
      "slot_id": "260224",
      "pgm": "빅스마일데이 인텔 코어 프로세서 갤럭시북 시리즈",
      "category": "디지털·PC",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "21:00",
@@ -25429,7 +25429,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4805187100",
      "slot_id": "260220",
      "pgm": "빅스마일데이! 삼성 갤럭시 특가💙 +구매인증 추첨🎁",
-     "category": "디지털·PC"
+     "category": "디지털·PC",
+     "hot": 3
     },
     {
      "start": "22:00",
@@ -28241,8 +28242,8 @@ window.SCHEDULE = {
    "2026-11-02",
    "2026-11-03"
   ],
-  "matched": 13,
-  "unmatched": 6
+  "matched": 14,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
