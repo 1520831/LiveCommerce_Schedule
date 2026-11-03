@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-03T21:00:10+09:00",
+ "generated_at": "2026-11-03T22:00:11+09:00",
  "today": "2026-11-03",
  "dates": [
   "2026-11-02",
@@ -12040,8 +12040,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티",
-     "hot": 10
+     "category": "뷰티"
     },
     {
      "start": "20:00",
@@ -25351,7 +25350,7 @@ window.SCHEDULE = {
      "slot_id": "260223",
      "pgm": "삼성 가전은 빅스마일데이에서 !",
      "category": "가전",
-     "hot": 5
+     "hot": 3
     },
     {
      "start": "21:00",
@@ -25385,7 +25384,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4638159692",
      "slot_id": "260224",
      "pgm": "빅스마일데이 인텔 코어 프로세서 갤럭시북 시리즈",
-     "category": "디지털·PC"
+     "category": "디지털·PC",
+     "hot": 9
     },
     {
      "start": "21:00",
