@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-03T14:00:14+09:00",
+ "generated_at": "2026-11-03T14:20:10+09:00",
  "today": "2026-11-03",
  "dates": [
   "2026-11-02",
@@ -7894,7 +7894,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -8749,7 +8749,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -9201,7 +9202,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "10:30",
@@ -9452,8 +9453,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈",
-     "hot": 2
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -22589,7 +22589,7 @@ window.SCHEDULE = {
      "slot_id": "260204",
      "pgm": "LG가전 지금 구매 찬스! 놓치지마세요❤️",
      "category": "가전",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -22601,7 +22601,7 @@ window.SCHEDULE = {
      "slot_id": "260205",
      "pgm": "빅스마일데이🎉 쿠쿠 밥솥&주방가전 초특가!",
      "category": "가전",
-     "hot": 8
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -22646,7 +22646,7 @@ window.SCHEDULE = {
      "slot_id": "259176",
      "pgm": "바디프랜드 특가 라이브✨, 최대 50만원 적립 찬스!",
      "category": "가전",
-     "hot": 9
+     "hot": 8
     },
     {
      "start": "12:00",
@@ -22659,7 +22659,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]삼성 가전 빅스마일데이 첫방 특가🔥",
      "rerun": true,
      "category": "가전",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "12:00",
@@ -25686,7 +25686,7 @@ window.SCHEDULE = {
    "2026-11-03"
   ],
   "matched": 14,
-  "unmatched": 5
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
