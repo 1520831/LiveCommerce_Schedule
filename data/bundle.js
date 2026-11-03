@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-03T12:20:09+09:00",
+ "generated_at": "2026-11-03T12:40:11+09:00",
  "today": "2026-11-03",
  "dates": [
   "2026-11-02",
@@ -7894,7 +7894,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -10173,8 +10173,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -22591,7 +22590,7 @@ window.SCHEDULE = {
      "slot_id": "260204",
      "pgm": "LG가전 지금 구매 찬스! 놓치지마세요❤️",
      "category": "가전",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -22647,7 +22646,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4425669324",
      "slot_id": "259176",
      "pgm": "바디프랜드 특가 라이브✨, 최대 50만원 적립 찬스!",
-     "category": "가전"
+     "category": "가전",
+     "hot": 10
     },
     {
      "start": "12:00",
