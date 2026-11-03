@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-03T11:00:15+09:00",
+ "generated_at": "2026-11-03T11:20:11+09:00",
  "today": "2026-11-03",
  "dates": [
   "2026-11-02",
@@ -7130,8 +7130,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 7
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -7425,7 +7424,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -7529,7 +7528,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -7915,7 +7914,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -8322,7 +8321,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -8773,7 +8772,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 10
     },
     {
      "start": "10:30",
@@ -9024,7 +9024,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -21593,7 +21594,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4850667921",
      "slot_id": "260170",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 2",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "09:00",
@@ -21616,8 +21617,7 @@ window.SCHEDULE = {
      "slot_id": "259218",
      "pgm": "[앵콜]로보락 S10 MaxV Ultra Steam",
      "rerun": true,
-     "category": "가전",
-     "hot": 8
+     "category": "가전"
     },
     {
      "start": "10:00",
@@ -23376,8 +23376,7 @@ window.SCHEDULE = {
      "slot_id": "61108",
      "pgm": "크리넥스&좋은느낌",
      "title": "앵콜! 생필품 쟁일 기회",
-     "category": "리빙",
-     "hot": 9
+     "category": "리빙"
     },
     {
      "start": "08:30",
@@ -23402,7 +23401,7 @@ window.SCHEDULE = {
      "pgm": "덴마크 유산균이야기",
      "title": "톡딜위크 최대 7%+7%할인",
      "category": "식품",
-     "hot": 5
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -23414,8 +23413,7 @@ window.SCHEDULE = {
      "slot_id": "61044",
      "pgm": "[룰루맘] 베스트간식 특가전",
      "title": "구매왕 이벤트까지!!",
-     "category": "키즈",
-     "hot": 10
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -24766,7 +24764,7 @@ window.SCHEDULE = {
    "2026-11-02",
    "2026-11-03"
   ],
-  "matched": 17,
+  "matched": 15,
   "unmatched": 3
  },
  "fixed": {
