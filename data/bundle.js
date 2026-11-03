@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-03T15:20:13+09:00",
+ "generated_at": "2026-11-03T15:40:11+09:00",
  "today": "2026-11-03",
  "dates": [
   "2026-11-02",
@@ -7894,7 +7894,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -9201,7 +9201,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "10:30",
@@ -22588,7 +22588,7 @@ window.SCHEDULE = {
      "slot_id": "260204",
      "pgm": "LG가전 지금 구매 찬스! 놓치지마세요❤️",
      "category": "가전",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -22658,7 +22658,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]삼성 가전 빅스마일데이 첫방 특가🔥",
      "rerun": true,
      "category": "가전",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "12:00",
