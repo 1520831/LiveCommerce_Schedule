@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-03T11:20:11+09:00",
+ "generated_at": "2026-11-03T11:40:37+09:00",
  "today": "2026-11-03",
  "dates": [
   "2026-11-02",
@@ -7424,7 +7424,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 5
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -7914,7 +7914,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -8773,7 +8773,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 10
+     "hot": 8
     },
     {
      "start": "10:30",
@@ -9025,7 +9025,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 6
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -21593,8 +21593,7 @@ window.SCHEDULE = {
      "price": 12990,
      "link": "https://m.gmarket.co.kr/vi/product/4850667921",
      "slot_id": "260170",
-     "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 2",
-     "hot": 9
+     "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 2"
     },
     {
      "start": "09:00",
@@ -21694,7 +21693,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4703536717",
      "slot_id": "260204",
      "pgm": "LG가전 지금 구매 찬스! 놓치지마세요❤️",
-     "category": "가전"
+     "category": "가전",
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -23400,8 +23400,7 @@ window.SCHEDULE = {
      "slot_id": "61249",
      "pgm": "덴마크 유산균이야기",
      "title": "톡딜위크 최대 7%+7%할인",
-     "category": "식품",
-     "hot": 8
+     "category": "식품"
     },
     {
      "start": "10:00",
@@ -24764,8 +24763,8 @@ window.SCHEDULE = {
    "2026-11-02",
    "2026-11-03"
   ],
-  "matched": 15,
-  "unmatched": 3
+  "matched": 14,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
