@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-11",
- "updated_at": "2026-11-03T18:01:03+09:00",
+ "updated_at": "2026-11-03T23:30:50+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -1163,9 +1163,9 @@
     "start": "09:00",
     "end": "09:59",
     "brand": "오하루 자연가득",
-    "product": "당편한 바나바워터 1박스(20병) 혈당차",
-    "price": 24900,
-    "link": "https://item.cjonstyle.com/item/2084270604?channelCode=30002002",
+    "product": "에브리데이 견과 4박스 (100봉)",
+    "price": 99900,
+    "link": "https://item.cjonstyle.com/item/2082785891?channelCode=30002002",
     "slot_id": "31211",
     "title": "[오하루] 당편한 에브리데이 견과+서리태콩물두유+오트밀쉐이크 ~38%",
     "pgm": "라이브쇼",
@@ -1515,7 +1515,7 @@
     "price": 352930,
     "link": "https://item.cjonstyle.com/item/2096320905?channelCode=30002002",
     "slot_id": "31203",
-    "title": "NEW 위닉스 가열식 가습기 론칭 특가전",
+    "title": "NEW 위닉스 가열식 가습기 론칭 특가전 + 5%카드 & 10%적립",
     "pgm": "라이브쇼",
     "pgm_cd": "1016",
     "category": "가전"
@@ -1551,7 +1551,7 @@
     "end": "19:59",
     "brand": "시몬스",
     "product": "아를라. 뷰티레스트 바이브. 퀸 침대",
-    "price": 4428800,
+    "price": 4498000,
     "link": "https://item.cjonstyle.com/item/2012672536?channelCode=30002002",
     "slot_id": "31343",
     "title": "다시보는 시몬스 앵콜전, 마지막 특가",
