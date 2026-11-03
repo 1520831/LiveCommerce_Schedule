@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-03T10:00:18+09:00",
+ "generated_at": "2026-11-03T10:20:11+09:00",
  "today": "2026-11-03",
  "dates": [
   "2026-11-02",
@@ -510,7 +510,7 @@ window.SCHEDULE = {
      ],
      "title": "써스데이아일랜드 감성 가득한 원피스룩",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 5
+     "hot": 10
     },
     {
      "start": "09:00",
@@ -6505,8 +6505,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "01:10",
@@ -6818,8 +6817,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 8
+     "category": "테크"
     },
     {
      "start": "09:00",
@@ -7426,7 +7424,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -7529,7 +7528,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -7914,7 +7914,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -8320,7 +8321,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -21591,7 +21593,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4850667921",
      "slot_id": "260170",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 2",
-     "hot": 2
+     "hot": 4
     },
     {
      "start": "09:00",
@@ -23361,8 +23363,7 @@ window.SCHEDULE = {
      "slot_id": "61024",
      "pgm": "청미정 다시마 샴푸",
      "title": "3개월 대용량 특가!",
-     "category": "뷰티",
-     "hot": 6
+     "category": "뷰티"
     },
     {
      "start": "08:30",
@@ -23375,7 +23376,7 @@ window.SCHEDULE = {
      "pgm": "크리넥스&좋은느낌",
      "title": "앵콜! 생필품 쟁일 기회",
      "category": "리빙",
-     "hot": 3
+     "hot": 6
     },
     {
      "start": "08:30",
@@ -23388,7 +23389,7 @@ window.SCHEDULE = {
      "pgm": "미샤 ~75%+추가 쿠폰",
      "title": "라이브 한정 특가 상품",
      "category": "뷰티",
-     "hot": 4
+     "hot": 8
     },
     {
      "start": "08:30",
@@ -23401,7 +23402,7 @@ window.SCHEDULE = {
      "pgm": "덴마크 유산균이야기",
      "title": "톡딜위크 최대 7%+7%할인",
      "category": "식품",
-     "hot": 1
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -23413,7 +23414,8 @@ window.SCHEDULE = {
      "slot_id": "61044",
      "pgm": "[룰루맘] 베스트간식 특가전",
      "title": "구매왕 이벤트까지!!",
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -24764,8 +24766,8 @@ window.SCHEDULE = {
    "2026-11-02",
    "2026-11-03"
   ],
-  "matched": 15,
-  "unmatched": 5
+  "matched": 17,
+  "unmatched": 3
  },
  "fixed": {
   "rows": [
