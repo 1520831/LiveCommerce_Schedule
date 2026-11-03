@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-04T08:00:14+09:00",
+ "generated_at": "2026-11-04T08:20:13+09:00",
  "today": "2026-11-04",
  "dates": [
   "2026-11-03",
@@ -434,8 +434,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 막스마라 월 1만원대 득템 찬스",
-     "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 8
+     "pgm": "[재방] 투명쇼 (패션잡화)"
     },
     {
      "start": "07:00",
@@ -473,7 +472,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "결이 다른 겨울의 시작! BCBG 최대 75%▼",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 6
     },
     {
      "start": "09:00",
@@ -6668,7 +6668,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "01:10",
@@ -20659,7 +20659,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/2724357896",
      "slot_id": "259137",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 3",
-     "category": "가구·침구"
+     "category": "가구·침구",
+     "hot": 2
     },
     {
      "start": "09:00",
@@ -23423,8 +23424,8 @@ window.SCHEDULE = {
    "2026-11-03",
    "2026-11-04"
   ],
-  "matched": 8,
-  "unmatched": 11
+  "matched": 9,
+  "unmatched": 10
  },
  "fixed": {
   "rows": [
