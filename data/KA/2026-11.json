@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-11",
- "updated_at": "2026-11-03T07:01:21+09:00",
+ "updated_at": "2026-11-03T12:01:07+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -266,7 +266,7 @@
     "end": "21:31",
     "brand": "주디앤",
     "product": "'미피와 포근한 하루' 주디앤 + 미피 with 최예나 긴팔 잠옷 파자마 컬렉션 23종 택1",
-    "price": 37900,
+    "price": 39900,
     "link": "https://gift.kakao.com/product/13829967?url=product&cId=13829967",
     "slot_id": "61074",
     "pgm": "주디앤+미피with최예나",
@@ -325,7 +325,7 @@
   "2026-11-03": [
    {
     "start": "08:30",
-    "end": "10:00",
+    "end": "09:50",
     "brand": "청미정",
     "product": "청미정 BEST 다시마 헤어케어 모음",
     "price": 28500,
@@ -337,7 +337,7 @@
    },
    {
     "start": "08:30",
-    "end": "11:30",
+    "end": "09:52",
     "brand": "유한킴벌리 직영 스토어",
     "product": "부드러움 끝판왕! 크리넥스 데코앤소프트 28MX24롤X2팩 외 화장지/마이비데/키친타월",
     "price": 45900,
@@ -349,11 +349,11 @@
    },
    {
     "start": "08:30",
-    "end": "11:30",
+    "end": "09:52",
     "brand": "미샤공식스토어",
-    "product": "미샤 비타씨플러스 스팟 클리어 멜팅 젤워시 120g",
-    "price": 5800,
-    "link": "https://store.kakao.com/missha/products/744504905",
+    "product": "[집중 탄력/1+1] 미샤 타임레볼루션 나이트리페어 앰플5X(5세대) 70ml 외 안티에이징 추천템",
+    "price": 88000,
+    "link": "https://store.kakao.com/missha/products/96174096",
     "slot_id": "61232",
     "pgm": "미샤 ~75%+추가 쿠폰",
     "title": "라이브 한정 특가 상품",
@@ -361,7 +361,7 @@
    },
    {
     "start": "08:30",
-    "end": "11:30",
+    "end": "09:54",
     "brand": "덴프스",
     "product": "덴마크 유산균이야기 4박스/8개월분 + 트루바이타민 7일분 &  트루바이타민 부스터 업 1병 증정",
     "price": 368000,
@@ -373,7 +373,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:00",
     "brand": "룰루맘",
     "product": "빼빼구마 리얼이구마 무농약 고구마 말랭이 외 아이 간식 모음전",
     "price": 58800,
@@ -385,7 +385,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:00",
     "brand": "창억떡",
     "product": "[SNS 화제 창억떡] 달콤쫀득 호박인절미, 신제품 앙금절편 외 30개입",
     "price": 38700,
@@ -393,6 +393,30 @@
     "slot_id": "61104",
     "pgm": "광주 명물 창억떡 ~25%",
     "title": "11월 찰떡&설기 특별라이브",
+    "category": "식품"
+   },
+   {
+    "start": "10:42",
+    "end": "11:27",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49000,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "61696",
+    "pgm": "터치그라운드 발편한운동화",
+    "title": "가벼우면서 쿠션감 좋은운동화",
+    "category": "패션"
+   },
+   {
+    "start": "11:00",
+    "end": "11:39",
+    "brand": "땡이아빠 땡마켓",
+    "product": "뉴질랜드에서 날아온 새콤달콤 제스프리 골드키위 특대과 15과",
+    "price": 36190,
+    "link": "https://store.kakao.com/ttangsmarket/products/769031095",
+    "slot_id": "61712",
+    "pgm": "깜짝 제스프리 골드키위",
+    "title": "특대과(130g) 15개입",
     "category": "식품"
    },
    {
@@ -460,7 +484,7 @@
     "end": "20:30",
     "brand": "비에날몰",
     "product": "BNR17 비에날씬 모유유산균 체지방감소 3개월 캡슐",
-    "price": 297000,
+    "price": 198000,
     "link": "https://store.kakao.com/bnrmall/products/62682089",
     "slot_id": "61054",
     "pgm": "비에날씬 가을대비 라이브!",
@@ -490,18 +514,6 @@
     "pgm": "제일제당 든든한 한상차림",
     "title": "햇반 생선구이 외 골라담기",
     "category": "식품"
-   },
-   {
-    "start": "20:00",
-    "end": "21:30",
-    "brand": "리치앤썬",
-    "product": "[리치앤썬] 지금부터 한겨울까지 털가득 슬리퍼/앵클부츠",
-    "price": 38900,
-    "link": "https://store.kakao.com/richnsun/products/55623439",
-    "slot_id": "61711",
-    "pgm": "리치앤썬 겨울 준비",
-    "title": "털슬리퍼 앵클부츠",
-    "category": "패션"
    },
    {
     "start": "20:30",
@@ -574,18 +586,6 @@
     "pgm": "2026년 귀뚜라미",
     "title": "겨울을 위한 카본매트",
     "category": "테크"
-   },
-   {
-    "start": "22:30",
-    "end": "00:00",
-    "brand": "터치그라운드 스니커즈",
-    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-    "price": 49000,
-    "link": "https://store.kakao.com/touchground/products/774098244",
-    "slot_id": "61696",
-    "pgm": "터치그라운드 발편한운동화",
-    "title": "가벼우면서 쿠션감 좋은운동화",
-    "category": "패션"
    }
   ],
   "2026-11-04": [
@@ -593,7 +593,7 @@
     "start": "08:30",
     "end": "11:30",
     "brand": "드시모네",
-    "product": "[민화픽]드시모네 베이비 스텝1/스텝2/키즈1 6박스 (6개월분) + 요거트 3개입 + 요거트볼&커피 증정",
+    "product": "[6개월]드시모네 베이비 스텝1 6BOX(6개월분) + 베이비 스텝2 15일분 + 요거트 증정",
     "price": 228000,
     "link": "https://store.kakao.com/desimone/products/162868039",
     "slot_id": "61253",
@@ -683,6 +683,18 @@
     "slot_id": "61467",
     "pgm": "빅키즈+하루10분이면 시리즈",
     "category": "키즈"
+   },
+   {
+    "start": "11:00",
+    "end": "12:30",
+    "brand": "청담 예마",
+    "product": "청담예마 수제 프리미엄 상주 곶감단지",
+    "price": 58000,
+    "link": "https://store.kakao.com/yema/products/805906519",
+    "slot_id": "61716",
+    "pgm": "수제 프리미엄 곶감단지",
+    "title": "겨울 건강 간식 & 선물",
+    "category": "식품"
    },
    {
     "start": "11:30",
@@ -827,6 +839,18 @@
     "pgm": "파티스마트 젤리 단독 특가!",
     "title": "취향대로 골라 즐기는 맛!",
     "category": "식품"
+   },
+   {
+    "start": "22:30",
+    "end": "00:00",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49000,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "61713",
+    "pgm": "터치그라운드 쿠셔닝슬리퍼",
+    "title": "이렇게 편해도 되나요?",
+    "category": "패션"
    }
   ],
   "2026-11-05": [
@@ -1042,8 +1066,8 @@
     "price": 17900,
     "link": "https://gift.kakao.com/product/12389265?url=product&cId=12389265",
     "slot_id": "61136",
-    "pgm": "카카올라 빼빼로데이&수능응원",
-    "title": "라이브 단독할인+무료배송",
+    "pgm": "11/11 초코데이&수능응원",
+    "title": "카카올라 라이브 단독할인",
     "category": "식품"
    },
    {
@@ -1308,8 +1332,8 @@
     "price": 23900,
     "link": "https://store.kakao.com/nuldam/products/63422823",
     "slot_id": "61126",
-    "pgm": "빼빼로데이에는 널담 뚱카롱",
-    "title": "진심을 담은 선물 ~68%",
+    "pgm": "1111 선물은 널담 뚱카롱",
+    "title": "미리 준비하세요 ~68%",
     "category": "식품"
    },
    {
@@ -1394,8 +1418,8 @@
     "price": 380000,
     "link": "https://store.kakao.com/wonderbra/products/547522583",
     "slot_id": "61319",
-    "pgm": "원더브라 베스트 리오더",
-    "title": "카쇼라 특가+10%할인쿠폰",
+    "pgm": "하루종일 편안한 원더브라",
+    "title": "베스트 리오더특가!쿠폰/증정",
     "category": "패션"
    },
    {
@@ -1681,7 +1705,7 @@
     "end": "22:00",
     "brand": "청년상점",
     "product": "(2개구매시 5kg 발송) 달콤한 햇 호풍미 호박고구마 2kg 특상 비세척 외 꿀밤고구마 베니하루카",
-    "price": 15900,
+    "price": 8900,
     "link": "https://store.kakao.com/youngstore/products/144621550",
     "slot_id": "61611",
     "pgm": "호풍미 호박고구마 2kg특상",
