@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-04T08:20:13+09:00",
+ "generated_at": "2026-11-04T08:40:18+09:00",
  "today": "2026-11-04",
  "dates": [
   "2026-11-03",
@@ -473,7 +473,7 @@ window.SCHEDULE = {
      ],
      "title": "결이 다른 겨울의 시작! BCBG 최대 75%▼",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 6
+     "hot": 2
     },
     {
      "start": "09:00",
@@ -6668,7 +6668,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 6
     },
     {
      "start": "01:10",
@@ -20660,7 +20660,7 @@ window.SCHEDULE = {
      "slot_id": "259137",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 3",
      "category": "가구·침구",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "09:00",
@@ -22011,7 +22011,8 @@ window.SCHEDULE = {
      "slot_id": "61253",
      "pgm": "드시모네 장면역 특허유산균",
      "title": "최대 20%+7%+7% 할인",
-     "category": "식품"
+     "category": "식품",
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -22023,7 +22024,8 @@ window.SCHEDULE = {
      "slot_id": "61422",
      "pgm": "그레인온 X 톡딜위크",
      "title": "달달한 혜택이 팡팡!",
-     "category": "식품"
+     "category": "식품",
+     "hot": 7
     },
     {
      "start": "08:30",
@@ -22035,7 +22037,8 @@ window.SCHEDULE = {
      "slot_id": "61444",
      "pgm": "아토팜 톡딜위크 LIVE",
      "title": "가을 보습템/워시/키즈 특가",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 5
     },
     {
      "start": "08:30",
@@ -23424,8 +23427,8 @@ window.SCHEDULE = {
    "2026-11-03",
    "2026-11-04"
   ],
-  "matched": 9,
-  "unmatched": 10
+  "matched": 12,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
