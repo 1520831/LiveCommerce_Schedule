@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-03T08:40:13+09:00",
+ "generated_at": "2026-11-03T09:01:05+09:00",
  "today": "2026-11-03",
  "dates": [
   "2026-11-02",
@@ -471,8 +471,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[한민금거래소] 재테크/선물용 프리미엄 골드바 핫딜",
-     "pgm": "[재방] 한민금거래소 (패션잡화)",
-     "hot": 7
+     "pgm": "[재방] 한민금거래소 (패션잡화)"
     },
     {
      "start": "07:00",
@@ -511,7 +510,7 @@ window.SCHEDULE = {
      ],
      "title": "써스데이아일랜드 감성 가득한 원피스룩",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 6
+     "hot": 3
     },
     {
      "start": "09:00",
@@ -6507,7 +6506,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 8
     },
     {
      "start": "01:10",
@@ -6819,7 +6818,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 7
     },
     {
      "start": "09:00",
@@ -22623,7 +22623,8 @@ window.SCHEDULE = {
      "slot_id": "61024",
      "pgm": "청미정 다시마 샴푸",
      "title": "3개월 대용량 특가!",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 10
     },
     {
      "start": "08:30",
@@ -22635,7 +22636,8 @@ window.SCHEDULE = {
      "slot_id": "61108",
      "pgm": "크리넥스&좋은느낌",
      "title": "앵콜! 생필품 쟁일 기회",
-     "category": "리빙"
+     "category": "리빙",
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -22647,7 +22649,8 @@ window.SCHEDULE = {
      "slot_id": "61232",
      "pgm": "미샤 ~75%+추가 쿠폰",
      "title": "라이브 한정 특가 상품",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 5
     },
     {
      "start": "08:30",
@@ -22660,7 +22663,7 @@ window.SCHEDULE = {
      "pgm": "덴마크 유산균이야기",
      "title": "톡딜위크 최대 7%+7%할인",
      "category": "식품",
-     "hot": 5
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -24023,8 +24026,8 @@ window.SCHEDULE = {
    "2026-11-02",
    "2026-11-03"
   ],
-  "matched": 11,
-  "unmatched": 9
+  "matched": 14,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
