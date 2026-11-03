@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-11",
- "updated_at": "2026-11-03T23:30:56+09:00",
+ "updated_at": "2026-11-04T07:00:59+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -396,18 +396,6 @@
     "category": "식품"
    },
    {
-    "start": "10:42",
-    "end": "11:27",
-    "brand": "터치그라운드 스니커즈",
-    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-    "price": 49000,
-    "link": "https://store.kakao.com/touchground/products/774098244",
-    "slot_id": "61696",
-    "pgm": "터치그라운드 발편한운동화",
-    "title": "가벼우면서 쿠션감 좋은운동화",
-    "category": "패션"
-   },
-   {
     "start": "11:00",
     "end": "11:39",
     "brand": "땡이아빠 땡마켓",
@@ -504,18 +492,6 @@
     "category": "식품"
    },
    {
-    "start": "20:00",
-    "end": "20:58",
-    "brand": "리치앤썬",
-    "product": "[리치앤썬] 지금부터 한겨울까지 털가득 슬리퍼/앵클부츠",
-    "price": 38900,
-    "link": "https://store.kakao.com/richnsun/products/55623439",
-    "slot_id": "61711",
-    "pgm": "리치앤썬 겨울 준비",
-    "title": "털슬리퍼 앵클부츠",
-    "category": "패션"
-   },
-   {
     "start": "20:30",
     "end": "21:30",
     "brand": "하성민기업",
@@ -586,18 +562,6 @@
     "pgm": "군산 노포감성 그대로",
     "title": "장터국밥 600g 골라담기",
     "category": "식품"
-   },
-   {
-    "start": "21:00",
-    "end": "21:59",
-    "brand": "(주)상상그램",
-    "product": "[귀뚜라미] 27년형 THE 프리미엄 신형 블루투스 카본 탄소매트",
-    "price": 468000,
-    "link": "https://store.kakao.com/sangsangstore/products/118837559",
-    "slot_id": "61664",
-    "pgm": "2026년 귀뚜라미",
-    "title": "겨울을 위한 카본매트",
-    "category": "테크"
    },
    {
     "start": "22:30",
@@ -1819,6 +1783,214 @@
     "pgm": "브리츠 오픈형 이어폰",
     "title": "런칭 라이브특가!",
     "category": "테크"
+   }
+  ],
+  "2026-11-09": [
+   {
+    "start": "10:00",
+    "end": "13:00",
+    "brand": "유한킴벌리 직영 스토어",
+    "product": "하기스 2+2팩 타임 특가! 네이처/밤부/맥스드라이 외",
+    "price": 140800,
+    "link": "https://store.kakao.com/ykstore/products/77646294",
+    "slot_id": "61151",
+    "pgm": "하기스X카쇼라 톡딜위크",
+    "title": "대용량 기저귀 특가",
+    "category": "키즈"
+   },
+   {
+    "start": "10:00",
+    "end": "13:00",
+    "brand": "오드:뮤",
+    "product": "[선물포장BEST] MY PICK 가장 받고 싶은 선물추천 긴팔 파자마 46종 택1",
+    "price": 28900,
+    "link": "https://gift.kakao.com/product/12143374?url=product&cId=12143374",
+    "slot_id": "61578",
+    "pgm": "포근한 꿀잠템 오드뮤!",
+    "title": "시즌/단독/베스트 상품까지",
+    "category": "패션"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "타이거모닝",
+    "product": "진저샷 미니보틀 5개입 / 직장인 친구 지인 선물",
+    "price": 24900,
+    "link": "https://gift.kakao.com/product/13508326?url=product&cId=13508326",
+    "slot_id": "61596",
+    "pgm": "타이거모닝 100만병 돌파!",
+    "title": "겨울 필수 진저샷 특가",
+    "category": "식품"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "루브르파리",
+    "product": "[AS가능/백화점정품] 루브르파리 인기14K 주얼리 100종 특가찬스 최대 83%OFF (사은품증정)",
+    "price": 59800,
+    "link": "https://store.kakao.com/luvreparis/products/65480930",
+    "slot_id": "61632",
+    "pgm": "루브르파리 인기14K 주얼리",
+    "title": "한정수량 최대 85%특가!",
+    "category": "패션"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "베르블랑",
+    "product": "베르블랑 아기 세제/섬유유연제/캡슐세제/건조기시트 1+1 외 모음전",
+    "price": 54900,
+    "link": "https://store.kakao.com/vertblanc/products/247015450",
+    "slot_id": "61208",
+    "pgm": "베르블랑 톡딜위크 라이브!",
+    "title": "세제&유연제 구매시 증정",
+    "category": "키즈"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "밀크마일",
+    "product": "[밀크마일] 겨울 옷장 오픈! 따뜻한 겨울 아우터/플리스/기모상하복/티셔츠/팬츠/레깅스 외",
+    "price": 68900,
+    "link": "https://store.kakao.com/milkmile/products/116943439",
+    "slot_id": "61560",
+    "pgm": "밀크마일 윈터 오픈 라이브!",
+    "title": "뜨끈한 겨울아이템 보러가기",
+    "category": "키즈"
+   },
+   {
+    "start": "15:00",
+    "end": "18:00",
+    "brand": "미샤공식스토어",
+    "product": "[집중 탄력/1+1] 미샤 타임레볼루션 나이트리페어 앰플5X(5세대) 70ml 외 안티에이징 추천템",
+    "price": 88000,
+    "link": "https://store.kakao.com/missha/products/96174096",
+    "slot_id": "61718",
+    "pgm": "미샤 ~75%+추가 쿠폰",
+    "title": "라이브 한정 특가 상품",
+    "category": "뷰티",
+    "rerun": true,
+    "rerun_of": "61232"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "명태잡는날",
+    "product": "렌지에 돌려먹는 순살 고등어 구이 60g 3팩, 5팩 어린이 개별포장 삼치 가자미",
+    "price": 24900,
+    "link": "https://store.kakao.com/myeontae/products/630920157",
+    "slot_id": "61364",
+    "pgm": "전자렌지2분완성!생선구이3종",
+    "title": "가시제거 순살 고등어구이",
+    "category": "식품"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "신선하랑",
+    "product": "해풍맞은 국내산 남해 보물초 시금치 500g 1kg",
+    "price": 7900,
+    "link": "https://store.kakao.com/ssharang/products/498050274",
+    "slot_id": "61563",
+    "pgm": "남해 보물초 시금치 1kg",
+    "title": "라이브 무료 증정 이벤트!",
+    "category": "식품"
+   },
+   {
+    "start": "18:00",
+    "end": "19:30",
+    "brand": "폰드그룹몰",
+    "product": "[어패럴카쇼라] (11/09~) 캘빈클라인 스포츠,퍼포먼스,진스 종합 특가전",
+    "price": 129000,
+    "link": "https://store.kakao.com/pondgroup/products/755893337",
+    "slot_id": "61524",
+    "pgm": "[캘빈클라인스포츠]",
+    "title": "겨울맞이 기획전 특가",
+    "category": "패션"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "비에날씬",
+    "product": "BNR17 비에날씬 플러스 20포 다이어트 유산균",
+    "price": 38000,
+    "link": "https://gift.kakao.com/product/14548397?url=product&cId=14548397",
+    "slot_id": "61160",
+    "pgm": "비에날씬",
+    "title": "선물하기 런칭기념 라이브!",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "웹투어(주)",
+    "product": "[홀리데이 인 스위트 알펜시아 평창] 어텀 PKG(다이닝 초이스+워터파크) or 윈터 PKG(조식 + 리프트&렌탈 반일권)",
+    "price": 162800,
+    "link": "https://store.kakao.com/webtour/products/804904720",
+    "slot_id": "61200",
+    "pgm": "평창 알펜시아_가족힐링여행",
+    "title": "어텀/윈터/힐링 패키지",
+    "category": "여행"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "펜할리곤스",
+    "product": "2026 홀리데이 루나 스몰 세트",
+    "price": 184000,
+    "link": "https://gift.kakao.com/product/14484362?url=product&cId=14484362",
+    "slot_id": "61424",
+    "pgm": "펜할리곤스 ~26%+쿠폰",
+    "title": "전구매 고객 향수 샤쉐 증정",
+    "category": "뷰티"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "슈슐랭",
+    "product": "",
+    "price": 0,
+    "link": "https://shoppinglive.kakao.com/live/61683",
+    "slot_id": "61683",
+    "pgm": "[슈슐랭]겨울필수_양털부츠",
+    "title": "놓치면 아쉬운 방송 특가!",
+    "category": "패션"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "그레터스",
+    "product": "[스위스 목캔디 / 수능선물] 그레터스 파스티유 캔디 슈가프리 기프트세트(블랙커런트 맛 + 진저레몬 맛)",
+    "price": 33900,
+    "link": "https://gift.kakao.com/product/13612639?url=product&cId=13612639",
+    "slot_id": "61274",
+    "pgm": "스위스명품캔디 그레터스",
+    "title": "소중한 사람에게 전하는 선물",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "엘렌쥬얼리",
+    "product": "[14K 1+1] 엘렌쥬얼리 BEST 겨울주얼리 추천 랩다이아몬드/귀걸이/반지/목걸이/팔찌/14K/925 실버",
+    "price": 118900,
+    "link": "https://store.kakao.com/helenejw/products/11263841",
+    "slot_id": "61336",
+    "pgm": "엘렌쥬얼리 반지 1+1",
+    "title": "가을 마지막 카쇼라 특가",
+    "category": "패션"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "청년상점",
+    "product": "쫄깃고소한 곱창 모둠한판 700g(곱창210g+대창200g+막창200g+소스30g x 3개)",
+    "price": 25000,
+    "link": "https://store.kakao.com/youngstore/products/86377172",
+    "slot_id": "61620",
+    "pgm": "쫄깃고소한 곱창 모둠한판",
+    "title": "곱창+대창+막창+소스까지",
+    "category": "식품"
    }
   ]
  }
