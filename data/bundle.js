@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-03T10:40:12+09:00",
+ "generated_at": "2026-11-03T11:00:15+09:00",
  "today": "2026-11-03",
  "dates": [
   "2026-11-02",
@@ -7130,7 +7130,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -21616,7 +21617,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]로보락 S10 MaxV Ultra Steam",
      "rerun": true,
      "category": "가전",
-     "hot": 10
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -23376,7 +23377,7 @@ window.SCHEDULE = {
      "pgm": "크리넥스&좋은느낌",
      "title": "앵콜! 생필품 쟁일 기회",
      "category": "리빙",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "08:30",
@@ -23388,8 +23389,7 @@ window.SCHEDULE = {
      "slot_id": "61232",
      "pgm": "미샤 ~75%+추가 쿠폰",
      "title": "라이브 한정 특가 상품",
-     "category": "뷰티",
-     "hot": 8
+     "category": "뷰티"
     },
     {
      "start": "08:30",
@@ -23415,7 +23415,7 @@ window.SCHEDULE = {
      "pgm": "[룰루맘] 베스트간식 특가전",
      "title": "구매왕 이벤트까지!!",
      "category": "키즈",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "10:00",
