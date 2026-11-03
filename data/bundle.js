@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-03T12:02:11+09:00",
+ "generated_at": "2026-11-03T12:20:09+09:00",
  "today": "2026-11-03",
  "dates": [
   "2026-11-02",
@@ -22591,7 +22591,7 @@ window.SCHEDULE = {
      "slot_id": "260204",
      "pgm": "LG가전 지금 구매 찬스! 놓치지마세요❤️",
      "category": "가전",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "11:00",
