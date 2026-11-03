@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-03T10:20:11+09:00",
+ "generated_at": "2026-11-03T10:40:12+09:00",
  "today": "2026-11-03",
  "dates": [
   "2026-11-02",
@@ -509,8 +509,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "써스데이아일랜드 감성 가득한 원피스룩",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 10
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "09:00",
@@ -7425,7 +7424,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 5
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -7529,7 +7528,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -7915,7 +7914,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -8322,7 +8321,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -21593,7 +21592,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4850667921",
      "slot_id": "260170",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 2",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "09:00",
@@ -21616,7 +21615,8 @@ window.SCHEDULE = {
      "slot_id": "259218",
      "pgm": "[앵콜]로보락 S10 MaxV Ultra Steam",
      "rerun": true,
-     "category": "가전"
+     "category": "가전",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -23376,7 +23376,7 @@ window.SCHEDULE = {
      "pgm": "크리넥스&좋은느낌",
      "title": "앵콜! 생필품 쟁일 기회",
      "category": "리빙",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "08:30",
@@ -23402,7 +23402,7 @@ window.SCHEDULE = {
      "pgm": "덴마크 유산균이야기",
      "title": "톡딜위크 최대 7%+7%할인",
      "category": "식품",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "10:00",
