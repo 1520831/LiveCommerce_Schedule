@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-03T09:40:11+09:00",
+ "generated_at": "2026-11-03T10:00:18+09:00",
  "today": "2026-11-03",
  "dates": [
   "2026-11-02",
@@ -6506,7 +6506,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "01:10",
@@ -23362,7 +23362,7 @@ window.SCHEDULE = {
      "pgm": "청미정 다시마 샴푸",
      "title": "3개월 대용량 특가!",
      "category": "뷰티",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "08:30",
