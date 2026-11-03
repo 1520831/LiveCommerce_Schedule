@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-03T15:00:17+09:00",
+ "generated_at": "2026-11-03T15:20:13+09:00",
  "today": "2026-11-03",
  "dates": [
   "2026-11-02",
@@ -8749,8 +8749,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -22601,7 +22600,7 @@ window.SCHEDULE = {
      "slot_id": "260205",
      "pgm": "빅스마일데이🎉 쿠쿠 밥솥&주방가전 초특가!",
      "category": "가전",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -22646,7 +22645,7 @@ window.SCHEDULE = {
      "slot_id": "259176",
      "pgm": "바디프랜드 특가 라이브✨, 최대 50만원 적립 찬스!",
      "category": "가전",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "12:00",
@@ -25685,8 +25684,8 @@ window.SCHEDULE = {
    "2026-11-02",
    "2026-11-03"
   ],
-  "matched": 14,
-  "unmatched": 4
+  "matched": 13,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
