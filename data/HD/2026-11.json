@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-11",
- "updated_at": "2026-11-04T18:01:20+09:00",
+ "updated_at": "2026-11-04T23:30:41+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -1495,16 +1495,16 @@
     "start": "00:00",
     "end": "00:59",
     "brand": "주크",
-    "product": "백 벨트 울코트 Z254MSG549 Z254MSG549",
-    "price": 137700,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253563237",
+    "product": "폭스퍼 디테처블 벨티드 구스 패딩 Z264PSG186 Z264PSG186",
+    "price": 530400,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256879577",
     "slot_id": "202611056019",
     "items": [
      {
       "brand": "주크",
-      "product": "백 벨트 울코트 Z254MSG549 Z254MSG549",
-      "price": 137700,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253563237"
+      "product": "폭스퍼 디테처블 벨티드 구스 패딩 Z264PSG186 Z264PSG186",
+      "price": 530400,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256879577"
      }
     ],
     "title": "쥬크✨ 26FW 시그니처 상품 특별가 + 23% 쿠폰",
@@ -2618,6 +2618,25 @@
      }
     ],
     "title": "쇼라 20% 쿠폰 혜택! 라코스테여성 얼리시즌오프❤️",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "비너스",
+    "product": "면 삼중직 눈꽃 자카드 겨울 누빔잠옷 (VPAW209W) W209",
+    "price": 159000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257130635",
+    "slot_id": "202611096004",
+    "items": [
+     {
+      "brand": "비너스",
+      "product": "면 삼중직 눈꽃 자카드 겨울 누빔잠옷 (VPAW209W) W209",
+      "price": 159000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257130635"
+     }
+    ],
+    "title": "잠옷/여성세트 外 11월 역대급 비너스 쇼라 위크❤️",
     "pgm": "백화점 프리오픈쇼(멀티커머스)"
    },
    {
