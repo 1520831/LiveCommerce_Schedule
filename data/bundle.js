@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-04T17:20:12+09:00",
+ "generated_at": "2026-11-04T17:40:14+09:00",
  "today": "2026-11-04",
  "dates": [
   "2026-11-03",
@@ -10603,7 +10603,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "14:00",
@@ -11045,7 +11045,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 5
     },
     {
      "start": "17:00",
@@ -24091,7 +24092,7 @@ window.SCHEDULE = {
      "slot_id": "259234",
      "pgm": "[빅스Day] 갤럭시 자급제 총출동!!",
      "category": "디지털·PC",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -25421,8 +25422,7 @@ window.SCHEDULE = {
      "slot_id": "61253",
      "pgm": "드시모네 장면역 특허유산균",
      "title": "최대 20%+7%+7% 할인",
-     "category": "식품",
-     "hot": 10
+     "category": "식품"
     },
     {
      "start": "08:30",
