@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-11",
- "updated_at": "2026-11-04T07:00:54+09:00",
+ "updated_at": "2026-11-04T12:04:52+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -877,7 +877,7 @@
     "end": "11:59",
     "brand": "허시파피",
     "product": "[기모추가][정상가 149,000원]여성 컴피 앵클부츠 -3FM275/276/277/3FP6016",
-    "price": 49900,
+    "price": 52450,
     "link": "https://item.cjonstyle.com/item/2073598381?channelCode=30002002",
     "slot_id": "31307",
     "title": "다시보는 허시파피 FW 시즌 첫방송 혜택! 소가죽 부츠&로퍼",
@@ -1200,14 +1200,15 @@
    {
     "start": "10:00",
     "end": "10:59",
-    "brand": "",
-    "product": "이너시아 공구 사상 역대 최대 혜택👀최초 적립금+최대사은품&이벤트🎁",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/31200",
+    "brand": "이너시아",
+    "product": "[드엘리사 PICK] 10팩 MIX(프리즘생리대8+입오버2)",
+    "price": 83200,
+    "link": "https://item.cjonstyle.com/item/2096844535?channelCode=30002002",
     "slot_id": "31200",
     "title": "이너시아 공구 사상 역대 최대 혜택👀최초 적립금+최대사은품&이벤트🎁",
     "pgm": "드엘리사적인시선",
-    "pgm_cd": "1053"
+    "pgm_cd": "1053",
+    "category": "주방·잡화"
    },
    {
     "start": "10:00",
@@ -1278,9 +1279,9 @@
     "start": "11:00",
     "end": "11:59",
     "brand": "베어파우",
-    "product": "[두둥맘PICK][최초가 95,000] MONROE 양털부츠 3종 택1",
-    "price": 68010,
-    "link": "https://item.cjonstyle.com/item/2093085255?channelCode=30002002",
+    "product": "[두둥맘PICK][최초가 69,000] BENNY KIDS 양털슬립온 4종 택1",
+    "price": 29000,
+    "link": "https://item.cjonstyle.com/item/2093088339?channelCode=30002002",
     "slot_id": "31214",
     "title": "[두둥맘대로] 베어파우 올해 첫 LIVE! 키즈&성인 윈터슈즈 2만원대~",
     "pgm": "두둥맘대로",
@@ -1292,7 +1293,7 @@
     "end": "11:59",
     "brand": "오야니",
     "product": "스웨이드 빅 호보백",
-    "price": 160100,
+    "price": 140100,
     "link": "https://item.cjonstyle.com/item/2075057946?channelCode=30002002",
     "slot_id": "31329",
     "title": "다시보는 오야니 가방/스카프/플랫슈즈 방송에서만 최저가🤎",
@@ -2028,14 +2029,15 @@
    {
     "start": "21:00",
     "end": "21:59",
-    "brand": "",
-    "product": "다시보는 브티나는생활X풀무원💚 에어프라이어 단독특가+사은품 풀패키지!",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/31364",
+    "brand": "풀무원",
+    "product": "NEW 스팀쿡 마스터+ 듀얼스팀 오븐 에어프라이어 20L AV20F11GG (딥포레스트)",
+    "price": 294000,
+    "link": "https://item.cjonstyle.com/item/2082075210?channelCode=30002002",
     "slot_id": "31364",
     "title": "다시보는 브티나는생활X풀무원💚 에어프라이어 단독특가+사은품 풀패키지!",
     "pgm": "브티나는 생활",
-    "pgm_cd": "0101"
+    "pgm_cd": "0101",
+    "category": "가전"
    },
    {
     "start": "22:00",
@@ -2168,6 +2170,19 @@
     "pgm": "잘사는 언니들",
     "pgm_cd": "1028",
     "category": "서비스·렌탈"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "쿠론",
+    "product": "[CJ EXCLUSIVE] 26FW 오랜 소프트 버킷백",
+    "price": 258000,
+    "link": "https://item.cjonstyle.com/item/2093289281?channelCode=30002002",
+    "slot_id": "31227",
+    "title": "엣지쇼💕 쿠론 26FW 신상 버킷백/플립백 방송에서만 할인!",
+    "pgm": "엣지쇼",
+    "pgm_cd": "0223",
+    "category": "잡화·슈즈"
    },
    {
     "start": "20:00",

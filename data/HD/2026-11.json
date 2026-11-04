@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-11",
- "updated_at": "2026-11-04T07:00:49+09:00",
+ "updated_at": "2026-11-04T12:04:30+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -1189,16 +1189,16 @@
     "start": "10:00",
     "end": "10:59",
     "brand": "에르노",
-    "product": "에르노 PI0001DIC 12017Z 9300 CLEOFE 클리오페 A 셰이프 여성 패딩",
+    "product": "에르노 PI0001DIC 12017Z 2600 CLEOFE 클리오페 A 셰이프 여성 패딩",
     "price": 999000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256025532",
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257335575",
     "slot_id": "202611046003",
     "items": [
      {
       "brand": "에르노",
-      "product": "에르노 PI0001DIC 12017Z 9300 CLEOFE 클리오페 A 셰이프 여성 패딩",
+      "product": "에르노 PI0001DIC 12017Z 2600 CLEOFE 클리오페 A 셰이프 여성 패딩",
       "price": 999000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256025532"
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257335575"
      }
     ],
     "title": "[투명쇼] 에르노 패딩 월 1만원대 득템 찬스",
@@ -1209,14 +1209,14 @@
     "end": "11:59",
     "brand": "미드림",
     "product": "오경희원장 한발괄사+에너지오일 1SET",
-    "price": 318000,
+    "price": 170000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256041250",
     "slot_id": "202611046004",
     "items": [
      {
       "brand": "미드림",
       "product": "오경희원장 한발괄사+에너지오일 1SET",
-      "price": 318000,
+      "price": 170000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256041250"
      }
     ],
@@ -1454,6 +1454,25 @@
   ],
   "2026-11-05": [
    {
+    "start": "00:00",
+    "end": "00:59",
+    "brand": "주크",
+    "product": "백 벨트 울코트 Z254MSG549 Z254MSG549",
+    "price": 137700,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253563237",
+    "slot_id": "202611056019",
+    "items": [
+     {
+      "brand": "주크",
+      "product": "백 벨트 울코트 Z254MSG549 Z254MSG549",
+      "price": 137700,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253563237"
+     }
+    ],
+    "title": "쥬크✨ 26FW 시그니처 상품 특별가 + 23% 쿠폰",
+    "pgm": "[재방] 쥬크 (멀티커머스)"
+   },
+   {
     "start": "07:00",
     "end": "07:59",
     "brand": "골든클레프",
@@ -1488,7 +1507,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253438010"
      }
     ],
-    "title": "✨라인✨ 26 간절기 출근/하객룩 베스트 방송",
+    "title": "라인✨ 26년 간절기 출근/하객룩 베스트 방송",
     "pgm": "백화점 프리오픈쇼(멀티커머스)"
    },
    {
@@ -1545,7 +1564,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257361744"
      }
     ],
-    "title": "[쥬크] ❄️인기 아우터 & 니트 특집 ~77% OFF",
+    "title": "[쥬크] 인기 아우터 & 니트 특집 ~77% OFF❄️",
     "pgm": "[쥬크] 의류 (패션1Lab)"
    },
    {
@@ -1622,7 +1641,7 @@
      }
     ],
     "title": "[밋앤밀] 보성 산지 직송 골드키위🥝",
-    "pgm": "편성기획 삽입용 (편성)"
+    "pgm": "[잭슨코리아] 골드키위 (쇼핑라이브)"
    },
    {
     "start": "16:00",
@@ -1686,14 +1705,14 @@
     "end": "19:59",
     "brand": "LG전자",
     "product": "정수기 구독/렌탈 종합 상담",
-    "price": 3520800,
+    "price": 3326400,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253182047",
     "slot_id": "202611056013",
     "items": [
      {
       "brand": "LG전자",
       "product": "정수기 구독/렌탈 종합 상담",
-      "price": 3520800,
+      "price": 3326400,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253182047"
      }
     ],
@@ -1704,16 +1723,16 @@
     "start": "20:00",
     "end": "20:59",
     "brand": "메이크업포에버",
-    "product": "[VIP 세트] 파우더+쿠션+립밤+UV 10% 할 인 세트(+추가 4종)",
-    "price": 215100,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256876152",
+    "product": "NEW HD SKIN 퍼펙팅 글로우 쿠션 + NEW 컬러 립밤 듀오 세트 (+추가 3종)",
+    "price": 113000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256121551",
     "slot_id": "202611056014",
     "items": [
      {
       "brand": "메이크업포에버",
-      "product": "[VIP 세트] 파우더+쿠션+립밤+UV 10% 할 인 세트(+추가 4종)",
-      "price": 215100,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256876152"
+      "product": "NEW HD SKIN 퍼펙팅 글로우 쿠션 + NEW 컬러 립밤 듀오 세트 (+추가 3종)",
+      "price": 113000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256121551"
      }
     ],
     "title": "[메이크업포에버] Hmall 단독 세트 체감 39%▼",
@@ -1851,7 +1870,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257290877"
      }
     ],
-    "title": "[내셔널지오그래픽] 방송 중 특별가✨쿠폰 + 카드 할인",
+    "title": "[내셔널지오그래픽] 특별가 + 쿠폰 + 카드 할인",
     "pgm": "백화점 프리오픈쇼(멀티커머스)"
    },
    {
@@ -1870,7 +1889,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256129158"
      }
     ],
-    "title": "[투명쇼]26FW 신상 막스마라 특집",
+    "title": "[투명쇼] 26FW 신상 막스마라 특집",
     "pgm": "투명쇼 (패션잡화)"
    },
    {
@@ -1889,7 +1908,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2090582836"
      }
     ],
-    "title": "[VSL] 공구핫템 VSL 프리미엄 냉장 유산균!",
+    "title": "공구핫템🔥 VSL 프리미엄 냉장 유산균!",
     "pgm": "[VSL] 유산균 (건강식품1)"
    },
    {
@@ -1946,7 +1965,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257031998"
      }
     ],
-    "title": "[신성제주家]제주 프리미엄 특대 갈치/옥돔/고등어",
+    "title": "[신성제주家] 제주 프리미엄 특대 갈치/옥돔/고등어",
     "pgm": "[신성제주가] 생선 (액티브라이프)"
    },
    {
@@ -1965,7 +1984,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252616105"
      }
     ],
-    "title": "클렌저, 마스크 최대 69% 할인",
+    "title": "[두꺼비마유/제주소녀] 클렌저 & 마스크 최대 69%▼",
     "pgm": "[두꺼비마유/제주소녀] 기초 (뷰티2)"
    },
    {
@@ -2003,7 +2022,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255306940"
      }
     ],
-    "title": "[금강제화] 금강 쇼라 단독 혜택!",
+    "title": "[금강제화] 쇼라 단독 혜택!",
     "pgm": "[금강제화] 잡화 (패션잡화)"
    },
    {
@@ -2022,7 +2041,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2242412251"
      }
     ],
-    "title": "에바큐브 꾸띄르 겨울 최신상 최대 할인 특집전",
+    "title": "에바큐브 꾸띄르 겨울 최신상 최대 혜택 특집전",
     "pgm": "[에바큐브] 의류 (패션2Lab)"
    },
    {
@@ -2041,7 +2060,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2217694768"
      }
     ],
-    "title": "경동 카본매트 특별생방송",
+    "title": "경동 카본매트 특별 생방송",
     "pgm": "[경동] 온수매트 (가전)"
    },
    {
@@ -2157,7 +2176,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2241570406"
      }
     ],
-    "title": "[마쟈] 지금 꼭 필요한! 코트/가디건/머플러外",
+    "title": "[마쟈] 지금 꼭 필요한! 코트/가디건/머플러 外",
     "pgm": "[마쟈] 여성의류 (멀티커머스)"
    },
    {
@@ -2195,7 +2214,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253145271"
      }
     ],
-    "title": "[루즈앤라운지] 포근 곰돌이키링 + FW 가방특집 🧸",
+    "title": "[루즈앤라운지] 포근 곰돌이키링 + FW 가방특집🧸",
     "pgm": "[루즈앤라운지] 패션잡화 (패션잡화)"
    },
    {
@@ -2233,7 +2252,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239989547"
      }
     ],
-    "title": "힘펠 욕실환풍기 겨울특가",
+    "title": "힘펠 욕실 환풍기 겨울 특별가",
     "pgm": "[힘펠] 환풍기 (가전)"
    },
    {
@@ -2432,16 +2451,16 @@
     "start": "20:00",
     "end": "20:59",
     "brand": "샬랑 드 파리",
-    "product": "[웜톤 PICK][2+1] 오뜨 쥬얼 샤인 립스틱 3개 (피그아 누데아 코랄레아)",
-    "price": 57800,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257338074",
+    "product": "[신.상.특.가] 오뜨 쥬얼 샤인 립스틱 8COLORS 택1",
+    "price": 28900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253705109",
     "slot_id": "202611086006",
     "items": [
      {
       "brand": "샬랑 드 파리",
-      "product": "[웜톤 PICK][2+1] 오뜨 쥬얼 샤인 립스틱 3개 (피그아 누데아 코랄레아)",
-      "price": 57800,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257338074"
+      "product": "[신.상.특.가] 오뜨 쥬얼 샤인 립스틱 8COLORS 택1",
+      "price": 28900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253705109"
      }
     ],
     "title": "[샬랑 드 파리] 품절대란 립스틱 기획세트 특별가",
@@ -2487,6 +2506,25 @@
    }
   ],
   "2026-11-09": [
+   {
+    "start": "08:00",
+    "end": "08:59",
+    "brand": "라코스테",
+    "product": "[라코스테 우먼] (1) 26FW 우먼 더블페이스 피케 스웻셔츠 SF5245-56N  (2컬러) SF524556N",
+    "price": 159200,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256916067",
+    "slot_id": "202611096003",
+    "items": [
+     {
+      "brand": "라코스테",
+      "product": "[라코스테 우먼] (1) 26FW 우먼 더블페이스 피케 스웻셔츠 SF5245-56N  (2컬러) SF524556N",
+      "price": 159200,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256916067"
+     }
+    ],
+    "title": "쇼라 20% 쿠폰 혜탹! 라코스테여성 얼리시즌오프❤️",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
    {
     "start": "14:00",
     "end": "14:59",
@@ -2543,6 +2581,25 @@
     ],
     "title": "[한민금거래소] 믿을 수 있는 한민금거래소 골드바 핫딜",
     "pgm": "[한민금거래소] 금 (패션잡화)"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "와이잭",
+    "product": "W_베이비 캐시미어 크루넥 풀오버 LCAU120001",
+    "price": 309000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253150102",
+    "slot_id": "202611096012",
+    "items": [
+     {
+      "brand": "와이잭",
+      "product": "W_베이비 캐시미어 크루넥 풀오버 LCAU120001",
+      "price": 309000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253150102"
+     }
+    ],
+    "title": "[와이잭] 베이비캐시미어 특별혜택",
+    "pgm": "[와이잭] 여성의류 (멀티커머스)"
    },
    {
     "start": "23:00",

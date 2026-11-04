@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-11",
- "updated_at": "2026-11-04T07:00:59+09:00",
+ "updated_at": "2026-11-04T12:05:09+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -591,7 +591,7 @@
   "2026-11-04": [
    {
     "start": "08:30",
-    "end": "11:30",
+    "end": "09:55",
     "brand": "드시모네",
     "product": "[6개월]드시모네 베이비 스텝1 6BOX(6개월분) + 베이비 스텝2 15일분 + 요거트 증정",
     "price": 228000,
@@ -603,9 +603,9 @@
    },
    {
     "start": "08:30",
-    "end": "10:00",
+    "end": "09:51",
     "brand": "그레인온",
-    "product": "그레인온 골드 카무트효소G 3개월 (2g x 90포) + 파로 고단백질바",
+    "product": "그레인온 골드 카무트효소G 3개월 (2g x 90포) + 파로고단백질바",
     "price": 75000,
     "link": "https://store.kakao.com/grainon/products/469647666",
     "slot_id": "61422",
@@ -615,9 +615,9 @@
    },
    {
     "start": "08:30",
-    "end": "10:00",
+    "end": "09:51",
     "brand": "아토팜",
-    "product": "[1+1] 아토팜 MLE 외 보습/워시/선케어/키즈 BEST",
+    "product": "[1+1] 아토팜 MLE 외 보습/워시/선케어/키즈 BEST+증정",
     "price": 76000,
     "link": "https://store.kakao.com/atopalm/products/217734984",
     "slot_id": "61444",
@@ -627,7 +627,7 @@
    },
    {
     "start": "08:30",
-    "end": "10:00",
+    "end": "09:50",
     "brand": "Whiff",
     "product": "공간 필수템 위프 탈취제 F/W 신상런칭! Whiff (린100g/애브리모먼트300g)",
     "price": 59000,
@@ -639,7 +639,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:01",
     "brand": "케이푸드",
     "product": "농협안심한우 1++등급 불고기 200gX3팩",
     "price": 59900,
@@ -651,7 +651,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:00",
     "brand": "프로즌",
     "product": "프로즌 원팩 마라탕 450g 3팩",
     "price": 42000,
@@ -663,7 +663,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:00",
     "brand": "해태제과식품",
     "product": "신제품 포키 극세 멜론맛 외 10개 골라담기",
     "price": 22000,
@@ -672,6 +672,18 @@
     "pgm": "해태제과",
     "title": "포키 라이브  LIVE",
     "category": "식품"
+   },
+   {
+    "start": "10:23",
+    "end": "11:14",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49000,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "61713",
+    "pgm": "터치그라운드 쿠셔닝슬리퍼",
+    "title": "이렇게 편해도 되나요?",
+    "category": "패션"
    },
    {
     "start": "11:00",
@@ -686,19 +698,7 @@
    },
    {
     "start": "11:00",
-    "end": "12:30",
-    "brand": "청담 예마",
-    "product": "청담예마 수제 프리미엄 상주 곶감단지",
-    "price": 58000,
-    "link": "https://store.kakao.com/yema/products/805906519",
-    "slot_id": "61716",
-    "pgm": "수제 프리미엄 곶감단지",
-    "title": "겨울 건강 간식 & 선물",
-    "category": "식품"
-   },
-   {
-    "start": "11:00",
-    "end": "12:30",
+    "end": "12:01",
     "brand": "퓨어잇",
     "product": "퓨어잇 유기농 떡뻥 4봉 외 과일칩 아이간식 골라담기",
     "price": 7900,
@@ -733,6 +733,18 @@
     "category": "키즈"
    },
    {
+    "start": "13:00",
+    "end": "14:30",
+    "brand": "그로우앤프레시",
+    "product": "한입 베어 물면 사르르 촉촉달콤 호박고구마 3kg 외",
+    "price": 28900,
+    "link": "https://store.kakao.com/grownfresh/products/792080721",
+    "slot_id": "61771",
+    "pgm": "촉촉 달콤 해남 호박고구마",
+    "title": "특가 이벤트",
+    "category": "식품"
+   },
+   {
     "start": "14:00",
     "end": "15:30",
     "brand": "생활양식",
@@ -743,6 +755,18 @@
     "pgm": "한일의료기 27년형 탄소매트",
     "title": "전자파 차단",
     "category": "테크"
+   },
+   {
+    "start": "14:30",
+    "end": "16:00",
+    "brand": "닥터안스에그",
+    "product": "[닥터안스에그] 무항생제 인증 수의사 계란 햇달걀/대란/특란 (30구+30구)",
+    "price": 27000,
+    "link": "https://store.kakao.com/ahnilfarm/products/145039582",
+    "slot_id": "61766",
+    "pgm": "[30구 + 30구]",
+    "title": "닥터안스에그 무항생제 특가전",
+    "category": "식품"
    },
    {
     "start": "17:00",
@@ -856,7 +880,7 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "히말라야코리아",
-    "product": "[2+2] 히말라야 파티스마트 10개입 (베리/망고/혼합)",
+    "product": "[2+2] 히말라야 파티스마트 10개입 (베리/망고/혼합)+2개입 추가 한정 사은품 증정",
     "price": 60000,
     "link": "https://store.kakao.com/himalayakorea/products/528150403",
     "slot_id": "61537",
@@ -875,18 +899,6 @@
     "pgm": "2026년 귀뚜라미",
     "title": "겨울을 위한 카본매트",
     "category": "테크"
-   },
-   {
-    "start": "22:30",
-    "end": "00:00",
-    "brand": "터치그라운드 스니커즈",
-    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-    "price": 49000,
-    "link": "https://store.kakao.com/touchground/products/774098244",
-    "slot_id": "61713",
-    "pgm": "터치그라운드 쿠셔닝슬리퍼",
-    "title": "이렇게 편해도 되나요?",
-    "category": "패션"
    }
   ],
   "2026-11-05": [
@@ -1177,6 +1189,18 @@
     "pgm": "한일의료기 26년 국내생산",
     "title": "워셔블 전기매트 특가 라이브",
     "category": "테크"
+   },
+   {
+    "start": "22:30",
+    "end": "00:00",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49000,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "61763",
+    "pgm": "터치그라운드 발편한운동화",
+    "title": "가벼우면서 쿠션감 좋은운동화",
+    "category": "패션"
    }
   ],
   "2026-11-06": [
@@ -1608,7 +1632,7 @@
     "start": "10:00",
     "end": "11:30",
     "brand": "킨도",
-    "product": "킨도X이브네 79시간 타임초특가(카카오2박스+이브네 MD PICK 구매시 1.5천원 페이백)",
+    "product": "킨도X이브네 79시간 타임특가(카카오2박스+이브네 MD PICK 구매시 1.5천원 페이백)",
     "price": 214000,
     "link": "https://store.kakao.com/kindoh/products/199844314",
     "slot_id": "61627",
