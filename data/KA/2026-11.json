@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-11",
- "updated_at": "2026-11-04T23:30:57+09:00",
+ "updated_at": "2026-11-05T07:01:30+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -614,18 +614,6 @@
     "category": "뷰티"
    },
    {
-    "start": "08:30",
-    "end": "09:50",
-    "brand": "Whiff",
-    "product": "공간 필수템 위프 탈취제 F/W 신상런칭! Whiff (린100g/애브리모먼트300g)",
-    "price": 59000,
-    "link": "https://store.kakao.com/whiff/products/576368612",
-    "slot_id": "61465",
-    "pgm": "위프탈취제 F/W 신상!",
-    "title": "딥브라운/크림베이지",
-    "category": "리빙"
-   },
-   {
     "start": "10:00",
     "end": "11:01",
     "brand": "케이푸드",
@@ -660,29 +648,6 @@
     "pgm": "해태제과",
     "title": "포키 라이브  LIVE",
     "category": "식품"
-   },
-   {
-    "start": "10:23",
-    "end": "11:14",
-    "brand": "터치그라운드 스니커즈",
-    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-    "price": 49000,
-    "link": "https://store.kakao.com/touchground/products/774098244",
-    "slot_id": "61713",
-    "pgm": "터치그라운드 쿠셔닝슬리퍼",
-    "title": "이렇게 편해도 되나요?",
-    "category": "패션"
-   },
-   {
-    "start": "11:00",
-    "end": "12:00",
-    "brand": "리틀천재",
-    "product": "(천재교육)빅키즈 수학+지식자람+빅키즈펜+하루 10분이면 한글 수학 완성",
-    "price": 257000,
-    "link": "https://store.kakao.com/littlechunjae/products/807328442",
-    "slot_id": "61467",
-    "pgm": "빅키즈+하루10분이면 시리즈",
-    "category": "키즈"
    },
    {
     "start": "11:00",
@@ -730,18 +695,6 @@
     "slot_id": "61771",
     "pgm": "촉촉 달콤 해남 호박고구마",
     "title": "특가 이벤트",
-    "category": "식품"
-   },
-   {
-    "start": "14:30",
-    "end": "15:30",
-    "brand": "닥터안스에그",
-    "product": "[닥터안스에그] 무항생제 인증 수의사 계란 햇달걀/대란/특란 (30구+30구)",
-    "price": 27000,
-    "link": "https://store.kakao.com/ahnilfarm/products/145039582",
-    "slot_id": "61766",
-    "pgm": "[30구 + 30구]",
-    "title": "닥터안스에그 무항생제 특가전",
     "category": "식품"
    },
    {
@@ -863,18 +816,6 @@
     "pgm": "파티스마트 젤리 단독 특가!",
     "title": "취향대로 골라 즐기는 맛!",
     "category": "식품"
-   },
-   {
-    "start": "21:00",
-    "end": "22:14",
-    "brand": "(주)상상그램",
-    "product": "[귀뚜라미] 27년형 THE 프리미엄 신형 블루투스 카본 탄소매트",
-    "price": 468000,
-    "link": "https://store.kakao.com/sangsangstore/products/118837559",
-    "slot_id": "61728",
-    "pgm": "2026년 귀뚜라미",
-    "title": "겨울을 위한 카본매트",
-    "category": "테크"
    }
   ],
   "2026-11-05": [
@@ -1003,7 +944,7 @@
     "end": "17:00",
     "brand": "Mimo Beauty미모뷰티",
     "product": "[미모뷰티] 프렙 리페어 크림 듀오 15ml+15ml 수분 보습 스킨케어",
-    "price": 59800,
+    "price": 39900,
     "link": "https://store.kakao.com/mimobeauty/products/788596506",
     "slot_id": "61709",
     "pgm": "히팅뷰러&파라핀베스",
@@ -1913,7 +1854,7 @@
     "end": "18:30",
     "brand": "명태잡는날",
     "product": "렌지에 돌려먹는 순살 고등어 구이 60g 3팩, 5팩 어린이 개별포장 삼치 가자미",
-    "price": 24900,
+    "price": 11900,
     "link": "https://store.kakao.com/myeontae/products/630920157",
     "slot_id": "61364",
     "pgm": "전자렌지2분완성!생선구이3종",
@@ -2009,7 +1950,7 @@
     "end": "22:00",
     "brand": "그레터스",
     "product": "[스위스 목캔디 / 수능선물] 그레터스 파스티유 캔디 슈가프리 기프트세트(블랙커런트 맛 + 진저레몬 맛)",
-    "price": 33900,
+    "price": 37900,
     "link": "https://gift.kakao.com/product/13612639?url=product&cId=13612639",
     "slot_id": "61274",
     "pgm": "스위스명품캔디 그레터스",
@@ -2051,6 +1992,274 @@
     "pgm": "삼립 호빵네빵/띠부씰빵",
     "title": "호빵부터 밀크티빵까지!",
     "category": "식품"
+   }
+  ],
+  "2026-11-10": [
+   {
+    "start": "08:30",
+    "end": "11:30",
+    "brand": "헉슬리",
+    "product": "퍼퓸 15ml + 헤어 퍼퓸 25ml 2종세트",
+    "price": 36000,
+    "link": "https://gift.kakao.com/product/12054395?url=product&cId=12054395",
+    "slot_id": "61165",
+    "pgm": "헉슬리 NEW향 퍼퓸SET",
+    "title": "+ 겨울 대비 헤어&바디템",
+    "category": "뷰티"
+   },
+   {
+    "start": "08:30",
+    "end": "11:30",
+    "brand": "끌로에(향수)",
+    "product": "끌로에 르 넥타 EDP 인텐스 50ml (+미니향수5ML 2종)",
+    "price": 162000,
+    "link": "https://gift.kakao.com/product/14530292?url=product&cId=14530292",
+    "slot_id": "61166",
+    "pgm": "끌로에향수 NEW 르 넥타",
+    "title": "방송 한정 대용량 증정!",
+    "category": "뷰티"
+   },
+   {
+    "start": "08:30",
+    "end": "11:30",
+    "brand": "얼모스트블루",
+    "product": "30종 따뜻한 목도리 머플러 모음",
+    "price": 29800,
+    "link": "https://gift.kakao.com/product/14447582?url=product&cId=14447582",
+    "slot_id": "61223",
+    "pgm": "얼모스트블루_머플러&장갑 등",
+    "title": "가족/친구/연인 따뜻한선물",
+    "category": "패션"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "수플린",
+    "product": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~35입)",
+    "price": 39900,
+    "link": "https://gift.kakao.com/product/12592601?url=product&cId=12592601",
+    "slot_id": "61199",
+    "pgm": "기다린 딸기 시즌 시작!",
+    "title": "수플린 제철 과일 라이브",
+    "category": "식품"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "케어베어",
+    "product": "[케어베어] 겨울신상+가을베스트 특가찬스! 베이비/상하복/티셔츠/아우터 외",
+    "price": 7900,
+    "link": "https://store.kakao.com/carebears/products/756619849",
+    "slot_id": "61207",
+    "pgm": "[케어베어X희아]",
+    "title": "공구특가 단독 LIVE!",
+    "category": "키즈"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "그래비티헤어",
+    "product": "그래비티 카이스트 기술력으로 만든 헤어케어 베스트 골라담기+전구매 사은품 증정",
+    "price": 14500,
+    "link": "https://store.kakao.com/grabityhair/products/362775712",
+    "slot_id": "61645",
+    "pgm": "그래비티 얼리 블랙프라이데이",
+    "title": "&카쇼라 역대급 혜택!",
+    "category": "뷰티"
+   },
+   {
+    "start": "13:00",
+    "end": "14:30",
+    "brand": "세로랩스",
+    "product": "[라이브 only] 세로랩스 신제품 글레이즈 루미퍼멕스 10% 앰플 50ml + 펩타이드 퍼밍 크림 50ml",
+    "price": 124000,
+    "link": "https://store.kakao.com/cerolabs/products/797791007",
+    "slot_id": "61755",
+    "pgm": "[세로랩스]쌀쌀함 싹 잊히는",
+    "title": "밀착케어!최대 43% 할인",
+    "category": "뷰티"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "에코따숨",
+    "product": "[파라핀전문회사] 국내산 에코따숨 파라핀베스",
+    "price": 210000,
+    "link": "https://store.kakao.com/ecotasum/products/136505849",
+    "slot_id": "61337",
+    "pgm": "손발 차가울때 에코따숨!",
+    "title": "파라핀 베스&왁스 선물증정",
+    "category": "테크"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "명태잡는날",
+    "product": "기장어보 영양전복죽 220g 3팩 5팩 소포장 기장전복 복날더위 간편 영양식 아침식사대용",
+    "price": 25900,
+    "link": "https://store.kakao.com/myeontae/products/590783040",
+    "slot_id": "61542",
+    "pgm": "담백함의 끝 기장어보 전복죽",
+    "title": "입안 가득 퍼지는 전복내장",
+    "category": "식품"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "헤이필드",
+    "product": "헤이필드 그릭요거트 골라담기 5가지맛",
+    "price": 16900,
+    "link": "https://store.kakao.com/hayfield/products/755325394",
+    "slot_id": "61657",
+    "pgm": "헤이필드 그릭요거트 LIVE",
+    "title": "다양한 혜택+이벤트~48%",
+    "category": "식품"
+   },
+   {
+    "start": "17:00",
+    "end": "20:00",
+    "brand": "비오템",
+    "product": "[예비맘 선물] 비오템 비오베르제뛰르 튼살크림 400ml 세트 (+레꼬포렐 샤워젤 100ml 증정)",
+    "price": 104000,
+    "link": "https://gift.kakao.com/product/1247807?url=product&cId=1247807",
+    "slot_id": "61719",
+    "pgm": "임산부 튼살크림 비오템!",
+    "title": "라이브중~20%+단독구성",
+    "category": "뷰티",
+    "rerun": true,
+    "rerun_of": "60267"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "비윗유",
+    "product": "찬바람 불땐!! 함께 나누면 더 좋은 !! 비윗유 호주 천연 마누카꿀 프로폴리스 캔디 90g",
+    "price": 19800,
+    "link": "https://store.kakao.com/beewithyou/products/260684065",
+    "slot_id": "61790",
+    "pgm": "찬바람 불땐!함께나누면더좋은",
+    "title": "비윗유 프로폴리스캔디90g",
+    "category": "식품"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "홍익상회",
+    "product": "[홍익상회] 쫄깃탱글 봄내쭈꾸미 쭈꾸미볶음 300g x 3팩",
+    "price": 32900,
+    "link": "https://store.kakao.com/hongikmarket/products/173521237",
+    "slot_id": "61794",
+    "pgm": "홍익상회 쫄깃탱글 봄내쭈꾸미",
+    "title": "최대 48% 할인행사!",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "페레로로쉐",
+    "product": "페레로로쉐 T8하트 초콜릿(8개입)",
+    "price": 10800,
+    "link": "https://gift.kakao.com/product/10579907?url=product&cId=10579907",
+    "slot_id": "61258",
+    "pgm": "황금빛 선물 페레로 로쉐",
+    "title": "네잎클로버 한정판 슬리브공개",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "하트티라미수",
+    "product": "딸기우유 티라미수 케이크_기념일 선물 (쇼핑백 증정)",
+    "price": 32000,
+    "link": "https://gift.kakao.com/product/11617892?url=product&cId=11617892",
+    "slot_id": "61262",
+    "pgm": "깨먹는 하트티라미수 첫방송",
+    "title": "소중한 사람과 즐기는 달콤함",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "코코도르",
+    "product": "고체 탈취제 190g X 4개  | 실내탈취제 초강력 실내 냄새 제거 집들이선물템",
+    "price": 19900,
+    "link": "https://gift.kakao.com/product/14252208?url=product&cId=14252208",
+    "slot_id": "61420",
+    "pgm": "품절대란 고체탈취제",
+    "title": "라이브 한정 상품 출시",
+    "category": "리빙"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "얼라인랩",
+    "product": "물리치료사도 매일 사용하는 손목힐링템ㅣTENS+EMS 마사지 저주파 무선 얼라인랩 릴렉스 손목 마사지기 수능 직장인 출산 선물",
+    "price": 34900,
+    "link": "https://gift.kakao.com/product/10517438?url=product&cId=10517438",
+    "slot_id": "61468",
+    "pgm": "얼라인랩X카쇼라 마사지기",
+    "title": "앵콜 특가 라이브",
+    "category": "테크"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "웹투어(주)",
+    "product": "[켄싱턴 설악비치_2인 PKG] 객실 1박 + 조식 2인 + 오하스 바우처 1만원_12시 레이트 체크아웃 + 인원추가비 무료",
+    "price": 139900,
+    "link": "https://store.kakao.com/webtour/products/807178024",
+    "slot_id": "61469",
+    "pgm": "켄싱턴 설악비치_단독 패키지",
+    "title": "아동 & 주중 특전까지!",
+    "category": "여행"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "메종 21G",
+    "product": "[선물포장] 라 크리에이션 BEST 디스커버리 (2.5ml*7) (+2ml 오드퍼퓸 증정)",
+    "price": 84000,
+    "link": "https://gift.kakao.com/product/14488508?url=product&cId=14488508",
+    "slot_id": "61135",
+    "pgm": "신규 디스커버리 세트 3종",
+    "title": "런칭 기념 최대 35% 할인",
+    "category": "뷰티"
+   },
+   {
+    "start": "20:30",
+    "end": "23:30",
+    "brand": "티르리르",
+    "product": "[1+1] 티르리르 베스트 패션목걸이/팔찌 22종 (선택 2가지)",
+    "price": 28000,
+    "link": "https://gift.kakao.com/product/14541327?url=product&cId=14541327",
+    "slot_id": "61225",
+    "pgm": "티르리르 11월 주얼리특집!",
+    "title": "1+1으로 만나는 연말선물",
+    "category": "패션"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "청년상점",
+    "product": "(출고당일 갓버무린) 국산 전라도 포기김치 10kg",
+    "price": 34900,
+    "link": "https://store.kakao.com/youngstore/products/62881449",
+    "slot_id": "61621",
+    "pgm": "전라도 포기김치 10kg",
+    "title": "카쇼라특가 2만원대",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "이브로쉐",
+    "product": "대용량 헤어식초 400ml 4개 세트 (택4)",
+    "price": 63600,
+    "link": "https://gift.kakao.com/product/13251340?url=product&cId=13251340",
+    "slot_id": "61679",
+    "pgm": "이브로쉐 헤어식초&샴푸",
+    "title": "~50%+전구매 사은품",
+    "category": "뷰티"
    }
   ]
  }
