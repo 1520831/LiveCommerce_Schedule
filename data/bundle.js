@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-04T10:40:23+09:00",
+ "generated_at": "2026-11-04T11:00:53+09:00",
  "today": "2026-11-04",
  "dates": [
   "2026-11-03",
@@ -8068,7 +8068,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -20661,7 +20661,7 @@ window.SCHEDULE = {
      "slot_id": "259137",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 3",
      "category": "가구·침구",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "09:00",
@@ -22013,7 +22013,7 @@ window.SCHEDULE = {
      "pgm": "드시모네 장면역 특허유산균",
      "title": "최대 20%+7%+7% 할인",
      "category": "식품",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "08:30",
@@ -22026,7 +22026,7 @@ window.SCHEDULE = {
      "pgm": "그레인온 X 톡딜위크",
      "title": "달달한 혜택이 팡팡!",
      "category": "식품",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "08:30",
