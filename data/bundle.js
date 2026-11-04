@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-04T18:02:40+09:00",
+ "generated_at": "2026-11-04T20:00:11+09:00",
  "today": "2026-11-04",
  "dates": [
   "2026-11-03",
@@ -8018,7 +8018,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -9068,8 +9068,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 6
+     "category": "테크"
     },
     {
      "start": "14:00",
@@ -9825,7 +9824,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 8
     },
     {
      "start": "18:00",
@@ -10360,7 +10360,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 3
     },
     {
      "start": "19:00",
@@ -10514,7 +10515,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 5
     },
     {
      "start": "19:00",
@@ -10949,7 +10951,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 1
     },
     {
      "start": "19:00",
@@ -25323,8 +25326,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4805188808",
      "slot_id": "259234",
      "pgm": "[빅스Day] 갤럭시 자급제 총출동!!",
-     "category": "디지털·PC",
-     "hot": 8
+     "category": "디지털·PC"
     },
     {
      "start": "10:00",
@@ -25381,7 +25383,7 @@ window.SCHEDULE = {
      "slot_id": "259149",
      "pgm": "빅스마일데이😊 삼성 AI 가전 최대 혜택",
      "category": "가전",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -26642,8 +26644,7 @@ window.SCHEDULE = {
      "slot_id": "61253",
      "pgm": "드시모네 장면역 특허유산균",
      "title": "최대 20%+7%+7% 할인",
-     "category": "식품",
-     "hot": 10
+     "category": "식품"
     },
     {
      "start": "08:30",
@@ -28128,8 +28129,8 @@ window.SCHEDULE = {
    "2026-11-03",
    "2026-11-04"
   ],
-  "matched": 11,
-  "unmatched": 5
+  "matched": 12,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
