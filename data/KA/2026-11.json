@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-11",
- "updated_at": "2026-11-04T12:05:09+09:00",
+ "updated_at": "2026-11-04T18:01:33+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -457,18 +457,6 @@
    },
    {
     "start": "19:00",
-    "end": "20:22",
-    "brand": "비에날몰",
-    "product": "BNR17 비에날씬 모유유산균 체지방감소 3개월 캡슐",
-    "price": 297000,
-    "link": "https://store.kakao.com/bnrmall/products/62682089",
-    "slot_id": "61054",
-    "pgm": "비에날씬 가을대비 라이브!",
-    "title": "최대 62%+스페셜 사은품",
-    "category": "식품"
-   },
-   {
-    "start": "19:00",
     "end": "20:20",
     "brand": "캐치웰",
     "product": "캐치웰 CX PRO 매직타워 N 자동먼지비움 무선청소기 (삼성 정품 배터리 탑재)",
@@ -687,7 +675,7 @@
    },
    {
     "start": "11:00",
-    "end": "12:30",
+    "end": "12:00",
     "brand": "리틀천재",
     "product": "(천재교육)빅키즈 수학+지식자람+빅키즈펜+하루 10분이면 한글 수학 완성",
     "price": 257000,
@@ -710,7 +698,7 @@
    },
    {
     "start": "11:30",
-    "end": "14:30",
+    "end": "12:33",
     "brand": "소베맘",
     "product": "소베맘 4세대 H형 트롤리 멀티수납 기저귀갈이대 기저귀교환대",
     "price": 209000,
@@ -722,7 +710,7 @@
    },
    {
     "start": "11:30",
-    "end": "13:00",
+    "end": "12:30",
     "brand": "더블하트 공식 인증몰",
     "product": "더블하트 모유실감 PPSU 신상 양띠 뽀양이 젖병 160ml/240ml/330ml+젖꼭지 세트 외 수유용품 모음",
     "price": 90900,
@@ -734,7 +722,7 @@
    },
    {
     "start": "13:00",
-    "end": "14:30",
+    "end": "13:24",
     "brand": "그로우앤프레시",
     "product": "한입 베어 물면 사르르 촉촉달콤 호박고구마 3kg 외",
     "price": 28900,
@@ -745,20 +733,8 @@
     "category": "식품"
    },
    {
-    "start": "14:00",
-    "end": "15:30",
-    "brand": "생활양식",
-    "product": "[프리미엄] 한일의료기 탄소 매트 온열 카본 전기 요 장판 캠핑 침대",
-    "price": 119000,
-    "link": "https://store.kakao.com/sengsiik/products/635998245",
-    "slot_id": "61758",
-    "pgm": "한일의료기 27년형 탄소매트",
-    "title": "전자파 차단",
-    "category": "테크"
-   },
-   {
     "start": "14:30",
-    "end": "16:00",
+    "end": "15:30",
     "brand": "닥터안스에그",
     "product": "[닥터안스에그] 무항생제 인증 수의사 계란 햇달걀/대란/특란 (30구+30구)",
     "price": 27000,
@@ -785,7 +761,7 @@
     "end": "20:30",
     "brand": "미식상회",
     "product": "[미식상회] 재구매 많은 이유 있는 맛! 100% 통참깨 저온압착 참기름/들기름",
-    "price": 12900,
+    "price": 21900,
     "link": "https://store.kakao.com/misic/products/64585397",
     "slot_id": "61036",
     "pgm": "미식상회 저온압착 참기름부터",
@@ -821,7 +797,7 @@
     "end": "20:30",
     "brand": "웹투어(주)",
     "product": "[홈 마리나 속초 호텔] 롱스테이 올인클루시브 패키지_객실+조식+수영장_얼리체크인&레이트 체크아웃+주중 카바나 이용권",
-    "price": 271000,
+    "price": 990000,
     "link": "https://store.kakao.com/webtour/products/804981832",
     "slot_id": "61481",
     "pgm": "홈 마리나 속초_올인클루시브",
@@ -880,7 +856,7 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "히말라야코리아",
-    "product": "[2+2] 히말라야 파티스마트 10개입 (베리/망고/혼합)+2개입 추가 한정 사은품 증정",
+    "product": "[2+2/총 4박스 40개입] 히말라야 파티스마트 10개입 (베리/망고/혼합)+2개입 추가 한정 사은품 증정",
     "price": 60000,
     "link": "https://store.kakao.com/himalayakorea/products/528150403",
     "slot_id": "61537",
@@ -931,7 +907,7 @@
     "end": "10:00",
     "brand": "제이엠더블유본사",
     "product": "JMW 볼륨온 아이보리 외 고데기/드라이기 모음전",
-    "price": 49000,
+    "price": 99000,
     "link": "https://store.kakao.com/jmwkorea/products/645113713",
     "slot_id": "61148",
     "pgm": "JMW 브랜드딜 LIVE",
@@ -967,11 +943,11 @@
     "end": "11:30",
     "brand": "롯데칠성음료 브랜드 스토어",
     "product": "펩시제로슈거 355캔 외 칠성사이다/마운틴듀 210/300/500ml 모음전",
-    "price": 17900,
+    "price": 49900,
     "link": "https://store.kakao.com/lottechilsung/products/780250877",
     "slot_id": "61260",
     "pgm": "롯데칠성 톡딜위크 특집",
-    "title": "최대 66% 특가 라이브!",
+    "title": "최대 68% 특가 라이브!",
     "category": "식품"
    },
    {
@@ -1039,7 +1015,7 @@
     "end": "18:30",
     "brand": "뉴오리진",
     "product": "[유한건강생활] 대한민국 대표 질유산균 이너플로라 / 질&장 건강 동시 케어",
-    "price": 79900,
+    "price": 170000,
     "link": "https://store.kakao.com/neworigin/products/61760275",
     "slot_id": "61221",
     "pgm": "판매 1위 이너플로라",
@@ -1147,7 +1123,7 @@
     "end": "22:00",
     "brand": "풀무원가전",
     "product": "풀무원 그린더 에어드라이 열풍건조 음식물처리기 3L FD25FWWS",
-    "price": 489000,
+    "price": 290000,
     "link": "https://store.kakao.com/pulmuone/products/742359974",
     "slot_id": "61370",
     "pgm": "눌어붙음 없는 풀무원 음처기",
@@ -1188,6 +1164,18 @@
     "slot_id": "61701",
     "pgm": "한일의료기 26년 국내생산",
     "title": "워셔블 전기매트 특가 라이브",
+    "category": "테크"
+   },
+   {
+    "start": "21:00",
+    "end": "22:30",
+    "brand": "(주)상상그램",
+    "product": "[귀뚜라미] 27년형 THE 프리미엄 신형 블루투스 카본 탄소매트",
+    "price": 468000,
+    "link": "https://store.kakao.com/sangsangstore/products/118837559",
+    "slot_id": "61787",
+    "pgm": "2026년 귀뚜라미",
+    "title": "겨울을 위한 카본매트",
     "category": "테크"
    },
    {
@@ -1349,6 +1337,18 @@
     "category": "식품"
    },
    {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "시골내음",
+    "product": "전자레인지 10분 컷! 갓 쪄서 개별진공 냉동 국내산 괴산 대학찰옥수수(17cm이상) 6개~",
+    "price": 30000,
+    "link": "https://store.kakao.com/sigolmall/products/802760886",
+    "slot_id": "61775",
+    "pgm": "맛있게 찌고 더 간편하게!",
+    "title": "대학찰옥수수 9900원~",
+    "category": "식품"
+   },
+   {
     "start": "19:00",
     "end": "22:00",
     "brand": "롯데웰푸드 공식 스토어",
@@ -1388,7 +1388,7 @@
     "start": "20:00",
     "end": "21:30",
     "brand": "단골아저씨",
-    "product": "2026년(햇)칼집약단밤1kg 부터 고소달콤 구우면톡! 노란황금속살 알밤 영양가득 국민간식(호두,잣,땅콩 추천!)",
+    "product": "2026년(햇)칼집약단밤1kg 외 고소달콤 구우면톡! 노란황금속살 알밤 영양가득 국민간식(호두,잣,땅콩 추천!)",
     "price": 52900,
     "link": "https://store.kakao.com/mrdangol/products/145823495",
     "slot_id": "61666",
@@ -1502,7 +1502,7 @@
     "price": 49800,
     "link": "https://store.kakao.com/laleelee/products/489675348",
     "slot_id": "61354",
-    "pgm": "가을에도 역시 라리리",
+    "pgm": "쌀쌀할때도 역시 라리리",
     "title": "인기&신상 라이브 특가",
     "category": "패션"
    },
@@ -1620,7 +1620,7 @@
     "start": "10:00",
     "end": "13:00",
     "brand": "디마프",
-    "product": "디마프 BEST 기초 쟁이기 만능기초 외 + 장벽크림 15ml 증정",
+    "product": "디마프 블프 특가! BEST 기초 쟁이기 + 구매금액별 본품 증정",
     "price": 102000,
     "link": "https://store.kakao.com/demaf/products/684992082",
     "slot_id": "61234",
@@ -1649,7 +1649,7 @@
     "link": "https://store.kakao.com/ddrmall/products/572068932",
     "slot_id": "61177",
     "pgm": "아이클타임 가을건강운동회",
-    "title": "코건강/키성장 외~68%특가",
+    "title": "코건강/키성장 외~63%특가",
     "category": "식품"
    },
    {
@@ -1807,6 +1807,18 @@
     "pgm": "브리츠 오픈형 이어폰",
     "title": "런칭 라이브특가!",
     "category": "테크"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "산지대감",
+    "product": "구울수록 고소한 육즙! 듀록 삼겹살 500g, 특수부위 [골라담기]",
+    "price": 14900,
+    "link": "https://store.kakao.com/sanjidaegam/products/811875794",
+    "slot_id": "61792",
+    "pgm": "프리미엄 듀록 삼겹살",
+    "title": "골라담기 특가",
+    "category": "식품"
    }
   ],
   "2026-11-09": [
@@ -1948,12 +1960,12 @@
     "start": "19:00",
     "end": "22:00",
     "brand": "웹투어(주)",
-    "product": "[홀리데이 인 스위트 알펜시아 평창] 어텀 PKG(다이닝 초이스+워터파크) or 윈터 PKG(조식 + 리프트&렌탈 반일권)",
-    "price": 162800,
+    "product": "[홀리데이 인 스위트 알펜시아 평창] 어텀 PKG(다이닝 초이스+워터파크) or 윈터 PKG(조식+리프트&렌탈 반일권)",
+    "price": 162400,
     "link": "https://store.kakao.com/webtour/products/804904720",
     "slot_id": "61200",
-    "pgm": "평창 알펜시아_가족힐링여행",
-    "title": "어텀/윈터/힐링 패키지",
+    "pgm": "평창 알펜시아 리조트",
+    "title": "어텀/윈터/힐링패키지 9만~",
     "category": "여행"
    },
    {
@@ -1966,6 +1978,18 @@
     "slot_id": "61424",
     "pgm": "펜할리곤스 ~26%+쿠폰",
     "title": "전구매 고객 향수 샤쉐 증정",
+    "category": "뷰티"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "맥(MAC)",
+    "product": "맥 테디 파티 미니 립 트리오 & 새틴 소이리 미니 립 트리오 / 2026 홀리데이 (+ 파우치 & 스티커)",
+    "price": 53000,
+    "link": "https://gift.kakao.com/product/14517428?url=product&cId=14517428",
+    "slot_id": "61428",
+    "pgm": "MAC 홀리데이컬렉션 선출시",
+    "title": "선착순 전구매 미니 립스틱",
     "category": "뷰티"
    },
    {
@@ -2014,6 +2038,18 @@
     "slot_id": "61620",
     "pgm": "쫄깃고소한 곱창 모둠한판",
     "title": "곱창+대창+막창+소스까지",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "SPC삼립",
+    "product": "삼립호빵 개별포장 4가지맛 골고루 \"호빵네빵\" 2박스",
+    "price": 32900,
+    "link": "https://store.kakao.com/samlip/products/71186262",
+    "slot_id": "61776",
+    "pgm": "삼립 호빵네빵/띠부씰빵",
+    "title": "호빵부터 밀크티빵까지!",
     "category": "식품"
    }
   ]
