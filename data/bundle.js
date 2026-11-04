@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-04T09:20:15+09:00",
+ "generated_at": "2026-11-04T09:40:34+09:00",
  "today": "2026-11-04",
  "dates": [
   "2026-11-03",
@@ -2267,7 +2267,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "0214",
      "category": "식품·건강",
-     "hot": 9
+     "hot": 6
     },
     {
      "start": "09:00",
@@ -6668,8 +6668,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 8
+     "category": "테크"
     },
     {
      "start": "01:10",
@@ -22052,7 +22051,7 @@ window.SCHEDULE = {
      "pgm": "위프탈취제 F/W 신상!",
      "title": "딥브라운/크림베이지",
      "category": "리빙",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -23429,8 +23428,8 @@ window.SCHEDULE = {
    "2026-11-03",
    "2026-11-04"
   ],
-  "matched": 14,
-  "unmatched": 5
+  "matched": 13,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
