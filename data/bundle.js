@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-04T21:00:11+09:00",
+ "generated_at": "2026-11-04T22:00:11+09:00",
  "today": "2026-11-04",
  "dates": [
   "2026-11-03",
@@ -10514,7 +10514,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "19:00",
@@ -25666,7 +25666,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4653905821",
      "slot_id": "260245",
      "pgm": "NVIDIA X 아싸컴 조립PC 특가 라이브",
-     "category": "디지털·PC"
+     "category": "디지털·PC",
+     "hot": 6
     },
     {
      "start": "21:00",
@@ -28129,8 +28130,8 @@ window.SCHEDULE = {
    "2026-11-03",
    "2026-11-04"
   ],
-  "matched": 12,
-  "unmatched": 4
+  "matched": 13,
+  "unmatched": 3
  },
  "fixed": {
   "rows": [
