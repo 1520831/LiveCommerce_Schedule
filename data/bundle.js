@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-04T10:00:13+09:00",
+ "generated_at": "2026-11-04T10:20:11+09:00",
  "today": "2026-11-04",
  "dates": [
   "2026-11-03",
@@ -472,8 +472,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "결이 다른 겨울의 시작! BCBG 최대 75%▼",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 5
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "09:00",
@@ -492,8 +491,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[헤지스ACC] 신상 가방&겨울 패션템 미리 만나보기",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 10
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "10:00",
@@ -2267,8 +2265,7 @@ window.SCHEDULE = {
      "title": "[오하루] 당편한 에브리데이 견과+서리태콩물두유+오트밀쉐이크 ~38%",
      "pgm": "라이브쇼",
      "pgm_cd": "0214",
-     "category": "식품·건강",
-     "hot": 6
+     "category": "식품·건강"
     },
     {
      "start": "09:00",
@@ -7398,7 +7395,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -7776,7 +7774,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -8069,7 +8068,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -8220,7 +8220,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -8668,7 +8669,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -20661,7 +20663,7 @@ window.SCHEDULE = {
      "slot_id": "259137",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 3",
      "category": "가구·침구",
-     "hot": 2
+     "hot": 4
     },
     {
      "start": "09:00",
@@ -20672,8 +20674,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4724040580",
      "slot_id": "260284",
      "pgm": "완전 자동화 끝판왕! P70 Pro Ultra 라이브",
-     "category": "가전",
-     "hot": 8
+     "category": "가전"
     },
     {
      "start": "10:00",
@@ -22014,7 +22015,7 @@ window.SCHEDULE = {
      "pgm": "드시모네 장면역 특허유산균",
      "title": "최대 20%+7%+7% 할인",
      "category": "식품",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "08:30",
@@ -22027,7 +22028,7 @@ window.SCHEDULE = {
      "pgm": "그레인온 X 톡딜위크",
      "title": "달달한 혜택이 팡팡!",
      "category": "식품",
-     "hot": 3
+     "hot": 6
     },
     {
      "start": "08:30",
@@ -22040,7 +22041,7 @@ window.SCHEDULE = {
      "pgm": "아토팜 톡딜위크 LIVE",
      "title": "가을 보습템/워시/키즈 특가",
      "category": "뷰티",
-     "hot": 4
+     "hot": 10
     },
     {
      "start": "08:30",
@@ -22052,8 +22053,7 @@ window.SCHEDULE = {
      "slot_id": "61465",
      "pgm": "위프탈취제 F/W 신상!",
      "title": "딥브라운/크림베이지",
-     "category": "리빙",
-     "hot": 7
+     "category": "리빙"
     },
     {
      "start": "10:00",
