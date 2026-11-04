@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-04T09:40:34+09:00",
+ "generated_at": "2026-11-04T10:00:13+09:00",
  "today": "2026-11-04",
  "dates": [
   "2026-11-03",
@@ -492,7 +492,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[헤지스ACC] 신상 가방&겨울 패션템 미리 만나보기",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -20660,7 +20661,7 @@ window.SCHEDULE = {
      "slot_id": "259137",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 3",
      "category": "가구·침구",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "09:00",
@@ -20671,7 +20672,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4724040580",
      "slot_id": "260284",
      "pgm": "완전 자동화 끝판왕! P70 Pro Ultra 라이브",
-     "category": "가전"
+     "category": "가전",
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -22025,7 +22027,7 @@ window.SCHEDULE = {
      "pgm": "그레인온 X 톡딜위크",
      "title": "달달한 혜택이 팡팡!",
      "category": "식품",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "08:30",
@@ -23428,8 +23430,8 @@ window.SCHEDULE = {
    "2026-11-03",
    "2026-11-04"
   ],
-  "matched": 13,
-  "unmatched": 6
+  "matched": 15,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
