@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-05T07:02:30+09:00",
+ "generated_at": "2026-11-05T08:00:14+09:00",
  "today": "2026-11-05",
  "dates": [
   "2026-11-04",
@@ -435,7 +435,7 @@ window.SCHEDULE = {
      ],
      "title": "쥬크✨ 26FW 시그니처 상품 특별가 + 23% 쿠폰",
      "pgm": "[재방] 쥬크 (멀티커머스)",
-     "hot": 2
+     "hot": 5
     },
     {
      "start": "07:00",
@@ -454,7 +454,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 혜택 총집합",
-     "pgm": "[재방] 노블리타 (노블레스)"
+     "pgm": "[재방] 노블리타 (노블레스)",
+     "hot": 1
     },
     {
      "start": "08:00",
@@ -6500,7 +6501,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 7
     },
     {
      "start": "00:00",
@@ -6545,7 +6546,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "01:10",
@@ -6646,8 +6647,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "03:20",
@@ -6793,7 +6793,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 4
     },
     {
      "start": "08:00",
