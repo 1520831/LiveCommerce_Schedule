@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-04T20:00:11+09:00",
+ "generated_at": "2026-11-04T21:00:11+09:00",
  "today": "2026-11-04",
  "dates": [
   "2026-11-03",
@@ -8017,8 +8017,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -9824,8 +9823,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 8
+     "category": "푸드"
     },
     {
      "start": "18:00",
@@ -10361,7 +10359,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "19:00",
@@ -10516,7 +10514,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "19:00",
@@ -11867,7 +11865,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "패션"
+     "category": "패션",
+     "hot": 2
     },
     {
      "start": "20:00",
@@ -25383,7 +25382,7 @@ window.SCHEDULE = {
      "slot_id": "259149",
      "pgm": "빅스마일데이😊 삼성 AI 가전 최대 혜택",
      "category": "가전",
-     "hot": 2
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -25610,7 +25609,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4724040580",
      "slot_id": "260207",
      "pgm": "모바",
-     "category": "가전"
+     "category": "가전",
+     "hot": 3
     },
     {
      "start": "20:00",
