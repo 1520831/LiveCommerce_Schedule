@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-04T22:00:11+09:00",
+ "generated_at": "2026-11-04T23:00:12+09:00",
  "today": "2026-11-04",
  "dates": [
   "2026-11-03",
@@ -11865,8 +11865,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "패션",
-     "hot": 2
+     "category": "패션"
     },
     {
      "start": "20:00",
@@ -25382,7 +25381,7 @@ window.SCHEDULE = {
      "slot_id": "259149",
      "pgm": "빅스마일데이😊 삼성 AI 가전 최대 혜택",
      "category": "가전",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -25610,7 +25609,7 @@ window.SCHEDULE = {
      "slot_id": "260207",
      "pgm": "모바",
      "category": "가전",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "20:00",
@@ -25689,7 +25688,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4358900367",
      "slot_id": "260250",
      "pgm": "삼성 갤럭시",
-     "category": "디지털·PC"
+     "category": "디지털·PC",
+     "hot": 4
     },
     {
      "start": "22:00",
