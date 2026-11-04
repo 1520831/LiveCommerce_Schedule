@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-04T11:20:19+09:00",
+ "generated_at": "2026-11-04T11:40:16+09:00",
  "today": "2026-11-04",
  "dates": [
   "2026-11-03",
@@ -2368,8 +2368,7 @@ window.SCHEDULE = {
      "title": "💕지스튜디오 릴레이라이브",
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
-     "category": "여성패션",
-     "hot": 10
+     "category": "여성패션"
     },
     {
      "start": "11:00",
@@ -7775,7 +7774,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -8069,7 +8068,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -8669,7 +8668,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -9286,7 +9285,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -9411,7 +9411,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -20684,7 +20685,7 @@ window.SCHEDULE = {
      "slot_id": "259234",
      "pgm": "[빅스Day] 갤럭시 자급제 총출동!!",
      "category": "디지털·PC",
-     "hot": 8
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -20741,7 +20742,7 @@ window.SCHEDULE = {
      "slot_id": "259149",
      "pgm": "빅스마일데이😊 삼성 AI 가전 최대 혜택",
      "category": "가전",
-     "hot": 4
+     "hot": 1
     },
     {
      "start": "11:00",
@@ -22015,7 +22016,7 @@ window.SCHEDULE = {
      "pgm": "드시모네 장면역 특허유산균",
      "title": "최대 20%+7%+7% 할인",
      "category": "식품",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "08:30",
@@ -23428,7 +23429,7 @@ window.SCHEDULE = {
    "2026-11-03",
    "2026-11-04"
   ],
-  "matched": 13,
+  "matched": 14,
   "unmatched": 5
  },
  "fixed": {
