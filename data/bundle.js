@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-04T11:00:53+09:00",
+ "generated_at": "2026-11-04T11:20:19+09:00",
  "today": "2026-11-04",
  "dates": [
   "2026-11-03",
@@ -2368,7 +2368,8 @@ window.SCHEDULE = {
      "title": "💕지스튜디오 릴레이라이브",
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -7774,7 +7775,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -8068,7 +8069,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -8668,7 +8669,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -20660,8 +20661,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/2724357896",
      "slot_id": "259137",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 3",
-     "category": "가구·침구",
-     "hot": 8
+     "category": "가구·침구"
     },
     {
      "start": "09:00",
@@ -20683,7 +20683,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4805188808",
      "slot_id": "259234",
      "pgm": "[빅스Day] 갤럭시 자급제 총출동!!",
-     "category": "디지털·PC"
+     "category": "디지털·PC",
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -20739,7 +20740,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4720896120",
      "slot_id": "259149",
      "pgm": "빅스마일데이😊 삼성 AI 가전 최대 혜택",
-     "category": "가전"
+     "category": "가전",
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -22013,7 +22015,7 @@ window.SCHEDULE = {
      "pgm": "드시모네 장면역 특허유산균",
      "title": "최대 20%+7%+7% 할인",
      "category": "식품",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "08:30",
@@ -22025,8 +22027,7 @@ window.SCHEDULE = {
      "slot_id": "61422",
      "pgm": "그레인온 X 톡딜위크",
      "title": "달달한 혜택이 팡팡!",
-     "category": "식품",
-     "hot": 9
+     "category": "식품"
     },
     {
      "start": "08:30",
@@ -23427,8 +23428,8 @@ window.SCHEDULE = {
    "2026-11-03",
    "2026-11-04"
   ],
-  "matched": 12,
-  "unmatched": 6
+  "matched": 13,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
