@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-05T08:20:24+09:00",
+ "generated_at": "2026-11-05T08:40:15+09:00",
  "today": "2026-11-05",
  "dates": [
   "2026-11-04",
@@ -435,7 +435,7 @@ window.SCHEDULE = {
      ],
      "title": "쥬크✨ 26FW 시그니처 상품 특별가 + 23% 쿠폰",
      "pgm": "[재방] 쥬크 (멀티커머스)",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "07:00",
@@ -455,7 +455,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 혜택 총집합",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "08:00",
@@ -6501,7 +6501,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "00:00",
@@ -6545,8 +6545,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "01:10",
@@ -6793,7 +6792,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "08:00",
@@ -21958,7 +21957,7 @@ window.SCHEDULE = {
      "link": "https://player.sauceflex.com/broadcast/lkebay-c09da1af51674707a91bb634621bb13d",
      "slot_id": "259135",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 4",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "09:00",
@@ -22903,7 +22902,8 @@ window.SCHEDULE = {
      "slot_id": "61148",
      "pgm": "JMW 브랜드딜 LIVE",
      "title": "연중 최대 혜택!",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 3
     },
     {
      "start": "08:30",
