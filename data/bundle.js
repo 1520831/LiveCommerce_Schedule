@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-05T08:00:14+09:00",
+ "generated_at": "2026-11-05T08:20:24+09:00",
  "today": "2026-11-05",
  "dates": [
   "2026-11-04",
@@ -435,7 +435,7 @@ window.SCHEDULE = {
      ],
      "title": "쥬크✨ 26FW 시그니처 상품 특별가 + 23% 쿠폰",
      "pgm": "[재방] 쥬크 (멀티커머스)",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "07:00",
@@ -6501,7 +6501,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "00:00",
@@ -6546,7 +6546,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "01:10",
@@ -6793,7 +6793,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "08:00",
@@ -21957,7 +21957,8 @@ window.SCHEDULE = {
      "price": 0,
      "link": "https://player.sauceflex.com/broadcast/lkebay-c09da1af51674707a91bb634621bb13d",
      "slot_id": "259135",
-     "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 4"
+     "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 4",
+     "hot": 2
     },
     {
      "start": "09:00",
@@ -24330,8 +24331,8 @@ window.SCHEDULE = {
    "2026-11-04",
    "2026-11-05"
   ],
-  "matched": 9,
-  "unmatched": 8
+  "matched": 10,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
