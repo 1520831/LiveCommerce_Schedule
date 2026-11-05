@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-06T08:20:11+09:00",
+ "generated_at": "2026-11-06T08:40:14+09:00",
  "today": "2026-11-06",
  "dates": [
   "2026-11-05",
@@ -397,8 +397,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 몽클레어 패딩가디건 월 2만원대 득템찬스",
-     "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 7
+     "pgm": "[재방] 투명쇼 (패션잡화)"
     },
     {
      "start": "07:00",
@@ -436,7 +435,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "따뜻함에 스타일을 더한 보니스팍스, 3만원대부터❤️",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 5
     },
     {
      "start": "09:00",
@@ -6302,8 +6302,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 8
+     "category": "테크"
     },
     {
      "start": "01:10",
@@ -6978,8 +6977,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "09:00",
@@ -20734,7 +20732,8 @@ window.SCHEDULE = {
      "slot_id": "61256",
      "pgm": "독일 명품비타민 오쏘몰",
      "title": "최대 7%+7% 중복할인",
-     "category": "식품"
+     "category": "식품",
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -21908,8 +21907,8 @@ window.SCHEDULE = {
    "2026-11-05",
    "2026-11-06"
   ],
-  "matched": 10,
-  "unmatched": 10
+  "matched": 9,
+  "unmatched": 11
  },
  "fixed": {
   "rows": [
