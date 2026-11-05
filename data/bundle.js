@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-05T19:00:13+09:00",
+ "generated_at": "2026-11-05T20:00:12+09:00",
  "today": "2026-11-05",
  "dates": [
   "2026-11-04",
@@ -681,7 +681,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[LG정수기] 블프 특집 구독료 0원부터~",
-     "pgm": "[LG] 정수기 (렌탈)"
+     "pgm": "[LG] 정수기 (렌탈)",
+     "hot": 8
     },
     {
      "start": "20:00",
@@ -9148,7 +9149,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "13:00",
@@ -9294,7 +9295,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "14:00",
@@ -9467,8 +9468,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "14:00",
@@ -10361,8 +10361,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 4
+     "category": "푸드"
     },
     {
      "start": "18:00",
@@ -11035,7 +11034,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 2
     },
     {
      "start": "19:00",
@@ -26280,7 +26280,7 @@ window.SCHEDULE = {
      "slot_id": "260271",
      "pgm": "삼성 가전 다품목 빅스마일데이 특가🎁",
      "category": "가전",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "12:00",
@@ -26353,8 +26353,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4882664169",
      "slot_id": "259277",
      "pgm": "갤럭시 자급제폰 태블릿 버즈 시리즈",
-     "category": "디지털·PC",
-     "hot": 8
+     "category": "디지털·PC"
     },
     {
      "start": "16:00",
@@ -28629,8 +28628,8 @@ window.SCHEDULE = {
    "2026-11-04",
    "2026-11-05"
   ],
-  "matched": 10,
-  "unmatched": 7
+  "matched": 9,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
