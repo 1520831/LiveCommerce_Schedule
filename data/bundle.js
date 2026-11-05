@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-05T09:20:42+09:00",
+ "generated_at": "2026-11-05T09:40:18+09:00",
  "today": "2026-11-05",
  "dates": [
   "2026-11-04",
@@ -454,7 +454,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 혜택 총집합",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "08:00",
@@ -473,8 +473,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "라인✨ 26년 간절기 출근/하객룩 베스트 방송",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 9
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "09:00",
@@ -2443,7 +2442,7 @@ window.SCHEDULE = {
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
      "category": "여성패션",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "09:00",
@@ -21968,7 +21967,7 @@ window.SCHEDULE = {
      "slot_id": "259257",
      "pgm": "로보락 S10 MaxV Ultra Steam 라이브",
      "category": "가전",
-     "hot": 6
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -22878,7 +22877,8 @@ window.SCHEDULE = {
      "slot_id": "61051",
      "pgm": "아웃도어프로덕츠와 겨울나기!",
      "title": "기모/플리스 외 FW인기템",
-     "category": "패션"
+     "category": "패션",
+     "hot": 8
     },
     {
      "start": "08:30",
@@ -22891,7 +22891,7 @@ window.SCHEDULE = {
      "pgm": "발이 먼저 아는 스케쳐스",
      "title": "신상&인기 겨울부츠/워킹화",
      "category": "패션",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "08:30",
@@ -22917,7 +22917,7 @@ window.SCHEDULE = {
      "pgm": "정관장 한국인삼공사 톡딜위크",
      "title": "최대 7%+7% 추가할인",
      "category": "식품",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "10:00",
