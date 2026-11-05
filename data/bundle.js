@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-05T22:00:13+09:00",
+ "generated_at": "2026-11-05T23:00:13+09:00",
  "today": "2026-11-05",
  "dates": [
   "2026-11-04",
@@ -2966,7 +2966,7 @@ window.SCHEDULE = {
      "pgm": "매드라이브",
      "pgm_cd": "1079",
      "category": "잡화·슈즈",
-     "hot": 8
+     "hot": 7
     },
     {
      "start": "20:00",
@@ -9150,7 +9150,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "13:00",
@@ -9296,7 +9296,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 10
+     "hot": 8
     },
     {
      "start": "14:00",
@@ -11035,8 +11035,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 3
+     "category": "푸드"
     },
     {
      "start": "19:00",
@@ -26282,7 +26281,7 @@ window.SCHEDULE = {
      "slot_id": "260271",
      "pgm": "삼성 가전 다품목 빅스마일데이 특가🎁",
      "category": "가전",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "12:00",
@@ -26442,7 +26441,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4464023491",
      "slot_id": "259228",
      "pgm": "LG 가전 BEST 인기템❤️ 빅스마일데이 쇼핑찬스",
-     "category": "가전"
+     "category": "가전",
+     "hot": 9
     },
     {
      "start": "21:00",
