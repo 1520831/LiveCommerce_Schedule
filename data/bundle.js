@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-05T13:20:17+09:00",
+ "generated_at": "2026-11-05T13:40:19+09:00",
  "today": "2026-11-05",
  "dates": [
   "2026-11-04",
@@ -7549,7 +7549,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -8077,8 +8077,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈",
-     "hot": 10
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -26265,8 +26264,8 @@ window.SCHEDULE = {
    "2026-11-04",
    "2026-11-05"
   ],
-  "matched": 11,
-  "unmatched": 5
+  "matched": 10,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
