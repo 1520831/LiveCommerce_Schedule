@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-05T09:00:51+09:00",
+ "generated_at": "2026-11-05T09:20:42+09:00",
  "today": "2026-11-05",
  "dates": [
   "2026-11-04",
@@ -454,7 +454,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 혜택 총집합",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "08:00",
@@ -474,7 +474,7 @@ window.SCHEDULE = {
      ],
      "title": "라인✨ 26년 간절기 출근/하객룩 베스트 방송",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "09:00",
@@ -2442,7 +2442,8 @@ window.SCHEDULE = {
      "title": "다시보는 엣지쇼💙더엣지 26FW 신상 할인 혜택",
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 7
     },
     {
      "start": "09:00",
@@ -6790,8 +6791,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "08:00",
@@ -6858,8 +6858,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "09:00",
@@ -21968,7 +21967,8 @@ window.SCHEDULE = {
      "link": "https://player.sauceflex.com/broadcast/lkebay-a0a7cb7f7ebc4baaba324a3094b9c4ec",
      "slot_id": "259257",
      "pgm": "로보락 S10 MaxV Ultra Steam 라이브",
-     "category": "가전"
+     "category": "가전",
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -22904,7 +22904,7 @@ window.SCHEDULE = {
      "pgm": "JMW 브랜드딜 LIVE",
      "title": "연중 최대 혜택!",
      "category": "뷰티",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "08:30",
