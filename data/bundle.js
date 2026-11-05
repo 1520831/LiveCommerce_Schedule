@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-05T14:40:18+09:00",
+ "generated_at": "2026-11-05T15:00:17+09:00",
  "today": "2026-11-05",
  "dates": [
   "2026-11-04",
@@ -7548,8 +7548,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 9
+     "category": "푸드"
     },
     {
      "start": "10:00",
@@ -8077,8 +8076,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈",
-     "hot": 10
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -24029,7 +24027,8 @@ window.SCHEDULE = {
      "price": 0,
      "link": "https://player.sauceflex.com/broadcast/lkebay-17fac90bb5c7496791aa074c0dcee124",
      "slot_id": "260257",
-     "pgm": "시몬스"
+     "pgm": "시몬스",
+     "hot": 10
     },
     {
      "start": "15:00",
@@ -26264,8 +26263,8 @@ window.SCHEDULE = {
    "2026-11-04",
    "2026-11-05"
   ],
-  "matched": 10,
-  "unmatched": 6
+  "matched": 9,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
