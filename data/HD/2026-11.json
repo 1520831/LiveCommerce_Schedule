@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-11",
- "updated_at": "2026-11-05T18:00:54+09:00",
+ "updated_at": "2026-11-05T23:30:53+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -1474,16 +1474,16 @@
     "start": "23:00",
     "end": "23:59",
     "brand": "지고트",
-    "product": "글리터 트위드 가디건(JPAE1CD563) JPAE1CD563",
-    "price": 99000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256874291",
+    "product": "플랩 포켓 니트 후드 가디건(JRAE1CD523) JRAE1CD523",
+    "price": 129000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253882228",
     "slot_id": "202611046016",
     "items": [
      {
       "brand": "지고트",
-      "product": "글리터 트위드 가디건(JPAE1CD563) JPAE1CD563",
-      "price": 99000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256874291"
+      "product": "플랩 포켓 니트 후드 가디건(JRAE1CD523) JRAE1CD523",
+      "price": 129000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253882228"
      }
     ],
     "title": "겨울을 완성하는 지고트! FW 신상 최저가 도전",
@@ -1780,14 +1780,14 @@
     "start": "21:00",
     "end": "21:59",
     "brand": "미리 크루즈",
-    "product": "[쇼라최초][월 4만원대로 떠나는] MIRI(미리)크루즈 (유럽지중해/알래스카 등)",
+    "product": "MIRI(미리)크루즈 (유럽지중해/알래스카 등)",
     "price": 5940000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252557062",
     "slot_id": "202611056015",
     "items": [
      {
       "brand": "미리 크루즈",
-      "product": "[쇼라최초][월 4만원대로 떠나는] MIRI(미리)크루즈 (유럽지중해/알래스카 등)",
+      "product": "MIRI(미리)크루즈 (유럽지중해/알래스카 등)",
       "price": 5940000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252557062"
      }
@@ -3197,14 +3197,14 @@
     "end": "23:59",
     "brand": "CC콜렉트",
     "product": "[씨씨콜렉트] 버튼 헨리넥 니트 C264KSK031 C264KSK031",
-    "price": 259000,
+    "price": 129500,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257498231",
     "slot_id": "202611106017",
     "items": [
      {
       "brand": "CC콜렉트",
       "product": "[씨씨콜렉트] 버튼 헨리넥 니트 C264KSK031 C264KSK031",
-      "price": 259000,
+      "price": 129500,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257498231"
      }
     ],
