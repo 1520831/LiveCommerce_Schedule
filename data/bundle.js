@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-05T10:40:12+09:00",
+ "generated_at": "2026-11-05T11:00:35+09:00",
  "today": "2026-11-05",
  "dates": [
   "2026-11-04",
@@ -2441,7 +2441,7 @@ window.SCHEDULE = {
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
      "category": "여성패션",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "09:00",
@@ -7059,8 +7059,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -7213,7 +7212,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -21962,7 +21961,7 @@ window.SCHEDULE = {
      "link": "https://player.sauceflex.com/broadcast/lkebay-c09da1af51674707a91bb634621bb13d",
      "slot_id": "259135",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 4",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "09:00",
@@ -24335,7 +24334,7 @@ window.SCHEDULE = {
    "2026-11-04",
    "2026-11-05"
   ],
-  "matched": 14,
+  "matched": 13,
   "unmatched": 3
  },
  "fixed": {
