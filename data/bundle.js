@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-05T15:40:15+09:00",
+ "generated_at": "2026-11-05T16:00:20+09:00",
  "today": "2026-11-05",
  "dates": [
   "2026-11-04",
@@ -24027,8 +24027,7 @@ window.SCHEDULE = {
      "price": 0,
      "link": "https://player.sauceflex.com/broadcast/lkebay-17fac90bb5c7496791aa074c0dcee124",
      "slot_id": "260257",
-     "pgm": "시몬스",
-     "hot": 10
+     "pgm": "시몬스"
     },
     {
      "start": "15:00",
@@ -24060,7 +24059,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4882664169",
      "slot_id": "259277",
      "pgm": "갤럭시 자급제폰 태블릿 버즈 시리즈",
-     "category": "디지털·PC"
+     "category": "디지털·PC",
+     "hot": 7
     },
     {
      "start": "16:00",
