@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-05T18:03:06+09:00",
+ "generated_at": "2026-11-05T19:00:13+09:00",
  "today": "2026-11-05",
  "dates": [
   "2026-11-04",
@@ -9294,7 +9294,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "14:00",
@@ -9468,7 +9468,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "14:00",
@@ -10361,7 +10361,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 4
     },
     {
      "start": "18:00",
@@ -26353,7 +26354,7 @@ window.SCHEDULE = {
      "slot_id": "259277",
      "pgm": "갤럭시 자급제폰 태블릿 버즈 시리즈",
      "category": "디지털·PC",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "16:00",
@@ -28628,7 +28629,7 @@ window.SCHEDULE = {
    "2026-11-04",
    "2026-11-05"
   ],
-  "matched": 9,
+  "matched": 10,
   "unmatched": 7
  },
  "fixed": {
