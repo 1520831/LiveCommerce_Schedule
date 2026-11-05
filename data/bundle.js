@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-05T08:40:15+09:00",
+ "generated_at": "2026-11-05T09:00:51+09:00",
  "today": "2026-11-05",
  "dates": [
   "2026-11-04",
@@ -434,8 +434,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "쥬크✨ 26FW 시그니처 상품 특별가 + 23% 쿠폰",
-     "pgm": "[재방] 쥬크 (멀티커머스)",
-     "hot": 7
+     "pgm": "[재방] 쥬크 (멀티커머스)"
     },
     {
      "start": "07:00",
@@ -474,7 +473,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "라인✨ 26년 간절기 출근/하객룩 베스트 방송",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 7
     },
     {
      "start": "09:00",
@@ -6500,8 +6500,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "00:00",
@@ -6792,7 +6791,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 10
     },
     {
      "start": "08:00",
@@ -6859,7 +6858,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 9
     },
     {
      "start": "09:00",
@@ -22890,7 +22890,8 @@ window.SCHEDULE = {
      "slot_id": "61052",
      "pgm": "발이 먼저 아는 스케쳐스",
      "title": "신상&인기 겨울부츠/워킹화",
-     "category": "패션"
+     "category": "패션",
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -22915,7 +22916,8 @@ window.SCHEDULE = {
      "slot_id": "61254",
      "pgm": "정관장 한국인삼공사 톡딜위크",
      "title": "최대 7%+7% 추가할인",
-     "category": "식품"
+     "category": "식품",
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -24331,8 +24333,8 @@ window.SCHEDULE = {
    "2026-11-04",
    "2026-11-05"
   ],
-  "matched": 10,
-  "unmatched": 7
+  "matched": 12,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
