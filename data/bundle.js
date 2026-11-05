@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-05T20:00:12+09:00",
+ "generated_at": "2026-11-05T21:00:10+09:00",
  "today": "2026-11-05",
  "dates": [
   "2026-11-04",
@@ -682,7 +682,7 @@ window.SCHEDULE = {
      ],
      "title": "[LG정수기] 블프 특집 구독료 0원부터~",
      "pgm": "[LG] 정수기 (렌탈)",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "20:00",
@@ -2965,7 +2965,8 @@ window.SCHEDULE = {
      "title": "MAD 어니스트서울💞베젤 목걸이 단독 첫 특가 ~52% OFF🔥",
      "pgm": "매드라이브",
      "pgm_cd": "1079",
-     "category": "잡화·슈즈"
+     "category": "잡화·슈즈",
+     "hot": 6
     },
     {
      "start": "20:00",
@@ -9295,7 +9296,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "14:00",
@@ -26440,7 +26441,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4464023491",
      "slot_id": "259228",
      "pgm": "LG 가전 BEST 인기템❤️ 빅스마일데이 쇼핑찬스",
-     "category": "가전"
+     "category": "가전",
+     "hot": 8
     },
     {
      "start": "21:00",
@@ -28628,8 +28630,8 @@ window.SCHEDULE = {
    "2026-11-04",
    "2026-11-05"
   ],
-  "matched": 9,
-  "unmatched": 8
+  "matched": 11,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
