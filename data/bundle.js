@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-05T11:20:15+09:00",
+ "generated_at": "2026-11-05T11:40:27+09:00",
  "today": "2026-11-05",
  "dates": [
   "2026-11-04",
@@ -7211,7 +7211,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -7257,7 +7257,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -7404,7 +7404,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -7437,7 +7437,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -7739,7 +7739,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -8190,7 +8190,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "11:00",
@@ -8599,7 +8599,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 7
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -21959,8 +21959,7 @@ window.SCHEDULE = {
      "price": 0,
      "link": "https://player.sauceflex.com/broadcast/lkebay-c09da1af51674707a91bb634621bb13d",
      "slot_id": "259135",
-     "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 4",
-     "hot": 10
+     "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 4"
     },
     {
      "start": "09:00",
@@ -22057,7 +22056,8 @@ window.SCHEDULE = {
      "link": "https://player.sauceflex.com/broadcast/lkebay-f68a788a865b4159bae6cea518582493",
      "slot_id": "260271",
      "pgm": "삼성 가전 다품목 빅스마일데이 특가🎁",
-     "category": "가전"
+     "category": "가전",
+     "hot": 7
     },
     {
      "start": "12:00",
