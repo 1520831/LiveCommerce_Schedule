@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-05T21:00:10+09:00",
+ "generated_at": "2026-11-05T22:00:13+09:00",
  "today": "2026-11-05",
  "dates": [
   "2026-11-04",
@@ -681,8 +681,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[LG정수기] 블프 특집 구독료 0원부터~",
-     "pgm": "[LG] 정수기 (렌탈)",
-     "hot": 10
+     "pgm": "[LG] 정수기 (렌탈)"
     },
     {
      "start": "20:00",
@@ -720,7 +719,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[미리크루즈] 유럽지중해/알래스카 월 4만원대 찬스",
-     "pgm": "[미리크루즈] 크루즈 (여행)"
+     "pgm": "[미리크루즈] 크루즈 (여행)",
+     "hot": 4
     },
     {
      "start": "22:00",
@@ -2966,7 +2966,7 @@ window.SCHEDULE = {
      "pgm": "매드라이브",
      "pgm_cd": "1079",
      "category": "잡화·슈즈",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "20:00",
@@ -9150,7 +9150,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 7
     },
     {
      "start": "13:00",
@@ -9296,7 +9296,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "14:00",
@@ -11036,7 +11036,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "19:00",
@@ -12255,7 +12255,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 1
     },
     {
      "start": "21:00",
@@ -26281,7 +26282,7 @@ window.SCHEDULE = {
      "slot_id": "260271",
      "pgm": "삼성 가전 다품목 빅스마일데이 특가🎁",
      "category": "가전",
-     "hot": 3
+     "hot": 6
     },
     {
      "start": "12:00",
@@ -26441,8 +26442,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4464023491",
      "slot_id": "259228",
      "pgm": "LG 가전 BEST 인기템❤️ 빅스마일데이 쇼핑찬스",
-     "category": "가전",
-     "hot": 8
+     "category": "가전"
     },
     {
      "start": "21:00",
