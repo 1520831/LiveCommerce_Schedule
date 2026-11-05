@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-05T12:03:21+09:00",
+ "generated_at": "2026-11-05T12:20:13+09:00",
  "today": "2026-11-05",
  "dates": [
   "2026-11-04",
@@ -8929,7 +8929,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -23989,7 +23989,7 @@ window.SCHEDULE = {
      "slot_id": "260271",
      "pgm": "삼성 가전 다품목 빅스마일데이 특가🎁",
      "category": "가전",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "12:00",
