@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-05T13:40:19+09:00",
+ "generated_at": "2026-11-05T14:00:17+09:00",
  "today": "2026-11-05",
  "dates": [
   "2026-11-04",
@@ -7595,7 +7595,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -7774,7 +7774,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -8928,7 +8928,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "11:00",
