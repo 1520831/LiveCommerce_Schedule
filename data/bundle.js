@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-06T08:00:13+09:00",
+ "generated_at": "2026-11-06T08:20:11+09:00",
  "today": "2026-11-06",
  "dates": [
   "2026-11-05",
@@ -398,7 +398,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 몽클레어 패딩가디건 월 2만원대 득템찬스",
      "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "07:00",
@@ -417,8 +417,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[한민금거래소] 재테크/선물용 프리미엄 골드바 핫딜",
-     "pgm": "[재방] 한민금거래소 (패션잡화)",
-     "hot": 10
+     "pgm": "[재방] 한민금거래소 (패션잡화)"
     },
     {
      "start": "08:00",
@@ -6304,7 +6303,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "01:10",
@@ -6979,7 +6978,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 10
     },
     {
      "start": "09:00",
@@ -20026,7 +20026,8 @@ window.SCHEDULE = {
      "price": 0,
      "link": "https://player.sauceflex.com/broadcast/lkebay-bd507558046443c9b6d305880169430b",
      "slot_id": "260173",
-     "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 5"
+     "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 5",
+     "hot": 1
     },
     {
      "start": "09:00",
@@ -21907,8 +21908,8 @@ window.SCHEDULE = {
    "2026-11-05",
    "2026-11-06"
   ],
-  "matched": 9,
-  "unmatched": 11
+  "matched": 10,
+  "unmatched": 10
  },
  "fixed": {
   "rows": [
