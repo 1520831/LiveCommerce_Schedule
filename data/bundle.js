@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-06T11:07:20+09:00",
+ "generated_at": "2026-11-06T11:31:27+09:00",
  "today": "2026-11-06",
  "dates": [
   "2026-11-05",
@@ -7280,7 +7280,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -7332,8 +7332,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 9
+     "category": "푸드"
     },
     {
      "start": "10:00",
@@ -7421,7 +7420,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -7598,7 +7597,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 4
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -7671,7 +7670,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 3
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -8322,7 +8321,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "10:30",
@@ -8957,7 +8956,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -20030,8 +20030,7 @@ window.SCHEDULE = {
      "price": 0,
      "link": "https://player.sauceflex.com/broadcast/lkebay-bd507558046443c9b6d305880169430b",
      "slot_id": "260173",
-     "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 5",
-     "hot": 6
+     "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 5"
     },
     {
      "start": "09:00",
@@ -20051,8 +20050,7 @@ window.SCHEDULE = {
      "price": 40600,
      "link": "https://m.gmarket.co.kr/vi/product/2191515947",
      "slot_id": "259143",
-     "pgm": "빅스마일데이 브랜드쇼 크록스 라이브",
-     "hot": 10
+     "pgm": "빅스마일데이 브랜드쇼 크록스 라이브"
     },
     {
      "start": "10:00",
@@ -20095,7 +20093,8 @@ window.SCHEDULE = {
      "link": "https://player.sauceflex.com/broadcast/lkebay-ff140f05d42e455f8e546697de620430",
      "slot_id": "259262",
      "pgm": "빅스마일데이😊 삼성 AI 가전 최대 혜택",
-     "category": "가전"
+     "category": "가전",
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -20117,7 +20116,8 @@ window.SCHEDULE = {
      "link": "https://player.sauceflex.com/broadcast/lkebay-e023b9c2502e41fb8de3d8585ca27189",
      "slot_id": "260210",
      "pgm": "빅스마일데이 - MSI 노트북 라인업",
-     "category": "디지털·PC"
+     "category": "디지털·PC",
+     "hot": 2
     },
     {
      "start": "12:00",
@@ -20739,8 +20739,7 @@ window.SCHEDULE = {
      "slot_id": "61256",
      "pgm": "독일 명품비타민 오쏘몰",
      "title": "최대 7%+7% 중복할인",
-     "category": "식품",
-     "hot": 7
+     "category": "식품"
     },
     {
      "start": "10:00",
@@ -21914,8 +21913,8 @@ window.SCHEDULE = {
    "2026-11-05",
    "2026-11-06"
   ],
-  "matched": 16,
-  "unmatched": 4
+  "matched": 15,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
