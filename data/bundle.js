@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-06T10:01:19+09:00",
+ "generated_at": "2026-11-06T10:20:11+09:00",
  "today": "2026-11-06",
  "dates": [
   "2026-11-05",
@@ -435,8 +435,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "따뜻함에 스타일을 더한 보니스팍스, 3만원대부터❤️",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 6
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "09:00",
@@ -2185,7 +2184,7 @@ window.SCHEDULE = {
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
      "category": "여성패션",
-     "hot": 4
+     "hot": 9
     },
     {
      "start": "09:00",
@@ -6978,8 +6977,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 8
+     "category": "테크"
     },
     {
      "start": "09:00",
@@ -7282,7 +7280,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -7421,7 +7420,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -7448,7 +7448,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -7596,7 +7597,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -7668,7 +7670,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -20027,7 +20030,7 @@ window.SCHEDULE = {
      "link": "https://player.sauceflex.com/broadcast/lkebay-bd507558046443c9b6d305880169430b",
      "slot_id": "260173",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 5",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "09:00",
@@ -20699,7 +20702,7 @@ window.SCHEDULE = {
      "pgm": "식단관리 필수템 방탄커피&",
      "title": "저당 소스/드레싱 골라담기",
      "category": "식품",
-     "hot": 3
+     "hot": 7
     },
     {
      "start": "08:30",
@@ -20711,8 +20714,7 @@ window.SCHEDULE = {
      "slot_id": "61158",
      "pgm": "믹순 콩 에센스/크림~50%",
      "title": "추가 할인+사은품 증정!",
-     "category": "뷰티",
-     "hot": 7
+     "category": "뷰티"
     },
     {
      "start": "08:30",
@@ -20737,7 +20739,7 @@ window.SCHEDULE = {
      "pgm": "독일 명품비타민 오쏘몰",
      "title": "최대 7%+7% 중복할인",
      "category": "식품",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -21911,8 +21913,8 @@ window.SCHEDULE = {
    "2026-11-05",
    "2026-11-06"
   ],
-  "matched": 13,
-  "unmatched": 7
+  "matched": 15,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
