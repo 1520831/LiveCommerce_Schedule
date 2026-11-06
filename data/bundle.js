@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-06T09:40:22+09:00",
+ "generated_at": "2026-11-06T10:01:19+09:00",
  "today": "2026-11-06",
  "dates": [
   "2026-11-05",
@@ -436,7 +436,7 @@ window.SCHEDULE = {
      ],
      "title": "따뜻함에 스타일을 더한 보니스팍스, 3만원대부터❤️",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "09:00",
@@ -2184,7 +2184,8 @@ window.SCHEDULE = {
      "title": "다시보는 엣지쇼💙베라왕26FW 최초공개 할인!",
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 4
     },
     {
      "start": "09:00",
@@ -6977,7 +6978,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 8
     },
     {
      "start": "09:00",
@@ -20025,7 +20027,7 @@ window.SCHEDULE = {
      "link": "https://player.sauceflex.com/broadcast/lkebay-bd507558046443c9b6d305880169430b",
      "slot_id": "260173",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 5",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "09:00",
@@ -20710,7 +20712,7 @@ window.SCHEDULE = {
      "pgm": "믹순 콩 에센스/크림~50%",
      "title": "추가 할인+사은품 증정!",
      "category": "뷰티",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "08:30",
@@ -20722,8 +20724,7 @@ window.SCHEDULE = {
      "slot_id": "61233",
      "pgm": "마미케어 ~78%+쿠폰",
      "title": "8만원 이상 리프트롤러 증정",
-     "category": "뷰티",
-     "hot": 9
+     "category": "뷰티"
     },
     {
      "start": "08:30",
@@ -20736,7 +20737,7 @@ window.SCHEDULE = {
      "pgm": "독일 명품비타민 오쏘몰",
      "title": "최대 7%+7% 중복할인",
      "category": "식품",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -21910,8 +21911,8 @@ window.SCHEDULE = {
    "2026-11-05",
    "2026-11-06"
   ],
-  "matched": 12,
-  "unmatched": 8
+  "matched": 13,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
