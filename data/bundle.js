@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-06T12:40:19+09:00",
+ "generated_at": "2026-11-06T13:01:24+09:00",
  "today": "2026-11-06",
  "dates": [
   "2026-11-05",
@@ -7918,7 +7918,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -8059,7 +8059,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -8235,7 +8235,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -9277,7 +9277,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -9447,7 +9447,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -10018,7 +10018,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 5
     },
     {
      "start": "12:00",
@@ -24215,7 +24216,7 @@ window.SCHEDULE = {
      "slot_id": "260295",
      "pgm": "LG가전으로 완성하는 스마트한 라이프✨",
      "category": "가전",
-     "hot": 8
+     "hot": 4
     },
     {
      "start": "12:00",
@@ -26208,8 +26209,8 @@ window.SCHEDULE = {
    "2026-11-05",
    "2026-11-06"
   ],
-  "matched": 15,
-  "unmatched": 5
+  "matched": 16,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
