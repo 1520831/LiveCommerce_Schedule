@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-06T09:20:15+09:00",
+ "generated_at": "2026-11-06T09:40:22+09:00",
  "today": "2026-11-06",
  "dates": [
   "2026-11-05",
@@ -20723,7 +20723,7 @@ window.SCHEDULE = {
      "pgm": "마미케어 ~78%+쿠폰",
      "title": "8만원 이상 리프트롤러 증정",
      "category": "뷰티",
-     "hot": 10
+     "hot": 9
     },
     {
      "start": "08:30",
