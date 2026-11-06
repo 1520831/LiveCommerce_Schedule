@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-06T14:20:14+09:00",
+ "generated_at": "2026-11-06T14:40:16+09:00",
  "today": "2026-11-06",
  "dates": [
   "2026-11-05",
@@ -10327,7 +10327,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 3
     },
     {
      "start": "14:00",
@@ -24216,7 +24216,7 @@ window.SCHEDULE = {
      "slot_id": "260295",
      "pgm": "LG가전으로 완성하는 스마트한 라이프✨",
      "category": "가전",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "12:00",
