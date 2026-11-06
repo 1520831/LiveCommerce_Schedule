@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-06T12:21:16+09:00",
+ "generated_at": "2026-11-06T12:40:19+09:00",
  "today": "2026-11-06",
  "dates": [
   "2026-11-05",
@@ -8235,7 +8235,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -24106,8 +24106,7 @@ window.SCHEDULE = {
      "price": 0,
      "link": "https://player.sauceflex.com/broadcast/lkebay-bd507558046443c9b6d305880169430b",
      "slot_id": "260173",
-     "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 5",
-     "hot": 10
+     "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 5"
     },
     {
      "start": "09:00",
@@ -24215,7 +24214,8 @@ window.SCHEDULE = {
      "link": "https://player.sauceflex.com/broadcast/lkebay-270938fc9fe342a39e13b018998c66bf",
      "slot_id": "260295",
      "pgm": "LG가전으로 완성하는 스마트한 라이프✨",
-     "category": "가전"
+     "category": "가전",
+     "hot": 8
     },
     {
      "start": "12:00",
