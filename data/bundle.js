@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-06T10:40:13+09:00",
+ "generated_at": "2026-11-06T11:07:20+09:00",
  "today": "2026-11-06",
  "dates": [
   "2026-11-05",
@@ -7280,7 +7280,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -7421,7 +7421,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 7
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -7598,7 +7598,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -7671,7 +7671,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -8321,7 +8321,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 8
     },
     {
      "start": "10:30",
@@ -20030,7 +20031,7 @@ window.SCHEDULE = {
      "link": "https://player.sauceflex.com/broadcast/lkebay-bd507558046443c9b6d305880169430b",
      "slot_id": "260173",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 5",
-     "hot": 3
+     "hot": 6
     },
     {
      "start": "09:00",
@@ -20050,7 +20051,8 @@ window.SCHEDULE = {
      "price": 40600,
      "link": "https://m.gmarket.co.kr/vi/product/2191515947",
      "slot_id": "259143",
-     "pgm": "빅스마일데이 브랜드쇼 크록스 라이브"
+     "pgm": "빅스마일데이 브랜드쇼 크록스 라이브",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -20701,8 +20703,7 @@ window.SCHEDULE = {
      "slot_id": "61125",
      "pgm": "식단관리 필수템 방탄커피&",
      "title": "저당 소스/드레싱 골라담기",
-     "category": "식품",
-     "hot": 8
+     "category": "식품"
     },
     {
      "start": "08:30",
@@ -20739,7 +20740,7 @@ window.SCHEDULE = {
      "pgm": "독일 명품비타민 오쏘몰",
      "title": "최대 7%+7% 중복할인",
      "category": "식품",
-     "hot": 4
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -21913,8 +21914,8 @@ window.SCHEDULE = {
    "2026-11-05",
    "2026-11-06"
   ],
-  "matched": 15,
-  "unmatched": 5
+  "matched": 16,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
