@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-06T09:00:18+09:00",
+ "generated_at": "2026-11-06T09:20:15+09:00",
  "today": "2026-11-06",
  "dates": [
   "2026-11-05",
@@ -20710,7 +20710,7 @@ window.SCHEDULE = {
      "pgm": "믹순 콩 에센스/크림~50%",
      "title": "추가 할인+사은품 증정!",
      "category": "뷰티",
-     "hot": 9
+     "hot": 6
     },
     {
      "start": "08:30",
@@ -20722,7 +20722,8 @@ window.SCHEDULE = {
      "slot_id": "61233",
      "pgm": "마미케어 ~78%+쿠폰",
      "title": "8만원 이상 리프트롤러 증정",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 10
     },
     {
      "start": "08:30",
@@ -21909,8 +21910,8 @@ window.SCHEDULE = {
    "2026-11-05",
    "2026-11-06"
   ],
-  "matched": 11,
-  "unmatched": 9
+  "matched": 12,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
