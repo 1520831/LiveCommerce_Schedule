@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-07T19:54:00+09:00",
+ "generated_at": "2026-11-07T20:00:15+09:00",
  "today": "2026-11-07",
  "dates": [
   "2026-11-06",
@@ -26180,7 +26180,7 @@ window.SCHEDULE = {
      "pgm": "하루종일 편안한 원더브라",
      "title": "베스트 리오더특가!쿠폰/증정",
      "category": "패션",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -27622,7 +27622,7 @@ window.SCHEDULE = {
    "2026-11-07"
   ],
   "matched": 14,
-  "unmatched": 5
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
