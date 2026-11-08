@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-09T08:20:37+09:00",
+ "generated_at": "2026-11-09T08:40:11+09:00",
  "today": "2026-11-09",
  "dates": [
   "2026-11-08",
@@ -378,7 +378,7 @@ window.SCHEDULE = {
      ],
      "title": "[쥬베라] SNS 품절대란 진동클렌저 쇼라 단독 특별가",
      "pgm": "[재방] 쥬베라 진동클렌저 (가전)",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "08:00",
@@ -398,7 +398,7 @@ window.SCHEDULE = {
      ],
      "title": "쇼라 20% 쿠폰 혜택! 라코스테여성 얼리시즌오프❤️",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 5
+     "hot": 3
     },
     {
      "start": "09:00",
@@ -16556,7 +16556,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/2191515947",
      "slot_id": "259136",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 6",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "09:00",
@@ -19110,7 +19110,7 @@ window.SCHEDULE = {
    "2026-11-09"
   ],
   "matched": 3,
-  "unmatched": 6
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
