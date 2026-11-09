@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-10T08:00:14+09:00",
+ "generated_at": "2026-11-10T08:20:13+09:00",
  "today": "2026-11-10",
  "dates": [
   "2026-11-09",
@@ -417,7 +417,7 @@ window.SCHEDULE = {
      ],
      "title": "포트메리온 전 상품 반값 특별가✨",
      "pgm": "[재방] 포트메리온 (멀티커머스)",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "07:00",
@@ -436,8 +436,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[MCRN] 핸드메이드 폰스트랩 쇼핑 찬스💖",
-     "pgm": "[재방] MCRN 휴대폰스트랩 (패션잡화)",
-     "hot": 8
+     "pgm": "[재방] MCRN 휴대폰스트랩 (패션잡화)"
     },
     {
      "start": "08:00",
@@ -456,7 +455,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "요이츠 윈터룩! 20% 쿠폰 + 최대 7% 카드 할인",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 9
     },
     {
      "start": "09:00",
@@ -7309,7 +7309,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 4
     },
     {
      "start": "09:00",
@@ -18701,7 +18702,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/3426099800",
      "slot_id": "260171",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 7",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 2
     },
     {
      "start": "09:00",
@@ -20935,8 +20937,8 @@ window.SCHEDULE = {
    "2026-11-09",
    "2026-11-10"
   ],
-  "matched": 8,
-  "unmatched": 8
+  "matched": 10,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
