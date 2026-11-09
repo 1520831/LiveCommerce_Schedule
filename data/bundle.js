@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-09T20:00:15+09:00",
+ "generated_at": "2026-11-09T21:00:09+09:00",
  "today": "2026-11-09",
  "dates": [
   "2026-11-08",
@@ -453,8 +453,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 전 상품 최저가도전",
-     "pgm": "노블리타 (노블레스)",
-     "hot": 10
+     "pgm": "노블리타 (노블레스)"
     },
     {
      "start": "12:00",
@@ -644,7 +643,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[현명쇼] 버버리 롱 패딩 월 2만원대 ★곧 종료★",
-     "pgm": "현명쇼(노블레스)"
+     "pgm": "현명쇼(노블레스)",
+     "hot": 6
     },
     {
      "start": "22:00",
@@ -8046,8 +8046,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프",
-     "hot": 5
+     "category": "라이프"
     },
     {
      "start": "11:00",
@@ -10706,7 +10705,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "패션"
+     "category": "패션",
+     "hot": 8
     },
     {
      "start": "20:00",
@@ -22951,7 +22951,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4655219784",
      "slot_id": "260304",
      "pgm": "빅스마일데이 LG그램&모니터 역대 최대혜택",
-     "category": "디지털·PC"
+     "category": "디지털·PC",
+     "hot": 5
     },
     {
      "start": "20:00",
@@ -24156,8 +24157,7 @@ window.SCHEDULE = {
      "slot_id": "61151",
      "pgm": "하기스X카쇼라 톡딜위크",
      "title": "대용량 기저귀 특가",
-     "category": "키즈",
-     "hot": 8
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -24229,8 +24229,7 @@ window.SCHEDULE = {
      "slot_id": "61560",
      "pgm": "밀크마일 윈터 오픈 라이브!",
      "title": "따끈한 겨울아이템 보러가기",
-     "category": "키즈",
-     "hot": 9
+     "category": "키즈"
     },
     {
      "start": "11:30",
@@ -25552,7 +25551,7 @@ window.SCHEDULE = {
    "2026-11-08",
    "2026-11-09"
   ],
-  "matched": 13,
+  "matched": 12,
   "unmatched": 5
  },
  "fixed": {
