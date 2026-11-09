@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-09T08:40:11+09:00",
+ "generated_at": "2026-11-09T09:00:16+09:00",
  "today": "2026-11-09",
  "dates": [
   "2026-11-08",
@@ -377,8 +377,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[쥬베라] SNS 품절대란 진동클렌저 쇼라 단독 특별가",
-     "pgm": "[재방] 쥬베라 진동클렌저 (가전)",
-     "hot": 7
+     "pgm": "[재방] 쥬베라 진동클렌저 (가전)"
     },
     {
      "start": "08:00",
@@ -398,7 +397,7 @@ window.SCHEDULE = {
      ],
      "title": "쇼라 20% 쿠폰 혜택! 라코스테여성 얼리시즌오프❤️",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "09:00",
@@ -18045,7 +18044,8 @@ window.SCHEDULE = {
      "slot_id": "61815",
      "pgm": "대용량 가열식 가습기 스텐팟",
      "title": "카카오 특별 라이브 혜택",
-     "category": "테크"
+     "category": "테크",
+     "hot": 7
     },
     {
      "start": "08:30",
@@ -18057,7 +18057,8 @@ window.SCHEDULE = {
      "slot_id": "61832",
      "pgm": "닥터포헤어 올해 마지막!",
      "title": "단독구성+풍성한 사은품",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -19109,8 +19110,8 @@ window.SCHEDULE = {
   "dates": [
    "2026-11-09"
   ],
-  "matched": 3,
-  "unmatched": 7
+  "matched": 4,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
