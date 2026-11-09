@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-09T14:00:12+09:00",
+ "generated_at": "2026-11-09T14:20:12+09:00",
  "today": "2026-11-09",
  "dates": [
   "2026-11-08",
@@ -7440,7 +7440,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -21323,7 +21323,7 @@ window.SCHEDULE = {
      "slot_id": "259269",
      "pgm": "냉장고도 가전도 삼성~💙 빅스 특가🔥",
      "category": "가전",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "11:00",
