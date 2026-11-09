@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-09T10:40:09+09:00",
+ "generated_at": "2026-11-09T11:00:26+09:00",
  "today": "2026-11-09",
  "dates": [
   "2026-11-08",
@@ -397,7 +397,7 @@ window.SCHEDULE = {
      ],
      "title": "쇼라 20% 쿠폰 혜택! 라코스테여성 얼리시즌오프❤️",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "09:00",
@@ -1740,7 +1740,7 @@ window.SCHEDULE = {
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
      "category": "여성패션",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "09:00",
@@ -6535,7 +6535,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -6793,7 +6794,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "10:20",
@@ -16560,7 +16561,7 @@ window.SCHEDULE = {
      "slot_id": "259136",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 6",
      "category": "주방·잡화",
-     "hot": 1
+     "hot": 3
     },
     {
      "start": "09:00",
@@ -16628,7 +16629,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]커피대통령과 함께하는 드롱기 베스트셀러 특가🔥",
      "rerun": true,
      "category": "가전",
-     "hot": 10
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -18171,8 +18172,7 @@ window.SCHEDULE = {
      "slot_id": "61832",
      "pgm": "닥터포헤어 올해 마지막!",
      "title": "단독구성+풍성한 사은품",
-     "category": "뷰티",
-     "hot": 9
+     "category": "뷰티"
     },
     {
      "start": "10:00",
@@ -18185,7 +18185,7 @@ window.SCHEDULE = {
      "pgm": "하기스X카쇼라 톡딜위크",
      "title": "대용량 기저귀 특가",
      "category": "키즈",
-     "hot": 3
+     "hot": 1
     },
     {
      "start": "10:00",
