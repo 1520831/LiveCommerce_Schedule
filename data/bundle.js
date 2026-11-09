@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-09T10:20:10+09:00",
+ "generated_at": "2026-11-09T10:40:09+09:00",
  "today": "2026-11-09",
  "dates": [
   "2026-11-08",
@@ -436,7 +436,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 몽클레어 후드 패딩 월 3만원대 득템찬스",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -6792,7 +6792,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 7
     },
     {
      "start": "10:20",
@@ -16626,7 +16627,8 @@ window.SCHEDULE = {
      "slot_id": "260390",
      "pgm": "[앵콜]커피대통령과 함께하는 드롱기 베스트셀러 특가🔥",
      "rerun": true,
-     "category": "가전"
+     "category": "가전",
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -18157,8 +18159,7 @@ window.SCHEDULE = {
      "slot_id": "61815",
      "pgm": "대용량 가열식 가습기 스텐팟",
      "title": "카카오 특별 라이브 혜택",
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "08:30",
@@ -18171,7 +18172,7 @@ window.SCHEDULE = {
      "pgm": "닥터포헤어 올해 마지막!",
      "title": "단독구성+풍성한 사은품",
      "category": "뷰티",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -18184,7 +18185,7 @@ window.SCHEDULE = {
      "pgm": "하기스X카쇼라 톡딜위크",
      "title": "대용량 기저귀 특가",
      "category": "키즈",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -19224,8 +19225,8 @@ window.SCHEDULE = {
   "dates": [
    "2026-11-09"
   ],
-  "matched": 8,
-  "unmatched": 2
+  "matched": 9,
+  "unmatched": 1
  },
  "fixed": {
   "rows": [
