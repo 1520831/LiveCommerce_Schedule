@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-09T19:00:10+09:00",
+ "generated_at": "2026-11-09T20:00:15+09:00",
  "today": "2026-11-09",
  "dates": [
   "2026-11-08",
@@ -434,8 +434,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 몽클레어 후드 패딩 월 3만원대 득템찬스",
-     "pgm": "투명쇼 (패션잡화)",
-     "hot": 10
+     "pgm": "투명쇼 (패션잡화)"
     },
     {
      "start": "11:00",
@@ -455,7 +454,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 전 상품 최저가도전",
      "pgm": "노블리타 (노블레스)",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "12:00",
@@ -7592,8 +7591,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈",
-     "hot": 8
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -8049,7 +8047,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -9889,7 +9887,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 1
     },
     {
      "start": "19:00",
@@ -22556,8 +22555,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4577283005",
      "slot_id": "259136",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 6",
-     "category": "주방·잡화",
-     "hot": 9
+     "category": "주방·잡화"
     },
     {
      "start": "09:00",
@@ -22636,7 +22634,7 @@ window.SCHEDULE = {
      "slot_id": "259269",
      "pgm": "냉장고도 가전도 삼성~💙 빅스 특가🔥",
      "category": "가전",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -22919,7 +22917,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4498750946",
      "slot_id": "260212",
      "pgm": "LG가전 살 때가 왔다! 빅스마일데이 특가전💜",
-     "category": "서비스·렌탈"
+     "category": "서비스·렌탈",
+     "hot": 3
     },
     {
      "start": "19:00",
@@ -24158,7 +24157,7 @@ window.SCHEDULE = {
      "pgm": "하기스X카쇼라 톡딜위크",
      "title": "대용량 기저귀 특가",
      "category": "키즈",
-     "hot": 5
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -24231,7 +24230,7 @@ window.SCHEDULE = {
      "pgm": "밀크마일 윈터 오픈 라이브!",
      "title": "따끈한 겨울아이템 보러가기",
      "category": "키즈",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "11:30",
@@ -25553,7 +25552,7 @@ window.SCHEDULE = {
    "2026-11-08",
    "2026-11-09"
   ],
-  "matched": 14,
+  "matched": 13,
   "unmatched": 5
  },
  "fixed": {
