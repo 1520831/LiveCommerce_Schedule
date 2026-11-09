@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-09T09:20:09+09:00",
+ "generated_at": "2026-11-09T09:40:22+09:00",
  "today": "2026-11-09",
  "dates": [
   "2026-11-08",
@@ -416,7 +416,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "잠옷/여성세트 外 11월 역대급 비너스 쇼라 위크❤️",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -1739,7 +1740,7 @@ window.SCHEDULE = {
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
      "category": "여성패션",
-     "hot": 8
+     "hot": 7
     },
     {
      "start": "09:00",
@@ -18156,7 +18157,7 @@ window.SCHEDULE = {
      "pgm": "대용량 가열식 가습기 스텐팟",
      "title": "카카오 특별 라이브 혜택",
      "category": "테크",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "08:30",
@@ -19221,8 +19222,8 @@ window.SCHEDULE = {
   "dates": [
    "2026-11-09"
   ],
-  "matched": 5,
-  "unmatched": 4
+  "matched": 6,
+  "unmatched": 3
  },
  "fixed": {
   "rows": [
