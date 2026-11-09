@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-09T12:05:50+09:00",
+ "generated_at": "2026-11-09T12:20:15+09:00",
  "today": "2026-11-09",
  "dates": [
   "2026-11-08",
@@ -435,7 +435,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 몽클레어 후드 패딩 월 3만원대 득템찬스",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -6984,7 +6984,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -21244,7 +21244,7 @@ window.SCHEDULE = {
      "slot_id": "259136",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 6",
      "category": "주방·잡화",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "09:00",
@@ -22930,7 +22930,7 @@ window.SCHEDULE = {
      "pgm": "밀크마일 윈터 오픈 라이브!",
      "title": "따끈한 겨울아이템 보러가기",
      "category": "키즈",
-     "hot": 10
+     "hot": 7
     },
     {
      "start": "11:30",
