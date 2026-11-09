@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-09T10:00:13+09:00",
+ "generated_at": "2026-11-09T10:20:10+09:00",
  "today": "2026-11-09",
  "dates": [
   "2026-11-08",
@@ -397,7 +397,7 @@ window.SCHEDULE = {
      ],
      "title": "쇼라 20% 쿠폰 혜택! 라코스테여성 얼리시즌오프❤️",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 2
+     "hot": 5
     },
     {
      "start": "09:00",
@@ -416,8 +416,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "잠옷/여성세트 外 11월 역대급 비너스 쇼라 위크❤️",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 8
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "10:00",
@@ -436,7 +435,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 몽클레어 후드 패딩 월 3만원대 득템찬스",
-     "pgm": "투명쇼 (패션잡화)"
+     "pgm": "투명쇼 (패션잡화)",
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -1740,7 +1740,7 @@ window.SCHEDULE = {
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
      "category": "여성패션",
-     "hot": 3
+     "hot": 6
     },
     {
      "start": "09:00",
@@ -6697,7 +6697,8 @@ window.SCHEDULE = {
       {},
       {},
       {}
-     ]
+     ],
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -18157,7 +18158,7 @@ window.SCHEDULE = {
      "pgm": "대용량 가열식 가습기 스텐팟",
      "title": "카카오 특별 라이브 혜택",
      "category": "테크",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "08:30",
@@ -18170,7 +18171,7 @@ window.SCHEDULE = {
      "pgm": "닥터포헤어 올해 마지막!",
      "title": "단독구성+풍성한 사은품",
      "category": "뷰티",
-     "hot": 5
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -18182,7 +18183,8 @@ window.SCHEDULE = {
      "slot_id": "61151",
      "pgm": "하기스X카쇼라 톡딜위크",
      "title": "대용량 기저귀 특가",
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -19222,8 +19224,8 @@ window.SCHEDULE = {
   "dates": [
    "2026-11-09"
   ],
-  "matched": 6,
-  "unmatched": 3
+  "matched": 8,
+  "unmatched": 2
  },
  "fixed": {
   "rows": [
