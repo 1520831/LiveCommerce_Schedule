@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-10T13:20:18+09:00",
+ "generated_at": "2026-11-10T13:40:13+09:00",
  "today": "2026-11-10",
  "dates": [
   "2026-11-09",
@@ -20951,7 +20951,7 @@ window.SCHEDULE = {
      "slot_id": "260269",
      "pgm": "빅스마일데이 드시모네 쿠폰+결제할인+적립 트리플혜택✨",
      "category": "유아동",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "13:00",
@@ -23071,7 +23071,7 @@ window.SCHEDULE = {
    "2026-11-10"
   ],
   "matched": 14,
-  "unmatched": 2
+  "unmatched": 1
  },
  "fixed": {
   "rows": [
