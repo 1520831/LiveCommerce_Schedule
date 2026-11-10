@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-10T08:40:14+09:00",
+ "generated_at": "2026-11-10T09:00:17+09:00",
  "today": "2026-11-10",
  "dates": [
   "2026-11-09",
@@ -417,7 +417,7 @@ window.SCHEDULE = {
      ],
      "title": "포트메리온 전 상품 반값 특별가✨",
      "pgm": "[재방] 포트메리온 (멀티커머스)",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "07:00",
@@ -456,7 +456,7 @@ window.SCHEDULE = {
      ],
      "title": "요이츠 윈터룩! 20% 쿠폰 + 최대 7% 카드 할인",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "09:00",
@@ -19835,7 +19835,8 @@ window.SCHEDULE = {
      "slot_id": "61165",
      "pgm": "헉슬리 NEW향 퍼퓸SET",
      "title": "+겨울 대비 헤어&바디템",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 8
     },
     {
      "start": "08:30",
@@ -20937,8 +20938,8 @@ window.SCHEDULE = {
    "2026-11-09",
    "2026-11-10"
   ],
-  "matched": 10,
-  "unmatched": 6
+  "matched": 11,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
