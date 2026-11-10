@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-10T12:40:15+09:00",
+ "generated_at": "2026-11-10T13:00:24+09:00",
  "today": "2026-11-10",
  "dates": [
   "2026-11-09",
@@ -8000,8 +8000,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈",
-     "hot": 10
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -20951,7 +20950,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4868325401",
      "slot_id": "260269",
      "pgm": "빅스마일데이 드시모네 쿠폰+결제할인+적립 트리플혜택✨",
-     "category": "유아동"
+     "category": "유아동",
+     "hot": 10
     },
     {
      "start": "13:00",
