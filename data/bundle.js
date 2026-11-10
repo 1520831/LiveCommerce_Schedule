@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-10T09:20:11+09:00",
+ "generated_at": "2026-11-10T09:40:16+09:00",
  "today": "2026-11-10",
  "dates": [
   "2026-11-09",
@@ -7309,7 +7309,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 5
     },
     {
      "start": "09:00",
@@ -18714,7 +18714,7 @@ window.SCHEDULE = {
      "slot_id": "259362",
      "pgm": "다이슨 청소기를 이 가격에? V8 빅스마일데이 특가!",
      "category": "가전",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "09:00",
@@ -19836,7 +19836,7 @@ window.SCHEDULE = {
      "pgm": "헉슬리 NEW향 퍼퓸SET",
      "title": "+겨울 대비 헤어&바디템",
      "category": "뷰티",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "08:30",
