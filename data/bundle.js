@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-10T12:02:46+09:00",
+ "generated_at": "2026-11-10T12:20:13+09:00",
  "today": "2026-11-10",
  "dates": [
   "2026-11-09",
@@ -2381,7 +2381,8 @@ window.SCHEDULE = {
      "title": "스타일나래이션💕 바니스뉴욕 애프터파티 겨울 아우터/이너 ~71% 세일",
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
-     "category": "잡화·슈즈"
+     "category": "잡화·슈즈",
+     "hot": 8
     },
     {
      "start": "12:00",
@@ -8000,7 +8001,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -23069,8 +23070,8 @@ window.SCHEDULE = {
    "2026-11-09",
    "2026-11-10"
   ],
-  "matched": 13,
-  "unmatched": 3
+  "matched": 14,
+  "unmatched": 2
  },
  "fixed": {
   "rows": [
