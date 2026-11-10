@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-10T10:00:31+09:00",
+ "generated_at": "2026-11-10T10:20:40+09:00",
  "today": "2026-11-10",
  "dates": [
   "2026-11-09",
@@ -454,8 +454,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "요이츠 윈터룩! 20% 쿠폰 + 최대 7% 카드 할인",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 5
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "09:00",
@@ -474,8 +473,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[닥스] 베스트 인기 슈즈 쇼라 핫딜",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 10
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "10:00",
@@ -494,7 +492,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 26FW 신상 발렌시아가 시티백",
-     "pgm": "투명쇼 (패션잡화)"
+     "pgm": "투명쇼 (패션잡화)",
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -7309,8 +7308,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 4
+     "category": "테크"
     },
     {
      "start": "09:00",
@@ -7436,7 +7434,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -7503,7 +7502,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -7887,7 +7887,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -18703,7 +18704,7 @@ window.SCHEDULE = {
      "slot_id": "260171",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 7",
      "category": "뷰티",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "09:00",
@@ -18715,7 +18716,7 @@ window.SCHEDULE = {
      "slot_id": "259362",
      "pgm": "다이슨 청소기를 이 가격에? V8 빅스마일데이 특가!",
      "category": "가전",
-     "hot": 2
+     "hot": 6
     },
     {
      "start": "09:00",
@@ -19836,8 +19837,7 @@ window.SCHEDULE = {
      "slot_id": "61165",
      "pgm": "헉슬리 NEW향 퍼퓸SET",
      "title": "+겨울 대비 헤어&바디템",
-     "category": "뷰티",
-     "hot": 8
+     "category": "뷰티"
     },
     {
      "start": "08:30",
@@ -19885,7 +19885,8 @@ window.SCHEDULE = {
      "slot_id": "61207",
      "pgm": "[케어베어X희아]",
      "title": "공구특가 단독 LIVE!",
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -20939,8 +20940,8 @@ window.SCHEDULE = {
    "2026-11-09",
    "2026-11-10"
   ],
-  "matched": 12,
-  "unmatched": 4
+  "matched": 13,
+  "unmatched": 3
  },
  "fixed": {
   "rows": [
