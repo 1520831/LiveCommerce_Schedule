@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-10T11:00:46+09:00",
+ "generated_at": "2026-11-10T11:20:14+09:00",
  "today": "2026-11-10",
  "dates": [
   "2026-11-09",
@@ -493,7 +493,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 26FW 신상 발렌시아가 시티백",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -7503,7 +7503,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 9
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -7648,7 +7648,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -7889,7 +7889,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -8783,7 +8783,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "패션"
+     "category": "패션",
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -19898,8 +19899,7 @@ window.SCHEDULE = {
      "slot_id": "61509",
      "pgm": "일리윤 수분&보습 라이브",
      "title": "보습끝장! 전고객 로션 증정",
-     "category": "뷰티",
-     "hot": 10
+     "category": "뷰티"
     },
     {
      "start": "10:00",
