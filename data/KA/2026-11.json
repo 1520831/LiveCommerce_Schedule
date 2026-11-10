@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-11",
- "updated_at": "2026-11-09T18:00:49+09:00",
+ "updated_at": "2026-11-10T12:01:35+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -1791,8 +1791,8 @@
     "start": "10:00",
     "end": "11:01",
     "brand": "오드:뮤",
-    "product": "[선물포장BEST] 원데이특가 MY PICK 가장 받고 싶은 선물추천 긴팔 파자마 46종 택1",
-    "price": 25900,
+    "product": "[선물포장BEST] MY PICK 가장 받고 싶은 선물추천 긴팔 파자마 46종 택1",
+    "price": 28900,
     "link": "https://gift.kakao.com/product/12143374?url=product&cId=12143374",
     "slot_id": "61578",
     "pgm": "포근한 꿀잠템 오드뮤!",
@@ -1821,18 +1821,6 @@
     "slot_id": "61632",
     "pgm": "루브르파리 인기14K 주얼리",
     "title": "한정수량 최대 85%특가!",
-    "category": "패션"
-   },
-   {
-    "start": "10:35",
-    "end": "11:19",
-    "brand": "터치그라운드 스니커즈",
-    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-    "price": 49000,
-    "link": "https://store.kakao.com/touchground/products/774098244",
-    "slot_id": "61850",
-    "pgm": "발끝까지 포근한",
-    "title": "터치그라운드 밍크 웜클로그",
     "category": "패션"
    },
    {
@@ -1876,7 +1864,7 @@
     "end": "16:23",
     "brand": "미샤공식스토어",
     "product": "[집중 탄력/1+1] 미샤 타임레볼루션 나이트리페어 앰플5X(5세대) 70ml 외 안티에이징 추천템",
-    "price": 88000,
+    "price": 35200,
     "link": "https://store.kakao.com/missha/products/96174096",
     "slot_id": "61718",
     "pgm": "미샤 ~60%+추가쿠폰",
@@ -1887,19 +1875,7 @@
    },
    {
     "start": "17:00",
-    "end": "18:00",
-    "brand": "명태잡는날",
-    "product": "렌지에 돌려먹는 순살 고등어 구이 60g 3팩, 5팩 어린이 개별포장",
-    "price": 24900,
-    "link": "https://store.kakao.com/myeontae/products/630920157",
-    "slot_id": "61364",
-    "pgm": "전자렌지2분완성!생선구이3종",
-    "title": "가시제거 순살 고등어구이",
-    "category": "식품"
-   },
-   {
-    "start": "17:00",
-    "end": "18:30",
+    "end": "18:01",
     "brand": "폰드그룹몰",
     "product": "[어패럴카쇼라] (11/09~) 캘빈클라인 스포츠,퍼포먼스,진스 종합 특가전",
     "price": 129000,
@@ -1911,7 +1887,7 @@
    },
    {
     "start": "19:00",
-    "end": "20:30",
+    "end": "20:23",
     "brand": "비에날씬",
     "product": "BNR17 비에날씬 플러스 20포 다이어트 유산균",
     "price": 34200,
@@ -1923,7 +1899,7 @@
    },
    {
     "start": "19:00",
-    "end": "22:00",
+    "end": "20:23",
     "brand": "웹투어(주)",
     "product": "[홀리데이 인 스위트 알펜시아 평창] 어텀 PKG(다이닝 초이스+워터파크) or 윈터 PKG(조식+리프트&렌탈 반일권)",
     "price": 570000,
@@ -1935,10 +1911,10 @@
    },
    {
     "start": "19:00",
-    "end": "22:00",
+    "end": "20:24",
     "brand": "펜할리곤스",
     "product": "2026 홀리데이 루나 스몰 세트",
-    "price": 165600,
+    "price": 174800,
     "link": "https://gift.kakao.com/product/14484362?url=product&cId=14484362",
     "slot_id": "61424",
     "pgm": "펜할리곤스 ~10%+쿠폰",
@@ -1947,22 +1923,22 @@
    },
    {
     "start": "19:00",
-    "end": "22:00",
+    "end": "20:23",
     "brand": "맥(MAC)",
-    "product": "맥 테디 파티 미니 립 트리오 & 새틴 소이리 미니 립 트리오 / 2026 홀리데이 (+ 파우치 & 스티커)",
+    "product": "맥 테디 파티 미니 립 트리오 & 새틴 소이리 미니 립 트리오 / 2026 홀리데이 (+ 파우치&스티커)",
     "price": 53000,
     "link": "https://gift.kakao.com/product/14517428?url=product&cId=14517428",
     "slot_id": "61428",
     "pgm": "MAC 홀리데이컬렉션 선출시",
-    "title": "선착순 전구매 미니 립스틱",
+    "title": "립밤/립스틱/쿠션 특집",
     "category": "뷰티"
    },
    {
     "start": "19:00",
-    "end": "22:00",
+    "end": "20:21",
     "brand": "슈슐랭",
-    "product": "[발수코팅 소가죽] 진짜 양털슬리퍼 & 겨울 스웨이드 양털부츠 균일가",
-    "price": 36000,
+    "product": "[발수코팅 소가죽] 진짜 양털슬리퍼 & 겨울 스웨이드 양털부츠 균일가 (5종택1)",
+    "price": 39800,
     "link": "https://gift.kakao.com/product/14566518?url=product&cId=14566518",
     "slot_id": "61683",
     "pgm": "포근한 겨울필수템 슈슐랭!",
@@ -1971,19 +1947,7 @@
    },
    {
     "start": "20:00",
-    "end": "21:30",
-    "brand": "더 케라피",
-    "product": "더한방울 흑하랑 잠엔젤 키즈 15포(1박스)",
-    "price": 20900,
-    "link": "https://store.kakao.com/thekerapy/products/659305773",
-    "slot_id": "61772",
-    "pgm": "코엔젤&잠엔젤 키즈",
-    "title": "엔젤라인 ~45% OFF",
-    "category": "식품"
-   },
-   {
-    "start": "20:00",
-    "end": "21:30",
+    "end": "21:01",
     "brand": "단골아저씨",
     "product": "GAP인증 국내산 골드키위 2kg(21-24과내외) 제철 썬플러스 품종 산지직송 촉촉 새콤달콤",
     "price": 19900,
@@ -1995,10 +1959,10 @@
    },
    {
     "start": "20:00",
-    "end": "21:30",
+    "end": "21:00",
     "brand": "땡이아빠 땡마켓",
     "product": "[2개 구매시 5kg 발송]아삭함과 달콤함이 다른 햇 부사사과 정품 중과 2kg 7~9과",
-    "price": 14900,
+    "price": 49800,
     "link": "https://store.kakao.com/ttangsmarket/products/763956456",
     "slot_id": "61871",
     "pgm": "부사사과 정품 중과 2kg",
@@ -2007,7 +1971,7 @@
    },
    {
     "start": "20:30",
-    "end": "22:00",
+    "end": "21:30",
     "brand": "그레터스",
     "product": "[스위스 목캔디 / 수능선물] 그레터스 파스티유 캔디 슈가프리 기프트세트(블랙커런트 맛 + 진저레몬 맛)",
     "price": 33900,
@@ -2019,7 +1983,7 @@
    },
    {
     "start": "20:30",
-    "end": "22:00",
+    "end": "21:30",
     "brand": "엘렌쥬얼리",
     "product": "[14K 1+1] 엘렌쥬얼리 BEST 겨울주얼리 추천 랩다이아몬드/귀걸이/반지/목걸이/팔찌/14K/925 실버",
     "price": 118900,
@@ -2031,7 +1995,7 @@
    },
    {
     "start": "20:30",
-    "end": "22:00",
+    "end": "21:30",
     "brand": "청년상점",
     "product": "쫄깃고소한 곱창 모둠한판 700g(곱창210g+대창200g+막창200g+소스30g x 3개)",
     "price": 25000,
@@ -2043,7 +2007,7 @@
    },
    {
     "start": "20:30",
-    "end": "22:00",
+    "end": "21:30",
     "brand": "SPC삼립",
     "product": "삼립호빵 발효미종 호빵12입(호빵네빵/단팥/야채/피자)*2박스 + 호빵 2알 랜덤 증정",
     "price": 32900,
@@ -2052,28 +2016,16 @@
     "pgm": "삼립 호빵네빵/띠부씰빵",
     "title": "호빵부터 밀크티빵까지!",
     "category": "식품"
-   },
-   {
-    "start": "21:00",
-    "end": "22:30",
-    "brand": "(주)상상그램",
-    "product": "[귀뚜라미] 27년형 THE 프리미엄 신형 블루투스 카본 탄소매트",
-    "price": 468000,
-    "link": "https://store.kakao.com/sangsangstore/products/118837559",
-    "slot_id": "61872",
-    "pgm": "2026년 귀뚜라미",
-    "title": "겨울을 위한 카본매트",
-    "category": "테크"
    }
   ],
   "2026-11-10": [
    {
     "start": "08:30",
-    "end": "11:30",
+    "end": "09:50",
     "brand": "헉슬리",
-    "product": "헤어 샴푸 750mL 1+1 패키지",
-    "price": 48000,
-    "link": "https://gift.kakao.com/product/11793013?url=product&cId=11793013",
+    "product": "[퍼퓸 NEW 신규 향]퍼퓸 15ml + 헤어 퍼퓸 25ml 2종세트",
+    "price": 34900,
+    "link": "https://gift.kakao.com/product/12054395?url=product&cId=12054395",
     "slot_id": "61165",
     "pgm": "헉슬리 NEW향 퍼퓸SET",
     "title": "+겨울 대비 헤어&바디템",
@@ -2081,7 +2033,7 @@
    },
    {
     "start": "08:30",
-    "end": "11:30",
+    "end": "09:53",
     "brand": "끌로에(향수)",
     "product": "끌로에 르 넥타 EDP 인텐스 50ml (+미니향수5ML 2종)",
     "price": 162000,
@@ -2093,10 +2045,10 @@
    },
    {
     "start": "08:30",
-    "end": "11:30",
+    "end": "09:52",
     "brand": "얼모스트블루",
     "product": "30종 따뜻한 목도리 머플러 모음",
-    "price": 22800,
+    "price": 19800,
     "link": "https://gift.kakao.com/product/14447582?url=product&cId=14447582",
     "slot_id": "61223",
     "pgm": "얼모스트블루 따뜻한 겨울시작",
@@ -2104,8 +2056,20 @@
     "category": "패션"
    },
    {
+    "start": "09:55",
+    "end": "10:56",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49000,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "61887",
+    "pgm": "발에 입는 패딩",
+    "title": "터치그라운드 패딩슈즈",
+    "category": "패션"
+   },
+   {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:00",
     "brand": "수플린",
     "product": "[수플린] 달콤한 설향 딸기 총 800g 이상 (특품/24~35입)",
     "price": 39900,
@@ -2117,7 +2081,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:01",
     "brand": "케어베어",
     "product": "[케어베어] 겨울신상+가을베스트 특가찬스! 베이비/상하복/티셔츠/아우터 외",
     "price": 61000,
@@ -2129,7 +2093,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:21",
     "brand": "일리윤",
     "product": "[메가몬스터팩] 일리윤 세라마이드 로션 1128ml [564ml x2] + 집중크림 690ml [230ml x3] 기획",
     "price": 75400,
@@ -2141,7 +2105,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:01",
     "brand": "그래비티헤어",
     "product": "그래비티 카이스트 기술력으로 만든 헤어케어 베스트 골라담기+전구매 사은품 증정",
     "price": 14500,
@@ -2156,7 +2120,7 @@
     "end": "12:30",
     "brand": "(주)상상그램",
     "product": "[귀뚜라미] 27년형 THE 프리미엄 신형 블루투스 카본 탄소매트",
-    "price": 468000,
+    "price": 368000,
     "link": "https://store.kakao.com/sangsangstore/products/118837559",
     "slot_id": "61873",
     "pgm": "2026년 귀뚜라미",
@@ -2179,7 +2143,7 @@
     "start": "13:00",
     "end": "14:30",
     "brand": "생활양식",
-    "product": "[프리미엄] 한일의료기 탄소 매트 온열 카본 전기 요 장판 캠핑 침대",
+    "product": "[15온스] 그래핀 한일의료기 탄소매트 1인용 전기 장판 한일 싱글 온열매트",
     "price": 139000,
     "link": "https://store.kakao.com/sengsiik/products/635998245",
     "slot_id": "61901",
@@ -2392,18 +2356,6 @@
     "pgm": "이브로쉐 헤어식초&샴푸",
     "title": "~50%+전구매 사은품",
     "category": "뷰티"
-   },
-   {
-    "start": "22:30",
-    "end": "00:00",
-    "brand": "터치그라운드 스니커즈",
-    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-    "price": 49000,
-    "link": "https://store.kakao.com/touchground/products/774098244",
-    "slot_id": "61887",
-    "pgm": "발에 입는 패딩",
-    "title": "터치그라운드 패딩슈즈",
-    "category": "패션"
    }
   ],
   "2026-11-11": [
@@ -2636,6 +2588,18 @@
     "category": "여행",
     "rerun": true,
     "rerun_of": "61187"
+   },
+   {
+    "start": "22:30",
+    "end": "00:00",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49000,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "61918",
+    "pgm": "발끝까지 포근한",
+    "title": "터치그라운드 밍크 웜클로그",
+    "category": "패션"
    }
   ],
   "2026-11-12": [
@@ -2739,7 +2703,7 @@
     "start": "13:00",
     "end": "14:30",
     "brand": "생활양식",
-    "product": "[프리미엄] 한일의료기 탄소 매트 온열 카본 전기 요 장판 캠핑 침대",
+    "product": "[15온스] 그래핀 한일의료기 탄소매트 1인용 전기 장판 한일 싱글 온열매트",
     "price": 139000,
     "link": "https://store.kakao.com/sengsiik/products/635998245",
     "slot_id": "61902",
@@ -2752,7 +2716,7 @@
     "end": "18:30",
     "brand": "세이브밀",
     "product": "[속초직송] 조성진 명장이 만든 오징어순대 2종 (통한마리/슬라이스) 골라담기",
-    "price": 14900,
+    "price": 30000,
     "link": "https://store.kakao.com/savemeal/products/669583501",
     "slot_id": "61703",
     "pgm": "속초직송 조성진 명장이 만든",
@@ -2909,7 +2873,7 @@
     "start": "08:30",
     "end": "11:30",
     "brand": "바이탈플랜트 공식몰",
-    "product": "바이탈플랜트 롤팬 NEW오리지널 자동회전냄비 6종 택1",
+    "product": "바이탈플랜트 롤팬 NEW오리지널/롤팬 플러스 자동회전냄비 택1",
     "price": 200000,
     "link": "https://store.kakao.com/vitalplantstore/products/605533606",
     "slot_id": "61285",
@@ -2925,7 +2889,7 @@
     "price": 124000,
     "link": "https://store.kakao.com/sungboon/products/137719997",
     "slot_id": "61435",
-    "pgm": "성분에디터 모공앰플 ~71%",
+    "pgm": "성분에디터 모공앰플 ~70%",
     "title": "구매금액별 추가 사은품",
     "category": "뷰티"
    },
@@ -2998,7 +2962,7 @@
     "link": "https://store.kakao.com/frankliin/products/801171260",
     "slot_id": "61652",
     "pgm": "육아대세 프랭클린 카카오상륙",
-    "title": "최대56%+사은품",
+    "title": "최대55%+사은품",
     "category": "키즈"
    },
    {
@@ -3127,7 +3091,7 @@
     "start": "19:00",
     "end": "22:00",
     "brand": "웹투어(주)",
-    "product": "[한화리조트 평창] 조식 2+2 PKG/워터파크 2+2 PKG/대관령 한우 디너 2인 PKG_평창의 청정 자연",
+    "product": "[한화리조트 평창] 조식/워터파크/대관령 한우 디너 2인 PKG_최대 소인2인 무료 특전! 2/28 투숙까지 오픈!",
     "price": 139000,
     "link": "https://store.kakao.com/webtour/products/730351781",
     "slot_id": "61471",
@@ -3158,6 +3122,80 @@
     "pgm": "수험생 선물 추천 야돔 특가",
     "title": "겨울철 답답한 실내 강추템",
     "category": "리빙"
+   }
+  ],
+  "2026-11-15": [
+   {
+    "start": "10:00",
+    "end": "13:00",
+    "brand": "토리든",
+    "product": "[5개/총 400ml] 다이브인 저분자 히알루론산 크림 80ml 5개 (+세럼 20ml&트라이얼 키트&마스크팩 6매 증정)",
+    "price": 84900,
+    "link": "https://gift.kakao.com/product/14280532?url=product&cId=14280532",
+    "slot_id": "61437",
+    "pgm": "찬바람 불 땐 토리든~61%",
+    "title": "선착순 마스크팩10매 증정",
+    "category": "뷰티"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "트립핏",
+    "product": "[영월/탑스텐리조트 동강시스타] 객실 1박 + 조식 + 부대시설 10% 할인 + 관광지 4종 할인 혜택",
+    "price": 129000,
+    "link": "https://store.kakao.com/tripfit/products/807478511",
+    "slot_id": "61539",
+    "pgm": "영월 탑스텐 동강시스타",
+    "title": "숙박+조식+할인권 12만~",
+    "category": "여행"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "마이픽",
+    "product": "[자꾸만 생각나는 건강 간식] 왓더파머스 바삭바삭 저당 제로 과자 14종 모음 골라담기",
+    "price": 14900,
+    "link": "https://store.kakao.com/mypick/products/556541963",
+    "slot_id": "61798",
+    "pgm": "왓더파머스 과자 14종 모음",
+    "title": "신상출시 누룽지칩 포함",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "허시파피코리아",
+    "product": "허시파피 지금 신기좋은 베스트 슈즈 모음 앵클/롱부츠/털부츠 외+양말 사은품 증정",
+    "price": 149000,
+    "link": "https://store.kakao.com/hushpuppies/products/692232923",
+    "slot_id": "61630",
+    "pgm": "허시파피 UP TO 65%",
+    "title": "26FW 신상&베스트 슈즈",
+    "category": "패션"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "밤비코",
+    "product": "1+1 양털 와이드팬츠 플리스 조거 스웻팬츠 포근하고 부드러운 방한 팬츠 및 데일리 셋업 모음",
+    "price": 39900,
+    "link": "https://store.kakao.com/bambiko/products/649593620",
+    "slot_id": "61793",
+    "pgm": "1+1 양털 와이드 팬츠",
+    "title": "플리스/조거/스웻팬츠/셋업",
+    "category": "패션"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "메디니스",
+    "product": "메디니스 로켓 다이얼 공기압 온열 안마기 손마사지기 MDM-770 /MDM-880",
+    "price": 99000,
+    "link": "https://store.kakao.com/mediness/products/744680370",
+    "slot_id": "61851",
+    "pgm": "메디니스와 함께하는",
+    "title": "11월 핫 라이브특가!",
+    "category": "테크"
    }
   ]
  }
