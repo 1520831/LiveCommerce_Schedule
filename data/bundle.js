@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-10T11:20:14+09:00",
+ "generated_at": "2026-11-10T11:40:14+09:00",
  "today": "2026-11-10",
  "dates": [
   "2026-11-09",
@@ -492,8 +492,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 26FW 신상 발렌시아가 시티백",
-     "pgm": "투명쇼 (패션잡화)",
-     "hot": 10
+     "pgm": "투명쇼 (패션잡화)"
     },
     {
      "start": "11:00",
@@ -7435,7 +7434,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -7502,8 +7501,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티",
-     "hot": 7
+     "category": "뷰티"
     },
     {
      "start": "10:00",
@@ -7647,8 +7645,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈",
-     "hot": 8
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -7888,8 +7885,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈",
-     "hot": 9
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -8445,7 +8441,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -8550,7 +8547,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -8784,7 +8782,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "패션",
-     "hot": 4
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -18706,7 +18704,7 @@ window.SCHEDULE = {
      "slot_id": "260171",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 7",
      "category": "뷰티",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "09:00",
@@ -18784,7 +18782,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4464023491",
      "slot_id": "259300",
      "pgm": "LG 가전 BEST 인기템❤️ 빅스마일데이 쇼핑찬스",
-     "category": "가전"
+     "category": "가전",
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -20941,8 +20940,8 @@ window.SCHEDULE = {
    "2026-11-09",
    "2026-11-10"
   ],
-  "matched": 14,
-  "unmatched": 2
+  "matched": 13,
+  "unmatched": 3
  },
  "fixed": {
   "rows": [
