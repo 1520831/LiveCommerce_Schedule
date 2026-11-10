@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-11",
- "updated_at": "2026-11-10T12:01:35+09:00",
+ "updated_at": "2026-11-10T18:01:52+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -2117,10 +2117,10 @@
    },
    {
     "start": "11:00",
-    "end": "12:30",
+    "end": "12:15",
     "brand": "(주)상상그램",
     "product": "[귀뚜라미] 27년형 THE 프리미엄 신형 블루투스 카본 탄소매트",
-    "price": 368000,
+    "price": 468000,
     "link": "https://store.kakao.com/sangsangstore/products/118837559",
     "slot_id": "61873",
     "pgm": "2026년 귀뚜라미",
@@ -2129,7 +2129,7 @@
    },
    {
     "start": "13:00",
-    "end": "14:30",
+    "end": "14:00",
     "brand": "세로랩스",
     "product": "[라이브 only] 세로랩스 신제품 글레이즈 루미퍼멕스 10% 앰플 50ml + 펩타이드 퍼밍 크림 50ml",
     "price": 124000,
@@ -2140,22 +2140,10 @@
     "category": "뷰티"
    },
    {
-    "start": "13:00",
-    "end": "14:30",
-    "brand": "생활양식",
-    "product": "[15온스] 그래핀 한일의료기 탄소매트 1인용 전기 장판 한일 싱글 온열매트",
-    "price": 139000,
-    "link": "https://store.kakao.com/sengsiik/products/635998245",
-    "slot_id": "61901",
-    "pgm": "한일의료기 27년형 탄소매트",
-    "title": "전자파 차단",
-    "category": "테크"
-   },
-   {
     "start": "17:00",
-    "end": "18:30",
+    "end": "18:01",
     "brand": "에코따숨",
-    "product": "[파라핀전문회사] 국내산 에코따숨 파라핀베스",
+    "product": "에코따숨 올해 마지막! BEST 최저가 파라핀베스 병원용왁스 증정",
     "price": 210000,
     "link": "https://store.kakao.com/ecotasum/products/136505849",
     "slot_id": "61337",
@@ -2177,7 +2165,7 @@
    },
    {
     "start": "17:00",
-    "end": "18:30",
+    "end": "17:28",
     "brand": "신선하랑",
     "product": "해풍맞은 국내산 남해 보물초 시금치 500g 1kg",
     "price": 20000,
@@ -2192,7 +2180,7 @@
     "end": "18:30",
     "brand": "헤이필드",
     "product": "헤이필드 그릭요거트 골라담기 5가지맛",
-    "price": 16900,
+    "price": 24500,
     "link": "https://store.kakao.com/hayfield/products/755325394",
     "slot_id": "61657",
     "pgm": "헤이필드 그릭요거트 LIVE",
@@ -2218,7 +2206,7 @@
     "end": "18:30",
     "brand": "비윗유",
     "product": "찬바람 불땐!! 함께 나누면 더 좋은 !! 비윗유 호주 천연 마누카꿀 프로폴리스 캔디 90g",
-    "price": 19800,
+    "price": 22000,
     "link": "https://store.kakao.com/beewithyou/products/260684065",
     "slot_id": "61790",
     "pgm": "찬바람 불땐!함께나누면더좋은",
@@ -2238,18 +2226,6 @@
     "category": "식품"
    },
    {
-    "start": "17:20",
-    "end": "18:50",
-    "brand": "만수동떡볶이만떡",
-    "product": "떡볶이 7가지맛 내맘대로 300g 무료배송 밀키트 만수동떡볶이 만떡",
-    "price": 6000,
-    "link": "https://store.kakao.com/mantteok/products/678920045",
-    "slot_id": "61882",
-    "pgm": "2800원 떡볶이 무료배송",
-    "title": "6+1 추가할인쿠폰 빅찬스",
-    "category": "식품"
-   },
-   {
     "start": "19:00",
     "end": "22:00",
     "brand": "페레로로쉐",
@@ -2265,9 +2241,9 @@
     "start": "19:00",
     "end": "22:00",
     "brand": "하트티라미수",
-    "product": "딸기우유 티라미수 케이크_기념일 선물 (쇼핑백 증정)",
-    "price": 30000,
-    "link": "https://gift.kakao.com/product/11617892?url=product&cId=11617892",
+    "product": "오리지널 티라미수 케이크 (쇼핑백 증정)",
+    "price": 29000,
+    "link": "https://gift.kakao.com/product/12609227?url=product&cId=12609227",
     "slot_id": "61262",
     "pgm": "깨먹는 하트티라미수 첫방송",
     "title": "소중한 사람과 즐기는 달콤함",
@@ -2338,7 +2314,7 @@
     "end": "22:00",
     "brand": "청년상점",
     "product": "(출고당일 갓버무린) 국산 전라도 포기김치 10kg",
-    "price": 34900,
+    "price": 49900,
     "link": "https://store.kakao.com/youngstore/products/62881449",
     "slot_id": "61621",
     "pgm": "전라도 포기김치 10kg",
@@ -2444,6 +2420,18 @@
     "category": "식품"
    },
    {
+    "start": "11:00",
+    "end": "12:30",
+    "brand": "(주)상상그램",
+    "product": "[귀뚜라미] 27년형 THE 프리미엄 신형 블루투스 카본 탄소매트",
+    "price": 468000,
+    "link": "https://store.kakao.com/sangsangstore/products/118837559",
+    "slot_id": "61924",
+    "pgm": "2026년 귀뚜라미",
+    "title": "겨울을 위한 카본매트",
+    "category": "테크"
+   },
+   {
     "start": "11:30",
     "end": "13:00",
     "brand": "피터래빗",
@@ -2489,6 +2477,18 @@
     "slot_id": "61720",
     "pgm": "라이프키친 명장 김치찌개",
     "title": "장인이 만든 김치찌개의 정석",
+    "category": "식품"
+   },
+   {
+    "start": "18:00",
+    "end": "19:30",
+    "brand": "만수동떡볶이만떡",
+    "product": "떡볶이 7가지맛 내맘대로 300g 무료배송 밀키트 만수동떡볶이 만떡",
+    "price": 6000,
+    "link": "https://store.kakao.com/mantteok/products/678920045",
+    "slot_id": "61882",
+    "pgm": "2800원 떡볶이 무료배송",
+    "title": "6+1 7%추가할인쿠폰 찬스",
     "category": "식품"
    },
    {
@@ -2544,7 +2544,7 @@
     "end": "20:30",
     "brand": "올마이투어",
     "product": "오크밸리 리조트_밸리 빌리지 룸 온리/쿠키런 스위트랜드 패키지/조식 3인 패키지",
-    "price": 92900,
+    "price": 500000,
     "link": "https://store.kakao.com/allmytour/products/807848111",
     "slot_id": "61530",
     "pgm": "오크밸리 리조트 겨울 특가!",
@@ -2776,7 +2776,7 @@
     "end": "22:00",
     "brand": "웹투어(주)",
     "product": "[올인클루시브or클럽라운지 2인 PKG] 롯데호텔 부산_조식 + 아쿠아헤이븐 + 사우나&헬스장 + 웰컴키트 외",
-    "price": 310000,
+    "price": 290000,
     "link": "https://store.kakao.com/webtour/products/808235151",
     "slot_id": "61470",
     "pgm": "롯데호텔 부산_연말 호캉스",
@@ -2794,6 +2794,18 @@
     "pgm": "로이드 베스트 주얼리 세트전",
     "title": "친구/연인/가족 연말 선물",
     "category": "패션"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "에클리스",
+    "product": "햇살 바이알 앰플 50ml 미백 톤개선",
+    "price": 31000,
+    "link": "https://store.kakao.com/ecliss/products/555890652",
+    "slot_id": "61932",
+    "pgm": "칙칙함부터 탄력까지!",
+    "title": "피부 고민 케어 최대 35%",
+    "category": "뷰티"
    },
    {
     "start": "20:00",
@@ -2982,7 +2994,7 @@
     "end": "18:30",
     "brand": "청년상점",
     "product": "고창 풍천장어 1kg 손질후 700g내외 생강 100g+소스2종 / 자포니카 민물장어 국내산",
-    "price": 24900,
+    "price": 37900,
     "link": "https://store.kakao.com/youngstore/products/274092714",
     "slot_id": "61841",
     "pgm": "20%쿠폰 풍천장어 1kg",
@@ -3080,7 +3092,7 @@
     "end": "18:30",
     "brand": "청년상점",
     "product": "물 한방울 넣지않은 국산 냉장 다진마늘 1kg 외 깐마늘",
-    "price": 25900,
+    "price": 9900,
     "link": "https://store.kakao.com/youngstore/products/192568980",
     "slot_id": "61862",
     "pgm": "국산 냉장 다진마늘 1kg",
@@ -3103,8 +3115,8 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "청년상점",
-    "product": "2026 경남 홍시 대봉감 단감 3kg 중과 13-15과 외 5kg",
-    "price": 21900,
+    "product": "(농협출고) 2026 영암 홍시 대봉감 단감 3kg 중과 13-15과 외 5kg",
+    "price": 10900,
     "link": "https://store.kakao.com/youngstore/products/190851379",
     "slot_id": "61840",
     "pgm": "진하고 달콤한 대봉감 3kg",
@@ -3159,6 +3171,18 @@
     "slot_id": "61798",
     "pgm": "왓더파머스 과자 14종 모음",
     "title": "신상출시 누룽지칩 포함",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "오설록",
+    "product": "오설록 BEST 10입&10입 피라미드 티백",
+    "price": 19800,
+    "link": "https://gift.kakao.com/product/14444589?url=product&cId=14444589",
+    "slot_id": "61876",
+    "pgm": "품격있는 선물 추천 오설록",
+    "title": "달콤하고 감각적인 티타임",
     "category": "식품"
    },
    {
