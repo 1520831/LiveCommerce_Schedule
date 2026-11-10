@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-10T20:00:18+09:00",
+ "generated_at": "2026-11-10T21:00:13+09:00",
  "today": "2026-11-10",
  "dates": [
   "2026-11-09",
@@ -7440,8 +7440,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 9
+     "category": "푸드"
     },
     {
      "start": "11:00",
@@ -7541,7 +7540,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "패션",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -9403,7 +9402,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 9
     },
     {
      "start": "19:00",
@@ -9873,7 +9872,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "패션",
-     "hot": 3
+     "hot": 6
     },
     {
      "start": "19:00",
@@ -22834,8 +22833,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/3426099800",
      "slot_id": "260171",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 7",
-     "category": "뷰티",
-     "hot": 10
+     "category": "뷰티"
     },
     {
      "start": "09:00",
@@ -22914,7 +22912,7 @@ window.SCHEDULE = {
      "slot_id": "259300",
      "pgm": "LG 가전 BEST 인기템❤️ 빅스마일데이 쇼핑찬스",
      "category": "가전",
-     "hot": 6
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -23981,7 +23979,7 @@ window.SCHEDULE = {
      "pgm": "[케어베어X희아]",
      "title": "공구특가 단독 LIVE!",
      "category": "키즈",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -25133,8 +25131,8 @@ window.SCHEDULE = {
    "2026-11-09",
    "2026-11-10"
   ],
-  "matched": 13,
-  "unmatched": 2
+  "matched": 11,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
