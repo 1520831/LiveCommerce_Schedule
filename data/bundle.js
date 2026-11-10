@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-10T09:40:16+09:00",
+ "generated_at": "2026-11-10T10:00:31+09:00",
  "today": "2026-11-10",
  "dates": [
   "2026-11-09",
@@ -455,7 +455,7 @@ window.SCHEDULE = {
      ],
      "title": "요이츠 윈터룩! 20% 쿠폰 + 최대 7% 카드 할인",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "09:00",
@@ -474,7 +474,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[닥스] 베스트 인기 슈즈 쇼라 핫딜",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -7309,7 +7310,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "09:00",
@@ -19836,7 +19837,7 @@ window.SCHEDULE = {
      "pgm": "헉슬리 NEW향 퍼퓸SET",
      "title": "+겨울 대비 헤어&바디템",
      "category": "뷰티",
-     "hot": 9
+     "hot": 8
     },
     {
      "start": "08:30",
@@ -20938,8 +20939,8 @@ window.SCHEDULE = {
    "2026-11-09",
    "2026-11-10"
   ],
-  "matched": 11,
-  "unmatched": 5
+  "matched": 12,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
