@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-10T10:20:40+09:00",
+ "generated_at": "2026-11-10T10:40:18+09:00",
  "today": "2026-11-10",
  "dates": [
   "2026-11-09",
@@ -493,7 +493,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 26FW 신상 발렌시아가 시티백",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 9
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -7503,7 +7503,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 8
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -7647,7 +7647,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -18715,8 +18716,7 @@ window.SCHEDULE = {
      "link": "https://player.sauceflex.com/broadcast/lkebay-72fd4707f99e4eabbc5f64cf0309c0ea",
      "slot_id": "259362",
      "pgm": "다이슨 청소기를 이 가격에? V8 빅스마일데이 특가!",
-     "category": "가전",
-     "hot": 6
+     "category": "가전"
     },
     {
      "start": "09:00",
