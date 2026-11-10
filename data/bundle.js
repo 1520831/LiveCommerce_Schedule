@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-10T09:00:17+09:00",
+ "generated_at": "2026-11-10T09:20:11+09:00",
  "today": "2026-11-10",
  "dates": [
   "2026-11-09",
@@ -416,8 +416,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "포트메리온 전 상품 반값 특별가✨",
-     "pgm": "[재방] 포트메리온 (멀티커머스)",
-     "hot": 10
+     "pgm": "[재방] 포트메리온 (멀티커머스)"
     },
     {
      "start": "07:00",
@@ -456,7 +455,7 @@ window.SCHEDULE = {
      ],
      "title": "요이츠 윈터룩! 20% 쿠폰 + 최대 7% 카드 할인",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "09:00",
@@ -7310,7 +7309,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "09:00",
@@ -18714,7 +18713,8 @@ window.SCHEDULE = {
      "link": "https://player.sauceflex.com/broadcast/lkebay-72fd4707f99e4eabbc5f64cf0309c0ea",
      "slot_id": "259362",
      "pgm": "다이슨 청소기를 이 가격에? V8 빅스마일데이 특가!",
-     "category": "가전"
+     "category": "가전",
+     "hot": 3
     },
     {
      "start": "09:00",
@@ -19836,7 +19836,7 @@ window.SCHEDULE = {
      "pgm": "헉슬리 NEW향 퍼퓸SET",
      "title": "+겨울 대비 헤어&바디템",
      "category": "뷰티",
-     "hot": 8
+     "hot": 7
     },
     {
      "start": "08:30",
