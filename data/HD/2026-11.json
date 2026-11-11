@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-11",
- "updated_at": "2026-11-11T23:30:49+09:00",
+ "updated_at": "2026-11-12T07:00:44+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -3705,14 +3705,14 @@
     "end": "15:59",
     "brand": "밋앤밀",
     "product": "영주 뜬바우골 산지직송 선별 정품 시나노골드 황금사과 5kg 대과(17-19과)",
-    "price": 44800,
+    "price": 45700,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2220318080",
     "slot_id": "202611116008",
     "items": [
      {
       "brand": "밋앤밀",
       "product": "영주 뜬바우골 산지직송 선별 정품 시나노골드 황금사과 5kg 대과(17-19과)",
-      "price": 44800,
+      "price": 45700,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2220318080"
      }
     ],
@@ -3800,14 +3800,14 @@
     "end": "21:59",
     "brand": "삼성금거래소",
     "product": "말 실버바 Silver Bar 100g",
-    "price": 338000,
+    "price": 350000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247975417",
     "slot_id": "202611116014",
     "items": [
      {
       "brand": "삼성금거래소",
       "product": "말 실버바 Silver Bar 100g",
-      "price": 338000,
+      "price": 350000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247975417"
      }
     ],
@@ -3876,14 +3876,14 @@
     "end": "23:59",
     "brand": "시스티나",
     "product": "울 백 타이 하이넥 풀오버 ASKPOQ41180 ASKPOQ41180",
-    "price": 70200,
+    "price": 78000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257653954",
     "slot_id": "202611116016",
     "items": [
      {
       "brand": "시스티나",
       "product": "울 백 타이 하이넥 풀오버 ASKPOQ41180 ASKPOQ41180",
-      "price": 70200,
+      "price": 78000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257653954"
      }
     ],
@@ -3929,6 +3929,25 @@
     ],
     "title": "[노블리타] 이탈리아 18K 주얼리 전 상품 최저가도전",
     "pgm": "[재방] 노블리타 (노블레스)"
+   },
+   {
+    "start": "08:00",
+    "end": "08:59",
+    "brand": "스튜디오톰보이",
+    "product": "[톰보이] 래글런 벨트 하프 코트 9106411173 9106411173",
+    "price": 191500,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257905283",
+    "slot_id": "202611126002",
+    "items": [
+     {
+      "brand": "스튜디오톰보이",
+      "product": "[톰보이] 래글런 벨트 하프 코트 9106411173 9106411173",
+      "price": 191500,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257905283"
+     }
+    ],
+    "title": "스튜디오 톰보이✨ 아우터·맨투맨·스커트·팬츠 外",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
    },
    {
     "start": "09:00",
@@ -4011,14 +4030,14 @@
     "end": "13:59",
     "brand": "이올레(IOLE)",
     "product": "[퀄리티 보장] 몽드포 부드러운 피치기모 여성 잠옷 세트 긴팔 긴바지 자수 파자마",
-    "price": 33000,
+    "price": 26600,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255308611",
     "slot_id": "202611126007",
     "items": [
      {
       "brand": "이올레(IOLE)",
       "product": "[퀄리티 보장] 몽드포 부드러운 피치기모 여성 잠옷 세트 긴팔 긴바지 자수 파자마",
-      "price": 33000,
+      "price": 26600,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255308611"
      }
     ],
@@ -4029,16 +4048,16 @@
     "start": "14:00",
     "end": "14:59",
     "brand": "구설이",
-    "product": "설국 들깨장어탕 500gx10팩",
-    "price": 51500,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257059537",
+    "product": "설국 들깨장어탕 500gx5팩",
+    "price": 29400,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257540943",
     "slot_id": "202611126008",
     "items": [
      {
       "brand": "구설이",
-      "product": "설국 들깨장어탕 500gx10팩",
-      "price": 51500,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257059537"
+      "product": "설국 들깨장어탕 500gx5팩",
+      "price": 29400,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257540943"
      }
     ],
     "title": "[한유원] 프레임랩 들깨장어탕 쇼라 특집!",
@@ -4049,14 +4068,14 @@
     "end": "15:59",
     "brand": "밋앤밀",
     "product": "당일채취 산지직송 벌교13번수산 선별 새꼬막 중 5Kg (17∼19mm 이상)",
-    "price": 24300,
+    "price": 23800,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257322062",
     "slot_id": "202611126009",
     "items": [
      {
       "brand": "밋앤밀",
       "product": "당일채취 산지직송 벌교13번수산 선별 새꼬막 중 5Kg (17∼19mm 이상)",
-      "price": 24300,
+      "price": 23800,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257322062"
      }
     ],
@@ -4162,16 +4181,16 @@
     "start": "20:00",
     "end": "20:59",
     "brand": "랑콤",
-    "product": "[선물세트] 레네르지 콜라겐 크림 50ml 세트",
-    "price": 169000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252694706",
+    "product": "[LIVE] 제니피끄 세럼 115ml 세트 (+디럭스 6종)",
+    "price": 332000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256438570",
     "slot_id": "202611126014",
     "items": [
      {
       "brand": "랑콤",
-      "product": "[선물세트] 레네르지 콜라겐 크림 50ml 세트",
-      "price": 169000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252694706"
+      "product": "[LIVE] 제니피끄 세럼 115ml 세트 (+디럭스 6종)",
+      "price": 332000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256438570"
      }
     ],
     "title": "[랑콤] 홀리데이 뷰티박스 한정 판매🎁",
@@ -4526,14 +4545,14 @@
     "end": "20:59",
     "brand": "아이러브경북",
     "product": "[농할] 국내산 26년 중화농협 샤인머스캣 2kg 3-4수 특품",
-    "price": 19900,
+    "price": 18100,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2143023722",
     "slot_id": "202611136014",
     "items": [
      {
       "brand": "아이러브경북",
       "product": "[농할] 국내산 26년 중화농협 샤인머스캣 2kg 3-4수 특품",
-      "price": 19900,
+      "price": 18100,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2143023722"
      }
     ],
@@ -4642,14 +4661,14 @@
     "end": "11:59",
     "brand": "유한킴벌리생활",
     "product": "[화이트] 올데이드라이 생리대 소/중/대 x6 +(증)코듀로이파우치",
-    "price": 20400,
+    "price": 23100,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256783584",
     "slot_id": "202611146004",
     "items": [
      {
       "brand": "유한킴벌리생활",
       "product": "[화이트] 올데이드라이 생리대 소/중/대 x6 +(증)코듀로이파우치",
-      "price": 20400,
+      "price": 23100,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256783584"
      }
     ],
@@ -5211,6 +5230,117 @@
     "title": "[현명쇼] 버버리 롱 패딩 70만▼ ★곧 종료★",
     "pgm": "현명쇼(노블레스)"
    }
-  ]
- }
-}
+  ],
+  "2026-11-17": [
+   {
+    "start": "08:00",
+    "end": "08:59",
+    "brand": "예작",
+    "product": "긴팔와이셔츠 일반핏 슬림핏 구김적은 스판 남방 드레스 24종택1 YJ1SB0001",
+    "price": 37000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2232916777",
+    "slot_id": "202611176002",
+    "items": [
+     {
+      "brand": "예작",
+      "product": "긴팔와이셔츠 일반핏 슬림핏 구김적은 스판 남방 드레스 24종택1 YJ1SB0001",
+      "price": 37000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2232916777"
+     }
+    ],
+    "title": "[예작] 김창옥pick 세련된 겨울 셔츠 LIVE",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "바바라",
+    "product": "바바라 베스트  벨크로 퍼 로퍼 BBJ557_3color BBJ557",
+    "price": 187200,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257119948",
+    "slot_id": "202611176003",
+    "items": [
+     {
+      "brand": "바바라",
+      "product": "바바라 베스트  벨크로 퍼 로퍼 BBJ557_3color BBJ557",
+      "price": 187200,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257119948"
+     }
+    ],
+    "title": "[바바라슈즈] BEST 로퍼부터 부츠까지 쇼라특별가",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "도노도노",
+    "product": "[모모래빗] 낮기저귀 에코씽씽 컴포트 팬티 기저귀 8팩+8팩(총 16팩)",
+    "price": 169800,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2234420399",
+    "slot_id": "202611176005",
+    "items": [
+     {
+      "brand": "도노도노",
+      "product": "[모모래빗] 낮기저귀 에코씽씽 컴포트 팬티 기저귀 8팩+8팩(총 16팩)",
+      "price": 169800,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2234420399"
+     }
+    ],
+    "title": "[모모래빗] 5중 NO샘가드 컴포트 리뉴얼 출시!",
+    "pgm": "육아일기"
+   },
+   {
+    "start": "13:00",
+    "end": "13:59",
+    "brand": "데상트",
+    "product": "[데상트공식][30%OFF] 그래픽 스포츠테리 후드 티셔츠 SQ323UHD71",
+    "price": 97300,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2238147138",
+    "slot_id": "202611176007",
+    "items": [
+     {
+      "brand": "데상트",
+      "product": "[데상트공식][30%OFF] 그래픽 스포츠테리 후드 티셔츠 SQ323UHD71",
+      "price": 97300,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2238147138"
+     }
+    ],
+    "title": "[데상트] 우먼스 기모셋업/다운자켓 라이브 특별혜택💖",
+    "pgm": "[데상트] 스포츠의류 (레포츠)"
+   },
+   {
+    "start": "14:00",
+    "end": "14:59",
+    "brand": "프로그",
+    "product": "두꺼운 양면 엠보싱 비닐 위생장갑 500매 X 2개",
+    "price": 18900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2147613207",
+    "slot_id": "202611176008",
+    "items": [
+     {
+      "brand": "프로그",
+      "product": "두꺼운 양면 엠보싱 비닐 위생장갑 500매 X 2개",
+      "price": 18900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2147613207"
+     }
+    ],
+    "title": "[프로그] 믿고 쓰는 생활용품",
+    "pgm": "[프로그] 생활용품 (리빙)"
+   },
+   {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "CC콜렉트",
+    "product": "[라이브무료반품][CC콜렉트] 벨티드 하이넥 롱코트_C264MSG755",
+    "price": 373150,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257991811",
+    "slot_id": "202611176011",
+    "items": [
+     {
+      "brand": "CC콜렉트",
+      "product": "[라이브무료반품][CC콜렉트] 벨티드 하이넥 롱코트_C264MSG755",
+      "price": 373150,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257991811"
+     }
+    ],
+    "title": 

@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-11",
- "updated_at": "2026-11-11T23:31:03+09:00",
+ "updated_at": "2026-11-12T07:00:57+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -2384,30 +2384,6 @@
     "category": "식품"
    },
    {
-    "start": "10:46",
-    "end": "11:29",
-    "brand": "터치그라운드 스니커즈",
-    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-    "price": 49000,
-    "link": "https://store.kakao.com/touchground/products/774098244",
-    "slot_id": "61918",
-    "pgm": "발끝까지 포근한",
-    "title": "터치그라운드 밍크 웜클로그",
-    "category": "패션"
-   },
-   {
-    "start": "11:00",
-    "end": "12:00",
-    "brand": "(주)상상그램",
-    "product": "[귀뚜라미] 27년형 THE 프리미엄 신형 블루투스 카본 탄소매트",
-    "price": 468000,
-    "link": "https://store.kakao.com/sangsangstore/products/118837559",
-    "slot_id": "61924",
-    "pgm": "2026년 귀뚜라미",
-    "title": "겨울을 위한 카본매트",
-    "category": "테크"
-   },
-   {
     "start": "11:30",
     "end": "12:30",
     "brand": "피터래빗",
@@ -2538,20 +2514,6 @@
     "pgm": "양털양말/털털냥 1+1 혜택",
     "title": "얼리윈터 보온템 ~72%",
     "category": "리빙"
-   },
-   {
-    "start": "20:30",
-    "end": "21:52",
-    "brand": "웹투어(주)",
-    "product": "[라이트팩 PKG] 네스트호텔 인천_객실 1박+야외수영장 2인+웰컴드링크 2잔 (아메리카노 or 주스)+실내/외 키즈존+사우나",
-    "price": 547000,
-    "link": "https://store.kakao.com/webtour/products/674510440",
-    "slot_id": "61844",
-    "pgm": "오늘마감! 네스트호텔",
-    "title": "단독 패키지 14만원대~",
-    "category": "여행",
-    "rerun": true,
-    "rerun_of": "61187"
    }
   ],
   "2026-11-12": [
@@ -2970,7 +2932,7 @@
     "end": "18:30",
     "brand": "청년상점",
     "product": "고창 풍천장어 1kg 손질후 700g내외 생강 100g+소스2종 / 자포니카 민물장어 국내산",
-    "price": 37900,
+    "price": 24900,
     "link": "https://store.kakao.com/youngstore/products/274092714",
     "slot_id": "61841",
     "pgm": "20%쿠폰 풍천장어 1kg",
@@ -3210,6 +3172,20 @@
     "category": "여행",
     "rerun": true,
     "rerun_of": "61200"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "웹투어(주)",
+    "product": "[켄싱턴 설악비치_2인 PKG] 객실 1박 + 조식 2인 + 오하스 바우처 1만원_12시 레이트 체크아웃 + 인원추가비 무료",
+    "price": 493600,
+    "link": "https://store.kakao.com/webtour/products/807178024",
+    "slot_id": "61894",
+    "pgm": "오늘마감! 켄싱턴 설악비치",
+    "title": "아동 & 주중 특전까지!",
+    "category": "여행",
+    "rerun": true,
+    "rerun_of": "61469"
    },
    {
     "start": "19:00",
@@ -3458,7 +3434,7 @@
     "end": "21:30",
     "brand": "단골아저씨",
     "product": "강원도 고성 피데기 반건조오징어 10미(1.1-1.2kg) 외 쫄깃 부드러운식감 고단백 바다의 풍미를 그대로",
-    "price": 35900,
+    "price": 28900,
     "link": "https://store.kakao.com/mrdangol/products/586863348",
     "slot_id": "61984",
     "pgm": "수산대전20%할인",
@@ -3536,6 +3512,272 @@
     "pgm": "대만 자유여행 39만원대~",
     "title": "역대급 구성 & 특전",
     "category": "여행"
+   }
+  ],
+  "2026-11-17": [
+   {
+    "start": "08:30",
+    "end": "10:00",
+    "brand": "웅진식품",
+    "product": "[60펫(40+20)] 더 빅토리아 탄산수/탄산음료 500mlx60펫 (총3박스/분리배송)",
+    "price": 27900,
+    "link": "https://store.kakao.com/wjfood/products/37284248",
+    "slot_id": "61522",
+    "pgm": "웅진 인기음료 총집합!",
+    "title": "과즙 팡팡 라이브",
+    "category": "식품"
+   },
+   {
+    "start": "08:30",
+    "end": "10:00",
+    "brand": "덴프스",
+    "product": "덴마크 유산균이야기(3박스/6개월분 OR 5박스/10개월분)",
+    "price": 276000,
+    "link": "https://store.kakao.com/denpsmall/products/15580428",
+    "slot_id": "61529",
+    "pgm": "덴프스 1년에 단 한 번!",
+    "title": "Origin특집 마지막 특가",
+    "category": "식품"
+   },
+   {
+    "start": "08:30",
+    "end": "11:30",
+    "brand": "프로쉬",
+    "product": "[NEW] 프로쉬 식기세척기 액체 세제 650ml 2개+포켓 장바구니 1개",
+    "price": 50800,
+    "link": "https://store.kakao.com/froschkr/products/812765428",
+    "slot_id": "61690",
+    "pgm": "프로쉬 NEW 식기세척기",
+    "title": "액체세제 론칭 기념 라이브",
+    "category": "리빙"
+   },
+   {
+    "start": "08:30",
+    "end": "11:30",
+    "brand": "휩드",
+    "product": "휩드 비건 휘핑 팩클렌저 130g 5종 골라담기 (2/2/1 선택가능)",
+    "price": 145000,
+    "link": "https://gift.kakao.com/product/14369943?url=product&cId=14369943",
+    "slot_id": "61781",
+    "pgm": "휩드X임정빈 라이브 ~44%",
+    "title": "선착순 마스크팩 6매 증정",
+    "category": "뷰티"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "그릭데이",
+    "product": "그릭데이 그릭요거트&그래놀라 골라담기",
+    "price": 27700,
+    "link": "https://store.kakao.com/greekday/products/112615877",
+    "slot_id": "61555",
+    "pgm": "그릭데이 11월 LIVE!",
+    "title": "시그니처 바닐라 런칭 특가",
+    "category": "식품"
+   },
+   {
+    "start": "10:00",
+    "end": "13:00",
+    "brand": "유한킴벌리 직영 스토어",
+    "product": "실크터치 더마 생리대, 좋은느낌 센서티브스킨 대용량 12팩 외 입오버/라이너 모음전",
+    "price": 87600,
+    "link": "https://store.kakao.com/ykstore/products/69394161",
+    "slot_id": "61691",
+    "pgm": "좋은느낌&크리넥스 블프데이",
+    "title": "생리대/입오버/라이너 쟁이기",
+    "category": "리빙"
+   },
+   {
+    "start": "10:00",
+    "end": "13:00",
+    "brand": "유한킴벌리 직영 스토어",
+    "product": "하기스 2027 밤부&스킨에센셜 신제품 출시 기념 2+2팩 특가! 외 네이처/맥스드라이",
+    "price": 163200,
+    "link": "https://store.kakao.com/ykstore/products/95492146",
+    "slot_id": "61693",
+    "pgm": "하기스 밤부&스킨에센셜 출시",
+    "title": "신제품 기념 2+2팩 특가",
+    "category": "키즈"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "켄뷰 공식판매",
+    "product": "[라이브]존슨즈 베이비+뷰티로션 온가족 바디케어/방송중 최대 혜택+최대3천원/장바구니+이벤트(구매인증+구매왕+소통왕+구매금액)",
+    "price": 41800,
+    "link": "https://store.kakao.com/jnjstore/products/82442063",
+    "slot_id": "61812",
+    "pgm": "존슨즈 뷰티로션 역대급 혜택",
+    "title": "LIVE 선물 폭탄!",
+    "category": "뷰티"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "오우지코리아 유한회사",
+    "product": "카포드 4IN1 캡슐세제 42개입/35개입 외 향기부스터 섬유유연제",
+    "price": 29900,
+    "link": "https://store.kakao.com/kapod/products/52609219",
+    "slot_id": "61454",
+    "pgm": "카포드&아로퓸",
+    "title": "블프 특가 최대 70%",
+    "category": "리빙"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "골드앤디어",
+    "product": "[골드앤디어] 모이사나이트 귀걸이 목걸이 / 최대할인 70%",
+    "price": 120900,
+    "link": "https://store.kakao.com/goldndear/products/243950442",
+    "slot_id": "61626",
+    "pgm": "골드앤디어 주얼리 최대72%",
+    "title": "신상∙베스트 LIVE 특가",
+    "category": "패션"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "JARDIN",
+    "product": "[1+1+1] 쟈뎅 아워티 4P 골라담기 9종 중 3택 (총 12P)",
+    "price": 17100,
+    "link": "https://store.kakao.com/jardin/products/797045433",
+    "slot_id": "61521",
+    "pgm": "쟈뎅 추울수록 생각나는 티!",
+    "title": "아워티 라이브 최대 43%",
+    "category": "식품"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "명태잡는날",
+    "product": "청주 줄서는 맛집 육거리 소문난 김치만두 720g 1팩 외 고기만두, 왕만두",
+    "price": 19900,
+    "link": "https://store.kakao.com/myeontae/products/766059222",
+    "slot_id": "61541",
+    "pgm": "6대 백년가게 육거리 만두",
+    "title": "블루리본!3대 장인의 손 맛",
+    "category": "식품"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "청년상점",
+    "product": "2026 제주직송 타이벡감귤 4.5kg 로얄과 외 9kg 소과",
+    "price": 29900,
+    "link": "https://store.kakao.com/youngstore/products/783680017",
+    "slot_id": "61839",
+    "pgm": "제주 타이벡감귤 한박스",
+    "title": "만원초반대 초특가라이브",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "온다",
+    "product": "[엘시티 레지던스/LIVE] 룸온리 / 클럽디 오아시스 스파 PKG  (라이브 한정 특전 제공 / ~4/30까지 투숙가능)",
+    "price": 200000,
+    "link": "https://store.kakao.com/ondaselect/products/730319203",
+    "slot_id": "61472",
+    "pgm": "엘시티 레지던스_단독 혜택",
+    "title": "부산 오션뷰 호캉스 20만~",
+    "category": "여행"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "네슬레 공식스토어",
+    "product": "돌체구스토 캡슐 커피머신 지니오S 베이직 + 캡슐 2박스+프리로스트 그린머그",
+    "price": 189000,
+    "link": "https://store.kakao.com/sedam01/products/74181748",
+    "slot_id": "61475",
+    "pgm": "스타벅스 앳홈 머신&캡슐",
+    "title": "라이브 중 특별사은품 증정",
+    "category": "테크"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "ULLALA",
+    "product": "울랄라 보아털 피치기모 겨울 신상 특가! FW 베스트 파자마 모음전",
+    "price": 87000,
+    "link": "https://store.kakao.com/ullala0191/products/97328338",
+    "slot_id": "61575",
+    "pgm": "울랄라파자마와 포근한 겨울잠",
+    "title": "쿠폰+카카오페이 할인혜택!",
+    "category": "패션"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "배스킨라빈스",
+    "product": "미니 아이스 모찌 세트",
+    "price": 13940,
+    "link": "https://gift.kakao.com/product/14590962?url=product&cId=14590962",
+    "slot_id": "61767",
+    "pgm": "수험생 선물은 배스킨라빈스",
+    "title": "최대 20% 할인 찬스",
+    "category": "교환권"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "러븀",
+    "product": "러븀 대나무 히알루론산 수분 젤 클렌저 200ml",
+    "price": 17000,
+    "link": "https://store.kakao.com/luvum/products/521283717",
+    "slot_id": "61779",
+    "pgm": "러븀 겔마스크&클렌저 라이브",
+    "title": "6만원 이상 시카크림 증정",
+    "category": "뷰티"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "동국제약",
+    "product": "[동국제약] 동국제약 굿잠 무향 스팀안대 6박스 외 손발워머. 온열 스팀마사지. 눈 피로 완화",
+    "price": 131400,
+    "link": "https://store.kakao.com/dkpharm/products/190816627",
+    "slot_id": "61357",
+    "pgm": "동국제약 브랜드데이 블프",
+    "title": "스팀안대 외~79% 할인",
+    "category": "리빙"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "CJ웰케어",
+    "product": "CJ 초코캣 에디션 하루한알 건강구미 멀티비타민 구미 60구미 / 건강구미 선물세트 6종 60구미 2세트 택 1",
+    "price": 27800,
+    "link": "https://gift.kakao.com/product/14463074?url=product&cId=14463074",
+    "slot_id": "61609",
+    "pgm": "CJ 초코캣 멀티비타민 출시",
+    "title": "최대10%+추가 쿠폰",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "비지트인뉴욕",
+    "product": "울 블렌디드 하프넥 루즈핏 니트(SCBLKG1)_S",
+    "price": 59000,
+    "link": "https://store.kakao.com/visitinnewyork/products/810783810",
+    "slot_id": "61700",
+    "pgm": "비지트인뉴욕 FW 특가혜택!",
+    "title": "20% 쿠폰+무배!",
+    "category": "패션"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "창신리빙",
+    "product": "FRANCO파워바큠 진공용기 11종 단독세트 + 사은품팡팡!",
+    "price": 405000,
+    "link": "https://store.kakao.com/changsin/products/184507480",
+    "slot_id": "61764",
+    "pgm": "앵콜!로벤트 하이브리드 바큠",
+    "title": "마지막 할인! 마진제로!",
+    "category": "리빙"
    }
   ]
  }
