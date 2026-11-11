@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-11T18:01:57+09:00",
+ "generated_at": "2026-11-11T19:00:10+09:00",
  "today": "2026-11-11",
  "dates": [
   "2026-11-10",
@@ -6493,8 +6493,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈",
-     "hot": 10
+     "category": "키즈"
     },
     {
      "start": "10:30",
@@ -23349,7 +23348,7 @@ window.SCHEDULE = {
      "slot_id": "260172",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 8",
      "category": "주방·잡화",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "09:00",
@@ -23485,7 +23484,7 @@ window.SCHEDULE = {
      "slot_id": "260360",
      "pgm": "[빅스마일데이] 갤럭시 자급제폰 I 워치 초특가 라이브",
      "category": "디지털·PC",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -26392,7 +26391,7 @@ window.SCHEDULE = {
    "2026-11-10",
    "2026-11-11"
   ],
-  "matched": 12,
+  "matched": 11,
   "unmatched": 5
  },
  "fixed": {
