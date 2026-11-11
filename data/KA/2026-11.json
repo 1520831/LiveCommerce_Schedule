@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-11",
- "updated_at": "2026-11-11T12:02:56+09:00",
+ "updated_at": "2026-11-11T18:01:05+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -2191,18 +2191,6 @@
    },
    {
     "start": "19:00",
-    "end": "20:20",
-    "brand": "페레로로쉐",
-    "product": "페레로로쉐 T8하트 초콜릿(8개입)",
-    "price": 10800,
-    "link": "https://gift.kakao.com/product/10579907?url=product&cId=10579907",
-    "slot_id": "61258",
-    "pgm": "황금빛 선물 페레로 로쉐",
-    "title": "네잎클로버 한정판 슬리브공개",
-    "category": "식품"
-   },
-   {
-    "start": "19:00",
     "end": "20:21",
     "brand": "하트티라미수",
     "product": "오리지널 티라미수 케이크 (쇼핑백 증정)",
@@ -2409,7 +2397,7 @@
    },
    {
     "start": "11:00",
-    "end": "12:30",
+    "end": "12:00",
     "brand": "(주)상상그램",
     "product": "[귀뚜라미] 27년형 THE 프리미엄 신형 블루투스 카본 탄소매트",
     "price": 468000,
@@ -2421,7 +2409,7 @@
    },
    {
     "start": "11:30",
-    "end": "13:00",
+    "end": "12:30",
     "brand": "피터래빗",
     "product": "피터래빗 쿠키 웨이퍼 달콤한 과자 선물세트 4개입",
     "price": 11900,
@@ -2433,7 +2421,7 @@
    },
    {
     "start": "11:30",
-    "end": "13:00",
+    "end": "12:31",
     "brand": "남양 직영스토어",
     "product": "[첫 100일] 아이엠마더/임페리얼분유XO/산양분유 모음전 + 마더드롭스(기획세트)",
     "price": 61500,
@@ -2442,18 +2430,6 @@
     "pgm": "분유명가 남양 어썸한 혜택",
     "title": "최대 44% 할인+추가 증정",
     "category": "키즈"
-   },
-   {
-    "start": "13:00",
-    "end": "14:30",
-    "brand": "마춤미당",
-    "product": "마춤미당 잘왔소 한우육포 40g X5 + 쌀랑해 한돈육포 40g X5",
-    "price": 33000,
-    "link": "https://store.kakao.com/machum/products/814666100",
-    "slot_id": "61885",
-    "pgm": "한우부터 한돈까지 놓치면",
-    "title": "아쉬운 육포 특가 LIVE!",
-    "category": "식품"
    },
    {
     "start": "17:00",
@@ -2659,7 +2635,7 @@
     "price": 126000,
     "link": "https://store.kakao.com/ondocosmetic/products/792275671",
     "slot_id": "61888",
-    "pgm": "카쇼라 ONLY! ONDO",
+    "pgm": "카카오 ONLY! ONDO",
     "title": "50% 단독 할인 + 사은품",
     "category": "뷰티"
    },
@@ -2764,7 +2740,7 @@
     "end": "22:00",
     "brand": "웹투어(주)",
     "product": "[올인클루시브or클럽라운지 2인 PKG] 롯데호텔 부산_조식 + 아쿠아헤이븐 + 사우나&헬스장 + 웰컴키트 외",
-    "price": 290000,
+    "price": 1052700,
     "link": "https://store.kakao.com/webtour/products/808235151",
     "slot_id": "61470",
     "pgm": "롯데호텔 부산_연말 호캉스",
@@ -3151,9 +3127,9 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "쿠첸",
-    "product": "쿠첸 가열식 신생아 아기 가습기 (베이지)",
+    "product": "쿠첸 가열식 신생아 아기 가습기 (그레이)",
     "price": 159000,
-    "link": "https://gift.kakao.com/product/14610887?url=product&cId=14610887",
+    "link": "https://gift.kakao.com/product/14610831?url=product&cId=14610831",
     "slot_id": "61940",
     "pgm": "쿠첸 신생아 가열식 가습기",
     "title": "카카오 선물하기 첫 론칭",
@@ -3198,6 +3174,18 @@
     "category": "식품"
    },
    {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "더마펌",
+    "product": "",
+    "price": 0,
+    "link": "https://shoppinglive.kakao.com/live/61933",
+    "slot_id": "61933",
+    "pgm": "더마펌 앰플 5종 특가",
+    "title": "카쇼라 단독 혜택",
+    "category": "뷰티"
+   },
+   {
     "start": "19:00",
     "end": "22:00",
     "brand": "오설록",
@@ -3205,8 +3193,8 @@
     "price": 19800,
     "link": "https://gift.kakao.com/product/14444589?url=product&cId=14444589",
     "slot_id": "61876",
-    "pgm": "품격있는 선물 추천 오설록",
-    "title": "달콤하고 감각적인 티타임",
+    "pgm": "오설록 블랙프라이데이 할인",
+    "title": "3일간 카쇼라 특가",
     "category": "식품"
    },
    {
@@ -3222,6 +3210,18 @@
     "category": "여행",
     "rerun": true,
     "rerun_of": "61200"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "청춘농장",
+    "product": "[미림통통] 신림동 맛집 백순대/양념순대 2인분 순대볶음",
+    "price": 19900,
+    "link": "https://store.kakao.com/ccfarm/products/467499919",
+    "slot_id": "61983",
+    "pgm": "신림동 순대타운 맛 그대로",
+    "title": "모든 구성 보내드리는 밀키트",
+    "category": "식품"
    },
    {
     "start": "20:30",
@@ -3289,7 +3289,7 @@
     "start": "08:30",
     "end": "10:00",
     "brand": "LG생활건강",
-    "product": "[LIVE][빨래쉰내제거] 피지 모락셀라 냄새제거 부스터 캡슐 26개입 (5향 중 택1) 외 모음",
+    "product": "[LIVE]피지 모락셀라 냄새제거 부스터캡슐 26개입(코튼/허브/피치/화머/우드향 택1)+70ml 액체세제 1개 증정(향랜덤)",
     "price": 21100,
     "link": "https://store.kakao.com/lgcare/products/521334610",
     "slot_id": "61662",
@@ -3337,9 +3337,9 @@
     "start": "10:00",
     "end": "11:30",
     "brand": "AHC",
-    "product": "",
-    "price": 0,
-    "link": "https://shoppinglive.kakao.com/live/61602",
+    "product": "AHC 연말 선물 추천 홀리데이 한정기획! 아이크림부터 스킨케어까지~",
+    "price": 14900,
+    "link": "https://store.kakao.com/ahc/products/807335021",
     "slot_id": "61602",
     "pgm": "AHC 홀리데이데이션 출시",
     "title": "라이브 한정수량 오픈!",
@@ -3365,7 +3365,7 @@
     "price": 126000,
     "link": "https://store.kakao.com/ondocosmetic/products/792275671",
     "slot_id": "61959",
-    "pgm": "카쇼라 ONLY! ONDO",
+    "pgm": "카카오 ONLY! ONDO",
     "title": "50% 단독 할인 + 사은품",
     "category": "뷰티"
    },
@@ -3454,6 +3454,18 @@
     "category": "패션"
    },
    {
+    "start": "20:00",
+    "end": "21:30",
+    "brand": "단골아저씨",
+    "product": "강원도 고성 피데기 반건조오징어 10미(1.1-1.2kg) 외 쫄깃 부드러운식감 고단백 바다의 풍미를 그대로",
+    "price": 35900,
+    "link": "https://store.kakao.com/mrdangol/products/586863348",
+    "slot_id": "61984",
+    "pgm": "수산대전20%할인",
+    "title": "강원도고성 반건조오징어",
+    "category": "식품"
+   },
+   {
     "start": "20:30",
     "end": "22:00",
     "brand": "할리스 공식 스토어",
@@ -3497,8 +3509,8 @@
     "price": 229000,
     "link": "https://store.kakao.com/bazaarcosmetics/products/807878682",
     "slot_id": "61743",
-    "pgm": "역대급 할인 혜택",
-    "title": "하퍼스바자 톡딜 라이브!",
+    "pgm": "하퍼스바자 데일리뷰티템",
+    "title": "특가 카카오 라이브!",
     "category": "뷰티"
    },
    {
@@ -3521,8 +3533,8 @@
     "price": 430000,
     "link": "https://store.kakao.com/hanatour/products/810578188",
     "slot_id": "61473",
-    "pgm": "미식과 낭만의 도시_대만",
-    "title": "겨울 자유여행 39만~",
+    "pgm": "대만 자유여행 39만원대~",
+    "title": "역대급 구성 & 특전",
     "category": "여행"
    }
   ]
