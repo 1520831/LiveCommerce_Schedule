@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-11T19:00:10+09:00",
+ "generated_at": "2026-11-11T20:00:10+09:00",
  "today": "2026-11-11",
  "dates": [
   "2026-11-10",
@@ -23347,8 +23347,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/3809842610",
      "slot_id": "260172",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 8",
-     "category": "주방·잡화",
-     "hot": 9
+     "category": "주방·잡화"
     },
     {
      "start": "09:00",
@@ -23392,7 +23391,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]삼성가전 특가! 빅스마일데이 스마일캐시+구매인증",
      "rerun": true,
      "category": "가전",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -23461,7 +23460,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]LG가전 살 때가 왔다!빅스마일데이 특가전",
      "rerun": true,
      "category": "가전",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -23484,7 +23483,7 @@ window.SCHEDULE = {
      "slot_id": "260360",
      "pgm": "[빅스마일데이] 갤럭시 자급제폰 I 워치 초특가 라이브",
      "category": "디지털·PC",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -23713,7 +23712,8 @@ window.SCHEDULE = {
      "slot_id": "260429",
      "pgm": "[앵콜]ASUS 인기 노트북 빅스마일데이 특가 모음!",
      "rerun": true,
-     "category": "디지털·PC"
+     "category": "디지털·PC",
+     "hot": 8
     },
     {
      "start": "19:00",
@@ -25347,7 +25347,8 @@ window.SCHEDULE = {
      "slot_id": "61530",
      "pgm": "오크밸리 리조트 겨울 특가!",
      "title": "겨울여행 최대 81% 할인",
-     "category": "여행"
+     "category": "여행",
+     "hot": 7
     },
     {
      "start": "20:30",
@@ -26391,8 +26392,8 @@ window.SCHEDULE = {
    "2026-11-10",
    "2026-11-11"
   ],
-  "matched": 11,
-  "unmatched": 5
+  "matched": 12,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
