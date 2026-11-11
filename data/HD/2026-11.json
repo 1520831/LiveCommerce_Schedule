@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-11",
- "updated_at": "2026-11-11T18:00:54+09:00",
+ "updated_at": "2026-11-11T23:30:49+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -3739,24 +3739,6 @@
     "pgm": "[몰트/에스엠푸드] 장류/닭발 (일반식품2)"
    },
    {
-    "start": "17:00",
-    "end": "17:59",
-    "brand": "코아시스",
-    "product": "[몽클레르] 뿌르 팜므 EDP 150ml + EDP 7.5ML 파우치",
-    "price": 148300,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257710281",
-    "slot_id": "202611116010",
-    "items": [
-     {
-      "brand": "코아시스",
-      "product": "[몽클레르] 뿌르 팜므 EDP 150ml + EDP 7.5ML 파우치",
-      "price": 148300,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257710281"
-     }
-    ],
-    "title": "[몽클레르] 퍼퓸 구매시 몽클레르 패딩 파우치 증정💗"
-   },
-   {
     "start": "18:00",
     "end": "18:59",
     "brand": "스마트카라",
@@ -4010,14 +3992,14 @@
     "end": "12:59",
     "brand": "써스데이아일랜드",
     "product": "눈꽃 후드 자카드 집업 가디건 T268MCD934 T268MCD934",
-    "price": 269100,
+    "price": 230300,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257693718",
     "slot_id": "202611126006",
     "items": [
      {
       "brand": "써스데이아일랜드",
       "product": "눈꽃 후드 자카드 집업 가디건 T268MCD934 T268MCD934",
-      "price": 269100,
+      "price": 230300,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257693718"
      }
     ],
@@ -4278,14 +4260,14 @@
     "end": "07:59",
     "brand": "한민금거래소",
     "product": "[LIVE.한민금거래소] 사랑 카드 골드바 24K 순금 3.75g",
-    "price": 881900,
+    "price": 899300,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967998",
     "slot_id": "202611136021",
     "items": [
      {
       "brand": "한민금거래소",
       "product": "[LIVE.한민금거래소] 사랑 카드 골드바 24K 순금 3.75g",
-      "price": 881900,
+      "price": 899300,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967998"
      }
     ],
