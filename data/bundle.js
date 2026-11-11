@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-12T08:00:15+09:00",
+ "generated_at": "2026-11-12T08:20:24+09:00",
  "today": "2026-11-12",
  "dates": [
   "2026-11-11",
@@ -4621,7 +4621,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "00:50",
@@ -4735,8 +4735,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 7
+     "category": "테크"
     },
     {
      "start": "03:00",
@@ -4851,7 +4850,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "06:00",
@@ -4895,7 +4894,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "08:00",
@@ -19908,7 +19907,8 @@ window.SCHEDULE = {
      "price": 0,
      "link": "https://player.sauceflex.com/broadcast/lkebay-de4090862dcb4727ab5ec0c8f9b7c424",
      "slot_id": "259138",
-     "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 9"
+     "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 9",
+     "hot": 2
     },
     {
      "start": "09:00",
