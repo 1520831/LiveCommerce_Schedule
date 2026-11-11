@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-11T21:00:12+09:00",
+ "generated_at": "2026-11-11T22:00:10+09:00",
  "today": "2026-11-11",
  "dates": [
   "2026-11-10",
@@ -643,7 +643,7 @@ window.SCHEDULE = {
      ],
      "title": "[현명쇼] 막스마라 반값찬스 + 전 고객 빼빼로 증정",
      "pgm": "현명쇼(노블레스)",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "21:00",
@@ -2523,7 +2523,7 @@ window.SCHEDULE = {
      "pgm_cd": "1052",
      "category": "유아동",
      "cast": "influencer",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -23392,7 +23392,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]삼성가전 특가! 빅스마일데이 스마일캐시+구매인증",
      "rerun": true,
      "category": "가전",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "10:00",
