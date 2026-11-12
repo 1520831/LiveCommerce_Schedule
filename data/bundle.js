@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-12T08:40:39+09:00",
+ "generated_at": "2026-11-12T09:00:21+09:00",
  "today": "2026-11-12",
  "dates": [
   "2026-11-11",
@@ -4621,7 +4621,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "00:50",
@@ -4893,7 +4893,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "08:00",
@@ -21161,7 +21161,8 @@ window.SCHEDULE = {
      "slot_id": "61169",
      "pgm": "플르부아X헬로키티 굿즈 외",
      "title": "카카오 단독 사은품까지!",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 5
     },
     {
      "start": "08:30",
@@ -22433,8 +22434,8 @@ window.SCHEDULE = {
    "2026-11-11",
    "2026-11-12"
   ],
-  "matched": 7,
-  "unmatched": 9
+  "matched": 8,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
