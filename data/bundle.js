@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-12T09:00:21+09:00",
+ "generated_at": "2026-11-12T09:20:13+09:00",
  "today": "2026-11-12",
  "dates": [
   "2026-11-11",
@@ -611,7 +611,8 @@ window.SCHEDULE = {
      "pgm": "잇솔지",
      "pgm_cd": "1109",
      "category": "여성패션",
-     "cast": "influencer"
+     "cast": "influencer",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -4621,7 +4622,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "00:50",
@@ -4892,8 +4893,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "08:00",
@@ -19907,7 +19907,7 @@ window.SCHEDULE = {
      "link": "https://player.sauceflex.com/broadcast/lkebay-de4090862dcb4727ab5ec0c8f9b7c424",
      "slot_id": "259138",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 9",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "09:00",
@@ -21162,7 +21162,7 @@ window.SCHEDULE = {
      "pgm": "플르부아X헬로키티 굿즈 외",
      "title": "카카오 단독 사은품까지!",
      "category": "뷰티",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "08:30",
