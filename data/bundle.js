@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-12T21:00:16+09:00",
+ "generated_at": "2026-11-12T22:00:13+09:00",
  "today": "2026-11-12",
  "dates": [
   "2026-11-11",
@@ -469,8 +469,7 @@ window.SCHEDULE = {
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2224497029"
       }
      ],
-     "title": "[투명쇼] 몽클레어 최대 60개월 무이자",
-     "hot": 10
+     "title": "[투명쇼] 몽클레어 최대 60개월 무이자"
     },
     {
      "start": "11:00",
@@ -8867,8 +8866,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "13:50",
@@ -24712,7 +24710,7 @@ window.SCHEDULE = {
      "link": "https://player.sauceflex.com/broadcast/lkebay-de4090862dcb4727ab5ec0c8f9b7c424",
      "slot_id": "259138",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 9",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "09:00",
@@ -24909,7 +24907,7 @@ window.SCHEDULE = {
      "slot_id": "260409",
      "pgm": "NEW 스팀🔥 로보락 신상 로봇청소기 빅스 특가",
      "category": "가전",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "13:00",
@@ -25100,7 +25098,7 @@ window.SCHEDULE = {
      "slot_id": "259368",
      "pgm": "글로벌 1위 삼성 AI TV~ 빅스 가전다품목 특가💙",
      "category": "가전",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "20:00",
@@ -25157,7 +25155,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4804590771",
      "slot_id": "259229",
      "pgm": "빅스특가💙 삼성 갤럭시 모음+스마일캐시+구매인증 추첨",
-     "category": "디지털·PC"
+     "category": "디지털·PC",
+     "hot": 10
     },
     {
      "start": "21:00",
@@ -25179,7 +25178,8 @@ window.SCHEDULE = {
      "slot_id": "259414",
      "pgm": "[앵콜]LG가전 살 때가 왔다!빅스마일데이 특가전",
      "rerun": true,
-     "category": "가전"
+     "category": "가전",
+     "hot": 7
     },
     {
      "start": "22:00",
@@ -26007,7 +26007,7 @@ window.SCHEDULE = {
      "pgm": "베이비 브레짜 x 블프 쎈딜",
      "title": "카쇼라 한정 특별 혜택",
      "category": "키즈",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "10:00",
