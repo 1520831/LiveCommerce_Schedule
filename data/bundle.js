@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-12T11:40:11+09:00",
+ "generated_at": "2026-11-12T12:00:16+09:00",
  "today": "2026-11-12",
  "dates": [
   "2026-11-11",
@@ -5255,7 +5255,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -6413,7 +6413,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 10
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -19963,7 +19963,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]🎉빅스마일데이 X 쿠쿠 주방가전 깜짝특가!🎁",
      "rerun": true,
      "category": "가전",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -21213,7 +21213,7 @@ window.SCHEDULE = {
      "pgm": "베이비 브레짜 x 블프 쎈딜",
      "title": "카쇼라 한정 특별 혜택",
      "category": "키즈",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "10:00",
