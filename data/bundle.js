@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-12T10:00:12+09:00",
+ "generated_at": "2026-11-12T10:20:14+09:00",
  "today": "2026-11-12",
  "dates": [
   "2026-11-11",
@@ -612,7 +612,7 @@ window.SCHEDULE = {
      "pgm_cd": "1109",
      "category": "여성패션",
      "cast": "influencer",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -4621,8 +4621,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 7
+     "category": "테크"
     },
     {
      "start": "00:50",
@@ -4960,8 +4959,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 6
+     "category": "테크"
     },
     {
      "start": "08:00",
@@ -19908,7 +19906,7 @@ window.SCHEDULE = {
      "link": "https://player.sauceflex.com/broadcast/lkebay-de4090862dcb4727ab5ec0c8f9b7c424",
      "slot_id": "259138",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 9",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "09:00",
@@ -19962,7 +19960,8 @@ window.SCHEDULE = {
      "slot_id": "259404",
      "pgm": "[앵콜]🎉빅스마일데이 X 쿠쿠 주방가전 깜짝특가!🎁",
      "rerun": true,
-     "category": "가전"
+     "category": "가전",
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -19995,7 +19994,8 @@ window.SCHEDULE = {
      "slot_id": "260451",
      "pgm": "[앵콜]빅스마일데이! 삼성 AI 가전 최대 특가라이브",
      "rerun": true,
-     "category": "가전"
+     "category": "가전",
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -21163,7 +21163,7 @@ window.SCHEDULE = {
      "pgm": "플르부아X헬로키티 굿즈 외",
      "title": "카카오 단독 사은품까지!",
      "category": "뷰티",
-     "hot": 5
+     "hot": 8
     },
     {
      "start": "08:30",
@@ -21211,7 +21211,8 @@ window.SCHEDULE = {
      "slot_id": "61608",
      "pgm": "베이비 브레짜 x 블프 쎈딜",
      "title": "카쇼라 한정 특별 혜택",
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -22435,8 +22436,8 @@ window.SCHEDULE = {
    "2026-11-11",
    "2026-11-12"
   ],
-  "matched": 9,
-  "unmatched": 7
+  "matched": 10,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
