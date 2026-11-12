@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-13T07:02:01+09:00",
+ "generated_at": "2026-11-13T08:00:24+09:00",
  "today": "2026-11-13",
  "dates": [
   "2026-11-12",
@@ -429,7 +429,7 @@ window.SCHEDULE = {
      ],
      "title": "⏰잠시 후 종료! 알레보 라이브 특별가",
      "pgm": "[재방] 알레보 (P.D.Lab)",
-     "hot": 2
+     "hot": 4
     },
     {
      "start": "07:00",
@@ -448,7 +448,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "믿을 수 있는 한민금거래소 골드바 핫딜",
-     "pgm": "[재방] 한민금거래소 (패션잡화)"
+     "pgm": "[재방] 한민금거래소 (패션잡화)",
+     "hot": 1
     },
     {
      "start": "08:00",
@@ -6563,7 +6564,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "00:50",
@@ -6677,8 +6678,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 6
+     "category": "테크"
     },
     {
      "start": "03:00",
@@ -6792,8 +6792,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "05:30",
@@ -6937,7 +6936,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 3
     },
     {
      "start": "07:40",
