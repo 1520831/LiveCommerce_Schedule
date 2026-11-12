@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-12T10:20:14+09:00",
+ "generated_at": "2026-11-12T10:40:12+09:00",
  "today": "2026-11-12",
  "dates": [
   "2026-11-11",
@@ -612,7 +612,7 @@ window.SCHEDULE = {
      "pgm_cd": "1109",
      "category": "여성패션",
      "cast": "influencer",
-     "hot": 5
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -5255,7 +5255,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -5662,7 +5663,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 5
     },
     {
      "start": "10:30",
@@ -19961,7 +19963,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]🎉빅스마일데이 X 쿠쿠 주방가전 깜짝특가!🎁",
      "rerun": true,
      "category": "가전",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -19995,7 +19997,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]빅스마일데이! 삼성 AI 가전 최대 특가라이브",
      "rerun": true,
      "category": "가전",
-     "hot": 9
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -21162,8 +21164,7 @@ window.SCHEDULE = {
      "slot_id": "61169",
      "pgm": "플르부아X헬로키티 굿즈 외",
      "title": "카카오 단독 사은품까지!",
-     "category": "뷰티",
-     "hot": 8
+     "category": "뷰티"
     },
     {
      "start": "08:30",
@@ -22436,8 +22437,8 @@ window.SCHEDULE = {
    "2026-11-11",
    "2026-11-12"
   ],
-  "matched": 10,
-  "unmatched": 6
+  "matched": 11,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
