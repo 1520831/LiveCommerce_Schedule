@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-12T09:40:15+09:00",
+ "generated_at": "2026-11-12T10:00:12+09:00",
  "today": "2026-11-12",
  "dates": [
   "2026-11-11",
@@ -612,7 +612,7 @@ window.SCHEDULE = {
      "pgm_cd": "1109",
      "category": "여성패션",
      "cast": "influencer",
-     "hot": 5
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -4622,7 +4622,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "00:50",
@@ -4960,7 +4960,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 6
     },
     {
      "start": "08:00",
@@ -21162,7 +21163,7 @@ window.SCHEDULE = {
      "pgm": "플르부아X헬로키티 굿즈 외",
      "title": "카카오 단독 사은품까지!",
      "category": "뷰티",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "08:30",
@@ -22434,8 +22435,8 @@ window.SCHEDULE = {
    "2026-11-11",
    "2026-11-12"
   ],
-  "matched": 8,
-  "unmatched": 8
+  "matched": 9,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
