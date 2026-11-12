@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-11",
- "updated_at": "2026-11-12T07:00:57+09:00",
+ "updated_at": "2026-11-12T12:01:29+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -2352,7 +2352,7 @@
     "end": "11:00",
     "brand": "그릭데이",
     "product": "그릭데이 그릭요거트 100g 9종 맛보기 세트 (총 13개) + 그래놀라 25g 증정",
-    "price": 33000,
+    "price": 53700,
     "link": "https://gift.kakao.com/product/13881680?url=product&cId=13881680",
     "slot_id": "61263",
     "pgm": "그릭요거트 신상출시!",
@@ -2435,7 +2435,7 @@
     "start": "19:00",
     "end": "20:23",
     "brand": "오쏘몰",
-    "product": "오쏘몰 이뮨 멀티비타민&미네랄 30입+3입 추가 증정 (소비기한 2027년 4월 7일~)",
+    "product": "오쏘몰 이뮨 멀티비타민&미네랄 30입 (소비기한 2027년 4월 7일~)",
     "price": 75000,
     "link": "https://gift.kakao.com/product/11691875?url=product&cId=11691875",
     "slot_id": "61365",
@@ -2448,7 +2448,7 @@
     "end": "20:21",
     "brand": "에스트라",
     "product": "아토베리어365 크림 80ml 4개 (옵션-크림2+로션2개 / 크림2개+수딩2개)",
-    "price": 100000,
+    "price": 105600,
     "link": "https://gift.kakao.com/product/2940337?url=product&cId=2940337",
     "slot_id": "61429",
     "pgm": "에스트라 크림&로션 쟁이기",
@@ -2519,7 +2519,7 @@
   "2026-11-12": [
    {
     "start": "08:30",
-    "end": "11:30",
+    "end": "09:52",
     "brand": "플르부아",
     "product": "[선물 포장/헬로키티 굿즈] 플르부아 헬로키티 디퓨저 & 핸드크림 세트 (6종 중 택1)",
     "price": 33000,
@@ -2531,7 +2531,7 @@
    },
    {
     "start": "08:30",
-    "end": "10:00",
+    "end": "09:50",
     "brand": "온브릭스",
     "product": "제주 고당도 노지 타이벡 감귤 2.5kg이상(11Brix/로얄과)",
     "price": 14900,
@@ -2543,7 +2543,7 @@
    },
    {
     "start": "08:30",
-    "end": "11:30",
+    "end": "09:51",
     "brand": "아렌시아",
     "product": "(2+2/총4개)아렌시아 쫀쫀한 떡솝 클렌저 골라담기 120g 4종 택2 (+스크런치)",
     "price": 46000,
@@ -2555,7 +2555,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:00",
     "brand": "우고래빗",
     "product": "우고래빗 베리유 하루견과 (20gx60봉) 블루베리 영양간식",
     "price": 45900,
@@ -2567,7 +2567,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:00",
     "brand": "베이비 브레짜 공식스토어",
     "product": "육아필수템 베이비 브레짜 원스텝 젖병세척기 / 분유제조기",
     "price": 359000,
@@ -2579,7 +2579,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:00",
     "brand": "폴레드",
     "product": "폴레드 올에이지 360 회전확장형 카시트 (ISOFIX & 락킹벨트)",
     "price": 600000,
@@ -2593,8 +2593,8 @@
     "start": "11:00",
     "end": "12:30",
     "brand": "ONDO코스메틱",
-    "product": "(카쇼라01) ONDO 클로토 데일리 3종 (아이크림, 미스트, 토너 정품) + 리유저블백 증정",
-    "price": 126000,
+    "product": "(구성01) ONDO 클로토 데일리 3종 (아이크림, 미스트, 토너 정품) + 리유저블백 증정",
+    "price": 63000,
     "link": "https://store.kakao.com/ondocosmetic/products/792275671",
     "slot_id": "61888",
     "pgm": "카카오 ONLY! ONDO",
@@ -2624,6 +2624,18 @@
     "pgm": "[쎈딜] 육아필수템 픽셀!",
     "title": "소독기 최대혜택 라이브!",
     "category": "키즈"
+   },
+   {
+    "start": "11:39",
+    "end": "13:09",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49000,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "61955",
+    "pgm": "발에 입는 패딩",
+    "title": "터치그라운드 패딩슈즈",
+    "category": "패션"
    },
    {
     "start": "13:00",
@@ -2738,7 +2750,7 @@
     "end": "21:30",
     "brand": "땡이아빠 땡마켓",
     "product": "[맛 없으면 환불]제주 고당도 감귤 3종 모음 GAP 농가(감귤, 스테비아 타이벡, 유라조생)",
-    "price": 40190,
+    "price": 13900,
     "link": "https://store.kakao.com/ttangsmarket/products/764034356",
     "slot_id": "61915",
     "pgm": "맛없으면 환불! 제주 감귤",
@@ -2792,18 +2804,6 @@
     "pgm": "[잉코] 겨울준비 온열템",
     "title": "톡딜 할인 특가!",
     "category": "테크"
-   },
-   {
-    "start": "22:30",
-    "end": "00:00",
-    "brand": "터치그라운드 스니커즈",
-    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-    "price": 49000,
-    "link": "https://store.kakao.com/touchground/products/774098244",
-    "slot_id": "61955",
-    "pgm": "발에 입는 패딩",
-    "title": "터치그라운드 패딩슈즈",
-    "category": "패션"
    }
   ],
   "2026-11-13": [
@@ -2986,6 +2986,18 @@
     "pgm": "BOOIE 흔드는 붕어빵핫팩",
     "title": "13일 24시 특가 라이브",
     "category": "리빙"
+   },
+   {
+    "start": "22:30",
+    "end": "00:00",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49000,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "61993",
+    "pgm": "집에서도 포근하게",
+    "title": "터치그라운드 털슬리퍼",
+    "category": "패션"
    }
   ],
   "2026-11-14": [
@@ -3089,9 +3101,9 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "쿠첸",
-    "product": "쿠첸 가열식 신생아 아기 가습기 (그레이)",
+    "product": "쿠첸 가열식 신생아 아기 가습기 (베이지)",
     "price": 159000,
-    "link": "https://gift.kakao.com/product/14610831?url=product&cId=14610831",
+    "link": "https://gift.kakao.com/product/14610887?url=product&cId=14610887",
     "slot_id": "61940",
     "pgm": "쿠첸 신생아 가열식 가습기",
     "title": "카카오 선물하기 첫 론칭",
@@ -3103,9 +3115,9 @@
     "start": "10:00",
     "end": "13:00",
     "brand": "토리든",
-    "product": "[5개/총 400ml] 다이브인 저분자 히알루론산 크림 80ml 5개 (+세럼 20ml&트라이얼 키트&마스크팩 6매 증정)",
-    "price": 84900,
-    "link": "https://gift.kakao.com/product/14280532?url=product&cId=14280532",
+    "product": "[5개/총 230m] 다이브인 저분자 히알루론산 세럼 50ml 3개+40ml 2개",
+    "price": 71000,
+    "link": "https://gift.kakao.com/product/14280523?url=product&cId=14280523",
     "slot_id": "61437",
     "pgm": "찬바람 불 땐 토리든~61%",
     "title": "선착순 마스크팩10매 증정",
@@ -3337,8 +3349,8 @@
     "start": "12:30",
     "end": "14:00",
     "brand": "ONDO코스메틱",
-    "product": "(카쇼라01) ONDO 클로토 데일리 3종 (아이크림, 미스트, 토너 정품) + 리유저블백 증정",
-    "price": 126000,
+    "product": "(구성01) ONDO 클로토 데일리 3종 (아이크림, 미스트, 토너 정품) + 리유저블백 증정",
+    "price": 63000,
     "link": "https://store.kakao.com/ondocosmetic/products/792275671",
     "slot_id": "61959",
     "pgm": "카카오 ONLY! ONDO",
@@ -3473,8 +3485,8 @@
     "price": 69900,
     "link": "https://gift.kakao.com/product/14576281?url=product&cId=14576281",
     "slot_id": "61681",
-    "pgm": "주디앤X양파쿵야 파자마 8종",
-    "title": "LIVE 단독 최초 공개",
+    "pgm": "주디앤X쿵야 레스토랑즈",
+    "title": "파자마 LIVE 최초 공개",
     "category": "패션"
    },
    {
@@ -3634,6 +3646,17 @@
     "pgm": "골드앤디어 주얼리 최대72%",
     "title": "신상∙베스트 LIVE 특가",
     "category": "패션"
+   },
+   {
+    "start": "15:00",
+    "end": "16:30",
+    "brand": "보고몰",
+    "product": "영진약품 속시원 식후 케어 음료, 100ml, 20개",
+    "price": 20000,
+    "link": "https://store.kakao.com/bogo/products/815460803",
+    "slot_id": "61999",
+    "pgm": "1+1 건강드링크 특가",
+    "category": "식품"
    },
    {
     "start": "17:00",
