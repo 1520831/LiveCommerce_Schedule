@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-12T10:40:12+09:00",
+ "generated_at": "2026-11-12T11:00:17+09:00",
  "today": "2026-11-12",
  "dates": [
   "2026-11-11",
@@ -5256,7 +5256,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -5664,7 +5664,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 5
+     "hot": 3
     },
     {
      "start": "10:30",
@@ -19963,7 +19963,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]🎉빅스마일데이 X 쿠쿠 주방가전 깜짝특가!🎁",
      "rerun": true,
      "category": "가전",
-     "hot": 8
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -19997,7 +19997,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]빅스마일데이! 삼성 AI 가전 최대 특가라이브",
      "rerun": true,
      "category": "가전",
-     "hot": 7
+     "hot": 4
     },
     {
      "start": "11:00",
