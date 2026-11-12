@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-11",
- "updated_at": "2026-11-12T18:01:49+09:00",
+ "updated_at": "2026-11-12T23:31:02+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -4068,14 +4068,13 @@
     "start": "09:00",
     "end": "09:59",
     "brand": "닥터포헤어",
-    "product": "에어로 퓨리파잉 지성두피 샴푸 500mlx2",
-    "price": 24520,
-    "link": "https://item.cjonstyle.com/item/2079993363?channelCode=30002002",
+    "product": "폴리젠 실크 샴푸 500mlx3 + (하루동안 70mlx2)",
+    "price": 39900,
+    "link": "https://item.cjonstyle.com/item/92198654?channelCode=30002002",
     "slot_id": "31555",
     "title": "다시보는 탈모샴푸는 닥터포헤어🪮 방송 1시간만 한정 혜택⏰",
     "pgm": "라이브쇼",
-    "pgm_cd": "1008",
-    "category": "뷰티"
+    "pgm_cd": "1008"
    },
    {
     "start": "09:00",
@@ -4444,7 +4443,7 @@
     "end": "20:59",
     "brand": "한샘",
     "product": "엠마 컴포트 스윙 천연가죽 소파 4인(2종/택1)",
-    "price": 1314990,
+    "price": 1560380,
     "link": "https://item.cjonstyle.com/item/2092078954?channelCode=30002002",
     "slot_id": "31243",
     "title": "한샘이라서 집가구싶다~BEST소파 엠마의 스윙버전 첫.공.개👀최저가보장",
@@ -4924,7 +4923,7 @@
     "end": "19:59",
     "brand": "에르헴",
     "product": "26FW 캐시미어100 로우게이지 루즈핏 풀오버 1종",
-    "price": 170150,
+    "price": 179100,
     "link": "https://item.cjonstyle.com/item/2095335490?channelCode=30002002",
     "slot_id": "31470",
     "title": "엣지쇼💙에르헴 캐시미어 26FW 신상품 할인",
@@ -4950,7 +4949,7 @@
     "end": "19:59",
     "brand": "한샘",
     "product": "엠마 컴포트 스윙 천연가죽 소파 4인(2종/택1)",
-    "price": 1314990,
+    "price": 1560380,
     "link": "https://item.cjonstyle.com/item/2092078954?channelCode=30002002",
     "slot_id": "31600",
     "title": "다시보는 한샘이라서 집가구싶다~BEST소파 엠마의 스윙버전 첫.공.개",
@@ -5001,11 +5000,11 @@
     "start": "20:40",
     "end": "21:44",
     "brand": "핑크원더",
-    "product": "40%OFF/CJ단독] 김호영 스페셜 패키지 (호호바 오일 50ml 5개 + GIFT. 호호바 모찌베이션 크림 마스크 1개)",
-    "price": 204000,
-    "link": "https://item.cjonstyle.com/item/2076937285?channelCode=30002002",
+    "product": "50%OFF/C단독] 호호바 장벽 패키지 (호호바 베리어 플러스 크림 50ml 10개 + GIFT. 모찌베이션 1개 + 네롤리미스트 100ml 1개)",
+    "price": 290000,
+    "link": "https://item.cjonstyle.com/item/2097742531?channelCode=30002002",
     "slot_id": "31512",
-    "title": "핑크원더/핑크원더 호호바오일 外",
+    "title": "[투머치쇼] 핑크원더 호호바오일 최대 53%",
     "pgm": "김호영의 투머치쇼",
     "pgm_cd": "1083",
     "category": "뷰티"
@@ -5342,7 +5341,7 @@
     "end": "18:59",
     "brand": "한샘",
     "product": "엠마 컴포트 스윙 천연가죽 소파 4인(2종/택1)",
-    "price": 1314990,
+    "price": 1560380,
     "link": "https://item.cjonstyle.com/item/2092078954?channelCode=30002002",
     "slot_id": "31619",
     "title": "다시보는 한샘이라서 집가구싶다~BEST소파 엠마의 스윙버전 첫.공.개",
@@ -5445,7 +5444,7 @@
     "end": "22:59",
     "brand": "에르헴",
     "product": "26FW 캐시미어100 로우게이지 루즈핏 풀오버 1종",
-    "price": 170150,
+    "price": 179100,
     "link": "https://item.cjonstyle.com/item/2095335490?channelCode=30002002",
     "slot_id": "31625",
     "title": "다시보는 엣지쇼💙에르헴 캐시미어 26FW 신상품 할인",
@@ -5483,9 +5482,9 @@
     "start": "23:00",
     "end": "23:59",
     "brand": "핑크원더",
-    "product": "40%OFF/CJ단독] 김호영 스페셜 패키지 (호호바 오일 50ml 5개 + GIFT. 호호바 모찌베이션 크림 마스크 1개)",
-    "price": 204000,
-    "link": "https://item.cjonstyle.com/item/2076937285?channelCode=30002002",
+    "product": "50%OFF/C단독] 호호바 장벽 패키지 (호호바 베리어 플러스 크림 50ml 10개 + GIFT. 모찌베이션 1개 + 네롤리미스트 100ml 1개)",
+    "price": 290000,
+    "link": "https://item.cjonstyle.com/item/2097742531?channelCode=30002002",
     "slot_id": "31735",
     "title": "다시보는 [투머치쇼] 핑크원더 호호바오일, 최초공개 베리어크림",
     "pgm": "김호영의 투머치쇼",
@@ -6180,6 +6179,19 @@
     "pgm": "하우스윗",
     "pgm_cd": "1048",
     "category": "주방·잡화"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "LG전자",
+    "product": "2026 NEW LG스타일러 스티머 5벌+바지1벌 블랙틴트미러_SC5GMR80S",
+    "price": 2146000,
+    "link": "https://item.cjonstyle.com/item/2094746173?channelCode=30002002",
+    "slot_id": "31682",
+    "title": "LG전자 스타일러+바스에어 최대 혜택전 KB7%+적립10%",
+    "pgm": "전자전능",
+    "pgm_cd": "1020",
+    "category": "가전"
    }
   ],
   "2026-11-17": [
@@ -6271,6 +6283,19 @@
     "category": "주방·잡화"
    },
    {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "로보락",
+    "product": "[스팀 Ver.] S10 MaxV Ultra Steam 로봇청소기, 화이트 스팀모델",
+    "price": 1690000,
+    "link": "https://item.cjonstyle.com/item/2095827979?channelCode=30002002",
+    "slot_id": "31783",
+    "title": "로보락 S10 MaxV 울트라스팀 파격 할인전",
+    "pgm": "라이브쇼",
+    "pgm_cd": "1016",
+    "category": "가전"
+   },
+   {
     "start": "19:00",
     "end": "19:59",
     "brand": "조지루시",
@@ -6334,6 +6359,18 @@
     "pgm": "라이브쇼",
     "pgm_cd": "0146",
     "category": "여성패션"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "",
+    "product": "에스까다 26FW 숏패딩/베스트 패딩/니트 방송중 최저가🤍",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/31694",
+    "slot_id": "31694",
+    "title": "에스까다 26FW 숏패딩/베스트 패딩/니트 방송중 최저가🤍",
+    "pgm": "라이브쇼",
+    "pgm_cd": "1008"
    }
   ]
  }
