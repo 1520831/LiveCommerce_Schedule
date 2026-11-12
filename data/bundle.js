@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-12T17:20:13+09:00",
+ "generated_at": "2026-11-12T17:40:13+09:00",
  "today": "2026-11-12",
  "dates": [
   "2026-11-11",
@@ -7414,7 +7414,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -8444,8 +8444,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -23326,7 +23325,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]🎉빅스마일데이 X 쿠쿠 주방가전 깜짝특가!🎁",
      "rerun": true,
      "category": "가전",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -25824,8 +25823,8 @@ window.SCHEDULE = {
    "2026-11-11",
    "2026-11-12"
   ],
-  "matched": 15,
-  "unmatched": 1
+  "matched": 14,
+  "unmatched": 2
  },
  "fixed": {
   "rows": [
