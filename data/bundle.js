@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-12T19:00:13+09:00",
+ "generated_at": "2026-11-12T20:00:13+09:00",
  "today": "2026-11-12",
  "dates": [
   "2026-11-11",
@@ -470,7 +470,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 몽클레어 최대 60개월 무이자",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -8868,7 +8868,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "13:50",
@@ -24712,7 +24712,7 @@ window.SCHEDULE = {
      "link": "https://player.sauceflex.com/broadcast/lkebay-de4090862dcb4727ab5ec0c8f9b7c424",
      "slot_id": "259138",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 9",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "09:00",
@@ -24766,8 +24766,7 @@ window.SCHEDULE = {
      "slot_id": "259404",
      "pgm": "[앵콜]🎉빅스마일데이 X 쿠쿠 주방가전 깜짝특가!🎁",
      "rerun": true,
-     "category": "가전",
-     "hot": 9
+     "category": "가전"
     },
     {
      "start": "10:00",
@@ -24801,7 +24800,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]빅스마일데이! 삼성 AI 가전 최대 특가라이브",
      "rerun": true,
      "category": "가전",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -24910,7 +24909,7 @@ window.SCHEDULE = {
      "slot_id": "260409",
      "pgm": "NEW 스팀🔥 로보락 신상 로봇청소기 빅스 특가",
      "category": "가전",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "13:00",
@@ -25076,7 +25075,8 @@ window.SCHEDULE = {
      "slot_id": "260444",
      "pgm": "[앵콜]빅스마일데이 라이젠 CPU 노트북 연합전",
      "rerun": true,
-     "category": "디지털·PC"
+     "category": "디지털·PC",
+     "hot": 4
     },
     {
      "start": "19:00",
