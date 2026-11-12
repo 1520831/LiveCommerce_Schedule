@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-12T12:20:11+09:00",
+ "generated_at": "2026-11-12T12:40:13+09:00",
  "today": "2026-11-12",
  "dates": [
   "2026-11-11",
@@ -469,7 +469,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 몽클레어 최대 60개월 무이자",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -7413,8 +7413,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -8467,7 +8466,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -8905,7 +8904,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 10
+     "hot": 6
     },
     {
      "start": "12:00",
@@ -23326,7 +23325,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]🎉빅스마일데이 X 쿠쿠 주방가전 깜짝특가!🎁",
      "rerun": true,
      "category": "가전",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -23468,7 +23467,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4871554690",
      "slot_id": "260409",
      "pgm": "NEW 스팀🔥 로보락 신상 로봇청소기 빅스 특가",
-     "category": "가전"
+     "category": "가전",
+     "hot": 7
     },
     {
      "start": "13:00",
