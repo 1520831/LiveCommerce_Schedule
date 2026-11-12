@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-12T17:40:13+09:00",
+ "generated_at": "2026-11-12T18:00:13+09:00",
  "today": "2026-11-12",
  "dates": [
   "2026-11-11",
@@ -469,7 +469,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 몽클레어 최대 60개월 무이자",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -9080,7 +9080,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "13:50",
