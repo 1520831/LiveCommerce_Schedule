@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-13T08:20:08+09:00",
+ "generated_at": "2026-11-13T08:40:09+09:00",
  "today": "2026-11-13",
  "dates": [
   "2026-11-12",
@@ -428,8 +428,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "⏰잠시 후 종료! 알레보 라이브 특별가",
-     "pgm": "[재방] 알레보 (P.D.Lab)",
-     "hot": 10
+     "pgm": "[재방] 알레보 (P.D.Lab)"
     },
     {
      "start": "07:00",
@@ -449,7 +448,7 @@ window.SCHEDULE = {
      ],
      "title": "믿을 수 있는 한민금거래소 골드바 핫딜",
      "pgm": "[재방] 한민금거래소 (패션잡화)",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "08:00",
@@ -469,7 +468,7 @@ window.SCHEDULE = {
      ],
      "title": "레노마가 제안하는 윈터 레이어링! 2만원대부터❤️",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 7
+     "hot": 5
     },
     {
      "start": "09:00",
@@ -2550,7 +2549,7 @@ window.SCHEDULE = {
      "pgm": "끝장세일",
      "pgm_cd": "1082",
      "category": "여성패션",
-     "hot": 4
+     "hot": 2
     },
     {
      "start": "09:00",
@@ -6566,7 +6565,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 8
     },
     {
      "start": "00:50",
@@ -6939,7 +6938,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "07:40",
@@ -7108,7 +7107,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "08:00",
@@ -23846,7 +23845,8 @@ window.SCHEDULE = {
      "slot_id": "61284",
      "pgm": "청소 필수템 아스토니쉬",
      "title": "만능 클리너/배스룸/식초 외",
-     "category": "리빙"
+     "category": "리빙",
+     "hot": 6
     },
     {
      "start": "08:30",
@@ -23858,7 +23858,8 @@ window.SCHEDULE = {
      "slot_id": "61285",
      "pgm": "바이탈플랜트 자동회전 롤팬",
      "title": "ALL 세라믹 코팅 롤팬",
-     "category": "리빙"
+     "category": "리빙",
+     "hot": 7
     },
     {
      "start": "08:30",
@@ -25153,8 +25154,8 @@ window.SCHEDULE = {
    "2026-11-12",
    "2026-11-13"
   ],
-  "matched": 18,
-  "unmatched": 2
+  "matched": 19,
+  "unmatched": 1
  },
  "fixed": {
   "rows": [
