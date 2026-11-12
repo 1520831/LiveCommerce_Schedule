@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-12T13:20:13+09:00",
+ "generated_at": "2026-11-12T13:40:11+09:00",
  "today": "2026-11-12",
  "dates": [
   "2026-11-11",
@@ -469,7 +469,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 몽클레어 최대 60개월 무이자",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -8466,7 +8466,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -9080,7 +9080,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 8
     },
     {
      "start": "13:50",
@@ -23324,8 +23325,7 @@ window.SCHEDULE = {
      "slot_id": "259404",
      "pgm": "[앵콜]🎉빅스마일데이 X 쿠쿠 주방가전 깜짝특가!🎁",
      "rerun": true,
-     "category": "가전",
-     "hot": 10
+     "category": "가전"
     },
     {
      "start": "10:00",
