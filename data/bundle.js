@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-12T12:02:19+09:00",
+ "generated_at": "2026-11-12T12:20:11+09:00",
  "today": "2026-11-12",
  "dates": [
   "2026-11-11",
@@ -414,8 +414,7 @@ window.SCHEDULE = {
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2217588437"
       }
      ],
-     "title": "[노블리타] 이탈리아 18K 주얼리 전 상품 최저가도전",
-     "hot": 10
+     "title": "[노블리타] 이탈리아 18K 주얼리 전 상품 최저가도전"
     },
     {
      "start": "08:00",
@@ -8905,7 +8904,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 10
     },
     {
      "start": "12:00",
