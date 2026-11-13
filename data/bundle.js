@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-13T12:20:22+09:00",
+ "generated_at": "2026-11-13T12:40:21+09:00",
  "today": "2026-11-13",
  "dates": [
   "2026-11-12",
@@ -24289,8 +24289,7 @@ window.SCHEDULE = {
      "price": 92000,
      "link": "https://m.gmarket.co.kr/vi/product/4882716904",
      "slot_id": "259428",
-     "pgm": "구글 플레이 기프트코드 8% 특가!",
-     "hot": 10
+     "pgm": "구글 플레이 기프트코드 8% 특가!"
     },
     {
      "start": "11:00",
@@ -25685,7 +25684,8 @@ window.SCHEDULE = {
      "slot_id": "61652",
      "pgm": "육아대세 프랭클린 카카오상륙",
      "title": "최대55%+사은품",
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 10
     },
     {
      "start": "17:00",
