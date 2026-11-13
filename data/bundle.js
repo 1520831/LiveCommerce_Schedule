@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-13T10:00:11+09:00",
+ "generated_at": "2026-11-13T10:20:11+09:00",
  "today": "2026-11-13",
  "dates": [
   "2026-11-12",
@@ -447,8 +447,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "믿을 수 있는 한민금거래소 골드바 핫딜",
-     "pgm": "[재방] 한민금거래소 (패션잡화)",
-     "hot": 10
+     "pgm": "[재방] 한민금거래소 (패션잡화)"
     },
     {
      "start": "08:00",
@@ -468,7 +467,7 @@ window.SCHEDULE = {
      ],
      "title": "레노마가 제안하는 윈터 레이어링! 2만원대부터❤️",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 5
+     "hot": 8
     },
     {
      "start": "09:00",
@@ -488,7 +487,7 @@ window.SCHEDULE = {
      ],
      "title": "[스케쳐스] 방송 중에만 20%▼",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -507,7 +506,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼 스페셜] 방송 중에만 무료 배송/교환/반품",
-     "pgm": "투명쇼 (패션잡화)"
+     "pgm": "투명쇼 (패션잡화)",
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -2550,7 +2550,7 @@ window.SCHEDULE = {
      "pgm": "끝장세일",
      "pgm_cd": "1082",
      "category": "여성패션",
-     "hot": 4
+     "hot": 7
     },
     {
      "start": "09:00",
@@ -7105,8 +7105,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 8
+     "category": "테크"
     },
     {
      "start": "08:00",
@@ -7224,8 +7223,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "09:30",
@@ -7521,7 +7519,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -22515,7 +22514,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4373364041",
      "slot_id": "260436",
      "pgm": "빅스 마지막날! 삼성 AI가전 모음💙스마일캐시 증정!",
-     "category": "가전"
+     "category": "가전",
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -23846,7 +23846,7 @@ window.SCHEDULE = {
      "pgm": "청소 필수템 아스토니쉬",
      "title": "만능 클리너/배스룸/식초 외",
      "category": "리빙",
-     "hot": 3
+     "hot": 6
     },
     {
      "start": "08:30",
@@ -23859,7 +23859,7 @@ window.SCHEDULE = {
      "pgm": "바이탈플랜트 자동회전 롤팬",
      "title": "ALL 세라믹 코팅 롤팬",
      "category": "리빙",
-     "hot": 2
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -23872,7 +23872,7 @@ window.SCHEDULE = {
      "pgm": "성분에디터 모공앰플 ~70%",
      "title": "구매금액별 추가 사은품",
      "category": "뷰티",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "10:00",
