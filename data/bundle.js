@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-13T14:40:12+09:00",
+ "generated_at": "2026-11-13T15:00:14+09:00",
  "today": "2026-11-13",
  "dates": [
   "2026-11-12",
@@ -9147,7 +9147,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 7
     },
     {
      "start": "14:00",
@@ -24327,7 +24327,7 @@ window.SCHEDULE = {
      "slot_id": "260437",
      "pgm": "빅스마일데이💜 로보락 Qrevo L Pro 라이브특가",
      "category": "가전",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "12:00",
@@ -24411,7 +24411,8 @@ window.SCHEDULE = {
      "slot_id": "259430",
      "pgm": "[앵콜] 갤럭시 자급제폰 태블릿 버즈 시리즈",
      "rerun": true,
-     "category": "디지털·PC"
+     "category": "디지털·PC",
+     "hot": 10
     },
     {
      "start": "14:00",
@@ -25588,8 +25589,7 @@ window.SCHEDULE = {
      "slot_id": "61285",
      "pgm": "바이탈플랜트 자동회전 롤팬",
      "title": "라이브 중 뚜껑 거치대 증정",
-     "category": "리빙",
-     "hot": 10
+     "category": "리빙"
     },
     {
      "start": "08:30",
