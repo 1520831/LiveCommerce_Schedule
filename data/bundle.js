@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-13T11:20:13+09:00",
+ "generated_at": "2026-11-13T11:40:11+09:00",
  "today": "2026-11-13",
  "dates": [
   "2026-11-12",
@@ -505,7 +505,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼 스페셜] 방송 중에만 무료 배송/교환/반품",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 2
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -7518,7 +7518,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -22459,7 +22459,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/3108637509",
      "slot_id": "260174",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 10",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "09:00",
@@ -22527,7 +22527,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]LG가전 살 때가 왔다!빅스마일데이 특가전",
      "rerun": true,
      "category": "가전",
-     "hot": 7
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -22561,7 +22561,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]💙갤럭시 특가 빅스마일 혜택+구매인증 추첨🎁",
      "rerun": true,
      "category": "디지털·PC",
-     "hot": 5
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -22585,7 +22585,7 @@ window.SCHEDULE = {
      "slot_id": "260437",
      "pgm": "빅스마일데이💜 로보락 Qrevo L Pro 라이브특가",
      "category": "가전",
-     "hot": 9
+     "hot": 7
     },
     {
      "start": "12:00",
@@ -23860,7 +23860,7 @@ window.SCHEDULE = {
      "pgm": "바이탈플랜트 자동회전 롤팬",
      "title": "ALL 세라믹 코팅 롤팬",
      "category": "리빙",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "08:30",
