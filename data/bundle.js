@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-13T09:20:11+09:00",
+ "generated_at": "2026-11-13T09:40:12+09:00",
  "today": "2026-11-13",
  "dates": [
   "2026-11-12",
@@ -448,7 +448,7 @@ window.SCHEDULE = {
      ],
      "title": "믿을 수 있는 한민금거래소 골드바 핫딜",
      "pgm": "[재방] 한민금거래소 (패션잡화)",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "08:00",
@@ -488,7 +488,7 @@ window.SCHEDULE = {
      ],
      "title": "[스케쳐스] 방송 중에만 20%▼",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 9
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -2550,7 +2550,7 @@ window.SCHEDULE = {
      "pgm": "끝장세일",
      "pgm_cd": "1082",
      "category": "여성패션",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "09:00",
@@ -7106,7 +7106,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "08:00",
@@ -7224,7 +7224,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 7
     },
     {
      "start": "09:30",
@@ -23845,7 +23846,7 @@ window.SCHEDULE = {
      "pgm": "청소 필수템 아스토니쉬",
      "title": "만능 클리너/배스룸/식초 외",
      "category": "리빙",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "08:30",
@@ -25154,8 +25155,8 @@ window.SCHEDULE = {
    "2026-11-12",
    "2026-11-13"
   ],
-  "matched": 19,
-  "unmatched": 1
+  "matched": 20,
+  "unmatched": 0
  },
  "fixed": {
   "rows": [
