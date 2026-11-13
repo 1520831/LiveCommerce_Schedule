@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-13T14:20:13+09:00",
+ "generated_at": "2026-11-13T14:40:12+09:00",
  "today": "2026-11-13",
  "dates": [
   "2026-11-12",
@@ -7976,7 +7976,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -9146,7 +9146,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 8
     },
     {
      "start": "14:00",
@@ -25588,7 +25589,7 @@ window.SCHEDULE = {
      "pgm": "바이탈플랜트 자동회전 롤팬",
      "title": "라이브 중 뚜껑 거치대 증정",
      "category": "리빙",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "08:30",
@@ -25684,8 +25685,7 @@ window.SCHEDULE = {
      "slot_id": "61652",
      "pgm": "육아대세 프랭클린 카카오상륙",
      "title": "최대55%+사은품",
-     "category": "키즈",
-     "hot": 10
+     "category": "키즈"
     },
     {
      "start": "17:00",
