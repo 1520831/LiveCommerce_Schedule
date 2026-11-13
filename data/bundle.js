@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-13T09:40:12+09:00",
+ "generated_at": "2026-11-13T10:00:11+09:00",
  "today": "2026-11-13",
  "dates": [
   "2026-11-12",
@@ -488,7 +488,7 @@ window.SCHEDULE = {
      ],
      "title": "[스케쳐스] 방송 중에만 20%▼",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 8
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -7106,7 +7106,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 9
+     "hot": 8
     },
     {
      "start": "08:00",
@@ -7225,7 +7225,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "09:30",
@@ -23872,7 +23872,7 @@ window.SCHEDULE = {
      "pgm": "성분에디터 모공앰플 ~70%",
      "title": "구매금액별 추가 사은품",
      "category": "뷰티",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "10:00",
