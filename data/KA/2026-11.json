@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-11",
- "updated_at": "2026-11-13T07:01:10+09:00",
+ "updated_at": "2026-11-13T12:03:49+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -2544,18 +2544,6 @@
    {
     "start": "10:00",
     "end": "11:00",
-    "brand": "베이비 브레짜 공식스토어",
-    "product": "육아필수템 베이비 브레짜 원스텝 젖병세척기 / 분유제조기",
-    "price": 359000,
-    "link": "https://store.kakao.com/babybrezza/products/254408903",
-    "slot_id": "61608",
-    "pgm": "베이비 브레짜 x 블프 쎈딜",
-    "title": "카쇼라 한정 특별 혜택",
-    "category": "키즈"
-   },
-   {
-    "start": "10:00",
-    "end": "11:00",
     "brand": "폴레드",
     "product": "폴레드 올에이지 360 회전확장형 카시트 (ISOFIX & 락킹벨트)",
     "price": 600000,
@@ -2749,7 +2737,7 @@
   "2026-11-13": [
    {
     "start": "08:30",
-    "end": "11:30",
+    "end": "09:52",
     "brand": "아스토니쉬",
     "product": "[LIVE]아스토니쉬 만능클리너 제로 750ml+배스룸 버블 클리너 750ml+식초 다목적 세정제",
     "price": 38400,
@@ -2761,19 +2749,19 @@
    },
    {
     "start": "08:30",
-    "end": "11:30",
+    "end": "09:52",
     "brand": "바이탈플랜트 공식몰",
     "product": "바이탈플랜트 롤팬 NEW오리지널/롤팬 플러스 자동회전냄비 택1",
     "price": 200000,
     "link": "https://store.kakao.com/vitalplantstore/products/605533606",
     "slot_id": "61285",
     "pgm": "바이탈플랜트 자동회전 롤팬",
-    "title": "ALL 세라믹 코팅 롤팬",
+    "title": "라이브 중 뚜껑 거치대 증정",
     "category": "리빙"
    },
    {
     "start": "08:30",
-    "end": "11:30",
+    "end": "09:50",
     "brand": "성분에디터 공식 스토어",
     "product": "[성분에디터/리프팅 1등] 단독 1.8배 특대용량! 그린토마토 NMN 모공앰플 선착순 창고대방출 + 추가 증정혜택!",
     "price": 124000,
@@ -2785,7 +2773,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:00",
     "brand": "바티스트",
     "product": "바티스트 드라이샴푸 200ml*2 + 50ml + 머리끈",
     "price": 30000,
@@ -2797,7 +2785,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "10:59",
     "brand": "폴레드",
     "product": "폴레드 에어러브 웜3 유모차 방한 시트 온열 발열 라이너 커버",
     "price": 79000,
@@ -2809,7 +2797,7 @@
    },
    {
     "start": "10:00",
-    "end": "11:30",
+    "end": "11:02",
     "brand": "진한식품",
     "product": "바른 도가니탕 500g X 4팩 외",
     "price": 27600,
@@ -2818,6 +2806,18 @@
     "pgm": "도가니탕 4팩 11900원",
     "title": "도저히 못 참는 특가!",
     "category": "식품"
+   },
+   {
+    "start": "10:31",
+    "end": "11:01",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49000,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "61993",
+    "pgm": "집에서도 포근하게",
+    "title": "터치그라운드 털슬리퍼",
+    "category": "패션"
    },
    {
     "start": "11:30",
@@ -2919,25 +2919,13 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "핫팩",
-    "product": "\"NEW 겨울 필수템\" [20개 세트] 부이 흔드는 붕어빵 핫팩 손난로+11/13 단 하루 핫팩 추가 증정",
+    "product": "\"NEW 겨울 필수템\" [20개 세트] 부이 흔드는 붕어빵 핫팩 손난로+11/13 대용량 흔드는 핫팩 (100g) 5매 증정",
     "price": 16900,
     "link": "https://gift.kakao.com/product/10701373?url=product&cId=10701373",
     "slot_id": "61957",
     "pgm": "BOOIE 흔드는 붕어빵핫팩",
     "title": "13일 24시 특가 라이브",
     "category": "리빙"
-   },
-   {
-    "start": "22:30",
-    "end": "00:00",
-    "brand": "터치그라운드 스니커즈",
-    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-    "price": 49000,
-    "link": "https://store.kakao.com/touchground/products/774098244",
-    "slot_id": "61993",
-    "pgm": "집에서도 포근하게",
-    "title": "터치그라운드 털슬리퍼",
-    "category": "패션"
    }
   ],
   "2026-11-14": [
@@ -2957,8 +2945,8 @@
     "start": "10:00",
     "end": "11:30",
     "brand": "에스쁘아",
-    "product": "\"촉촉 컬러립밤\" [선물포장/GIFT] 노웨어 립스틱 바밍 글로우 (+미니 쿠션&미니 틴트 증정)",
-    "price": 20100,
+    "product": "[LIVE] [선물포장/GIFT] 노웨어 립스틱 바밍글로우 (+파우치&미니 쿠션&미니 틴트)",
+    "price": 20000,
     "link": "https://gift.kakao.com/product/9245135?url=product&cId=9245135",
     "slot_id": "61734",
     "pgm": "에스쁘아 블랙프라이데이",
@@ -2988,6 +2976,20 @@
     "pgm": "[ESTI] 후무스&피타칩",
     "title": "오리지널/카라멜라이즈/차지키",
     "category": "식품"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "베이비 브레짜 공식스토어",
+    "product": "육아필수템 베이비 브레짜 원스텝 젖병세척기 / 분유제조기",
+    "price": 359000,
+    "link": "https://store.kakao.com/babybrezza/products/254408903",
+    "slot_id": "62016",
+    "pgm": "베이비 브레짜 x 블프 앵콜",
+    "title": "카쇼라 한정 특별 혜택",
+    "category": "키즈",
+    "rerun": true,
+    "rerun_of": "61608"
    },
    {
     "start": "17:00",
@@ -3048,6 +3050,18 @@
     "pgm": "쿠첸 신생아 가열식 가습기",
     "title": "카카오 선물하기 첫 론칭",
     "category": "테크"
+   },
+   {
+    "start": "22:30",
+    "end": "00:00",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49000,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "62024",
+    "pgm": "발에 입는 패딩",
+    "title": "터치그라운드 패딩슈즈",
+    "category": "패션"
    }
   ],
   "2026-11-15": [
@@ -3152,6 +3166,20 @@
     "category": "식품"
    },
    {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "올마이투어",
+    "product": "오크밸리 리조트_밸리 빌리지 룸 온리/쿠키런 스위트랜드 패키지/조식 3인 패키지",
+    "price": 500000,
+    "link": "https://store.kakao.com/allmytour/products/807848111",
+    "slot_id": "62028",
+    "pgm": "오크밸리 리조트 겨울 특가!",
+    "title": "겨울여행 최대 81% 할인",
+    "category": "여행",
+    "rerun": true,
+    "rerun_of": "61530"
+   },
+   {
     "start": "20:30",
     "end": "22:00",
     "brand": "허시파피코리아",
@@ -3186,6 +3214,18 @@
     "pgm": "메디니스와 함께하는",
     "title": "11월 핫 라이브특가!",
     "category": "테크"
+   },
+   {
+    "start": "22:30",
+    "end": "00:00",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49000,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "62025",
+    "pgm": "집에서도 포근하게",
+    "title": "터치그라운드 털슬리퍼",
+    "category": "패션"
    }
   ],
   "2026-11-16": [
@@ -3193,9 +3233,9 @@
     "start": "08:30",
     "end": "11:30",
     "brand": "매일유업 직영스토어",
-    "product": "아몬드브리즈 6종 190ML/950ML 10팩/24팩/48팩 중 택 1",
-    "price": 33600,
-    "link": "https://store.kakao.com/maeilecommerce/products/54303233",
+    "product": "셀렉스 프로핏 250ML 4종(딸기초코,모카초코,밀크바닐라,바나나) 외 셀렉스 모음딜!",
+    "price": 52200,
+    "link": "https://store.kakao.com/maeilecommerce/products/739031674",
     "slot_id": "61273",
     "pgm": "매일유업 식단관리템 특집",
     "title": "아몬드브리즈&콩물두유 증정",
@@ -3394,6 +3434,18 @@
     "category": "식품"
    },
    {
+    "start": "20:00",
+    "end": "21:30",
+    "brand": "땡이아빠 땡마켓",
+    "product": "[중국산 걱정 없는] 100% 국내산 포기김치 2kg 외 6종 /올해 김장은 쉬세요",
+    "price": 13900,
+    "link": "https://store.kakao.com/ttangsmarket/products/816464187",
+    "slot_id": "62022",
+    "pgm": "올해 김장은 쉬세요!",
+    "title": "국내산 100% 김치 7종",
+    "category": "식품"
+   },
+   {
     "start": "20:30",
     "end": "22:00",
     "brand": "할리스 공식 스토어",
@@ -3446,7 +3498,7 @@
     "end": "22:00",
     "brand": "(주)플라이밀",
     "product": "플라이밀 프로틴 단백질쉐이크 16종 대용량 630g 2통",
-    "price": 85800,
+    "price": 52900,
     "link": "https://store.kakao.com/fullandlight/products/701855525",
     "slot_id": "61791",
     "pgm": "플라이밀X카쇼라",
@@ -3458,12 +3510,24 @@
     "end": "01:00",
     "brand": "하나투어",
     "product": "[부대비용 별도][대만] 타이베이 자유여행 3~5일 (시먼초역세권4성급+5만원상당특전)",
-    "price": 530000,
+    "price": 430000,
     "link": "https://store.kakao.com/hanatour/products/810578188",
     "slot_id": "61473",
     "pgm": "대만 자유여행 39만원대~",
     "title": "역대급 구성 & 특전",
     "category": "여행"
+   },
+   {
+    "start": "22:30",
+    "end": "00:00",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49000,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "62026",
+    "pgm": "발에 입는 패딩",
+    "title": "터치그라운드 패딩슈즈",
+    "category": "패션"
    }
   ],
   "2026-11-17": [
@@ -3536,7 +3600,7 @@
     "link": "https://store.kakao.com/ykstore/products/69394161",
     "slot_id": "61691",
     "pgm": "좋은느낌&크리넥스 블프데이",
-    "title": "생리대/입오버/라이너 쟁이기",
+    "title": "생리대/화장지 쟁일 기회",
     "category": "리빙"
    },
    {
@@ -3857,7 +3921,7 @@
     "end": "13:00",
     "brand": "내셔널지오그래픽 키즈",
     "product": "내셔널키즈 26WINTER OPEN! 신상 인기 아우터 모음 다운/패딩/셋업/맨투맨 외 99종",
-    "price": 89000,
+    "price": 29000,
     "link": "https://store.kakao.com/ngstorekids/products/807151354",
     "slot_id": "61914",
     "pgm": "[내셔널키즈]",
@@ -3976,8 +4040,8 @@
     "start": "19:00",
     "end": "22:00",
     "brand": "smartinfini",
-    "product": "[LIVE/휘닉스파크] 시즌오픈썰매",
-    "price": 703000,
+    "product": "[LIVE/휘닉스파크] 시즌오픈썰매 (1박+스노우빌리지 4매+워터파크4매(실내)+ 조식뷔페4매(11/20~12/10)",
+    "price": 941000,
     "link": "https://store.kakao.com/smartinfini01/products/815079287",
     "slot_id": "61883",
     "pgm": "본격 겨울 여행! 휘닉스",

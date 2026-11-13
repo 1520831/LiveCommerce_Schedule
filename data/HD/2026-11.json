@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-11",
- "updated_at": "2026-11-13T07:00:56+09:00",
+ "updated_at": "2026-11-13T12:03:29+09:00",
  "days": {
   "2026-11-11": [
    {
@@ -749,14 +749,14 @@
     "end": "07:59",
     "brand": "한민금거래소",
     "product": "[LIVE.한민금거래소] 사랑 카드 골드바 24K 순금 3.75g",
-    "price": 871200,
+    "price": 858000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967998",
     "slot_id": "202611136021",
     "items": [
      {
       "brand": "한민금거래소",
       "product": "[LIVE.한민금거래소] 사랑 카드 골드바 24K 순금 3.75g",
-      "price": 871200,
+      "price": 858000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967998"
      }
     ],
@@ -804,17 +804,17 @@
    {
     "start": "10:00",
     "end": "10:59",
-    "brand": "더로우(the row)",
-    "product": "더로우 W1709-L614 BLACK ANS 90S 라운드 탑 핸들 토트백",
-    "price": 2229000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253476130",
+    "brand": "몽클레르",
+    "product": "[무교무반/60무][몽클레어]6F 8G00017 89BG6 034 여성 로고 패딩 믹스 집업 자켓 화이트",
+    "price": 1600000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257901995",
     "slot_id": "202611136004",
     "items": [
      {
-      "brand": "더로우(the row)",
-      "product": "더로우 W1709-L614 BLACK ANS 90S 라운드 탑 핸들 토트백",
-      "price": 2229000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253476130"
+      "brand": "몽클레르",
+      "product": "[무교무반/60무][몽클레어]6F 8G00017 89BG6 034 여성 로고 패딩 믹스 집업 자켓 화이트",
+      "price": 1600000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257901995"
      }
     ],
     "title": "[투명쇼 스페셜] 방송 중에만 무료 배송/교환/반품",
@@ -881,14 +881,14 @@
     "start": "14:00",
     "end": "14:59",
     "brand": "로라애슐리",
-    "product": "[10/13부터 순차출고] [로라애슐리] 텀블러 3종 세트(600ml  591ml  350ml)",
+    "product": "[10/13부터 순차출고] [로라애슐리] 텀블러 풀세트 4종구성",
     "price": 114000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257751726",
     "slot_id": "202611136008",
     "items": [
      {
       "brand": "로라애슐리",
-      "product": "[10/13부터 순차출고] [로라애슐리] 텀블러 3종 세트(600ml  591ml  350ml)",
+      "product": "[10/13부터 순차출고] [로라애슐리] 텀블러 풀세트 4종구성",
       "price": 114000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257751726"
      }
@@ -1144,6 +1144,25 @@
     ],
     "title": "[현명쇼] 막스마라 최대 月 8천원대 곧종료 ★",
     "pgm": "[재방] 현명쇼 (노블레스팀)"
+   },
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "파슨스",
+    "product": "루메라 빗결 하이넥 집업 FAUX 퍼 베스트 (MJ26FG4)",
+    "price": 59900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252962351",
+    "slot_id": "202611146002",
+    "items": [
+     {
+      "brand": "파슨스",
+      "product": "루메라 빗결 하이넥 집업 FAUX 퍼 베스트 (MJ26FG4)",
+      "price": 59900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252962351"
+     }
+    ],
+    "title": "[루메라/MJ] 26FW 단독 혜택! UP TO 68%",
+    "pgm": "[루메라/엠제이] 의류 (멀티커머스)"
    },
    {
     "start": "11:00",
@@ -1526,6 +1545,25 @@
     ],
     "title": "[리딩게이트/하이도도] 영어 독서 교육 핫딜 찬스!",
     "pgm": "[재방] 리딩게이트 독서교육 (렌탈)"
+   },
+   {
+    "start": "16:00",
+    "end": "16:59",
+    "brand": "골든클레프",
+    "product": "18K RICAMI 뱅글",
+    "price": 4999000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250187809",
+    "slot_id": "202611156005",
+    "items": [
+     {
+      "brand": "골든클레프",
+      "product": "18K RICAMI 뱅글",
+      "price": 4999000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2250187809"
+     }
+    ],
+    "title": "[우노아레] 최대 150만원▼ + 무이자 60개월",
+    "pgm": "[집방] 이탈리아 주얼리 (노블레스)"
    },
    {
     "start": "17:00",
@@ -1950,6 +1988,25 @@
   ],
   "2026-11-17": [
    {
+    "start": "07:00",
+    "end": "07:59",
+    "brand": "알레보",
+    "product": "[2025NEW.통3중.IH인덕션 가능] 알레보 디 엣지 프라이팬 리뉴얼 세트(26팬+26웍+사각팬+스텐돔+유리뚜껑)",
+    "price": 159000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2228377985",
+    "slot_id": "202611176021",
+    "items": [
+     {
+      "brand": "알레보",
+      "product": "[2025NEW.통3중.IH인덕션 가능] 알레보 디 엣지 프라이팬 리뉴얼 세트(26팬+26웍+사각팬+스텐돔+유리뚜껑)",
+      "price": 159000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2228377985"
+     }
+    ],
+    "title": "⏰잠시 후 종료! 알레보 라이브 특별가",
+    "pgm": "[재방] 알레보 (P.D.Lab)"
+   },
+   {
     "start": "08:00",
     "end": "08:59",
     "brand": "예작",
@@ -2024,6 +2081,25 @@
     ],
     "title": "[모모래빗] 5중 NO 샘가드 컴포트 리뉴얼 출시!",
     "pgm": "육아일기"
+   },
+   {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "홀리라이크",
+    "product": "[갈치2미] 제주 명품 특대 은갈치 1.2kg(600g×2마리)",
+    "price": 158000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253053916",
+    "slot_id": "202611176006",
+    "items": [
+     {
+      "brand": "홀리라이크",
+      "product": "[갈치2미] 제주 명품 특대 은갈치 1.2kg(600g×2마리)",
+      "price": 158000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253053916"
+     }
+    ],
+    "title": "[신성제주家] 제주 프리미엄 갈치/고등어/옥돔🐟",
+    "pgm": "[신성제주가] 생선 (액티브라이프)"
    },
    {
     "start": "13:00",
@@ -2136,7 +2212,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257760066"
      }
     ],
-    "title": "[쎌루메] ECM 앰플 쇼라 최초공개 특급혜택!",
+    "title": "[쎌루메] ECM 앰플 쇼라 최초 공개 특급 혜택!",
     "pgm": "[버킷그램] 건강기능식품 (뷰티1)"
    },
    {
@@ -2184,14 +2260,14 @@
     "end": "00:59",
     "brand": "한민금거래소",
     "product": "[LIVE.한민금거래소] 사랑 카드 골드바 24K 순금 3.75g",
-    "price": 871200,
+    "price": 858000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967998",
     "slot_id": "202611186019",
     "items": [
      {
       "brand": "한민금거래소",
       "product": "[LIVE.한민금거래소] 사랑 카드 골드바 24K 순금 3.75g",
-      "price": 871200,
+      "price": 858000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967998"
      }
     ],
@@ -2235,6 +2311,25 @@
     ],
     "title": "[소다] 데일리슈즈 추천! 쇼라 특별가 득템찬스",
     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "루솔",
+    "product": "[나눔발송][루솔] 진한 배도라지즙 선물박스(120포) 배즙",
+    "price": 97000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2225275178",
+    "slot_id": "202611186004",
+    "items": [
+     {
+      "brand": "루솔",
+      "product": "[나눔발송][루솔] 진한 배도라지즙 선물박스(120포) 배즙",
+      "price": 97000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2225275178"
+     }
+    ],
+    "title": "[루솔] 올 겨울 건강지킴이 배도라지즙 & 아기 이유식",
+    "pgm": "[루솔] 배도라지즙 (액티브라이프)"
    },
    {
     "start": "12:00",
@@ -2332,6 +2427,25 @@
     "pgm": "[에떼르노] 주얼리 (패션잡화)"
    },
    {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "고비",
+    "product": "(GOBI) 실크 캐시미어 홀가먼트 후드가디건",
+    "price": 259000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2229162339",
+    "slot_id": "202611186012",
+    "items": [
+     {
+      "brand": "고비",
+      "product": "(GOBI) 실크 캐시미어 홀가먼트 후드가디건",
+      "price": 259000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2229162339"
+     }
+    ],
+    "title": "[고비] 쇼룸 특별가! 타임찬스 최대 70%▼",
+    "pgm": "현대쇼룸 (패션)"
+   },
+   {
     "start": "20:00",
     "end": "20:59",
     "brand": "버버리",
@@ -2368,6 +2482,25 @@
     ],
     "title": "[스마트카라] 강력하고 조용해진 음식물처리기",
     "pgm": "[스마트카라] 특집전 (리빙)"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "아이더",
+    "product": "(DWW26558)MONGLIT FOX (몽글릿 폭스) 여성 미들 구스 다운 자켓(4칼라) DWW26558",
+    "price": 439000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253784911",
+    "slot_id": "202611186015",
+    "items": [
+     {
+      "brand": "아이더",
+      "product": "(DWW26558)MONGLIT FOX (몽글릿 폭스) 여성 미들 구스 다운 자켓(4칼라) DWW26558",
+      "price": 439000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253784911"
+     }
+    ],
+    "title": "[아이더] 한파 준비! 겨울 인기 아이템 특별가",
+    "pgm": "[아이더] 아웃도어 (멀티커머스)"
    }
   ]
  }
