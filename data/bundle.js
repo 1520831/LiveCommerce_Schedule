@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-13T10:40:13+09:00",
+ "generated_at": "2026-11-13T11:01:08+09:00",
  "today": "2026-11-13",
  "dates": [
   "2026-11-12",
@@ -466,8 +466,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "레노마가 제안하는 윈터 레이어링! 2만원대부터❤️",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 10
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "09:00",
@@ -506,7 +505,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼 스페셜] 방송 중에만 무료 배송/교환/반품",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -2549,7 +2548,7 @@ window.SCHEDULE = {
      "pgm": "끝장세일",
      "pgm_cd": "1082",
      "category": "여성패션",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "09:00",
@@ -7374,7 +7373,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 9
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -7460,7 +7459,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -7595,7 +7595,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -22461,7 +22461,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/3108637509",
      "slot_id": "260174",
      "pgm": "딱 2시간⏰미친 혜택의 모닝어택!💸쇼핑마라톤 10",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "09:00",
@@ -23847,7 +23847,7 @@ window.SCHEDULE = {
      "pgm": "청소 필수템 아스토니쉬",
      "title": "만능 클리너/배스룸/식초 외",
      "category": "리빙",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "08:30",
