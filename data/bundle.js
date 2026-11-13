@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-13T11:01:08+09:00",
+ "generated_at": "2026-11-13T11:20:13+09:00",
  "today": "2026-11-13",
  "dates": [
   "2026-11-12",
@@ -2547,8 +2547,7 @@ window.SCHEDULE = {
      "title": "다시보는 끝장세일📢칼라거펠트/채컬렉티브/드베로타 19,900원~",
      "pgm": "끝장세일",
      "pgm_cd": "1082",
-     "category": "여성패션",
-     "hot": 9
+     "category": "여성패션"
     },
     {
      "start": "09:00",
@@ -7373,7 +7372,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -7459,8 +7458,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 10
+     "category": "푸드"
     },
     {
      "start": "10:00",
@@ -7595,7 +7593,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -22528,7 +22526,8 @@ window.SCHEDULE = {
      "slot_id": "259411",
      "pgm": "[앵콜]LG가전 살 때가 왔다!빅스마일데이 특가전",
      "rerun": true,
-     "category": "가전"
+     "category": "가전",
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -22561,7 +22560,8 @@ window.SCHEDULE = {
      "slot_id": "259429",
      "pgm": "[앵콜]💙갤럭시 특가 빅스마일 혜택+구매인증 추첨🎁",
      "rerun": true,
-     "category": "디지털·PC"
+     "category": "디지털·PC",
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -22584,7 +22584,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4822243340",
      "slot_id": "260437",
      "pgm": "빅스마일데이💜 로보락 Qrevo L Pro 라이브특가",
-     "category": "가전"
+     "category": "가전",
+     "hot": 9
     },
     {
      "start": "12:00",
@@ -23846,8 +23847,7 @@ window.SCHEDULE = {
      "slot_id": "61284",
      "pgm": "청소 필수템 아스토니쉬",
      "title": "만능 클리너/배스룸/식초 외",
-     "category": "리빙",
-     "hot": 8
+     "category": "리빙"
     },
     {
      "start": "08:30",
@@ -23860,7 +23860,7 @@ window.SCHEDULE = {
      "pgm": "바이탈플랜트 자동회전 롤팬",
      "title": "ALL 세라믹 코팅 롤팬",
      "category": "리빙",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "08:30",
