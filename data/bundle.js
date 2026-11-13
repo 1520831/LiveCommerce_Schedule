@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-13T11:40:11+09:00",
+ "generated_at": "2026-11-13T12:00:13+09:00",
  "today": "2026-11-13",
  "dates": [
   "2026-11-12",
@@ -7371,8 +7371,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -22548,7 +22547,8 @@ window.SCHEDULE = {
      "price": 92000,
      "link": "https://m.gmarket.co.kr/vi/product/4882716904",
      "slot_id": "259428",
-     "pgm": "구글 플레이 기프트코드 8% 특가!"
+     "pgm": "구글 플레이 기프트코드 8% 특가!",
+     "hot": 10
     },
     {
      "start": "11:00",
