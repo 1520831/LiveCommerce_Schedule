@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-11",
- "updated_at": "2026-11-15T20:31:16+09:00",
+ "updated_at": "2026-11-16T08:27:36+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -3028,30 +3028,6 @@
   ],
   "2026-11-15": [
    {
-    "start": "09:00",
-    "end": "10:00",
-    "brand": "신일전자 온라인스토어",
-    "product": "신일 전기히터 2IN1 카본 탄소발열 히터 온풍기",
-    "price": 198000,
-    "link": "https://store.kakao.com/shinilonline/products/632210789",
-    "slot_id": "62047",
-    "pgm": "신일 전기 히터 난로 가습기",
-    "title": "포근한 겨울나기 라이브할인",
-    "category": "테크"
-   },
-   {
-    "start": "10:00",
-    "end": "11:20",
-    "brand": "토리든",
-    "product": "[5개/총 230m] 다이브인 저분자 히알루론산 세럼 50ml 3개+40ml 2개",
-    "price": 71000,
-    "link": "https://gift.kakao.com/product/14280523?url=product&cId=14280523",
-    "slot_id": "61437",
-    "pgm": "찬바람 불 땐 토리든~61%",
-    "title": "선착순 마스크팩10매 증정",
-    "category": "뷰티"
-   },
-   {
     "start": "10:00",
     "end": "11:20",
     "brand": "트립핏",
@@ -3076,30 +3052,6 @@
     "category": "식품"
    },
    {
-    "start": "11:30",
-    "end": "12:31",
-    "brand": "더마펌",
-    "product": "[더블구성] 센텔라 징크 앰플 50ml + 50ml",
-    "price": 44000,
-    "link": "https://store.kakao.com/dermafirm/products/725880357",
-    "slot_id": "61933",
-    "pgm": "더마펌 앰플 5종 특가",
-    "title": "카쇼라 단독 혜택",
-    "category": "뷰티"
-   },
-   {
-    "start": "19:00",
-    "end": "20:21",
-    "brand": "오설록",
-    "product": "오설록 BEST 10입&10입 피라미드 티백",
-    "price": 19800,
-    "link": "https://gift.kakao.com/product/14444589?url=product&cId=14444589",
-    "slot_id": "61876",
-    "pgm": "오설록 블랙프라이데이 할인",
-    "title": "3일간 카쇼라 특가",
-    "category": "식품"
-   },
-   {
     "start": "19:00",
     "end": "20:24",
     "brand": "웹투어(주)",
@@ -3112,20 +3064,6 @@
     "category": "여행",
     "rerun": true,
     "rerun_of": "61200"
-   },
-   {
-    "start": "19:00",
-    "end": "20:23",
-    "brand": "웹투어(주)",
-    "product": "[켄싱턴 설악비치_2인 PKG] 객실 1박 + 조식 2인 + 오하스 바우처 1만원_12시 레이트 체크아웃 + 인원추가비 무료",
-    "price": 493600,
-    "link": "https://store.kakao.com/webtour/products/807178024",
-    "slot_id": "61894",
-    "pgm": "오늘마감! 켄싱턴 설악비치",
-    "title": "아동 & 주중 특전까지!",
-    "category": "여행",
-    "rerun": true,
-    "rerun_of": "61469"
    },
    {
     "start": "19:00",
@@ -3154,34 +3092,8 @@
     "category": "식품"
    },
    {
-    "start": "19:00",
-    "end": "20:21",
-    "brand": "올마이투어",
-    "product": "오크밸리 리조트_밸리 빌리지 룸 온리/쿠키런 스위트랜드 패키지/조식 3인 패키지",
-    "price": 500000,
-    "link": "https://store.kakao.com/allmytour/products/807848111",
-    "slot_id": "62028",
-    "pgm": "오크밸리 리조트 겨울 특가!",
-    "title": "겨울여행 최대 81% 할인",
-    "category": "여행",
-    "rerun": true,
-    "rerun_of": "61530"
-   },
-   {
-    "start": "20:00",
-    "end": "21:30",
-    "brand": "(주)상상그램",
-    "product": "[귀뚜라미] 27년형 THE 프리미엄 신형 블루투스 카본 탄소매트",
-    "price": 468000,
-    "link": "https://store.kakao.com/sangsangstore/products/118837559",
-    "slot_id": "62046",
-    "pgm": "2026년 귀뚜라미",
-    "title": "겨울을 위한 카본매트",
-    "category": "테크"
-   },
-   {
     "start": "20:30",
-    "end": "22:00",
+    "end": "21:32",
     "brand": "허시파피코리아",
     "product": "허시파피 지금 신기좋은 베스트 슈즈 모음 앵클/롱부츠/털부츠 외+양말 사은품 증정",
     "price": 149000,
@@ -3193,7 +3105,7 @@
    },
    {
     "start": "20:30",
-    "end": "22:00",
+    "end": "21:31",
     "brand": "밤비코",
     "product": "1+1 양털 와이드팬츠 플리스 조거 스웻팬츠 포근하고 부드러운 방한 팬츠 및 데일리 셋업 모음",
     "price": 39900,
@@ -3205,7 +3117,7 @@
    },
    {
     "start": "20:30",
-    "end": "22:00",
+    "end": "21:30",
     "brand": "메디니스",
     "product": "메디니스 로켓 다이얼 공기압 온열 안마기 손마사지기 MDM-770 /MDM-880",
     "price": 99000,
@@ -3214,18 +3126,6 @@
     "pgm": "메디니스와 함께하는",
     "title": "11월 핫 라이브특가!",
     "category": "테크"
-   },
-   {
-    "start": "22:30",
-    "end": "00:00",
-    "brand": "터치그라운드 스니커즈",
-    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-    "price": 49000,
-    "link": "https://store.kakao.com/touchground/products/774098244",
-    "slot_id": "62025",
-    "pgm": "집에서도 포근하게",
-    "title": "터치그라운드 털슬리퍼",
-    "category": "패션"
    }
   ],
   "2026-11-16": [
@@ -4067,7 +3967,7 @@
     "end": "22:00",
     "brand": "비너스",
     "product": "[1+1세트] 부유방 보정 프리컷 브라팬티 4종 +팬티 1매 증정",
-    "price": 35000,
+    "price": 51600,
     "link": "https://gift.kakao.com/product/13747390?url=product&cId=13747390",
     "slot_id": "61577",
     "pgm": "하루종일 편안한 비너스!",
@@ -4165,7 +4065,7 @@
     "end": "11:30",
     "brand": "종근당건강",
     "product": "ALL NEW 락토핏 골드(140포) 1통 + 골드 30포 추가증정",
-    "price": 44700,
+    "price": 31500,
     "link": "https://store.kakao.com/ckdhc/products/40094955",
     "slot_id": "61304",
     "pgm": "종근당건강 X 카쇼라위크",
@@ -4749,6 +4649,128 @@
     "pgm": "풀무원 스팀쿡 X 가전위크",
     "title": "스팀세척기능+65종 자동조리",
     "category": "테크"
+   }
+  ],
+  "2026-11-21": [
+   {
+    "start": "10:00",
+    "end": "13:00",
+    "brand": "라엘코리아",
+    "product": "라엘 내추럴 순면커버 생리대 10팩",
+    "price": 64000,
+    "link": "https://store.kakao.com/rael/products/287186815",
+    "slot_id": "61695",
+    "pgm": "라엘 탐폰 이지플러스 런칭",
+    "title": "생리대/입오버/라이너 쟁이기",
+    "category": "리빙"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "세타필 공식몰",
+    "product": "세타필 로션 591ml 3개+118ml 2개(2,009ml)+크림 10g 3개",
+    "price": 73500,
+    "link": "https://store.kakao.com/cetaphil/products/153571443",
+    "slot_id": "61727",
+    "pgm": "세타필 브랜드데이 본품급",
+    "title": "증정+커피쿠폰까지 ~45%",
+    "category": "뷰티"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "킨드나나",
+    "product": "[킨드나나] 편하게 입는 킨드나나 인기 파자마&데일리 홈웨어 잠옷 100종",
+    "price": 39800,
+    "link": "https://store.kakao.com/kindnana/products/756747890",
+    "slot_id": "61911",
+    "pgm": "킨드나나 포근한 밤을 위한",
+    "title": "파자마 라이브 특가",
+    "category": "패션"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "시몬하우스",
+    "product": "[안드로스 비넛츠] 땅콩버터 100%/크리미/크런치 1+1 모음 무첨가 무가당 땅콩잼 피넛버터 (디아토스타 증정/이벤트)",
+    "price": 19800,
+    "link": "https://store.kakao.com/uniangels/products/664427510",
+    "slot_id": "61702",
+    "pgm": "안드로스 프랑스 땅콩버터 &",
+    "title": "안드레아밀라노 레드와인식초",
+    "category": "식품"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "올가니카",
+    "product": "[마녀스프] 타미리 프렌치 스프 토마토 200g 5개 (아쿠아 레몬 340mL*6증정)",
+    "price": 30000,
+    "link": "https://store.kakao.com/organica/products/764056944",
+    "slot_id": "61742",
+    "pgm": "올가니카 클렌즈 마녀스프",
+    "title": "저당 저칼로리 특가전!",
+    "category": "식품"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "베로로샵",
+    "product": "베로로 엑스트라버진 올리브오일",
+    "price": 17900,
+    "link": "https://store.kakao.com/veroro/products/776801560",
+    "slot_id": "61919",
+    "pgm": "스페인 베로로 올리브오일",
+    "title": "[초저산도]신세계백화점 입점",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "삼립",
+    "product": "삼립호빵 4가지맛 골고루 \"호빵네빵\" 2박스 (단팥/야채/피자/고구마))",
+    "price": 32900,
+    "link": "https://gift.kakao.com/product/12186418?url=product&cId=12186418",
+    "slot_id": "61308",
+    "pgm": "올겨울 더 특별한 삼립호빵",
+    "title": "귀여운 호빵 키링 만나보세요",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "여행온여수",
+    "product": "",
+    "price": 0,
+    "link": "https://shoppinglive.kakao.com/live/61907",
+    "slot_id": "61907",
+    "pgm": "[여수 라테라스&깔라까따]",
+    "title": "겨울 동화 여수 윈터빌리지",
+    "category": "여행"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "까사비노 와인셀러",
+    "product": "까사비노 라벨뷰 와인셀러 143병 싱글냉각 대형 CSV-WS180",
+    "price": 2800000,
+    "link": "https://store.kakao.com/casavino/products/763105242",
+    "slot_id": "61929",
+    "pgm": "까사비노 와인셀러 런칭라이브",
+    "title": "공간이 선택한 와인셀러",
+    "category": "테크"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "BORDIN",
+    "product": "[프리미엄 에디션] 보르딘 콜드브루 더치커피 앰플 12종 선물세트 (25ml*12개)",
+    "price": 19900,
+    "link": "https://gift.kakao.com/product/969295?url=product&cId=969295",
+    "slot_id": "61931",
+    "pgm": "[보르딘]콜드브루 더치커피",
+    "title": "BEST4종 & 증정이벤트",
+    "category": "식품"
    }
   ]
  }

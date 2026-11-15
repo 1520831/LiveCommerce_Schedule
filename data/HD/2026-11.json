@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-11",
- "updated_at": "2026-11-15T20:30:54+09:00",
+ "updated_at": "2026-11-16T08:27:20+09:00",
  "days": {
   "2026-11-11": [
    {
@@ -1564,25 +1564,6 @@
     "pgm": "[재방] 에이스침대 침대 (리빙)"
    },
    {
-    "start": "15:00",
-    "end": "15:59",
-    "brand": "리딩게이트",
-    "product": "온라인 영어 독서 프로그램 12개월 이용권",
-    "price": 197500,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248587828",
-    "slot_id": "202611156013",
-    "items": [
-     {
-      "brand": "리딩게이트",
-      "product": "온라인 영어 독서 프로그램 12개월 이용권",
-      "price": 197500,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248587828"
-     }
-    ],
-    "title": "[리딩게이트/하이도도] 영어 독서 교육 핫딜 찬스!",
-    "pgm": "[재방] 리딩게이트 독서교육 (렌탈)"
-   },
-   {
     "start": "16:00",
     "end": "16:59",
     "brand": "골든클레프",
@@ -1697,25 +1678,6 @@
     "pgm": "[재방] 삼익가구 (리빙팀)"
    },
    {
-    "start": "21:00",
-    "end": "21:59",
-    "brand": "코아시스",
-    "product": "[에따리브르도랑쥬] 유 오어 썸원 라이크 유 EDP 30ml +  2ML x 4종 키트",
-    "price": 93600,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257928197",
-    "slot_id": "202611156008",
-    "items": [
-     {
-      "brand": "코아시스",
-      "product": "[에따리브르도랑쥬] 유 오어 썸원 라이크 유 EDP 30ml +  2ML x 4종 키트",
-      "price": 93600,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257928197"
-     }
-    ],
-    "title": "[에따 리브르 도랑쥬] 프랑스 니치향수 포근 겨울향",
-    "pgm": "[코아시스] 에따리브르 도랑쥬 향수 (뷰티브랜드)"
-   },
-   {
     "start": "22:00",
     "end": "22:59",
     "brand": "에바큐브",
@@ -1733,25 +1695,6 @@
     ],
     "title": "에바큐브 신상 캐시미어 반값 혜택",
     "pgm": "[에바큐브] 의류 (패션2Lab)"
-   },
-   {
-    "start": "23:00",
-    "end": "23:59",
-    "brand": "주크",
-    "product": "알파카 블렌디드 부클 하프코트 Z264MSG305 Z264MSG305",
-    "price": 359400,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257768019",
-    "slot_id": "202611156010",
-    "items": [
-     {
-      "brand": "주크",
-      "product": "알파카 블렌디드 부클 하프코트 Z264MSG305 Z264MSG305",
-      "price": 359400,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257768019"
-     }
-    ],
-    "title": "아우터 맛집, 쥬크✨ 26FW 방송 특별가 OPEN",
-    "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ],
   "2026-11-16": [
@@ -2020,6 +1963,25 @@
     ],
     "title": "[세라젬] 블프 특집 방송 단 1시간의 핫딜 찬스🎁",
     "pgm": "[세라젬] 안마의자 (렌탈)"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "유스트",
+    "product": "[스위스유스트] 백노삼 80 세트",
+    "price": 177000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255599418",
+    "slot_id": "202611166018",
+    "items": [
+     {
+      "brand": "유스트",
+      "product": "[스위스유스트] 백노삼 80 세트",
+      "price": 177000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255599418"
+     }
+    ],
+    "title": "허브 테라피 명가, 스위스 유스트 최대 28% 혜택",
+    "pgm": "[재방] 유스트 (멀티커머스)"
    },
    {
     "start": "20:00",
@@ -2429,14 +2391,14 @@
     "end": "07:59",
     "brand": "MCRN",
     "product": "[mcrn] (SET세트) 핑거탭+핸드스트랩(샤이닝카페) 폰스트랩",
-    "price": 42750,
+    "price": 45000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2245437802",
     "slot_id": "202611186020",
     "items": [
      {
       "brand": "MCRN",
       "product": "[mcrn] (SET세트) 핑거탭+핸드스트랩(샤이닝카페) 폰스트랩",
-      "price": 42750,
+      "price": 45000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2245437802"
      }
     ],
@@ -2678,14 +2640,14 @@
     "end": "09:59",
     "brand": "티르리르",
     "product": "14K 핑크골드 리엘 러브듀 랩다이아 귀걸이 TEPK4P00325S-LGD TEPK4P00325S-LGD",
-    "price": 461300,
+    "price": 659000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256137623",
     "slot_id": "202611196003",
     "items": [
      {
       "brand": "티르리르",
       "product": "14K 핑크골드 리엘 러브듀 랩다이아 귀걸이 TEPK4P00325S-LGD TEPK4P00325S-LGD",
-      "price": 461300,
+      "price": 659000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256137623"
      }
     ],
@@ -2790,6 +2752,24 @@
     "pgm": "[까사리날디] 발사믹 (일반식품2)"
    },
    {
+    "start": "16:00",
+    "end": "16:59",
+    "brand": "캘빈클라인",
+    "product": "[캘빈클라인 진] 여성 글로시 크롭 다운(47D510G) 47D510G",
+    "price": 173750,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2241592477",
+    "slot_id": "202611206009",
+    "items": [
+     {
+      "brand": "캘빈클라인",
+      "product": "[캘빈클라인 진] 여성 글로시 크롭 다운(47D510G) 47D510G",
+      "price": 173750,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2241592477"
+     }
+    ],
+    "title": "캘빈클라인진 방송중 최대 70%OFF"
+   },
+   {
     "start": "19:00",
     "end": "19:59",
     "brand": "질바이질스튜어트",
@@ -2826,6 +2806,65 @@
     ],
     "title": "김포현대아울렛 시슬리💙윈터 이너~아우터 ~86%▼",
     "pgm": "[시슬리] 여성의류 (멀티커머스)"
+   }
+  ],
+  "2026-11-21": [
+   {
+    "start": "14:00",
+    "end": "14:59",
+    "brand": "스타우브",
+    "product": "알라딘 팟 24cm 블랙",
+    "price": 559000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252532565",
+    "slot_id": "202611216006",
+    "items": [
+     {
+      "brand": "스타우브",
+      "product": "알라딘 팟 24cm 블랙",
+      "price": 559000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252532565"
+     }
+    ],
+    "title": "[스타우브] 백화점 동일상품& 꼬깔 손잡이 증정🔥",
+    "pgm": "[집방] 스타우브 냄비 (주방)"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "헤르마",
+    "product": "쿠아 토트백 _10컬러",
+    "price": 264000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2231249924",
+    "slot_id": "202611216010",
+    "items": [
+     {
+      "brand": "헤르마",
+      "product": "쿠아 토트백 _10컬러",
+      "price": 264000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2231249924"
+     }
+    ],
+    "title": "[헤르마] 유명 여배우 데일리백 쇼핑 찬스👜",
+    "pgm": "[헤르마] 잡화 (패션잡화)"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "타미힐피거",
+    "product": "[타미진] 여성  나일론 덕다운 푸퍼 T32G7QJC23TWL1 T32G7QJC23TWL1",
+    "price": 319000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254842866",
+    "slot_id": "202611216011",
+    "items": [
+     {
+      "brand": "타미힐피거",
+      "product": "[타미진] 여성  나일론 덕다운 푸퍼 T32G7QJC23TWL1 T32G7QJC23TWL1",
+      "price": 319000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254842866"
+     }
+    ],
+    "title": "타미진 겨울 신상 방송중 20%쿠폰!",
+    "pgm": "백구쇼 (멀티커머스)"
    }
   ]
  }
