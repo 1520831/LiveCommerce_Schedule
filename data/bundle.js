@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-15T20:33:22+09:00",
+ "generated_at": "2026-11-15T21:00:11+09:00",
  "today": "2026-11-15",
  "dates": [
   "2026-11-14",
@@ -2206,7 +2206,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "0146",
      "category": "여성패션",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -2445,7 +2445,7 @@ window.SCHEDULE = {
      "pgm": "그루의 비밀 옷장",
      "pgm_cd": "1140",
      "category": "여성패션",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "19:00",
@@ -8639,7 +8639,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 9
+     "hot": 5
     },
     {
      "start": "20:00",
