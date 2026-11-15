@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-16T08:28:55+09:00",
+ "generated_at": "2026-11-16T08:40:19+09:00",
  "today": "2026-11-16",
  "dates": [
   "2026-11-15",
@@ -340,7 +340,7 @@ window.SCHEDULE = {
      ],
      "title": "머티리얼랩 26 WINTER 최초 공개",
      "pgm": "[재방] 머티리얼랩 (패션3Lab)",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "07:00",
@@ -5765,7 +5765,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "01:10",
@@ -6148,7 +6148,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 8
     },
     {
      "start": "09:00",
@@ -21482,7 +21483,8 @@ window.SCHEDULE = {
      "slot_id": "61662",
      "pgm": "피지모락셀라 겨울철 실내건조",
      "title": "쉰내제거 43%할인+증정",
-     "category": "리빙"
+     "category": "리빙",
+     "hot": 3
     },
     {
      "start": "08:30",
@@ -23111,8 +23113,8 @@ window.SCHEDULE = {
    "2026-11-15",
    "2026-11-16"
   ],
-  "matched": 11,
-  "unmatched": 9
+  "matched": 13,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
