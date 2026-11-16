@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-16T10:20:09+09:00",
+ "generated_at": "2026-11-16T10:40:08+09:00",
  "today": "2026-11-16",
  "dates": [
   "2026-11-15",
@@ -416,7 +416,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 톰브라운 가디건 월 2만원대",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -1959,8 +1959,7 @@ window.SCHEDULE = {
      "pgm": "잇솔지",
      "pgm_cd": "1109",
      "category": "여성패션",
-     "cast": "influencer",
-     "hot": 8
+     "cast": "influencer"
     },
     {
      "start": "09:15",
@@ -6339,7 +6338,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 9
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -6518,7 +6517,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 10
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -7101,7 +7100,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -7284,7 +7283,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -21488,7 +21488,7 @@ window.SCHEDULE = {
      "pgm": "피지모락셀라 겨울철 실내건조",
      "title": "쉰내제거 43%할인+증정",
      "category": "리빙",
-     "hot": 4
+     "hot": 8
     },
     {
      "start": "08:30",
