@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-17T08:05:31+09:00",
+ "generated_at": "2026-11-17T08:20:11+09:00",
  "today": "2026-11-17",
  "dates": [
   "2026-11-16",
@@ -436,7 +436,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 몽클레어 후드 패딩 월 3만원대 득템찬스",
      "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "07:00",
@@ -456,7 +456,7 @@ window.SCHEDULE = {
      ],
      "title": "⏰잠시 후 종료! 알레보 라이브 특별가",
      "pgm": "[재방] 알레보 (P.D.Lab)",
-     "hot": 5
+     "hot": 8
     },
     {
      "start": "08:00",
@@ -2143,7 +2143,7 @@ window.SCHEDULE = {
      "pgm_cd": "1109",
      "category": "여성패션",
      "cast": "influencer",
-     "hot": 10
+     "hot": 1
     },
     {
      "start": "09:00",
@@ -22735,7 +22735,7 @@ window.SCHEDULE = {
    "2026-11-17"
   ],
   "matched": 10,
-  "unmatched": 9
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
