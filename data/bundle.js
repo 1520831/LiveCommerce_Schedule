@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-16T10:40:08+09:00",
+ "generated_at": "2026-11-16T11:00:10+09:00",
  "today": "2026-11-16",
  "dates": [
   "2026-11-15",
@@ -1973,7 +1973,7 @@ window.SCHEDULE = {
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
      "category": "잡화·슈즈",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -6338,7 +6338,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -6467,7 +6467,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -6517,7 +6517,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 9
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -7100,7 +7100,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -21488,7 +21488,7 @@ window.SCHEDULE = {
      "pgm": "피지모락셀라 겨울철 실내건조",
      "title": "쉰내제거 43%할인+증정",
      "category": "리빙",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "08:30",
