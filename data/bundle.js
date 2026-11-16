@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-17T08:20:11+09:00",
+ "generated_at": "2026-11-17T08:40:35+09:00",
  "today": "2026-11-17",
  "dates": [
   "2026-11-16",
@@ -435,8 +435,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 몽클레어 후드 패딩 월 3만원대 득템찬스",
-     "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 6
+     "pgm": "[재방] 투명쇼 (패션잡화)"
     },
     {
      "start": "07:00",
@@ -455,8 +454,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "⏰잠시 후 종료! 알레보 라이브 특별가",
-     "pgm": "[재방] 알레보 (P.D.Lab)",
-     "hot": 8
+     "pgm": "[재방] 알레보 (P.D.Lab)"
     },
     {
      "start": "08:00",
@@ -21251,7 +21249,8 @@ window.SCHEDULE = {
      "slot_id": "61522",
      "pgm": "웅진 인기음료 총집합!",
      "title": "과즙 팡팡 라이브",
-     "category": "식품"
+     "category": "식품",
+     "hot": 3
     },
     {
      "start": "08:30",
@@ -21263,7 +21262,8 @@ window.SCHEDULE = {
      "slot_id": "61529",
      "pgm": "덴프스 1년에 단 한 번!",
      "title": "Origin특집 마지막 특가",
-     "category": "식품"
+     "category": "식품",
+     "hot": 5
     },
     {
      "start": "08:30",
@@ -21275,7 +21275,8 @@ window.SCHEDULE = {
      "slot_id": "61690",
      "pgm": "프로쉬 NEW 식기세척기",
      "title": "액체세제 론칭 기념 라이브",
-     "category": "리빙"
+     "category": "리빙",
+     "hot": 2
     },
     {
      "start": "08:30",
@@ -22734,8 +22735,8 @@ window.SCHEDULE = {
    "2026-11-16",
    "2026-11-17"
   ],
-  "matched": 10,
-  "unmatched": 8
+  "matched": 11,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
