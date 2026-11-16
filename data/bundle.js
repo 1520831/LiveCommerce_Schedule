@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-16T11:00:10+09:00",
+ "generated_at": "2026-11-16T11:20:10+09:00",
  "today": "2026-11-16",
  "dates": [
   "2026-11-15",
@@ -416,7 +416,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 톰브라운 가디건 월 2만원대",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -1973,7 +1973,7 @@ window.SCHEDULE = {
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
      "category": "잡화·슈즈",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -2065,7 +2065,8 @@ window.SCHEDULE = {
      "title": "미국 프리미엄 나이프 브랜드 <컷코> 단독론칭기념 역대 최대할인!⚡",
      "pgm": "까사림의 감성하우스",
      "pgm_cd": "1068",
-     "cast": "influencer"
+     "cast": "influencer",
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -6338,7 +6339,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -6467,7 +6468,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -6516,8 +6517,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 8
+     "category": "푸드"
     },
     {
      "start": "10:00",
@@ -7100,7 +7100,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -7283,8 +7283,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -7706,7 +7705,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -8042,7 +8042,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -21487,8 +21488,7 @@ window.SCHEDULE = {
      "slot_id": "61662",
      "pgm": "피지모락셀라 겨울철 실내건조",
      "title": "쉰내제거 43%할인+증정",
-     "category": "리빙",
-     "hot": 9
+     "category": "리빙"
     },
     {
      "start": "08:30",
