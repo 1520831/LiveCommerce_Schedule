@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-16T08:40:19+09:00",
+ "generated_at": "2026-11-16T09:00:11+09:00",
  "today": "2026-11-16",
  "dates": [
   "2026-11-15",
@@ -339,8 +339,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "머티리얼랩 26 WINTER 최초 공개",
-     "pgm": "[재방] 머티리얼랩 (패션3Lab)",
-     "hot": 10
+     "pgm": "[재방] 머티리얼랩 (패션3Lab)"
     },
     {
      "start": "07:00",
@@ -379,7 +378,7 @@ window.SCHEDULE = {
      ],
      "title": "[닥스] 신상 클래식 기모 셔츠 LIVE",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "09:00",
@@ -1961,7 +1960,7 @@ window.SCHEDULE = {
      "pgm_cd": "1109",
      "category": "여성패션",
      "cast": "influencer",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "09:15",
@@ -5764,8 +5763,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "01:10",
@@ -6148,8 +6146,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 8
+     "category": "테크"
     },
     {
      "start": "09:00",
@@ -21459,7 +21456,8 @@ window.SCHEDULE = {
      "slot_id": "61273",
      "pgm": "매일유업 식단관리템 특집",
      "title": "아몬드브리즈&콩물두유 증정",
-     "category": "식품"
+     "category": "식품",
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -21471,7 +21469,8 @@ window.SCHEDULE = {
      "slot_id": "61443",
      "pgm": "비플레인 블랙프라이데이",
      "title": "비플블프 깜짝 파격세일!",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 5
     },
     {
      "start": "08:30",
@@ -21484,7 +21483,7 @@ window.SCHEDULE = {
      "pgm": "피지모락셀라 겨울철 실내건조",
      "title": "쉰내제거 43%할인+증정",
      "category": "리빙",
-     "hot": 3
+     "hot": 1
     },
     {
      "start": "08:30",
@@ -21496,7 +21495,8 @@ window.SCHEDULE = {
      "slot_id": "61786",
      "pgm": "스킨푸드 마스크&패드 쟁이기",
      "title": "5만원 이상 토닝크림 증정",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 7
     },
     {
      "start": "10:00",
