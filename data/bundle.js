@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-16T09:00:11+09:00",
+ "generated_at": "2026-11-16T09:20:09+09:00",
  "today": "2026-11-16",
  "dates": [
   "2026-11-15",
@@ -378,7 +378,7 @@ window.SCHEDULE = {
      ],
      "title": "[닥스] 신상 클래식 기모 셔츠 LIVE",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "09:00",
@@ -1960,7 +1960,7 @@ window.SCHEDULE = {
      "pgm_cd": "1109",
      "category": "여성패션",
      "cast": "influencer",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "09:15",
@@ -1973,7 +1973,8 @@ window.SCHEDULE = {
      "title": "💖지스튜디오 FW 신상 최초공개!",
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
-     "category": "잡화·슈즈"
+     "category": "잡화·슈즈",
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -6163,7 +6164,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 8
     },
     {
      "start": "09:00",
@@ -21457,7 +21459,7 @@ window.SCHEDULE = {
      "pgm": "매일유업 식단관리템 특집",
      "title": "아몬드브리즈&콩물두유 증정",
      "category": "식품",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "08:30",
@@ -21470,7 +21472,7 @@ window.SCHEDULE = {
      "pgm": "비플레인 블랙프라이데이",
      "title": "비플블프 깜짝 파격세일!",
      "category": "뷰티",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "08:30",
@@ -21496,7 +21498,7 @@ window.SCHEDULE = {
      "pgm": "스킨푸드 마스크&패드 쟁이기",
      "title": "5만원 이상 토닝크림 증정",
      "category": "뷰티",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -23113,8 +23115,8 @@ window.SCHEDULE = {
    "2026-11-15",
    "2026-11-16"
   ],
-  "matched": 13,
-  "unmatched": 7
+  "matched": 15,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
