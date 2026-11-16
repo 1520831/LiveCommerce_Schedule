@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-16T11:20:10+09:00",
+ "generated_at": "2026-11-16T11:40:10+09:00",
  "today": "2026-11-16",
  "dates": [
   "2026-11-15",
@@ -416,7 +416,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 톰브라운 가디건 월 2만원대",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -1973,7 +1973,7 @@ window.SCHEDULE = {
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
      "category": "잡화·슈즈",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -6339,7 +6339,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -6468,7 +6468,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -7099,8 +7099,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈",
-     "hot": 9
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -8043,7 +8042,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 10
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -8181,7 +8180,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 6
     },
     {
      "start": "11:00",
