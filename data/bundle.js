@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-16T11:40:10+09:00",
+ "generated_at": "2026-11-16T12:00:13+09:00",
  "today": "2026-11-16",
  "dates": [
   "2026-11-15",
@@ -415,8 +415,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 톰브라운 가디건 월 2만원대",
-     "pgm": "투명쇼 (패션잡화)",
-     "hot": 8
+     "pgm": "투명쇼 (패션잡화)"
     },
     {
      "start": "11:00",
@@ -435,7 +434,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[노블리타] 18K 반값이상▼ 한정수량 오픈!",
-     "pgm": "노블리타 (노블레스)"
+     "pgm": "노블리타 (노블레스)",
+     "hot": 9
     },
     {
      "start": "12:00",
@@ -1972,8 +1972,7 @@ window.SCHEDULE = {
      "title": "💖지스튜디오 FW 신상 최초공개!",
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
-     "category": "잡화·슈즈",
-     "hot": 9
+     "category": "잡화·슈즈"
     },
     {
      "start": "10:00",
@@ -6339,7 +6338,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -6467,8 +6466,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈",
-     "hot": 10
+     "category": "키즈"
     },
     {
      "start": "10:00",
@@ -8539,7 +8537,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -20706,7 +20705,8 @@ window.SCHEDULE = {
      "slot_id": "259453",
      "pgm": "[앵콜]💜빅스마일데이XLG가전 마지막 특가!",
      "rerun": true,
-     "category": "가전"
+     "category": "가전",
+     "hot": 8
     },
     {
      "start": "11:00",
