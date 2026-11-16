@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-16T10:00:10+09:00",
+ "generated_at": "2026-11-16T10:20:09+09:00",
  "today": "2026-11-16",
  "dates": [
   "2026-11-15",
@@ -377,8 +377,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[닥스] 신상 클래식 기모 셔츠 LIVE",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 5
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "09:00",
@@ -397,8 +396,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "타미힐피거여성 20% 쿠폰 + 7% 카드할인❤️",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 7
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "10:00",
@@ -417,7 +415,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 톰브라운 가디건 월 2만원대",
-     "pgm": "투명쇼 (패션잡화)"
+     "pgm": "투명쇼 (패션잡화)",
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -1961,7 +1960,7 @@ window.SCHEDULE = {
      "pgm_cd": "1109",
      "category": "여성패션",
      "cast": "influencer",
-     "hot": 3
+     "hot": 8
     },
     {
      "start": "09:15",
@@ -1975,7 +1974,7 @@ window.SCHEDULE = {
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
      "category": "잡화·슈즈",
-     "hot": 1
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -6148,8 +6147,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 4
+     "category": "테크"
     },
     {
      "start": "09:00",
@@ -6166,8 +6164,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 8
+     "category": "푸드"
     },
     {
      "start": "09:00",
@@ -6341,7 +6338,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -6469,7 +6467,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -6518,7 +6517,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -6763,7 +6763,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -6990,7 +6991,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -7098,7 +7100,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -21460,8 +21463,7 @@ window.SCHEDULE = {
      "slot_id": "61273",
      "pgm": "매일유업 식단관리템 특집",
      "title": "아몬드브리즈&콩물두유 증정",
-     "category": "식품",
-     "hot": 6
+     "category": "식품"
     },
     {
      "start": "08:30",
@@ -21486,7 +21488,7 @@ window.SCHEDULE = {
      "pgm": "피지모락셀라 겨울철 실내건조",
      "title": "쉰내제거 43%할인+증정",
      "category": "리빙",
-     "hot": 2
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -23115,8 +23117,8 @@ window.SCHEDULE = {
    "2026-11-15",
    "2026-11-16"
   ],
-  "matched": 15,
-  "unmatched": 5
+  "matched": 17,
+  "unmatched": 3
  },
  "fixed": {
   "rows": [
