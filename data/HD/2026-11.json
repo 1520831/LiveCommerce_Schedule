@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-11",
- "updated_at": "2026-11-16T08:27:20+09:00",
+ "updated_at": "2026-11-16T12:01:53+09:00",
  "days": {
   "2026-11-11": [
    {
@@ -1586,14 +1586,14 @@
     "start": "17:00",
     "end": "17:59",
     "brand": "다우닝가구",
-    "product": "[다우닝] 클로 3인 전체 천연가죽 소파 [11/15일 17시 상품권5만+클리너]",
+    "product": "[다우닝] 클로 3인 전체 천연가죽 소파",
     "price": 1980000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2240411570",
     "slot_id": "202611156012",
     "items": [
      {
       "brand": "다우닝가구",
-      "product": "[다우닝] 클로 3인 전체 천연가죽 소파 [11/15일 17시 상품권5만+클리너]",
+      "product": "[다우닝] 클로 3인 전체 천연가죽 소파",
       "price": 1980000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2240411570"
      }
@@ -1855,14 +1855,14 @@
     "end": "14:59",
     "brand": "지센",
     "product": "(3컬러) 구스 다운 밴드넥 자켓 여성 경량 패딩 LCLWOA22",
-    "price": 85600,
+    "price": 57000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256324210",
     "slot_id": "202611166007",
     "items": [
      {
       "brand": "지센",
       "product": "(3컬러) 구스 다운 밴드넥 자켓 여성 경량 패딩 LCLWOA22",
-      "price": 85600,
+      "price": 57000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256324210"
      }
     ],
@@ -1892,14 +1892,14 @@
     "start": "16:00",
     "end": "16:59",
     "brand": "니콘",
-    "product": "Z5IIC Body(렌즈미포함) 블랙/실버",
+    "product": "니콘 Z5IIC Body(렌즈미포함) 블랙/실버+H Point 5만",
     "price": 1980000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257294275",
     "slot_id": "202611166009",
     "items": [
      {
       "brand": "니콘",
-      "product": "Z5IIC Body(렌즈미포함) 블랙/실버",
+      "product": "니콘 Z5IIC Body(렌즈미포함) 블랙/실버+H Point 5만",
       "price": 1980000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257294275"
      }
@@ -2372,14 +2372,14 @@
     "end": "00:59",
     "brand": "한민금거래소",
     "product": "[LIVE.한민금거래소] 사랑 카드 골드바 24K 순금 3.75g",
-    "price": 864500,
+    "price": 857800,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967998",
     "slot_id": "202611186019",
     "items": [
      {
       "brand": "한민금거래소",
       "product": "[LIVE.한민금거래소] 사랑 카드 골드바 24K 순금 3.75g",
-      "price": 864500,
+      "price": 857800,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967998"
      }
     ],
@@ -2404,6 +2404,25 @@
     ],
     "title": "[MCRN] 핸드메이드 폰스트랩 쇼핑 찬스💖",
     "pgm": "[재방] MCRN 휴대폰스트랩 (패션잡화)"
+   },
+   {
+    "start": "08:00",
+    "end": "08:59",
+    "brand": "보니스팍스",
+    "product": "코듀로이 모자 B1G47AHT030 B1G47AHT030",
+    "price": 25000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257768510",
+    "slot_id": "202611186001",
+    "items": [
+     {
+      "brand": "보니스팍스",
+      "product": "코듀로이 모자 B1G47AHT030 B1G47AHT030",
+      "price": 25000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257768510"
+     }
+    ],
+    "title": "올 겨울 데일리룩 완성! 보니스팍스 최저가 도전!",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
    },
    {
     "start": "09:00",
@@ -2632,7 +2651,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2245259758"
      }
     ],
-    "title": "[레노마캐주얼] 데일리│비즈니스 겨울 코디 LIVE",
+    "title": "[레노마캐주얼] 데일리 | 비즈니스 겨울 코디 LIVE",
     "pgm": "백화점 프리오픈쇼(멀티커머스)"
    },
    {
@@ -2653,6 +2672,25 @@
     ],
     "title": "[티르리르] 신상 공개! 연말모임 주얼리 추천",
     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "아이러브경북",
+    "product": "현이네농원 송화고버섯 가정용 500g",
+    "price": 19400,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251178837",
+    "slot_id": "202611196005",
+    "items": [
+     {
+      "brand": "아이러브경북",
+      "product": "현이네농원 송화고버섯 가정용 500g",
+      "price": 19400,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251178837"
+     }
+    ],
+    "title": "건강한 집밥! 국내산 표고버섯 & 청국장",
+    "pgm": "[위팩토리] 청국장/버섯 (일반식품2)"
    },
    {
     "start": "12:00",
@@ -2708,7 +2746,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2217694768"
      }
     ],
-    "title": "경동 카본매트 홈쇼핑 라이브 특별혜택",
+    "title": "경동 카본매트 홈쇼핑 라이브 특별 혜택",
     "pgm": "[경동] 온열매트 (가전)"
    },
    {
@@ -2727,8 +2765,46 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257719039"
      }
     ],
-    "title": "샹테카이 26 홀리데이 한정판매 최대 32%",
+    "title": "샹테카이 26 홀리데이 한정판매 최대 32%▼",
     "pgm": "초밀착뷰티쇼 (뷰티)"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "지호의식탁",
+    "product": "제주용암해수 보쌈김치3kg+나박김치1kg",
+    "price": 34900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258039004",
+    "slot_id": "202611196015",
+    "items": [
+     {
+      "brand": "지호의식탁",
+      "product": "제주용암해수 보쌈김치3kg+나박김치1kg",
+      "price": 34900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258039004"
+     }
+    ],
+    "title": "[지호의식탁] 배우 심지호 출연! 제주용암해수 김치",
+    "pgm": "[지호의 식탁] 김치 (쇼핑라이브)"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "루블리",
+    "product": "[루블리] GRA 인증 정품 모이사나이트 1캐럿 이태리체인 목걸이+1캐럿 귀걸이 세트",
+    "price": 238000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258046627",
+    "slot_id": "202611196016",
+    "items": [
+     {
+      "brand": "루블리",
+      "product": "[루블리] GRA 인증 정품 모이사나이트 1캐럿 이태리체인 목걸이+1캐럿 귀걸이 세트",
+      "price": 238000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258046627"
+     }
+    ],
+    "title": "[루블리주얼리] 이태리주얼리 쇼라 최저가 도전!",
+    "pgm": "[루블리] 주얼리 (멀티커머스)"
    }
   ],
   "2026-11-20": [
@@ -2767,7 +2843,8 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2241592477"
      }
     ],
-    "title": "캘빈클라인진 방송중 최대 70%OFF"
+    "title": "캘빈클라인진 방송중 최대 70%OFF",
+    "pgm": "[CK진] 의류 (멀티커머스)"
    },
    {
     "start": "19:00",
@@ -2806,6 +2883,25 @@
     ],
     "title": "김포현대아울렛 시슬리💙윈터 이너~아우터 ~86%▼",
     "pgm": "[시슬리] 여성의류 (멀티커머스)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "듀엘",
+    "product": "[아울렛] 캐시미어 블렌디드 롱코트 _L264FSH501 L264FSH501",
+    "price": 489300,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257939070",
+    "slot_id": "202611206016",
+    "items": [
+     {
+      "brand": "듀엘",
+      "product": "[아울렛] 캐시미어 블렌디드 롱코트 _L264FSH501 L264FSH501",
+      "price": 489300,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257939070"
+     }
+    ],
+    "title": "김포현대아울렛 듀엘💙 아우터 UP TO 44%▼",
+    "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ],
   "2026-11-21": [
