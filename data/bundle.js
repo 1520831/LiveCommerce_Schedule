@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-17T08:03:51+09:00",
+ "generated_at": "2026-11-17T08:05:31+09:00",
  "today": "2026-11-17",
  "dates": [
   "2026-11-16",
@@ -2142,7 +2142,8 @@ window.SCHEDULE = {
      "pgm": "잇솔지",
      "pgm_cd": "1109",
      "category": "여성패션",
-     "cast": "influencer"
+     "cast": "influencer",
+     "hot": 10
     },
     {
      "start": "09:00",
@@ -22733,8 +22734,8 @@ window.SCHEDULE = {
    "2026-11-16",
    "2026-11-17"
   ],
-  "matched": 9,
-  "unmatched": 10
+  "matched": 10,
+  "unmatched": 9
  },
  "fixed": {
   "rows": [
