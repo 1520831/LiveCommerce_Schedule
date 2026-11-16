@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-16T09:20:09+09:00",
+ "generated_at": "2026-11-16T09:40:09+09:00",
  "today": "2026-11-16",
  "dates": [
   "2026-11-15",
@@ -1974,7 +1974,7 @@ window.SCHEDULE = {
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
      "category": "잡화·슈즈",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -6165,7 +6165,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 8
+     "hot": 6
     },
     {
      "start": "09:00",
@@ -21472,7 +21472,7 @@ window.SCHEDULE = {
      "pgm": "비플레인 블랙프라이데이",
      "title": "비플블프 깜짝 파격세일!",
      "category": "뷰티",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "08:30",
@@ -21485,7 +21485,7 @@ window.SCHEDULE = {
      "pgm": "피지모락셀라 겨울철 실내건조",
      "title": "쉰내제거 43%할인+증정",
      "category": "리빙",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "08:30",
@@ -21498,7 +21498,7 @@ window.SCHEDULE = {
      "pgm": "스킨푸드 마스크&패드 쟁이기",
      "title": "5만원 이상 토닝크림 증정",
      "category": "뷰티",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "10:00",
