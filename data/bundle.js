@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-16T09:40:09+09:00",
+ "generated_at": "2026-11-16T10:00:10+09:00",
  "today": "2026-11-16",
  "dates": [
   "2026-11-15",
@@ -378,7 +378,7 @@ window.SCHEDULE = {
      ],
      "title": "[닥스] 신상 클래식 기모 셔츠 LIVE",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "09:00",
@@ -397,7 +397,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "타미힐피거여성 20% 쿠폰 + 7% 카드할인❤️",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -6147,7 +6148,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 4
     },
     {
      "start": "09:00",
@@ -6165,7 +6167,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "09:00",
@@ -21459,7 +21461,7 @@ window.SCHEDULE = {
      "pgm": "매일유업 식단관리템 특집",
      "title": "아몬드브리즈&콩물두유 증정",
      "category": "식품",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "08:30",
@@ -21471,8 +21473,7 @@ window.SCHEDULE = {
      "slot_id": "61443",
      "pgm": "비플레인 블랙프라이데이",
      "title": "비플블프 깜짝 파격세일!",
-     "category": "뷰티",
-     "hot": 9
+     "category": "뷰티"
     },
     {
      "start": "08:30",
@@ -21497,8 +21498,7 @@ window.SCHEDULE = {
      "slot_id": "61786",
      "pgm": "스킨푸드 마스크&패드 쟁이기",
      "title": "5만원 이상 토닝크림 증정",
-     "category": "뷰티",
-     "hot": 10
+     "category": "뷰티"
     },
     {
      "start": "10:00",
