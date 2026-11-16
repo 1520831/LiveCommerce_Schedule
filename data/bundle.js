@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-16T19:00:11+09:00",
+ "generated_at": "2026-11-16T20:00:12+09:00",
  "today": "2026-11-16",
  "dates": [
   "2026-11-15",
@@ -415,8 +415,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 톰브라운 가디건 월 2만원대",
-     "pgm": "투명쇼 (패션잡화)",
-     "hot": 10
+     "pgm": "투명쇼 (패션잡화)"
     },
     {
      "start": "11:00",
@@ -435,8 +434,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[노블리타] 18K 반값이상▼ 한정수량 오픈!",
-     "pgm": "노블리타 (노블레스)",
-     "hot": 8
+     "pgm": "노블리타 (노블레스)"
     },
     {
      "start": "12:00",
@@ -2610,7 +2608,8 @@ window.SCHEDULE = {
      "title": "블프 최대혜택🖤 인스타360 루나, X6 역대급 특가! 경품까지!",
      "pgm": "라이브쇼",
      "pgm_cd": "0146",
-     "category": "가전"
+     "category": "가전",
+     "hot": 6
     },
     {
      "start": "19:00",
@@ -7795,7 +7794,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 5
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -8983,7 +8982,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 7
     },
     {
      "start": "14:00",
@@ -10432,7 +10431,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 9
     },
     {
      "start": "19:00",
@@ -23800,7 +23800,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]💜빅스마일데이XLG가전 마지막 특가!",
      "rerun": true,
      "category": "가전",
-     "hot": 6
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -24736,7 +24736,8 @@ window.SCHEDULE = {
      "slot_id": "61574",
      "pgm": "아디다스 본사 블프기념!",
      "title": "러닝화/패딩/자켓 외",
-     "category": "패션"
+     "category": "패션",
+     "hot": 4
     },
     {
      "start": "19:00",
@@ -26221,8 +26222,8 @@ window.SCHEDULE = {
    "2026-11-15",
    "2026-11-16"
   ],
-  "matched": 14,
-  "unmatched": 6
+  "matched": 15,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
