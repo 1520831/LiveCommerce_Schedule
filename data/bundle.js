@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-17T08:40:35+09:00",
+ "generated_at": "2026-11-17T09:00:20+09:00",
  "today": "2026-11-17",
  "dates": [
   "2026-11-16",
@@ -2141,7 +2141,7 @@ window.SCHEDULE = {
      "pgm_cd": "1109",
      "category": "여성패션",
      "cast": "influencer",
-     "hot": 1
+     "hot": 4
     },
     {
      "start": "09:00",
@@ -7714,7 +7714,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 8
     },
     {
      "start": "08:00",
@@ -21250,7 +21251,7 @@ window.SCHEDULE = {
      "pgm": "웅진 인기음료 총집합!",
      "title": "과즙 팡팡 라이브",
      "category": "식품",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "08:30",
@@ -21263,7 +21264,7 @@ window.SCHEDULE = {
      "pgm": "덴프스 1년에 단 한 번!",
      "title": "Origin특집 마지막 특가",
      "category": "식품",
-     "hot": 5
+     "hot": 3
     },
     {
      "start": "08:30",
@@ -21276,7 +21277,7 @@ window.SCHEDULE = {
      "pgm": "프로쉬 NEW 식기세척기",
      "title": "액체세제 론칭 기념 라이브",
      "category": "리빙",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "08:30",
@@ -22735,8 +22736,8 @@ window.SCHEDULE = {
    "2026-11-16",
    "2026-11-17"
   ],
-  "matched": 11,
-  "unmatched": 7
+  "matched": 12,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
