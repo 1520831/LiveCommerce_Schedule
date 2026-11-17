@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-17T20:00:57+09:00",
+ "generated_at": "2026-11-17T21:00:14+09:00",
  "today": "2026-11-17",
  "dates": [
   "2026-11-16",
@@ -2596,8 +2596,7 @@ window.SCHEDULE = {
      "title": "로보락 S10 MaxV 울트라스팀 파격 할인전",
      "pgm": "라이브쇼",
      "pgm_cd": "1016",
-     "category": "가전",
-     "hot": 7
+     "category": "가전"
     },
     {
      "start": "18:00",
@@ -8381,7 +8380,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -8738,7 +8737,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 5
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -10915,7 +10914,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "19:00",
@@ -11077,7 +11076,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 6
+     "hot": 10
     },
     {
      "start": "19:00",
@@ -11612,8 +11611,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈",
-     "hot": 8
+     "category": "키즈"
     },
     {
      "start": "19:00",
@@ -11643,7 +11641,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "19:00",
@@ -11997,7 +11995,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 5
     },
     {
      "start": "20:00",
@@ -12222,7 +12221,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 7
     },
     {
      "start": "20:00",
@@ -24503,8 +24503,7 @@ window.SCHEDULE = {
      "slot_id": "260484",
      "pgm": "[앵콜] 삼성 AI가전💙스마일캐시 증정!",
      "rerun": true,
-     "category": "가전",
-     "hot": 9
+     "category": "가전"
     },
     {
      "start": "11:00",
@@ -25429,7 +25428,7 @@ window.SCHEDULE = {
      "pgm": "하기스 밤부&스킨에센셜 출시",
      "title": "신제품 기념 2+2팩 특가",
      "category": "키즈",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -26877,7 +26876,7 @@ window.SCHEDULE = {
    "2026-11-16",
    "2026-11-17"
   ],
-  "matched": 16,
+  "matched": 15,
   "unmatched": 4
  },
  "fixed": {
