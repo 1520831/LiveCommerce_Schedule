@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-17T18:03:03+09:00",
+ "generated_at": "2026-11-17T19:00:13+09:00",
  "today": "2026-11-17",
  "dates": [
   "2026-11-16",
@@ -2347,7 +2347,7 @@ window.SCHEDULE = {
      "pgm": "맘만하니",
      "pgm_cd": "1100",
      "category": "서비스·렌탈",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -2597,7 +2597,8 @@ window.SCHEDULE = {
      "title": "로보락 S10 MaxV 울트라스팀 파격 할인전",
      "pgm": "라이브쇼",
      "pgm_cd": "1016",
-     "category": "가전"
+     "category": "가전",
+     "hot": 4
     },
     {
      "start": "18:00",
@@ -9931,8 +9932,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "13:00",
@@ -24501,7 +24501,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜] 삼성 AI가전💙스마일캐시 증정!",
      "rerun": true,
      "category": "가전",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -25378,7 +25378,7 @@ window.SCHEDULE = {
      "pgm": "프로쉬 NEW 식기세척기",
      "title": "액체세제 론칭 기념 라이브",
      "category": "리빙",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "08:30",
