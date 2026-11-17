@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-17T10:00:12+09:00",
+ "generated_at": "2026-11-17T10:20:11+09:00",
  "today": "2026-11-17",
  "dates": [
   "2026-11-16",
@@ -492,8 +492,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[바바라슈즈] BEST 로퍼부터 부츠까지 쇼라 특별가",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 7
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "10:00",
@@ -2141,8 +2140,7 @@ window.SCHEDULE = {
      "pgm": "잇솔지",
      "pgm_cd": "1109",
      "category": "여성패션",
-     "cast": "influencer",
-     "hot": 4
+     "cast": "influencer"
     },
     {
      "start": "09:00",
@@ -2155,8 +2153,7 @@ window.SCHEDULE = {
      "title": "비키&이사베이 겨울시즌 CJ단독 라이브! 최대 87%할인",
      "pgm": "브랜디드 라이브쇼",
      "pgm_cd": "1130",
-     "category": "여성패션",
-     "hot": 10
+     "category": "여성패션"
     },
     {
      "start": "09:00",
@@ -2197,7 +2194,8 @@ window.SCHEDULE = {
      "title": "맘만하니🍀토도페스타 원서세트 증정! 단독 최저가🐧",
      "pgm": "맘만하니",
      "pgm_cd": "1100",
-     "category": "서비스·렌탈"
+     "category": "서비스·렌탈",
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -7716,8 +7714,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 8
+     "category": "테크"
     },
     {
      "start": "08:00",
@@ -7851,7 +7848,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 6
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -8482,7 +8479,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -8760,7 +8758,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 5
     },
     {
      "start": "10:30",
@@ -20401,7 +20400,8 @@ window.SCHEDULE = {
      "slot_id": "260484",
      "pgm": "[앵콜] 삼성 AI가전💙스마일캐시 증정!",
      "rerun": true,
-     "category": "가전"
+     "category": "가전",
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -21254,7 +21254,7 @@ window.SCHEDULE = {
      "pgm": "웅진 인기음료 총집합!",
      "title": "과즙 팡팡 라이브",
      "category": "식품",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "08:30",
@@ -21267,7 +21267,7 @@ window.SCHEDULE = {
      "pgm": "덴프스 1년에 단 한 번!",
      "title": "Origin특집 마지막 특가",
      "category": "식품",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -21280,7 +21280,7 @@ window.SCHEDULE = {
      "pgm": "프로쉬 NEW 식기세척기",
      "title": "액체세제 론칭 기념 라이브",
      "category": "리빙",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "08:30",
@@ -21304,7 +21304,8 @@ window.SCHEDULE = {
      "slot_id": "61555",
      "pgm": "그릭데이 11월 LIVE!",
      "title": "시그니처 바닐라 런칭 특가",
-     "category": "식품"
+     "category": "식품",
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -21328,7 +21329,8 @@ window.SCHEDULE = {
      "slot_id": "61693",
      "pgm": "하기스 밤부&스킨에센셜 출시",
      "title": "신제품 기념 2+2팩 특가",
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -22739,8 +22741,8 @@ window.SCHEDULE = {
    "2026-11-16",
    "2026-11-17"
   ],
-  "matched": 15,
-  "unmatched": 5
+  "matched": 17,
+  "unmatched": 3
  },
  "fixed": {
   "rows": [
