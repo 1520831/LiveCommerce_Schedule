@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-17T19:00:13+09:00",
+ "generated_at": "2026-11-17T20:00:57+09:00",
  "today": "2026-11-17",
  "dates": [
   "2026-11-16",
@@ -2346,8 +2346,7 @@ window.SCHEDULE = {
      "title": "맘만하니🍀토도페스타 원서세트 증정! 단독 최저가🐧",
      "pgm": "맘만하니",
      "pgm_cd": "1100",
-     "category": "서비스·렌탈",
-     "hot": 7
+     "category": "서비스·렌탈"
     },
     {
      "start": "10:00",
@@ -2598,7 +2597,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "1016",
      "category": "가전",
-     "hot": 4
+     "hot": 7
     },
     {
      "start": "18:00",
@@ -8382,7 +8381,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 1
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -8739,7 +8738,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -10915,7 +10914,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 2
     },
     {
      "start": "19:00",
@@ -11076,7 +11076,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 6
     },
     {
      "start": "19:00",
@@ -11611,7 +11612,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 8
     },
     {
      "start": "19:00",
@@ -11640,7 +11642,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 1
     },
     {
      "start": "19:00",
@@ -24501,7 +24504,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜] 삼성 AI가전💙스마일캐시 증정!",
      "rerun": true,
      "category": "가전",
-     "hot": 5
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -25377,8 +25380,7 @@ window.SCHEDULE = {
      "slot_id": "61690",
      "pgm": "프로쉬 NEW 식기세척기",
      "title": "액체세제 론칭 기념 라이브",
-     "category": "리빙",
-     "hot": 8
+     "category": "리빙"
     },
     {
      "start": "08:30",
@@ -25427,7 +25429,7 @@ window.SCHEDULE = {
      "pgm": "하기스 밤부&스킨에센셜 출시",
      "title": "신제품 기념 2+2팩 특가",
      "category": "키즈",
-     "hot": 2
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -26875,8 +26877,8 @@ window.SCHEDULE = {
    "2026-11-16",
    "2026-11-17"
   ],
-  "matched": 14,
-  "unmatched": 6
+  "matched": 16,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
