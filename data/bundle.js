@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-17T09:40:13+09:00",
+ "generated_at": "2026-11-17T10:00:12+09:00",
  "today": "2026-11-17",
  "dates": [
   "2026-11-16",
@@ -493,7 +493,7 @@ window.SCHEDULE = {
      ],
      "title": "[바바라슈즈] BEST 로퍼부터 부츠까지 쇼라 특별가",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 8
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -2155,7 +2155,8 @@ window.SCHEDULE = {
      "title": "비키&이사베이 겨울시즌 CJ단독 라이브! 최대 87%할인",
      "pgm": "브랜디드 라이브쇼",
      "pgm_cd": "1130",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 10
     },
     {
      "start": "09:00",
@@ -7716,7 +7717,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "08:00",
@@ -7849,7 +7850,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -22737,8 +22739,8 @@ window.SCHEDULE = {
    "2026-11-16",
    "2026-11-17"
   ],
-  "matched": 13,
-  "unmatched": 6
+  "matched": 15,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
