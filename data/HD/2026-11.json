@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-11",
- "updated_at": "2026-11-17T08:01:21+09:00",
+ "updated_at": "2026-11-17T12:00:54+09:00",
  "days": {
   "2026-11-11": [
    {
@@ -1741,14 +1741,14 @@
     "end": "08:59",
     "brand": "닥스",
     "product": "26년FW 기모 솔리드 남방 DMW3SHCL103-E1 DMW3SHCL103E1",
-    "price": 80000,
+    "price": 95000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253480832",
     "slot_id": "202611166001",
     "items": [
      {
       "brand": "닥스",
       "product": "26년FW 기모 솔리드 남방 DMW3SHCL103-E1 DMW3SHCL103E1",
-      "price": 80000,
+      "price": 95000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253480832"
      }
     ],
@@ -1892,14 +1892,14 @@
     "start": "16:00",
     "end": "16:59",
     "brand": "니콘",
-    "product": "니콘 Z5IIC Body(렌즈미포함) 블랙/실버+H Point 5만",
+    "product": "Z5IIC Body(렌즈미포함) 블랙/실버",
     "price": 1980000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257294275",
     "slot_id": "202611166009",
     "items": [
      {
       "brand": "니콘",
-      "product": "니콘 Z5IIC Body(렌즈미포함) 블랙/실버+H Point 5만",
+      "product": "Z5IIC Body(렌즈미포함) 블랙/실버",
       "price": 1980000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257294275"
      }
@@ -2199,14 +2199,14 @@
     "end": "12:59",
     "brand": "홀리라이크",
     "product": "[갈치2미] 제주 명품 특대 은갈치 1.2kg(600g×2마리)",
-    "price": 158000,
+    "price": 138000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253053916",
     "slot_id": "202611176006",
     "items": [
      {
       "brand": "홀리라이크",
       "product": "[갈치2미] 제주 명품 특대 은갈치 1.2kg(600g×2마리)",
-      "price": 158000,
+      "price": 138000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253053916"
      }
     ],
@@ -2385,6 +2385,25 @@
     "pgm": "[LG] 특별전 (가전)"
    },
    {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "보브",
+    "product": "울 블렌드 판초 하프 코트 7156416001 7156416001",
+    "price": 299250,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254302694",
+    "slot_id": "202611176022",
+    "items": [
+     {
+      "brand": "보브",
+      "product": "울 블렌드 판초 하프 코트 7156416001 7156416001",
+      "price": 299250,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254302694"
+     }
+    ],
+    "title": "[보브] 26FW 신상 아우터·이너 방송특별가 오픈❤️",
+    "pgm": "[재방] 보브 (멀티커머스)"
+   },
+   {
     "start": "22:00",
     "end": "22:59",
     "brand": "라인",
@@ -2486,14 +2505,14 @@
     "end": "09:59",
     "brand": "소다",
     "product": "여성 스트랩 플랫슈즈(ARF503LS10) ARF503LS10",
-    "price": 209300,
+    "price": 167400,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239891139",
     "slot_id": "202611186002",
     "items": [
      {
       "brand": "소다",
       "product": "여성 스트랩 플랫슈즈(ARF503LS10) ARF503LS10",
-      "price": 209300,
+      "price": 167400,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239891139"
      }
     ],
@@ -2612,7 +2631,7 @@
      }
     ],
     "title": "클래딘/쿠캔/PN풍년 주방용품 대방출 하루 특별가",
-    "pgm": "편성기획 삽입용 (편성)"
+    "pgm": "[잭슨코리아] PN풍년주방용품 (쇼핑라이브)"
    },
    {
     "start": "17:00",
@@ -2861,7 +2880,7 @@
      }
     ],
     "title": "[밋앤밀] 산지직송 고흥 유기농 유자 생과 론칭 특별가",
-    "pgm": "편성기획 삽입용 (편성)"
+    "pgm": "[잭슨코리아] 유자 (쇼핑라이브)"
    },
    {
     "start": "16:00",
@@ -2999,6 +3018,44 @@
   ],
   "2026-11-20": [
    {
+    "start": "08:00",
+    "end": "08:59",
+    "brand": "베네통",
+    "product": "[아울렛] 다이아 퀼팅 후드 패딩 점퍼 BAPDA3561 BAPDA3561",
+    "price": 279000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258117623",
+    "slot_id": "202611206001",
+    "items": [
+     {
+      "brand": "베네통",
+      "product": "[아울렛] 다이아 퀼팅 후드 패딩 점퍼 BAPDA3561 BAPDA3561",
+      "price": 279000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258117623"
+     }
+    ],
+    "title": "김포현대아울렛 베네통💙 UP TO 76%▼",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "디스커버리",
+    "product": "2025 F/W (DXRL21054)  마운틴 그래픽 기능 긴팔티 DXRL21054PG",
+    "price": 41400,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252717947",
+    "slot_id": "202611206002",
+    "items": [
+     {
+      "brand": "디스커버리",
+      "product": "2025 F/W (DXRL21054)  마운틴 그래픽 기능 긴팔티 DXRL21054PG",
+      "price": 41400,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252717947"
+     }
+    ],
+    "title": "[디스커버리] 쇼라 특별가 최대 쿠폰 + 카드 할인",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
     "start": "11:00",
     "end": "11:59",
     "brand": "카사리날디",
@@ -3014,7 +3071,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252316454"
      }
     ],
-    "title": "[까사리날디] 정통 프리미엄 발사믹 쇼라 특가",
+    "title": "[까사리날디] 정통 프리미엄 발사믹 쇼라 특별가",
     "pgm": "[까사리날디] 발사믹 (일반식품2)"
    },
    {
@@ -3033,8 +3090,8 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257543244"
      }
     ],
-    "title": "[밋앤밀]영주 산지직송 풍기금계 미얀마 부사사과 특가",
-    "pgm": "편성기획 삽입용 (편성)"
+    "title": "[밋앤밀] 영주 산지직송 풍기금계 미얀마 부사사과",
+    "pgm": "[잭슨코리아] 부사사과"
    },
    {
     "start": "16:00",
@@ -3052,8 +3109,27 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2241592477"
      }
     ],
-    "title": "캘빈클라인진 방송중 최대 70%OFF",
+    "title": "캘빈클라인진 방송 중 최대 70% OFF",
     "pgm": "[CK진] 의류 (멀티커머스)"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "라인",
+    "product": "[아울렛] 루엘 벨티트 블라우스 NVWBLQJ950 NVWBLQJ950",
+    "price": 79200,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258049313",
+    "slot_id": "202611206010",
+    "items": [
+     {
+      "brand": "라인",
+      "product": "[아울렛] 루엘 벨티트 블라우스 NVWBLQJ950 NVWBLQJ950",
+      "price": 79200,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258049313"
+     }
+    ],
+    "title": "김포현대아울렛 라인💙 UP TO 70%▼",
+    "pgm": "[라인] 의류 (멀티커머스)"
    },
    {
     "start": "19:00",
@@ -3071,7 +3147,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252839236"
      }
     ],
-    "title": "[LF 잡화] 겨울을 함께할 잡화 2만원대~ ❤️",
+    "title": "[LF 잡화] 겨울을 함께할 잡화 2만원대~❤️",
     "pgm": "[LF] 잡화 연합전 (패션잡화)"
    },
    {
@@ -3090,7 +3166,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257914392"
      }
     ],
-    "title": "김포현대아울렛 시슬리💙윈터 이너~아우터 ~86%▼",
+    "title": "김포현대아울렛 시슬리💙윈터 이너/아우터 ~86%▼",
     "pgm": "[시슬리] 여성의류 (멀티커머스)"
    },
    {
@@ -3109,7 +3185,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258054115"
      }
     ],
-    "title": "김포현대아울렛 럭키슈에뜨💙UP TO 68%▼",
+    "title": "김포현대아울렛 럭키슈에뜨💙 UP TO 68%▼",
     "pgm": "[럭키슈에뜨] 의류 (멀티커머스)"
    },
    {
@@ -3133,6 +3209,25 @@
    }
   ],
   "2026-11-21": [
+   {
+    "start": "07:00",
+    "end": "07:59",
+    "brand": "에클랏",
+    "product": "18K 루체아 네크리스",
+    "price": 1299000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2244631785",
+    "slot_id": "202611216014",
+    "items": [
+     {
+      "brand": "에클랏",
+      "product": "18K 루체아 네크리스",
+      "price": 1299000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2244631785"
+     }
+    ],
+    "title": "[노블리타] 18K 반값이상▼ 한정수량 오픈!",
+    "pgm": "[재방] 노블리타 (노블레스)"
+   },
    {
     "start": "10:00",
     "end": "10:59",
@@ -3249,6 +3344,25 @@
    }
   ],
   "2026-11-22": [
+   {
+    "start": "07:00",
+    "end": "07:59",
+    "brand": "에클랏",
+    "product": "18K 루체아 네크리스",
+    "price": 1299000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2244631785",
+    "slot_id": "202611226017",
+    "items": [
+     {
+      "brand": "에클랏",
+      "product": "18K 루체아 네크리스",
+      "price": 1299000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2244631785"
+     }
+    ],
+    "title": "[노블리타] 18K 반값이상▼ 한정수량 오픈!",
+    "pgm": "[재방] 노블리타 (노블레스)"
+   },
    {
     "start": "12:00",
     "end": "12:59",
