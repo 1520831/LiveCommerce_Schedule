@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-17T13:40:10+09:00",
+ "generated_at": "2026-11-17T14:00:30+09:00",
  "today": "2026-11-17",
  "dates": [
   "2026-11-16",
@@ -11560,7 +11560,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 10
     },
     {
      "start": "13:00",
@@ -24583,8 +24584,7 @@ window.SCHEDULE = {
      "slot_id": "61522",
      "pgm": "웅진 인기음료 총집합!",
      "title": "과즙 팡팡 라이브",
-     "category": "식품",
-     "hot": 10
+     "category": "식품"
     },
     {
      "start": "08:30",
