@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-17T21:00:14+09:00",
+ "generated_at": "2026-11-17T22:00:13+09:00",
  "today": "2026-11-17",
  "dates": [
   "2026-11-16",
@@ -2596,7 +2596,8 @@ window.SCHEDULE = {
      "title": "로보락 S10 MaxV 울트라스팀 파격 할인전",
      "pgm": "라이브쇼",
      "pgm_cd": "1016",
-     "category": "가전"
+     "category": "가전",
+     "hot": 10
     },
     {
      "start": "18:00",
@@ -8380,7 +8381,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -8737,7 +8738,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 9
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -10913,8 +10914,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 3
+     "category": "푸드"
     },
     {
      "start": "19:00",
@@ -11076,7 +11076,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 10
+     "hot": 9
     },
     {
      "start": "19:00",
@@ -11641,7 +11641,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 2
+     "hot": 5
     },
     {
      "start": "19:00",
@@ -11996,7 +11996,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 5
+     "hot": 3
     },
     {
      "start": "20:00",
@@ -12222,7 +12222,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "20:00",
@@ -25428,7 +25428,7 @@ window.SCHEDULE = {
      "pgm": "하기스 밤부&스킨에센셜 출시",
      "title": "신제품 기념 2+2팩 특가",
      "category": "키즈",
-     "hot": 6
+     "hot": 4
     },
     {
      "start": "10:00",
