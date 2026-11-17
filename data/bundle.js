@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-17T10:20:11+09:00",
+ "generated_at": "2026-11-17T10:40:10+09:00",
  "today": "2026-11-17",
  "dates": [
   "2026-11-16",
@@ -2195,7 +2195,7 @@ window.SCHEDULE = {
      "pgm": "맘만하니",
      "pgm_cd": "1100",
      "category": "서비스·렌탈",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -7847,8 +7847,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 10
+     "category": "푸드"
     },
     {
      "start": "10:00",
@@ -7891,7 +7890,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -8033,7 +8033,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -8759,7 +8760,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 2
     },
     {
      "start": "10:30",
@@ -21254,7 +21255,7 @@ window.SCHEDULE = {
      "pgm": "웅진 인기음료 총집합!",
      "title": "과즙 팡팡 라이브",
      "category": "식품",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -21267,7 +21268,7 @@ window.SCHEDULE = {
      "pgm": "덴프스 1년에 단 한 번!",
      "title": "Origin특집 마지막 특가",
      "category": "식품",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "08:30",
@@ -21280,7 +21281,7 @@ window.SCHEDULE = {
      "pgm": "프로쉬 NEW 식기세척기",
      "title": "액체세제 론칭 기념 라이브",
      "category": "리빙",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "08:30",
@@ -21304,8 +21305,7 @@ window.SCHEDULE = {
      "slot_id": "61555",
      "pgm": "그릭데이 11월 LIVE!",
      "title": "시그니처 바닐라 런칭 특가",
-     "category": "식품",
-     "hot": 9
+     "category": "식품"
     },
     {
      "start": "10:00",
