@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-11",
- "updated_at": "2026-11-18T23:30:51+09:00",
+ "updated_at": "2026-11-19T07:01:04+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -6048,14 +6048,14 @@
     "end": "11:59",
     "brand": "루솔",
     "product": "[나눔발송][루솔] 진한 배도라지즙 선물박스(120포) 배즙",
-    "price": 102000,
+    "price": 110000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2225275178",
     "slot_id": "202611186004",
     "items": [
      {
       "brand": "루솔",
       "product": "[나눔발송][루솔] 진한 배도라지즙 선물박스(120포) 배즙",
-      "price": 102000,
+      "price": 110000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2225275178"
      }
     ],
@@ -6067,14 +6067,14 @@
     "end": "12:59",
     "brand": "드시모네",
     "product": "[12+1] 드시모네 키즈 요거트 13팩(3팩x4박스+1팩)",
-    "price": 29900,
+    "price": 33600,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251786818",
     "slot_id": "202611186005",
     "items": [
      {
       "brand": "드시모네",
       "product": "[12+1] 드시모네 키즈 요거트 13팩(3팩x4박스+1팩)",
-      "price": 29900,
+      "price": 33600,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251786818"
      }
     ],
@@ -6105,14 +6105,14 @@
     "end": "14:59",
     "brand": "타린로즈",
     "product": "1. [7cm]타린로즈 여성 하이 밸런스힐 8종 택1",
-    "price": 154800,
+    "price": 179000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251583750",
     "slot_id": "202611186007",
     "items": [
      {
       "brand": "타린로즈",
       "product": "1. [7cm]타린로즈 여성 하이 밸런스힐 8종 택1",
-      "price": 154800,
+      "price": 179000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251583750"
      }
     ],
@@ -6124,38 +6124,19 @@
     "end": "15:59",
     "brand": "클래딘",
     "product": "이지 2종세트",
-    "price": 39000,
+    "price": 44900,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258257091",
     "slot_id": "202611186008",
     "items": [
      {
       "brand": "클래딘",
       "product": "이지 2종세트",
-      "price": 39000,
+      "price": 44900,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258257091"
      }
     ],
     "title": "클래딘/쿠캔/PN풍년 주방용품 대방출 하루 특별가",
     "pgm": "[잭슨코리아] PN풍년주방용품 (쇼핑라이브)"
-   },
-   {
-    "start": "16:00",
-    "end": "16:59",
-    "brand": "코아시스",
-    "product": "[비세린][시그니처] 베놈 안티 헤어로스 앰플 1+1 2set (총 4개)",
-    "price": 30200,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257722253",
-    "slot_id": "202611186009",
-    "items": [
-     {
-      "brand": "코아시스",
-      "product": "[비세린][시그니처] 베놈 안티 헤어로스 앰플 1+1 2set (총 4개)",
-      "price": 30200,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257722253"
-     }
-    ],
-    "title": "[비세린] 겨울 대비 꿀보습 비세린밤 & 헤어앰플",
-    "pgm": "[코아시스] 비세린 기초/헤어앰플 (뷰티브랜드)"
    },
    {
     "start": "17:00",
@@ -6518,6 +6499,25 @@
     ],
     "title": "[데드라] WINTER SEASON OPEN!",
     "pgm": "[데드라] 의류 (패션1Lab)"
+   },
+   {
+    "start": "14:00",
+    "end": "14:59",
+    "brand": "코아시스",
+    "product": "[ELBT] NEO 샬롯 솔리드 퍼퓸",
+    "price": 21600,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258037972",
+    "slot_id": "202611196008",
+    "items": [
+     {
+      "brand": "코아시스",
+      "product": "[ELBT] NEO 샬롯 솔리드 퍼퓸",
+      "price": 21600,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258037972"
+     }
+    ],
+    "title": "[ELBT] 고체향수 & 카디퓨저 선물 추천💗",
+    "pgm": "[코아시스] ELBT 방향제 (뷰티브랜드)"
    },
    {
     "start": "15:00",
@@ -7399,6 +7399,217 @@
      }
     ],
     "title": "[커스텀멜로우] 겨울 아우터 外 최대 혜택가 LIVE",
+    "pgm": "현대렐라쇼 (멀티커머스)"
+   }
+  ],
+  "2026-11-24": [
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "미소페",
+    "product": "남성 보트슈즈 022537703 3cm 2color 022537703",
+    "price": 168000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2238477384",
+    "slot_id": "202611246003",
+    "items": [
+     {
+      "brand": "미소페",
+      "product": "남성 보트슈즈 022537703 3cm 2color 022537703",
+      "price": 168000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2238477384"
+     }
+    ],
+    "title": "[미소페] 최대 71% ▼ 26fw 신상+베스트 라인업",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "루미노디자인",
+    "product": "슈로스도어_기본형_820사이즈",
+    "price": 259000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253580117",
+    "slot_id": "202611246005",
+    "items": [
+     {
+      "brand": "루미노디자인",
+      "product": "슈로스도어_기본형_820사이즈",
+      "price": 259000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253580117"
+     }
+    ],
+    "title": "[루미노디자인] 문틀에 설치하는 슈로스도어♥️",
+    "pgm": "육아일기"
+   },
+   {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "리베로",
+    "product": "기저귀 터치 밴드형 1단계 22매X6팩",
+    "price": 54800,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2201558724",
+    "slot_id": "202611246006",
+    "items": [
+     {
+      "brand": "리베로",
+      "product": "기저귀 터치 밴드형 1단계 22매X6팩",
+      "price": 54800,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2201558724"
+     }
+    ],
+    "title": "[리베로] 프리미엄 기저귀 한정수량 재고 확보 핫딜",
+    "pgm": "[리베로] 기저귀 (액티브라이프)"
+   },
+   {
+    "start": "13:00",
+    "end": "13:59",
+    "brand": "오블라",
+    "product": "feminine gold chain slim hair band_2colors HB001",
+    "price": 44000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255318255",
+    "slot_id": "202611246007",
+    "items": [
+     {
+      "brand": "오블라",
+      "product": "feminine gold chain slim hair band_2colors HB001",
+      "price": 44000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255318255"
+     }
+    ],
+    "title": "[오블라] 겨울 캐시미어 머플러/ACC외 첫 런칭전!",
+    "pgm": "[오블라] 잡화 (패션1Lab)"
+   },
+   {
+    "start": "14:00",
+    "end": "14:59",
+    "brand": "비버리힐스폴로클럽",
+    "product": "비버리힐즈 여성용 기모 히트 레깅스 무발 유발 2매",
+    "price": 14900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2222474087",
+    "slot_id": "202611246008",
+    "items": [
+     {
+      "brand": "비버리힐스폴로클럽",
+      "product": "비버리힐즈 여성용 기모 히트 레깅스 무발 유발 2매",
+      "price": 14900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2222474087"
+     }
+    ],
+    "title": "[BYC/TRY외] 겨울을 위한 동내의/언더웨어 찬스전",
+    "pgm": "[BYC/TRY] 이너웨어 (패션1Lab)"
+   },
+   {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "귀뚜라미",
+    "product": "27년형 귀뚜라미 카본매트 싱글 KME-21 프리미엄형 블루투스 리모컨",
+    "price": 358000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2154594187",
+    "slot_id": "202611246011",
+    "items": [
+     {
+      "brand": "귀뚜라미",
+      "product": "27년형 귀뚜라미 카본매트 싱글 KME-21 프리미엄형 블루투스 리모컨",
+      "price": 358000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2154594187"
+     }
+    ],
+    "title": "귀뚜라미 최신형 카본매트 쇼라특집전",
+    "pgm": "[귀뚜라미] 탄소매트 (가전)"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "스마트카라",
+    "product": "블레이드X 그라나이트S 패키지(스토리지타워 포함) 스마트카라 음식물처리기 5L 건조분쇄형 SC-D0403-A",
+    "price": 759000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257534850",
+    "slot_id": "202611246013",
+    "items": [
+     {
+      "brand": "스마트카라",
+      "product": "블레이드X 그라나이트S 패키지(스토리지타워 포함) 스마트카라 음식물처리기 5L 건조분쇄형 SC-D0403-A",
+      "price": 759000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257534850"
+     }
+    ],
+    "title": "[스마트카라] 화강암코팅으로 더 강력한 음식물처리",
+    "pgm": "[스마트카라] 특집전 (리빙)"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "지오다노",
+    "product": "맨투맨 남자 겨울 기모 라운드 긴팔 테리티셔츠 026980 698002",
+    "price": 21800,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258233101",
+    "slot_id": "202611246014",
+    "items": [
+     {
+      "brand": "지오다노",
+      "product": "맨투맨 남자 겨울 기모 라운드 긴팔 테리티셔츠 026980 698002",
+      "price": 21800,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258233101"
+     }
+    ],
+    "title": "지오다노 겨울 첫LIVE! 최대 30%OFF ▼",
+    "pgm": "[지오다노] 의류 (멀티커머스)"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "한국금거래소",
+    "product": "X 현대홈쇼핑 VIP 골드바 3.75g",
+    "price": 824300,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239425835",
+    "slot_id": "202611246015",
+    "items": [
+     {
+      "brand": "한국금거래소",
+      "product": "X 현대홈쇼핑 VIP 골드바 3.75g",
+      "price": 824300,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239425835"
+     }
+    ],
+    "title": "[한국금거래소] 골드바 혜택가로 쇼핑 찬스 ❤️",
+    "pgm": "[한국금거래소] 금 (패션잡화)"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "버버리",
+    "product": "벨티드 구스 롱 패딩코트(8110313)",
+    "price": 2369000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2242208571",
+    "slot_id": "202611246016",
+    "items": [
+     {
+      "brand": "버버리",
+      "product": "벨티드 구스 롱 패딩코트(8110313)",
+      "price": 2369000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2242208571"
+     }
+    ],
+    "title": "[명품특별전] 버버리 패딩 월 2만원대 선착순",
+    "pgm": "명품특별전 (노블레스)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "타미힐피거",
+    "product": "[타미진] 여성 박시 미드 기장 덕 다운 패딩 화이트 T32G7QJC24TWL1 YBH T32G7QJC24TWL3",
+    "price": 399000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254846929",
+    "slot_id": "202611246017",
+    "items": [
+     {
+      "brand": "타미힐피거",
+      "product": "[타미진] 여성 박시 미드 기장 덕 다운 패딩 화이트 T32G7QJC24TWL1 YBH T32G7QJC24TWL3",
+      "price": 399000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254846929"
+     }
+    ],
+    "title": "타미진 겨울 신상템 ~44%OFF ▼",
     "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ]
