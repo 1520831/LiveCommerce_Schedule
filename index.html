@@ -1069,9 +1069,8 @@
     document.getElementById("curDate").innerHTML =
       current + ' <span class="wd' + (wd === 0 ? " sun" : wd === 6 ? " sat" : "") + '">(' + WD[wd] + ")</span>";
 
-    var i = S.dates.indexOf(current);
-    document.getElementById("prev").disabled = i <= 0;
-    document.getElementById("next").disabled = i < 0 || i >= S.dates.length - 1;
+    document.getElementById("prev").disabled = current <= firstDate();
+    document.getElementById("next").disabled = current >= lastDate();
     // 날짜 칩이나 ‹ › 로 옮겼을 때도 달력이 그 날짜를 가리키게 맞춰둔다.
     if (calInput) calInput.value = current;
   }
@@ -1085,6 +1084,62 @@
      범위 안이라도 데이터가 빠진 날이 있을 수 있어 한 번 더 확인한다. */
   var calInput = null;
 
+  // ---------- 지난 날짜 ----------
+  /* 번들에는 어제~+5일만 있다. 그보다 앞선 날은 data/past/{YYYY-MM}.js 에
+     달별로 따로 있고, 고를 때 그 달 파일만 불러온다(번들에 다 실으면 수 MB).
+     file:// 로 열어도 되게 fetch 가 아니라 <script> 로 읽는다. */
+  var ARCH = S.archive || { first: null, months: [] };
+  var pastLoaded = {};
+
+  function firstDate() { return ARCH.first && ARCH.first < S.dates[0] ? ARCH.first : S.dates[0]; }
+  function lastDate() { return S.dates[S.dates.length - 1]; }
+
+  function addDay(s, n) {
+    var d = new Date(s + "T00:00:00");
+    d.setDate(d.getDate() + n);
+    var m = d.getMonth() + 1, dd = d.getDate();
+    return d.getFullYear() + "-" + (m < 10 ? "0" : "") + m + "-" + (dd < 10 ? "0" : "") + dd;
+  }
+
+  function loadPast(date, done) {
+    var ym = date.slice(0, 7);
+    if (S.dates.indexOf(date) >= 0 || pastLoaded[ym] || ARCH.months.indexOf(ym) < 0) { done(); return; }
+    var sc = document.createElement("script");
+    sc.src = "data/past/" + ym + ".js?v=" + encodeURIComponent(S.generated_at || "");
+    sc.onload = function () {
+      var P = (window.SCHEDULE_PAST || {})[ym];
+      if (P) {
+        S.data = S.data || {};
+        Object.keys(P.data || {}).forEach(function (code) {
+          S.data[code] = S.data[code] || {};
+          Object.keys(P.data[code]).forEach(function (d) {
+            if (!S.data[code][d]) S.data[code][d] = P.data[code][d];
+          });
+        });
+        if (P.hot && P.hot.dates) {
+          S.hot = S.hot || { top: P.hot.top, dates: [] };
+          S.hot.dates = S.hot.dates.concat(P.hot.dates);
+        }
+      }
+      pastLoaded[ym] = true;
+      done();
+    };
+    sc.onerror = function () { pastLoaded[ym] = true; done(); };
+    document.head.appendChild(sc);
+  }
+
+  function goTo(date) {
+    loadPast(date, function () {
+      current = date;
+      render();
+      // 고른 날짜 칩이 띠 밖에 있으면 어디로 갔는지 안 보인다. 끌어와 준다.
+      var on = elDays.querySelector(".day.on");
+      if (on && on.scrollIntoView) {
+        on.scrollIntoView({ block: "nearest", inline: "center" });
+      }
+    });
+  }
+
   function initCal() {
     var wrap = document.getElementById("calBtn");
     if (!wrap) return;
@@ -1095,8 +1150,8 @@
 
     calInput = document.createElement("input");
     calInput.type = "date";
-    calInput.min = S.dates[0];
-    calInput.max = S.dates[S.dates.length - 1];
+    calInput.min = firstDate();
+    calInput.max = lastDate();
     calInput.setAttribute("aria-label", "날짜 선택");
     wrap.appendChild(calInput);
 
@@ -1112,9 +1167,8 @@
     calInput.addEventListener("change", function () {
       var v = calInput.value;
       if (!v || v === current) return;
-      if (S.dates.indexOf(v) < 0) { calInput.value = current; return; }
-      current = v;
-      render();
+      if (v < firstDate() || v > lastDate()) { calInput.value = current; return; }
+      goTo(v);
       // 고른 날짜 칩이 띠 밖에 있으면 어디로 갔는지 안 보인다. 끌어와 준다.
       var on = elDays.querySelector(".day.on");
       if (on && on.scrollIntoView) {
@@ -1780,12 +1834,9 @@
   });
 
   function step(delta) {
-    var i = S.dates.indexOf(current);
-    if (i < 0) return;
-    var j = i + delta;
-    if (j < 0 || j >= S.dates.length) return;
-    current = S.dates[j];
-    render();
+    var j = addDay(current, delta);
+    if (j < firstDate() || j > lastDate()) return;
+    goTo(j);
   }
   document.getElementById("prev").addEventListener("click", function () { step(-1); });
   document.getElementById("next").addEventListener("click", function () { step(1); });

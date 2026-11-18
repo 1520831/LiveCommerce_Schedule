@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-11",
- "updated_at": "2026-11-18T12:02:51+09:00",
+ "updated_at": "2026-11-18T13:52:17+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -6901,7 +6901,7 @@
     "start": "11:00",
     "end": "11:59",
     "brand": "컷코",
-    "product": "[우드블럭/샤프너포함] 나이프 5종 풀세트",
+    "product": "(정상가1,791,000원) [우드블럭/샤프너포함] 나이프 5종 풀세트",
     "price": 1219000,
     "link": "https://item.cjonstyle.com/item/2096311634?channelCode=30002002",
     "slot_id": "31818",
@@ -7475,7 +7475,7 @@
     "end": "11:59",
     "brand": "슬로기",
     "product": "소프트 골지 브라팬티 4세트(끈형)",
-    "price": 49950,
+    "price": 79920,
     "link": "https://item.cjonstyle.com/item/2076602108?channelCode=30002002",
     "slot_id": "31698",
     "title": "브라데이X슬로기,신영와코루,세컨스킨 FW ~53% 역대 최저가",
@@ -7553,7 +7553,7 @@
     "brand": "",
     "product": "다시보는 포맨트 CJ 단독 세트 최저가 찬스✨",
     "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/31844",
+    "link": "https://mlive.cjonstyle.com/m/mlc/main/31844",
     "slot_id": "31844",
     "title": "다시보는 포맨트 CJ 단독 세트 최저가 찬스✨",
     "pgm": "라이브쇼",
@@ -7577,7 +7577,7 @@
     "end": "14:59",
     "brand": "토리든",
     "product": "[내일오네][NEW] 다이브인 세럼 50ml * 3개 + 수딩크림 * 2개 + 마스크 20매 + 다이브인 멀티패드 + 트라이얼키트",
-    "price": 174000,
+    "price": 89900,
     "link": "https://item.cjonstyle.com/item/2089793518?channelCode=30002002",
     "slot_id": "31846",
     "title": "다시보는 수분명가 토리든x겟잇스타일🩵 방송에서만 최대 할인가!",
@@ -7913,7 +7913,7 @@
     "start": "21:00",
     "end": "21:59",
     "brand": "컷코",
-    "product": "[우드블럭/샤프너포함] 나이프 5종 풀세트",
+    "product": "(정상가1,791,000원) [우드블럭/샤프너포함] 나이프 5종 풀세트",
     "price": 1219000,
     "link": "https://item.cjonstyle.com/item/2096311634?channelCode=30002002",
     "slot_id": "31861",
@@ -8405,7 +8405,7 @@
     "start": "19:00",
     "end": "19:59",
     "brand": "컷코",
-    "product": "[우드블럭/샤프너포함] 나이프 5종 풀세트",
+    "product": "(정상가1,791,000원) [우드블럭/샤프너포함] 나이프 5종 풀세트",
     "price": 1219000,
     "link": "https://item.cjonstyle.com/item/2096311634?channelCode=30002002",
     "slot_id": "31890",
@@ -8599,7 +8599,7 @@
     "start": "09:00",
     "end": "09:59",
     "brand": "컷코",
-    "product": "[우드블럭/샤프너포함] 나이프 5종 풀세트",
+    "product": "(정상가1,791,000원) [우드블럭/샤프너포함] 나이프 5종 풀세트",
     "price": 1219000,
     "link": "https://item.cjonstyle.com/item/2096311634?channelCode=30002002",
     "slot_id": "31901",
@@ -8671,6 +8671,19 @@
     "pgm": "똘똘한쇼",
     "pgm_cd": "1123",
     "category": "식품·건강"
+   },
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "밍크뮤",
+    "product": "아미엘에센셜긴팔내의 (36170-054-A1)",
+    "price": 50150,
+    "link": "https://item.cjonstyle.com/item/2096937018?channelCode=30002002",
+    "slot_id": "31904",
+    "title": "1등 육아템 맛집💜밍크뮤 공구 파격가+선착순 쇼핑백까지🔥",
+    "pgm": "희아패밀리",
+    "pgm_cd": "1149",
+    "category": "여성패션"
    },
    {
     "start": "10:00",
@@ -8780,7 +8793,7 @@
     "end": "13:59",
     "brand": "슬로기",
     "product": "소프트 골지 브라팬티 4세트(끈형)",
-    "price": 49950,
+    "price": 79920,
     "link": "https://item.cjonstyle.com/item/2076602108?channelCode=30002002",
     "slot_id": "31910",
     "title": "다시보는 브라데이X슬로기,신영와코루,세컨스킨 FW 역대 최저가",
@@ -9236,6 +9249,31 @@
     "category": "잡화·슈즈"
    },
    {
+    "start": "14:00",
+    "end": "14:59",
+    "brand": "",
+    "product": "다시보는 락포트 26FW 신상+시즌오프",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/31943",
+    "slot_id": "31943",
+    "title": "다시보는 락포트 26FW 신상+시즌오프",
+    "pgm": "라이브쇼",
+    "pgm_cd": "0146"
+   },
+   {
+    "start": "14:00",
+    "end": "14:59",
+    "brand": "로토토베베",
+    "product": "[두둥맘][최초가64900]아뜰리에 솜솜 귀달이 퍼 점퍼 (2 color)",
+    "price": 54900,
+    "link": "https://item.cjonstyle.com/item/2097749585?channelCode=30002002",
+    "slot_id": "31944",
+    "title": "다시보는 두둥맘대로🎀돌아온 로토토베베 베스트 모음전 1만원대부터!",
+    "pgm": "두둥맘대로",
+    "pgm_cd": "1119",
+    "category": "여성패션"
+   },
+   {
     "start": "15:00",
     "end": "15:59",
     "brand": "로아레",
@@ -9262,6 +9300,56 @@
     "category": "가구·침구"
    },
    {
+    "start": "16:00",
+    "end": "16:59",
+    "brand": "",
+    "product": "다시보는 스튜디오 톰보이 스페셜! 겨울 코트 초특가 SALE❤",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/31947",
+    "slot_id": "31947",
+    "title": "다시보는 스튜디오 톰보이 스페셜! 겨울 코트 초특가 SALE❤",
+    "pgm": "스튜디오B",
+    "pgm_cd": "1108"
+   },
+   {
+    "start": "16:00",
+    "end": "16:59",
+    "brand": "CJ이엔엠",
+    "product": "온키즈패스",
+    "price": 990,
+    "link": "https://item.cjonstyle.com/item/2094169362?channelCode=30002002",
+    "slot_id": "31948",
+    "title": "다시보는📢선물같은 방송, 이브네 생리대 첫 런칭!",
+    "pgm": "브랜디드 라이브쇼",
+    "pgm_cd": "1130",
+    "category": "서비스·렌탈"
+   },
+   {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "",
+    "product": "다시보는 🤍써스데이 아일랜드의 계절🤍겨울 아울렛특가",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/31949",
+    "slot_id": "31949",
+    "title": "다시보는 🤍써스데이 아일랜드의 계절🤍겨울 아울렛특가",
+    "pgm": "브랜디드 라이브쇼",
+    "pgm_cd": "1130"
+   },
+   {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "하이원리조트",
+    "product": "[2박4인]하이원 윈터 올인 패키지",
+    "price": 309000,
+    "link": "https://item.cjonstyle.com/item/2097218620?channelCode=30002002",
+    "slot_id": "32067",
+    "title": "다시보는 하이원리조트 올인 패키지로 겨울 방학 보내기❄️1인 3만원대부터",
+    "pgm": "럭셔리체크인",
+    "pgm_cd": "0220",
+    "category": "서비스·렌탈"
+   },
+   {
     "start": "18:00",
     "end": "18:59",
     "brand": "한일의료기",
@@ -9275,6 +9363,19 @@
     "category": "가전"
    },
    {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "세렌",
+    "product": "가치마켓 리스펙타 7박스 + 리스펙타&보라지유&여성청결제 (총9박스)",
+    "price": 254500,
+    "link": "https://item.cjonstyle.com/item/2096723162?channelCode=30002002",
+    "slot_id": "31951",
+    "title": "다시보는 잘사는Ⅹ세렌💗한정 리스펙타패키지! 기부도하고 성은님 애장품까지",
+    "pgm": "잘사는 언니들",
+    "pgm_cd": "1028",
+    "category": "식품·건강"
+   },
+   {
     "start": "19:00",
     "end": "19:59",
     "brand": "",
@@ -9285,6 +9386,19 @@
     "title": "다시보는 겟잇뷰티💖GLOW UP with [다니엘트루스] 앵콜 방송🌸",
     "pgm": "겟잇뷰티",
     "pgm_cd": "1012"
+   },
+   {
+    "start": "19:00",
+    "end": "20:10",
+    "brand": "온브릭스",
+    "product": "[온브릭스] 아삭하고 달콤한, 고당도 햇 부사사과",
+    "price": 19900,
+    "link": "https://item.cjonstyle.com/item/2096482346?channelCode=30002002",
+    "slot_id": "31953",
+    "title": "다시보는 온스타일X온브릭스🍊최초최저가 사과+감귤+샤인머스캣+키위+망고",
+    "pgm": "푸드온다",
+    "pgm_cd": "1018",
+    "category": "식품·건강"
    },
    {
     "start": "20:00",
@@ -9379,6 +9493,32 @@
     "category": "여성패션"
    },
    {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "세렌",
+    "product": "가치마켓 리스펙타 7박스 + 리스펙타&보라지유&여성청결제 (총9박스)",
+    "price": 254500,
+    "link": "https://item.cjonstyle.com/item/2096723162?channelCode=30002002",
+    "slot_id": "31966",
+    "title": "다시보는 잘사는Ⅹ세렌💗한정 리스펙타패키지! 기부도하고 성은님 애장품까지",
+    "pgm": "잘사는 언니들",
+    "pgm_cd": "1028",
+    "category": "식품·건강"
+   },
+   {
+    "start": "10:00",
+    "end": "11:10",
+    "brand": "온브릭스",
+    "product": "[온브릭스] 아삭하고 달콤한, 고당도 햇 부사사과",
+    "price": 19900,
+    "link": "https://item.cjonstyle.com/item/2096482346?channelCode=30002002",
+    "slot_id": "31967",
+    "title": "다시보는 온스타일X온브릭스🍊최초최저가 사과+감귤+샤인머스캣+키위+망고",
+    "pgm": "푸드온다",
+    "pgm_cd": "1018",
+    "category": "식품·건강"
+   },
+   {
     "start": "11:00",
     "end": "11:59",
     "brand": "유로모피",
@@ -9403,6 +9543,19 @@
     "pgm": "유부림의 라이브쇼",
     "pgm_cd": "1089",
     "category": "가구·침구"
+   },
+   {
+    "start": "14:00",
+    "end": "14:59",
+    "brand": "로토토베베",
+    "product": "[두둥맘][최초가64900]아뜰리에 솜솜 귀달이 퍼 점퍼 (2 color)",
+    "price": 54900,
+    "link": "https://item.cjonstyle.com/item/2097749585?channelCode=30002002",
+    "slot_id": "31974",
+    "title": "다시보는 두둥맘대로🎀돌아온 로토토베베 베스트 모음전 1만원대부터!",
+    "pgm": "두둥맘대로",
+    "pgm_cd": "1119",
+    "category": "여성패션"
    },
    {
     "start": "15:00",
@@ -9622,6 +9775,19 @@
    }
   ],
   "2026-11-23": [
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "CJ이엔엠",
+    "product": "온키즈패스",
+    "price": 990,
+    "link": "https://item.cjonstyle.com/item/2094169362?channelCode=30002002",
+    "slot_id": "31997",
+    "title": "[맘만하니] 킨도 최신상 베베가드 나이트 최초 공개! 방송중 선물 와르르",
+    "pgm": "맘만하니",
+    "pgm_cd": "1100",
+    "category": "서비스·렌탈"
+   },
    {
     "start": "11:00",
     "end": "11:59",
