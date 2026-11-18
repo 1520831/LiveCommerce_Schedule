@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-18T20:00:08+09:00",
+ "generated_at": "2026-11-18T21:00:08+09:00",
  "today": "2026-11-18",
  "dates": [
   "2026-11-17",
@@ -662,7 +662,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[현명쇼] 막스마라 코트 월 1만원대 ★곧 종료★",
-     "pgm": "현명쇼(노블레스)"
+     "pgm": "현명쇼(노블레스)",
+     "hot": 4
     },
     {
      "start": "20:00",
@@ -2822,7 +2823,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "0146",
      "category": "뷰티",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "19:00",
@@ -9766,7 +9767,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "14:00",
@@ -25310,7 +25311,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜]글로벌 1위 삼성 AI TV~가전다품목 특가💙",
      "rerun": true,
      "category": "가전",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "19:00",
@@ -25323,7 +25324,7 @@ window.SCHEDULE = {
      "pgm": "[앵콜] ASUS 인기 노트북 특가 모음!",
      "rerun": true,
      "category": "디지털·PC",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "20:00",
@@ -26042,7 +26043,7 @@ window.SCHEDULE = {
      "pgm": "홍진경이 선택한 곡물도감",
      "title": "신제품 첫공개 특가 라이브!",
      "category": "식품",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "08:30",
@@ -26150,8 +26151,7 @@ window.SCHEDULE = {
      "slot_id": "61785",
      "pgm": "밀크베이비 본격 겨울 준비",
      "title": "카쇼라 LIVE 초특가!",
-     "category": "키즈",
-     "hot": 10
+     "category": "키즈"
     },
     {
      "start": "14:31",
