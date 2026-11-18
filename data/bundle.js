@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-19T07:02:03+09:00",
+ "generated_at": "2026-11-19T08:00:11+09:00",
  "today": "2026-11-19",
  "dates": [
   "2026-11-18",
@@ -454,7 +454,7 @@ window.SCHEDULE = {
      ],
      "title": "[헤지스ACC] 신상 가방&겨울 패션템 만나보기🩷",
      "pgm": "[재방] 헤지스 잡화 (멀티커머스)",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "07:00",
@@ -473,7 +473,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 전 상품 최저가도전",
-     "pgm": "[재방] 노블리타 (노블레스)"
+     "pgm": "[재방] 노블리타 (노블레스)",
+     "hot": 1
     },
     {
      "start": "08:00",
@@ -7704,7 +7705,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "01:10",
@@ -7930,8 +7931,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 8
+     "category": "테크"
     },
     {
      "start": "06:00",
@@ -7974,7 +7974,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 8
     },
     {
      "start": "08:00",
@@ -25230,8 +25231,8 @@ window.SCHEDULE = {
    "2026-11-18",
    "2026-11-19"
   ],
-  "matched": 12,
-  "unmatched": 8
+  "matched": 13,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
