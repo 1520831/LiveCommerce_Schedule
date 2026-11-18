@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-11",
- "updated_at": "2026-11-18T15:53:57+09:00",
+ "updated_at": "2026-11-18T18:01:29+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -5723,14 +5723,14 @@
     "end": "12:59",
     "brand": "홀리라이크",
     "product": "[갈치2미] 제주 명품 특대 은갈치 1.2kg(600g×2마리)",
-    "price": 158000,
+    "price": 138000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253053916",
     "slot_id": "202611176006",
     "items": [
      {
       "brand": "홀리라이크",
       "product": "[갈치2미] 제주 명품 특대 은갈치 1.2kg(600g×2마리)",
-      "price": 158000,
+      "price": 138000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253053916"
      }
     ],
@@ -6199,14 +6199,14 @@
     "start": "19:00",
     "end": "19:59",
     "brand": "고비",
-    "product": "(GOBI) 실크 캐시미어 홀가먼트 후드가디건",
+    "product": "[30분부터세일] 고비(GOBI) 실크 캐시미어 홀가먼트 후드가디건",
     "price": 259000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2229162339",
     "slot_id": "202611186012",
     "items": [
      {
       "brand": "고비",
-      "product": "(GOBI) 실크 캐시미어 홀가먼트 후드가디건",
+      "product": "[30분부터세일] 고비(GOBI) 실크 캐시미어 홀가먼트 후드가디건",
       "price": 259000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2229162339"
      }
@@ -6218,20 +6218,39 @@
     "start": "20:00",
     "end": "20:59",
     "brand": "버버리",
-    "product": "나일론 후드 푸퍼 다운 패딩(81216471)",
-    "price": 2199000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252244039",
+    "product": "클래식 체크 캐시미어 머플러(8076576)",
+    "price": 849000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248783529",
     "slot_id": "202611186013",
     "items": [
      {
       "brand": "버버리",
-      "product": "나일론 후드 푸퍼 다운 패딩(81216471)",
-      "price": 2199000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252244039"
+      "product": "클래식 체크 캐시미어 머플러(8076576)",
+      "price": 849000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248783529"
      }
     ],
     "title": "[현명쇼] 막스마라 코트 월 1만원대 ★곧 종료★",
     "pgm": "현명쇼(노블레스)"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "블랙야크키즈",
+    "product": "플리스자켓 1BKPAW4901",
+    "price": 35000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256313217",
+    "slot_id": "202611186022",
+    "items": [
+     {
+      "brand": "블랙야크키즈",
+      "product": "플리스자켓 1BKPAW4901",
+      "price": 35000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256313217"
+     }
+    ],
+    "title": "[블랙야크키즈] 편안하고 따뜻한 아웃도어 키즈룩🔥",
+    "pgm": "[재방] 블랙야크키즈 (멀티커머스)"
    },
    {
     "start": "21:00",
@@ -6253,6 +6272,25 @@
     "pgm": "[스마트카라] 특집전 (리빙)"
    },
    {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "소다",
+    "product": "여성 스트랩 플랫슈즈(ARF503LS10) ARF503LS10",
+    "price": 167400,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239891139",
+    "slot_id": "202611186021",
+    "items": [
+     {
+      "brand": "소다",
+      "product": "여성 스트랩 플랫슈즈(ARF503LS10) ARF503LS10",
+      "price": 167400,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2239891139"
+     }
+    ],
+    "title": "[소다] 데일리슈즈 추천! 쇼라 특별가 득템찬스",
+    "pgm": "[재방] 소다 슈즈(멀티커머스)"
+   },
+   {
     "start": "22:00",
     "end": "22:59",
     "brand": "아이더",
@@ -6270,6 +6308,44 @@
     ],
     "title": "[아이더] 한파 준비! 겨울 인기 아이템 특별가",
     "pgm": "[아이더] 아웃도어 (멀티커머스)"
+   },
+   {
+    "start": "22:00",
+    "end": "22:59",
+    "brand": "라인",
+    "product": "타이 원피스 (NMWOPQA030) NMWOPQA0",
+    "price": 184500,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258199409",
+    "slot_id": "202611186024",
+    "items": [
+     {
+      "brand": "라인",
+      "product": "타이 원피스 (NMWOPQA030) NMWOPQA0",
+      "price": 184500,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258199409"
+     }
+    ],
+    "title": "라인✨ ~70%▼ + 19%쿠폰 + 5~7% 카드할인",
+    "pgm": "[재방] 라인 여성의류 (멀티커머스)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "보니스팍스",
+    "product": "코듀로이 모자 B1G47AHT030 B1G47AHT030",
+    "price": 25000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257768510",
+    "slot_id": "202611186023",
+    "items": [
+     {
+      "brand": "보니스팍스",
+      "product": "코듀로이 모자 B1G47AHT030 B1G47AHT030",
+      "price": 25000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257768510"
+     }
+    ],
+    "title": "올 겨울 데일리룩 완성! 보니스팍스 최저가 도전!",
+    "pgm": "[재방] 보니스팍스 의류 (멀티커머스)"
    }
   ],
   "2026-11-19": [
@@ -6335,14 +6411,14 @@
     "end": "09:59",
     "brand": "티르리르",
     "product": "[라이브][주문제작] 14K 핑크골드 리엘 러브듀 랩다이아 귀걸이 TEPK4P0032TEPK4P00325S-LGD",
-    "price": 659000,
+    "price": 359000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256137623",
     "slot_id": "202611196003",
     "items": [
      {
       "brand": "티르리르",
       "product": "[라이브][주문제작] 14K 핑크골드 리엘 러브듀 랩다이아 귀걸이 TEPK4P0032TEPK4P00325S-LGD",
-      "price": 659000,
+      "price": 359000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256137623"
      }
     ],
@@ -6372,14 +6448,14 @@
     "start": "11:00",
     "end": "11:59",
     "brand": "아이러브경북",
-    "product": "현이네농원 송화고버섯 가정용 500g",
+    "product": "[11/23 출고] 현이네농원 송화고버섯 가정용 500g",
     "price": 16400,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251178837",
     "slot_id": "202611196005",
     "items": [
      {
       "brand": "아이러브경북",
-      "product": "현이네농원 송화고버섯 가정용 500g",
+      "product": "[11/23 출고] 현이네농원 송화고버섯 가정용 500g",
       "price": 16400,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251178837"
      }
@@ -6467,16 +6543,16 @@
     "start": "17:00",
     "end": "17:59",
     "brand": "경동나비엔",
-    "product": "숙면매트 카본매트 EME500S-SP 싱글 / 전기 매트 장판 전기요 / 고정밴드 / 뉴패드적용",
-    "price": 279000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2217694768",
+    "product": "카본매트 전기장판 EME550S-SP 싱글 95x195cm",
+    "price": 399900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253155324",
     "slot_id": "202611196011",
     "items": [
      {
       "brand": "경동나비엔",
-      "product": "숙면매트 카본매트 EME500S-SP 싱글 / 전기 매트 장판 전기요 / 고정밴드 / 뉴패드적용",
-      "price": 279000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2217694768"
+      "product": "카본매트 전기장판 EME550S-SP 싱글 95x195cm",
+      "price": 399900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253155324"
      }
     ],
     "title": "경동 카본매트 홈쇼핑 라이브 특별 혜택",
@@ -6505,16 +6581,16 @@
     "start": "19:00",
     "end": "19:59",
     "brand": "에르노",
-    "product": "[에르노]6S PI002203D 12017Z 1985 여성 크루넥 라인 버튼 다운 자켓 샹티이",
-    "price": 850000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253170830",
+    "product": "[에르노]6F PI0485DIC 12017Z 2600 여성 클라우디아 다운 패딩 도브 그레이",
+    "price": 990000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258233702",
     "slot_id": "202611196013",
     "items": [
      {
       "brand": "에르노",
-      "product": "[에르노]6S PI002203D 12017Z 1985 여성 크루넥 라인 버튼 다운 자켓 샹티이",
-      "price": 850000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253170830"
+      "product": "[에르노]6F PI0485DIC 12017Z 2600 여성 클라우디아 다운 패딩 도브 그레이",
+      "price": 990000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258233702"
      }
     ],
     "title": "[에르노] 구스다운 롱패딩 월 1만원대",
@@ -6943,6 +7019,25 @@
     "pgm": "[잭슨코리아] 밋앤밀 시금치 (쇼핑라이브)"
    },
    {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "JJ퀸",
+    "product": "[JJQUEEN] 쎄실 크리스탈 헤어밴드 HR1756 HR1757 HR1758 HR1759",
+    "price": 99000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247103254",
+    "slot_id": "202611216008",
+    "items": [
+     {
+      "brand": "JJ퀸",
+      "product": "[JJQUEEN] 쎄실 크리스탈 헤어밴드 HR1756 HR1757 HR1758 HR1759",
+      "price": 99000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2247103254"
+     }
+    ],
+    "title": "[JJ QUEEN] 겨울 시즌 맞이 헤어 주얼리 특집!",
+    "pgm": "[JJ퀸] 헤어주얼리 (멀티커머스)"
+   },
+   {
     "start": "20:00",
     "end": "20:59",
     "brand": "헤르마",
@@ -7043,20 +7138,39 @@
     "start": "15:00",
     "end": "15:59",
     "brand": "자연의정",
-    "product": "제주 타이벡 감귤 고당도 특품 프리미엄 로얄과(S) 5kg",
+    "product": "제주 타이벡 감귤 고당도 특품 프리미엄 로얄과(S-M) 5kg",
     "price": 20900,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253628594",
     "slot_id": "202611226007",
     "items": [
      {
       "brand": "자연의정",
-      "product": "제주 타이벡 감귤 고당도 특품 프리미엄 로얄과(S) 5kg",
+      "product": "제주 타이벡 감귤 고당도 특품 프리미엄 로얄과(S-M) 5kg",
       "price": 20900,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253628594"
      }
     ],
     "title": "타이벡감귤, 엔부사과, 엔비사과 쇼라 핫딜",
     "pgm": "[집방] 자연의정 과일 (일반식품2)"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "누캐시미어",
+    "product": "26FW 브러시 캐시미어 100% 하이넥 롱코트",
+    "price": 1890000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256402589",
+    "slot_id": "202611226009",
+    "items": [
+     {
+      "brand": "누캐시미어",
+      "product": "26FW 브러시 캐시미어 100% 하이넥 롱코트",
+      "price": 1890000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256402589"
+     }
+    ],
+    "title": "[현대쇼룸] 베스트브랜드 크로스코디전⭐",
+    "pgm": "현대쇼룸 (패션)"
    },
    {
     "start": "22:00",
@@ -7192,6 +7306,25 @@
     ],
     "title": "[워커힐] 로열스위트 타월 최대 41% 특별가",
     "pgm": "[워커힐] 수건 (가전)"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "더로우",
+    "product": "파크 토트 쓰리 토트백 W1272 L129 BLANS 블랙",
+    "price": 3587000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255305420",
+    "slot_id": "202611236011",
+    "items": [
+     {
+      "brand": "더로우",
+      "product": "파크 토트 쓰리 토트백 W1272 L129 BLANS 블랙",
+      "price": 3587000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255305420"
+     }
+    ],
+    "title": "[더로우/셀린느/스토우런던] 60개월 무이자 찬스",
+    "pgm": "[더로우] 잡화 (패션잡화)"
    },
    {
     "start": "19:00",

@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-11",
- "updated_at": "2026-11-18T15:54:03+09:00",
+ "updated_at": "2026-11-18T18:01:36+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -7577,7 +7577,7 @@
     "end": "14:59",
     "brand": "토리든",
     "product": "[내일오네] [NEW] 다이브인 저분자 히알루론산 세럼 50ml * 4개 + 수딩크림 * 2개 + 다이브인 필링젤 150ml + 다이브인 트라이얼",
-    "price": 78000,
+    "price": 136000,
     "link": "https://item.cjonstyle.com/item/2089793735?channelCode=30002002",
     "slot_id": "31846",
     "title": "다시보는 수분명가 토리든x겟잇스타일🩵 방송에서만 최대 할인가!",
@@ -7629,7 +7629,7 @@
     "end": "15:59",
     "brand": "바디프랜드",
     "product": "아제라로봇 헬스케어로봇 안마의자 / 새제품 무상AS 5년+상품권 10만",
-    "price": 2050000,
+    "price": 2090000,
     "link": "https://item.cjonstyle.com/item/2092219153?channelCode=30002002",
     "slot_id": "32058",
     "title": "다시보는 [바디프랜드] 최신상 아제라로봇 공개🔥팔콘&뉴팔콘✨",
@@ -7758,9 +7758,9 @@
     "start": "19:00",
     "end": "19:59",
     "brand": "애드아보아",
-    "product": "26SS 라쿤 울 블렌디드 훌  니트스커트",
-    "price": 89000,
-    "link": "https://item.cjonstyle.com/item/2076950417?channelCode=30002002",
+    "product": "26FW 폭스 블렌디드 코쿤핏 맥시 코트",
+    "price": 179100,
+    "link": "https://item.cjonstyle.com/item/2093379545?channelCode=30002002",
     "slot_id": "31702",
     "title": "엣지쇼👗애드아보아&아쿠아스큐텀 26FW 세일",
     "pgm": "엣지쇼",
@@ -8095,9 +8095,9 @@
     "start": "10:20",
     "end": "11:24",
     "brand": "로보",
-    "product": "26FW 베지터블 무스탕카라 더블 롱코트",
-    "price": 990000,
-    "link": "https://item.cjonstyle.com/item/2093452295?channelCode=30002002",
+    "product": "[온라인 전용] 26FW 레오파드 하이넥 집업 무스탕",
+    "price": 1490000,
+    "link": "https://item.cjonstyle.com/item/2098018320?channelCode=30002002",
     "slot_id": "31712",
     "title": "스타일나래이션에서만! 로보 신상 무스탕 최초공개 세일☃️",
     "pgm": "스타일 나래이션",
@@ -8109,7 +8109,7 @@
     "end": "11:59",
     "brand": "시크",
     "product": "[11/19 LIVE] 씨티 원 4 in 1 뉴본 하이체어 세트 신생아 아기 식탁의자",
-    "price": 560000,
+    "price": 489000,
     "link": "https://item.cjonstyle.com/item/2097275550?channelCode=30002002",
     "slot_id": "31713",
     "title": "맘만위크📢[시크] 뉴본&그로우 하이체어 런칭 + 전연령 카시트 ~32%",
@@ -8547,7 +8547,7 @@
     "end": "23:59",
     "brand": "애드아보아",
     "product": "26SS 라쿤 울 블렌디드 훌  니트스커트",
-    "price": 89000,
+    "price": 69000,
     "link": "https://item.cjonstyle.com/item/2076950417?channelCode=30002002",
     "slot_id": "31897",
     "title": "다시보는 엣지쇼👗 애드아보아&아쿠아스큐 26FW 세일",
@@ -8636,15 +8636,14 @@
    {
     "start": "10:00",
     "end": "10:59",
-    "brand": "빌레로이앤보흐",
-    "product": "[공동구매] 매뉴팩처락 인디비쥬얼볼 13cm",
-    "price": 30250,
-    "link": "https://item.cjonstyle.com/item/2098372227?channelCode=30002002",
+    "brand": "",
+    "product": "빌레로이앤보흐x준성담🎁메뉴팩처락 4인조 세트 무이자 12개월 혜택",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/31723",
     "slot_id": "31723",
     "title": "빌레로이앤보흐x준성담🎁메뉴팩처락 4인조 세트 무이자 12개월 혜택",
     "pgm": "인플루언서LIVE",
-    "pgm_cd": "1052",
-    "category": "주방·잡화"
+    "pgm_cd": "1052"
    },
    {
     "start": "10:00",
@@ -8932,22 +8931,23 @@
    {
     "start": "18:00",
     "end": "18:59",
-    "brand": "",
-    "product": "다시보는 겟잇뷰티💖GLOW UP with [다니엘트루스] 앵콜 방송🌸",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/31921",
+    "brand": "다니엘트루스",
+    "product": "오일퍼퓸 10mL 5종 세트",
+    "price": 267000,
+    "link": "https://item.cjonstyle.com/item/2051932494?channelCode=30002002",
     "slot_id": "31921",
     "title": "다시보는 겟잇뷰티💖GLOW UP with [다니엘트루스] 앵콜 방송🌸",
     "pgm": "겟잇뷰티",
-    "pgm_cd": "1012"
+    "pgm_cd": "1012",
+    "category": "뷰티"
    },
    {
     "start": "19:00",
     "end": "19:59",
     "brand": "더엣지",
-    "product": "코듀카라 퀼팅 패딩",
-    "price": 35910,
-    "link": "https://item.cjonstyle.com/item/2067231460?channelCode=30002002",
+    "product": "26FW 울혼방 헤링본 하프코트",
+    "price": 79900,
+    "link": "https://item.cjonstyle.com/item/2094484308?channelCode=30002002",
     "slot_id": "31726",
     "title": "❤️‍🔥더엣지 신상 겨울템 모음집",
     "pgm": "엣지쇼",
@@ -9394,14 +9394,15 @@
    {
     "start": "19:00",
     "end": "19:59",
-    "brand": "",
-    "product": "다시보는 겟잇뷰티💖GLOW UP with [다니엘트루스] 앵콜 방송🌸",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/31952",
+    "brand": "다니엘트루스",
+    "product": "오일퍼퓸 10mL 5종 세트",
+    "price": 267000,
+    "link": "https://item.cjonstyle.com/item/2051932494?channelCode=30002002",
     "slot_id": "31952",
     "title": "다시보는 겟잇뷰티💖GLOW UP with [다니엘트루스] 앵콜 방송🌸",
     "pgm": "겟잇뷰티",
-    "pgm_cd": "1012"
+    "pgm_cd": "1012",
+    "category": "뷰티"
    },
    {
     "start": "19:00",
@@ -9533,6 +9534,19 @@
    }
   ],
   "2026-11-22": [
+   {
+    "start": "08:00",
+    "end": "08:59",
+    "brand": "CJ이엔엠",
+    "product": "온키즈패스",
+    "price": 990,
+    "link": "https://item.cjonstyle.com/item/2094169362?channelCode=30002002",
+    "slot_id": "31962",
+    "title": "맘만.zip🗂️생필품, 유아동 핫딜 모아왔시유!",
+    "pgm": "맘만하니",
+    "pgm_cd": "0099",
+    "category": "서비스·렌탈"
+   },
    {
     "start": "08:00",
     "end": "09:00",
@@ -9831,14 +9845,15 @@
    {
     "start": "22:00",
     "end": "22:59",
-    "brand": "",
-    "product": "다시보는 겟잇뷰티💖GLOW UP with [다니엘트루스] 앵콜 방송🌸",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/31990",
+    "brand": "다니엘트루스",
+    "product": "오일퍼퓸 10mL 5종 세트",
+    "price": 267000,
+    "link": "https://item.cjonstyle.com/item/2051932494?channelCode=30002002",
     "slot_id": "31990",
     "title": "다시보는 겟잇뷰티💖GLOW UP with [다니엘트루스] 앵콜 방송🌸",
     "pgm": "겟잇뷰티",
-    "pgm_cd": "1012"
+    "pgm_cd": "1012",
+    "category": "뷰티"
    },
    {
     "start": "22:00",
@@ -9879,6 +9894,19 @@
     "title": "드베로타 양모 코트 라이브쇼 최초공개🤎페이즐리 다운/베스트 방송중 특가",
     "pgm": "라이브쇼",
     "pgm_cd": "0146"
+   },
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "CJ웰케어",
+    "product": "[CJ공식] 바이오코어 피부면역유산균 30캡슐 3박스 + 베이비 유산균 드롭D 3박스",
+    "price": 160400,
+    "link": "https://item.cjonstyle.com/item/2098372193?channelCode=30002002",
+    "slot_id": "31996",
+    "title": "건강다연x바이오코어💙피부면역 유산균 단독 최저가/베이비 유산균 최초공개",
+    "pgm": "인플루언서LIVE",
+    "pgm_cd": "1052",
+    "category": "식품·건강"
    },
    {
     "start": "11:00",
