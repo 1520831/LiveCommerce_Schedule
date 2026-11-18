@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-18T13:53:49+09:00",
+ "generated_at": "2026-11-18T15:55:21+09:00",
  "today": "2026-11-18",
  "dates": [
   "2026-11-17",
@@ -724,6 +724,25 @@ window.SCHEDULE = {
      "pgm": "[재방] 헤지스 잡화 (멀티커머스)"
     },
     {
+     "start": "07:00",
+     "end": "07:59",
+     "brand": "골든클레프",
+     "product": "18K 리얼진주 네크리스",
+     "price": 999000,
+     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252905617",
+     "slot_id": "202611196019",
+     "items": [
+      {
+       "brand": "골든클레프",
+       "product": "18K 리얼진주 네크리스",
+       "price": 999000,
+       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252905617"
+      }
+     ],
+     "title": "[노블리타] 이탈리아 18K 주얼리 전 상품 최저가도전",
+     "pgm": "[재방] 노블리타 (노블레스)"
+    },
+    {
      "start": "08:00",
      "end": "08:59",
      "brand": "레노마",
@@ -842,14 +861,14 @@ window.SCHEDULE = {
      "end": "15:59",
      "brand": "밋앤밀",
      "product": "고흥 산지직송 유기농 저탄소 완숙 유자 생과 1kg",
-     "price": 19300,
+     "price": 18900,
      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258036744",
      "slot_id": "202611196009",
      "items": [
       {
        "brand": "밋앤밀",
        "product": "고흥 산지직송 유기농 저탄소 완숙 유자 생과 1kg",
-       "price": 19300,
+       "price": 18900,
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258036744"
       }
      ],
@@ -917,16 +936,16 @@ window.SCHEDULE = {
      "start": "19:00",
      "end": "19:59",
      "brand": "에르노",
-     "product": "[에르노]6F PI0485DIC 12017Z 2600 여성 클라우디아 다운 패딩 도브 그레이",
-     "price": 990000,
-     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258233702",
+     "product": "[에르노]6S PI002203D 12017Z 1985 여성 크루넥 라인 버튼 다운 자켓 샹티이",
+     "price": 850000,
+     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253170830",
      "slot_id": "202611196013",
      "items": [
       {
        "brand": "에르노",
-       "product": "[에르노]6F PI0485DIC 12017Z 2600 여성 클라우디아 다운 패딩 도브 그레이",
-       "price": 990000,
-       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258233702"
+       "product": "[에르노]6S PI002203D 12017Z 1985 여성 크루넥 라인 버튼 다운 자켓 샹티이",
+       "price": 850000,
+       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253170830"
       }
      ],
      "title": "[에르노] 구스다운 롱패딩 월 1만원대",
@@ -991,6 +1010,25 @@ window.SCHEDULE = {
     }
    ],
    "2026-11-20": [
+    {
+     "start": "07:00",
+     "end": "07:59",
+     "brand": "골든클레프",
+     "product": "18K 리얼진주 네크리스",
+     "price": 999000,
+     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252905617",
+     "slot_id": "202611206021",
+     "items": [
+      {
+       "brand": "골든클레프",
+       "product": "18K 리얼진주 네크리스",
+       "price": 999000,
+       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252905617"
+      }
+     ],
+     "title": "[노블리타] 이탈리아 18K 주얼리 전 상품 최저가도전",
+     "pgm": "[재방] 노블리타 (노블레스)"
+    },
     {
      "start": "08:00",
      "end": "08:59",
@@ -1072,14 +1110,14 @@ window.SCHEDULE = {
      "end": "12:59",
      "brand": "BCBG",
      "product": "[비씨비지] 텍스처 밴딩 와이드 팬츠 B4WAP335-1 B4WAP335-1",
-     "price": 99000,
+     "price": 65000,
      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257770045",
      "slot_id": "202611206005",
      "items": [
       {
        "brand": "BCBG",
        "product": "[비씨비지] 텍스처 밴딩 와이드 팬츠 B4WAP335-1 B4WAP335-1",
-       "price": 99000,
+       "price": 65000,
        "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257770045"
       }
      ],
@@ -1279,6 +1317,25 @@ window.SCHEDULE = {
      "pgm": "현명쇼(노블레스)"
     },
     {
+     "start": "12:00",
+     "end": "12:59",
+     "brand": "헨리베글린",
+     "product": "아델리나백 블랙",
+     "price": 1130000,
+     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253652254",
+     "slot_id": "202611216017",
+     "items": [
+      {
+       "brand": "헨리베글린",
+       "product": "아델리나백 블랙",
+       "price": 1130000,
+       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253652254"
+      }
+     ],
+     "title": "[헨리베글린] 최신상 핸드백 & 시즌오프 특별가❤️",
+     "pgm": "[헨리베글린] 잡화 (멀티커머스)"
+    },
+    {
      "start": "14:00",
      "end": "14:59",
      "brand": "스타우브",
@@ -1301,16 +1358,16 @@ window.SCHEDULE = {
      "start": "15:00",
      "end": "15:59",
      "brand": "밋앤밀",
-     "product": "3대째 이어온 해남농부 꿀고구마(베니하루카) 특상 5kg(개당 130-300g)",
-     "price": 23700,
-     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2244273358",
+     "product": "해풍맞고 자란 남해 보물섬 시금치 1kg",
+     "price": 9600,
+     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2244311511",
      "slot_id": "202611216007",
      "items": [
       {
        "brand": "밋앤밀",
-       "product": "3대째 이어온 해남농부 꿀고구마(베니하루카) 특상 5kg(개당 130-300g)",
-       "price": 23700,
-       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2244273358"
+       "product": "해풍맞고 자란 남해 보물섬 시금치 1kg",
+       "price": 9600,
+       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2244311511"
       }
      ],
      "title": "[밋앤밀] 산지직송 남해 보물섬 시금치 라이브 특별가",
@@ -1450,6 +1507,25 @@ window.SCHEDULE = {
      ],
      "title": "[아서앤그레이스] 최고급 가죽으로 만드는 명품 가방",
      "pgm": "[아서앤그레이스] 가방/지갑 (패션잡화)"
+    },
+    {
+     "start": "23:00",
+     "end": "23:59",
+     "brand": "주크",
+     "product": "울 캐시미어 벨티드 코트Z264MSG151 Z264MSG151",
+     "price": 489300,
+     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258116651",
+     "slot_id": "202611226013",
+     "items": [
+      {
+       "brand": "주크",
+       "product": "울 캐시미어 벨티드 코트Z264MSG151 Z264MSG151",
+       "price": 489300,
+       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258116651"
+      }
+     ],
+     "title": "쥬크와 함께하는 겨울, 아우터 특집 방송📺",
+     "pgm": "현대렐라쇼 (멀티커머스)"
     }
    ],
    "2026-11-23": [
@@ -1794,7 +1870,7 @@ window.SCHEDULE = {
      "start": "13:00",
      "end": "13:59",
      "brand": "브이텍",
-     "product": "1위 국민템 세트 (NEW 깜짝볼 스마트 소프트 한영버전 + NEW 걸음마 보조기 스마트 폴딩 소프트)",
+     "product": "1위 국민템 세트 (NEW 깜짝볼 스마트 소프트 한영버전 + NEW 걸음마 보조기 스마트 폴딩 소프트)[예약판매 11/25 순차출고]",
      "price": 105840,
      "link": "https://item.cjonstyle.com/item/2076309972?channelCode=30002002",
      "slot_id": "31822",
@@ -2070,7 +2146,7 @@ window.SCHEDULE = {
      "end": "21:59",
      "brand": "까사렐",
      "product": "26 FW 플로럴 폼폼 모크넥 풀오버 3종",
-     "price": 79900,
+     "price": 59900,
      "link": "https://item.cjonstyle.com/item/2096011286?channelCode=30002002",
      "slot_id": "31693",
      "title": "명품 퀄리티 까사렐 26FW 3만 원대~ 방송 중 추가 할인 10%",
@@ -2201,7 +2277,7 @@ window.SCHEDULE = {
      "start": "09:00",
      "end": "09:59",
      "brand": "프라이(FRYE)",
-     "product": "26FW 워커 레이스업 부츠",
+     "product": "[1차 리오더]26FW 워커 레이스업 부츠",
      "price": 199000,
      "link": "https://item.cjonstyle.com/item/2095808835?channelCode=30002002",
      "slot_id": "31836",
@@ -2408,9 +2484,9 @@ window.SCHEDULE = {
      "start": "14:00",
      "end": "14:59",
      "brand": "토리든",
-     "product": "[내일오네][NEW] 다이브인 세럼 50ml * 3개 + 수딩크림 * 2개 + 마스크 20매 + 다이브인 멀티패드 + 트라이얼키트",
-     "price": 89900,
-     "link": "https://item.cjonstyle.com/item/2089793518?channelCode=30002002",
+     "product": "[내일오네] [NEW] 다이브인 저분자 히알루론산 세럼 50ml * 4개 + 수딩크림 * 2개 + 다이브인 필링젤 150ml + 다이브인 트라이얼",
+     "price": 78000,
+     "link": "https://item.cjonstyle.com/item/2089793735?channelCode=30002002",
      "slot_id": "31846",
      "title": "다시보는 수분명가 토리든x겟잇스타일🩵 방송에서만 최대 할인가!",
      "pgm": "겟잇스타일 프렌즈",
@@ -2596,7 +2672,7 @@ window.SCHEDULE = {
      "price": 89000,
      "link": "https://item.cjonstyle.com/item/2076950417?channelCode=30002002",
      "slot_id": "31702",
-     "title": "엣지쇼👗 애드아보아&아쿠아스큐텀 26FW 세일",
+     "title": "엣지쇼👗애드아보아&아쿠아스큐텀 26FW 세일",
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
      "category": "여성패션"
@@ -2867,14 +2943,15 @@ window.SCHEDULE = {
     {
      "start": "09:00",
      "end": "09:59",
-     "brand": "",
-     "product": "다시보는 르포엠 겨울 세일💕 스커트/니트/아우터 방송 중 최저가",
-     "price": 0,
-     "link": "https://mlive.cjonstyle.com/m/preview/31869",
+     "brand": "르포엠",
+     "product": "에셀 세미 와이드 팬츠",
+     "price": 12900,
+     "link": "https://item.cjonstyle.com/item/2076376377?channelCode=30002002",
      "slot_id": "31869",
      "title": "다시보는 르포엠 겨울 세일💕 스커트/니트/아우터 방송 중 최저가",
      "pgm": "브랜디드 라이브쇼",
-     "pgm_cd": "1130"
+     "pgm_cd": "1130",
+     "category": "여성패션"
     },
     {
      "start": "10:00",
@@ -2943,7 +3020,7 @@ window.SCHEDULE = {
      "start": "11:00",
      "end": "11:59",
      "brand": "시크",
-     "product": "(SEEC) 씨티 원 4 in 1 뉴본 하이체어 세트 신생아 아기 식탁의자",
+     "product": "[11/19 LIVE] 씨티 원 4 in 1 뉴본 하이체어 세트 신생아 아기 식탁의자",
      "price": 560000,
      "link": "https://item.cjonstyle.com/item/2097275550?channelCode=30002002",
      "slot_id": "31713",
@@ -2995,15 +3072,14 @@ window.SCHEDULE = {
     {
      "start": "12:00",
      "end": "12:59",
-     "brand": "헤이미니",
-     "product": "팝팝홀로그램스키패딩후드",
-     "price": 84900,
-     "link": "https://item.cjonstyle.com/item/2093943690?channelCode=30002002",
+     "brand": "",
+     "product": "[이거탐나린] 공주님들 원픽! 헤이미니 2차 공구템 ~84%+무배+사은품",
+     "price": 0,
+     "link": "https://mlive.cjonstyle.com/m/preview/31874",
      "slot_id": "31874",
      "title": "[이거탐나린] 공주님들 원픽! 헤이미니 2차 공구템 ~84%+무배+사은품",
      "pgm": "이거 탐나린",
-     "pgm_cd": "1146",
-     "category": "여성패션"
+     "pgm_cd": "1146"
     },
     {
      "start": "12:00",
@@ -3112,14 +3188,15 @@ window.SCHEDULE = {
     {
      "start": "16:00",
      "end": "16:59",
-     "brand": "",
-     "product": "다시보는 프라이 26FW 부츠 신상❤️ 최대 혜택가",
-     "price": 0,
-     "link": "https://mlive.cjonstyle.com/m/preview/31883",
+     "brand": "프라이(FRYE)",
+     "product": "[1차 리오더]26FW 워커 레이스업 부츠",
+     "price": 199000,
+     "link": "https://item.cjonstyle.com/item/2095808835?channelCode=30002002",
      "slot_id": "31883",
      "title": "다시보는 프라이 26FW 부츠 신상❤️ 최대 혜택가",
      "pgm": "라이브쇼",
-     "pgm_cd": "1008"
+     "pgm_cd": "1008",
+     "category": "잡화·슈즈"
     },
     {
      "start": "16:00",
@@ -3163,15 +3240,14 @@ window.SCHEDULE = {
     {
      "start": "18:00",
      "end": "18:59",
-     "brand": "케어베어",
-     "product": "뉴 텐더하트베어 귀달이 스키 점프 방한수트",
-     "price": 159000,
-     "link": "https://item.cjonstyle.com/item/2095810182?channelCode=30002002",
+     "brand": "",
+     "product": "케어베어 겨울 등원룩은 오늘로 완성! ~87%+카드5%+사은품",
+     "price": 0,
+     "link": "https://mlive.cjonstyle.com/m/preview/31887",
      "slot_id": "31887",
      "title": "케어베어 겨울 등원룩은 오늘로 완성! ~87%+카드5%+사은품",
      "pgm": "인플루언서LIVE",
      "pgm_cd": "1052",
-     "category": "여성패션",
      "cast": "influencer"
     },
     {
@@ -3481,9 +3557,9 @@ window.SCHEDULE = {
      "start": "10:00",
      "end": "10:59",
      "brand": "빌레로이앤보흐",
-     "product": "[준성담X매뉴팩처락 4인조 풀세트 화이트&블랙",
-     "price": 629000,
-     "link": "https://item.cjonstyle.com/item/2095832588?channelCode=30002002",
+     "product": "[공동구매] 매뉴팩처락 인디비쥬얼볼 13cm",
+     "price": 30250,
+     "link": "https://item.cjonstyle.com/item/2098372227?channelCode=30002002",
      "slot_id": "31723",
      "title": "빌레로이앤보흐x준성담🎁메뉴팩처락 4인조 세트 무이자 12개월 혜택",
      "pgm": "인플루언서LIVE",
@@ -3880,14 +3956,15 @@ window.SCHEDULE = {
     {
      "start": "21:00",
      "end": "21:59",
-     "brand": "",
-     "product": "다시보는 에스까다 26FW 숏패딩/베스트 패딩/니트 방송중 최저가🤍",
-     "price": 0,
-     "link": "https://mlive.cjonstyle.com/m/preview/31926",
+     "brand": "에스까다",
+     "product": "26FW 볼륨 후드 패딩 자켓 여성",
+     "price": 399000,
+     "link": "https://item.cjonstyle.com/item/2094671789?channelCode=30002002",
      "slot_id": "31926",
      "title": "다시보는 에스까다 26FW 숏패딩/베스트 패딩/니트 방송중 최저가🤍",
      "pgm": "라이브쇼",
-     "pgm_cd": "1008"
+     "pgm_cd": "1008",
+     "category": "스포츠·아웃도어"
     },
     {
      "start": "21:00",
@@ -4067,14 +4144,15 @@ window.SCHEDULE = {
     {
      "start": "12:00",
      "end": "12:59",
-     "brand": "",
-     "product": "다시보는💖베네통/시슬리 FW 신상 윈터 셀렉션",
-     "price": 0,
-     "link": "https://mlive.cjonstyle.com/m/preview/31940",
+     "brand": "베네통",
+     "product": "동가게PICK [공식정품] 26FW 호주산 양모100 테디코트",
+     "price": 161100,
+     "link": "https://item.cjonstyle.com/item/2095892702?channelCode=30002002",
      "slot_id": "31940",
      "title": "다시보는💖베네통/시슬리 FW 신상 윈터 셀렉션",
      "pgm": "엣지쇼",
-     "pgm_cd": "0223"
+     "pgm_cd": "0223",
+     "category": "스포츠·아웃도어"
     },
     {
      "start": "13:00",
@@ -4156,14 +4234,15 @@ window.SCHEDULE = {
     {
      "start": "16:00",
      "end": "16:59",
-     "brand": "",
-     "product": "다시보는 스튜디오 톰보이 스페셜! 겨울 코트 초특가 SALE❤",
-     "price": 0,
-     "link": "https://mlive.cjonstyle.com/m/preview/31947",
+     "brand": "스튜디오톰보이",
+     "product": "우먼 반더블 레글런 코트 9106411172",
+     "price": 319200,
+     "link": "https://item.cjonstyle.com/item/2095118537?channelCode=30002002",
      "slot_id": "31947",
      "title": "다시보는 스튜디오 톰보이 스페셜! 겨울 코트 초특가 SALE❤",
      "pgm": "스튜디오B",
-     "pgm_cd": "1108"
+     "pgm_cd": "1108",
+     "category": "여성패션"
     },
     {
      "start": "16:00",
@@ -4232,6 +4311,19 @@ window.SCHEDULE = {
     {
      "start": "19:00",
      "end": "19:59",
+     "brand": "셀렙샵에디션",
+     "product": "26FW 하이넥 프렌치 롱다운",
+     "price": 242100,
+     "link": "https://item.cjonstyle.com/item/2097573364?channelCode=30002002",
+     "slot_id": "31729",
+     "title": "셀렙샵에디션 26FW",
+     "pgm": "엣지쇼",
+     "pgm_cd": "0223",
+     "category": "여성패션"
+    },
+    {
+     "start": "19:00",
+     "end": "19:59",
      "brand": "",
      "product": "다시보는 겟잇뷰티💖GLOW UP with [다니엘트루스] 앵콜 방송🌸",
      "price": 0,
@@ -4270,6 +4362,19 @@ window.SCHEDULE = {
     {
      "start": "20:00",
      "end": "20:59",
+     "brand": "위프",
+     "product": "[브티나는생활] Whiff 다용도 탈취제 12개 모음전",
+     "price": 149000,
+     "link": "https://item.cjonstyle.com/item/2097226429?channelCode=30002002",
+     "slot_id": "31954",
+     "title": "다시보는 브티X위프 탈취제⭐환기 어려운 겨울철 실내 냄새 고민 끝!",
+     "pgm": "브티나는 생활",
+     "pgm_cd": "0101",
+     "category": "주방·잡화"
+    },
+    {
+     "start": "20:00",
+     "end": "20:59",
      "brand": "자코모",
      "product": "베니 3인 기능성 슈렁큰 천연면피 소가죽 소파",
      "price": 1980900,
@@ -4278,6 +4383,32 @@ window.SCHEDULE = {
      "title": "다시보는 자코모 베니&시그니처스윙 / 베니 슈렁큰 가죽 무료 업그레이드",
      "pgm": "하우스윗",
      "pgm_cd": "1048"
+    },
+    {
+     "start": "21:00",
+     "end": "22:00",
+     "brand": "조이그라이슨",
+     "product": "엘란 EW 숄더백 LW6AB1930_10",
+     "price": 179100,
+     "link": "https://item.cjonstyle.com/item/2095914316?channelCode=30002002",
+     "slot_id": "31957",
+     "title": "다시보는 [은세로운발견] 조이그라이슨 론칭 맞이 최대 할인",
+     "pgm": "은세로운 발견",
+     "pgm_cd": "1075",
+     "category": "잡화·슈즈",
+     "cast": "influencer"
+    },
+    {
+     "start": "21:00",
+     "end": "21:59",
+     "brand": "",
+     "product": "다시보는 엣지쇼💕 M12/드베로타 BEST 특집전",
+     "price": 0,
+     "link": "https://mlive.cjonstyle.com/m/preview/31981",
+     "slot_id": "31981",
+     "title": "다시보는 엣지쇼💕 M12/드베로타 BEST 특집전",
+     "pgm": "엣지쇼",
+     "pgm_cd": "0223"
     },
     {
      "start": "22:00",
@@ -4304,6 +4435,20 @@ window.SCHEDULE = {
      "pgm": "유부림의 라이브쇼",
      "pgm_cd": "1089",
      "category": "가구·침구",
+     "cast": "influencer"
+    },
+    {
+     "start": "23:00",
+     "end": "00:05",
+     "brand": "더엣지",
+     "product": "26FW 브러시드 알파카울 블렌디드 롱코트",
+     "price": 161910,
+     "link": "https://item.cjonstyle.com/item/2094958380?channelCode=30002002",
+     "slot_id": "31960",
+     "title": "다시보는 잇솔지❤️더엣지 롱코트! 다운, 자켓까지 겨울 아우터 SALE",
+     "pgm": "잇솔지",
+     "pgm_cd": "1109",
+     "category": "여성패션",
      "cast": "influencer"
     },
     {
@@ -4385,6 +4530,20 @@ window.SCHEDULE = {
      "pgm": "남다른 스타일",
      "pgm_cd": "1141",
      "category": "여성패션"
+    },
+    {
+     "start": "12:00",
+     "end": "13:00",
+     "brand": "조이그라이슨",
+     "product": "엘란 EW 숄더백 LW6AB1930_10",
+     "price": 179100,
+     "link": "https://item.cjonstyle.com/item/2095914316?channelCode=30002002",
+     "slot_id": "31970",
+     "title": "다시보는 [은세로운발견] 조이그라이슨 론칭 맞이 최대 할인",
+     "pgm": "은세로운 발견",
+     "pgm_cd": "1075",
+     "category": "잡화·슈즈",
+     "cast": "influencer"
     },
     {
      "start": "13:00",
@@ -4531,6 +4690,19 @@ window.SCHEDULE = {
     {
      "start": "20:00",
      "end": "20:59",
+     "brand": "위프",
+     "product": "[브티나는생활] Whiff 다용도 탈취제 12개 모음전",
+     "price": 149000,
+     "link": "https://item.cjonstyle.com/item/2097226429?channelCode=30002002",
+     "slot_id": "31986",
+     "title": "다시보는 브티X위프 탈취제⭐환기 어려운 겨울철 실내 냄새 고민 끝!",
+     "pgm": "브티나는 생활",
+     "pgm_cd": "0101",
+     "category": "주방·잡화"
+    },
+    {
+     "start": "20:00",
+     "end": "20:59",
      "brand": "다이슨",
      "product": "에어랩 i.d. 멀티 스타일러 앤 드라이어 (버건디/우드)+파우치 증 정",
      "price": 539100,
@@ -4635,6 +4807,18 @@ window.SCHEDULE = {
    ],
    "2026-11-23": [
     {
+     "start": "09:00",
+     "end": "09:59",
+     "brand": "",
+     "product": "드베로타 양모 코트 라이브쇼 최초공개🤎페이즐리 다운/베스트 방송중 특가",
+     "price": 0,
+     "link": "https://mlive.cjonstyle.com/m/preview/31994",
+     "slot_id": "31994",
+     "title": "드베로타 양모 코트 라이브쇼 최초공개🤎페이즐리 다운/베스트 방송중 특가",
+     "pgm": "라이브쇼",
+     "pgm_cd": "0146"
+    },
+    {
      "start": "11:00",
      "end": "11:59",
      "brand": "CJ이엔엠",
@@ -4673,6 +4857,19 @@ window.SCHEDULE = {
      "pgm_cd": "1108"
     },
     {
+     "start": "12:00",
+     "end": "12:59",
+     "brand": "",
+     "product": "다시보는 유부림x지누스💫그린티에어vs얼티마럭스S 올해 마지막 역대최저가",
+     "price": 0,
+     "link": "https://mlive.cjonstyle.com/m/preview/32100",
+     "slot_id": "32100",
+     "title": "다시보는 유부림x지누스💫그린티에어vs얼티마럭스S 올해 마지막 역대최저가",
+     "pgm": "유부림의 라이브쇼",
+     "pgm_cd": "1089",
+     "cast": "influencer"
+    },
+    {
      "start": "15:00",
      "end": "15:59",
      "brand": "자코모",
@@ -4683,6 +4880,31 @@ window.SCHEDULE = {
      "title": "다시보는 자코모 베니&시그니처스윙 / 베니 슈렁큰 가죽 무료 업그레이드",
      "pgm": "하우스윗",
      "pgm_cd": "1048"
+    },
+    {
+     "start": "17:00",
+     "end": "17:59",
+     "brand": "",
+     "product": "다시보는 한샘이라서 집가구싶다~BEST소파 엠마의 스윙버전 공개",
+     "price": 0,
+     "link": "https://mlive.cjonstyle.com/m/preview/32109",
+     "slot_id": "32109",
+     "title": "다시보는 한샘이라서 집가구싶다~BEST소파 엠마의 스윙버전 공개",
+     "pgm": "집가구싶다",
+     "pgm_cd": "1102"
+    },
+    {
+     "start": "18:00",
+     "end": "18:59",
+     "brand": "위프",
+     "product": "[브티나는생활] Whiff 다용도 탈취제 12개 모음전",
+     "price": 149000,
+     "link": "https://item.cjonstyle.com/item/2097226429?channelCode=30002002",
+     "slot_id": "32112",
+     "title": "다시보는 브티X위프 탈취제⭐환기 어려운 겨울철 실내 냄새 고민 끝!",
+     "pgm": "브티나는 생활",
+     "pgm_cd": "0101",
+     "category": "주방·잡화"
     },
     {
      "start": "19:00",
@@ -4721,6 +4943,33 @@ window.SCHEDULE = {
      "title": "하우스윗💫에이스침대 11월 한 달 중 오늘이 가장 저렴한 날!",
      "pgm": "하우스윗",
      "pgm_cd": "1048"
+    },
+    {
+     "start": "22:00",
+     "end": "23:00",
+     "brand": "조이그라이슨",
+     "product": "엘란 EW 숄더백 LW6AB1930_10",
+     "price": 179100,
+     "link": "https://item.cjonstyle.com/item/2095914316?channelCode=30002002",
+     "slot_id": "32120",
+     "title": "다시보는 [은세로운발견] 조이그라이슨 론칭 맞이 최대 할인",
+     "pgm": "은세로운 발견",
+     "pgm_cd": "1075",
+     "category": "잡화·슈즈",
+     "cast": "influencer"
+    },
+    {
+     "start": "23:00",
+     "end": "23:59",
+     "brand": "다우닝",
+     "product": "플랫 3.5인 스윙 전체 천연가죽 소파",
+     "price": 2499840,
+     "link": "https://item.cjonstyle.com/item/2009402856?channelCode=30002002",
+     "slot_id": "32122",
+     "title": "다시보는 다우닝 BEST💛플랫스윙&모션쿼드 최저가+백화점 상품권 찬스!",
+     "pgm": "하우스윗",
+     "pgm_cd": "1048",
+     "category": "가구·침구"
     }
    ]
   },
@@ -6222,7 +6471,7 @@ window.SCHEDULE = {
      "start": "10:01",
      "end": "11:01",
      "brand": "갤럭시",
-     "product": "삼성 공식 갤럭시 Z폴드8 256GB 자급제 SM-F971N live",
+     "product": "삼성 공식 갤럭시 Z폴드8 256GB 자급제 SM-F971N",
      "price": 2278100,
      "link": "https://shoppinglive.naver.com/livebridge/2068128",
      "slot_id": "2068128",
@@ -6411,32 +6660,6 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드"
-    },
-    {
-     "start": "10:30",
-     "end": "12:01",
-     "brand": "코코지",
-     "product": "[라이브 전용] 코코지 하우스와 퍼펙트 패키지",
-     "price": 262500,
-     "link": "https://shoppinglive.naver.com/livebridge/2077626",
-     "slot_id": "2077626",
-     "pgm": "[단 90분] 최대 50% 타임딜+7% 무제한 추가 적립🪙",
-     "title": "7% 무제한 추가 적립까지!",
-     "items": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-     ],
-     "category": "키즈"
     },
     {
      "start": "10:30",
@@ -7108,7 +7331,7 @@ window.SCHEDULE = {
      "end": "13:00",
      "brand": "유즈툴",
      "product": "유즈툴 자석 칫솔 번들팩 12개입",
-     "price": 48000,
+     "price": 39000,
      "link": "https://shoppinglive.naver.com/livebridge/2063689",
      "slot_id": "2063689",
      "pgm": "[블루밍데이즈] AI라이브 유즈툴 자석 칫솔 치약",
@@ -7224,7 +7447,7 @@ window.SCHEDULE = {
      "end": "13:00",
      "brand": "젤로젤로",
      "product": "젤로젤로 셀프젤네일 올인원 컬렉션 풀세트",
-     "price": 98000,
+     "price": 89000,
      "link": "https://shoppinglive.naver.com/livebridge/2065625",
      "slot_id": "2065625",
      "pgm": "[블루밍데이즈] 젤로젤로 셀프젤네일 65% OFF",
@@ -7365,7 +7588,7 @@ window.SCHEDULE = {
      "end": "12:32",
      "brand": "갤럭시탭",
      "product": "삼성 갤럭시탭 S11 WiFi 27.8cm(11형) S펜포함",
-     "price": 1179000,
+     "price": 1209000,
      "link": "https://shoppinglive.naver.com/livebridge/2072169",
      "slot_id": "2072169",
      "pgm": "종지부부의 스마트 육아 치트키! 갤럭시 꿀팁 대공개",
@@ -7570,439 +7793,67 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈"
+    },
+    {
+     "start": "11:00",
+     "end": "12:03",
+     "brand": "하베브릭스",
+     "product": "하베브릭스 바람개비 아기체육관 신생아선물 출산선물 감각발달",
+     "price": 71900,
+     "link": "https://shoppinglive.naver.com/livebridge/2075066",
+     "slot_id": "2075066",
+     "pgm": "[하베브릭스] 체육관, 변신큐브 외 국민장난감 초핫딜 LIVE",
+     "title": "전 장난감 핫딜+GIFT🎀",
+     "items": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+     ],
+     "category": "키즈"
     }
    ],
    "2026-11-18": [
-    {
-     "start": "00:50",
-     "end": "02:50",
-     "brand": "갤럭시",
-     "product": "삼성 갤럭시 워치8 (강화유리 패키지) 실버, 40mm, 블루투스",
-     "price": 387160,
-     "link": "https://shoppinglive.naver.com/livebridge/2097099",
-     "slot_id": "2097099",
-     "pgm": "⏰라이브 한정!갤럭시 워치9 울트라2 갤럭시워치8 클래식 최대혜택⏰",
-     "title": "⌚갤럭시 워치 최대 세일!",
-     "items": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-     ],
-     "category": "테크"
-    },
-    {
-     "start": "01:10",
-     "end": "03:08",
-     "brand": "갤럭시",
-     "product": "삼성 갤럭시 워치9 강화유리 패키지 크림, 40mm, 블루투스",
-     "price": 499000,
-     "link": "https://shoppinglive.naver.com/livebridge/2093513",
-     "slot_id": "2093513",
-     "pgm": "⌚한정 혜택｜갤럭시 워치9·울트라2·워치8 클래식·충전기류 🌹",
-     "title": "갤럭시 워치9ㅣ울트라2 혜택",
-     "items": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-     ],
-     "category": "테크"
-    },
-    {
-     "start": "03:00",
-     "end": "05:00",
-     "brand": "갤럭시",
-     "product": "삼성 갤럭시 워치8 (강화유리 패키지) 실버, 40mm, 블루투스",
-     "price": 387160,
-     "link": "https://shoppinglive.naver.com/livebridge/2097100",
-     "slot_id": "2097100",
-     "pgm": "⏰라이브 한정!갤럭시 워치9 울트라2 갤럭시워치8 클래식 최대혜택⏰",
-     "title": "⌚갤럭시 워치 최대 세일!",
-     "items": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-     ],
-     "category": "테크"
-    },
-    {
-     "start": "03:20",
-     "end": "05:18",
-     "brand": "갤럭시",
-     "product": "삼성 갤럭시 워치9 강화유리 패키지 크림, 40mm, 블루투스",
-     "price": 499000,
-     "link": "https://shoppinglive.naver.com/livebridge/2093515",
-     "slot_id": "2093515",
-     "pgm": "⌚한정 혜택｜갤럭시 워치9·울트라2·워치8 클래식·충전기류 🌹",
-     "title": "갤럭시 워치9ㅣ울트라2 혜택",
-     "items": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-     ],
-     "category": "테크"
-    },
     {
      "start": "06:00",
      "end": "08:00",
@@ -8202,7 +8053,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -8288,7 +8139,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -8607,7 +8458,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -8749,8 +8600,8 @@ window.SCHEDULE = {
      "start": "10:00",
      "end": "11:01",
      "brand": "상하목장",
-     "product": "상하목장 콩물두유 서리태 180ml 15입 [+서리태 3입 추가 증정] [도착보장]",
-     "price": 26900,
+     "product": "상하목장 콩물두유 서리태 180ml 15입 [+쑥 3입 증정] [도착보장]",
+     "price": 27900,
      "link": "https://shoppinglive.naver.com/livebridge/2075620",
      "slot_id": "2075620",
      "pgm": "1박스 추가 증정📢 상하목장 특등급 햇서리태 콩물두유 최대16%적립까지",
@@ -9099,7 +8950,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 7
     },
     {
      "start": "10:50",
@@ -9571,7 +9422,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -9728,8 +9580,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프",
-     "hot": 1
+     "category": "라이프"
     },
     {
      "start": "11:00",
@@ -10561,7 +10412,7 @@ window.SCHEDULE = {
     },
     {
      "start": "13:00",
-     "end": "",
+     "end": "14:01",
      "brand": "비스포크",
      "product": "삼성 비스포크 AI 냉장고 4도어 1등급 푸드쇼케이스 에센셜 베이지(RM70F90M1GD)",
      "price": 2190000,
@@ -10609,7 +10460,7 @@ window.SCHEDULE = {
     },
     {
      "start": "13:00",
-     "end": "",
+     "end": "14:00",
      "brand": "래피즈",
      "product": "래피즈 골뽕보드 사이드 스텝퍼 좌우 슬라이딩 스윙 힙딥 홈트 운동기구",
      "price": 109000,
@@ -10630,7 +10481,7 @@ window.SCHEDULE = {
     },
     {
      "start": "13:00",
-     "end": "",
+     "end": "14:59",
      "brand": "CUCKOO",
      "product": "[블랙프라이데이] 쿠쿠 인앤아웃 직수 정수기 CP-TS011WS",
      "price": 2512800,
@@ -10667,9 +10518,9 @@ window.SCHEDULE = {
     },
     {
      "start": "13:01",
-     "end": "",
+     "end": "14:01",
      "brand": "갤럭시",
-     "product": "삼성 공식 갤럭시 Z폴드8 256GB 자급제 SM-F971N live",
+     "product": "삼성 공식 갤럭시 Z폴드8 256GB 자급제 SM-F971N",
      "price": 2278100,
      "link": "https://shoppinglive.naver.com/livebridge/2068135",
      "slot_id": "2068135",
@@ -10713,7 +10564,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "14:00",
@@ -10782,10 +10633,10 @@ window.SCHEDULE = {
     },
     {
      "start": "14:00",
-     "end": "",
+     "end": "15:00",
      "brand": "피토레스코 스토어",
      "product": "[피토레스코] 진주 비비 쿠션 팩트 (본품+리필)",
-     "price": 55500,
+     "price": 52500,
      "link": "https://shoppinglive.naver.com/livebridge/2095119",
      "slot_id": "2095119",
      "pgm": "최대 60%🔥 피토레스코 블랙프라이데이 SPECIAL LIVE🎁",
@@ -10804,7 +10655,7 @@ window.SCHEDULE = {
     },
     {
      "start": "14:00",
-     "end": "",
+     "end": "14:45",
      "brand": "오누레",
      "product": "오누레 어린이집 낮잠이불 사계절 아기 유아 모달 100% 미끄럼방지 패드 세트",
      "price": 84900,
@@ -10822,7 +10673,7 @@ window.SCHEDULE = {
      "end": "",
      "brand": "베이비붐",
      "product": "5+1 아기 내복 순면 양면 자가드 신생아 실내복 가을 겨울 봄 긴팔 상하 내의 세트",
-     "price": 15900,
+     "price": 15100,
      "link": "https://shoppinglive.naver.com/livebridge/2098786",
      "slot_id": "2098786",
      "pgm": "🔥26F/W 신상 유아내복 5%할인+무배🍂이월 최대37% 특가❄️",
@@ -11212,7 +11063,7 @@ window.SCHEDULE = {
      "end": "",
      "brand": "바더만",
      "product": "바더만 자연결스카프 실크 롱 스카프 에코프린팅 천연 염색 롱 자연 핸드메이드",
-     "price": 188000,
+     "price": 150000,
      "link": "https://shoppinglive.naver.com/livebridge/2061952",
      "slot_id": "2061952",
      "pgm": "[블루밍] 11월 월동준비는 바더만 자연결 자연염색 스카프로",
@@ -11246,7 +11097,7 @@ window.SCHEDULE = {
      "end": "",
      "brand": "시골다리",
      "product": "자연방사 동물복지 유정란 무항생제 사육환경번호1번 자유방목 계란 40구 시골다리",
-     "price": 37500,
+     "price": 35600,
      "link": "https://shoppinglive.naver.com/livebridge/2058378",
      "slot_id": "2058378",
      "pgm": "[블루밍] 난각번호1번👍🏻자연방사 동물복지 유정란🐔🥚🐔",
@@ -11275,6 +11126,24 @@ window.SCHEDULE = {
       {},
       {},
       {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
       {}
      ],
      "category": "패션"
@@ -11284,7 +11153,7 @@ window.SCHEDULE = {
      "end": "",
      "brand": "방울따옴",
      "product": "방울따옴 당일수확 대추 방울토마토 3kg 1.5kg 산지직송 토마토",
-     "price": 24900,
+     "price": 22900,
      "link": "https://shoppinglive.naver.com/livebridge/2095695",
      "slot_id": "2095695",
      "pgm": "[전국 팔도유람] 스마트팜에서 키운 신선한 방토",
@@ -11767,12 +11636,13 @@ window.SCHEDULE = {
      "end": "",
      "brand": "비지트인뉴욕",
      "product": "[비지트인뉴욕] 스탠카라 인조 무스탕 (VCCMU91)",
-     "price": 155220,
+     "price": 137900,
      "link": "https://shoppinglive.naver.com/livebridge/2075930",
      "slot_id": "2075930",
      "pgm": "비지트인뉴욕 슈퍼위크 LIVE",
      "title": "잠실점만의 단독특가^^",
      "items": [
+      {},
       {},
       {},
       {},
@@ -12281,7 +12151,7 @@ window.SCHEDULE = {
      "start": "19:00",
      "end": "",
      "brand": "눅스",
-     "product": "[11/18오픈][라이브단독200ml] 눅스 윌 프로디쥬스 멀티오일 100ml+100ml + GIFT",
+     "product": "눅스 윌 프로디쥬스 멀티오일 100ml+100ml + GIFT",
      "price": 104000,
      "link": "https://shoppinglive.naver.com/livebridge/2061912",
      "slot_id": "2061912",
@@ -12308,7 +12178,7 @@ window.SCHEDULE = {
      "start": "19:00",
      "end": "",
      "brand": "그램북",
-     "product": "블프 94만+ LG그램북 AI 14 코어3 8G 256G 14UD40V-GX3JK",
+     "product": "LIVE 94만+ LG그램북 AI 14 코어3 8G 256G 14UD40V-GX3JK",
      "price": 1195000,
      "link": "https://shoppinglive.naver.com/livebridge/2067030",
      "slot_id": "2067030",
@@ -12487,30 +12357,6 @@ window.SCHEDULE = {
       {}
      ],
      "category": "패션"
-    },
-    {
-     "start": "19:00",
-     "end": "",
-     "brand": "로라메르시에",
-     "product": "[로라 메르시에] 아이 컬러 2.6g",
-     "price": 43890,
-     "link": "https://shoppinglive.naver.com/livebridge/2081820",
-     "slot_id": "2081820",
-     "pgm": "로라메르시에 30주년 기념 BEST 메이크업 & 바디케어 기프트 추천",
-     "title": "로라메르시에 라이브",
-     "items": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-     ],
-     "category": "뷰티"
     },
     {
      "start": "19:00",
@@ -13079,6 +12925,8 @@ window.SCHEDULE = {
       {},
       {},
       {},
+      {},
+      {},
       {}
      ],
      "category": "패션"
@@ -13196,6 +13044,268 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드"
+    },
+    {
+     "start": "20:00",
+     "end": "",
+     "brand": "워시콤보",
+     "product": "LG 워시콤보 미니워시 FH25WAX 화이트 세탁기 건조기 일체형 25kg 15kg 4kg",
+     "price": 3489000,
+     "link": "https://shoppinglive.naver.com/livebridge/2077404",
+     "slot_id": "2077404",
+     "pgm": "Live적립💝 LG전자 세탁·주방가전 인기 모델 혜택전",
+     "title": "LG전자 1시간 특가LIVE",
+     "items": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+     ],
+     "category": "테크"
+    },
+    {
+     "start": "20:00",
+     "end": "",
+     "brand": "BCBG",
+     "product": "BCBG 스트링 포우퍼조끼 B6D9NY987",
+     "price": 99000,
+     "link": "https://shoppinglive.naver.com/livebridge/2087157",
+     "slot_id": "2087157",
+     "pgm": "NC야탑점『비씨비지』💛11/18(수),오후8시💛최상단 라이브💕",
+     "title": "라이브진행시 더블쿠폰 증정!",
+     "items": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+     ],
+     "category": "패션"
+    },
+    {
+     "start": "20:00",
+     "end": "",
+     "brand": "퍼핑본사",
+     "product": "퍼핑 강아지매트 애견 펫 복도 미끄럼방지매트",
+     "price": 83000,
+     "link": "https://shoppinglive.naver.com/livebridge/2089731",
+     "slot_id": "2089731",
+     "pgm": "[퍼핑 블랙위크] 멀티매트 100% 증정+최대 1만원 쿠폰",
+     "title": "퍼핑특가",
+     "items": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+     ],
+     "category": "라이프"
+    },
+    {
+     "start": "20:00",
+     "end": "",
+     "brand": "",
+     "product": "",
+     "price": 0,
+     "link": "https://shoppinglive.naver.com/livebridge/2095338",
+     "slot_id": "2095338",
+     "pgm": "[호텔핫딜] 체스터톤스 속초 최대 81% 할인!",
+     "title": "체스터톤스속초 81% 할인!",
+     "planned": true,
+     "category": "여행/체험"
+    },
+    {
+     "start": "20:00",
+     "end": "",
+     "brand": "JBL",
+     "product": "삼성공식파트너 JBL BAR 1300 MK2 11.1.4채널 사운드바 홈시어터 TV스피커",
+     "price": 1499000,
+     "link": "https://shoppinglive.naver.com/livebridge/2100780",
+     "slot_id": "2100780",
+     "pgm": "[윈터세일 라이브] JBL 사운드바 블루투스헤드셋 블루투스스피커 이어폰",
+     "title": "라이브 특가",
+     "items": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+     ],
+     "category": "테크"
     }
    ],
    "2026-11-19": [
@@ -14284,7 +14394,7 @@ window.SCHEDULE = {
      "start": "10:01",
      "end": "",
      "brand": "갤럭시",
-     "product": "삼성 공식 갤럭시 Z폴드8 256GB 자급제 SM-F971N live",
+     "product": "삼성 공식 갤럭시 Z폴드8 256GB 자급제 SM-F971N",
      "price": 2278100,
      "link": "https://shoppinglive.naver.com/livebridge/2068141",
      "slot_id": "2068141",
@@ -14536,7 +14646,7 @@ window.SCHEDULE = {
      "start": "11:00",
      "end": "",
      "brand": "글로벌나이프",
-     "product": "(11.19 예약출고) 글로벌나이프 G-77 쿡스 나이프 딤플 20cm 셰프나이프",
+     "product": "글로벌나이프 G-77 쿡스 나이프 딤플 20cm 셰프나이프",
      "price": 131400,
      "link": "https://shoppinglive.naver.com/livebridge/2056504",
      "slot_id": "2056504",
@@ -14852,6 +14962,10 @@ window.SCHEDULE = {
      "pgm": "호무로 블랙프라이데이 LIVE 알러지케어 침구 최대83% 할인",
      "title": "라이브 단독 10%추가할인",
      "items": [
+      {},
+      {},
+      {},
+      {},
       {},
       {},
       {},
@@ -17055,7 +17169,7 @@ window.SCHEDULE = {
      "start": "13:01",
      "end": "",
      "brand": "갤럭시",
-     "product": "삼성 공식 갤럭시 Z폴드8 256GB 자급제 SM-F971N live",
+     "product": "삼성 공식 갤럭시 Z폴드8 256GB 자급제 SM-F971N",
      "price": 2278100,
      "link": "https://shoppinglive.naver.com/livebridge/2068148",
      "slot_id": "2068148",
@@ -19964,6 +20078,35 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크"
+    },
+    {
+     "start": "19:00",
+     "end": "",
+     "brand": "에고이스트",
+     "product": "[에고이스트] 슬림 A라인 싱글버튼 벨티드 다운 코트 EQ4NC061",
+     "price": 299400,
+     "link": "https://shoppinglive.naver.com/livebridge/2075889",
+     "slot_id": "2075889",
+     "pgm": "【뉴코아강남】11.21(토)저녁7시,에고이스트 아울렛데이 LIVE💜",
+     "title": "에고이스트 신상 & 슈퍼위크",
+     "items": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+     ],
+     "category": "패션"
     },
     {
      "start": "19:00",
@@ -23921,6 +24064,21 @@ window.SCHEDULE = {
     {
      "start": "10:00",
      "end": "",
+     "brand": "밤부베베",
+     "product": "[밤부베베] 시그니처 거즈손수건_행복한 말랑이 6장",
+     "price": 17000,
+     "link": "https://shoppinglive.naver.com/livebridge/2073522",
+     "slot_id": "2073522",
+     "pgm": "2027 밤부베베 양띠 컬렉션🐑 최초공개 LIVE",
+     "title": "라이브 단독 추가할인📌",
+     "items": [
+      {}
+     ],
+     "category": "키즈"
+    },
+    {
+     "start": "10:00",
+     "end": "",
      "brand": "다룸",
      "product": "NEW 다룸 시그니처 디자인 스마트 자동 센서 쓰레기통 화이트 블랙 아이보리 20L",
      "price": 95000,
@@ -23952,7 +24110,7 @@ window.SCHEDULE = {
      "start": "10:01",
      "end": "",
      "brand": "갤럭시",
-     "product": "삼성 공식 갤럭시 Z폴드8 256GB 자급제 SM-F971N live",
+     "product": "삼성 공식 갤럭시 Z폴드8 256GB 자급제 SM-F971N",
      "price": 2278100,
      "link": "https://shoppinglive.naver.com/livebridge/2068152",
      "slot_id": "2068152",
@@ -24111,23 +24269,6 @@ window.SCHEDULE = {
       {},
       {},
       {},
-      {},
-      {},
-      {}
-     ],
-     "category": "테크"
-    },
-    {
-     "start": "11:00",
-     "end": "",
-     "brand": "필립스생활가전",
-     "product": "필립스 바리스티나 빈스왑 전자동 커피머신 +넉박스&모모스원두 2종",
-     "price": 549000,
-     "link": "https://shoppinglive.naver.com/livebridge/2059170",
-     "slot_id": "2059170",
-     "pgm": "[멤버십데이]💙필립스X박소현의소개팅 바리스티나 커피머신 49%역대급할인",
-     "title": "필립스 멤버십데이 라이브",
-     "items": [
       {},
       {},
       {}
@@ -24475,21 +24616,6 @@ window.SCHEDULE = {
     {
      "start": "11:00",
      "end": "",
-     "brand": "프로쉬",
-     "product": "[프로쉬] 식기세척기세제 그린레몬 미니 50개입 2개+식세기클리너 1개+포켓 장바구니 1개",
-     "price": 38900,
-     "link": "https://shoppinglive.naver.com/livebridge/2087893",
-     "slot_id": "2087893",
-     "pgm": "[블루밍] 프로쉬 넣고 프로쉬 넣자! 프로쉬 블루밍데이즈 특집 라이브",
-     "title": "프로쉬 블루밍 데이즈 라이브",
-     "items": [
-      {}
-     ],
-     "category": "라이프"
-    },
-    {
-     "start": "11:00",
-     "end": "",
      "brand": "그릭데이",
      "product": "그릭데이 꾸덕한 무가당 그릭요거트 맛보기 8개 골라담기",
      "price": 25400,
@@ -24513,6 +24639,41 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드"
+    },
+    {
+     "start": "11:00",
+     "end": "",
+     "brand": "이즈칸",
+     "product": "이즈칸 고양이 사료 헤어볼 솔루션 1.4kg",
+     "price": 16800,
+     "link": "https://shoppinglive.naver.com/livebridge/2091122",
+     "slot_id": "2091122",
+     "pgm": "이즈칸 솔루션 신상WEEK : 우리 아이 고민별 맞춤 솔루션",
+     "title": "이즈칸 솔루션 신상WEEK",
+     "items": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+     ],
+     "category": "라이프"
     },
     {
      "start": "11:00",
@@ -25042,7 +25203,7 @@ window.SCHEDULE = {
      "start": "13:01",
      "end": "",
      "brand": "갤럭시",
-     "product": "삼성 공식 갤럭시 Z폴드8 256GB 자급제 SM-F971N live",
+     "product": "삼성 공식 갤럭시 Z폴드8 256GB 자급제 SM-F971N",
      "price": 2278100,
      "link": "https://shoppinglive.naver.com/livebridge/2068156",
      "slot_id": "2068156",
@@ -26522,7 +26683,7 @@ window.SCHEDULE = {
      "pgm": "홍진경이 선택한 곡물도감",
      "title": "신제품 첫공개 특가 라이브!",
      "category": "식품",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "08:30",
@@ -26583,7 +26744,7 @@ window.SCHEDULE = {
      "pgm": "드시모네X민화마켓",
      "title": "올리브영 기프티콘 증정",
      "category": "식품",
-     "hot": 9
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -26632,7 +26793,19 @@ window.SCHEDULE = {
      "pgm": "밀크베이비 본격 겨울 준비",
      "title": "카쇼라 LIVE 초특가!",
      "category": "키즈",
-     "hot": 7
+     "hot": 6
+    },
+    {
+     "start": "14:31",
+     "end": "15:01",
+     "brand": "터치그라운드 스니커즈",
+     "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+     "price": 49000,
+     "link": "https://store.kakao.com/touchground/products/774098244",
+     "slot_id": "62098",
+     "pgm": "발에 입는 패딩",
+     "title": "터치그라운드 패딩슈즈",
+     "category": "패션"
     },
     {
      "start": "17:00",
@@ -26815,18 +26988,6 @@ window.SCHEDULE = {
      "category": "여행",
      "rerun": true,
      "rerun_of": "61473"
-    },
-    {
-     "start": "22:30",
-     "end": "00:00",
-     "brand": "터치그라운드 스니커즈",
-     "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-     "price": 49000,
-     "link": "https://store.kakao.com/touchground/products/774098244",
-     "slot_id": "62098",
-     "pgm": "발에 입는 패딩",
-     "title": "터치그라운드 패딩슈즈",
-     "category": "패션"
     }
    ],
    "2026-11-19": [
@@ -27014,7 +27175,7 @@ window.SCHEDULE = {
      "start": "19:00",
      "end": "20:30",
      "brand": "프로티원",
-     "product": "[4주분] 프로티원 대용량 단백질 쉐이크 7가지맛 2통 골라담기",
+     "product": "프로티원 대용량 단백질 쉐이크 7가지맛 2통 골라담기",
      "price": 86000,
      "link": "https://store.kakao.com/proteeone/products/104031228",
      "slot_id": "61670",
@@ -27090,8 +27251,8 @@ window.SCHEDULE = {
      "price": 43900,
      "link": "https://store.kakao.com/cocodor/products/56285194",
      "slot_id": "61708",
-     "pgm": "코코도르 홈프래그런스",
-     "title": "디퓨저&탈취제 블프 특가",
+     "pgm": "코코도르 블프 특가!",
+     "title": "디퓨저&탈취제 역대급 할인",
      "category": "리빙"
     },
     {
@@ -27428,7 +27589,7 @@ window.SCHEDULE = {
      "price": 649000,
      "link": "https://store.kakao.com/inic/products/722464756",
      "slot_id": "61820",
-     "pgm": "최종체감 25만원대! 아이닉",
+     "pgm": "최종체감 24만원대! 아이닉",
      "title": "맥스제로 i90 무선청소기",
      "category": "테크"
     },
@@ -27462,7 +27623,7 @@ window.SCHEDULE = {
      "start": "10:00",
      "end": "13:00",
      "brand": "라엘코리아",
-     "product": "라엘 내추럴 순면커버 생리대 10팩",
+     "product": "[라엘 라이브] 라엘 내추럴 순면커버 생리대 10팩",
      "price": 64000,
      "link": "https://store.kakao.com/rael/products/287186815",
      "slot_id": "61695",
@@ -27498,7 +27659,7 @@ window.SCHEDULE = {
      "start": "11:30",
      "end": "13:00",
      "brand": "시몬하우스",
-     "product": "[안드로스 비넛츠] 땅콩버터 100%/크리미/크런치 1+1 모음 무첨가 무가당 땅콩잼 피넛버터 (디아토스타 증정/이벤트)",
+     "product": "[안드로스 비넛츠] 땅콩버터 100%/크리미/크런치 모음 무첨가 무가당 땅콩잼 피넛버터 (디아토스타 증정/이벤트)",
      "price": 19800,
      "link": "https://store.kakao.com/uniangels/products/664427510",
      "slot_id": "61702",
@@ -28032,11 +28193,11 @@ window.SCHEDULE = {
   }
  },
  "updated_at": {
-  "HD": "2026-11-18T13:52:11+09:00",
-  "CJ": "2026-11-18T13:52:17+09:00",
-  "NV": "2026-11-18T13:53:44+09:00",
+  "HD": "2026-11-18T15:53:57+09:00",
+  "CJ": "2026-11-18T15:54:03+09:00",
+  "NV": "2026-11-18T15:55:16+09:00",
   "GM": "2026-11-18T08:17:32+09:00",
-  "KA": "2026-11-18T13:52:28+09:00"
+  "KA": "2026-11-18T15:54:12+09:00"
  },
  "cast_kinds": [
   "celeb",
@@ -28066,25 +28227,25 @@ window.SCHEDULE = {
     ],
     "kind": "daily",
     "tier": "fixed",
-    "hits": 53,
-    "span": 88,
+    "hits": 25,
+    "span": 41,
     "wd_hits": [
-     12,
-     12,
-     10,
-     9,
-     10,
+     5,
+     6,
+     5,
+     4,
+     5,
      0,
      0
     ],
     "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     5,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      60,
@@ -28096,47 +28257,6 @@ window.SCHEDULE = {
      null
     ],
     "manual": true
-   },
-   {
-    "ch": "CJ",
-    "pgm": "브랜디드 라이브쇼",
-    "start": "09:00",
-    "days": [
-     "화",
-     "수"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 6,
-    "span": 90,
-    "wd_hits": [
-     1,
-     2,
-     3,
-     0,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     60,
-     60,
-     60,
-     null,
-     null,
-     null,
-     null
-    ],
-    "manual": false
    },
    {
     "ch": "HD",
@@ -28152,196 +28272,36 @@ window.SCHEDULE = {
     ],
     "kind": "daily",
     "tier": "fixed",
-    "hits": 60,
-    "span": 88,
+    "hits": 27,
+    "span": 41,
     "wd_hits": [
-     7,
-     12,
-     11,
-     10,
-     12,
-     8,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     60,
-     60,
-     60,
-     60,
-     60,
-     60,
-     null
-    ],
-    "manual": true
-   },
-   {
-    "ch": "CJ",
-    "pgm": "맘만하니",
-    "start": "09:40",
-    "days": [
-     "목"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 5,
-    "span": 90,
-    "wd_hits": [
-     1,
-     1,
-     0,
-     2,
-     1,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     80,
-     80,
-     null,
-     80,
-     80,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "CJ",
-    "pgm": "ONSTAR LIVE",
-    "start": "10:00",
-    "days": [
-     "화"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 5,
-    "span": 90,
-    "wd_hits": [
-     1,
-     2,
-     0,
-     2,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     60,
-     60,
-     null,
-     60,
-     null,
-     null,
-     null
-    ],
-    "manual": true
-   },
-   {
-    "ch": "CJ",
-    "pgm": "VIVA ITALIA",
-    "start": "10:00",
-    "days": [
-     "월"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 0,
-    "span": 0,
-    "wd_hits": [
-     1,
-     0,
-     1,
-     0,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     60,
-     null,
-     60,
-     null,
-     null,
-     null,
-     null
-    ],
-    "manual": true
-   },
-   {
-    "ch": "CJ",
-    "pgm": "두둥맘대로",
-    "start": "10:00",
-    "days": [
-     "목"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 6,
-    "span": 90,
-    "wd_hits": [
-     1,
-     1,
-     1,
      3,
-     0,
-     0,
+     6,
+     5,
+     5,
+     6,
+     2,
      0
     ],
     "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     5,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      60,
-     61,
      60,
      60,
-     null,
-     null,
+     60,
+     60,
+     60,
      null
     ],
-    "manual": false
+    "manual": true
    },
    {
     "ch": "CJ",
@@ -28352,25 +28312,25 @@ window.SCHEDULE = {
     ],
     "kind": "weekly",
     "tier": "fixed",
-    "hits": 8,
-    "span": 90,
+    "hits": 5,
+    "span": 42,
     "wd_hits": [
      0,
      0,
      0,
      0,
-     8,
+     5,
      0,
      0
     ],
     "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     6,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      null,
@@ -28381,7 +28341,7 @@ window.SCHEDULE = {
      null,
      null
     ],
-    "manual": false
+    "manual": true
    },
    {
     "ch": "CJ",
@@ -28396,25 +28356,25 @@ window.SCHEDULE = {
     ],
     "kind": "daily",
     "tier": "fixed",
-    "hits": 53,
-    "span": 90,
+    "hits": 28,
+    "span": 42,
     "wd_hits": [
-     10,
-     11,
-     12,
-     10,
-     10,
+     5,
+     5,
+     6,
+     6,
+     6,
      0,
      0
     ],
     "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     6,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      60,
@@ -28426,208 +28386,6 @@ window.SCHEDULE = {
      null
     ],
     "manual": true
-   },
-   {
-    "ch": "CJ",
-    "pgm": "브랜디드 라이브쇼",
-    "start": "10:00",
-    "days": [
-     "수",
-     "목",
-     "금"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 6,
-    "span": 90,
-    "wd_hits": [
-     0,
-     0,
-     2,
-     2,
-     2,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     60,
-     60,
-     60,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "CJ",
-    "pgm": "헬스프로",
-    "start": "10:00",
-    "days": [
-     "월"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 4,
-    "span": 90,
-    "wd_hits": [
-     4,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     60,
-     null,
-     null,
-     null,
-     null,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[마이르핀] 의류",
-    "start": "10:00",
-    "days": [
-     "일"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     2
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     null,
-     null,
-     null,
-     60
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[예본모피] 모피",
-    "start": "10:00",
-    "days": [
-     "일"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     2
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     null,
-     null,
-     null,
-     60
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[프로그] 생활용품",
-    "start": "10:00",
-    "days": [
-     "일"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     2
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     null,
-     null,
-     null,
-     60
-    ],
-    "manual": false
    },
    {
     "ch": "HD",
@@ -28642,25 +28400,25 @@ window.SCHEDULE = {
     ],
     "kind": "daily",
     "tier": "fixed",
-    "hits": 56,
-    "span": 88,
+    "hits": 26,
+    "span": 41,
     "wd_hits": [
-     12,
-     11,
-     11,
-     10,
-     12,
+     5,
+     5,
+     5,
+     5,
+     6,
      0,
      0
     ],
     "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     5,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      60,
@@ -28672,266 +28430,21 @@ window.SCHEDULE = {
      null
     ],
     "manual": true
-   },
-   {
-    "ch": "CJ",
-    "pgm": "바이림",
-    "start": "10:15",
-    "days": [
-     "수"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 90,
-    "wd_hits": [
-     0,
-     0,
-     2,
-     0,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     65,
-     null,
-     null,
-     null,
-     null
-    ],
-    "manual": false
    },
    {
     "ch": "CJ",
     "pgm": "스타일 나래이션",
     "start": "10:20",
     "days": [
-     "화",
-     "수",
-     "목",
-     "금"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 10,
-    "span": 90,
-    "wd_hits": [
-     0,
-     2,
-     2,
-     4,
-     2,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     65,
-     65,
-     65,
-     65,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "CJ",
-    "pgm": "까사림의 감성하우스",
-    "start": "11:00",
-    "days": [
-     "화"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 0,
-    "span": 0,
-    "wd_hits": [
-     1,
-     1,
-     0,
-     0,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     60,
-     60,
-     null,
-     null,
-     null,
-     null,
-     null
-    ],
-    "manual": true
-   },
-   {
-    "ch": "CJ",
-    "pgm": "다겨미네",
-    "start": "11:00",
-    "days": [
-     "월"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 5,
-    "span": 90,
-    "wd_hits": [
-     2,
-     0,
-     1,
-     1,
-     1,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     60,
-     null,
-     60,
-     60,
-     60,
-     null,
-     null
-    ],
-    "manual": true
-   },
-   {
-    "ch": "CJ",
-    "pgm": "두둥맘대로",
-    "start": "11:00",
-    "days": [
      "목"
     ],
     "kind": "weekly",
     "tier": "fixed",
     "hits": 5,
-    "span": 90,
-    "wd_hits": [
-     1,
-     1,
-     1,
-     2,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     60,
-     60,
-     60,
-     60,
-     null,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "CJ",
-    "pgm": "똘똘한쇼",
-    "start": "11:00",
-    "days": [
-     "금"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 3,
-    "span": 90,
+    "span": 42,
     "wd_hits": [
      0,
      0,
-     0,
-     0,
-     3,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     null,
-     60,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "CJ",
-    "pgm": "맘만하니",
-    "start": "11:00",
-    "days": [
-     "월",
-     "화",
-     "목"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 9,
-    "span": 90,
-    "wd_hits": [
-     2,
-     2,
      1,
      3,
      1,
@@ -28939,20 +28452,20 @@ window.SCHEDULE = {
      0
     ],
     "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     6,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
-     60,
-     60,
-     60,
-     60,
-     60,
+     null,
+     null,
+     65,
+     65,
+     65,
      null,
      null
     ],
@@ -28964,17 +28477,15 @@ window.SCHEDULE = {
     "start": "11:00",
     "days": [
      "월",
-     "화",
-     "수",
-     "금"
+     "화"
     ],
     "kind": "weekly",
     "tier": "fixed",
-    "hits": 15,
-    "span": 90,
+    "hits": 12,
+    "span": 42,
     "wd_hits": [
-     5,
-     5,
+     3,
+     4,
      2,
      1,
      3,
@@ -28982,13 +28493,13 @@ window.SCHEDULE = {
      0
     ],
     "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     6,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      60,
@@ -28996,46 +28507,6 @@ window.SCHEDULE = {
      60,
      60,
      60,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "CJ",
-    "pgm": "왔다! 장보러",
-    "start": "11:00",
-    "days": [
-     "화"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 4,
-    "span": 90,
-    "wd_hits": [
-     0,
-     2,
-     2,
-     0,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     60,
-     60,
-     null,
-     null,
      null,
      null
     ],
@@ -29050,25 +28521,25 @@ window.SCHEDULE = {
     ],
     "kind": "weekly",
     "tier": "fixed",
-    "hits": 11,
-    "span": 90,
+    "hits": 5,
+    "span": 42,
     "wd_hits": [
      0,
      0,
      0,
-     11,
+     5,
      0,
      0,
      0
     ],
     "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     6,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      null,
@@ -29083,126 +28554,6 @@ window.SCHEDULE = {
    },
    {
     "ch": "HD",
-    "pgm": "[잭슨코리아] 골드손 리프팅 패치",
-    "start": "11:00",
-    "days": [
-     "일"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     2
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     null,
-     null,
-     null,
-     60
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[크록스] 슈즈",
-    "start": "11:00",
-    "days": [
-     "목"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     2,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     60,
-     null,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[클랍] 기초",
-    "start": "11:00",
-    "days": [
-     "금"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     0,
-     2,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     null,
-     60,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
     "pgm": "노블리타",
     "start": "11:00",
     "days": [
@@ -29210,10 +28561,10 @@ window.SCHEDULE = {
     ],
     "kind": "weekly",
     "tier": "fixed",
-    "hits": 13,
-    "span": 88,
+    "hits": 6,
+    "span": 41,
     "wd_hits": [
-     13,
+     6,
      0,
      0,
      0,
@@ -29222,13 +28573,13 @@ window.SCHEDULE = {
      0
     ],
     "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     5,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      60,
@@ -29250,11 +28601,11 @@ window.SCHEDULE = {
     ],
     "kind": "weekly",
     "tier": "fixed",
-    "hits": 11,
-    "span": 88,
+    "hits": 5,
+    "span": 41,
     "wd_hits": [
      0,
-     11,
+     5,
      0,
      0,
      0,
@@ -29262,13 +28613,13 @@ window.SCHEDULE = {
      0
     ],
     "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     5,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      null,
@@ -29280,46 +28631,6 @@ window.SCHEDULE = {
      null
     ],
     "manual": true
-   },
-   {
-    "ch": "CJ",
-    "pgm": "스타일 나래이션",
-    "start": "11:30",
-    "days": [
-     "화"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 90,
-    "wd_hits": [
-     0,
-     2,
-     0,
-     0,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     65,
-     null,
-     null,
-     null,
-     null,
-     null
-    ],
-    "manual": false
    },
    {
     "ch": "CJ",
@@ -29330,10 +28641,10 @@ window.SCHEDULE = {
     ],
     "kind": "weekly",
     "tier": "fixed",
-    "hits": 8,
-    "span": 90,
+    "hits": 3,
+    "span": 42,
     "wd_hits": [
-     8,
+     3,
      0,
      0,
      0,
@@ -29342,13 +28653,13 @@ window.SCHEDULE = {
      0
     ],
     "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     6,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      65,
@@ -29363,46 +28674,6 @@ window.SCHEDULE = {
    },
    {
     "ch": "CJ",
-    "pgm": "잇솔지",
-    "start": "11:30",
-    "days": [
-     "금"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 4,
-    "span": 90,
-    "wd_hits": [
-     0,
-     0,
-     1,
-     0,
-     3,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     65,
-     null,
-     65,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "CJ",
     "pgm": "똘똘한쇼",
     "start": "12:00",
     "days": [
@@ -29411,7 +28682,7 @@ window.SCHEDULE = {
     "kind": "weekly",
     "tier": "fixed",
     "hits": 3,
-    "span": 90,
+    "span": 42,
     "wd_hits": [
      0,
      3,
@@ -29422,13 +28693,13 @@ window.SCHEDULE = {
      0
     ],
     "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     6,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      null,
@@ -29439,208 +28710,7 @@ window.SCHEDULE = {
      null,
      null
     ],
-    "manual": false
-   },
-   {
-    "ch": "CJ",
-    "pgm": "브랜디드 라이브쇼",
-    "start": "12:00",
-    "days": [
-     "화",
-     "목"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 5,
-    "span": 90,
-    "wd_hits": [
-     1,
-     2,
-     0,
-     2,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     60,
-     60,
-     null,
-     60,
-     null,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "CJ",
-    "pgm": "왔다! 장보러",
-    "start": "12:00",
-    "days": [
-     "수"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 90,
-    "wd_hits": [
-     0,
-     0,
-     2,
-     0,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     60,
-     null,
-     null,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "CJ",
-    "pgm": "이거 탐나린",
-    "start": "12:00",
-    "days": [
-     "목"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 90,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     2,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     60,
-     null,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[BCBG] 의류",
-    "start": "12:00",
-    "days": [
-     "금"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     0,
-     2,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     null,
-     60,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[루즈앤라운지] 패션잡화",
-    "start": "12:00",
-    "days": [
-     "토"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     0,
-     0,
-     2,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     null,
-     null,
-     60,
-     null
-    ],
-    "manual": false
+    "manual": true
    },
    {
     "ch": "HD",
@@ -29651,269 +28721,28 @@ window.SCHEDULE = {
     ],
     "kind": "weekly",
     "tier": "fixed",
-    "hits": 11,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     11,
-     0,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     60,
-     null,
-     null,
-     null,
-     null
-    ],
-    "manual": true
-   },
-   {
-    "ch": "CJ",
-    "pgm": "잇솔지",
-    "start": "12:30",
-    "days": [
-     "수",
-     "금"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
     "hits": 5,
-    "span": 90,
+    "span": 41,
     "wd_hits": [
      0,
-     1,
-     2,
      0,
-     2,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     65,
-     65,
-     null,
-     65,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[MLB키즈] 아동의류",
-    "start": "13:00",
-    "days": [
-     "화"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     0,
-     2,
-     0,
+     5,
      0,
      0,
      0,
      0
     ],
     "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     5,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      null,
-     60,
-     null,
-     null,
-     null,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[루이까또즈] 잡화",
-    "start": "13:00",
-    "days": [
-     "월"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     2,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     60,
-     null,
-     null,
-     null,
-     null,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[블랙야크키즈] 의류",
-    "start": "13:00",
-    "days": [
-     "수"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 3,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     2,
-     1,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     60,
-     60,
-     null,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[집방] 스타우브 냄비",
-    "start": "13:00",
-    "days": [
-     "일"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     2
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     null,
-     null,
-     null,
-     60
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[타미키즈] 아동의류",
-    "start": "13:00",
-    "days": [
-     "수"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 4,
-    "span": 88,
-    "wd_hits": [
-     1,
-     0,
-     3,
-     0,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     60,
      null,
      60,
      null,
@@ -29921,158 +28750,36 @@ window.SCHEDULE = {
      null,
      null
     ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[애드너스] 김씨언니마켓",
-    "start": "14:00",
-    "days": [
-     "금"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     0,
-     2,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     null,
-     60,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[애드너스] 생강청",
-    "start": "14:00",
-    "days": [
-     "금"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     0,
-     2,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     null,
-     60,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[애드너스] 완도전복죽",
-    "start": "14:00",
-    "days": [
-     "금"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     0,
-     2,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     null,
-     60,
-     null,
-     null
-    ],
-    "manual": false
+    "manual": true
    },
    {
     "ch": "CJ",
     "pgm": "똘똘한쇼",
     "start": "15:00",
     "days": [
-     "화",
-     "수",
-     "목"
+     "수"
     ],
     "kind": "weekly",
     "tier": "fixed",
-    "hits": 30,
-    "span": 90,
+    "hits": 12,
+    "span": 42,
     "wd_hits": [
      0,
-     9,
-     12,
-     9,
+     3,
+     6,
+     3,
      0,
      0,
      0
     ],
     "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     6,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      null,
@@ -30086,166 +28793,6 @@ window.SCHEDULE = {
     "manual": true
    },
    {
-    "ch": "HD",
-    "pgm": "[이대명과] 식품",
-    "start": "15:00",
-    "days": [
-     "화"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     0,
-     2,
-     0,
-     0,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     60,
-     null,
-     null,
-     null,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[잭슨코리아] 감홍사과",
-    "start": "15:00",
-    "days": [
-     "월"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 3,
-    "span": 88,
-    "wd_hits": [
-     3,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     60,
-     null,
-     null,
-     null,
-     null,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[잭슨코리아] 무화과",
-    "start": "15:00",
-    "days": [
-     "목"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     2,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     60,
-     null,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[잭슨코리아] 벌교 꼬막",
-    "start": "15:00",
-    "days": [
-     "목"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     2,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     60,
-     null,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
     "ch": "CJ",
     "pgm": "똘똘한쇼",
     "start": "16:00",
@@ -30255,7 +28802,7 @@ window.SCHEDULE = {
     "kind": "weekly",
     "tier": "fixed",
     "hits": 3,
-    "span": 90,
+    "span": 42,
     "wd_hits": [
      0,
      0,
@@ -30266,299 +28813,19 @@ window.SCHEDULE = {
      0
     ],
     "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     6,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      null,
      null,
      null,
      60,
-     null,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[CK진] 의류",
-    "start": "16:00",
-    "days": [
-     "금"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     0,
-     2,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     null,
-     60,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[집방] 골든클레프 주얼리",
-    "start": "16:00",
-    "days": [
-     "일"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 3,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     3
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     null,
-     null,
-     null,
-     60
-    ],
-    "manual": false
-   },
-   {
-    "ch": "CJ",
-    "pgm": "일타보험",
-    "start": "17:00",
-    "days": [
-     "수"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 3,
-    "span": 90,
-    "wd_hits": [
-     0,
-     1,
-     2,
-     0,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     60,
-     60,
-     null,
-     null,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[예본모피] 모피",
-    "start": "17:00",
-    "days": [
-     "일"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     2
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     null,
-     null,
-     null,
-     60
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[잭슨코리아] 추희 자두",
-    "start": "17:00",
-    "days": [
-     "금"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 3,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     1,
-     2,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     60,
-     60,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[해외직구] 일본 현지 방송",
-    "start": "17:00",
-    "days": [
-     "월"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 4,
-    "span": 88,
-    "wd_hits": [
-     4,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     60,
-     null,
-     null,
-     null,
-     null,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "CJ",
-    "pgm": "김해나의 매드딜",
-    "start": "18:00",
-    "days": [
-     "월"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 0,
-    "span": 0,
-    "wd_hits": [
-     1,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     60,
-     null,
-     null,
-     null,
      null,
      null,
      null
@@ -30570,80 +28837,39 @@ window.SCHEDULE = {
     "pgm": "브랜디드 라이브쇼",
     "start": "18:00",
     "days": [
-     "화",
      "수",
      "목"
     ],
     "kind": "weekly",
     "tier": "fixed",
-    "hits": 12,
-    "span": 90,
+    "hits": 6,
+    "span": 42,
     "wd_hits": [
+     0,
      1,
-     2,
-     5,
      4,
+     3,
      0,
-     1,
-     1
+     0,
+     0
     ],
     "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     6,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
-     60,
+     null,
      60,
      60,
      60,
      null,
-     60,
-     60
-    ],
-    "manual": false
-   },
-   {
-    "ch": "CJ",
-    "pgm": "일타보험",
-    "start": "18:00",
-    "days": [
-     "화"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 4,
-    "span": 90,
-    "wd_hits": [
-     1,
-     2,
-     0,
-     0,
-     0,
-     0,
-     1
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     60,
-     60,
      null,
-     null,
-     null,
-     null,
-     60
+     null
     ],
     "manual": false
    },
@@ -30656,156 +28882,36 @@ window.SCHEDULE = {
     ],
     "kind": "weekly",
     "tier": "fixed",
-    "hits": 17,
-    "span": 90,
+    "hits": 5,
+    "span": 42,
     "wd_hits": [
-     11,
-     2,
-     2,
+     4,
+     1,
      0,
-     2,
+     0,
+     0,
      0,
      0
     ],
     "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     6,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      60,
      60,
-     60,
      null,
-     60,
+     null,
+     null,
      null,
      null
     ],
     "manual": true
-   },
-   {
-    "ch": "HD",
-    "pgm": "[수앤진골드] 순금 주얼리",
-    "start": "18:00",
-    "days": [
-     "수"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     2,
-     0,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     60,
-     null,
-     null,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[아시아골드] 금",
-    "start": "18:00",
-    "days": [
-     "수"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 3,
-    "span": 88,
-    "wd_hits": [
-     1,
-     0,
-     2,
-     0,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     60,
-     null,
-     60,
-     null,
-     null,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[해외직구] 스페인 현지방송",
-    "start": "18:00",
-    "days": [
-     "목"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     2,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     60,
-     null,
-     null,
-     null
-    ],
-    "manual": false
    },
    {
     "ch": "HD",
@@ -30816,25 +28922,25 @@ window.SCHEDULE = {
     ],
     "kind": "weekly",
     "tier": "fixed",
-    "hits": 7,
-    "span": 88,
+    "hits": 4,
+    "span": 41,
     "wd_hits": [
      0,
      0,
      0,
-     7,
+     4,
      0,
      0,
      0
     ],
     "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     5,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      null,
@@ -30852,30 +28958,29 @@ window.SCHEDULE = {
     "pgm": "겟잇스타일 프렌즈",
     "start": "19:00",
     "days": [
-     "화",
      "목"
     ],
     "kind": "weekly",
     "tier": "fixed",
-    "hits": 8,
-    "span": 90,
+    "hits": 6,
+    "span": 42,
     "wd_hits": [
      0,
-     4,
+     3,
      0,
-     4,
+     3,
      0,
      0,
      0
     ],
     "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     6,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      null,
@@ -30886,167 +28991,7 @@ window.SCHEDULE = {
      null,
      null
     ],
-    "manual": false
-   },
-   {
-    "ch": "CJ",
-    "pgm": "그루의 비밀 옷장",
-    "start": "19:00",
-    "days": [
-     "일"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 5,
-    "span": 90,
-    "wd_hits": [
-     0,
-     1,
-     0,
-     0,
-     1,
-     0,
-     3
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     60,
-     null,
-     null,
-     60,
-     null,
-     60
-    ],
-    "manual": false
-   },
-   {
-    "ch": "CJ",
-    "pgm": "남다른 스타일",
-    "start": "19:00",
-    "days": [
-     "일"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 5,
-    "span": 90,
-    "wd_hits": [
-     0,
-     1,
-     0,
-     0,
-     0,
-     0,
-     4
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     60,
-     null,
-     null,
-     null,
-     null,
-     60
-    ],
-    "manual": false
-   },
-   {
-    "ch": "CJ",
-    "pgm": "브랜디드 라이브쇼",
-    "start": "19:00",
-    "days": [
-     "수"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 7,
-    "span": 90,
-    "wd_hits": [
-     1,
-     0,
-     4,
-     1,
-     1,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     60,
-     null,
-     60,
-     60,
-     60,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "CJ",
-    "pgm": "브티나는 생활",
-    "start": "19:00",
-    "days": [
-     "목"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 4,
-    "span": 90,
-    "wd_hits": [
-     0,
-     1,
-     0,
-     2,
-     1,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     60,
-     null,
-     60,
-     60,
-     null,
-     null
-    ],
-    "manual": false
+    "manual": true
    },
    {
     "ch": "CJ",
@@ -31062,25 +29007,25 @@ window.SCHEDULE = {
     ],
     "kind": "daily",
     "tier": "fixed",
-    "hits": 75,
-    "span": 90,
+    "hits": 35,
+    "span": 42,
     "wd_hits": [
-     13,
-     12,
-     13,
-     13,
-     12,
-     12,
+     6,
+     6,
+     6,
+     6,
+     5,
+     6,
      0
     ],
     "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     6,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      60,
@@ -31092,87 +29037,6 @@ window.SCHEDULE = {
      null
     ],
     "manual": true
-   },
-   {
-    "ch": "CJ",
-    "pgm": "왔다! 장보러",
-    "start": "19:00",
-    "days": [
-     "화",
-     "금"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 7,
-    "span": 90,
-    "wd_hits": [
-     0,
-     3,
-     1,
-     0,
-     2,
-     0,
-     1
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     60,
-     60,
-     null,
-     60,
-     null,
-     60
-    ],
-    "manual": false
-   },
-   {
-    "ch": "CJ",
-    "pgm": "일타보험",
-    "start": "19:00",
-    "days": [
-     "화"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 6,
-    "span": 90,
-    "wd_hits": [
-     1,
-     3,
-     0,
-     1,
-     0,
-     0,
-     1
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     60,
-     60,
-     null,
-     60,
-     null,
-     null,
-     60
-    ],
-    "manual": false
    },
    {
     "ch": "CJ",
@@ -31183,8 +29047,8 @@ window.SCHEDULE = {
     ],
     "kind": "weekly",
     "tier": "fixed",
-    "hits": 13,
-    "span": 90,
+    "hits": 7,
+    "span": 42,
     "wd_hits": [
      0,
      0,
@@ -31192,16 +29056,16 @@ window.SCHEDULE = {
      0,
      0,
      0,
-     12
+     6
     ],
     "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     6,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      null,
@@ -31216,46 +29080,6 @@ window.SCHEDULE = {
    },
    {
     "ch": "CJ",
-    "pgm": "집가구싶다",
-    "start": "19:00",
-    "days": [
-     "월"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 6,
-    "span": 90,
-    "wd_hits": [
-     2,
-     1,
-     1,
-     1,
-     0,
-     1,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     60,
-     60,
-     60,
-     60,
-     null,
-     60,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "CJ",
     "pgm": "트래블edit",
     "start": "19:00",
     "days": [
@@ -31263,25 +29087,25 @@ window.SCHEDULE = {
     ],
     "kind": "weekly",
     "tier": "fixed",
-    "hits": 6,
-    "span": 90,
+    "hits": 3,
+    "span": 42,
     "wd_hits": [
+     3,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "wd_span": [
      6,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      60,
@@ -31292,287 +29116,7 @@ window.SCHEDULE = {
      null,
      null
     ],
-    "manual": false
-   },
-   {
-    "ch": "CJ",
-    "pgm": "하이해나",
-    "start": "19:00",
-    "days": [
-     "일"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 5,
-    "span": 90,
-    "wd_hits": [
-     0,
-     1,
-     1,
-     0,
-     0,
-     0,
-     3
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     60,
-     60,
-     null,
-     null,
-     null,
-     60
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[더트래블] 여행",
-    "start": "19:00",
-    "days": [
-     "목"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 3,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     3,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     60,
-     null,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[버킷그램] 건강기능식품",
-    "start": "19:00",
-    "days": [
-     "목"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 4,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     3,
-     1,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     60,
-     60,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[에바큐브] 의류",
-    "start": "19:00",
-    "days": [
-     "금"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     0,
-     2,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     null,
-     60,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[지금이야] 금",
-    "start": "19:00",
-    "days": [
-     "화"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 3,
-    "span": 88,
-    "wd_hits": [
-     1,
-     2,
-     0,
-     0,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     60,
-     60,
-     null,
-     null,
-     null,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[집방] 이탈리아 주얼리",
-    "start": "19:00",
-    "days": [
-     "토"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     0,
-     0,
-     2,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     null,
-     null,
-     60,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[한국금거래소] 금",
-    "start": "19:00",
-    "days": [
-     "월"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     2,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     60,
-     null,
-     null,
-     null,
-     null,
-     null,
-     null
-    ],
-    "manual": false
+    "manual": true
    },
    {
     "ch": "HD",
@@ -31584,25 +29128,25 @@ window.SCHEDULE = {
     ],
     "kind": "weekly",
     "tier": "fixed",
-    "hits": 21,
-    "span": 88,
+    "hits": 10,
+    "span": 41,
     "wd_hits": [
      0,
      0,
-     10,
+     5,
      0,
      0,
      0,
-     11
+     5
     ],
     "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     5,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      null,
@@ -31624,112 +29168,31 @@ window.SCHEDULE = {
     ],
     "kind": "weekly",
     "tier": "fixed",
-    "hits": 6,
-    "span": 90,
+    "hits": 3,
+    "span": 42,
     "wd_hits": [
+     3,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "wd_span": [
      6,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      60,
      null,
      null,
      null,
-     null,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "CJ",
-    "pgm": "겟잇뷰티 스페셜",
-    "start": "20:00",
-    "days": [
-     "월"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 90,
-    "wd_hits": [
-     2,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     60,
-     null,
-     null,
-     null,
-     null,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "CJ",
-    "pgm": "겟잇스타일 프렌즈",
-    "start": "20:00",
-    "days": [
-     "월",
-     "화"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 6,
-    "span": 90,
-    "wd_hits": [
-     2,
-     2,
-     1,
-     1,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     60,
-     60,
-     60,
-     60,
      null,
      null,
      null
@@ -31745,36 +29208,36 @@ window.SCHEDULE = {
     ],
     "kind": "weekly",
     "tier": "fixed",
-    "hits": 6,
-    "span": 90,
+    "hits": 0,
+    "span": 0,
     "wd_hits": [
      0,
-     1,
      0,
-     5,
+     0,
+     2,
      0,
      0,
      0
     ],
     "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     6,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      null,
-     60,
+     null,
      null,
      60,
      null,
      null,
      null
     ],
-    "manual": false
+    "manual": true
    },
    {
     "ch": "CJ",
@@ -31785,10 +29248,10 @@ window.SCHEDULE = {
     ],
     "kind": "weekly",
     "tier": "fixed",
-    "hits": 10,
-    "span": 90,
+    "hits": 5,
+    "span": 42,
     "wd_hits": [
-     10,
+     5,
      0,
      0,
      0,
@@ -31797,13 +29260,13 @@ window.SCHEDULE = {
      0
     ],
     "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     6,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      60,
@@ -31825,25 +29288,25 @@ window.SCHEDULE = {
     ],
     "kind": "weekly",
     "tier": "fixed",
-    "hits": 11,
-    "span": 90,
+    "hits": 6,
+    "span": 42,
     "wd_hits": [
      0,
      0,
      0,
-     11,
+     6,
      0,
      0,
      0
     ],
     "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     6,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      null,
@@ -31865,73 +29328,33 @@ window.SCHEDULE = {
     ],
     "kind": "weekly",
     "tier": "fixed",
-    "hits": 5,
-    "span": 90,
+    "hits": 0,
+    "span": 0,
     "wd_hits": [
-     0,
-     0,
-     0,
-     5,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     60,
-     null,
-     null,
-     null
-    ],
-    "manual": true
-   },
-   {
-    "ch": "CJ",
-    "pgm": "브랜디드 라이브쇼",
-    "start": "20:00",
-    "days": [
-     "월"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 4,
-    "span": 90,
-    "wd_hits": [
-     1,
      0,
      0,
      0,
      2,
-     1,
+     0,
+     0,
      0
     ],
     "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     6,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
-     60,
      null,
      null,
      null,
      60,
-     60,
+     null,
+     null,
      null
     ],
     "manual": true
@@ -31945,25 +29368,25 @@ window.SCHEDULE = {
     ],
     "kind": "weekly",
     "tier": "fixed",
-    "hits": 11,
-    "span": 90,
+    "hits": 5,
+    "span": 42,
     "wd_hits": [
      0,
      0,
-     11,
+     5,
      0,
      0,
      0,
      0
     ],
     "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     6,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      null,
@@ -31975,46 +29398,6 @@ window.SCHEDULE = {
      null
     ],
     "manual": true
-   },
-   {
-    "ch": "CJ",
-    "pgm": "엣지쇼",
-    "start": "20:00",
-    "days": [
-     "금"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 90,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     0,
-     2,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     null,
-     60,
-     null,
-     null
-    ],
-    "manual": false
    },
    {
     "ch": "CJ",
@@ -32025,36 +29408,36 @@ window.SCHEDULE = {
     ],
     "kind": "weekly",
     "tier": "fixed",
-    "hits": 12,
-    "span": 90,
+    "hits": 4,
+    "span": 42,
     "wd_hits": [
      0,
-     1,
-     1,
-     1,
-     9,
+     0,
+     0,
+     0,
+     4,
      0,
      0
     ],
     "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     6,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      null,
-     63,
-     60,
-     63,
+     null,
+     null,
+     null,
      60,
      null,
      null
     ],
-    "manual": false
+    "manual": true
    },
    {
     "ch": "CJ",
@@ -32065,76 +29448,36 @@ window.SCHEDULE = {
     ],
     "kind": "weekly",
     "tier": "fixed",
-    "hits": 8,
-    "span": 90,
+    "hits": 3,
+    "span": 42,
     "wd_hits": [
      0,
-     6,
+     3,
      0,
      0,
-     1,
      0,
-     1
+     0,
+     0
     ],
     "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     6,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      null,
      60,
      null,
      null,
-     60,
      null,
-     60
+     null,
+     null
     ],
     "manual": true
-   },
-   {
-    "ch": "CJ",
-    "pgm": "일타보험",
-    "start": "20:00",
-    "days": [
-     "월"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 6,
-    "span": 90,
-    "wd_hits": [
-     2,
-     1,
-     0,
-     1,
-     0,
-     1,
-     1
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     55,
-     60,
-     null,
-     60,
-     null,
-     60,
-     60
-    ],
-    "manual": false
    },
    {
     "ch": "CJ",
@@ -32145,8 +29488,8 @@ window.SCHEDULE = {
     ],
     "kind": "weekly",
     "tier": "fixed",
-    "hits": 13,
-    "span": 90,
+    "hits": 7,
+    "span": 42,
     "wd_hits": [
      0,
      1,
@@ -32154,16 +29497,16 @@ window.SCHEDULE = {
      0,
      0,
      0,
-     11
+     5
     ],
     "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     6,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      null,
@@ -32174,7 +29517,7 @@ window.SCHEDULE = {
      null,
      60
     ],
-    "manual": false
+    "manual": true
    },
    {
     "ch": "CJ",
@@ -32185,110 +29528,30 @@ window.SCHEDULE = {
     ],
     "kind": "weekly",
     "tier": "fixed",
-    "hits": 12,
-    "span": 90,
+    "hits": 6,
+    "span": 42,
     "wd_hits": [
      0,
      1,
-     11,
+     5,
      0,
      0,
      0,
      0
     ],
     "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     6,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      null,
      60,
      60,
-     null,
-     null,
-     null,
-     null
-    ],
-    "manual": true
-   },
-   {
-    "ch": "CJ",
-    "pgm": "트래블edit",
-    "start": "20:00",
-    "days": [
-     "월"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 0,
-    "span": 0,
-    "wd_hits": [
-     1,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     60,
-     null,
-     null,
-     null,
-     null,
-     null,
-     null
-    ],
-    "manual": true
-   },
-   {
-    "ch": "CJ",
-    "pgm": "팝-혜진 스토어",
-    "start": "20:00",
-    "days": [
-     "화"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 0,
-    "span": 0,
-    "wd_hits": [
-     0,
-     1,
-     0,
-     0,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     60,
-     null,
      null,
      null,
      null,
@@ -32302,30 +29565,29 @@ window.SCHEDULE = {
     "start": "20:00",
     "days": [
      "월",
-     "화",
      "금"
     ],
     "kind": "weekly",
     "tier": "fixed",
-    "hits": 10,
-    "span": 90,
+    "hits": 6,
+    "span": 42,
     "wd_hits": [
      3,
      2,
      0,
      0,
-     5,
+     1,
      0,
      0
     ],
     "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     6,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      60,
@@ -32336,201 +29598,41 @@ window.SCHEDULE = {
      null,
      null
     ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[JJ퀸] 헤어주얼리",
-    "start": "20:00",
-    "days": [
-     "토"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 5,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     0,
-     0,
-     5,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     null,
-     null,
-     60,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[바디프랜드] 안마의자",
-    "start": "20:00",
-    "days": [
-     "화"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 3,
-    "span": 88,
-    "wd_hits": [
-     0,
-     3,
-     0,
-     0,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     60,
-     null,
-     null,
-     null,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[씨제이피] 주얼리",
-    "start": "20:00",
-    "days": [
-     "토"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     0,
-     0,
-     2,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     null,
-     null,
-     60,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[한민금거래소] 금",
-    "start": "20:00",
-    "days": [
-     "일"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     2
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     null,
-     null,
-     null,
-     60
-    ],
-    "manual": false
+    "manual": true
    },
    {
     "ch": "HD",
     "pgm": "초밀착뷰티쇼",
     "start": "20:00",
     "days": [
-     "수"
+     "목"
     ],
     "kind": "weekly",
     "tier": "fixed",
-    "hits": 7,
-    "span": 88,
+    "hits": 4,
+    "span": 41,
     "wd_hits": [
      0,
      0,
-     3,
+     0,
      4,
      0,
      0,
      0
     ],
     "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     5,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      null,
      null,
-     60,
+     null,
      60,
      null,
      null,
@@ -32543,29 +29645,30 @@ window.SCHEDULE = {
     "pgm": "현명쇼",
     "start": "20:00",
     "days": [
-     "월"
+     "월",
+     "수"
     ],
     "kind": "weekly",
     "tier": "fixed",
-    "hits": 18,
-    "span": 88,
+    "hits": 10,
+    "span": 41,
     "wd_hits": [
-     12,
+     5,
      0,
-     6,
+     5,
      0,
      0,
      0,
      0
     ],
     "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     5,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      120,
@@ -32587,25 +29690,25 @@ window.SCHEDULE = {
     ],
     "kind": "weekly",
     "tier": "fixed",
-    "hits": 10,
-    "span": 90,
+    "hits": 4,
+    "span": 42,
     "wd_hits": [
      0,
      0,
      0,
-     10,
+     4,
      0,
      0,
      0
     ],
     "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     6,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      null,
@@ -32617,126 +29720,6 @@ window.SCHEDULE = {
      null
     ],
     "manual": true
-   },
-   {
-    "ch": "CJ",
-    "pgm": "잇솔지",
-    "start": "20:40",
-    "days": [
-     "수"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 90,
-    "wd_hits": [
-     0,
-     0,
-     2,
-     0,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     65,
-     null,
-     null,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "CJ",
-    "pgm": "VIVA ITALIA",
-    "start": "21:00",
-    "days": [
-     "화"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 0,
-    "span": 0,
-    "wd_hits": [
-     0,
-     1,
-     0,
-     0,
-     1,
-     0,
-     1
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     60,
-     null,
-     null,
-     60,
-     null,
-     60
-    ],
-    "manual": true
-   },
-   {
-    "ch": "CJ",
-    "pgm": "그루의 비밀 옷장",
-    "start": "21:00",
-    "days": [
-     "화"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 90,
-    "wd_hits": [
-     0,
-     2,
-     0,
-     0,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     60,
-     null,
-     null,
-     null,
-     null,
-     null
-    ],
-    "manual": false
    },
    {
     "ch": "CJ",
@@ -32747,25 +29730,25 @@ window.SCHEDULE = {
     ],
     "kind": "weekly",
     "tier": "fixed",
-    "hits": 5,
-    "span": 90,
+    "hits": 0,
+    "span": 0,
     "wd_hits": [
      0,
      1,
      0,
-     4,
+     2,
      0,
      0,
      0
     ],
     "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     6,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      null,
@@ -32776,88 +29759,7 @@ window.SCHEDULE = {
      null,
      null
     ],
-    "manual": false
-   },
-   {
-    "ch": "CJ",
-    "pgm": "매드라이브",
-    "start": "21:00",
-    "days": [
-     "목"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 90,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     2,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     60,
-     null,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "CJ",
-    "pgm": "브랜디드 라이브쇼",
-    "start": "21:00",
-    "days": [
-     "월",
-     "일"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 6,
-    "span": 90,
-    "wd_hits": [
-     2,
-     1,
-     0,
-     0,
-     1,
-     0,
-     2
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     60,
-     60,
-     null,
-     null,
-     60,
-     null,
-     60
-    ],
-    "manual": false
+    "manual": true
    },
    {
     "ch": "CJ",
@@ -32868,25 +29770,25 @@ window.SCHEDULE = {
     ],
     "kind": "weekly",
     "tier": "fixed",
-    "hits": 11,
-    "span": 90,
+    "hits": 5,
+    "span": 42,
     "wd_hits": [
      0,
      0,
-     11,
+     5,
      0,
      0,
      0,
      0
     ],
     "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     6,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      null,
@@ -32898,48 +29800,6 @@ window.SCHEDULE = {
      null
     ],
     "manual": true
-   },
-   {
-    "ch": "CJ",
-    "pgm": "왔다! 장보러",
-    "start": "21:00",
-    "days": [
-     "화",
-     "수",
-     "일"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 8,
-    "span": 90,
-    "wd_hits": [
-     0,
-     2,
-     2,
-     1,
-     1,
-     0,
-     2
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     60,
-     61,
-     60,
-     60,
-     null,
-     61
-    ],
-    "manual": false
    },
    {
     "ch": "CJ",
@@ -32951,357 +29811,36 @@ window.SCHEDULE = {
     ],
     "kind": "weekly",
     "tier": "fixed",
-    "hits": 22,
-    "span": 90,
+    "hits": 9,
+    "span": 42,
     "wd_hits": [
-     8,
-     0,
-     13,
-     1,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     60,
-     null,
-     60,
-     60,
-     null,
-     null,
-     null
-    ],
-    "manual": true
-   },
-   {
-    "ch": "CJ",
-    "pgm": "하우스윗",
-    "start": "21:00",
-    "days": [
-     "화"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 90,
-    "wd_hits": [
-     0,
-     2,
-     0,
-     0,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     60,
-     null,
-     null,
-     null,
-     null,
-     null
-    ],
-    "manual": true
-   },
-   {
-    "ch": "HD",
-    "pgm": "[LG] 특별전",
-    "start": "21:00",
-    "days": [
-     "화",
-     "일"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 5,
-    "span": 88,
-    "wd_hits": [
-     0,
-     2,
-     0,
-     0,
-     0,
-     0,
-     3
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     60,
-     null,
-     null,
-     null,
-     null,
-     120
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[미리크루즈] 크루즈",
-    "start": "21:00",
-    "days": [
-     "목"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     2,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     60,
-     null,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[삼성] 삼성 특별전",
-    "start": "21:00",
-    "days": [
-     "화"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 3,
-    "span": 88,
-    "wd_hits": [
-     0,
      3,
      0,
+     6,
      0,
      0,
      0,
      0
     ],
     "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     6,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
-     null,
      60,
      null,
+     60,
      null,
      null,
      null,
      null
     ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[오운] 주얼리",
-    "start": "21:00",
-    "days": [
-     "일"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     2
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     null,
-     null,
-     null,
-     60
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[집방] 이탈리아 주얼리",
-    "start": "21:00",
-    "days": [
-     "일"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     2
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     null,
-     null,
-     null,
-     60
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[한국귀금속보석거래소] 금",
-    "start": "21:00",
-    "days": [
-     "목"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     2,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     60,
-     null,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[한민금거래소] 금",
-    "start": "21:00",
-    "days": [
-     "금"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 4,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     1,
-     2,
-     1,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     60,
-     60,
-     60,
-     null
-    ],
-    "manual": false
+    "manual": true
    },
    {
     "ch": "HD",
@@ -33312,25 +29851,25 @@ window.SCHEDULE = {
     ],
     "kind": "weekly",
     "tier": "fixed",
-    "hits": 10,
-    "span": 88,
+    "hits": 5,
+    "span": 41,
     "wd_hits": [
      0,
      0,
      0,
      0,
      0,
-     10,
+     5,
      0
     ],
     "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     5,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      null,
@@ -33342,46 +29881,6 @@ window.SCHEDULE = {
      null
     ],
     "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "현명쇼",
-    "start": "21:00",
-    "days": [
-     "수"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 5,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     5,
-     0,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     60,
-     null,
-     null,
-     null,
-     null
-    ],
-    "manual": true
    },
    {
     "ch": "CJ",
@@ -33392,10 +29891,10 @@ window.SCHEDULE = {
     ],
     "kind": "weekly",
     "tier": "fixed",
-    "hits": 7,
-    "span": 90,
+    "hits": 0,
+    "span": 0,
     "wd_hits": [
-     7,
+     2,
      0,
      0,
      0,
@@ -33404,13 +29903,13 @@ window.SCHEDULE = {
      0
     ],
     "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     6,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      60,
@@ -33425,73 +29924,32 @@ window.SCHEDULE = {
    },
    {
     "ch": "CJ",
-    "pgm": "김호영의 투머치쇼",
-    "start": "21:45",
-    "days": [
-     "목"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 90,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     2,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     60,
-     null,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "CJ",
     "pgm": "왔다! 장보러",
     "start": "22:00",
     "days": [
-     "수",
      "일"
     ],
     "kind": "weekly",
     "tier": "fixed",
-    "hits": 14,
-    "span": 90,
+    "hits": 6,
+    "span": 42,
     "wd_hits": [
      0,
      0,
-     5,
+     2,
      0,
      0,
      0,
-     9
+     4
     ],
     "wd_span": [
-     13,
-     12,
-     13,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     6,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      null,
@@ -33502,527 +29960,7 @@ window.SCHEDULE = {
      null,
      60
     ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[SOUP] 여성의류",
-    "start": "22:00",
-    "days": [
-     "목"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     2,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     60,
-     null,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[네파] 아웃도어",
-    "start": "22:00",
-    "days": [
-     "수"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 3,
-    "span": 88,
-    "wd_hits": [
-     1,
-     0,
-     2,
-     0,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     60,
-     null,
-     60,
-     null,
-     null,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[린] 의류",
-    "start": "22:00",
-    "days": [
-     "목"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     2,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     60,
-     null,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[멜라비앙카] 헤어주얼리",
-    "start": "22:00",
-    "days": [
-     "토"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     0,
-     0,
-     2,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     null,
-     null,
-     60,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[블랙야크] 아웃도어",
-    "start": "22:00",
-    "days": [
-     "월"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 3,
-    "span": 88,
-    "wd_hits": [
-     2,
-     0,
-     1,
-     0,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     60,
-     null,
-     60,
-     null,
-     null,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[아서앤그레이스] 가방/지갑",
-    "start": "22:00",
-    "days": [
-     "일"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     2
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     null,
-     null,
-     null,
-     60
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[앤드윈] 인바디 체중계",
-    "start": "22:00",
-    "days": [
-     "금"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 4,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     0,
-     4,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     null,
-     60,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[앤드윈] 테팔 주방용품",
-    "start": "22:00",
-    "days": [
-     "금"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     0,
-     2,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     null,
-     60,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[핏플랍] 슈즈",
-    "start": "22:00",
-    "days": [
-     "수"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 3,
-    "span": 88,
-    "wd_hits": [
-     1,
-     0,
-     2,
-     0,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     60,
-     null,
-     60,
-     null,
-     null,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[헤르마] 잡화",
-    "start": "22:00",
-    "days": [
-     "토"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 2,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     0,
-     0,
-     2,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     null,
-     null,
-     60,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "명품특별전",
-    "start": "22:00",
-    "days": [
-     "화"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 5,
-    "span": 88,
-    "wd_hits": [
-     0,
-     5,
-     0,
-     0,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     60,
-     null,
-     null,
-     null,
-     null,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[제이바이라라] 의류",
-    "start": "23:00",
-    "days": [
-     "토"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 3,
-    "span": 88,
-    "wd_hits": [
-     0,
-     0,
-     0,
-     1,
-     0,
-     2,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     null,
-     null,
-     null,
-     60,
-     null,
-     60,
-     null
-    ],
-    "manual": false
-   },
-   {
-    "ch": "HD",
-    "pgm": "[쥬시쥬디] 여성의류",
-    "start": "23:00",
-    "days": [
-     "수"
-    ],
-    "kind": "weekly",
-    "tier": "fixed",
-    "hits": 3,
-    "span": 88,
-    "wd_hits": [
-     1,
-     0,
-     2,
-     0,
-     0,
-     0,
-     0
-    ],
-    "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
-    ],
-    "wd_dur": [
-     60,
-     null,
-     60,
-     null,
-     null,
-     null,
-     null
-    ],
-    "manual": false
+    "manual": true
    },
    {
     "ch": "HD",
@@ -34039,25 +29977,25 @@ window.SCHEDULE = {
     ],
     "kind": "daily",
     "tier": "fixed",
-    "hits": 63,
-    "span": 88,
+    "hits": 32,
+    "span": 41,
     "wd_hits": [
-     9,
-     8,
-     8,
-     10,
-     11,
-     8,
-     9
+     5,
+     5,
+     3,
+     6,
+     5,
+     3,
+     5
     ],
     "wd_span": [
-     13,
-     12,
-     11,
-     13,
-     13,
-     13,
-     13
+     6,
+     6,
+     5,
+     6,
+     6,
+     6,
+     6
     ],
     "wd_dur": [
      60,
@@ -34075,99 +30013,91 @@ window.SCHEDULE = {
    "gone": [],
    "extra": [
     {
-     "ch": "HD",
-     "pgm": "현명쇼",
-     "start": "20:00",
-     "wd": "수",
-     "hits": 6,
-     "span": 11
-    },
-    {
-     "ch": "HD",
-     "pgm": "초밀착뷰티쇼",
-     "start": "20:00",
-     "wd": "목",
-     "hits": 4,
-     "span": 13
-    },
-    {
      "ch": "CJ",
-     "pgm": "푸드온다",
-     "start": "18:00",
+     "pgm": "똘똘한쇼",
+     "start": "15:00",
      "wd": "화",
-     "hits": 2,
-     "span": 12
+     "hits": 3,
+     "span": 6
     },
     {
      "ch": "CJ",
-     "pgm": "푸드온다",
-     "start": "18:00",
-     "wd": "수",
-     "hits": 2,
-     "span": 13
+     "pgm": "똘똘한쇼",
+     "start": "15:00",
+     "wd": "목",
+     "hits": 3,
+     "span": 6
     },
     {
      "ch": "CJ",
-     "pgm": "푸드온다",
-     "start": "18:00",
-     "wd": "금",
-     "hits": 2,
-     "span": 13
+     "pgm": "겟잇스타일 프렌즈",
+     "start": "19:00",
+     "wd": "화",
+     "hits": 3,
+     "span": 6
     },
     {
      "ch": "CJ",
      "pgm": "브랜디드 라이브쇼",
-     "start": "20:00",
-     "wd": "금",
+     "start": "11:00",
+     "wd": "수",
      "hits": 2,
-     "span": 13
+     "span": 6
     },
     {
      "ch": "CJ",
-     "pgm": "ONSTAR LIVE",
-     "start": "10:00",
-     "wd": "목",
-     "hits": 2,
-     "span": 13
+     "pgm": "브랜디드 라이브쇼",
+     "start": "11:00",
+     "wd": "금",
+     "hits": 3,
+     "span": 6
     },
     {
      "ch": "CJ",
      "pgm": "왔다! 장보러",
-     "start": "11:00",
+     "start": "22:00",
      "wd": "수",
      "hits": 2,
-     "span": 13
+     "span": 6
+    },
+    {
+     "ch": "CJ",
+     "pgm": "하우스윗",
+     "start": "20:00",
+     "wd": "화",
+     "hits": 2,
+     "span": 6
     }
    ]
   },
   "meta": {
    "HD": {
-    "span": 88,
-    "from": "2026-08-27",
+    "span": 41,
+    "from": "2026-10-13",
     "to": "2026-11-23",
     "auto": true
    },
    "CJ": {
-    "span": 90,
-    "from": "2026-08-26",
+    "span": 42,
+    "from": "2026-10-13",
     "to": "2026-11-23",
     "auto": true
    },
    "NV": {
-    "span": 86,
-    "from": "2026-08-30",
+    "span": 42,
+    "from": "2026-10-13",
     "to": "2026-11-23",
     "auto": false
    },
    "GM": {
-    "span": 77,
-    "from": "2026-08-30",
+    "span": 41,
+    "from": "2026-10-13",
     "to": "2026-11-23",
     "auto": false
    },
    "KA": {
-    "span": 89,
-    "from": "2026-08-27",
+    "span": 42,
+    "from": "2026-10-13",
     "to": "2026-11-23",
     "auto": false
    }
@@ -34178,7 +30108,7 @@ window.SCHEDULE = {
    "min_daily_hits": 3,
    "min_daily_ratio": 0.5,
    "min_daily_weekdays": 3,
-   "min_weekly": 2
+   "min_weekly": 3
   }
  },
  "archive": {

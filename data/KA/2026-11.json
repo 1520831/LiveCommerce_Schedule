@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-11",
- "updated_at": "2026-11-18T13:52:28+09:00",
+ "updated_at": "2026-11-18T15:54:12+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -3828,6 +3828,18 @@
     "category": "키즈"
    },
    {
+    "start": "14:31",
+    "end": "15:01",
+    "brand": "터치그라운드 스니커즈",
+    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
+    "price": 49000,
+    "link": "https://store.kakao.com/touchground/products/774098244",
+    "slot_id": "62098",
+    "pgm": "발에 입는 패딩",
+    "title": "터치그라운드 패딩슈즈",
+    "category": "패션"
+   },
+   {
     "start": "17:00",
     "end": "18:30",
     "brand": "순수식품",
@@ -4008,18 +4020,6 @@
     "category": "여행",
     "rerun": true,
     "rerun_of": "61473"
-   },
-   {
-    "start": "22:30",
-    "end": "00:00",
-    "brand": "터치그라운드 스니커즈",
-    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-    "price": 49000,
-    "link": "https://store.kakao.com/touchground/products/774098244",
-    "slot_id": "62098",
-    "pgm": "발에 입는 패딩",
-    "title": "터치그라운드 패딩슈즈",
-    "category": "패션"
    }
   ],
   "2026-11-19": [
@@ -4207,7 +4207,7 @@
     "start": "19:00",
     "end": "20:30",
     "brand": "프로티원",
-    "product": "[4주분] 프로티원 대용량 단백질 쉐이크 7가지맛 2통 골라담기",
+    "product": "프로티원 대용량 단백질 쉐이크 7가지맛 2통 골라담기",
     "price": 86000,
     "link": "https://store.kakao.com/proteeone/products/104031228",
     "slot_id": "61670",
@@ -4283,8 +4283,8 @@
     "price": 43900,
     "link": "https://store.kakao.com/cocodor/products/56285194",
     "slot_id": "61708",
-    "pgm": "코코도르 홈프래그런스",
-    "title": "디퓨저&탈취제 블프 특가",
+    "pgm": "코코도르 블프 특가!",
+    "title": "디퓨저&탈취제 역대급 할인",
     "category": "리빙"
    },
    {
@@ -4621,7 +4621,7 @@
     "price": 649000,
     "link": "https://store.kakao.com/inic/products/722464756",
     "slot_id": "61820",
-    "pgm": "최종체감 25만원대! 아이닉",
+    "pgm": "최종체감 24만원대! 아이닉",
     "title": "맥스제로 i90 무선청소기",
     "category": "테크"
    },
@@ -4655,7 +4655,7 @@
     "start": "10:00",
     "end": "13:00",
     "brand": "라엘코리아",
-    "product": "라엘 내추럴 순면커버 생리대 10팩",
+    "product": "[라엘 라이브] 라엘 내추럴 순면커버 생리대 10팩",
     "price": 64000,
     "link": "https://store.kakao.com/rael/products/287186815",
     "slot_id": "61695",
@@ -4691,7 +4691,7 @@
     "start": "11:30",
     "end": "13:00",
     "brand": "시몬하우스",
-    "product": "[안드로스 비넛츠] 땅콩버터 100%/크리미/크런치 1+1 모음 무첨가 무가당 땅콩잼 피넛버터 (디아토스타 증정/이벤트)",
+    "product": "[안드로스 비넛츠] 땅콩버터 100%/크리미/크런치 모음 무첨가 무가당 땅콩잼 피넛버터 (디아토스타 증정/이벤트)",
     "price": 19800,
     "link": "https://store.kakao.com/uniangels/products/664427510",
     "slot_id": "61702",

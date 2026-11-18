@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-11",
- "updated_at": "2026-11-18T13:52:11+09:00",
+ "updated_at": "2026-11-18T15:53:57+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -6293,6 +6293,25 @@
     "pgm": "[재방] 헤지스 잡화 (멀티커머스)"
    },
    {
+    "start": "07:00",
+    "end": "07:59",
+    "brand": "골든클레프",
+    "product": "18K 리얼진주 네크리스",
+    "price": 999000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252905617",
+    "slot_id": "202611196019",
+    "items": [
+     {
+      "brand": "골든클레프",
+      "product": "18K 리얼진주 네크리스",
+      "price": 999000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252905617"
+     }
+    ],
+    "title": "[노블리타] 이탈리아 18K 주얼리 전 상품 최저가도전",
+    "pgm": "[재방] 노블리타 (노블레스)"
+   },
+   {
     "start": "08:00",
     "end": "08:59",
     "brand": "레노마",
@@ -6411,14 +6430,14 @@
     "end": "15:59",
     "brand": "밋앤밀",
     "product": "고흥 산지직송 유기농 저탄소 완숙 유자 생과 1kg",
-    "price": 19300,
+    "price": 18900,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258036744",
     "slot_id": "202611196009",
     "items": [
      {
       "brand": "밋앤밀",
       "product": "고흥 산지직송 유기농 저탄소 완숙 유자 생과 1kg",
-      "price": 19300,
+      "price": 18900,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258036744"
      }
     ],
@@ -6486,16 +6505,16 @@
     "start": "19:00",
     "end": "19:59",
     "brand": "에르노",
-    "product": "[에르노]6F PI0485DIC 12017Z 2600 여성 클라우디아 다운 패딩 도브 그레이",
-    "price": 990000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258233702",
+    "product": "[에르노]6S PI002203D 12017Z 1985 여성 크루넥 라인 버튼 다운 자켓 샹티이",
+    "price": 850000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253170830",
     "slot_id": "202611196013",
     "items": [
      {
       "brand": "에르노",
-      "product": "[에르노]6F PI0485DIC 12017Z 2600 여성 클라우디아 다운 패딩 도브 그레이",
-      "price": 990000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258233702"
+      "product": "[에르노]6S PI002203D 12017Z 1985 여성 크루넥 라인 버튼 다운 자켓 샹티이",
+      "price": 850000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253170830"
      }
     ],
     "title": "[에르노] 구스다운 롱패딩 월 1만원대",
@@ -6560,6 +6579,25 @@
    }
   ],
   "2026-11-20": [
+   {
+    "start": "07:00",
+    "end": "07:59",
+    "brand": "골든클레프",
+    "product": "18K 리얼진주 네크리스",
+    "price": 999000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252905617",
+    "slot_id": "202611206021",
+    "items": [
+     {
+      "brand": "골든클레프",
+      "product": "18K 리얼진주 네크리스",
+      "price": 999000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252905617"
+     }
+    ],
+    "title": "[노블리타] 이탈리아 18K 주얼리 전 상품 최저가도전",
+    "pgm": "[재방] 노블리타 (노블레스)"
+   },
    {
     "start": "08:00",
     "end": "08:59",
@@ -6641,14 +6679,14 @@
     "end": "12:59",
     "brand": "BCBG",
     "product": "[비씨비지] 텍스처 밴딩 와이드 팬츠 B4WAP335-1 B4WAP335-1",
-    "price": 99000,
+    "price": 65000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257770045",
     "slot_id": "202611206005",
     "items": [
      {
       "brand": "BCBG",
       "product": "[비씨비지] 텍스처 밴딩 와이드 팬츠 B4WAP335-1 B4WAP335-1",
-      "price": 99000,
+      "price": 65000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257770045"
      }
     ],
@@ -6848,6 +6886,25 @@
     "pgm": "현명쇼(노블레스)"
    },
    {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "헨리베글린",
+    "product": "아델리나백 블랙",
+    "price": 1130000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253652254",
+    "slot_id": "202611216017",
+    "items": [
+     {
+      "brand": "헨리베글린",
+      "product": "아델리나백 블랙",
+      "price": 1130000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253652254"
+     }
+    ],
+    "title": "[헨리베글린] 최신상 핸드백 & 시즌오프 특별가❤️",
+    "pgm": "[헨리베글린] 잡화 (멀티커머스)"
+   },
+   {
     "start": "14:00",
     "end": "14:59",
     "brand": "스타우브",
@@ -6870,16 +6927,16 @@
     "start": "15:00",
     "end": "15:59",
     "brand": "밋앤밀",
-    "product": "3대째 이어온 해남농부 꿀고구마(베니하루카) 특상 5kg(개당 130-300g)",
-    "price": 23700,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2244273358",
+    "product": "해풍맞고 자란 남해 보물섬 시금치 1kg",
+    "price": 9600,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2244311511",
     "slot_id": "202611216007",
     "items": [
      {
       "brand": "밋앤밀",
-      "product": "3대째 이어온 해남농부 꿀고구마(베니하루카) 특상 5kg(개당 130-300g)",
-      "price": 23700,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2244273358"
+      "product": "해풍맞고 자란 남해 보물섬 시금치 1kg",
+      "price": 9600,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2244311511"
      }
     ],
     "title": "[밋앤밀] 산지직송 남해 보물섬 시금치 라이브 특별가",
@@ -7019,6 +7076,25 @@
     ],
     "title": "[아서앤그레이스] 최고급 가죽으로 만드는 명품 가방",
     "pgm": "[아서앤그레이스] 가방/지갑 (패션잡화)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "주크",
+    "product": "울 캐시미어 벨티드 코트Z264MSG151 Z264MSG151",
+    "price": 489300,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258116651",
+    "slot_id": "202611226013",
+    "items": [
+     {
+      "brand": "주크",
+      "product": "울 캐시미어 벨티드 코트Z264MSG151 Z264MSG151",
+      "price": 489300,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258116651"
+     }
+    ],
+    "title": "쥬크와 함께하는 겨울, 아우터 특집 방송📺",
+    "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ],
   "2026-11-23": [

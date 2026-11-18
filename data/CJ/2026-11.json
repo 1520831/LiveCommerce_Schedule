@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-11",
- "updated_at": "2026-11-18T13:52:17+09:00",
+ "updated_at": "2026-11-18T15:54:03+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -6966,7 +6966,7 @@
     "start": "13:00",
     "end": "13:59",
     "brand": "브이텍",
-    "product": "1위 국민템 세트 (NEW 깜짝볼 스마트 소프트 한영버전 + NEW 걸음마 보조기 스마트 폴딩 소프트)",
+    "product": "1위 국민템 세트 (NEW 깜짝볼 스마트 소프트 한영버전 + NEW 걸음마 보조기 스마트 폴딩 소프트)[예약판매 11/25 순차출고]",
     "price": 105840,
     "link": "https://item.cjonstyle.com/item/2076309972?channelCode=30002002",
     "slot_id": "31822",
@@ -7239,7 +7239,7 @@
     "end": "21:59",
     "brand": "까사렐",
     "product": "26 FW 플로럴 폼폼 모크넥 풀오버 3종",
-    "price": 79900,
+    "price": 59900,
     "link": "https://item.cjonstyle.com/item/2096011286?channelCode=30002002",
     "slot_id": "31693",
     "title": "명품 퀄리티 까사렐 26FW 3만 원대~ 방송 중 추가 할인 10%",
@@ -7370,7 +7370,7 @@
     "start": "09:00",
     "end": "09:59",
     "brand": "프라이(FRYE)",
-    "product": "26FW 워커 레이스업 부츠",
+    "product": "[1차 리오더]26FW 워커 레이스업 부츠",
     "price": 199000,
     "link": "https://item.cjonstyle.com/item/2095808835?channelCode=30002002",
     "slot_id": "31836",
@@ -7576,9 +7576,9 @@
     "start": "14:00",
     "end": "14:59",
     "brand": "토리든",
-    "product": "[내일오네][NEW] 다이브인 세럼 50ml * 3개 + 수딩크림 * 2개 + 마스크 20매 + 다이브인 멀티패드 + 트라이얼키트",
-    "price": 89900,
-    "link": "https://item.cjonstyle.com/item/2089793518?channelCode=30002002",
+    "product": "[내일오네] [NEW] 다이브인 저분자 히알루론산 세럼 50ml * 4개 + 수딩크림 * 2개 + 다이브인 필링젤 150ml + 다이브인 트라이얼",
+    "price": 78000,
+    "link": "https://item.cjonstyle.com/item/2089793735?channelCode=30002002",
     "slot_id": "31846",
     "title": "다시보는 수분명가 토리든x겟잇스타일🩵 방송에서만 최대 할인가!",
     "pgm": "겟잇스타일 프렌즈",
@@ -7762,7 +7762,7 @@
     "price": 89000,
     "link": "https://item.cjonstyle.com/item/2076950417?channelCode=30002002",
     "slot_id": "31702",
-    "title": "엣지쇼👗 애드아보아&아쿠아스큐텀 26FW 세일",
+    "title": "엣지쇼👗애드아보아&아쿠아스큐텀 26FW 세일",
     "pgm": "엣지쇼",
     "pgm_cd": "0223",
     "category": "여성패션"
@@ -8031,14 +8031,15 @@
    {
     "start": "09:00",
     "end": "09:59",
-    "brand": "",
-    "product": "다시보는 르포엠 겨울 세일💕 스커트/니트/아우터 방송 중 최저가",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/31869",
+    "brand": "르포엠",
+    "product": "에셀 세미 와이드 팬츠",
+    "price": 12900,
+    "link": "https://item.cjonstyle.com/item/2076376377?channelCode=30002002",
     "slot_id": "31869",
     "title": "다시보는 르포엠 겨울 세일💕 스커트/니트/아우터 방송 중 최저가",
     "pgm": "브랜디드 라이브쇼",
-    "pgm_cd": "1130"
+    "pgm_cd": "1130",
+    "category": "여성패션"
    },
    {
     "start": "10:00",
@@ -8107,7 +8108,7 @@
     "start": "11:00",
     "end": "11:59",
     "brand": "시크",
-    "product": "(SEEC) 씨티 원 4 in 1 뉴본 하이체어 세트 신생아 아기 식탁의자",
+    "product": "[11/19 LIVE] 씨티 원 4 in 1 뉴본 하이체어 세트 신생아 아기 식탁의자",
     "price": 560000,
     "link": "https://item.cjonstyle.com/item/2097275550?channelCode=30002002",
     "slot_id": "31713",
@@ -8158,15 +8159,14 @@
    {
     "start": "12:00",
     "end": "12:59",
-    "brand": "헤이미니",
-    "product": "팝팝홀로그램스키패딩후드",
-    "price": 84900,
-    "link": "https://item.cjonstyle.com/item/2093943690?channelCode=30002002",
+    "brand": "",
+    "product": "[이거탐나린] 공주님들 원픽! 헤이미니 2차 공구템 ~84%+무배+사은품",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/31874",
     "slot_id": "31874",
     "title": "[이거탐나린] 공주님들 원픽! 헤이미니 2차 공구템 ~84%+무배+사은품",
     "pgm": "이거 탐나린",
-    "pgm_cd": "1146",
-    "category": "여성패션"
+    "pgm_cd": "1146"
    },
    {
     "start": "12:00",
@@ -8275,14 +8275,15 @@
    {
     "start": "16:00",
     "end": "16:59",
-    "brand": "",
-    "product": "다시보는 프라이 26FW 부츠 신상❤️ 최대 혜택가",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/31883",
+    "brand": "프라이(FRYE)",
+    "product": "[1차 리오더]26FW 워커 레이스업 부츠",
+    "price": 199000,
+    "link": "https://item.cjonstyle.com/item/2095808835?channelCode=30002002",
     "slot_id": "31883",
     "title": "다시보는 프라이 26FW 부츠 신상❤️ 최대 혜택가",
     "pgm": "라이브쇼",
-    "pgm_cd": "1008"
+    "pgm_cd": "1008",
+    "category": "잡화·슈즈"
    },
    {
     "start": "16:00",
@@ -8326,15 +8327,14 @@
    {
     "start": "18:00",
     "end": "18:59",
-    "brand": "케어베어",
-    "product": "뉴 텐더하트베어 귀달이 스키 점프 방한수트",
-    "price": 159000,
-    "link": "https://item.cjonstyle.com/item/2095810182?channelCode=30002002",
+    "brand": "",
+    "product": "케어베어 겨울 등원룩은 오늘로 완성! ~87%+카드5%+사은품",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/31887",
     "slot_id": "31887",
     "title": "케어베어 겨울 등원룩은 오늘로 완성! ~87%+카드5%+사은품",
     "pgm": "인플루언서LIVE",
-    "pgm_cd": "1052",
-    "category": "여성패션"
+    "pgm_cd": "1052"
    },
    {
     "start": "18:00",
@@ -8637,9 +8637,9 @@
     "start": "10:00",
     "end": "10:59",
     "brand": "빌레로이앤보흐",
-    "product": "[준성담X매뉴팩처락 4인조 풀세트 화이트&블랙",
-    "price": 629000,
-    "link": "https://item.cjonstyle.com/item/2095832588?channelCode=30002002",
+    "product": "[공동구매] 매뉴팩처락 인디비쥬얼볼 13cm",
+    "price": 30250,
+    "link": "https://item.cjonstyle.com/item/2098372227?channelCode=30002002",
     "slot_id": "31723",
     "title": "빌레로이앤보흐x준성담🎁메뉴팩처락 4인조 세트 무이자 12개월 혜택",
     "pgm": "인플루언서LIVE",
@@ -9032,14 +9032,15 @@
    {
     "start": "21:00",
     "end": "21:59",
-    "brand": "",
-    "product": "다시보는 에스까다 26FW 숏패딩/베스트 패딩/니트 방송중 최저가🤍",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/31926",
+    "brand": "에스까다",
+    "product": "26FW 볼륨 후드 패딩 자켓 여성",
+    "price": 399000,
+    "link": "https://item.cjonstyle.com/item/2094671789?channelCode=30002002",
     "slot_id": "31926",
     "title": "다시보는 에스까다 26FW 숏패딩/베스트 패딩/니트 방송중 최저가🤍",
     "pgm": "라이브쇼",
-    "pgm_cd": "1008"
+    "pgm_cd": "1008",
+    "category": "스포츠·아웃도어"
    },
    {
     "start": "21:00",
@@ -9213,14 +9214,15 @@
    {
     "start": "12:00",
     "end": "12:59",
-    "brand": "",
-    "product": "다시보는💖베네통/시슬리 FW 신상 윈터 셀렉션",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/31940",
+    "brand": "베네통",
+    "product": "동가게PICK [공식정품] 26FW 호주산 양모100 테디코트",
+    "price": 161100,
+    "link": "https://item.cjonstyle.com/item/2095892702?channelCode=30002002",
     "slot_id": "31940",
     "title": "다시보는💖베네통/시슬리 FW 신상 윈터 셀렉션",
     "pgm": "엣지쇼",
-    "pgm_cd": "0223"
+    "pgm_cd": "0223",
+    "category": "스포츠·아웃도어"
    },
    {
     "start": "13:00",
@@ -9302,14 +9304,15 @@
    {
     "start": "16:00",
     "end": "16:59",
-    "brand": "",
-    "product": "다시보는 스튜디오 톰보이 스페셜! 겨울 코트 초특가 SALE❤",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/31947",
+    "brand": "스튜디오톰보이",
+    "product": "우먼 반더블 레글런 코트 9106411172",
+    "price": 319200,
+    "link": "https://item.cjonstyle.com/item/2095118537?channelCode=30002002",
     "slot_id": "31947",
     "title": "다시보는 스튜디오 톰보이 스페셜! 겨울 코트 초특가 SALE❤",
     "pgm": "스튜디오B",
-    "pgm_cd": "1108"
+    "pgm_cd": "1108",
+    "category": "여성패션"
    },
    {
     "start": "16:00",
@@ -9378,6 +9381,19 @@
    {
     "start": "19:00",
     "end": "19:59",
+    "brand": "셀렙샵에디션",
+    "product": "26FW 하이넥 프렌치 롱다운",
+    "price": 242100,
+    "link": "https://item.cjonstyle.com/item/2097573364?channelCode=30002002",
+    "slot_id": "31729",
+    "title": "셀렙샵에디션 26FW",
+    "pgm": "엣지쇼",
+    "pgm_cd": "0223",
+    "category": "여성패션"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
     "brand": "",
     "product": "다시보는 겟잇뷰티💖GLOW UP with [다니엘트루스] 앵콜 방송🌸",
     "price": 0,
@@ -9416,6 +9432,19 @@
    {
     "start": "20:00",
     "end": "20:59",
+    "brand": "위프",
+    "product": "[브티나는생활] Whiff 다용도 탈취제 12개 모음전",
+    "price": 149000,
+    "link": "https://item.cjonstyle.com/item/2097226429?channelCode=30002002",
+    "slot_id": "31954",
+    "title": "다시보는 브티X위프 탈취제⭐환기 어려운 겨울철 실내 냄새 고민 끝!",
+    "pgm": "브티나는 생활",
+    "pgm_cd": "0101",
+    "category": "주방·잡화"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
     "brand": "자코모",
     "product": "베니 3인 기능성 슈렁큰 천연면피 소가죽 소파",
     "price": 1980900,
@@ -9424,6 +9453,31 @@
     "title": "다시보는 자코모 베니&시그니처스윙 / 베니 슈렁큰 가죽 무료 업그레이드",
     "pgm": "하우스윗",
     "pgm_cd": "1048"
+   },
+   {
+    "start": "21:00",
+    "end": "22:00",
+    "brand": "조이그라이슨",
+    "product": "엘란 EW 숄더백 LW6AB1930_10",
+    "price": 179100,
+    "link": "https://item.cjonstyle.com/item/2095914316?channelCode=30002002",
+    "slot_id": "31957",
+    "title": "다시보는 [은세로운발견] 조이그라이슨 론칭 맞이 최대 할인",
+    "pgm": "은세로운 발견",
+    "pgm_cd": "1075",
+    "category": "잡화·슈즈"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "",
+    "product": "다시보는 엣지쇼💕 M12/드베로타 BEST 특집전",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/31981",
+    "slot_id": "31981",
+    "title": "다시보는 엣지쇼💕 M12/드베로타 BEST 특집전",
+    "pgm": "엣지쇼",
+    "pgm_cd": "0223"
    },
    {
     "start": "22:00",
@@ -9450,6 +9504,19 @@
     "pgm": "유부림의 라이브쇼",
     "pgm_cd": "1089",
     "category": "가구·침구"
+   },
+   {
+    "start": "23:00",
+    "end": "00:05",
+    "brand": "더엣지",
+    "product": "26FW 브러시드 알파카울 블렌디드 롱코트",
+    "price": 161910,
+    "link": "https://item.cjonstyle.com/item/2094958380?channelCode=30002002",
+    "slot_id": "31960",
+    "title": "다시보는 잇솔지❤️더엣지 롱코트! 다운, 자켓까지 겨울 아우터 SALE",
+    "pgm": "잇솔지",
+    "pgm_cd": "1109",
+    "category": "여성패션"
    },
    {
     "start": "23:00",
@@ -9530,6 +9597,19 @@
     "pgm": "남다른 스타일",
     "pgm_cd": "1141",
     "category": "여성패션"
+   },
+   {
+    "start": "12:00",
+    "end": "13:00",
+    "brand": "조이그라이슨",
+    "product": "엘란 EW 숄더백 LW6AB1930_10",
+    "price": 179100,
+    "link": "https://item.cjonstyle.com/item/2095914316?channelCode=30002002",
+    "slot_id": "31970",
+    "title": "다시보는 [은세로운발견] 조이그라이슨 론칭 맞이 최대 할인",
+    "pgm": "은세로운 발견",
+    "pgm_cd": "1075",
+    "category": "잡화·슈즈"
    },
    {
     "start": "13:00",
@@ -9673,6 +9753,19 @@
    {
     "start": "20:00",
     "end": "20:59",
+    "brand": "위프",
+    "product": "[브티나는생활] Whiff 다용도 탈취제 12개 모음전",
+    "price": 149000,
+    "link": "https://item.cjonstyle.com/item/2097226429?channelCode=30002002",
+    "slot_id": "31986",
+    "title": "다시보는 브티X위프 탈취제⭐환기 어려운 겨울철 실내 냄새 고민 끝!",
+    "pgm": "브티나는 생활",
+    "pgm_cd": "0101",
+    "category": "주방·잡화"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
     "brand": "다이슨",
     "product": "에어랩 i.d. 멀티 스타일러 앤 드라이어 (버건디/우드)+파우치 증 정",
     "price": 539100,
@@ -9776,6 +9869,18 @@
   ],
   "2026-11-23": [
    {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "",
+    "product": "드베로타 양모 코트 라이브쇼 최초공개🤎페이즐리 다운/베스트 방송중 특가",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/31994",
+    "slot_id": "31994",
+    "title": "드베로타 양모 코트 라이브쇼 최초공개🤎페이즐리 다운/베스트 방송중 특가",
+    "pgm": "라이브쇼",
+    "pgm_cd": "0146"
+   },
+   {
     "start": "11:00",
     "end": "11:59",
     "brand": "CJ이엔엠",
@@ -9814,6 +9919,18 @@
     "pgm_cd": "1108"
    },
    {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "",
+    "product": "다시보는 유부림x지누스💫그린티에어vs얼티마럭스S 올해 마지막 역대최저가",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/32100",
+    "slot_id": "32100",
+    "title": "다시보는 유부림x지누스💫그린티에어vs얼티마럭스S 올해 마지막 역대최저가",
+    "pgm": "유부림의 라이브쇼",
+    "pgm_cd": "1089"
+   },
+   {
     "start": "15:00",
     "end": "15:59",
     "brand": "자코모",
@@ -9824,6 +9941,31 @@
     "title": "다시보는 자코모 베니&시그니처스윙 / 베니 슈렁큰 가죽 무료 업그레이드",
     "pgm": "하우스윗",
     "pgm_cd": "1048"
+   },
+   {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "",
+    "product": "다시보는 한샘이라서 집가구싶다~BEST소파 엠마의 스윙버전 공개",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/32109",
+    "slot_id": "32109",
+    "title": "다시보는 한샘이라서 집가구싶다~BEST소파 엠마의 스윙버전 공개",
+    "pgm": "집가구싶다",
+    "pgm_cd": "1102"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "위프",
+    "product": "[브티나는생활] Whiff 다용도 탈취제 12개 모음전",
+    "price": 149000,
+    "link": "https://item.cjonstyle.com/item/2097226429?channelCode=30002002",
+    "slot_id": "32112",
+    "title": "다시보는 브티X위프 탈취제⭐환기 어려운 겨울철 실내 냄새 고민 끝!",
+    "pgm": "브티나는 생활",
+    "pgm_cd": "0101",
+    "category": "주방·잡화"
    },
    {
     "start": "19:00",
@@ -9862,6 +10004,32 @@
     "title": "하우스윗💫에이스침대 11월 한 달 중 오늘이 가장 저렴한 날!",
     "pgm": "하우스윗",
     "pgm_cd": "1048"
+   },
+   {
+    "start": "22:00",
+    "end": "23:00",
+    "brand": "조이그라이슨",
+    "product": "엘란 EW 숄더백 LW6AB1930_10",
+    "price": 179100,
+    "link": "https://item.cjonstyle.com/item/2095914316?channelCode=30002002",
+    "slot_id": "32120",
+    "title": "다시보는 [은세로운발견] 조이그라이슨 론칭 맞이 최대 할인",
+    "pgm": "은세로운 발견",
+    "pgm_cd": "1075",
+    "category": "잡화·슈즈"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "다우닝",
+    "product": "플랫 3.5인 스윙 전체 천연가죽 소파",
+    "price": 2499840,
+    "link": "https://item.cjonstyle.com/item/2009402856?channelCode=30002002",
+    "slot_id": "32122",
+    "title": "다시보는 다우닝 BEST💛플랫스윙&모션쿼드 최저가+백화점 상품권 찬스!",
+    "pgm": "하우스윗",
+    "pgm_cd": "1048",
+    "category": "가구·침구"
    }
   ]
  }
