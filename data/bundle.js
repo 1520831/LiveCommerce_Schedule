@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-19T08:00:11+09:00",
+ "generated_at": "2026-11-19T08:20:11+09:00",
  "today": "2026-11-19",
  "dates": [
   "2026-11-18",
@@ -454,7 +454,7 @@ window.SCHEDULE = {
      ],
      "title": "[헤지스ACC] 신상 가방&겨울 패션템 만나보기🩷",
      "pgm": "[재방] 헤지스 잡화 (멀티커머스)",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "07:00",
@@ -493,7 +493,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[레노마캐주얼] 데일리 | 비즈니스 겨울 코디 LIVE",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 10
     },
     {
      "start": "09:00",
@@ -7705,7 +7706,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "01:10",
@@ -7974,8 +7975,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 8
+     "category": "테크"
     },
     {
      "start": "08:00",
@@ -8082,7 +8082,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 2
     },
     {
      "start": "09:40",
@@ -25231,8 +25232,8 @@ window.SCHEDULE = {
    "2026-11-18",
    "2026-11-19"
   ],
-  "matched": 13,
-  "unmatched": 6
+  "matched": 14,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
