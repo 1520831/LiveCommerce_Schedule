@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-19T08:20:11+09:00",
+ "generated_at": "2026-11-19T08:40:09+09:00",
  "today": "2026-11-19",
  "dates": [
   "2026-11-18",
@@ -454,7 +454,7 @@ window.SCHEDULE = {
      ],
      "title": "[헤지스ACC] 신상 가방&겨울 패션템 만나보기🩷",
      "pgm": "[재방] 헤지스 잡화 (멀티커머스)",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "07:00",
@@ -494,7 +494,7 @@ window.SCHEDULE = {
      ],
      "title": "[레노마캐주얼] 데일리 | 비즈니스 겨울 코디 LIVE",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 10
+     "hot": 8
     },
     {
      "start": "09:00",
@@ -7706,7 +7706,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "01:10",
@@ -8083,7 +8083,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "09:40",
@@ -23734,7 +23734,8 @@ window.SCHEDULE = {
      "slot_id": "61304",
      "pgm": "종근당건강 X 카쇼라위크",
      "title": "11월 일일이 챙겨드림!",
-     "category": "식품"
+     "category": "식품",
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -23746,7 +23747,8 @@ window.SCHEDULE = {
      "slot_id": "61305",
      "pgm": "유러피안 맛 폰타나 특가",
      "title": "라이브 한정 특별구성 오픈",
-     "category": "식품"
+     "category": "식품",
+     "hot": 2
     },
     {
      "start": "08:30",
@@ -25232,8 +25234,8 @@ window.SCHEDULE = {
    "2026-11-18",
    "2026-11-19"
   ],
-  "matched": 14,
-  "unmatched": 5
+  "matched": 16,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
