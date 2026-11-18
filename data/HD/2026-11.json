@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-11",
- "updated_at": "2026-11-18T18:01:29+09:00",
+ "updated_at": "2026-11-18T23:30:51+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -5953,14 +5953,14 @@
     "end": "00:59",
     "brand": "한민금거래소",
     "product": "[LIVE.한민금거래소] 사랑 카드 골드바 24K 순금 3.75g",
-    "price": 833600,
+    "price": 849800,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967998",
     "slot_id": "202611186019",
     "items": [
      {
       "brand": "한민금거래소",
       "product": "[LIVE.한민금거래소] 사랑 카드 골드바 24K 순금 3.75g",
-      "price": 833600,
+      "price": 849800,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251967998"
      }
     ],
@@ -6181,14 +6181,14 @@
     "end": "18:59",
     "brand": "에떼르노",
     "product": "패브릭텐션팔찌 물고기 (네온블루)",
-    "price": 189000,
+    "price": 270000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257833842",
     "slot_id": "202611186011",
     "items": [
      {
       "brand": "에떼르노",
       "product": "패브릭텐션팔찌 물고기 (네온블루)",
-      "price": 189000,
+      "price": 270000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257833842"
      }
     ],
@@ -6218,16 +6218,16 @@
     "start": "20:00",
     "end": "20:59",
     "brand": "버버리",
-    "product": "클래식 체크 캐시미어 머플러(8076576)",
-    "price": 849000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248783529",
+    "product": "벨티드 구스 롱 패딩코트(8110313)",
+    "price": 2369000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2242208571",
     "slot_id": "202611186013",
     "items": [
      {
       "brand": "버버리",
-      "product": "클래식 체크 캐시미어 머플러(8076576)",
-      "price": 849000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248783529"
+      "product": "벨티드 구스 롱 패딩코트(8110313)",
+      "price": 2369000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2242208571"
      }
     ],
     "title": "[현명쇼] 막스마라 코트 월 1만원대 ★곧 종료★",
@@ -6327,6 +6327,24 @@
     ],
     "title": "라인✨ ~70%▼ + 19%쿠폰 + 5~7% 카드할인",
     "pgm": "[재방] 라인 여성의류 (멀티커머스)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "모조에스핀",
+    "product": "울소재 테일러드 더블 정장 자켓 J264XSF102 J264XSF102",
+    "price": 279300,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255325960",
+    "slot_id": "202611186016",
+    "items": [
+     {
+      "brand": "모조에스핀",
+      "product": "울소재 테일러드 더블 정장 자켓 J264XSF102 J264XSF102",
+      "price": 279300,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2255325960"
+     }
+    ],
+    "title": "따뜻한 연말을 위한 모조 기프트! 쇼라 최대 혜택❤️"
    },
    {
     "start": "23:00",
@@ -6467,16 +6485,16 @@
     "start": "12:00",
     "end": "12:59",
     "brand": "로라애슐리",
-    "product": "라일락 블루 극세사 담요 Q",
+    "product": "라일락 베이지 극세사 담요 Q",
     "price": 44000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257659610",
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257659611",
     "slot_id": "202611196006",
     "items": [
      {
       "brand": "로라애슐리",
-      "product": "라일락 블루 극세사 담요 Q",
+      "product": "라일락 베이지 극세사 담요 Q",
       "price": 44000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257659610"
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257659611"
      }
     ],
     "title": "[로라애슐리] FW 극세사 침구&담요 신상 최초 공개✨",
@@ -6544,14 +6562,14 @@
     "end": "17:59",
     "brand": "경동나비엔",
     "product": "카본매트 전기장판 EME550S-SP 싱글 95x195cm",
-    "price": 399900,
+    "price": 319000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253155324",
     "slot_id": "202611196011",
     "items": [
      {
       "brand": "경동나비엔",
       "product": "카본매트 전기장판 EME550S-SP 싱글 95x195cm",
-      "price": 399900,
+      "price": 319000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253155324"
      }
     ],
@@ -6679,14 +6697,14 @@
     "end": "08:59",
     "brand": "베네통",
     "product": "[아울렛] 다이아 퀼팅 후드 패딩 점퍼 BAPDA3561 BAPDA3561",
-    "price": 279000,
+    "price": 239700,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258117623",
     "slot_id": "202611206001",
     "items": [
      {
       "brand": "베네통",
       "product": "[아울렛] 다이아 퀼팅 후드 패딩 점퍼 BAPDA3561 BAPDA3561",
-      "price": 279000,
+      "price": 239700,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258117623"
      }
     ],
@@ -6869,14 +6887,14 @@
     "end": "21:59",
     "brand": "CC콜렉트",
     "product": "[씨씨콜렉트] [아울렛] 버튼 포인트 A라인 미니 스커트 E264MSD135 E264MSD135",
-    "price": 131400,
+    "price": 116070,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256715121",
     "slot_id": "202611206014",
     "items": [
      {
       "brand": "CC콜렉트",
       "product": "[씨씨콜렉트] [아울렛] 버튼 포인트 A라인 미니 스커트 E264MSD135 E264MSD135",
-      "price": 131400,
+      "price": 116070,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2256715121"
      }
     ],
@@ -7344,6 +7362,25 @@
     ],
     "title": "[듀오 매칭 서비스] 11월 듀오 세일 페스타",
     "pgm": "[듀오] 듀오 (렌탈)"
+   },
+   {
+    "start": "20:00",
+    "end": "21:59",
+    "brand": "버버리",
+    "product": "후디드 벨트 롱 다운 패딩(81052081)",
+    "price": 2389000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257709324",
+    "slot_id": "202611236013",
+    "items": [
+     {
+      "brand": "버버리",
+      "product": "후디드 벨트 롱 다운 패딩(81052081)",
+      "price": 2389000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257709324"
+     }
+    ],
+    "title": "[현명쇼] 버버리 신상패딩 69만▼ ★곧종료★",
+    "pgm": "현명쇼(노블레스)"
    },
    {
     "start": "23:00",
