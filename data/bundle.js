@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-18T21:00:08+09:00",
+ "generated_at": "2026-11-18T22:00:07+09:00",
  "today": "2026-11-18",
  "dates": [
   "2026-11-17",
@@ -663,7 +663,7 @@ window.SCHEDULE = {
      ],
      "title": "[현명쇼] 막스마라 코트 월 1만원대 ★곧 종료★",
      "pgm": "현명쇼(노블레스)",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "20:00",
@@ -2822,8 +2822,7 @@ window.SCHEDULE = {
      "title": "로아레 론칭 LIVE✨ 품절대란 마스크팩 다구성 최초공개! 역대 최저가",
      "pgm": "라이브쇼",
      "pgm_cd": "0146",
-     "category": "뷰티",
-     "hot": 9
+     "category": "뷰티"
     },
     {
      "start": "19:00",
@@ -25323,8 +25322,7 @@ window.SCHEDULE = {
      "slot_id": "260483",
      "pgm": "[앵콜] ASUS 인기 노트북 특가 모음!",
      "rerun": true,
-     "category": "디지털·PC",
-     "hot": 10
+     "category": "디지털·PC"
     },
     {
      "start": "20:00",
@@ -25395,7 +25393,8 @@ window.SCHEDULE = {
      "slot_id": "260497",
      "pgm": "[앵콜]LG가전BEST인기템❤️끝장세일 득템 찬스",
      "rerun": true,
-     "category": "가전"
+     "category": "가전",
+     "hot": 4
     }
    ],
    "2026-11-19": [
@@ -26043,7 +26042,7 @@ window.SCHEDULE = {
      "pgm": "홍진경이 선택한 곡물도감",
      "title": "신제품 첫공개 특가 라이브!",
      "category": "식품",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "08:30",
@@ -26320,7 +26319,8 @@ window.SCHEDULE = {
      "slot_id": "61810",
      "pgm": "동국제약 브랜드데이 블프",
      "title": "마데카크림 최대~91% 할인",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 9
     },
     {
      "start": "20:30",
