@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-11",
- "updated_at": "2026-11-19T18:01:25+09:00",
+ "updated_at": "2026-11-19T23:31:00+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -8357,7 +8357,7 @@
     "start": "19:00",
     "end": "19:59",
     "brand": "베네통",
-    "product": "앰2만원 [공식정품] 26FW 호주산 양모100 테디코트",
+    "product": "[공식정품] 26FW 호주산 양모100 테디코트",
     "price": 159000,
     "link": "https://item.cjonstyle.com/item/2095892702?channelCode=30002002",
     "slot_id": "31716",
@@ -8553,7 +8553,7 @@
     "end": "23:59",
     "brand": "애드아보아",
     "product": "26SS 라쿤 울 블렌디드 훌  니트스커트",
-    "price": 89000,
+    "price": 69000,
     "link": "https://item.cjonstyle.com/item/2076950417?channelCode=30002002",
     "slot_id": "31897",
     "title": "다시보는 엣지쇼👗 애드아보아&아쿠아스큐 26FW 세일",
@@ -9252,9 +9252,9 @@
    },
    {
     "start": "12:00",
-    "end": "12:59",
+    "end": "13:00",
     "brand": "베네통",
-    "product": "앰2만원 [공식정품] 26FW 호주산 양모100 테디코트",
+    "product": "[공식정품] 26FW 호주산 양모100 테디코트",
     "price": 159000,
     "link": "https://item.cjonstyle.com/item/2095892702?channelCode=30002002",
     "slot_id": "31940",
@@ -9476,7 +9476,7 @@
     "end": "20:59",
     "brand": "위프",
     "product": "[브티나는생활] Whiff 다용도 탈취제 12개 모음전",
-    "price": 169000,
+    "price": 149000,
     "link": "https://item.cjonstyle.com/item/2097226429?channelCode=30002002",
     "slot_id": "31954",
     "title": "다시보는 브티X위프 탈취제⭐환기 어려운 겨울철 실내 냄새 고민 끝!",
@@ -10185,15 +10185,14 @@
    {
     "start": "11:00",
     "end": "11:59",
-    "brand": "CJ이엔엠",
-    "product": "온키즈패스",
-    "price": 990,
-    "link": "https://item.cjonstyle.com/item/2094169362?channelCode=30002002",
+    "brand": "",
+    "product": "[맘만하니] 킨도 최신상 베베가드 나이트 최초 공개! 방송중 선물 와르르",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/31997",
     "slot_id": "31997",
     "title": "[맘만하니] 킨도 최신상 베베가드 나이트 최초 공개! 방송중 선물 와르르",
     "pgm": "맘만하니",
-    "pgm_cd": "1100",
-    "category": "서비스·렌탈"
+    "pgm_cd": "1100"
    },
    {
     "start": "11:00",
@@ -10224,14 +10223,15 @@
    {
     "start": "11:30",
     "end": "12:34",
-    "brand": "",
-    "product": "요즘 뜨는 이태리 명품 다운 봄부지에 ~26% OFF 시크릿 특가",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/31998",
+    "brand": "봄부지에",
+    "product": "동가게PICK [이태리공식수입] 로마 다운 자켓 GW6012",
+    "price": 990000,
+    "link": "https://item.cjonstyle.com/item/2090038442?channelCode=30002002",
     "slot_id": "31998",
     "title": "요즘 뜨는 이태리 명품 다운 봄부지에 ~26% OFF 시크릿 특가",
     "pgm": "스튜디오B",
-    "pgm_cd": "1108"
+    "pgm_cd": "1108",
+    "category": "스포츠·아웃도어"
    },
    {
     "start": "12:00",
@@ -10611,14 +10611,15 @@
    {
     "start": "09:15",
     "end": "10:19",
-    "brand": "",
-    "product": "잇솔지 애프터라이브💕셀렙샵 에디션 끝장세일!",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/32007",
+    "brand": "셀렙샵에디션",
+    "product": "[디오브르by셀렙샵]26FW 레이스 자수 카라 2종",
+    "price": 39900,
+    "link": "https://item.cjonstyle.com/item/2092264368?channelCode=30002002",
     "slot_id": "32007",
     "title": "잇솔지 애프터라이브💕셀렙샵 에디션 끝장세일!",
     "pgm": "잇솔지",
-    "pgm_cd": "1109"
+    "pgm_cd": "1109",
+    "category": "잡화·슈즈"
    },
    {
     "start": "10:00",
