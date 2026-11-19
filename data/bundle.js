@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-19T10:40:07+09:00",
+ "generated_at": "2026-11-19T11:00:08+09:00",
  "today": "2026-11-19",
  "dates": [
   "2026-11-18",
@@ -472,8 +472,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 전 상품 최저가도전",
-     "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 10
+     "pgm": "[재방] 노블리타 (노블레스)"
     },
     {
      "start": "08:00",
@@ -531,7 +530,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 막스마라 코트 최저가 도전",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -2450,7 +2449,7 @@ window.SCHEDULE = {
      "pgm": "두둥맘대로",
      "pgm_cd": "1119",
      "category": "여성패션",
-     "hot": 6
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -8154,7 +8153,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -8242,7 +8241,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -8618,7 +8617,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -8732,7 +8731,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 8
     },
     {
      "start": "10:01",
@@ -23749,7 +23749,7 @@ window.SCHEDULE = {
      "pgm": "유러피안 맛 폰타나 특가",
      "title": "라이브 한정 특별구성 오픈",
      "category": "식품",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "08:30",
@@ -23762,7 +23762,7 @@ window.SCHEDULE = {
      "pgm": "올 겨울에도 스케쳐스",
      "title": "부츠/보온템 외 겨울대비",
      "category": "패션",
-     "hot": 5
+     "hot": 9
     },
     {
      "start": "08:30",
