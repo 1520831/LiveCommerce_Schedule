@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-20T07:02:09+09:00",
+ "generated_at": "2026-11-20T08:00:10+09:00",
  "today": "2026-11-20",
  "dates": [
   "2026-11-19",
@@ -377,8 +377,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[지센] 배윤경 PICK! 26FW NEW & BEST",
-     "pgm": "[재방] 지센 의류 (패션1Lab)",
-     "hot": 10
+     "pgm": "[재방] 지센 의류 (패션1Lab)"
     },
     {
      "start": "07:00",
@@ -7711,7 +7710,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "01:10",
@@ -7837,7 +7836,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "02:10",
@@ -8072,7 +8071,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 2
     },
     {
      "start": "08:00",
@@ -24644,7 +24644,7 @@ window.SCHEDULE = {
    "2026-11-20"
   ],
   "matched": 12,
-  "unmatched": 7
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
