@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-19T20:00:08+09:00",
+ "generated_at": "2026-11-19T21:00:08+09:00",
  "today": "2026-11-19",
  "dates": [
   "2026-11-18",
@@ -701,7 +701,7 @@ window.SCHEDULE = {
      ],
      "title": "[에르노] 구스다운 롱패딩 월 1만원대",
      "pgm": "[에르노] 패딩 (패션잡화)",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "21:00",
@@ -3213,7 +3213,7 @@ window.SCHEDULE = {
      "pgm": "겟잇스타일 프렌즈",
      "pgm_cd": "1106",
      "category": "잡화·슈즈",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "19:00",
@@ -12248,7 +12248,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 4
     },
     {
      "start": "20:00",
@@ -25700,8 +25701,7 @@ window.SCHEDULE = {
      "slot_id": "61670",
      "pgm": "프로티원 전품목 할인",
      "title": "진짜 맛있는 식단관리 쉐이크",
-     "category": "식품",
-     "hot": 10
+     "category": "식품"
     },
     {
      "start": "19:00",
