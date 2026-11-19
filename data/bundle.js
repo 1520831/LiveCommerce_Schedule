@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-19T11:20:09+09:00",
+ "generated_at": "2026-11-19T11:40:09+09:00",
  "today": "2026-11-19",
  "dates": [
   "2026-11-18",
@@ -2448,7 +2448,7 @@ window.SCHEDULE = {
      "pgm": "두둥맘대로",
      "pgm_cd": "1119",
      "category": "여성패션",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -8153,7 +8153,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -8730,8 +8730,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 8
+     "category": "테크"
     },
     {
      "start": "10:01",
@@ -9038,7 +9037,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -9414,7 +9414,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -23749,8 +23750,7 @@ window.SCHEDULE = {
      "slot_id": "61305",
      "pgm": "유러피안 맛 폰타나 특가",
      "title": "라이브 한정 특별구성 오픈",
-     "category": "식품",
-     "hot": 10
+     "category": "식품"
     },
     {
      "start": "08:30",
