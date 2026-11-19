@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-20T08:00:10+09:00",
+ "generated_at": "2026-11-20T08:21:26+09:00",
  "today": "2026-11-20",
  "dates": [
   "2026-11-19",
@@ -416,7 +416,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "김포현대아울렛 베네통💙 UP TO 76%▼",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 3
     },
     {
      "start": "09:00",
@@ -7710,7 +7711,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "01:10",
@@ -7836,7 +7837,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "02:10",
@@ -8072,7 +8073,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 4
     },
     {
      "start": "08:00",
@@ -22512,19 +22513,19 @@ window.SCHEDULE = {
      "start": "10:00",
      "end": "11:00",
      "brand": "케라시스",
-     "product": "케라시스 케라마이드/프로폴리스 2종 샴푸/트리트먼트 1L 2개 +(증정) 극손상 울트라 샴푸 180ml",
-     "price": 19360,
-     "link": "https://m.gmarket.co.kr/vi/product/4338391829",
+     "product": "케라시스 오일렉스2X 손상케어 탈모증상완화 단백질본드 샴푸/트리트 1L 2개 +(증정)",
+     "price": 42000,
+     "link": "https://m.gmarket.co.kr/vi/product/4907526359",
      "slot_id": "259478",
-     "pgm": "성수팅글랩🫧케라시스 신규론칭 오일렉스!",
+     "pgm": "팅글랩🫧케라시스 오일렉스 단백질 본드✨신규 론칭",
      "category": "뷰티"
     },
     {
      "start": "10:00",
-     "end": "11:00",
+     "end": "10:59",
      "brand": "삼성",
-     "product": "(체감가 154만원대)삼성 Mini LED TV 4K 1등급 214cm(85인치)KU85MH75AFXKR",
-     "price": 2399800,
+     "product": "삼성 Mini LED TV 4K 1등급 214cm(85인치)KU85MH75AFXKR",
+     "price": 2644790,
      "link": "https://m.gmarket.co.kr/vi/product/4716836805",
      "slot_id": "260505",
      "pgm": "[앵콜]💚삼성 TV X 끝장세일 단독 라이브💚",
@@ -22535,7 +22536,7 @@ window.SCHEDULE = {
      "start": "11:00",
      "end": "12:00",
      "brand": "현대큐밍",
-     "product": "현대큐밍 정수기 렌탈 50만원 증정+18개월 반값 본사공식 최대혜택",
+     "product": "현대큐밍 정수기 렌탈 최대 70만원 증정+18개월반값+가습기 증정 본사공식 정수기 공청기 최대혜택",
      "price": 1,
      "link": "https://m.gmarket.co.kr/vi/product/4754671622",
      "slot_id": "259476",
@@ -22546,8 +22547,8 @@ window.SCHEDULE = {
      "start": "12:00",
      "end": "13:00",
      "brand": "풍천 민물장어",
-     "product": "항공직송 프리미엄 슈페리어생연어 회 당일손질 /노르웨이/순살 필렛 1kg 냉장 생연어",
-     "price": 45900,
+     "product": "(신선집중) 항공직송 프리미엄 슈페리어생연어 회 당일손질 /노르웨이/순살 필렛 1kg 냉장 생연어",
+     "price": 41500,
      "link": "https://m.gmarket.co.kr/vi/product/4645926105",
      "slot_id": "259439",
      "pgm": "자연애수산 연어 필렛 & 국내산 장어 특가",
@@ -22558,7 +22559,7 @@ window.SCHEDULE = {
      "end": "14:02",
      "brand": "안국건강",
      "product": "안국건강 데일리 비타민C 1100mg x 600정 플러스 비타민D (600일분) NON-GMO",
-     "price": 24260,
+     "price": 30560,
      "link": "https://m.gmarket.co.kr/vi/product/4889608817",
      "slot_id": "259488",
      "pgm": "G마켓 단독 런칭! 600일 대용량, 고함량!",
@@ -22569,17 +22570,17 @@ window.SCHEDULE = {
      "end": "15:00",
      "brand": "경북세일페스타",
      "product": "경북세일페스타 단석가 찰보리빵 20개입 500g",
-     "price": 17020,
+     "price": 21690,
      "link": "https://m.gmarket.co.kr/vi/product/4903852283",
      "slot_id": "259440",
-     "pgm": "경북세일페스타 수도권 팝업스토어 라이브방송"
+     "pgm": "경북세일페스타 중소기업 소상공인 판로지원 라이브방송💡"
     },
     {
      "start": "18:00",
      "end": "19:04",
      "brand": "모윰",
-     "product": "모윰 올실리콘 마카롱 쪽쪽이(전용케이스 포함) 3개세트",
-     "price": 39400,
+     "product": "모윰 올실리콘 마카롱 쪽쪽이(전용케이스 포함) 3개세트 11/19 모윰 원데이",
+     "price": 33900,
      "link": "https://m.gmarket.co.kr/vi/product/3996516082",
      "slot_id": "260490",
      "pgm": "모윰 쪽쪽이 최대 37% LIVE!"
@@ -22596,10 +22597,10 @@ window.SCHEDULE = {
     },
     {
      "start": "19:00",
-     "end": "20:00",
+     "end": "19:59",
      "brand": "삼성",
-     "product": "(체감가 154만원대)삼성 Mini LED TV 4K 1등급 214cm(85인치)KU85MH75AFXKR",
-     "price": 2399800,
+     "product": "삼성 Mini LED TV 4K 1등급 214cm(85인치)KU85MH75AFXKR",
+     "price": 2644790,
      "link": "https://m.gmarket.co.kr/vi/product/4716836805",
      "slot_id": "260506",
      "pgm": "[앵콜]💚삼성 TV X 끝장세일 단독 라이브💚",
@@ -22614,7 +22615,8 @@ window.SCHEDULE = {
      "price": 469000,
      "link": "https://m.gmarket.co.kr/vi/product/4890413397",
      "slot_id": "260470",
-     "pgm": "필리핀 해외여행",
+     "pgm": "보라카이vs보홀 슬림팩 혜택가35만원대~",
+     "title": "20% 쿠폰",
      "category": "서비스·렌탈"
     },
     {
@@ -22636,7 +22638,7 @@ window.SCHEDULE = {
      "price": 399900,
      "link": "https://m.gmarket.co.kr/vi/product/4686997068",
      "slot_id": "260508",
-     "pgm": "[앵콜]빅스마일데이 브랜드쇼 경동나비엔 라이브",
+     "pgm": "[앵콜]브랜드쇼 경동나비엔 라이브",
      "rerun": true,
      "category": "가전"
     }
@@ -22646,9 +22648,9 @@ window.SCHEDULE = {
      "start": "10:00",
      "end": "11:03",
      "brand": "위드핫",
-     "product": "",
-     "price": 0,
-     "link": "https://player.sauceflex.com/broadcast/lkebay-0d07cb63f45641a4b0df0676970c7586",
+     "product": "위드핫 보온대 180g (30개입) 사은품 대용량 핫팩 국산 최신제조 스타배송",
+     "price": 22700,
+     "link": "https://m.gmarket.co.kr/vi/product/4196028013",
      "slot_id": "260499",
      "pgm": "🔥20시간 지속! WITH 보온대 30개입"
     },
@@ -22656,11 +22658,12 @@ window.SCHEDULE = {
      "start": "10:00",
      "end": "11:00",
      "brand": "더바디샵",
-     "product": "",
-     "price": 0,
-     "link": "https://player.sauceflex.com/broadcast/lkebay-589cfe3125a6406b91f233cd5b51dd1e",
+     "product": "진저 스캘프 케어 샴푸컨디셔너 2+1 세트 (888161) +두피 브러쉬 증정",
+     "price": 54000,
+     "link": "https://m.gmarket.co.kr/vi/product/4782722704",
      "slot_id": "260500",
-     "pgm": "성수팅글랩🫧 더바디샵 멤버십데이~50%할인+사은품"
+     "pgm": "성수팅글랩🫧 더바디샵 멤버십데이~50%할인+사은품",
+     "category": "뷰티"
     },
     {
      "start": "11:00",
@@ -22678,29 +22681,30 @@ window.SCHEDULE = {
      "start": "11:00",
      "end": "12:00",
      "brand": "크라운제과",
-     "product": "",
-     "price": 0,
-     "link": "https://player.sauceflex.com/broadcast/lkebay-108c68f45143432288c762fd7a334d8b",
+     "product": "(지마켓 단독) 크라운제과 버라이어티팩 1252G",
+     "price": 16430,
+     "link": "https://m.gmarket.co.kr/vi/product/4720873927",
      "slot_id": "259491",
-     "pgm": "G라이브 X 크라운제과"
+     "pgm": "골라 먹는 재미 가득! 크라운제과 신제품 특집 LIVE"
     },
     {
      "start": "12:00",
      "end": "13:00",
      "brand": "아모레생활",
-     "product": "올뉴 쉽고빠른거품염색 2개 색상선택",
-     "price": 28780,
-     "link": "https://m.gmarket.co.kr/vi/product/2817077149",
+     "product": "(G마켓단독기획)일리윤 세라마이드 아토로션 564ml 2개+350ml 1개+50ml 2개",
+     "price": 58220,
+     "link": "https://m.gmarket.co.kr/vi/product/4097056443",
      "slot_id": "259479",
-     "pgm": "G라이브 X 아모레생활"
+     "pgm": "아모레퍼시픽 생활 환절기 바디・스킨케어",
+     "category": "뷰티"
     },
     {
      "start": "12:00",
      "end": "13:00",
      "brand": "농업회사법인 드림라이스",
-     "product": "",
-     "price": 0,
-     "link": "https://player.sauceflex.com/broadcast/lkebay-6d3bbbba3dd843caae758c51e0eebca3",
+     "product": "(신선집중) 수향미 10kg 26년 햅쌀 골든퀸3호 상등급",
+     "price": 38990,
+     "link": "https://m.gmarket.co.kr/vi/product/4583558967",
      "slot_id": "260493",
      "pgm": "[소상한지마켓] 농업 회사 5종 햅살 모음전 특가라이브",
      "category": "식품·건강"
@@ -22709,9 +22713,9 @@ window.SCHEDULE = {
      "start": "13:00",
      "end": "13:59",
      "brand": "광천김",
-     "product": "",
-     "price": 0,
-     "link": "https://player.sauceflex.com/broadcast/lkebay-fd3e269d41db484688da75ccf581bae0",
+     "product": "(신선집중) 광천김 프리미엄 곱창 캔김 30g x 5캔",
+     "price": 19880,
+     "link": "https://m.gmarket.co.kr/vi/product/2799346583",
      "slot_id": "259490",
      "pgm": "오독오독 씹히는 식감! 진한 풍미의 프리미엄 곱창캔김"
     },
@@ -22720,11 +22724,11 @@ window.SCHEDULE = {
      "end": "20:00",
      "brand": "쟌슨빌, 올리바즈모, 오스벨",
      "product": "간편하고 맛있는 쟌슨빌 김치 볶음밥 250g / 5팩",
-     "price": 21900,
+     "price": 13410,
      "link": "https://m.gmarket.co.kr/vi/product/4644829891",
      "slot_id": "259448",
-     "pgm": "스타배송 AMDAY (쟌슨빌, 올리바즈모, 오스벨)",
-     "category": "디지털·PC"
+     "pgm": "맛있는 한 끼부터 플레이팅까지, 스타배송 연합전 🚚",
+     "category": "식품·건강"
     },
     {
      "start": "21:00",
@@ -22740,36 +22744,97 @@ window.SCHEDULE = {
    "2026-11-21": [
     {
      "start": "10:00",
-     "end": "10:05",
+     "end": "11:01",
      "brand": "해태제과",
      "product": "",
      "price": 0,
      "link": "https://player.sauceflex.com/broadcast/lkebay-ea2e68a9cb724bfbbe89854cd837dfd8",
      "slot_id": "260501",
      "pgm": "🍂 해태제과 가을 간식 다 모였다! G-막힌 가을박스"
+    },
+    {
+     "start": "13:00",
+     "end": "14:04",
+     "brand": "셀리아",
+     "product": "",
+     "price": 0,
+     "link": "https://player.sauceflex.com/broadcast/lkebay-e0f523be391b48ff8926a550ee909ca4",
+     "slot_id": "260512",
+     "pgm": "포근한 침구, 극세사 토퍼패드",
+     "category": "가구·침구"
+    },
+    {
+     "start": "20:00",
+     "end": "21:00",
+     "brand": "에어텔닷컴",
+     "product": "혜택가49만원대~|마나도 NDC 리하가풀패키지 VS 베스트웨스턴 세미패키지 NO쇼핑/NO유류인상(최대270불상당)",
+     "price": 624000,
+     "link": "https://m.gmarket.co.kr/vi/product/4886383971",
+     "slot_id": "260510",
+     "pgm": "[앵콜]마나도 리하가풀패키지VS베스트웨스턴 세미패키지",
+     "rerun": true,
+     "title": "17% 쿠폰",
+     "category": "서비스·렌탈"
     }
    ],
    "2026-11-22": [
     {
      "start": "11:00",
-     "end": "11:05",
+     "end": "12:01",
      "brand": "LG전자",
-     "product": "",
-     "price": 0,
-     "link": "https://player.sauceflex.com/broadcast/lkebay-0f500500aab14e9f863b39031b01c978",
+     "product": "LG정수기렌탈 11월 한정 최대35만 혜택+6개월 구독료 50% 할인+무상 A/S",
+     "price": 1,
+     "link": "https://m.gmarket.co.kr/vi/product/2443991526",
      "slot_id": "259499",
-     "pgm": "🚰내가 원하는 온도로! LG정수기렌탈 빅스마일",
+     "pgm": "LG 맞춤출수 정수기 구독! 단 하루 40만원 페이백",
+     "category": "서비스·렌탈"
+    },
+    {
+     "start": "13:00",
+     "end": "14:04",
+     "brand": "현대큐밍",
+     "product": "36개월 케어십 더슬림 마이핏 냉온정 자가관리 필터 제공 HQON11CW1D 자가관리 가성비 정수기 베스트셀러",
+     "price": 648000,
+     "link": "https://m.gmarket.co.kr/vi/product/4888543924",
+     "slot_id": "260521",
+     "pgm": "케어십 더슬림 마이핏 냉온정 자가관리 필터 제공",
+     "category": "가전"
+    },
+    {
+     "start": "20:00",
+     "end": "21:00",
+     "brand": "캔마트",
+     "product": "(39%)캔마트 라방특가 23주년창립행사/블프/ 제작/기모/골덴/청바지/자켓/점퍼/니트/브랜드의류/빅사이즈XL",
+     "price": 24900,
+     "link": "https://m.gmarket.co.kr/vi/product/4483667690",
+     "slot_id": "259503",
+     "pgm": "[앵콜]캔마트 11월 라이브 창립기념⭐최대 82% 할인",
+     "rerun": true,
+     "category": "여성패션"
+    },
+    {
+     "start": "20:00",
+     "end": "21:03",
+     "brand": "노랑풍선",
+     "product": "(인천出)혜택가35만원대~ | 보라카이 트리니티항공 파라다이스가든리조트 슬림패키지 스톤마사지 왕복픽업",
+     "price": 469000,
+     "link": "https://m.gmarket.co.kr/vi/product/4890413397",
+     "slot_id": "260520",
+     "pgm": "[앵콜]보라카이vs보홀 슬림팩 혜택가35만원대~",
+     "rerun": true,
+     "title": "20% 쿠폰",
      "category": "서비스·렌탈"
     },
     {
      "start": "21:00",
      "end": "22:00",
-     "brand": "(주)피에스엔엠",
-     "product": "",
-     "price": 0,
-     "link": "https://player.sauceflex.com/broadcast/lkebay-3fdf0d7427904627b1153adea800b327",
+     "brand": "SKT",
+     "product": "G라이브 SKT 갤럭시 S26 256G 완납 / 공통지원 / 베스트 89 / 라이트 79",
+     "price": 118110,
+     "link": "https://m.gmarket.co.kr/vi/product/4878929728",
      "slot_id": "260507",
-     "pgm": "SK 자회사 (주)피에스엔엠 통신폰"
+     "pgm": "SKT 갤럭시&아이폰 특집",
+     "category": "디지털·PC"
     }
    ],
    "2026-11-23": [
@@ -22777,27 +22842,38 @@ window.SCHEDULE = {
      "start": "10:00",
      "end": "11:00",
      "brand": "아벤느",
-     "product": "",
-     "price": 0,
-     "link": "https://player.sauceflex.com/broadcast/lkebay-6282b2038cfe4661aabf9f00b20e599e",
+     "product": "아벤느 이드랑스 에센스 인 로션 200ml 2개 +25ml 2개+클렌징젤 15ml 2개 +체험키트 4개 증정",
+     "price": 35900,
+     "link": "https://m.gmarket.co.kr/vi/product/4662756301",
      "slot_id": "259485",
-     "pgm": "아벤느",
+     "pgm": "더마코스메틱 아벤느 겨울 보습 필수템 최대44%특가",
      "category": "뷰티"
     },
     {
-     "start": "12:00",
-     "end": "12:05",
-     "brand": "두메산골",
+     "start": "10:00",
+     "end": "11:02",
+     "brand": "카포드",
      "product": "",
      "price": 0,
-     "link": "https://player.sauceflex.com/broadcast/lkebay-12e9d425d0424c3b913449ed303974df",
+     "link": "https://player.sauceflex.com/broadcast/lkebay-7ddcc351307b4117ac19bbd3ed7ca531",
+     "slot_id": "260513",
+     "pgm": "간편한 카포드 캡슐세탁세제와 아로퓸 향기부스터 라이브",
+     "category": "주방·잡화"
+    },
+    {
+     "start": "12:00",
+     "end": "13:01",
+     "brand": "두메산골",
+     "product": "(신선집중) 두메산골 닭볶음탕용 냉장 닭 절단육 1kg+1kg (총 2kg)",
+     "price": 15000,
+     "link": "https://m.gmarket.co.kr/vi/product/2131441339",
      "slot_id": "259500",
      "pgm": "매일 주문만큼만 손질, 냉장 배송! 두메산골닭고기절단육",
      "category": "식품·건강"
     },
     {
      "start": "13:00",
-     "end": "13:05",
+     "end": "14:03",
      "brand": "가락시장521",
      "product": "",
      "price": 0,
@@ -22823,17 +22899,160 @@ window.SCHEDULE = {
      "price": 41700,
      "link": "https://m.gmarket.co.kr/vi/product/4901950143",
      "slot_id": "260494",
-     "pgm": "신선식품"
+     "pgm": "50만명이 출시를 바랬던 그 상품 이북식 가자미식해"
+    },
+    {
+     "start": "20:00",
+     "end": "21:04",
+     "brand": "메트로시티",
+     "product": "",
+     "price": 0,
+     "link": "https://player.sauceflex.com/broadcast/lkebay-49ebf5c6dd9e4ad2a50f0940c6e675e0",
+     "slot_id": "260514",
+     "pgm": "메트로시티 BEST 퀼팅 데일리 백 라이브 특가 혜택"
     },
     {
      "start": "21:00",
      "end": "22:00",
      "brand": "아침이슬농원",
      "product": "(신선집중) 유명산지 26년 첫수확 실속 부사 4kg 중대과(10-21)",
-     "price": 12900,
+     "price": 12200,
      "link": "https://m.gmarket.co.kr/vi/product/4196224427",
      "slot_id": "259480",
-     "pgm": "아침이슬농원_달콤한 제철사과"
+     "pgm": "[소상한지마켓] 아침이슬농원_달콤한 제철사과"
+    }
+   ],
+   "2026-11-24": [
+    {
+     "start": "10:00",
+     "end": "11:00",
+     "brand": "성수팅글랩_애경",
+     "product": "",
+     "price": 0,
+     "link": "https://player.sauceflex.com/broadcast/lkebay-bc2e6683e674491b8b2578e46701f5b6",
+     "slot_id": "259481",
+     "pgm": "성수팅글랩🫧 NO.1 에센스 팩트 AGE 20'S",
+     "category": "뷰티"
+    },
+    {
+     "start": "12:00",
+     "end": "12:05",
+     "brand": "이앤티",
+     "product": "",
+     "price": 0,
+     "link": "https://player.sauceflex.com/broadcast/lkebay-a45dd04d70404776874cb9cbf7aee6e8",
+     "slot_id": "260522",
+     "pgm": "구운란 대란 60구 HACCP인증 건강간식 구운계란"
+    },
+    {
+     "start": "13:00",
+     "end": "13:05",
+     "brand": "신대장떡볶이",
+     "product": "",
+     "price": 0,
+     "link": "https://player.sauceflex.com/broadcast/lkebay-f4db4adfe5764f65b34423a875ba5ba1",
+     "slot_id": "260515",
+     "pgm": "신대장떡볶이 1인분 230g 10팩 최대구성 최저가격",
+     "category": "식품·건강"
+    },
+    {
+     "start": "19:00",
+     "end": "19:05",
+     "brand": "뉴트리코어",
+     "product": "",
+     "price": 0,
+     "link": "https://player.sauceflex.com/broadcast/lkebay-486b322b482d4fccb30daaa2abd36996",
+     "slot_id": "260516",
+     "pgm": "오늘만 특가💙관절x피부 3중 기능성 관절엔DEM"
+    },
+    {
+     "start": "20:00",
+     "end": "21:00",
+     "brand": "하나투어",
+     "product": "",
+     "price": 0,
+     "link": "https://player.sauceflex.com/broadcast/lkebay-a65a3d7d95bc4f6cb0991941e8eeafe2",
+     "slot_id": "260509",
+     "pgm": "코타키나발루 하얏트 노쇼핑 패키지&탄중아루 자유여행!",
+     "category": "서비스·렌탈"
+    },
+    {
+     "start": "21:00",
+     "end": "22:00",
+     "brand": "주식회사 희즈랩",
+     "product": "",
+     "price": 0,
+     "link": "https://player.sauceflex.com/broadcast/lkebay-60a9b50c5f274a94b995bebfb5d6d112",
+     "slot_id": "259497",
+     "pgm": "[구매자 전원 사은품] 가머 샴푸/트리트먼트 특가!",
+     "category": "뷰티"
+    }
+   ],
+   "2026-11-25": [
+    {
+     "start": "10:00",
+     "end": "11:00",
+     "brand": "코스메이트",
+     "product": "",
+     "price": 0,
+     "link": "https://player.sauceflex.com/broadcast/lkebay-f843b9b98c4e4356a76e11d509f0b92c",
+     "slot_id": "259498",
+     "pgm": "성수팅글랩🫧보습명가 바세린 &모발케어 코스메이트🎶",
+     "category": "뷰티"
+    },
+    {
+     "start": "11:00",
+     "end": "11:59",
+     "brand": "쿠쿠",
+     "product": "정수기 렌탈 쿠쿠 본사직영 67만원 혜택+15개월 반값 렌탈 최대혜택 모음전",
+     "price": 1,
+     "link": "https://m.gmarket.co.kr/vi/product/2127079906",
+     "slot_id": "260463",
+     "pgm": "[앵콜]쿠쿠렌탈 11월 블랙프라이데이 최대67만원 혜택",
+     "rerun": true,
+     "category": "서비스·렌탈"
+    },
+    {
+     "start": "12:00",
+     "end": "12:05",
+     "brand": "국민바이오",
+     "product": "",
+     "price": 0,
+     "link": "https://player.sauceflex.com/broadcast/lkebay-ed57a612697a4179bed6686d3ebd7bf5",
+     "slot_id": "260517",
+     "pgm": "💪국산 약콩의 진한 영양, 국민바이오 약콩두유!"
+    },
+    {
+     "start": "13:00",
+     "end": "13:05",
+     "brand": "너트리",
+     "product": "",
+     "price": 0,
+     "link": "https://player.sauceflex.com/broadcast/lkebay-1cf15e9d52e845c09517a18055df6f0c",
+     "slot_id": "260511",
+     "pgm": "🥜무첨가 견과 100%! 너트리 프리미엄 믹스너트",
+     "category": "식품·건강"
+    },
+    {
+     "start": "18:00",
+     "end": "18:05",
+     "brand": "월드컵",
+     "product": "",
+     "price": 0,
+     "link": "https://player.sauceflex.com/broadcast/lkebay-23a9c9e0c5274f2382e234df6856c9b7",
+     "slot_id": "260518",
+     "pgm": "🧦포근함+럭셔리함! 월드컵 루키 보온실내화"
+    },
+    {
+     "start": "21:00",
+     "end": "22:00",
+     "brand": "씨에스 글로벌코스메틱",
+     "product": "화색 피알이엑스 부스터 앰플",
+     "price": 43400,
+     "link": "https://m.gmarket.co.kr/vi/product/4798507790",
+     "slot_id": "259482",
+     "pgm": "[소상한지마켓] 씨에스 글로벌코스메틱",
+     "category": "뷰티"
     }
    ]
   },
@@ -24630,7 +24849,7 @@ window.SCHEDULE = {
   "HD": "2026-11-20T07:01:05+09:00",
   "CJ": "2026-11-20T07:01:12+09:00",
   "NV": "2026-11-20T07:02:04+09:00",
-  "GM": "2026-11-18T08:17:32+09:00",
+  "GM": "2026-11-20T08:18:47+09:00",
   "KA": "2026-11-20T07:01:18+09:00"
  },
  "cast_kinds": [
@@ -24643,7 +24862,7 @@ window.SCHEDULE = {
    "2026-11-19",
    "2026-11-20"
   ],
-  "matched": 12,
+  "matched": 13,
   "unmatched": 6
  },
  "fixed": {
@@ -26685,8 +26904,8 @@ window.SCHEDULE = {
    },
    "GM": {
     "span": 41,
-    "from": "2026-10-13",
-    "to": "2026-11-23",
+    "from": "2026-10-15",
+    "to": "2026-11-25",
     "auto": false
    },
    "KA": {
