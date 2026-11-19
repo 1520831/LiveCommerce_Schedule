@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-19T08:40:09+09:00",
+ "generated_at": "2026-11-19T09:00:10+09:00",
  "today": "2026-11-19",
  "dates": [
   "2026-11-18",
@@ -454,7 +454,7 @@ window.SCHEDULE = {
      ],
      "title": "[헤지스ACC] 신상 가방&겨울 패션템 만나보기🩷",
      "pgm": "[재방] 헤지스 잡화 (멀티커머스)",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "07:00",
@@ -494,7 +494,7 @@ window.SCHEDULE = {
      ],
      "title": "[레노마캐주얼] 데일리 | 비즈니스 겨울 코디 LIVE",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 8
+     "hot": 4
     },
     {
      "start": "09:00",
@@ -7706,7 +7706,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 8
     },
     {
      "start": "01:10",
@@ -8083,7 +8083,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 7
     },
     {
      "start": "09:40",
@@ -23735,7 +23735,7 @@ window.SCHEDULE = {
      "pgm": "종근당건강 X 카쇼라위크",
      "title": "11월 일일이 챙겨드림!",
      "category": "식품",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "08:30",
@@ -23760,7 +23760,8 @@ window.SCHEDULE = {
      "slot_id": "61579",
      "pgm": "올 겨울에도 스케쳐스",
      "title": "부츠/보온템 외 겨울대비",
-     "category": "패션"
+     "category": "패션",
+     "hot": 3
     },
     {
      "start": "08:30",
@@ -23772,7 +23773,8 @@ window.SCHEDULE = {
      "slot_id": "61824",
      "pgm": "한율 쑥판텐 출시기념",
      "title": "선착순 메가커피 증정",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -25234,8 +25236,8 @@ window.SCHEDULE = {
    "2026-11-18",
    "2026-11-19"
   ],
-  "matched": 16,
-  "unmatched": 4
+  "matched": 18,
+  "unmatched": 2
  },
  "fixed": {
   "rows": [
