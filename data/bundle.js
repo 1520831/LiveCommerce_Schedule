@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-19T09:00:10+09:00",
+ "generated_at": "2026-11-19T09:20:09+09:00",
  "today": "2026-11-19",
  "dates": [
   "2026-11-18",
@@ -453,8 +453,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[헤지스ACC] 신상 가방&겨울 패션템 만나보기🩷",
-     "pgm": "[재방] 헤지스 잡화 (멀티커머스)",
-     "hot": 10
+     "pgm": "[재방] 헤지스 잡화 (멀티커머스)"
     },
     {
      "start": "07:00",
@@ -474,7 +473,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 전 상품 최저가도전",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 1
+     "hot": 3
     },
     {
      "start": "08:00",
@@ -494,7 +493,7 @@ window.SCHEDULE = {
      ],
      "title": "[레노마캐주얼] 데일리 | 비즈니스 겨울 코디 LIVE",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "09:00",
@@ -7706,7 +7705,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "01:10",
@@ -23761,7 +23760,7 @@ window.SCHEDULE = {
      "pgm": "올 겨울에도 스케쳐스",
      "title": "부츠/보온템 외 겨울대비",
      "category": "패션",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -23774,7 +23773,7 @@ window.SCHEDULE = {
      "pgm": "한율 쑥판텐 출시기념",
      "title": "선착순 메가커피 증정",
      "category": "뷰티",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -25236,7 +25235,7 @@ window.SCHEDULE = {
    "2026-11-18",
    "2026-11-19"
   ],
-  "matched": 18,
+  "matched": 17,
   "unmatched": 2
  },
  "fixed": {
