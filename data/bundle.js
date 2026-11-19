@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-19T19:00:08+09:00",
+ "generated_at": "2026-11-19T20:00:08+09:00",
  "today": "2026-11-19",
  "dates": [
   "2026-11-18",
@@ -700,7 +700,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[에르노] 구스다운 롱패딩 월 1만원대",
-     "pgm": "[에르노] 패딩 (패션잡화)"
+     "pgm": "[에르노] 패딩 (패션잡화)",
+     "hot": 5
     },
     {
      "start": "21:00",
@@ -2884,8 +2885,7 @@ window.SCHEDULE = {
      "title": "두둥맘대로🎀돌아온 로토토베베 베스트 모음전 1만원대부터!",
      "pgm": "두둥맘대로",
      "pgm_cd": "1119",
-     "category": "여성패션",
-     "hot": 10
+     "category": "여성패션"
     },
     {
      "start": "10:00",
@@ -2924,8 +2924,7 @@ window.SCHEDULE = {
      "title": "스타일나래이션X로보 신상 무스탕 최초공개 세일☃️",
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
-     "category": "여성패션",
-     "hot": 9
+     "category": "여성패션"
     },
     {
      "start": "11:00",
@@ -3213,7 +3212,8 @@ window.SCHEDULE = {
      "title": "내일도착📦미국 정품 UGG 최저가 찬스❄️한보름 PICK!💖",
      "pgm": "겟잇스타일 프렌즈",
      "pgm_cd": "1106",
-     "category": "잡화·슈즈"
+     "category": "잡화·슈즈",
+     "hot": 4
     },
     {
      "start": "19:00",
@@ -25700,7 +25700,8 @@ window.SCHEDULE = {
      "slot_id": "61670",
      "pgm": "프로티원 전품목 할인",
      "title": "진짜 맛있는 식단관리 쉐이크",
-     "category": "식품"
+     "category": "식품",
+     "hot": 10
     },
     {
      "start": "19:00",
@@ -25724,7 +25725,8 @@ window.SCHEDULE = {
      "slot_id": "61782",
      "pgm": "일리윤X아뷰톡!~41%+쿠폰",
      "title": "카카오 단독 파우치 증정",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 6
     },
     {
      "start": "19:00",
@@ -27018,8 +27020,8 @@ window.SCHEDULE = {
    "2026-11-18",
    "2026-11-19"
   ],
-  "matched": 12,
-  "unmatched": 6
+  "matched": 14,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
