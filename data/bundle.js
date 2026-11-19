@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-20T08:21:26+09:00",
+ "generated_at": "2026-11-20T08:40:09+09:00",
  "today": "2026-11-20",
  "dates": [
   "2026-11-19",
@@ -417,7 +417,7 @@ window.SCHEDULE = {
      ],
      "title": "김포현대아울렛 베네통💙 UP TO 76%▼",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "09:00",
@@ -7711,7 +7711,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "01:10",
@@ -7837,7 +7837,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "02:10",
@@ -8073,7 +8073,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "08:00",
@@ -23383,7 +23383,8 @@ window.SCHEDULE = {
      "slot_id": "61647",
      "pgm": "CJ제일제당 브랜드데이",
      "title": "방송 중 추가혜택/추첨이벤트",
-     "category": "식품"
+     "category": "식품",
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -24862,8 +24863,8 @@ window.SCHEDULE = {
    "2026-11-19",
    "2026-11-20"
   ],
-  "matched": 13,
-  "unmatched": 6
+  "matched": 14,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
