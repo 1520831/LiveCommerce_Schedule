@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-19T14:00:10+09:00",
+ "generated_at": "2026-11-19T14:20:08+09:00",
  "today": "2026-11-19",
  "dates": [
   "2026-11-18",
@@ -2504,7 +2504,8 @@ window.SCHEDULE = {
      "title": "두둥맘대로🎀돌아온 로토토베베 베스트 모음전 1만원대부터!",
      "pgm": "두둥맘대로",
      "pgm_cd": "1119",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -2544,7 +2545,7 @@ window.SCHEDULE = {
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
      "category": "여성패션",
-     "hot": 10
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -8425,7 +8426,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 8
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -9092,7 +9093,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "10:30",
@@ -9314,7 +9315,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -9390,7 +9391,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -9690,8 +9691,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 4
+     "category": "테크"
     },
     {
      "start": "11:00",
