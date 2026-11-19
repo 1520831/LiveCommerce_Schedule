@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-19T11:00:08+09:00",
+ "generated_at": "2026-11-19T11:20:09+09:00",
  "today": "2026-11-19",
  "dates": [
   "2026-11-18",
@@ -529,8 +529,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 막스마라 코트 최저가 도전",
-     "pgm": "투명쇼 (패션잡화)",
-     "hot": 10
+     "pgm": "투명쇼 (패션잡화)"
     },
     {
      "start": "11:00",
@@ -2449,7 +2448,7 @@ window.SCHEDULE = {
      "pgm": "두둥맘대로",
      "pgm_cd": "1119",
      "category": "여성패션",
-     "hot": 4
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -2487,7 +2486,8 @@ window.SCHEDULE = {
      "title": "스타일나래이션에서만! 로보 신상 무스탕 최초공개 세일☃️",
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -8240,8 +8240,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 7
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -8617,7 +8616,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -8782,7 +8781,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "10:30",
@@ -9114,7 +9113,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -9529,7 +9529,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 1
     },
     {
      "start": "11:00",
@@ -23749,7 +23750,7 @@ window.SCHEDULE = {
      "pgm": "유러피안 맛 폰타나 특가",
      "title": "라이브 한정 특별구성 오픈",
      "category": "식품",
-     "hot": 5
+     "hot": 10
     },
     {
      "start": "08:30",
@@ -23761,8 +23762,7 @@ window.SCHEDULE = {
      "slot_id": "61579",
      "pgm": "올 겨울에도 스케쳐스",
      "title": "부츠/보온템 외 겨울대비",
-     "category": "패션",
-     "hot": 9
+     "category": "패션"
     },
     {
      "start": "08:30",
