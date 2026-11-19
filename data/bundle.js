@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-19T09:40:10+09:00",
+ "generated_at": "2026-11-19T10:00:08+09:00",
  "today": "2026-11-19",
  "dates": [
   "2026-11-18",
@@ -7705,8 +7705,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "01:10",
@@ -8042,7 +8041,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 10
     },
     {
      "start": "08:00",
@@ -8083,7 +8083,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "09:40",
@@ -23735,7 +23735,7 @@ window.SCHEDULE = {
      "pgm": "종근당건강 X 카쇼라위크",
      "title": "11월 일일이 챙겨드림!",
      "category": "식품",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "08:30",
