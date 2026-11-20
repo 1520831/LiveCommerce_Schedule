@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-20T12:20:23+09:00",
+ "generated_at": "2026-11-20T12:40:49+09:00",
  "today": "2026-11-20",
  "dates": [
   "2026-11-19",
@@ -2760,8 +2760,7 @@ window.SCHEDULE = {
      "title": "1등 육아템 맛집💜밍크뮤 공구 파격가+선착순 쇼핑백까지🔥",
      "pgm": "희아패밀리",
      "pgm_cd": "1149",
-     "category": "여성패션",
-     "hot": 10
+     "category": "여성패션"
     },
     {
      "start": "10:00",
@@ -8438,7 +8437,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -9016,7 +9015,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -9287,7 +9286,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 9
     },
     {
      "start": "12:00",
