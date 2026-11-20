@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-20T09:20:12+09:00",
+ "generated_at": "2026-11-20T09:40:07+09:00",
  "today": "2026-11-20",
  "dates": [
   "2026-11-19",
@@ -436,7 +436,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[디스커버리] 쇼라 특별가 최대 쿠폰 + 카드 할인",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -2606,7 +2607,7 @@ window.SCHEDULE = {
      "pgm_cd": "1068",
      "category": "주방·잡화",
      "cast": "influencer",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "09:00",
@@ -2619,7 +2620,8 @@ window.SCHEDULE = {
      "title": "다시보는 스타일나래이션💕 바니스뉴욕 애프터파티 겨울 아우터/이너 세일",
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
-     "category": "잡화·슈즈"
+     "category": "잡화·슈즈",
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -23371,7 +23373,7 @@ window.SCHEDULE = {
      "pgm": "르무통과 발끝부터 따뜻하게",
      "title": "나와 부모님을 위한 겨울슈즈",
      "category": "패션",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "08:30",
@@ -24863,8 +24865,8 @@ window.SCHEDULE = {
    "2026-11-19",
    "2026-11-20"
   ],
-  "matched": 14,
-  "unmatched": 5
+  "matched": 16,
+  "unmatched": 3
  },
  "fixed": {
   "rows": [
