@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-20T08:40:09+09:00",
+ "generated_at": "2026-11-20T09:00:13+09:00",
  "today": "2026-11-20",
  "dates": [
   "2026-11-19",
@@ -397,7 +397,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 전 상품 최저가도전",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "08:00",
@@ -417,7 +417,7 @@ window.SCHEDULE = {
      ],
      "title": "김포현대아울렛 베네통💙 UP TO 76%▼",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "09:00",
@@ -2591,7 +2591,8 @@ window.SCHEDULE = {
      "title": "다시보는🎶다니엘크레뮤 겨울 신상+가을세일",
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 6
     },
     {
      "start": "09:00",
@@ -7710,8 +7711,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "01:10",
@@ -7836,8 +7836,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "02:10",
@@ -8073,7 +8072,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "08:00",
@@ -23359,7 +23358,8 @@ window.SCHEDULE = {
      "slot_id": "61414",
      "pgm": "프리메라 LIVE~29%",
      "title": "& 브랜드쿠폰+페이머니할인",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -23384,7 +23384,7 @@ window.SCHEDULE = {
      "pgm": "CJ제일제당 브랜드데이",
      "title": "방송 중 추가혜택/추첨이벤트",
      "category": "식품",
-     "hot": 3
+     "hot": 1
     },
     {
      "start": "10:00",
