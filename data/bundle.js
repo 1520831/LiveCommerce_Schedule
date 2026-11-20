@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-20T11:20:13+09:00",
+ "generated_at": "2026-11-20T11:40:13+09:00",
  "today": "2026-11-20",
  "dates": [
   "2026-11-19",
@@ -396,8 +396,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 전 상품 최저가도전",
-     "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 10
+     "pgm": "[재방] 노블리타 (노블레스)"
     },
     {
      "start": "08:00",
@@ -455,7 +454,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 보테가베네타&프라다 26FW 신상 특집",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -2685,7 +2684,7 @@ window.SCHEDULE = {
      "pgm": "희아패밀리",
      "pgm_cd": "1149",
      "category": "여성패션",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -2712,7 +2711,7 @@ window.SCHEDULE = {
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
      "category": "여성패션",
-     "hot": 1
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -8294,7 +8293,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -8649,7 +8648,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "11:00",
@@ -8682,7 +8681,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -8870,7 +8869,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 10
     },
     {
      "start": "11:00",
