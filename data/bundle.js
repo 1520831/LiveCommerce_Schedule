@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-20T09:00:13+09:00",
+ "generated_at": "2026-11-20T09:20:12+09:00",
  "today": "2026-11-20",
  "dates": [
   "2026-11-19",
@@ -2591,8 +2591,7 @@ window.SCHEDULE = {
      "title": "다시보는🎶다니엘크레뮤 겨울 신상+가을세일",
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
-     "category": "여성패션",
-     "hot": 6
+     "category": "여성패션"
     },
     {
      "start": "09:00",
@@ -2606,7 +2605,8 @@ window.SCHEDULE = {
      "pgm": "까사림의 감성하우스",
      "pgm_cd": "1068",
      "category": "주방·잡화",
-     "cast": "influencer"
+     "cast": "influencer",
+     "hot": 8
     },
     {
      "start": "09:00",
@@ -8071,8 +8071,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 7
+     "category": "테크"
     },
     {
      "start": "08:00",
@@ -23371,7 +23370,8 @@ window.SCHEDULE = {
      "slot_id": "61580",
      "pgm": "르무통과 발끝부터 따뜻하게",
      "title": "나와 부모님을 위한 겨울슈즈",
-     "category": "패션"
+     "category": "패션",
+     "hot": 7
     },
     {
      "start": "08:30",
@@ -24864,7 +24864,7 @@ window.SCHEDULE = {
    "2026-11-20"
   ],
   "matched": 14,
-  "unmatched": 4
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
