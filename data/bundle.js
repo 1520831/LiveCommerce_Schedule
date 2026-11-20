@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-20T12:04:43+09:00",
+ "generated_at": "2026-11-20T12:20:23+09:00",
  "today": "2026-11-20",
  "dates": [
   "2026-11-19",
@@ -454,7 +454,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 보테가베네타&프라다 26FW 신상 특집",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -9016,7 +9016,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 8
+     "hot": 7
     },
     {
      "start": "11:00",
