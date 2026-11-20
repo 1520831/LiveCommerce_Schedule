@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-20T11:40:13+09:00",
+ "generated_at": "2026-11-20T12:00:18+09:00",
  "today": "2026-11-20",
  "dates": [
   "2026-11-19",
@@ -2684,7 +2684,7 @@ window.SCHEDULE = {
      "pgm": "희아패밀리",
      "pgm_cd": "1149",
      "category": "여성패션",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -8870,7 +8870,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 10
+     "hot": 8
     },
     {
      "start": "11:00",
