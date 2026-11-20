@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-20T13:01:30+09:00",
+ "generated_at": "2026-11-20T13:20:14+09:00",
  "today": "2026-11-20",
  "dates": [
   "2026-11-19",
@@ -454,7 +454,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 보테가베네타&프라다 26FW 신상 특집",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -8437,7 +8437,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -9015,7 +9015,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -9287,7 +9287,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "12:00",
@@ -9581,7 +9581,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 6
     },
     {
      "start": "13:10",
@@ -26526,8 +26527,8 @@ window.SCHEDULE = {
    "2026-11-19",
    "2026-11-20"
   ],
-  "matched": 17,
-  "unmatched": 2
+  "matched": 18,
+  "unmatched": 1
  },
  "fixed": {
   "rows": [
