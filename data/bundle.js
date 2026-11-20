@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-20T10:40:13+09:00",
+ "generated_at": "2026-11-20T11:00:20+09:00",
  "today": "2026-11-20",
  "dates": [
   "2026-11-19",
@@ -397,7 +397,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 전 상품 최저가도전",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "08:00",
@@ -436,7 +436,7 @@ window.SCHEDULE = {
      ],
      "title": "[디스커버리] 쇼라 특별가 최대 쿠폰 + 카드 할인",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -2620,7 +2620,7 @@ window.SCHEDULE = {
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
      "category": "잡화·슈즈",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -2687,7 +2687,7 @@ window.SCHEDULE = {
      "pgm": "희아패밀리",
      "pgm_cd": "1149",
      "category": "여성패션",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -8296,7 +8296,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -23362,8 +23362,7 @@ window.SCHEDULE = {
      "slot_id": "61414",
      "pgm": "프리메라 LIVE~29%",
      "title": "& 브랜드쿠폰+페이머니할인",
-     "category": "뷰티",
-     "hot": 10
+     "category": "뷰티"
     },
     {
      "start": "08:30",
@@ -24867,8 +24866,8 @@ window.SCHEDULE = {
    "2026-11-19",
    "2026-11-20"
   ],
-  "matched": 18,
-  "unmatched": 1
+  "matched": 17,
+  "unmatched": 2
  },
  "fixed": {
   "rows": [
