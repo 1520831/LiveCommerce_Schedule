@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-20T17:00:14+09:00",
+ "generated_at": "2026-11-20T17:20:15+09:00",
  "today": "2026-11-20",
  "dates": [
   "2026-11-19",
@@ -454,7 +454,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 보테가베네타&프라다 26FW 신상 특집",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -606,7 +606,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[현명쇼] 막스마라 반값찬스",
-     "pgm": "[재방] 현명쇼 (노블레스팀)"
+     "pgm": "[재방] 현명쇼 (노블레스팀)",
+     "hot": 8
     },
     {
      "start": "18:00",
@@ -8437,7 +8438,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -9286,8 +9287,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 10
+     "category": "푸드"
     },
     {
      "start": "12:00",
