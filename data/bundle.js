@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-20T09:40:07+09:00",
+ "generated_at": "2026-11-20T10:00:12+09:00",
  "today": "2026-11-20",
  "dates": [
   "2026-11-19",
@@ -417,7 +417,7 @@ window.SCHEDULE = {
      ],
      "title": "김포현대아울렛 베네통💙 UP TO 76%▼",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 3
+     "hot": 6
     },
     {
      "start": "09:00",
@@ -437,7 +437,7 @@ window.SCHEDULE = {
      ],
      "title": "[디스커버리] 쇼라 특별가 최대 쿠폰 + 카드 할인",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 5
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -2606,8 +2606,7 @@ window.SCHEDULE = {
      "pgm": "까사림의 감성하우스",
      "pgm_cd": "1068",
      "category": "주방·잡화",
-     "cast": "influencer",
-     "hot": 10
+     "cast": "influencer"
     },
     {
      "start": "09:00",
@@ -2621,7 +2620,7 @@ window.SCHEDULE = {
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
      "category": "잡화·슈즈",
-     "hot": 7
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -23360,7 +23359,7 @@ window.SCHEDULE = {
      "pgm": "프리메라 LIVE~29%",
      "title": "& 브랜드쿠폰+페이머니할인",
      "category": "뷰티",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "08:30",
@@ -23373,7 +23372,7 @@ window.SCHEDULE = {
      "pgm": "르무통과 발끝부터 따뜻하게",
      "title": "나와 부모님을 위한 겨울슈즈",
      "category": "패션",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "08:30",
@@ -24865,8 +24864,8 @@ window.SCHEDULE = {
    "2026-11-19",
    "2026-11-20"
   ],
-  "matched": 16,
-  "unmatched": 3
+  "matched": 15,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
