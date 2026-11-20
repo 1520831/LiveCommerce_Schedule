@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-20T10:00:12+09:00",
+ "generated_at": "2026-11-20T10:20:10+09:00",
  "today": "2026-11-20",
  "dates": [
   "2026-11-19",
@@ -397,7 +397,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 전 상품 최저가도전",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 2
+     "hot": 4
     },
     {
      "start": "08:00",
@@ -417,7 +417,7 @@ window.SCHEDULE = {
      ],
      "title": "김포현대아울렛 베네통💙 UP TO 76%▼",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "09:00",
@@ -437,7 +437,7 @@ window.SCHEDULE = {
      ],
      "title": "[디스커버리] 쇼라 특별가 최대 쿠폰 + 카드 할인",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -456,7 +456,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 보테가베네타&프라다 26FW 신상 특집",
-     "pgm": "투명쇼 (패션잡화)"
+     "pgm": "투명쇼 (패션잡화)",
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -2620,7 +2621,7 @@ window.SCHEDULE = {
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
      "category": "잡화·슈즈",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -2646,7 +2647,8 @@ window.SCHEDULE = {
      "title": "빌레로이앤보흐x준성담🎁메뉴팩처락 4인조 세트 무이자 12개월 혜택",
      "pgm": "인플루언서LIVE",
      "pgm_cd": "1052",
-     "cast": "influencer"
+     "cast": "influencer",
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -23359,7 +23361,7 @@ window.SCHEDULE = {
      "pgm": "프리메라 LIVE~29%",
      "title": "& 브랜드쿠폰+페이머니할인",
      "category": "뷰티",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "08:30",
@@ -23372,7 +23374,7 @@ window.SCHEDULE = {
      "pgm": "르무통과 발끝부터 따뜻하게",
      "title": "나와 부모님을 위한 겨울슈즈",
      "category": "패션",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "08:30",
@@ -24864,8 +24866,8 @@ window.SCHEDULE = {
    "2026-11-19",
    "2026-11-20"
   ],
-  "matched": 15,
-  "unmatched": 4
+  "matched": 17,
+  "unmatched": 2
  },
  "fixed": {
   "rows": [
