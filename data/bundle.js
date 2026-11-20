@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-20T17:20:15+09:00",
+ "generated_at": "2026-11-20T17:40:12+09:00",
  "today": "2026-11-20",
  "dates": [
   "2026-11-19",
@@ -607,7 +607,7 @@ window.SCHEDULE = {
      ],
      "title": "[현명쇼] 막스마라 반값찬스",
      "pgm": "[재방] 현명쇼 (노블레스팀)",
-     "hot": 8
+     "hot": 5
     },
     {
      "start": "18:00",
@@ -2722,7 +2722,7 @@ window.SCHEDULE = {
      "pgm_cd": "1052",
      "category": "주방·잡화",
      "cast": "influencer",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -9016,7 +9016,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -24974,7 +24974,7 @@ window.SCHEDULE = {
      "pgm": "CJ제일제당X카쇼라",
      "title": "방송 중 추가혜택/추첨이벤트",
      "category": "식품",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "10:00",
