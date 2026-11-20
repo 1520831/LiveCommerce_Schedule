@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-20T11:00:20+09:00",
+ "generated_at": "2026-11-20T11:20:13+09:00",
  "today": "2026-11-20",
  "dates": [
   "2026-11-19",
@@ -397,7 +397,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 전 상품 최저가도전",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "08:00",
@@ -435,8 +435,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[디스커버리] 쇼라 특별가 최대 쿠폰 + 카드 할인",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 9
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "10:00",
@@ -456,7 +455,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 보테가베네타&프라다 26FW 신상 특집",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -2619,8 +2618,7 @@ window.SCHEDULE = {
      "title": "다시보는 스타일나래이션💕 바니스뉴욕 애프터파티 겨울 아우터/이너 세일",
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
-     "category": "잡화·슈즈",
-     "hot": 10
+     "category": "잡화·슈즈"
     },
     {
      "start": "10:00",
@@ -2647,7 +2645,7 @@ window.SCHEDULE = {
      "pgm": "인플루언서LIVE",
      "pgm_cd": "1052",
      "cast": "influencer",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -2687,7 +2685,7 @@ window.SCHEDULE = {
      "pgm": "희아패밀리",
      "pgm_cd": "1149",
      "category": "여성패션",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -8296,7 +8294,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -8650,7 +8648,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -8682,7 +8681,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -23387,7 +23387,7 @@ window.SCHEDULE = {
      "pgm": "CJ제일제당 브랜드데이",
      "title": "방송 중 추가혜택/추첨이벤트",
      "category": "식품",
-     "hot": 2
+     "hot": 4
     },
     {
      "start": "10:00",
