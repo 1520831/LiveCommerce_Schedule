@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-20T10:20:10+09:00",
+ "generated_at": "2026-11-20T10:40:13+09:00",
  "today": "2026-11-20",
  "dates": [
   "2026-11-19",
@@ -397,7 +397,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 전 상품 최저가도전",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "08:00",
@@ -416,8 +416,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "김포현대아울렛 베네통💙 UP TO 76%▼",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 8
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "09:00",
@@ -437,7 +436,7 @@ window.SCHEDULE = {
      ],
      "title": "[디스커버리] 쇼라 특별가 최대 쿠폰 + 카드 할인",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 5
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -457,7 +456,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 보테가베네타&프라다 26FW 신상 특집",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -2621,7 +2620,7 @@ window.SCHEDULE = {
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
      "category": "잡화·슈즈",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -2648,7 +2647,7 @@ window.SCHEDULE = {
      "pgm": "인플루언서LIVE",
      "pgm_cd": "1052",
      "cast": "influencer",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -2687,7 +2686,8 @@ window.SCHEDULE = {
      "title": "1등 육아템 맛집💜밍크뮤 공구 파격가+선착순 쇼핑백까지🔥",
      "pgm": "희아패밀리",
      "pgm_cd": "1149",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -2713,7 +2713,8 @@ window.SCHEDULE = {
      "title": "지스튜디오 겨울 신상 최초 공개! 기본 티셔츠부터 코트, 부츠까지 GET",
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 1
     },
     {
      "start": "11:00",
@@ -8294,7 +8295,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -23361,7 +23363,7 @@ window.SCHEDULE = {
      "pgm": "프리메라 LIVE~29%",
      "title": "& 브랜드쿠폰+페이머니할인",
      "category": "뷰티",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "08:30",
@@ -23373,8 +23375,7 @@ window.SCHEDULE = {
      "slot_id": "61580",
      "pgm": "르무통과 발끝부터 따뜻하게",
      "title": "나와 부모님을 위한 겨울슈즈",
-     "category": "패션",
-     "hot": 10
+     "category": "패션"
     },
     {
      "start": "08:30",
@@ -23387,7 +23388,7 @@ window.SCHEDULE = {
      "pgm": "CJ제일제당 브랜드데이",
      "title": "방송 중 추가혜택/추첨이벤트",
      "category": "식품",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -24866,8 +24867,8 @@ window.SCHEDULE = {
    "2026-11-19",
    "2026-11-20"
   ],
-  "matched": 17,
-  "unmatched": 2
+  "matched": 18,
+  "unmatched": 1
  },
  "fixed": {
   "rows": [
