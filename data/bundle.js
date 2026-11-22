@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-23T08:20:47+09:00",
+ "generated_at": "2026-11-23T08:40:17+09:00",
  "today": "2026-11-23",
  "dates": [
   "2026-11-22",
@@ -378,7 +378,7 @@ window.SCHEDULE = {
      ],
      "title": "믿을 수 있는 한민금거래소 골드바 핫딜",
      "pgm": "[재방] 한민금거래소 (패션잡화)",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "07:00",
@@ -397,8 +397,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[르무통] 106,900원 + 무료 반품/교환❤️",
-     "pgm": "[재방] 르무통 제화 (패션잡화)",
-     "hot": 6
+     "pgm": "[재방] 르무통 제화 (패션잡화)"
     },
     {
      "start": "08:00",
@@ -418,7 +417,7 @@ window.SCHEDULE = {
      ],
      "title": "스튜디오 톰보이✨ 이너부터 아우터까지 겨울옷 쇼핑",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "09:00",
@@ -2070,7 +2069,7 @@ window.SCHEDULE = {
      "pgm_cd": "1109",
      "category": "여성패션",
      "cast": "influencer",
-     "hot": 9
+     "hot": 8
     },
     {
      "start": "08:00",
@@ -5767,8 +5766,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "00:00",
@@ -5809,7 +5807,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 6
     },
     {
      "start": "00:00",
@@ -6228,7 +6226,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 3
     },
     {
      "start": "08:00",
@@ -19466,7 +19465,8 @@ window.SCHEDULE = {
      "slot_id": "61309",
      "pgm": "우리가 믿는 물 제주 삼다수",
      "title": "한정판 굿즈 추첨 이벤트",
-     "category": "식품"
+     "category": "식품",
+     "hot": 1
     },
     {
      "start": "08:30",
@@ -19478,7 +19478,8 @@ window.SCHEDULE = {
      "slot_id": "61855",
      "pgm": "라보에이치와 함께 두피 케어",
      "title": "라이브 중 5% 추가 할인",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -21074,8 +21075,8 @@ window.SCHEDULE = {
    "2026-11-22",
    "2026-11-23"
   ],
-  "matched": 12,
-  "unmatched": 8
+  "matched": 13,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
