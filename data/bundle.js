@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-23T08:14:15+09:00",
+ "generated_at": "2026-11-23T08:20:47+09:00",
  "today": "2026-11-23",
  "dates": [
   "2026-11-22",
@@ -398,7 +398,7 @@ window.SCHEDULE = {
      ],
      "title": "[르무통] 106,900원 + 무료 반품/교환❤️",
      "pgm": "[재방] 르무통 제화 (패션잡화)",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "08:00",
@@ -417,7 +417,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "스튜디오 톰보이✨ 이너부터 아우터까지 겨울옷 쇼핑",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 4
     },
     {
      "start": "09:00",
@@ -2068,7 +2069,8 @@ window.SCHEDULE = {
      "pgm": "잇솔지",
      "pgm_cd": "1109",
      "category": "여성패션",
-     "cast": "influencer"
+     "cast": "influencer",
+     "hot": 9
     },
     {
      "start": "08:00",
@@ -5766,7 +5768,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "00:00",
@@ -21072,8 +21074,8 @@ window.SCHEDULE = {
    "2026-11-22",
    "2026-11-23"
   ],
-  "matched": 10,
-  "unmatched": 10
+  "matched": 12,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
