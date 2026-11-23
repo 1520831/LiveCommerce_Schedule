@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-23T10:00:14+09:00",
+ "generated_at": "2026-11-23T10:20:12+09:00",
  "today": "2026-11-23",
  "dates": [
   "2026-11-22",
@@ -377,8 +377,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "믿을 수 있는 한민금거래소 골드바 핫딜",
-     "pgm": "[재방] 한민금거래소 (패션잡화)",
-     "hot": 7
+     "pgm": "[재방] 한민금거래소 (패션잡화)"
     },
     {
      "start": "07:00",
@@ -416,8 +415,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "스튜디오 톰보이✨ 이너부터 아우터까지 겨울옷 쇼핑",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 10
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "09:00",
@@ -437,7 +435,7 @@ window.SCHEDULE = {
      ],
      "title": "[쥬시쥬디] 겨울 베스트 아이템💖 최대 63%▼",
      "pgm": "[쥬시쥬디] 여성의류 (멀티커머스)",
-     "hot": 6
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -2096,7 +2094,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "0146",
      "category": "여성패션",
-     "hot": 5
+     "hot": 9
     },
     {
      "start": "09:00",
@@ -6227,7 +6225,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 8
     },
     {
      "start": "08:00",
@@ -6356,8 +6354,7 @@ window.SCHEDULE = {
      "items": [
       {}
      ],
-     "category": "푸드",
-     "hot": 9
+     "category": "푸드"
     },
     {
      "start": "09:30",
@@ -6906,7 +6903,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -7098,7 +7096,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -7227,7 +7226,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -19467,7 +19467,7 @@ window.SCHEDULE = {
      "pgm": "우리가 믿는 물 제주 삼다수",
      "title": "한정판 굿즈 추첨 이벤트",
      "category": "식품",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -19480,7 +19480,7 @@ window.SCHEDULE = {
      "pgm": "라보에이치와 함께 두피 케어",
      "title": "라이브 중 5% 추가 할인",
      "category": "뷰티",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "10:00",
