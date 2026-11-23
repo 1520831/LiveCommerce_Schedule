@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-23T09:20:28+09:00",
+ "generated_at": "2026-11-23T09:40:12+09:00",
  "today": "2026-11-23",
  "dates": [
   "2026-11-22",
@@ -378,7 +378,7 @@ window.SCHEDULE = {
      ],
      "title": "믿을 수 있는 한민금거래소 골드바 핫딜",
      "pgm": "[재방] 한민금거래소 (패션잡화)",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "07:00",
@@ -417,7 +417,7 @@ window.SCHEDULE = {
      ],
      "title": "스튜디오 톰보이✨ 이너부터 아우터까지 겨울옷 쇼핑",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "09:00",
@@ -436,7 +436,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[쥬시쥬디] 겨울 베스트 아이템💖 최대 63%▼",
-     "pgm": "[쥬시쥬디] 여성의류 (멀티커머스)"
+     "pgm": "[쥬시쥬디] 여성의류 (멀티커머스)",
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -2068,8 +2069,7 @@ window.SCHEDULE = {
      "pgm": "잇솔지",
      "pgm_cd": "1109",
      "category": "여성패션",
-     "cast": "influencer",
-     "hot": 10
+     "cast": "influencer"
     },
     {
      "start": "08:00",
@@ -2096,7 +2096,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "0146",
      "category": "여성패션",
-     "hot": 8
+     "hot": 5
     },
     {
      "start": "09:00",
@@ -6227,7 +6227,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "08:00",
@@ -6356,7 +6356,8 @@ window.SCHEDULE = {
      "items": [
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 10
     },
     {
      "start": "09:30",
@@ -21075,8 +21076,8 @@ window.SCHEDULE = {
    "2026-11-22",
    "2026-11-23"
   ],
-  "matched": 13,
-  "unmatched": 7
+  "matched": 14,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
