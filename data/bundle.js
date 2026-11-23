@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-24T08:20:18+09:00",
+ "generated_at": "2026-11-24T08:40:17+09:00",
  "today": "2026-11-24",
  "dates": [
   "2026-11-23",
@@ -398,7 +398,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 18K 반값이상▼ 한정수량 오픈!",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "08:00",
@@ -418,7 +418,7 @@ window.SCHEDULE = {
      ],
      "title": "레노마 11월 기분 좋은 혜택 2만원대부터❤️",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 6
+     "hot": 4
     },
     {
      "start": "09:00",
@@ -2271,7 +2271,7 @@ window.SCHEDULE = {
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
      "category": "여성패션",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "08:00",
@@ -18445,7 +18445,8 @@ window.SCHEDULE = {
      "slot_id": "61584",
      "pgm": "겨울 꿀잠템 오르시떼",
      "title": "가족/친구/연인 연말 선물",
-     "category": "패션"
+     "category": "패션",
+     "hot": 6
     },
     {
      "start": "08:30",
@@ -19945,8 +19946,8 @@ window.SCHEDULE = {
    "2026-11-23",
    "2026-11-24"
   ],
-  "matched": 5,
-  "unmatched": 13
+  "matched": 6,
+  "unmatched": 12
  },
  "fixed": {
   "rows": [
