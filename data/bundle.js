@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-23T19:00:11+09:00",
+ "generated_at": "2026-11-23T20:00:14+09:00",
  "today": "2026-11-23",
  "dates": [
   "2026-11-22",
@@ -472,8 +472,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 전 상품 최저가도전",
-     "pgm": "노블리타 (노블레스)",
-     "hot": 8
+     "pgm": "노블리타 (노블레스)"
     },
     {
      "start": "12:00",
@@ -625,7 +624,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[듀오 매칭 서비스] 11월 듀오 세일 페스타",
-     "pgm": "[듀오] 듀오 (렌탈)"
+     "pgm": "[듀오] 듀오 (렌탈)",
+     "hot": 7
     },
     {
      "start": "19:00",
@@ -2581,8 +2581,7 @@ window.SCHEDULE = {
      "title": "[맘만하니] 킨도 최신상 베베가드 나이트 최초 공개! 방송중 선물 와르르",
      "pgm": "맘만하니",
      "pgm_cd": "1100",
-     "category": "유아동",
-     "hot": 6
+     "category": "유아동"
     },
     {
      "start": "11:00",
@@ -7777,8 +7776,7 @@ window.SCHEDULE = {
      "items": [
       {}
      ],
-     "category": "키즈",
-     "hot": 5
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -8590,7 +8588,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 5
     },
     {
      "start": "14:00",
@@ -9552,7 +9550,8 @@ window.SCHEDULE = {
      "items": [
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 10
     },
     {
      "start": "19:00",
@@ -9863,7 +9862,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 4
     },
     {
      "start": "19:00",
@@ -10106,7 +10106,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 3
     },
     {
      "start": "19:00",
@@ -10513,7 +10514,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 2
     },
     {
      "start": "19:00",
@@ -23433,7 +23435,8 @@ window.SCHEDULE = {
      "slot_id": "61864",
      "pgm": "겨울의 시작 네파!",
      "title": "FW아우터 외 ~88%할인",
-     "category": "패션"
+     "category": "패션",
+     "hot": 9
     },
     {
      "start": "19:00",
@@ -24909,8 +24912,8 @@ window.SCHEDULE = {
    "2026-11-22",
    "2026-11-23"
   ],
-  "matched": 10,
-  "unmatched": 9
+  "matched": 13,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
