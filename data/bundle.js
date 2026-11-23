@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-23T08:40:17+09:00",
+ "generated_at": "2026-11-23T09:00:29+09:00",
  "today": "2026-11-23",
  "dates": [
   "2026-11-22",
@@ -378,7 +378,7 @@ window.SCHEDULE = {
      ],
      "title": "믿을 수 있는 한민금거래소 골드바 핫딜",
      "pgm": "[재방] 한민금거래소 (패션잡화)",
-     "hot": 2
+     "hot": 4
     },
     {
      "start": "07:00",
@@ -2069,7 +2069,7 @@ window.SCHEDULE = {
      "pgm_cd": "1109",
      "category": "여성패션",
      "cast": "influencer",
-     "hot": 8
+     "hot": 7
     },
     {
      "start": "08:00",
@@ -5807,7 +5807,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "00:00",
@@ -19479,7 +19479,7 @@ window.SCHEDULE = {
      "pgm": "라보에이치와 함께 두피 케어",
      "title": "라이브 중 5% 추가 할인",
      "category": "뷰티",
-     "hot": 4
+     "hot": 2
     },
     {
      "start": "10:00",
