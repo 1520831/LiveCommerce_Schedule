@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-23T09:00:29+09:00",
+ "generated_at": "2026-11-23T09:20:28+09:00",
  "today": "2026-11-23",
  "dates": [
   "2026-11-22",
@@ -417,7 +417,7 @@ window.SCHEDULE = {
      ],
      "title": "스튜디오 톰보이✨ 이너부터 아우터까지 겨울옷 쇼핑",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "09:00",
@@ -2069,7 +2069,7 @@ window.SCHEDULE = {
      "pgm_cd": "1109",
      "category": "여성패션",
      "cast": "influencer",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "08:00",
@@ -2095,7 +2095,8 @@ window.SCHEDULE = {
      "title": "드베로타 양모 코트 라이브쇼 최초공개🤎페이즐리 다운/베스트 방송중 특가",
      "pgm": "라이브쇼",
      "pgm_cd": "0146",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 8
     },
     {
      "start": "09:00",
@@ -5806,8 +5807,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 8
+     "category": "테크"
     },
     {
      "start": "00:00",
@@ -19466,7 +19466,7 @@ window.SCHEDULE = {
      "pgm": "우리가 믿는 물 제주 삼다수",
      "title": "한정판 굿즈 추첨 이벤트",
      "category": "식품",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "08:30",
@@ -19479,7 +19479,7 @@ window.SCHEDULE = {
      "pgm": "라보에이치와 함께 두피 케어",
      "title": "라이브 중 5% 추가 할인",
      "category": "뷰티",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "10:00",
