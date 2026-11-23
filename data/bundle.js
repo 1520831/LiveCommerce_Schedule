@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-23T10:20:12+09:00",
+ "generated_at": "2026-11-23T10:40:22+09:00",
  "today": "2026-11-23",
  "dates": [
   "2026-11-22",
@@ -434,8 +434,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[쥬시쥬디] 겨울 베스트 아이템💖 최대 63%▼",
-     "pgm": "[쥬시쥬디] 여성의류 (멀티커머스)",
-     "hot": 10
+     "pgm": "[쥬시쥬디] 여성의류 (멀티커머스)"
     },
     {
      "start": "10:00",
@@ -2093,8 +2092,7 @@ window.SCHEDULE = {
      "title": "드베로타 양모 코트 라이브쇼 최초공개🤎페이즐리 다운/베스트 방송중 특가",
      "pgm": "라이브쇼",
      "pgm_cd": "0146",
-     "category": "여성패션",
-     "hot": 9
+     "category": "여성패션"
     },
     {
      "start": "09:00",
@@ -6224,8 +6222,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 8
+     "category": "테크"
     },
     {
      "start": "08:00",
@@ -6644,7 +6641,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -7097,7 +7095,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -7227,7 +7225,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -19467,7 +19465,7 @@ window.SCHEDULE = {
      "pgm": "우리가 믿는 물 제주 삼다수",
      "title": "한정판 굿즈 추첨 이벤트",
      "category": "식품",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "08:30",
@@ -19480,7 +19478,7 @@ window.SCHEDULE = {
      "pgm": "라보에이치와 함께 두피 케어",
      "title": "라이브 중 5% 추가 할인",
      "category": "뷰티",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -21076,8 +21074,8 @@ window.SCHEDULE = {
    "2026-11-22",
    "2026-11-23"
   ],
-  "matched": 14,
-  "unmatched": 6
+  "matched": 12,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
