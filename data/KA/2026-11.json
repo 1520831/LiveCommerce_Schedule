@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-11",
- "updated_at": "2026-11-23T23:31:14+09:00",
+ "updated_at": "2026-11-24T07:01:33+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -5044,42 +5044,6 @@
     "category": "리빙"
    },
    {
-    "start": "12:30",
-    "end": "13:30",
-    "brand": "ONDO코스메틱",
-    "product": "(구성01) ONDO 클로토 데일리 3종 (아이크림, 미스트, 토너 정품) + 리유저블백 증정",
-    "price": 63000,
-    "link": "https://store.kakao.com/ondocosmetic/products/792275671",
-    "slot_id": "61960",
-    "pgm": "카카오 ONLY! ONDO",
-    "title": "50% 단독 할인 + 사은품",
-    "category": "뷰티"
-   },
-   {
-    "start": "13:59",
-    "end": "14:36",
-    "brand": "터치그라운드 스니커즈",
-    "product": "터치그라운드 이지롤링 슬라이드 특허받은 족저근막 아치슬리퍼 뮬 통굽 발편한 여름 여성 남성",
-    "price": 49000,
-    "link": "https://store.kakao.com/touchground/products/774098244",
-    "slot_id": "62215",
-    "pgm": "집에서도 포근하게",
-    "title": "터치그라운드 털슬리퍼",
-    "category": "패션"
-   },
-   {
-    "start": "14:00",
-    "end": "15:08",
-    "brand": "온라인가구닷컴",
-    "product": "[라방] 제니스 LED 4단서랍 침대 세트(SS)",
-    "price": 638400,
-    "link": "https://store.kakao.com/onlinegagu/products/819815077",
-    "slot_id": "62282",
-    "pgm": "[보루네오] 제니스 LED",
-    "title": "4단서랍 침대 + 매트리스",
-    "category": "리빙"
-   },
-   {
     "start": "14:40",
     "end": "14:47",
     "brand": "서브네이처",
@@ -5138,18 +5102,6 @@
     "pgm": "낭만부부 치즈몽땅이",
     "title": "돌아왔습니다~",
     "category": "식품"
-   },
-   {
-    "start": "17:30",
-    "end": "18:29",
-    "brand": "Mimo Beauty미모뷰티",
-    "product": "[라이브전용] 미모뷰티 속눈썹 고데기 + 프렙&리페어 크림 라이브 특가",
-    "price": 39900,
-    "link": "https://store.kakao.com/mimobeauty/products/812558919",
-    "slot_id": "61910",
-    "pgm": "히팅뷰러&파라핀베스",
-    "title": "단 하루! 라이브 최저가",
-    "category": "뷰티"
    },
    {
     "start": "19:00",
@@ -5578,7 +5530,7 @@
     "end": "22:00",
     "brand": "티르티르",
     "product": "티르티르 스타라이트 홀리데이 에디션",
-    "price": 32000,
+    "price": 28800,
     "link": "https://gift.kakao.com/product/14630206?url=product&cId=14630206",
     "slot_id": "62050",
     "pgm": "티르티르 홀리데이 최초공개",
@@ -6487,7 +6439,7 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "트라이에이드",
-    "product": "운동러 필수템! 스포츠여신 사오리 주수진 PICK 트라이에이드 마사지볼",
+    "product": "스포츠 여신 사오리X주수진 PICK! 뭉친 근육을 시원하게, 트라이에이드 마사지볼",
     "price": 89000,
     "link": "https://store.kakao.com/triaid/products/817943080",
     "slot_id": "62091",
@@ -6663,6 +6615,140 @@
     "slot_id": "62294",
     "pgm": "제철맞은 \"대봉감\"",
     "title": "기다림의 미학~깊어지는달콤함",
+    "category": "식품"
+   }
+  ],
+  "2026-11-29": [
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "CJ제일제당 공식 스토어",
+    "product": "햇반 잡곡 테이스팅세트 24입 외 백미/잡곡 36개,24개 실속구성",
+    "price": 66000,
+    "link": "https://store.kakao.com/cheiljedang/products/149592517",
+    "slot_id": "61986",
+    "pgm": "CJ제일제당과 든든한 한 끼",
+    "title": "햇반 만두 외 골라담기",
+    "category": "식품"
+   },
+   {
+    "start": "10:00",
+    "end": "13:00",
+    "brand": "마미케어(디바이스)",
+    "product": "\"에스테틱 경락샵 노하우를 담은 선물\" 홈케어 EMS 브이쎄라+커피 100% 증정 (연말/졸업)",
+    "price": 97000,
+    "link": "https://gift.kakao.com/product/11475485?url=product&cId=11475485",
+    "slot_id": "62008",
+    "pgm": "마미케어 브이쎄라&펜타프라임",
+    "title": "미니언즈 에디션 최초공개!",
+    "category": "뷰티"
+   },
+   {
+    "start": "10:00",
+    "end": "13:00",
+    "brand": "베베숲",
+    "product": "[베베숲] 시그니처 위드블루 70매 캡 20팩+라이트 휴대 4팩 외 베베숲 스테디셀러 모음",
+    "price": 50990,
+    "link": "https://store.kakao.com/bebesup/products/116333987",
+    "slot_id": "62087",
+    "pgm": "베베숲 아기물티슈 판매 1위",
+    "title": "신생아부터 온가족용 물티슈",
+    "category": "키즈"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "마이디어",
+    "product": "마이디어 360 공기청정기 44.4m2 화이트 KJ400G-Z1 Pro",
+    "price": 139000,
+    "link": "https://store.kakao.com/midea/products/696154627",
+    "slot_id": "62060",
+    "pgm": "마이디어 무선청소기&",
+    "title": "워시콤보 첫 라이브 특가",
+    "category": "테크"
+   },
+   {
+    "start": "11:30",
+    "end": "13:00",
+    "brand": "제페토하우스",
+    "product": "니도 스트레스볼 모음전",
+    "price": 22900,
+    "link": "https://store.kakao.com/jeppetto/products/645273513",
+    "slot_id": "62185",
+    "pgm": "니도 말랑이/스트레스볼",
+    "title": "크리스마스 한정판 카쇼라특가",
+    "category": "키즈"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "릴리이브",
+    "product": "릴리이브 그로우턴 엑소좀 브러쉬 탈모앰플 30ml 2개+듀얼샤쉐 2개 외 6종 여성 탈모 완화 두피 열감 감소",
+    "price": 19900,
+    "link": "https://store.kakao.com/lilyeve/products/405574243",
+    "slot_id": "62005",
+    "pgm": "릴리이브 단독최초! 2개에",
+    "title": "1만원대 두피앰플 30ml",
+    "category": "뷰티"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "청년상점",
+    "product": "(출고당일 갓버무린) 국산 전라도식 포기김치 10kg / 깔끔하고 깊은 맛",
+    "price": 35900,
+    "link": "https://store.kakao.com/youngstore/products/62881449",
+    "slot_id": "62012",
+    "pgm": "국산 전라도포기김치 10kg",
+    "title": "카쇼라특가 28900원",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "피죤공식몰",
+    "product": "초고농축피죤 NEW시그니처 섬유유연제 1.3Lx4개+피카츄보온주머니증정p",
+    "price": 26900,
+    "link": "https://store.kakao.com/pigeon/products/263991070",
+    "slot_id": "62036",
+    "pgm": "피죤 브랜드데이 OPEN!",
+    "title": "최저가+라이브단독사은품 증정",
+    "category": "리빙"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "쿠르 Coeur",
+    "product": "쿠르 마스크팩 3종 (쿨링 + 미백 + 탄력)",
+    "price": 135000,
+    "link": "https://store.kakao.com/coeurshop/products/812867528",
+    "slot_id": "61870",
+    "pgm": "쿠르X단이 블프 특가!",
+    "title": "마스크팩&앰플 쟁이기",
+    "category": "뷰티"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "잇존어패럴",
+    "product": "",
+    "price": 0,
+    "link": "https://shoppinglive.kakao.com/live/62030",
+    "slot_id": "62030",
+    "pgm": "잇존 SPECIAL DEAL",
+    "title": "최대 60% LIVE",
+    "category": "패션"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "청년상점",
+    "product": "(2개구매 시 5kg발송) [정품] 2026 햇 경북 부사사과 2kg 8-10과",
+    "price": 29900,
+    "link": "https://store.kakao.com/youngstore/products/775241527",
+    "slot_id": "62177",
+    "pgm": "2026 정품 부사사과2kg",
+    "title": "10900원 8-10과",
     "category": "식품"
    }
   ]
