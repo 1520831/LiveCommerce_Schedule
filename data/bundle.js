@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-23T20:00:14+09:00",
+ "generated_at": "2026-11-23T21:00:13+09:00",
  "today": "2026-11-23",
  "dates": [
   "2026-11-22",
@@ -624,8 +624,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[듀오 매칭 서비스] 11월 듀오 세일 페스타",
-     "pgm": "[듀오] 듀오 (렌탈)",
-     "hot": 7
+     "pgm": "[듀오] 듀오 (렌탈)"
     },
     {
      "start": "19:00",
@@ -663,7 +662,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[현명쇼] 버버리 신상패딩 69만▼ 곧 종료★",
-     "pgm": "현명쇼(노블레스)"
+     "pgm": "현명쇼(노블레스)",
+     "hot": 5
     },
     {
      "start": "21:00",
@@ -8588,7 +8588,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 9
     },
     {
      "start": "14:00",
@@ -9550,8 +9550,7 @@ window.SCHEDULE = {
      "items": [
       {}
      ],
-     "category": "뷰티",
-     "hot": 10
+     "category": "뷰티"
     },
     {
      "start": "19:00",
@@ -9863,7 +9862,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 8
     },
     {
      "start": "19:00",
@@ -10107,7 +10106,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 3
+     "hot": 6
     },
     {
      "start": "19:00",
@@ -10515,7 +10514,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "19:00",
@@ -10991,7 +10990,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 7
     },
     {
      "start": "20:00",
@@ -11311,7 +11311,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 1
     },
     {
      "start": "20:00",
@@ -12106,7 +12107,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 2
     },
     {
      "start": "20:00",
@@ -23436,7 +23438,7 @@ window.SCHEDULE = {
      "pgm": "겨울의 시작 네파!",
      "title": "FW아우터 외 ~88%할인",
      "category": "패션",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "19:00",
@@ -24912,8 +24914,8 @@ window.SCHEDULE = {
    "2026-11-22",
    "2026-11-23"
   ],
-  "matched": 13,
-  "unmatched": 7
+  "matched": 15,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
