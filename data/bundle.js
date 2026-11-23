@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-23T12:20:18+09:00",
+ "generated_at": "2026-11-23T12:40:35+09:00",
  "today": "2026-11-23",
  "dates": [
   "2026-11-22",
@@ -2374,7 +2374,8 @@ window.SCHEDULE = {
      "title": "요즘 뜨는 이태리 명품 다운 봄부지에 ~34% OFF 시크릿 특가",
      "pgm": "스튜디오B",
      "pgm_cd": "1108",
-     "category": "스포츠·아웃도어"
+     "category": "스포츠·아웃도어",
+     "hot": 10
     },
     {
      "start": "12:00",
@@ -22324,8 +22325,7 @@ window.SCHEDULE = {
      "slot_id": "61855",
      "pgm": "라보에이치와 함께 두피 케어",
      "title": "라이브 중 5% 추가 할인",
-     "category": "뷰티",
-     "hot": 10
+     "category": "뷰티"
     },
     {
      "start": "10:00",
