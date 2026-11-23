@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-24T07:02:35+09:00",
+ "generated_at": "2026-11-24T08:00:15+09:00",
  "today": "2026-11-24",
  "dates": [
   "2026-11-23",
@@ -397,7 +397,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[노블리타] 18K 반값이상▼ 한정수량 오픈!",
-     "pgm": "[재방] 노블리타 (노블레스)"
+     "pgm": "[재방] 노블리타 (노블레스)",
+     "hot": 1
     },
     {
      "start": "08:00",
@@ -6777,8 +6778,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "02:10",
@@ -19944,7 +19944,7 @@ window.SCHEDULE = {
    "2026-11-24"
   ],
   "matched": 3,
-  "unmatched": 17
+  "unmatched": 16
  },
  "fixed": {
   "rows": [
