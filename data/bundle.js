@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-23T11:02:36+09:00",
+ "generated_at": "2026-11-23T11:20:29+09:00",
  "today": "2026-11-23",
  "dates": [
   "2026-11-22",
@@ -6642,7 +6642,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 3
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -7095,7 +7095,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 8
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -7225,7 +7225,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -8362,7 +8362,8 @@ window.SCHEDULE = {
      "items": [
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -19478,7 +19479,7 @@ window.SCHEDULE = {
      "pgm": "라보에이치와 함께 두피 케어",
      "title": "라이브 중 5% 추가 할인",
      "category": "뷰티",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -21074,8 +21075,8 @@ window.SCHEDULE = {
    "2026-11-22",
    "2026-11-23"
   ],
-  "matched": 12,
-  "unmatched": 7
+  "matched": 13,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
