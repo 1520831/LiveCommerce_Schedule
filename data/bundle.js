@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-23T21:00:13+09:00",
+ "generated_at": "2026-11-23T22:00:10+09:00",
  "today": "2026-11-23",
  "dates": [
   "2026-11-22",
@@ -663,7 +663,7 @@ window.SCHEDULE = {
      ],
      "title": "[현명쇼] 버버리 신상패딩 69만▼ 곧 종료★",
      "pgm": "현명쇼(노블레스)",
-     "hot": 5
+     "hot": 2
     },
     {
      "start": "21:00",
@@ -11311,8 +11311,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 1
+     "category": "푸드"
     },
     {
      "start": "20:00",
@@ -12108,7 +12107,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "20:00",
@@ -24914,8 +24913,8 @@ window.SCHEDULE = {
    "2026-11-22",
    "2026-11-23"
   ],
-  "matched": 15,
-  "unmatched": 5
+  "matched": 14,
+  "unmatched": 6
  },
  "fixed": {
   "rows": [
