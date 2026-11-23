@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-23T10:40:22+09:00",
+ "generated_at": "2026-11-23T11:02:36+09:00",
  "today": "2026-11-23",
  "dates": [
   "2026-11-22",
@@ -6642,7 +6642,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 6
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -7095,7 +7095,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -7225,7 +7225,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 9
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -7390,7 +7390,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 4
     },
     {
      "start": "10:30",
@@ -19464,8 +19465,7 @@ window.SCHEDULE = {
      "slot_id": "61309",
      "pgm": "우리가 믿는 물 제주 삼다수",
      "title": "한정판 굿즈 추첨 이벤트",
-     "category": "식품",
-     "hot": 5
+     "category": "식품"
     },
     {
      "start": "08:30",
@@ -19478,7 +19478,7 @@ window.SCHEDULE = {
      "pgm": "라보에이치와 함께 두피 케어",
      "title": "라이브 중 5% 추가 할인",
      "category": "뷰티",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "10:00",
