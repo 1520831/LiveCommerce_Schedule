@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-24T08:00:15+09:00",
+ "generated_at": "2026-11-24T08:20:18+09:00",
  "today": "2026-11-24",
  "dates": [
   "2026-11-23",
@@ -417,7 +417,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "레노마 11월 기분 좋은 혜택 2만원대부터❤️",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 6
     },
     {
      "start": "09:00",
@@ -2269,7 +2270,8 @@ window.SCHEDULE = {
      "title": "다시보는 엣지쇼👗 애드아보아&아쿠아스큐 26FW 세일",
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 4
     },
     {
      "start": "08:00",
@@ -19943,8 +19945,8 @@ window.SCHEDULE = {
    "2026-11-23",
    "2026-11-24"
   ],
-  "matched": 3,
-  "unmatched": 16
+  "matched": 5,
+  "unmatched": 13
  },
  "fixed": {
   "rows": [
