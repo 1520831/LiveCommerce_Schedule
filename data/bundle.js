@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-23T14:20:12+09:00",
+ "generated_at": "2026-11-23T14:40:12+09:00",
  "today": "2026-11-23",
  "dates": [
   "2026-11-22",
@@ -473,7 +473,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 전 상품 최저가도전",
      "pgm": "노블리타 (노블레스)",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "12:00",
@@ -2335,7 +2335,7 @@ window.SCHEDULE = {
      "pgm": "맘만하니",
      "pgm_cd": "1100",
      "category": "유아동",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -2374,8 +2374,7 @@ window.SCHEDULE = {
      "title": "요즘 뜨는 이태리 명품 다운 봄부지에 ~34% OFF 시크릿 특가",
      "pgm": "스튜디오B",
      "pgm_cd": "1108",
-     "category": "스포츠·아웃도어",
-     "hot": 10
+     "category": "스포츠·아웃도어"
     },
     {
      "start": "12:00",
@@ -7128,7 +7127,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -7532,7 +7531,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -7662,7 +7661,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "10:00",
@@ -7848,7 +7847,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "10:30",
@@ -8959,7 +8958,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -9766,7 +9765,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 2
     },
     {
      "start": "14:00",
