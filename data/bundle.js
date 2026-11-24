@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-24T10:00:29+09:00",
+ "generated_at": "2026-11-24T10:20:20+09:00",
  "today": "2026-11-24",
  "dates": [
   "2026-11-23",
@@ -397,8 +397,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[노블리타] 18K 반값이상▼ 한정수량 오픈!",
-     "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 10
+     "pgm": "[재방] 노블리타 (노블레스)"
     },
     {
      "start": "08:00",
@@ -418,7 +417,7 @@ window.SCHEDULE = {
      ],
      "title": "레노마 11월 기분 좋은 혜택 2만원대부터❤️",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "09:00",
@@ -438,7 +437,7 @@ window.SCHEDULE = {
      ],
      "title": "[미소페] ~71%▼ 26FW 신상 + 베스트 라인업",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -2271,8 +2270,7 @@ window.SCHEDULE = {
      "title": "다시보는 엣지쇼👗 애드아보아&아쿠아스큐 26FW 세일",
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
-     "category": "여성패션",
-     "hot": 8
+     "category": "여성패션"
     },
     {
      "start": "08:00",
@@ -2365,7 +2363,8 @@ window.SCHEDULE = {
      "title": "리안 드림콧 아기침대+기저귀갈이대 세트 12월인상 전 마지막 특가찬스💟",
      "pgm": "인플루언서LIVE",
      "pgm_cd": "1052",
-     "cast": "influencer"
+     "cast": "influencer",
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -7104,7 +7103,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -7392,7 +7391,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -7564,7 +7564,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 3
     },
     {
      "start": "10:30",
@@ -19949,8 +19950,8 @@ window.SCHEDULE = {
    "2026-11-23",
    "2026-11-24"
   ],
-  "matched": 9,
-  "unmatched": 10
+  "matched": 10,
+  "unmatched": 9
  },
  "fixed": {
   "rows": [
