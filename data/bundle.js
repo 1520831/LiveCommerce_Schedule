@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-25T08:28:04+09:00",
+ "generated_at": "2026-11-25T08:40:25+09:00",
  "today": "2026-11-25",
  "dates": [
   "2026-11-24",
@@ -2047,8 +2047,7 @@ window.SCHEDULE = {
      "title": "다시보는 쿠쿠 밥솥 카드 5%+적립 10% 가장 큰 혜택🎁",
      "pgm": "라이브쇼",
      "pgm_cd": "1016",
-     "category": "가전",
-     "hot": 9
+     "category": "가전"
     },
     {
      "start": "09:00",
@@ -5971,7 +5970,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "00:50",
@@ -6210,8 +6209,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 8
+     "category": "테크"
     },
     {
      "start": "02:10",
@@ -6636,7 +6634,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 3
     },
     {
      "start": "09:50",
@@ -17000,9 +16999,9 @@ window.SCHEDULE = {
      "start": "10:00",
      "end": "11:30",
      "brand": "AHC&뷰카",
-     "product": "AHC 메이크업핏 마스터즈 톤업 선세럼 50ml 2개+(증정)마스터즈 선크림 10ml 1개",
-     "price": 29700,
-     "link": "https://m.gmarket.co.kr/vi/product/4713234472",
+     "product": "AHC 프리미어 앰플 아이크림 오로라 에디션 40ml 4개세트",
+     "price": 39000,
+     "link": "https://m.gmarket.co.kr/vi/product/4882807753",
      "slot_id": "259501",
      "pgm": "조권 출연🫧AHC&뷰카🫧 무조권 사는 날",
      "category": "뷰티"
@@ -17109,9 +17108,9 @@ window.SCHEDULE = {
      "start": "20:00",
      "end": "21:00",
      "brand": "AHC",
-     "product": "AHC 메이크업핏 마스터즈 톤업 선세럼 50ml 2개+(증정)마스터즈 선크림 10ml 1개",
-     "price": 29700,
-     "link": "https://m.gmarket.co.kr/vi/product/4713234472",
+     "product": "AHC 프리미어 앰플 아이크림 오로라 에디션 40ml 4개세트",
+     "price": 39000,
+     "link": "https://m.gmarket.co.kr/vi/product/4882807753",
      "slot_id": "260529",
      "pgm": "메가뷰티서브3",
      "category": "뷰티"
@@ -17579,7 +17578,8 @@ window.SCHEDULE = {
      "slot_id": "62006",
      "pgm": "[~60%] 생리대&청결제",
      "title": "블랙프라이데이 LIVE",
-     "category": "리빙"
+     "category": "리빙",
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -18752,7 +18752,7 @@ window.SCHEDULE = {
   "HD": "2026-11-24T12:01:58+09:00",
   "CJ": "2026-11-24T12:02:09+09:00",
   "NV": "2026-11-24T12:04:18+09:00",
-  "GM": "2026-11-25T08:28:01+09:00",
+  "GM": "2026-11-25T08:39:59+09:00",
   "KA": "2026-11-24T12:02:20+09:00"
  },
  "cast_kinds": [
