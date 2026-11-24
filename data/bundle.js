@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-24T10:20:20+09:00",
+ "generated_at": "2026-11-24T10:40:13+09:00",
  "today": "2026-11-24",
  "dates": [
   "2026-11-23",
@@ -417,7 +417,7 @@ window.SCHEDULE = {
      ],
      "title": "레노마 11월 기분 좋은 혜택 2만원대부터❤️",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 5
+     "hot": 8
     },
     {
      "start": "09:00",
@@ -436,8 +436,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[미소페] ~71%▼ 26FW 신상 + 베스트 라인업",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 9
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "10:00",
@@ -456,7 +455,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 막스마라 신상 코트 특집!",
-     "pgm": "투명쇼 (패션잡화)"
+     "pgm": "투명쇼 (패션잡화)",
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -7102,8 +7102,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 8
+     "category": "테크"
     },
     {
      "start": "10:00",
@@ -7667,7 +7666,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 5
     },
     {
      "start": "10:30",
@@ -19951,7 +19951,7 @@ window.SCHEDULE = {
    "2026-11-24"
   ],
   "matched": 10,
-  "unmatched": 9
+  "unmatched": 10
  },
  "fixed": {
   "rows": [
