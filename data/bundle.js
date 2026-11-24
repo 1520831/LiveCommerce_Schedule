@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-24T09:40:12+09:00",
+ "generated_at": "2026-11-24T10:00:29+09:00",
  "today": "2026-11-24",
  "dates": [
   "2026-11-23",
@@ -398,7 +398,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 18K 반값이상▼ 한정수량 오픈!",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "08:00",
@@ -437,7 +437,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[미소페] ~71%▼ 26FW 신상 + 베스트 라인업",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -2271,7 +2272,7 @@ window.SCHEDULE = {
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
      "category": "여성패션",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "08:00",
@@ -7103,7 +7104,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 10
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -19948,8 +19949,8 @@ window.SCHEDULE = {
    "2026-11-23",
    "2026-11-24"
   ],
-  "matched": 8,
-  "unmatched": 11
+  "matched": 9,
+  "unmatched": 10
  },
  "fixed": {
   "rows": [
