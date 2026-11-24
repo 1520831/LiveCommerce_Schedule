@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-24T13:41:39+09:00",
+ "generated_at": "2026-11-24T14:03:41+09:00",
  "today": "2026-11-24",
  "dates": [
   "2026-11-23",
@@ -498,7 +498,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[리베로] 프리미엄 기저귀 한정수량 재고 확보 핫딜",
-     "pgm": "[리베로] 기저귀 (액티브라이프)"
+     "pgm": "[리베로] 기저귀 (액티브라이프)",
+     "hot": 10
     },
     {
      "start": "13:00",
@@ -2445,7 +2446,7 @@ window.SCHEDULE = {
      "pgm_cd": "1052",
      "category": "유아동",
      "cast": "influencer",
-     "hot": 8
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -7801,7 +7802,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 9
+     "hot": 6
     },
     {
      "start": "10:30",
@@ -8047,7 +8048,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 10
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -8231,7 +8232,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 6
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -8355,8 +8356,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프",
-     "hot": 5
+     "category": "라이프"
     },
     {
      "start": "11:00",
@@ -8447,7 +8447,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 7
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -8704,8 +8704,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈",
-     "hot": 3
+     "category": "키즈"
     },
     {
      "start": "11:00",
@@ -8797,7 +8796,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -21371,7 +21371,8 @@ window.SCHEDULE = {
      "slot_id": "61584",
      "pgm": "겨울 꿀잠템 오르시떼",
      "title": "가족/친구/연인 연말 선물",
-     "category": "패션"
+     "category": "패션",
+     "hot": 9
     },
     {
      "start": "08:30",
@@ -22883,8 +22884,8 @@ window.SCHEDULE = {
    "2026-11-23",
    "2026-11-24"
   ],
-  "matched": 11,
-  "unmatched": 9
+  "matched": 12,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
