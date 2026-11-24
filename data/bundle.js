@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-24T10:40:13+09:00",
+ "generated_at": "2026-11-24T11:00:54+09:00",
  "today": "2026-11-24",
  "dates": [
   "2026-11-23",
@@ -417,7 +417,7 @@ window.SCHEDULE = {
      ],
      "title": "레노마 11월 기분 좋은 혜택 2만원대부터❤️",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "09:00",
@@ -456,7 +456,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 막스마라 신상 코트 특집!",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -2364,7 +2364,7 @@ window.SCHEDULE = {
      "pgm": "인플루언서LIVE",
      "pgm_cd": "1052",
      "cast": "influencer",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -7564,7 +7564,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "10:30",
@@ -7667,7 +7667,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "뷰티",
-     "hot": 5
+     "hot": 2
     },
     {
      "start": "10:30",
@@ -7698,7 +7698,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 7
     },
     {
      "start": "10:50",
@@ -18450,7 +18451,7 @@ window.SCHEDULE = {
      "pgm": "겨울 꿀잠템 오르시떼",
      "title": "가족/친구/연인 연말 선물",
      "category": "패션",
-     "hot": 2
+     "hot": 5
     },
     {
      "start": "08:30",
@@ -19950,8 +19951,8 @@ window.SCHEDULE = {
    "2026-11-23",
    "2026-11-24"
   ],
-  "matched": 10,
-  "unmatched": 10
+  "matched": 11,
+  "unmatched": 9
  },
  "fixed": {
   "rows": [
