@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-24T11:21:20+09:00",
+ "generated_at": "2026-11-24T11:40:28+09:00",
  "today": "2026-11-24",
  "dates": [
   "2026-11-23",
@@ -2362,7 +2362,7 @@ window.SCHEDULE = {
      "pgm": "인플루언서LIVE",
      "pgm_cd": "1052",
      "cast": "influencer",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -7561,7 +7561,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "10:30",
@@ -7695,8 +7695,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드",
-     "hot": 9
+     "category": "푸드"
     },
     {
      "start": "10:50",
@@ -7805,8 +7804,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "11:00",
@@ -7975,7 +7973,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -8097,7 +8095,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -8187,7 +8186,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -8446,7 +8446,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 6
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -18451,7 +18451,7 @@ window.SCHEDULE = {
      "pgm": "겨울 꿀잠템 오르시떼",
      "title": "가족/친구/연인 연말 선물",
      "category": "패션",
-     "hot": 5
+     "hot": 10
     },
     {
      "start": "08:30",
