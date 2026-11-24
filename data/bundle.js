@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-24T11:00:54+09:00",
+ "generated_at": "2026-11-24T11:21:20+09:00",
  "today": "2026-11-24",
  "dates": [
   "2026-11-23",
@@ -416,8 +416,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "레노마 11월 기분 좋은 혜택 2만원대부터❤️",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 9
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "09:00",
@@ -455,8 +454,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 막스마라 신상 코트 특집!",
-     "pgm": "투명쇼 (패션잡화)",
-     "hot": 8
+     "pgm": "투명쇼 (패션잡화)"
     },
     {
      "start": "11:00",
@@ -7390,8 +7388,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프",
-     "hot": 6
+     "category": "라이프"
     },
     {
      "start": "10:00",
@@ -7699,7 +7696,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "10:50",
@@ -7808,7 +7805,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -7976,7 +7974,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -8446,7 +8445,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 6
     },
     {
      "start": "11:00",
