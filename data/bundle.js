@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-25T09:42:07+09:00",
+ "generated_at": "2026-11-25T10:00:11+09:00",
  "today": "2026-11-25",
  "dates": [
   "2026-11-24",
@@ -438,7 +438,7 @@ window.SCHEDULE = {
      ],
      "title": "[쿠론] 홀리데이 스타일링 아이템 UP TO 60%",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 7
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -5971,7 +5971,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "00:50",
@@ -6636,7 +6636,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "09:50",
@@ -17568,7 +17568,7 @@ window.SCHEDULE = {
      "pgm": "멜릭서 립케어 2+1 구성",
      "title": "구매금액별 미스트/파우치증정",
      "category": "뷰티",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "08:30",
