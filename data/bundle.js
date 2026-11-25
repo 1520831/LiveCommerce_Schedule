@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-25T11:00:25+09:00",
+ "generated_at": "2026-11-25T11:21:57+09:00",
  "today": "2026-11-25",
  "dates": [
   "2026-11-24",
@@ -416,8 +416,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "써스데이아일랜드 인기템 방송 중 최대 55%▼",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 8
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "09:00",
@@ -455,8 +454,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 몽클레어 패딩 월 1만원대~",
-     "pgm": "투명쇼 (패션잡화)",
-     "hot": 9
+     "pgm": "투명쇼 (패션잡화)"
     },
     {
      "start": "11:00",
@@ -475,7 +473,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "전문가 시공매트 + 아이방 + 무상 업그레이드",
-     "pgm": "[파크론] 제로블럭 (액티브라이프)"
+     "pgm": "[파크론] 제로블럭 (액티브라이프)",
+     "hot": 6
     },
     {
      "start": "12:00",
@@ -2087,7 +2086,7 @@ window.SCHEDULE = {
      "pgm": "맘만하니",
      "pgm_cd": "1100",
      "category": "유아동",
-     "hot": 5
+     "hot": 8
     },
     {
      "start": "10:00",
@@ -2102,7 +2101,7 @@ window.SCHEDULE = {
      "pgm_cd": "1052",
      "category": "주방·잡화",
      "cast": "influencer",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -2129,7 +2128,7 @@ window.SCHEDULE = {
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
      "category": "여성패션",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "11:00",
@@ -6712,7 +6711,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -6880,7 +6879,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 4
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -7066,7 +7065,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -7663,7 +7662,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프"
+     "category": "라이프",
+     "hot": 5
     },
     {
      "start": "11:00",
@@ -8025,7 +8025,8 @@ window.SCHEDULE = {
      "items": [
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -17582,8 +17583,7 @@ window.SCHEDULE = {
      "slot_id": "62006",
      "pgm": "[~60%] 생리대&청결제",
      "title": "블랙프라이데이 LIVE",
-     "category": "리빙",
-     "hot": 10
+     "category": "리빙"
     },
     {
      "start": "10:00",
