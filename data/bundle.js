@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-25T08:40:25+09:00",
+ "generated_at": "2026-11-25T09:00:21+09:00",
  "today": "2026-11-25",
  "dates": [
   "2026-11-24",
@@ -379,7 +379,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 18K 반값이상▼ 한정수량 오픈!",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 1
+     "hot": 3
     },
     {
      "start": "07:00",
@@ -418,7 +418,7 @@ window.SCHEDULE = {
      ],
      "title": "써스데이아일랜드 인기템 방송 중 최대 55%▼",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "09:00",
@@ -2034,7 +2034,8 @@ window.SCHEDULE = {
      "title": "다시보는 까사렐 가을SALE🤍 26 윈터시즌 신상 방송중 추가 할인🤍",
      "pgm": "라이브쇼",
      "pgm_cd": "0146",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 9
     },
     {
      "start": "08:00",
@@ -2047,7 +2048,8 @@ window.SCHEDULE = {
      "title": "다시보는 쿠쿠 밥솥 카드 5%+적립 10% 가장 큰 혜택🎁",
      "pgm": "라이브쇼",
      "pgm_cd": "1016",
-     "category": "가전"
+     "category": "가전",
+     "hot": 7
     },
     {
      "start": "09:00",
@@ -5970,7 +5972,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "00:50",
@@ -6635,7 +6637,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "09:50",
@@ -17579,7 +17581,7 @@ window.SCHEDULE = {
      "pgm": "[~60%] 생리대&청결제",
      "title": "블랙프라이데이 LIVE",
      "category": "리빙",
-     "hot": 7
+     "hot": 2
     },
     {
      "start": "10:00",
@@ -18765,8 +18767,8 @@ window.SCHEDULE = {
    "2026-11-24",
    "2026-11-25"
   ],
-  "matched": 15,
-  "unmatched": 5
+  "matched": 17,
+  "unmatched": 3
  },
  "fixed": {
   "rows": [
