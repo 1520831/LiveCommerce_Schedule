@@ -1,0 +1,135 @@
+{
+ "company": "GM",
+ "channel": "glive",
+ "month": "2026-12",
+ "updated_at": "2026-11-26T08:14:16+09:00",
+ "days": {
+  "2026-12-01": [
+   {
+    "start": "10:00",
+    "end": "10:05",
+    "brand": "갈비아저씨",
+    "product": "",
+    "price": 0,
+    "link": "https://player.sauceflex.com/broadcast/lkebay-cd29895ca65847bd9518a0870bc40c9b",
+    "slot_id": "262016",
+    "pgm": "🔥양념이 깊숙이 배인 갈비아저씨 돼지 양념왕구이"
+   },
+   {
+    "start": "10:00",
+    "end": "11:00",
+    "brand": "아모레뷰티",
+    "product": "",
+    "price": 0,
+    "link": "https://player.sauceflex.com/broadcast/lkebay-7d747fd1ad404ad0ba8342d864bdf1d0",
+    "slot_id": "262024",
+    "pgm": "G라이브 X 아모레뷰티"
+   },
+   {
+    "start": "10:00",
+    "end": "11:00",
+    "brand": "LG생활건강",
+    "product": "",
+    "price": 0,
+    "link": "https://player.sauceflex.com/broadcast/lkebay-827766e3381e410198616b55a1caf6b7",
+    "slot_id": "262025",
+    "pgm": "G라이브XLG생활건강",
+    "category": "주방·잡화"
+   },
+   {
+    "start": "11:00",
+    "end": "12:00",
+    "brand": "코웨이",
+    "product": "렌탈 아이콘 정수기3 CHP/CP-7220N 28만 혜택",
+    "price": 1,
+    "link": "https://m.gmarket.co.kr/vi/product/4673799750",
+    "slot_id": "262033",
+    "pgm": "코웨이  단독 최대 90만+방송특별 혜택🔥",
+    "category": "서비스·렌탈"
+   },
+   {
+    "start": "13:00",
+    "end": "13:05",
+    "brand": "부광약품",
+    "product": "",
+    "price": 0,
+    "link": "https://player.sauceflex.com/broadcast/lkebay-a6fabac93f0149969676c8461c2abde0",
+    "slot_id": "262017",
+    "pgm": "🦷92.4% 임상검증 시린이완화 시린메드 치약",
+    "category": "주방·잡화"
+   },
+   {
+    "start": "14:00",
+    "end": "15:00",
+    "brand": "하이베러",
+    "product": "",
+    "price": 0,
+    "link": "https://player.sauceflex.com/broadcast/lkebay-61f7b487f5414dcc9130cf722ed0d2d6",
+    "slot_id": "262026",
+    "pgm": "하이베러"
+   },
+   {
+    "start": "14:00",
+    "end": "15:00",
+    "brand": "광동생활건강",
+    "product": "",
+    "price": 0,
+    "link": "https://player.sauceflex.com/broadcast/lkebay-c46dd8b70d534afaa6a29a04d03a3953",
+    "slot_id": "262027",
+    "pgm": "♥12/1 14시 광동생활건강 빅세일♥"
+   },
+   {
+    "start": "20:00",
+    "end": "21:00",
+    "brand": "AMD",
+    "product": "",
+    "price": 0,
+    "link": "https://player.sauceflex.com/broadcast/lkebay-91fb197b00a74a368c17888b01054d92",
+    "slot_id": "261019",
+    "pgm": "AMD X 퍼플랩 프리미엄 조립PC",
+    "category": "디지털·PC"
+   },
+   {
+    "start": "20:00",
+    "end": "21:00",
+    "brand": "시몬스",
+    "product": "",
+    "price": 0,
+    "link": "https://player.sauceflex.com/broadcast/lkebay-73936588dc8c4555a4f2ef173e019484",
+    "slot_id": "262028",
+    "pgm": "시몬스"
+   },
+   {
+    "start": "21:00",
+    "end": "22:00",
+    "brand": "AHC",
+    "product": "",
+    "price": 0,
+    "link": "https://player.sauceflex.com/broadcast/lkebay-985440a24ce74514bb71a35159be4061",
+    "slot_id": "262029",
+    "pgm": "AHC"
+   },
+   {
+    "start": "21:00",
+    "end": "22:00",
+    "brand": "샤크닌자",
+    "product": "샤크 무선청소기 에보파워시스템 IQ+ 자동먼지비움 CS850KRBLAE",
+    "price": 697850,
+    "link": "https://m.gmarket.co.kr/vi/product/4876495444",
+    "slot_id": "262030",
+    "pgm": "샤크닌자",
+    "category": "가전"
+   },
+   {
+    "start": "22:00",
+    "end": "23:30",
+    "brand": "삼성",
+    "product": "",
+    "price": 0,
+    "link": "https://player.sauceflex.com/broadcast/lkebay-ac3f7eca61844df6b2d080a99935f1df",
+    "slot_id": "262006",
+    "pgm": "삼성 갤럭시"
+   }
+  ]
+ }
+}

@@ -1,0 +1,178 @@
+{
+ "company": "KA",
+ "channel": "shoppinglive",
+ "month": "2026-12",
+ "updated_at": "2026-11-26T08:14:49+09:00",
+ "days": {
+  "2026-12-01": [
+   {
+    "start": "08:30",
+    "end": "11:30",
+    "brand": "디마르3",
+    "product": "[1+1] '단독용량' 디마르3 시그니처 에스투드 프로텍터 5.2 50ml*2개",
+    "price": 25900,
+    "link": "https://gift.kakao.com/product/10842121?url=product&cId=10842121",
+    "slot_id": "62107",
+    "pgm": "디마르3 1+1 ~61%",
+    "title": "전 구매 샘플키트 6종 증정",
+    "category": "뷰티"
+   },
+   {
+    "start": "08:30",
+    "end": "11:30",
+    "brand": "마즈",
+    "product": "엠앤엠즈 어드벤트 캘린더 크리스마스/연말 선물",
+    "price": 14900,
+    "link": "https://gift.kakao.com/product/12452395?url=product&cId=12452395",
+    "slot_id": "62163",
+    "pgm": "엠앤엠즈 어드벤트 캘린더",
+    "title": "12월 이클립스 라이브 특가",
+    "category": "식품"
+   },
+   {
+    "start": "08:30",
+    "end": "11:30",
+    "brand": "세시드",
+    "product": "[퍼세럼 쟁이기] 워터락 퍼스트 세럼 150mlx6개+30mlx2개(+파우치,30mlx1개,선세럼 50mlx1개)",
+    "price": 228000,
+    "link": "https://gift.kakao.com/product/14688628?url=product&cId=14688628",
+    "slot_id": "62354",
+    "pgm": "세시드X쎄씨약사X카쇼라",
+    "title": "세럼/선세럼/앰플 ~41%",
+    "category": "뷰티"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "스테니",
+    "product": "[카쇼라 상륙] 스테니 무연마제 통5중 스테인리스 프라이팬/냄비/조리도구 18종 택1",
+    "price": 120000,
+    "link": "https://store.kakao.com/stenny/products/817066623",
+    "slot_id": "62056",
+    "pgm": "스테니 카쇼라 최초 상륙!",
+    "title": "팬부터 냄비까지 할인 특가",
+    "category": "리빙"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "미식상회",
+    "product": "[미식상회] 재구매 많은 이유 있는 맛! 100% 통참깨 저온압착 참기름/들기름",
+    "price": 21900,
+    "link": "https://store.kakao.com/misic/products/64585397",
+    "slot_id": "61927",
+    "pgm": "미식상회 저온압착 참기름부터",
+    "title": "전상품 최저가!라이브 한정",
+    "category": "식품"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "만수동떡볶이만떡",
+    "product": "떡볶이 7가지맛 내맘대로 300g 무료배송 밀키트 만수동떡볶이 만떡",
+    "price": 3400,
+    "link": "https://store.kakao.com/mantteok/products/678920045",
+    "slot_id": "62094",
+    "pgm": "2700원 떡볶이 무료배송",
+    "title": "6+1 11+2 추가증정까지",
+    "category": "식품"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "비윗유",
+    "product": "호주에서 온 특별한 프로폴리스, 비윗유 스프레이 30ml & 캔디세트 | 단품 | 1+1",
+    "price": 29800,
+    "link": "https://store.kakao.com/beewithyou/products/711423650",
+    "slot_id": "62313",
+    "pgm": "한 해 고마운 마음을 담은",
+    "title": "특별한선물 비윗유 프로폴리스",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "투썸플레이스",
+    "product": "케이크 교환권",
+    "price": 35100,
+    "link": "https://gift.kakao.com/product/14536900?url=product&cId=14536900",
+    "slot_id": "62083",
+    "pgm": "연말 케이크는 스초생!",
+    "title": "최대 20% 혜택까지",
+    "category": "교환권"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "웹투어(주)",
+    "product": "[풀만 앰배서더 서울 이스트폴] 룸온리,룸업그레이드,조식,조식&디너 패키지 등_수영장&피트니스 무료_주중 레이트체크아웃 제공",
+    "price": 259000,
+    "link": "https://store.kakao.com/webtour/products/628692112",
+    "slot_id": "62151",
+    "pgm": "풀만 앰배서더 서울 이스트폴",
+    "title": "카쇼라 단독 혜택 25만~",
+    "category": "여행"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "에스트라",
+    "product": "[대용량트리플] 홀리데이 아토베리어365 크림 150ml 3개 (+홀리데이 담요)",
+    "price": 128700,
+    "link": "https://gift.kakao.com/product/14619457?url=product&cId=14619457",
+    "slot_id": "62235",
+    "pgm": "에스트라 홀리데이 특집",
+    "title": "선착순 클렌징폼 30g 증정",
+    "category": "뷰티"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "에코백스 공식스토어",
+    "product": "[LIVE] 에코백스 X11 옴니사이클론 롤러형 AI올인원 로봇청소기 + 악세서리풀패키지 세트",
+    "price": 649000,
+    "link": "https://store.kakao.com/ecovacskorea/products/820228822",
+    "slot_id": "62349",
+    "pgm": "에코백스 X11 옴니사이클론",
+    "title": "전원 악세서리 패키지 증정",
+    "category": "테크"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "아르베",
+    "product": "선물포장 [여행용100ml+쇼핑백 증정] 홀리데이 비터버터 바디워시&바디로션 선물세트 (무화과&우디)",
+    "price": 39900,
+    "link": "https://gift.kakao.com/product/12320652?url=product&cId=12320652",
+    "slot_id": "62073",
+    "pgm": "아르베 리미티드 홀리데이",
+    "title": "오직 라이브에서!역대급 증정",
+    "category": "뷰티"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "밥도둑푸드",
+    "product": "밥도둑푸드 우거지 된장국 2인분양 3+1 총 4통 해장국 간편식 집밥 냉동 캠핑용",
+    "price": 17000,
+    "link": "https://store.kakao.com/babdodukfood/products/51324571",
+    "slot_id": "62099",
+    "pgm": "밥도둑푸드 우거지된장국부터",
+    "title": "꼬막무침까지! 카쇼라 특가",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "샐리",
+    "product": "[샐리] 한겨울 HOT 세일 여성 아우터/니트/기모/패딩/점퍼/코트 외 데일리룩 모음",
+    "price": 129000,
+    "link": "https://store.kakao.com/sellys/products/399988414",
+    "slot_id": "62239",
+    "pgm": "샐리/티뷰 카쇼라 특가",
+    "title": "한겨울 대비 특가",
+    "category": "패션"
+   }
+  ]
+ }
+}

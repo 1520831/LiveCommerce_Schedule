@@ -2,7 +2,7 @@
  "company": "GM",
  "channel": "glive",
  "month": "2026-11",
- "updated_at": "2026-11-25T08:39:59+09:00",
+ "updated_at": "2026-11-26T08:14:16+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -6708,8 +6708,8 @@
     "start": "10:00",
     "end": "11:00",
     "brand": "코스메이트",
-    "product": "바세린 모이스처 바디로션 1078ml 2개+핸드크림 60ml (역대급행사) 향기좋은 고보습 바디크림",
-    "price": 14500,
+    "product": "바세린 모이스처 바디로션 1078ml 2개+핸드크림 60ml (블프행사) 향기좋은 고보습 바디크림",
+    "price": 13700,
     "link": "https://m.gmarket.co.kr/vi/product/4296868159",
     "slot_id": "259498",
     "pgm": "성수팅글랩🫧보습명가 바세린 &모발케어 코스메이트🎶",
@@ -6731,7 +6731,7 @@
     "start": "12:00",
     "end": "13:02",
     "brand": "국민바이오",
-    "product": "무가당 무첨가 국민바이오 약콩두유 180ml (총 40팩) 무가당 무첨가 국산 원액두유",
+    "product": "무가당 무첨가 국민바이오 약콩두유 180ml (총 40팩) 프로틴 쉐이크 1팩 증정",
     "price": 27900,
     "link": "https://m.gmarket.co.kr/vi/product/3455681440",
     "slot_id": "260517",
@@ -6749,21 +6749,11 @@
     "category": "식품·건강"
    },
    {
-    "start": "18:00",
-    "end": "19:02",
-    "brand": "월드컵",
-    "product": "월드컵 루키 털슬리퍼 겨울슬리퍼 털실내화 털실외화 보온실내화",
-    "price": 25000,
-    "link": "https://m.gmarket.co.kr/vi/product/4882656106",
-    "slot_id": "260518",
-    "pgm": "월드컵 따뜻한 털신발 특가"
-   },
-   {
     "start": "19:00",
     "end": "20:00",
     "brand": "까스텔바작",
     "product": "(본사공식)(신상/무배)까스텔바작 신상 프리미엄 특가 기모 카라티셔츠/팬츠/경량/패딩베스트/패딩점퍼",
-    "price": 42110,
+    "price": 47360,
     "link": "https://m.gmarket.co.kr/vi/product/4852674153",
     "slot_id": "259504",
     "pgm": "[까스텔바작] 필드와 일상을 넘나드는 가벼움!",
@@ -6774,10 +6764,10 @@
     "end": "22:00",
     "brand": "씨에스 글로벌코스메틱",
     "product": "화색 피알이엑스 부스터 앰플",
-    "price": 29900,
+    "price": 62000,
     "link": "https://m.gmarket.co.kr/vi/product/4798507790",
     "slot_id": "259482",
-    "pgm": "[소상한지마켓] 씨에스 글로벌코스메틱",
+    "pgm": "[소상한지마켓] 씨에스 글로벌코스메틱 기초 베스트 특가",
     "category": "뷰티"
    }
   ],
@@ -6786,11 +6776,11 @@
     "start": "10:00",
     "end": "11:00",
     "brand": "아이소이",
-    "product": "(정가 28000원/BEST) 아이소이 브라이트닝 세럼 15ml",
-    "price": 19900,
+    "product": "(LIVE한정 초.특.가) 아이소이 브라이트닝 세럼 15ml",
+    "price": 18910,
     "link": "https://m.gmarket.co.kr/vi/product/2750409290",
     "slot_id": "259483",
-    "pgm": "성수팅글랩🫧아이소이 연말 맞이 초특가 쟁임 찬스",
+    "pgm": "성수 팅글랩🫧 G마켓 X 아이소이 블프! 단독 초특가",
     "category": "뷰티"
    },
    {
@@ -6798,7 +6788,7 @@
     "end": "11:00",
     "brand": "하남쭈꾸미",
     "product": "하남쭈꾸미 350g X 3팩+하남오징어 300g X 2팩",
-    "price": 48620,
+    "price": 38900,
     "link": "https://m.gmarket.co.kr/vi/product/4877660818",
     "slot_id": "260525",
     "pgm": "하남쭈꾸미&오징어 라이브 단독구성/이벤트🎁"
@@ -6807,9 +6797,9 @@
     "start": "10:00",
     "end": "11:30",
     "brand": "LG전자",
-    "product": "LG 오브제컬렉션 드럼세탁기 건조기세트 FX25ENR-GNG 25KG+20KG",
-    "price": 2494000,
-    "link": "https://m.gmarket.co.kr/vi/product/4655358690",
+    "product": "LG 디오스 AI 오브제컬렉션 냉장고 (매직스페이스) T876MEE111 1등급 870L 4도어",
+    "price": 2134000,
+    "link": "https://m.gmarket.co.kr/vi/product/4729503571",
     "slot_id": "262007",
     "pgm": "BLACK FRIDAY,LG가전 역대급 쇼핑 혜택🔥",
     "category": "가전"
@@ -6830,9 +6820,9 @@
     "start": "12:00",
     "end": "13:00",
     "brand": "낭만부부",
-    "product": "",
-    "price": 0,
-    "link": "https://player.sauceflex.com/broadcast/lkebay-0764ca2a778343009a29e336ebbf9c29",
+    "product": "낭만부부 치즈몽땅 떡볶이 500g 3봉",
+    "price": 24440,
+    "link": "https://m.gmarket.co.kr/vi/product/4522080923",
     "slot_id": "260519",
     "pgm": "낭만부부 치즈몽땅 떡볶이 500g 3봉",
     "category": "식품·건강"
@@ -6842,7 +6832,7 @@
     "end": "14:01",
     "brand": "센토",
     "product": "(치약 본품 2개 증정) 프리미엄 고.불소 무불소 치약 8개 대용량 구성",
-    "price": 25900,
+    "price": 26000,
     "link": "https://m.gmarket.co.kr/vi/product/4504855832",
     "slot_id": "261006",
     "pgm": "🦷상쾌한 구강케어 필수템, 센토 BEST 특가🪥",
@@ -6863,8 +6853,8 @@
     "start": "20:00",
     "end": "21:00",
     "brand": "교원투어",
-    "product": "준비중|나트랑2026 오픈 올인클루시브 루가노 리조트 자유여행 5/6일 | 입국패스트트랙 + 왕복픽업 포함",
-    "price": 749000,
+    "product": "놀러가G 혜택가 59만원대 ~|올인클루시브 루가노 리조트 자유여행 5/6일 | 입국패스트트랙 + 왕복픽업 포함",
+    "price": 729000,
     "link": "https://m.gmarket.co.kr/vi/product/4903002519",
     "slot_id": "259486",
     "pgm": "베트남 호캉스 특집! 나트랑 루가노&다낭 미카즈키",
@@ -6886,7 +6876,7 @@
     "end": "22:00",
     "brand": "태린농산",
     "product": "(신선집중) 수향미 골든퀸3호 10kg 26년 햅쌀 인기쌀 상등급",
-    "price": 44700,
+    "price": 43200,
     "link": "https://m.gmarket.co.kr/vi/product/4778531068",
     "slot_id": "259487",
     "pgm": "[소상한지마켓] 11월 블랙프라이데이 쌀 골라담기 !",
@@ -6897,10 +6887,10 @@
     "end": "22:00",
     "brand": "코카콜라",
     "product": "(옵션선택) 코카콜라 190ml 30캔 탄산음료 모음",
-    "price": 19500,
+    "price": 18000,
     "link": "https://m.gmarket.co.kr/vi/product/4867606840",
     "slot_id": "261014",
-    "pgm": "연말 최대 세일 코카-콜라 특가 LIVE!",
+    "pgm": "최대 56% 빅세일! 코카-콜라 메가 특가 LIVE",
     "category": "식품·건강"
    },
    {
@@ -6908,10 +6898,10 @@
     "end": "22:30",
     "brand": "삼성",
     "product": "삼성 Mini LED TV 4K 163cm(65인치) KU65MH75AFXKR 스탠드 (1등급)",
-    "price": 1290000,
+    "price": 1185000,
     "link": "https://m.gmarket.co.kr/vi/product/4720918661",
     "slot_id": "261015",
-    "pgm": "삼성 가전",
+    "pgm": "블랙프라이데이! 삼성 가전 11월 마지막 빅세일",
     "category": "가전"
    }
   ],
@@ -6935,7 +6925,7 @@
     "price": 39400,
     "link": "https://m.gmarket.co.kr/vi/product/4883572729",
     "slot_id": "259502",
-    "pgm": "G라이브 X 마즈코리아",
+    "pgm": "마즈코리아 당충전 특집 💗 달콤상큼 라이브",
     "category": "잡화·슈즈"
    },
    {
@@ -6943,28 +6933,18 @@
     "end": "12:00",
     "brand": "쿠쿠",
     "product": "쿠쿠 6인용 IH전기압력밥솥 CRP-DHPNL0615FGG",
-    "price": 256620,
+    "price": 240170,
     "link": "https://m.gmarket.co.kr/vi/product/4790091476",
     "slot_id": "261005",
-    "pgm": "G라이브 x 쿠쿠",
+    "pgm": "쿠쿠 BEST 가전 총출동! 우리 집 주방 업그레이드",
     "category": "가전"
-   },
-   {
-    "start": "11:00",
-    "end": "11:05",
-    "brand": "닥스",
-    "product": "",
-    "price": 0,
-    "link": "https://player.sauceflex.com/broadcast/lkebay-a129632e7bb84c70921e8afcbd214865",
-    "slot_id": "261010",
-    "pgm": "페이크퍼와 퀼팅 소재로 포근하고 부드러운 겨울 머플러"
    },
    {
     "start": "11:00",
     "end": "12:00",
     "brand": "코카콜라",
     "product": "(옵션선택) 코카콜라 190ml 30캔 탄산음료 모음",
-    "price": 19500,
+    "price": 18000,
     "link": "https://m.gmarket.co.kr/vi/product/4867606840",
     "slot_id": "261020",
     "pgm": "[앵콜]연말 최대 세일 코카-콜라 특가 LIVE!",
@@ -6984,24 +6964,24 @@
    },
    {
     "start": "13:00",
-    "end": "13:05",
+    "end": "14:01",
     "brand": "질경이",
-    "product": "",
-    "price": 0,
-    "link": "https://player.sauceflex.com/broadcast/lkebay-037062277e5e4b488080f21395d84d46",
+    "product": "홈쇼핑 완판 여성청결제 데일리 에코아워시 골드폼 150gx2 | AI라이브 한정 팬티라이너20개입 1개 증정",
+    "price": 48000,
+    "link": "https://m.gmarket.co.kr/vi/product/2614923181",
     "slot_id": "261007",
     "pgm": "홈쇼핑 완판 여성청결제, 질경이 G라이브 특가",
     "category": "여성패션"
    },
    {
     "start": "14:00",
-    "end": "14:05",
+    "end": "15:03",
     "brand": "매일계란",
-    "product": "",
-    "price": 0,
-    "link": "https://player.sauceflex.com/broadcast/lkebay-25273854a31c448fb57746e7412aa274",
+    "product": "매일농장 친환경 무항생제 계란 특란 30구",
+    "price": 12900,
+    "link": "https://m.gmarket.co.kr/vi/product/4708138185",
     "slot_id": "261016",
-    "pgm": "🥚도지사 품질인증! 매일농장 친환경 무항생제 특란"
+    "pgm": "매일농장 친환경 무항생제 계란 특란 30구"
    },
    {
     "start": "17:00",
@@ -7022,7 +7002,7 @@
     "price": 51900,
     "link": "https://m.gmarket.co.kr/vi/product/4157392520",
     "slot_id": "262005",
-    "pgm": "온가족 필수템! 치약·칫솔 초특가,뷰카 무조권 사는 날",
+    "pgm": "한정수량! 고불소치약·칫솔 초특가,뷰카 무조권사는날🫧",
     "category": "서비스·렌탈"
    },
    {
@@ -7051,15 +7031,39 @@
     "start": "21:00",
     "end": "22:00",
     "brand": "센텔리안",
-    "product": "(10%결제할인)마데카크림 타이트 리프팅 50ml 4개+15ml 2개+사은품(1ml 10매+세럼30ml)_스타배송(판)_BA",
+    "product": "마데카크림 타이트 리프팅 50ml 4개+15ml 2개_스타배송(판)_BA",
     "price": 54130,
     "link": "https://m.gmarket.co.kr/vi/product/4448101605",
     "slot_id": "260531",
     "pgm": "메가뷰티서브4",
     "category": "뷰티"
+   },
+   {
+    "start": "21:00",
+    "end": "22:00",
+    "brand": "로보락",
+    "product": "스팀 Ver. 로보락 S10 MaxV Ultra Steam 직배수 로봇청소기 스팀모델",
+    "price": 2040000,
+    "link": "https://m.gmarket.co.kr/vi/product/4871560558",
+    "slot_id": "262034",
+    "pgm": "[앵콜]🖤블랙프라이데이🖤 로보락 특별라이브",
+    "rerun": true,
+    "category": "가전"
    }
   ],
   "2026-11-28": [
+   {
+    "start": "10:00",
+    "end": "11:00",
+    "brand": "아벤느",
+    "product": "아벤느 이드랑스 에센스 인 로션 200ml 2개 +25ml 2개+클렌징젤 15ml 2개 +체험키트 4개 증정",
+    "price": 35900,
+    "link": "https://m.gmarket.co.kr/vi/product/4662756301",
+    "slot_id": "262018",
+    "pgm": "[앵콜]더마코스메틱 아벤느 겨울 보습 필수템 최대44%",
+    "rerun": true,
+    "category": "뷰티"
+   },
    {
     "start": "13:00",
     "end": "13:05",
@@ -7080,9 +7084,54 @@
     "link": "https://player.sauceflex.com/broadcast/lkebay-bc1cca461b644e8792becf8839ad3c09",
     "slot_id": "261011",
     "pgm": "🧥견고한 일꼬르소 다운 점퍼"
+   },
+   {
+    "start": "18:00",
+    "end": "18:05",
+    "brand": "지오다노",
+    "product": "",
+    "price": 0,
+    "link": "https://player.sauceflex.com/broadcast/lkebay-8431fbf07d664485ad13a81783fb234f",
+    "slot_id": "262011",
+    "pgm": "🧥지오다노 겨울 아우터 특가전",
+    "category": "가전"
    }
   ],
   "2026-11-29": [
+   {
+    "start": "10:00",
+    "end": "11:00",
+    "brand": "코스메이트",
+    "product": "바세린 모이스처 바디로션 1078ml 2개+핸드크림 60ml (블프행사) 향기좋은 고보습 바디크림",
+    "price": 13700,
+    "link": "https://m.gmarket.co.kr/vi/product/4296868159",
+    "slot_id": "262019",
+    "pgm": "[앵콜]성수팅글랩🫧보습명가 바세린&모발케어 코스메이트",
+    "rerun": true,
+    "category": "뷰티"
+   },
+   {
+    "start": "11:00",
+    "end": "12:00",
+    "brand": "뷰카",
+    "product": "(무조건패키지) 뷰카 고불소 구취케어 치약 12개 + 점보칫솔 10개 +핸드크림 60ml 증정 (향 랜덤)",
+    "price": 51900,
+    "link": "https://m.gmarket.co.kr/vi/product/4157392520",
+    "slot_id": "262013",
+    "pgm": "[앵콜]온가족필수템!치약·칫솔 초특가,뷰카 무조권사는날",
+    "rerun": true,
+    "category": "서비스·렌탈"
+   },
+   {
+    "start": "13:00",
+    "end": "14:01",
+    "brand": "메디니스",
+    "product": "(역마진 대특가) 리퍼상품 전자동 경추 거북목 일자목 치료기 메디니스 넥필 목견인기 MDM-3577",
+    "price": 329750,
+    "link": "https://m.gmarket.co.kr/vi/product/4814868718",
+    "slot_id": "262032",
+    "pgm": "누워서 거북목 치료하기🧘최저가 보장"
+   },
    {
     "start": "18:00",
     "end": "18:05",
@@ -7094,15 +7143,49 @@
     "pgm": "❄️미끄럼 없이 안전하게! 행텐 생활방수 겨울신발"
    },
    {
+    "start": "18:00",
+    "end": "18:05",
+    "brand": "푸마",
+    "product": "",
+    "price": 0,
+    "link": "https://player.sauceflex.com/broadcast/lkebay-c2b8e7ef99564f97b05aaf8759b46fdb",
+    "slot_id": "262012",
+    "pgm": "🔥거슬림 없이 편하게! 푸마 엠보기모 이너웨어"
+   },
+   {
+    "start": "19:00",
+    "end": "20:01",
+    "brand": "아망떼",
+    "product": "아망떼 포근 부드러운 극세사 담요 블랭킷/ 무릎담요 사무실 캠핑 패턴",
+    "price": 14900,
+    "link": "https://m.gmarket.co.kr/vi/product/1895857877",
+    "slot_id": "261022",
+    "pgm": "[앵콜]본격추위시작!아망떼 극세사 이불을 스타배송으로",
+    "rerun": true,
+    "category": "가구·침구"
+   },
+   {
     "start": "20:00",
     "end": "21:00",
     "brand": "카파",
-    "product": "카파키즈 숏 패딩 점퍼 유니 3컬러 택1",
-    "price": 53220,
-    "link": "https://m.gmarket.co.kr/vi/product/4900984977",
+    "product": "카파 웰론 벤치 패딩 코트 블랙 유니 블랙",
+    "price": 134000,
+    "link": "https://m.gmarket.co.kr/vi/product/4909732999",
     "slot_id": "260527",
-    "pgm": "카파 X 카파키즈 FW 베스트 의류 특가",
-    "category": "유아동"
+    "pgm": "♥카파 겨울 아우터/맨투맨/팬츠 한파 특가♥",
+    "category": "여성패션"
+   },
+   {
+    "start": "21:00",
+    "end": "22:30",
+    "brand": "삼성",
+    "product": "삼성 Mini LED TV 4K 163cm(65인치) KU65MH75AFXKR 스탠드 (1등급)",
+    "price": 1185000,
+    "link": "https://m.gmarket.co.kr/vi/product/4720918661",
+    "slot_id": "262020",
+    "pgm": "[앵콜] 삼성 가전",
+    "rerun": true,
+    "category": "가전"
    }
   ],
   "2026-11-30": [
@@ -7114,17 +7197,63 @@
     "price": 0,
     "link": "https://player.sauceflex.com/broadcast/lkebay-c291fd9126af48b09f628ae84936ec5e",
     "slot_id": "261018",
-    "pgm": "성수팅글랩🫧아모레"
+    "pgm": "성수팅글랩🫧아모레 메가브랜드위크 에스트라 36%할인!"
+   },
+   {
+    "start": "10:00",
+    "end": "11:00",
+    "brand": "쿠쿠",
+    "product": "쿠쿠 6인용 IH전기압력밥솥 CRP-DHPNL0615FGG",
+    "price": 240170,
+    "link": "https://m.gmarket.co.kr/vi/product/4790091476",
+    "slot_id": "262021",
+    "pgm": "[앵콜] G라이브 x 쿠쿠",
+    "rerun": true,
+    "category": "가전"
+   },
+   {
+    "start": "11:00",
+    "end": "11:05",
+    "brand": "인정푸드테크",
+    "product": "",
+    "price": 0,
+    "link": "https://player.sauceflex.com/broadcast/lkebay-cc63fa1a8c7b4e5e9a42c79a6ea35cbe",
+    "slot_id": "262014",
+    "pgm": "🍚할머니표 손맛, 안흥식품 찐빵 3종 한입에!"
+   },
+   {
+    "start": "11:00",
+    "end": "12:30",
+    "brand": "LG전자",
+    "product": "LG 오브제컬렉션 드럼세탁기 건조기세트 FX25ENR-GNG 25KG+20KG",
+    "price": 2488000,
+    "link": "https://m.gmarket.co.kr/vi/product/4655358690",
+    "slot_id": "262022",
+    "pgm": "[앵콜]BLACK FRIDAY,LG가전 역대급 쇼핑혜택",
+    "rerun": true,
+    "category": "가전"
    },
    {
     "start": "12:00",
     "end": "13:00",
     "brand": "베베노",
+    "product": "베베노 신생아  아기 실리콘 약병 약통 15ml 1개입",
+    "price": 7000,
+    "link": "https://m.gmarket.co.kr/vi/product/4907953321",
+    "slot_id": "261012",
+    "pgm": "[소상한지마켓] 베베노",
+    "category": "유아동"
+   },
+   {
+    "start": "13:00",
+    "end": "13:05",
+    "brand": "자일렉",
     "product": "",
     "price": 0,
-    "link": "https://player.sauceflex.com/broadcast/lkebay-3cb7d1a317314e3ba1edfda74697aec8",
-    "slot_id": "261012",
-    "pgm": "[소상한지마켓] 베베노"
+    "link": "https://player.sauceflex.com/broadcast/lkebay-a2ec643e43f0468e85ef0803371acbf6",
+    "slot_id": "262015",
+    "pgm": "🍳유리 바스켓으로 건강하게! 자일렉 에어프라이어",
+    "category": "가전"
    },
    {
     "start": "19:00",

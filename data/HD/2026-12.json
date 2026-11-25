@@ -1,0 +1,105 @@
+{
+ "company": "HD",
+ "channel": "showra",
+ "month": "2026-12",
+ "updated_at": "2026-11-26T08:14:23+09:00",
+ "days": {
+  "2026-12-01": [
+   {
+    "start": "09:00",
+    "end": "09:59",
+    "brand": "헤지스",
+    "product": "HIBA6E337W3 H-EDGE 시그니처 H 브라운 스웨이드 숄더백 M HIBA6E337E9",
+    "price": 342400,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249551383",
+    "slot_id": "202612016004",
+    "items": [
+     {
+      "brand": "헤지스",
+      "product": "HIBA6E337W3 H-EDGE 시그니처 H 브라운 스웨이드 숄더백 M HIBA6E337E9",
+      "price": 342400,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249551383"
+     }
+    ],
+    "title": "[헤지스ACC] 겨울 필수템! 머플러&장갑 3만원대부터",
+    "pgm": "백화점 프리오픈쇼(멀티커머스)"
+   },
+   {
+    "start": "13:00",
+    "end": "13:59",
+    "brand": "스텐팩토리",
+    "product": "올스텐 304 이동식 세탁바구니 빨래바구니 2단세트",
+    "price": 139000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2244279586",
+    "slot_id": "202612016008",
+    "items": [
+     {
+      "brand": "스텐팩토리",
+      "product": "올스텐 304 이동식 세탁바구니 빨래바구니 2단세트",
+      "price": 139000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2244279586"
+     }
+    ],
+    "title": "[스텐펙토리] 믿고 쓰는 스텐 304",
+    "pgm": "[스텐팩토리] 빨래바구니 (리빙)"
+   },
+   {
+    "start": "14:00",
+    "end": "14:59",
+    "brand": "캘빈클라인",
+    "product": "남자속옷 드로즈 마이크로파이버 스트레치 크로마틱 3매 세트 NP2851O-UB1",
+    "price": 51300,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257755837",
+    "slot_id": "202612016009",
+    "items": [
+     {
+      "brand": "캘빈클라인",
+      "product": "남자속옷 드로즈 마이크로파이버 스트레치 크로마틱 3매 세트 NP2851O-UB1",
+      "price": 51300,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257755837"
+     }
+    ],
+    "title": "[캘빈클라인] 드로즈/브라팬티외 언더웨어 특별전",
+    "pgm": "[캘빈클라인] 언더웨어 (패션1Lab)"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "조지루시",
+    "product": "[공식판매점] 조지루시 가열식 1.8L 미니 가습기 공식 AS가능 EE-MAH20K",
+    "price": 242760,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253255207",
+    "slot_id": "202612016013",
+    "items": [
+     {
+      "brand": "조지루시",
+      "product": "[공식판매점] 조지루시 가열식 1.8L 미니 가습기 공식 AS가능 EE-MAH20K",
+      "price": 242760,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253255207"
+     }
+    ],
+    "title": "조지루시 가습기 연중최대특가",
+    "pgm": "[조지루시] 가습기 (주방)"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "한국귀금속보석거래소",
+    "product": "24K 순금 행운의 부적 0.1g 카드 한귀보 미니골드바",
+    "price": 48100,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258348580",
+    "slot_id": "202612016015",
+    "items": [
+     {
+      "brand": "한국귀금속보석거래소",
+      "product": "24K 순금 행운의 부적 0.1g 카드 한귀보 미니골드바",
+      "price": 48100,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258348580"
+     }
+    ],
+    "title": "[한국귀금속보석거래소] 행운의 부적부터 실버바까지~",
+    "pgm": "[한국귀금속보석거래소] 금 (패션잡화)"
+   }
+  ]
+ }
+}
