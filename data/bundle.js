@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-25T10:00:11+09:00",
+ "generated_at": "2026-11-25T10:21:02+09:00",
  "today": "2026-11-25",
  "dates": [
   "2026-11-24",
@@ -379,7 +379,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 18K 반값이상▼ 한정수량 오픈!",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 3
+     "hot": 10
     },
     {
      "start": "07:00",
@@ -418,7 +418,7 @@ window.SCHEDULE = {
      ],
      "title": "써스데이아일랜드 인기템 방송 중 최대 55%▼",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "09:00",
@@ -437,8 +437,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[쿠론] 홀리데이 스타일링 아이템 UP TO 60%",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 4
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "10:00",
@@ -2087,7 +2086,8 @@ window.SCHEDULE = {
      "title": "[맘만하니] 유팡 젖병소독기 21주년 기념 단톡 특가+최대 혜택🎊",
      "pgm": "맘만하니",
      "pgm_cd": "1100",
-     "category": "유아동"
+     "category": "유아동",
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -2101,7 +2101,8 @@ window.SCHEDULE = {
      "pgm": "인플루언서LIVE",
      "pgm_cd": "1052",
      "category": "주방·잡화",
-     "cast": "influencer"
+     "cast": "influencer",
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -5970,8 +5971,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 9
+     "category": "테크"
     },
     {
      "start": "00:50",
@@ -6635,8 +6635,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 5
+     "category": "테크"
     },
     {
      "start": "09:50",
@@ -6711,7 +6710,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -6878,7 +6878,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -7063,7 +7064,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -17567,8 +17569,7 @@ window.SCHEDULE = {
      "slot_id": "61948",
      "pgm": "멜릭서 립케어 2+1 구성",
      "title": "구매금액별 미스트/파우치증정",
-     "category": "뷰티",
-     "hot": 10
+     "category": "뷰티"
     },
     {
      "start": "08:30",
@@ -17581,7 +17582,7 @@ window.SCHEDULE = {
      "pgm": "[~60%] 생리대&청결제",
      "title": "블랙프라이데이 LIVE",
      "category": "리빙",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -18767,7 +18768,7 @@ window.SCHEDULE = {
    "2026-11-24",
    "2026-11-25"
   ],
-  "matched": 17,
+  "matched": 18,
   "unmatched": 2
  },
  "fixed": {
