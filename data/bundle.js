@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-25T09:00:21+09:00",
+ "generated_at": "2026-11-25T09:20:47+09:00",
  "today": "2026-11-25",
  "dates": [
   "2026-11-24",
@@ -2034,8 +2034,7 @@ window.SCHEDULE = {
      "title": "다시보는 까사렐 가을SALE🤍 26 윈터시즌 신상 방송중 추가 할인🤍",
      "pgm": "라이브쇼",
      "pgm_cd": "0146",
-     "category": "여성패션",
-     "hot": 9
+     "category": "여성패션"
     },
     {
      "start": "08:00",
@@ -2049,7 +2048,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "1016",
      "category": "가전",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "09:00",
@@ -5972,7 +5971,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "00:50",
@@ -6637,7 +6636,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "09:50",
@@ -17568,7 +17567,8 @@ window.SCHEDULE = {
      "slot_id": "61948",
      "pgm": "멜릭서 립케어 2+1 구성",
      "title": "구매금액별 미스트/파우치증정",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 10
     },
     {
      "start": "08:30",
