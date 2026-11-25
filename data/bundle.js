@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-25T10:40:16+09:00",
+ "generated_at": "2026-11-25T11:00:25+09:00",
  "today": "2026-11-25",
  "dates": [
   "2026-11-24",
@@ -417,7 +417,7 @@ window.SCHEDULE = {
      ],
      "title": "써스데이아일랜드 인기템 방송 중 최대 55%▼",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "09:00",
@@ -456,7 +456,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 몽클레어 패딩 월 1만원대~",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 10
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -2102,7 +2102,7 @@ window.SCHEDULE = {
      "pgm_cd": "1052",
      "category": "주방·잡화",
      "cast": "influencer",
-     "hot": 7
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -2129,7 +2129,7 @@ window.SCHEDULE = {
      "pgm": "스타일 나래이션",
      "pgm_cd": "1116",
      "category": "여성패션",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -6712,7 +6712,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 3
+     "hot": 1
     },
     {
      "start": "10:00",
@@ -7066,7 +7066,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -17583,7 +17583,7 @@ window.SCHEDULE = {
      "pgm": "[~60%] 생리대&청결제",
      "title": "블랙프라이데이 LIVE",
      "category": "리빙",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "10:00",
