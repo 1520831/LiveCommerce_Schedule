@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-25T09:20:47+09:00",
+ "generated_at": "2026-11-25T09:42:07+09:00",
  "today": "2026-11-25",
  "dates": [
   "2026-11-24",
@@ -437,7 +437,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[쿠론] 홀리데이 스타일링 아이템 UP TO 60%",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -2047,8 +2048,7 @@ window.SCHEDULE = {
      "title": "다시보는 쿠쿠 밥솥 카드 5%+적립 10% 가장 큰 혜택🎁",
      "pgm": "라이브쇼",
      "pgm_cd": "1016",
-     "category": "가전",
-     "hot": 8
+     "category": "가전"
     },
     {
      "start": "09:00",
@@ -6636,7 +6636,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "09:50",
@@ -17568,7 +17568,7 @@ window.SCHEDULE = {
      "pgm": "멜릭서 립케어 2+1 구성",
      "title": "구매금액별 미스트/파우치증정",
      "category": "뷰티",
-     "hot": 10
+     "hot": 8
     },
     {
      "start": "08:30",
@@ -18768,7 +18768,7 @@ window.SCHEDULE = {
    "2026-11-25"
   ],
   "matched": 17,
-  "unmatched": 3
+  "unmatched": 2
  },
  "fixed": {
   "rows": [
