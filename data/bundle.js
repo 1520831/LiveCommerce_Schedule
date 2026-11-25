@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-25T18:02:54+09:00",
+ "generated_at": "2026-11-25T19:00:19+09:00",
  "today": "2026-11-25",
  "dates": [
   "2026-11-24",
@@ -2771,8 +2771,7 @@ window.SCHEDULE = {
      "title": "[맘만하니] 유팡 젖병소독기 21주년 기념 단톡 특가+최대 혜택🎊",
      "pgm": "맘만하니",
      "pgm_cd": "1100",
-     "category": "유아동",
-     "hot": 9
+     "category": "유아동"
     },
     {
      "start": "10:00",
@@ -3064,7 +3063,8 @@ window.SCHEDULE = {
      "title": "제니데이 데이슬림 다이어트 발포비타민 💛첫런칭💛",
      "pgm": "브랜디드 라이브쇼",
      "pgm_cd": "1130",
-     "category": "식품·건강"
+     "category": "식품·건강",
+     "hot": 8
     },
     {
      "start": "18:00",
@@ -7460,7 +7460,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -7899,8 +7899,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "라이프",
-     "hot": 10
+     "category": "라이프"
     },
     {
      "start": "11:00",
@@ -9450,7 +9449,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 10
     },
     {
      "start": "18:00",
