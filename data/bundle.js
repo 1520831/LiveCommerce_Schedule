@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-25T11:21:57+09:00",
+ "generated_at": "2026-11-25T11:40:12+09:00",
  "today": "2026-11-25",
  "dates": [
   "2026-11-24",
@@ -474,7 +474,7 @@ window.SCHEDULE = {
      ],
      "title": "전문가 시공매트 + 아이방 + 무상 업그레이드",
      "pgm": "[파크론] 제로블럭 (액티브라이프)",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "12:00",
@@ -6711,7 +6711,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 2
+     "hot": 4
     },
     {
      "start": "10:00",
@@ -6879,7 +6879,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 3
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -7065,7 +7065,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "푸드",
-     "hot": 4
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -7663,7 +7663,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "라이프",
-     "hot": 5
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -8026,7 +8026,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 7
+     "hot": 3
     },
     {
      "start": "11:00",
