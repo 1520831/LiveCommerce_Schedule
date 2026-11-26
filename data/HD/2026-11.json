@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-11",
- "updated_at": "2026-11-26T18:00:52+09:00",
+ "updated_at": "2026-11-26T23:31:18+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -8974,14 +8974,14 @@
     "end": "17:59",
     "brand": "DIFF(디프)",
     "product": "[디프(DIFF)] 크로스백 M 시그니처 (블랙)",
-    "price": 57600,
+    "price": 60800,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253911349",
     "slot_id": "202611266011",
     "items": [
      {
       "brand": "DIFF(디프)",
       "product": "[디프(DIFF)] 크로스백 M 시그니처 (블랙)",
-      "price": 57600,
+      "price": 60800,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253911349"
      }
     ],
@@ -9030,16 +9030,16 @@
     "start": "20:00",
     "end": "20:59",
     "brand": "펜할리곤스",
-    "product": "[비밀상점] 26 홀리데이 미니 세트 힘",
-    "price": 96000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257671079",
+    "product": "26 홀리데이 12데이즈 어드벤트 캘린더(+바디 샘플 30ml 2종 증정)",
+    "price": 384000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257671027",
     "slot_id": "202611266014",
     "items": [
      {
       "brand": "펜할리곤스",
-      "product": "[비밀상점] 26 홀리데이 미니 세트 힘",
-      "price": 96000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257671079"
+      "product": "26 홀리데이 12데이즈 어드벤트 캘린더(+바디 샘플 30ml 2종 증정)",
+      "price": 384000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257671027"
      }
     ],
     "title": "[펜할리곤스] 26년 홀리데이 에디션 출시",
@@ -9756,16 +9756,16 @@
     "start": "22:00",
     "end": "22:59",
     "brand": "장폴클라리쎄",
-    "product": "바게트 큐빅 롱 슬림 자동핀 JP-26-036AB",
-    "price": 59000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248990056",
+    "product": "블랙 플라워 비즈 헤어밴드 JC047HB (정가:399000)",
+    "price": 399000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258474835",
     "slot_id": "202611286007",
     "items": [
      {
       "brand": "장폴클라리쎄",
-      "product": "바게트 큐빅 롱 슬림 자동핀 JP-26-036AB",
-      "price": 59000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2248990056"
+      "product": "블랙 플라워 비즈 헤어밴드 JC047HB (정가:399000)",
+      "price": 399000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258474835"
      }
     ],
     "title": "[장폴클라리쎄] 고급 헤어 주얼리 겨울 신상 최초 공개",
