@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-12",
- "updated_at": "2026-11-26T23:31:33+09:00",
+ "updated_at": "2026-11-27T07:01:51+09:00",
  "days": {
   "2026-12-01": [
    {
@@ -172,6 +172,142 @@
     "pgm": "샐리/티뷰 카쇼라 특가",
     "title": "한겨울 대비 특가",
     "category": "패션"
+   }
+  ],
+  "2026-12-02": [
+   {
+    "start": "08:30",
+    "end": "10:00",
+    "brand": "센녹",
+    "product": "[홀리데이 한정기프트] 헤어 에센스 오일 60ML 4종 택1 (+윈터에디션 장갑증정)",
+    "price": 25600,
+    "link": "https://gift.kakao.com/product/7695934?url=product&cId=7695934",
+    "slot_id": "62182",
+    "pgm": "센녹이 준비한 홀리데이 선물",
+    "title": "카카오 단독 ~25%OFF",
+    "category": "뷰티"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "히말라야코리아",
+    "product": "[히말라야] 끈적임 없는 대용량 온가족 허브 바디로션 400ml",
+    "price": 54000,
+    "link": "https://store.kakao.com/himalayakorea/products/43793239",
+    "slot_id": "62011",
+    "pgm": "히말라야 온가족 보습케어",
+    "title": "너리싱&코코아 바디로션",
+    "category": "뷰티"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "파파야나인",
+    "product": "파파야나인 9세대 벤츠 지바겐 무소음 푸쉬카 붕붕카 아기자동차",
+    "price": 710000,
+    "link": "https://store.kakao.com/papaya9/products/717281535",
+    "slot_id": "62115",
+    "pgm": "파파야나인 푸쉬카 기획전",
+    "title": "크리스마스 전 도착",
+    "category": "키즈"
+   },
+   {
+    "start": "10:00",
+    "end": "11:30",
+    "brand": "JHP",
+    "product": "JHP 모로코 아르간 헤어에센스 헤어오일 외 비듬/볼륨샴푸/가려움완화크림/단백질 헤어팩 베스트모음전",
+    "price": 130000,
+    "link": "https://store.kakao.com/jhpcosmetics96/products/151473107",
+    "slot_id": "62187",
+    "pgm": "JHP BIG SALE",
+    "title": "창고 대방출 특가전",
+    "category": "뷰티"
+   },
+   {
+    "start": "17:00",
+    "end": "18:30",
+    "brand": "홍익상회",
+    "product": "[홍익상회]  팔팔닭갈비 500g 2인분 x 3팩 100% 닭다리살 진짜 춘천닭갈비",
+    "price": 38000,
+    "link": "https://store.kakao.com/hongikmarket/products/570855252",
+    "slot_id": "62279",
+    "pgm": "홍익상회 닭다리살 팔팔닭갈비",
+    "title": "최대 42% 할인행사!",
+    "category": "식품"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "로보락 브랜드 스토어",
+    "product": "[스팀 Ver.] 로보락 S10 MaxV Ultra Steam 로봇청소기",
+    "price": 1890000,
+    "link": "https://store.kakao.com/roborock/products/794696339",
+    "slot_id": "62086",
+    "pgm": "로보락 S10 스팀 신제품",
+    "title": "2+3 총 5년 무상 A/S",
+    "category": "테크"
+   },
+   {
+    "start": "19:00",
+    "end": "22:00",
+    "brand": "웹투어(주)",
+    "product": "[더앤리조트 호텔앤스파 양양] 룸온리 / 조식&가든온 패키지_패키지 연박시 F&B 특전",
+    "price": 65000,
+    "link": "https://store.kakao.com/webtour/products/398787796",
+    "slot_id": "62154",
+    "pgm": "온천 여행 추천! 더앤리조트",
+    "title": "조식+온천+특전 12만~",
+    "category": "여행"
+   },
+   {
+    "start": "19:00",
+    "end": "20:30",
+    "brand": "동서식품 공식몰",
+    "product": "오레오 윈터에디션 10개(5+5) 골라담기",
+    "price": 14100,
+    "link": "https://store.kakao.com/dongsuhmall/products/408993949",
+    "slot_id": "62208",
+    "pgm": "동서식품 쎈딜 라이브!!",
+    "title": "오레오 / 포스트 / 캔커피",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "22:00",
+    "brand": "신선닭갈비",
+    "product": "춘천 닭갈비 캠핑 한입1kg*2",
+    "price": 31000,
+    "link": "https://store.kakao.com/leetwo/products/51056329",
+    "slot_id": "62075",
+    "pgm": "신선닭갈비 캠핑 필수템!",
+    "title": "전국별미 푸드톡딜 라이브",
+    "category": "식품"
+   },
+   {
+    "start": "20:30",
+    "end": "23:30",
+    "brand": "프론투라인",
+    "product": "프론투라인 겨울 필수템 아우터/집업/기모 상의 모음",
+    "price": 159000,
+    "link": "https://store.kakao.com/front2line/products/817886679",
+    "slot_id": "62199",
+    "pgm": "포근한 겨울웜웨어_프론투라인",
+    "title": "FW베스트 특가+무료배송",
+    "category": "패션"
+   },
+   {
+    "start": "20:30",
+    "end": "23:30",
+    "brand": "웹투어(주)",
+    "product": "[그래비티 서울 조선 판교] 웰컴그래비티/조식 1+1/프리미어 F&B 패키지_아몬드 플로랑탱+인원추가무료+수영장 1회 추가 등",
+    "price": 540000,
+    "link": "https://store.kakao.com/webtour/products/527849781",
+    "slot_id": "62458",
+    "pgm": "그래비티 조선 서울 판교",
+    "title": "오늘 혜택 종료!",
+    "category": "여행",
+    "rerun": true,
+    "rerun_of": "61479"
    }
   ]
  }

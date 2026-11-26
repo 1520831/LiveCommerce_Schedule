@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-12",
- "updated_at": "2026-11-26T23:31:26+09:00",
+ "updated_at": "2026-11-27T07:01:45+09:00",
  "days": {
   "2026-12-01": [
    {
@@ -131,6 +131,82 @@
     "pgm": "하우스윗",
     "pgm_cd": "1048",
     "category": "가구·침구"
+   }
+  ],
+  "2026-12-02": [
+   {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "",
+    "product": "옥스포드리딩트리X핫세맘🌈ORT 연말기념 역대급 사은품 49종 쏩니다!",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/32313",
+    "slot_id": "32313",
+    "title": "옥스포드리딩트리X핫세맘🌈ORT 연말기념 역대급 사은품 49종 쏩니다!",
+    "pgm": "인플루언서LIVE",
+    "pgm_cd": "1052"
+   },
+   {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "오리고",
+    "product": "26F/W 플리스 블랭킷 6color 3size",
+    "price": 25130,
+    "link": "https://item.cjonstyle.com/item/2046640839?channelCode=30002002",
+    "slot_id": "32080",
+    "title": "🎄연말 선물 추천💝오리고 플리스 블랭킷/홈실내화/찜질기/이불 특가",
+    "pgm": "브랜디드 라이브쇼",
+    "pgm_cd": "1130",
+    "category": "가구·침구"
+   },
+   {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "",
+    "product": "[똘똘한쇼] 100% 유기농! 고흥 햇살 머금은 향긋 유자 LIVE🍋",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/32434",
+    "slot_id": "32434",
+    "title": "[똘똘한쇼] 100% 유기농! 고흥 햇살 머금은 향긋 유자 LIVE🍋",
+    "pgm": "똘똘한쇼",
+    "pgm_cd": "1123"
+   },
+   {
+    "start": "18:00",
+    "end": "18:59",
+    "brand": "",
+    "product": "시세이도 올해 마지막❤️스킨파운데이션/홀리데이 에디션 세럼 역대 최대할인",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/32316",
+    "slot_id": "32316",
+    "title": "시세이도 올해 마지막❤️스킨파운데이션/홀리데이 에디션 세럼 역대 최대할인",
+    "pgm": "인플루언서LIVE",
+    "pgm_cd": "1052"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "아늑앳홈",
+    "product": "아늑한 사계절 먼지 없는 알러지케어 호텔 차렵이불 브라운 아이보리",
+    "price": 100000,
+    "link": "https://item.cjonstyle.com/item/2098180157?channelCode=30002002",
+    "slot_id": "32082",
+    "title": "집가구싶다X아늑앳홈🏠첫론칭 단잠+경추베개 최대혜택LIVE",
+    "pgm": "집가구싶다",
+    "pgm_cd": "1102",
+    "category": "가구·침구"
+   },
+   {
+    "start": "20:00",
+    "end": "20:59",
+    "brand": "",
+    "product": "브티나는생활 X 더청송💚 고소한 유기농 우리집티 단독구성 특가 찬스!",
+    "price": 0,
+    "link": "https://mlive.cjonstyle.com/m/preview/32083",
+    "slot_id": "32083",
+    "title": "브티나는생활 X 더청송💚 고소한 유기농 우리집티 단독구성 특가 찬스!",
+    "pgm": "브티나는 생활",
+    "pgm_cd": "0101"
    }
   ]
  }
