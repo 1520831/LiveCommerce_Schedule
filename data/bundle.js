@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-26T21:00:10+09:00",
+ "generated_at": "2026-11-26T22:00:09+09:00",
  "today": "2026-11-26",
  "dates": [
   "2026-11-25",
@@ -8444,7 +8444,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -8624,7 +8624,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -11187,7 +11187,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "패션",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "20:00",
@@ -24118,7 +24118,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4720918661",
      "slot_id": "261015",
      "pgm": "블랙프라이데이! 삼성 가전 11월 마지막 빅세일",
-     "category": "가전"
+     "category": "가전",
+     "hot": 5
     }
    ],
    "2026-11-27": [
@@ -26212,8 +26213,8 @@ window.SCHEDULE = {
    "2026-11-25",
    "2026-11-26"
   ],
-  "matched": 14,
-  "unmatched": 4
+  "matched": 15,
+  "unmatched": 3
  },
  "fixed": {
   "rows": [
