@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-27T08:00:13+09:00",
+ "generated_at": "2026-11-27T08:20:10+09:00",
  "today": "2026-11-27",
  "dates": [
   "2026-11-26",
@@ -417,7 +417,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[SOUP] 포근한 겨울 의류 최대 혜택💖",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)"
+     "pgm": "백화점 프리오픈쇼(멀티커머스)",
+     "hot": 7
     },
     {
      "start": "09:00",
@@ -7087,7 +7088,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "05:30",
@@ -23304,8 +23305,8 @@ window.SCHEDULE = {
    "2026-11-26",
    "2026-11-27"
   ],
-  "matched": 9,
-  "unmatched": 11
+  "matched": 10,
+  "unmatched": 9
  },
  "fixed": {
   "rows": [
