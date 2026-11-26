@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-26T19:00:09+09:00",
+ "generated_at": "2026-11-26T20:00:12+09:00",
  "today": "2026-11-26",
  "dates": [
   "2026-11-25",
@@ -7566,7 +7566,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -8444,7 +8444,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -8624,7 +8624,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "11:00",
@@ -9063,7 +9063,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "13:30",
@@ -10601,7 +10601,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 4
     },
     {
      "start": "19:00",
@@ -24015,7 +24016,7 @@ window.SCHEDULE = {
      "slot_id": "262007",
      "pgm": "BLACK FRIDAY,LG가전 역대급 쇼핑 혜택🔥",
      "category": "가전",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -24060,7 +24061,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4838559641",
      "slot_id": "260526",
      "pgm": "블랙프라이데이 LG그램&모니터",
-     "category": "디지털·PC"
+     "category": "디지털·PC",
+     "hot": 1
     },
     {
      "start": "20:00",
@@ -26209,8 +26211,8 @@ window.SCHEDULE = {
    "2026-11-25",
    "2026-11-26"
   ],
-  "matched": 11,
-  "unmatched": 7
+  "matched": 13,
+  "unmatched": 5
  },
  "fixed": {
   "rows": [
