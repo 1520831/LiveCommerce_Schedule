@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-11",
- "updated_at": "2026-11-26T08:14:23+09:00",
+ "updated_at": "2026-11-26T12:01:02+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -8421,14 +8421,14 @@
     "end": "11:59",
     "brand": "제로블럭",
     "product": "프리미엄1200 퍼즐매트 전문가 시공 2.0cm 20평 (120x120x2.0cm)",
-    "price": 2862000,
+    "price": 3042000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2230386210",
     "slot_id": "202611256004",
     "items": [
      {
       "brand": "제로블럭",
       "product": "프리미엄1200 퍼즐매트 전문가 시공 2.0cm 20평 (120x120x2.0cm)",
-      "price": 2862000,
+      "price": 3042000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2230386210"
      }
     ],
@@ -8592,14 +8592,14 @@
     "end": "19:59",
     "brand": "제로블럭",
     "product": "프리미엄1200 퍼즐매트 전문가 시공 2.0cm 20평 (120x120x2.0cm)",
-    "price": 2862000,
+    "price": 3042000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2230386210",
     "slot_id": "202611256022",
     "items": [
      {
       "brand": "제로블럭",
       "product": "프리미엄1200 퍼즐매트 전문가 시공 2.0cm 20평 (120x120x2.0cm)",
-      "price": 2862000,
+      "price": 3042000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2230386210"
      }
     ],
@@ -8839,17 +8839,17 @@
    {
     "start": "10:00",
     "end": "10:59",
-    "brand": "막스마라",
-    "product": "NOVEF 노베프 리버시블 다운 패딩 29496055600 019",
-    "price": 1007000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258496420",
+    "brand": "몽클레르",
+    "product": "몽클레어 26FW 네이비블루 믹스 구스 다운 자켓 9B00007 N0004 742",
+    "price": 1630000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258398424",
     "slot_id": "202611266004",
     "items": [
      {
-      "brand": "막스마라",
-      "product": "NOVEF 노베프 리버시블 다운 패딩 29496055600 019",
-      "price": 1007000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258496420"
+      "brand": "몽클레르",
+      "product": "몽클레어 26FW 네이비블루 믹스 구스 다운 자켓 9B00007 N0004 742",
+      "price": 1630000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258398424"
      }
     ],
     "title": "[투명쇼] 26FW 몽클레어 구스 다운 자켓 등",
@@ -9049,14 +9049,14 @@
     "start": "21:00",
     "end": "21:59",
     "brand": "보스",
-    "product": "[BOSE] 보스 울트라 오픈 이어버드 2세대",
+    "product": "[BOSE] 울트라 오픈 이어버드 2세대",
     "price": 359000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258470686",
     "slot_id": "202611266015",
     "items": [
      {
       "brand": "보스",
-      "product": "[BOSE] 보스 울트라 오픈 이어버드 2세대",
+      "product": "[BOSE] 울트라 오픈 이어버드 2세대",
       "price": 359000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258470686"
      }
@@ -9276,6 +9276,25 @@
     "pgm": "[애드너스] 생강청"
    },
    {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "밋앤밀",
+    "product": "해풍맞고 자란 무안 자색양파 중대혼합 3kg(개당 120∼240g)",
+    "price": 9200,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258513807",
+    "slot_id": "202611276009",
+    "items": [
+     {
+      "brand": "밋앤밀",
+      "product": "해풍맞고 자란 무안 자색양파 중대혼합 3kg(개당 120∼240g)",
+      "price": 9200,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258513807"
+     }
+    ],
+    "title": "산지직송 무안 자색양파 론칭 특별가",
+    "pgm": "[잭슨코리아] 자색양파 (쇼핑라이브)"
+   },
+   {
     "start": "16:00",
     "end": "16:59",
     "brand": "리얼그램",
@@ -9299,14 +9318,14 @@
     "end": "17:59",
     "brand": "스와로브스키",
     "product": "5514421 Dancing Swan 목걸이",
-    "price": 156900,
+    "price": 326000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2232483819",
     "slot_id": "202611276011",
     "items": [
      {
       "brand": "스와로브스키",
       "product": "5514421 Dancing Swan 목걸이",
-      "price": 156900,
+      "price": 326000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2232483819"
      }
     ],
@@ -9350,6 +9369,25 @@
     ],
     "title": "[현명쇼] 막스마라 코트 월 1만원대 ★곧 종료★",
     "pgm": "[재방] 현명쇼 (노블레스팀)"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "코아시스",
+    "product": "[피토메르][BEST] 올리고포스 세럼+토너+크림 3종 세트",
+    "price": 119000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258511627",
+    "slot_id": "202611276013",
+    "items": [
+     {
+      "brand": "코아시스",
+      "product": "[피토메르][BEST] 올리고포스 세럼+토너+크림 3종 세트",
+      "price": 119000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258511627"
+     }
+    ],
+    "title": "[피토메르] 프랑스 공식수입 正品 ★쇼라한정 추가구성★",
+    "pgm": "[코아시스] 피토메르 기초 (뷰티브랜드)"
    },
    {
     "start": "20:00",
@@ -9563,19 +9601,38 @@
     "pgm": "[재방] 루블리 주얼리 (멀티커머스)"
    },
    {
+    "start": "15:00",
+    "end": "15:59",
+    "brand": "밋앤밀",
+    "product": "풍기금계농장 GAP 고당도 정품 미얀마 부사사과 2kg 한입사과(11-13과)",
+    "price": 17600,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257543244",
+    "slot_id": "202611286003",
+    "items": [
+     {
+      "brand": "밋앤밀",
+      "product": "풍기금계농장 GAP 고당도 정품 미얀마 부사사과 2kg 한입사과(11-13과)",
+      "price": 17600,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257543244"
+     }
+    ],
+    "title": "영주 풍기금계농장 미얀마 부사사과 론칭 특별가",
+    "pgm": "[잭슨코리아] 부사사과"
+   },
+   {
     "start": "18:00",
     "end": "18:59",
     "brand": "키플링",
-    "product": "[타임찬스]키플링 토트백 에코백 뉴힙허레이 KLCBT23 DUPI",
-    "price": 12000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2203832790",
+    "product": "[본사공식]키플링 크로스백 미니백 갭S KPCBS27 NKBE",
+    "price": 129000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258392720",
     "slot_id": "202611286004",
     "items": [
      {
       "brand": "키플링",
-      "product": "[타임찬스]키플링 토트백 에코백 뉴힙허레이 KLCBT23 DUPI",
-      "price": 12000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2203832790"
+      "product": "[본사공식]키플링 크로스백 미니백 갭S KPCBS27 NKBE",
+      "price": 129000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258392720"
      }
     ],
     "title": "[키플링] 공식수입원 인기 아이템 1만원대~",
@@ -9599,6 +9656,25 @@
     ],
     "title": "[CJP 주얼리] 데일리 실버 주얼리 30%▼ 찬스",
     "pgm": "[씨제이피] 주얼리 (패션잡화)"
+   },
+   {
+    "start": "21:00",
+    "end": "21:59",
+    "brand": "케네스레이디",
+    "product": "루미클 테일러드 자켓 EMWJKQK460 EMWJKQK460",
+    "price": 263000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258446235",
+    "slot_id": "202611286006",
+    "items": [
+     {
+      "brand": "케네스레이디",
+      "product": "루미클 테일러드 자켓 EMWJKQK460 EMWJKQK460",
+      "price": 263000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258446235"
+     }
+    ],
+    "title": "[케네스레이디] 하객/출근룩 추천! 최대 76%▼",
+    "pgm": "백구쇼 (멀티커머스)"
    },
    {
     "start": "22:00",
@@ -9640,6 +9716,25 @@
    }
   ],
   "2026-11-29": [
+   {
+    "start": "00:00",
+    "end": "00:59",
+    "brand": "스노야",
+    "product": "[SNOYA]스노야 플로우핏 허그 셔닐자켓",
+    "price": 129000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2242316190",
+    "slot_id": "202611296011",
+    "items": [
+     {
+      "brand": "스노야",
+      "product": "[SNOYA]스노야 플로우핏 허그 셔닐자켓",
+      "price": 129000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2242316190"
+     }
+    ],
+    "title": "컬러테라피 스노야❤️ 인기 상품 특별가!",
+    "pgm": "[재방] 스노야 (패션3Lab)"
+   },
    {
     "start": "07:00",
     "end": "07:59",
@@ -9713,7 +9808,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253961266"
      }
     ],
-    "title": "프리미엄 예본모피 특가찬스전",
+    "title": "프리미엄 예본모피 특별가 찬스",
     "pgm": "[예본모피] 모피 (패션1Lab)"
    },
    {
@@ -9831,6 +9926,25 @@
     ],
     "title": "머티리얼랩 26 WINTER 최초 공개",
     "pgm": "[재방] 머티리얼랩 (패션3Lab)"
+   },
+   {
+    "start": "07:00",
+    "end": "07:59",
+    "brand": "MCRN",
+    "product": "[mcrn] (SET세트) 핑거탭+핸드스트랩(샤이닝카페) 폰스트랩",
+    "price": 45000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2245437802",
+    "slot_id": "202611306023",
+    "items": [
+     {
+      "brand": "MCRN",
+      "product": "[mcrn] (SET세트) 핑거탭+핸드스트랩(샤이닝카페) 폰스트랩",
+      "price": 45000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2245437802"
+     }
+    ],
+    "title": "[MCRN] 핸드메이드 폰스트랩 쇼핑 찬스💖",
+    "pgm": "[재방] MCRN 휴대폰스트랩 (패션잡화)"
    },
    {
     "start": "08:00",
@@ -10023,6 +10137,25 @@
     "pgm": "[해외직구] 일본 현지 방송"
    },
    {
+    "start": "20:00",
+    "end": "21:59",
+    "brand": "버버리",
+    "product": "켄트 롱 다운 패딩(8131875)",
+    "price": 2499000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252370968",
+    "slot_id": "202611306016",
+    "items": [
+     {
+      "brand": "버버리",
+      "product": "켄트 롱 다운 패딩(8131875)",
+      "price": 2499000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2252370968"
+     }
+    ],
+    "title": "[현명쇼] 버버리 구스패딩 월 3만원대 곧 종료",
+    "pgm": "현명쇼(노블레스)"
+   },
+   {
     "start": "22:00",
     "end": "22:59",
     "brand": "핏플랍",
@@ -10040,6 +10173,25 @@
     ],
     "title": "[핏플랍] BEST 부츠/로퍼 外 최대 30%▼",
     "pgm": "[핏플랍] 슈즈 (멀티커머스)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "JJ지고트",
+    "product": "울 핸드메이드 와이드 칼라 벨티드 코트 GSBM0CT921 GSBM0CT921",
+    "price": 329400,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258245780",
+    "slot_id": "202611306018",
+    "items": [
+     {
+      "brand": "JJ지고트",
+      "product": "울 핸드메이드 와이드 칼라 벨티드 코트 GSBM0CT921 GSBM0CT921",
+      "price": 329400,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258245780"
+     }
+    ],
+    "title": "[JJ지고트] 베이직 데일리룩부터 캐주얼 모임룩까지💖",
+    "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ]
  }

@@ -2,20 +2,34 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-12",
- "updated_at": "2026-11-26T08:14:37+09:00",
+ "updated_at": "2026-11-26T12:01:11+09:00",
  "days": {
   "2026-12-01": [
    {
+    "start": "10:00",
+    "end": "10:59",
+    "brand": "캐치티니핑",
+    "product": "베이비핑 노래하며 연주하는 베이비핑 피아노",
+    "price": 71900,
+    "link": "https://item.cjonstyle.com/item/2098858204?channelCode=30002002",
+    "slot_id": "32302",
+    "title": "맘만하니🎀미리 크리스마스 선물! 캐치티니핑 노트북/쥬얼스타폰 OPEN",
+    "pgm": "맘만하니",
+    "pgm_cd": "0099",
+    "category": "유아동"
+   },
+   {
     "start": "11:00",
     "end": "11:59",
-    "brand": "",
-    "product": "립프로그🎁아이스크림카트 외 우리 아이 연말 선물 총집합! 선물이 와르르",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/32315",
+    "brand": "립프로그",
+    "product": "[12-24개월] 아이스크림 카트 디럭스 한영버전 (민트초코/핑크/스트로베리초코) 역할놀이 소꿉놀이 두돌 장난감",
+    "price": 105000,
+    "link": "https://item.cjonstyle.com/item/2006610371?channelCode=30002002",
     "slot_id": "32315",
     "title": "립프로그🎁아이스크림카트 외 우리 아이 연말 선물 총집합! 선물이 와르르",
     "pgm": "인플루언서LIVE",
-    "pgm_cd": "1052"
+    "pgm_cd": "1052",
+    "category": "유아동"
    },
    {
     "start": "20:00",

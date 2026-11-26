@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-12",
- "updated_at": "2026-11-26T08:14:49+09:00",
+ "updated_at": "2026-11-26T12:01:19+09:00",
  "days": {
   "2026-12-01": [
    {
@@ -58,7 +58,7 @@
     "end": "18:30",
     "brand": "미식상회",
     "product": "[미식상회] 재구매 많은 이유 있는 맛! 100% 통참깨 저온압착 참기름/들기름",
-    "price": 21900,
+    "price": 12900,
     "link": "https://store.kakao.com/misic/products/64585397",
     "slot_id": "61927",
     "pgm": "미식상회 저온압착 참기름부터",
@@ -81,7 +81,7 @@
     "start": "17:00",
     "end": "18:30",
     "brand": "비윗유",
-    "product": "호주에서 온 특별한 프로폴리스, 비윗유 스프레이 30ml & 캔디세트 | 단품 | 1+1",
+    "product": "[연말 감사선물] 호주에서 온 특별한 프로폴리스, 비윗유 스프레이 30ml & 캔디세트 | 단품 | 1+1",
     "price": 29800,
     "link": "https://store.kakao.com/beewithyou/products/711423650",
     "slot_id": "62313",
@@ -141,8 +141,8 @@
     "start": "20:30",
     "end": "22:00",
     "brand": "아르베",
-    "product": "선물포장 [여행용100ml+쇼핑백 증정] 홀리데이 비터버터 바디워시&바디로션 선물세트 (무화과&우디)",
-    "price": 39900,
+    "product": "선물포장/ [여행용 워시 증정]  홀리데이 비터버터 바디워시&바디로션 선물세트 (무화과&우디)",
+    "price": 39500,
     "link": "https://gift.kakao.com/product/12320652?url=product&cId=12320652",
     "slot_id": "62073",
     "pgm": "아르베 리미티드 홀리데이",
