@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-26T20:00:12+09:00",
+ "generated_at": "2026-11-26T21:00:10+09:00",
  "today": "2026-11-26",
  "dates": [
   "2026-11-25",
@@ -11186,7 +11186,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "패션"
+     "category": "패션",
+     "hot": 8
     },
     {
      "start": "20:00",
@@ -11438,7 +11439,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 10
     },
     {
      "start": "20:00",
@@ -24015,8 +24017,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4729503571",
      "slot_id": "262007",
      "pgm": "BLACK FRIDAY,LG가전 역대급 쇼핑 혜택🔥",
-     "category": "가전",
-     "hot": 9
+     "category": "가전"
     },
     {
      "start": "11:00",
@@ -26211,8 +26212,8 @@ window.SCHEDULE = {
    "2026-11-25",
    "2026-11-26"
   ],
-  "matched": 13,
-  "unmatched": 5
+  "matched": 14,
+  "unmatched": 4
  },
  "fixed": {
   "rows": [
