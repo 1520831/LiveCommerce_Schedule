@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-12",
- "updated_at": "2026-11-26T12:01:19+09:00",
+ "updated_at": "2026-11-26T18:01:04+09:00",
  "days": {
   "2026-12-01": [
    {
@@ -37,7 +37,7 @@
     "price": 228000,
     "link": "https://gift.kakao.com/product/14688628?url=product&cId=14688628",
     "slot_id": "62354",
-    "pgm": "세시드X쎄씨약사X카쇼라",
+    "pgm": "세시드 카쇼라 최초 론칭",
     "title": "세럼/선세럼/앰플 ~41%",
     "category": "뷰티"
    },
@@ -73,7 +73,7 @@
     "price": 3400,
     "link": "https://store.kakao.com/mantteok/products/678920045",
     "slot_id": "62094",
-    "pgm": "2700원 떡볶이 무료배송",
+    "pgm": "2900원 떡볶이 무료배송",
     "title": "6+1 11+2 추가증정까지",
     "category": "식품"
    },

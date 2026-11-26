@@ -2,7 +2,7 @@
  "company": "KA",
  "channel": "shoppinglive",
  "month": "2026-11",
- "updated_at": "2026-11-26T12:01:19+09:00",
+ "updated_at": "2026-11-26T18:01:04+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -5566,18 +5566,6 @@
    {
     "start": "10:00",
     "end": "11:00",
-    "brand": "피토틱스 PHYTOTICS",
-    "product": "[1+1] 피토틱스 옐로우 프리미엄 100억 보장 한국인 질유래 유산균 외 2종",
-    "price": 119600,
-    "link": "https://store.kakao.com/phytotics/products/62875040",
-    "slot_id": "61774",
-    "pgm": "LIVE 옐로우프리미엄2+2",
-    "title": "역대급 블프 카쇼라!",
-    "category": "식품"
-   },
-   {
-    "start": "10:00",
-    "end": "11:00",
     "brand": "풀무원 공식 스토어",
     "product": "국산콩 생나또 12개(24팩), 매일아침 순생나또 등",
     "price": 32000,
@@ -5633,18 +5621,6 @@
     "slot_id": "61964",
     "pgm": "헤이미니 블프 오픈",
     "title": "카카오 초특가 LIVE!",
-    "category": "키즈"
-   },
-   {
-    "start": "11:30",
-    "end": "12:34",
-    "brand": "하기스",
-    "product": "2박스 NEW 하기스 최고급 스킨에센셜 밴드/팬티 기저귀 출산선물/백일선물",
-    "price": 139700,
-    "link": "https://gift.kakao.com/product/9872013?url=product&cId=9872013",
-    "slot_id": "62088",
-    "pgm": "하기스X카쇼라 베이비페어",
-    "title": "네이처메이드/스킨에센셜 외",
     "category": "키즈"
    },
    {
@@ -5931,7 +5907,7 @@
    },
    {
     "start": "11:30",
-    "end": "13:00",
+    "end": "12:30",
     "brand": "몰리멜리",
     "product": "몰리멜리 겨울신상베스트! 유아상하복/원피스/맨투맨/팬츠/아우터/등원룩/방한룩",
     "price": 89900,
@@ -5943,7 +5919,7 @@
    },
    {
     "start": "11:30",
-    "end": "13:00",
+    "end": "12:31",
     "brand": "AIRE",
     "product": "NEW 따뜻포근 국내생산 극세사/사계절 말랑 먼지없는 옥수수솜 차렵이불(세트) 10종 SS/Q",
     "price": 239900,
@@ -5955,7 +5931,7 @@
    },
    {
     "start": "16:00",
-    "end": "19:00",
+    "end": "17:23",
     "brand": "휩드",
     "product": "휩드 비건 휘핑 팩클렌저 130g 2+1",
     "price": 54900,
@@ -5984,7 +5960,7 @@
     "end": "19:30",
     "brand": "신선한 금박축산",
     "product": "[금박축산]한우 1등급 등심 300g",
-    "price": 28500,
+    "price": 26500,
     "link": "https://store.kakao.com/gpcompany/products/817963253",
     "slot_id": "62265",
     "pgm": "[금박축산] 한우 1등급",
@@ -6080,7 +6056,7 @@
     "end": "22:00",
     "brand": "순수식품",
     "product": "순수식품 rTG 알티지 오메가3 2박스(4개월분) 식물성캡슐 외 콘드로이친/종합비타민/칼슘/밀크씨슬 골라담기",
-    "price": 20900,
+    "price": 40000,
     "link": "https://store.kakao.com/soonsoofood/products/181199031",
     "slot_id": "61845",
     "pgm": "순수식품 오메가3 식물성캡슐",
@@ -6165,7 +6141,7 @@
     "start": "08:30",
     "end": "10:00",
     "brand": "킨도",
-    "product": "킨도X이브네 마지막 블프 SALE(기저귀 2박스+이브네 MD PICK 구매시 카카오페이 15,000원)",
+    "product": "킨도X이브네 마지막 블프 SALE (기저귀 2박스+이브네 MD PICK 구매시 카카오페이 15,000원)",
     "price": 214000,
     "link": "https://store.kakao.com/kindoh/products/199844314",
     "slot_id": "62166",
@@ -6238,7 +6214,7 @@
     "end": "12:30",
     "brand": "VSL3",
     "product": "[VSL3] 온가족 프리미엄 생유산균 냉장 프로바이오틱스 키즈/성인/임산부/비타민D",
-    "price": 64900,
+    "price": 116000,
     "link": "https://store.kakao.com/vslofficial/products/328778108",
     "slot_id": "62368",
     "pgm": "VSL3 블프기념 라이브할인",
@@ -6310,7 +6286,7 @@
     "end": "18:30",
     "brand": "청년상점",
     "product": "(2026 햇밤입고) 칼집약단밤 1kg 외 공주 햇 밤 / 마카다미아 고소하고 맛있는 햇 밤",
-    "price": 9900,
+    "price": 38000,
     "link": "https://store.kakao.com/youngstore/products/484577949",
     "slot_id": "62230",
     "pgm": "햇밤입고 칼집약단밤 1kg",
@@ -6334,12 +6310,12 @@
     "end": "20:30",
     "brand": "바디앤",
     "product": "바디앤 EMS 트위핏 발마사지기+리프팅겔",
-    "price": 189000,
+    "price": 534000,
     "link": "https://store.kakao.com/bodyand/products/808683513",
     "slot_id": "61916",
     "pgm": "조보아 PICK 바디앤",
     "title": "트위핏 런칭 특가",
-    "category": "뷰티"
+    "category": "테크"
    },
    {
     "start": "19:00",
@@ -6349,8 +6325,8 @@
     "price": 55000,
     "link": "https://store.kakao.com/serieglobal/products/800357726",
     "slot_id": "61939",
-    "pgm": "세리 마스크팩 라이브 특가!",
-    "title": "뉴욕 완판템 카카오 입점",
+    "pgm": "세리 마스크팩 외 색조템",
+    "title": "뉴욕 완판템 카카오 입점혜택",
     "category": "뷰티"
    },
    {
@@ -6423,7 +6399,7 @@
     "slot_id": "62091",
     "pgm": "트라이에이드 마사지볼",
     "title": "스포츠 여신들의 선택!!",
-    "category": "리빙"
+    "category": "테크"
    },
    {
     "start": "20:30",
@@ -6447,7 +6423,7 @@
     "slot_id": "62337",
     "pgm": "브라운 브랜드데이 특집",
     "title": "프로모션 마지막 라이브",
-    "category": "뷰티"
+    "category": "테크"
    },
    {
     "start": "22:30",
@@ -6652,7 +6628,7 @@
     "end": "11:30",
     "brand": "CJ제일제당 공식 스토어",
     "product": "햇반 잡곡 테이스팅세트 24입 외 백미/잡곡 36개,24개 실속구성",
-    "price": 66000,
+    "price": 34900,
     "link": "https://store.kakao.com/cheiljedang/products/149592517",
     "slot_id": "61986",
     "pgm": "CJ제일제당과 든든한 한 끼",
@@ -6795,6 +6771,18 @@
    },
    {
     "start": "10:00",
+    "end": "11:30",
+    "brand": "투엘브어클락",
+    "product": "안경만두 손난로 보조배터리",
+    "price": 22900,
+    "link": "https://gift.kakao.com/product/14649910?url=product&cId=14649910",
+    "slot_id": "62096",
+    "pgm": "안경만두 손난로 보조배터리",
+    "title": "따뜻한 겨울 선물하기",
+    "category": "테크"
+   },
+   {
+    "start": "10:00",
     "end": "13:00",
     "brand": "프렌즈테크",
     "product": "[환절기선물] \"초음파 분무로 촉촉하게\" 어항가습기_춘식이",
@@ -6816,18 +6804,6 @@
     "pgm": "[잉코] 따뜻한 엉뜨 방석",
     "title": "앵콜 특가 모음전!",
     "category": "테크"
-   },
-   {
-    "start": "10:00",
-    "end": "11:30",
-    "brand": "광동생활건강",
-    "product": "카멕스 모이스처라이징 체리 스틱 3PK 1박스 외 2종",
-    "price": 20000,
-    "link": "https://store.kakao.com/kdwell/products/327140624",
-    "slot_id": "62448",
-    "pgm": "광동 카멕스 99 블프전",
-    "title": "오직 카카오에서만 진행하는",
-    "category": "뷰티"
    },
    {
     "start": "11:30",
@@ -6916,26 +6892,28 @@
    {
     "start": "20:30",
     "end": "22:00",
-    "brand": "투엘브어클락",
-    "product": "안경만두 손난로 보조배터리",
-    "price": 22900,
-    "link": "https://gift.kakao.com/product/14649910?url=product&cId=14649910",
-    "slot_id": "62096",
-    "pgm": "안경만두 손난로 보조배터리",
-    "title": "따뜻한 겨울 선물하기",
-    "category": "테크"
-   },
-   {
-    "start": "20:30",
-    "end": "22:00",
     "brand": "바운티풀",
-    "product": "5-ZERO 겨울용 배색 구스차렵이불+베개커버 SET SS/Q/K",
+    "product": "5-ZERO 겨울용 배색 구스 차렵이불+베개커버 SET SS/Q/K",
     "price": 159800,
     "link": "https://store.kakao.com/bountiful/products/71198406",
     "slot_id": "62202",
-    "pgm": "바운티풀 겨울맞이 초특가",
-    "title": "일체형 구스차렵 홈 호텔!",
+    "pgm": "바운티풀 호텔 구스차렵풀세트",
+    "title": "6만원 부터 사은품 까지!",
     "category": "리빙"
+   },
+   {
+    "start": "20:30",
+    "end": "23:30",
+    "brand": "온다",
+    "product": "[세인트존스 호텔/LIVE] 라이브 한정 특가 오픈! 24시간 스테이 특전부터 조식/파인풀 패키지까지 (~27년 객실 오픈)",
+    "price": 569000,
+    "link": "https://store.kakao.com/ondaselect/products/498547120",
+    "slot_id": "62457",
+    "pgm": "앵콜! 세인트존스호텔 강릉",
+    "title": "24시간 스테이 한정 특가",
+    "category": "여행",
+    "rerun": true,
+    "rerun_of": "61478"
    }
   ]
  }

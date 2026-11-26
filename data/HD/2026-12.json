@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-12",
- "updated_at": "2026-11-26T12:01:02+09:00",
+ "updated_at": "2026-11-26T18:00:52+09:00",
  "days": {
   "2026-12-01": [
    {
@@ -44,6 +44,25 @@
     "pgm": "백화점 프리오픈쇼(멀티커머스)"
    },
    {
+    "start": "11:00",
+    "end": "11:59",
+    "brand": "루미노디자인",
+    "product": "엄마가 직접 만든 유아가구 블루미아 책상의자 800세트(책상800 + 의자 1개)",
+    "price": 264900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258482648",
+    "slot_id": "202612016006",
+    "items": [
+     {
+      "brand": "루미노디자인",
+      "product": "엄마가 직접 만든 유아가구 블루미아 책상의자 800세트(책상800 + 의자 1개)",
+      "price": 264900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258482648"
+     }
+    ],
+    "title": "[루미노디자인] 엄마가 직접 만든 유아 가구 블루미아",
+    "pgm": "육아일기"
+   },
+   {
     "start": "13:00",
     "end": "13:59",
     "brand": "스텐팩토리",
@@ -66,20 +85,39 @@
     "start": "14:00",
     "end": "14:59",
     "brand": "캘빈클라인",
-    "product": "남자속옷 드로즈 마이크로파이버 스트레치 크로마틱 3매 세트 NP2851O-UB1",
+    "product": "CK 드로즈 마이크로파이버 스트레치 크로마틱 3매 세트",
     "price": 51300,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257755837",
     "slot_id": "202612016009",
     "items": [
      {
       "brand": "캘빈클라인",
-      "product": "남자속옷 드로즈 마이크로파이버 스트레치 크로마틱 3매 세트 NP2851O-UB1",
+      "product": "CK 드로즈 마이크로파이버 스트레치 크로마틱 3매 세트",
       "price": 51300,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257755837"
      }
     ],
     "title": "[캘빈클라인] 드로즈/브라팬티 外 언더웨어 특별전",
     "pgm": "[캘빈클라인] 언더웨어 (패션1Lab)"
+   },
+   {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "아이러브경북",
+    "product": "다정한농원 영주 햇 부사 정품 3kg 12과",
+    "price": 26900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257034316",
+    "slot_id": "202612016012",
+    "items": [
+     {
+      "brand": "아이러브경북",
+      "product": "다정한농원 영주 햇 부사 정품 3kg 12과",
+      "price": 26900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2257034316"
+     }
+    ],
+    "title": "영주 사과 특집! 꿀부사&애사비 쇼라 핫딜🔥",
+    "pgm": "[위팩토리] 부사사과 (일반식품2)"
    },
    {
     "start": "18:00",
@@ -97,7 +135,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2253255207"
      }
     ],
-    "title": "조지루시 가습기 연중최대특가",
+    "title": "조지루시 가습기 연중 최대 특별가",
     "pgm": "[조지루시] 가습기 (주방)"
    },
    {
@@ -123,16 +161,16 @@
     "start": "20:00",
     "end": "20:59",
     "brand": "크록스",
-    "product": "205089-066 바야밴드 클로그",
-    "price": 64900,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258536541",
+    "product": "215014-001 크록밴드 클럽",
+    "price": 86900,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258461563",
     "slot_id": "202612016014",
     "items": [
      {
       "brand": "크록스",
-      "product": "205089-066 바야밴드 클로그",
-      "price": 64900,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258536541"
+      "product": "215014-001 크록밴드 클럽",
+      "price": 86900,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258461563"
      }
     ],
     "title": "[크록스] 발끝까지 포근하게, 클로그 베스트 컬렉션💜",
@@ -143,19 +181,38 @@
     "end": "21:59",
     "brand": "한국귀금속보석거래소",
     "product": "24K 순금 행운의 부적 0.1g 카드 한귀보 미니골드바",
-    "price": 48100,
+    "price": 48200,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258348580",
     "slot_id": "202612016015",
     "items": [
      {
       "brand": "한국귀금속보석거래소",
       "product": "24K 순금 행운의 부적 0.1g 카드 한귀보 미니골드바",
-      "price": 48100,
+      "price": 48200,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258348580"
      }
     ],
     "title": "[한국귀금속보석거래소] 행운의 부적부터 실버바까지~",
     "pgm": "[한국귀금속보석거래소] 금 (패션잡화)"
+   },
+   {
+    "start": "23:00",
+    "end": "23:59",
+    "brand": "라인",
+    "product": "퀴멜 케이프 울자켓 NMHJKQK010 NMHJKQK010",
+    "price": 499000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258530651",
+    "slot_id": "202612016017",
+    "items": [
+     {
+      "brand": "라인",
+      "product": "퀴멜 케이프 울자켓 NMHJKQK010 NMHJKQK010",
+      "price": 499000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258530651"
+     }
+    ],
+    "title": "라인✨ ~63%▼ + 19% 쿠폰 + 5~7% 카드할인",
+    "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ]
  }
