@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-26T22:00:09+09:00",
+ "generated_at": "2026-11-26T23:00:09+09:00",
  "today": "2026-11-26",
  "dates": [
   "2026-11-25",
@@ -3430,7 +3430,8 @@ window.SCHEDULE = {
      "title": "다시보는 피레넥스, 봄부지에 아우터 CJ단독 최저가",
      "pgm": "엣지쇼",
      "pgm_cd": "0223",
-     "category": "스포츠·아웃도어"
+     "category": "스포츠·아웃도어",
+     "hot": 2
     },
     {
      "start": "22:00",
@@ -7566,7 +7567,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "11:00",
@@ -8444,7 +8445,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -8624,7 +8625,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -9063,7 +9064,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "13:30",
@@ -10602,7 +10603,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "19:00",
@@ -11187,7 +11188,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "패션",
-     "hot": 9
+     "hot": 10
     },
     {
      "start": "20:00",
@@ -11439,8 +11440,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "뷰티",
-     "hot": 10
+     "category": "뷰티"
     },
     {
      "start": "20:00",
@@ -24119,7 +24119,7 @@ window.SCHEDULE = {
      "slot_id": "261015",
      "pgm": "블랙프라이데이! 삼성 가전 11월 마지막 빅세일",
      "category": "가전",
-     "hot": 5
+     "hot": 6
     }
    ],
    "2026-11-27": [
