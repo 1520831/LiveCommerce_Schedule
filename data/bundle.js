@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-27T09:40:12+09:00",
+ "generated_at": "2026-11-27T10:00:15+09:00",
  "today": "2026-11-27",
  "dates": [
   "2026-11-26",
@@ -378,7 +378,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 전 상품 최저가도전",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "07:00",
@@ -398,7 +398,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 톰브라운 가디건 월 2만원대",
      "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 8
+     "hot": 9
     },
     {
      "start": "08:00",
@@ -2624,7 +2624,8 @@ window.SCHEDULE = {
      "title": "다시보는 다니엘크레뮤/로보/바니스뉴욕/에르헴 연합",
      "pgm": "라이브쇼",
      "pgm_cd": "0214",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 8
     },
     {
      "start": "09:00",
@@ -6710,8 +6711,7 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크",
-     "hot": 10
+     "category": "테크"
     },
     {
      "start": "00:50",
@@ -22214,7 +22214,7 @@ window.SCHEDULE = {
      "pgm": "위프 연말 선물 라이브",
      "title": "FW신상 3종+무료배송!",
      "category": "리빙",
-     "hot": 5
+     "hot": 4
     },
     {
      "start": "10:00",
