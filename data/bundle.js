@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-27T09:20:13+09:00",
+ "generated_at": "2026-11-27T09:40:12+09:00",
  "today": "2026-11-27",
  "dates": [
   "2026-11-26",
@@ -398,7 +398,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼] 톰브라운 가디건 월 2만원대",
      "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 7
+     "hot": 8
     },
     {
      "start": "08:00",
@@ -418,7 +418,7 @@ window.SCHEDULE = {
      ],
      "title": "[SOUP] 포근한 겨울 의류 최대 혜택💖",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "09:00",
@@ -438,7 +438,7 @@ window.SCHEDULE = {
      ],
      "title": "르크루제 최대 57% OFF",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 9
+     "hot": 7
     },
     {
      "start": "10:00",
@@ -6711,7 +6711,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 8
+     "hot": 10
     },
     {
      "start": "00:50",
@@ -22201,7 +22201,7 @@ window.SCHEDULE = {
      "pgm": "킨도 베베가드 11월 마지막",
      "title": "카쇼라 특가",
      "category": "키즈",
-     "hot": 2
+     "hot": 1
     },
     {
      "start": "08:30",
@@ -22214,7 +22214,7 @@ window.SCHEDULE = {
      "pgm": "위프 연말 선물 라이브",
      "title": "FW신상 3종+무료배송!",
      "category": "리빙",
-     "hot": 6
+     "hot": 5
     },
     {
      "start": "10:00",
