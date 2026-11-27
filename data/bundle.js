@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-27T11:00:36+09:00",
+ "generated_at": "2026-11-27T11:20:14+09:00",
  "today": "2026-11-27",
  "dates": [
   "2026-11-26",
@@ -2660,7 +2660,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "0146",
      "category": "여성패션",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -7738,7 +7738,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 4
+     "hot": 5
     },
     {
      "start": "10:30",
@@ -8069,7 +8069,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "테크"
+     "category": "테크",
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -21404,8 +21405,7 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4882807753",
      "slot_id": "259501",
      "pgm": "조권 출연🫧AHC&뷰카🫧 무조권 사는 날",
-     "category": "뷰티",
-     "hot": 10
+     "category": "뷰티"
     },
     {
      "start": "11:00",
@@ -22174,8 +22174,7 @@ window.SCHEDULE = {
      "slot_id": "61949",
      "pgm": "셀리맥스 ~60%+쿠폰",
      "title": "5만원 이상 노니미스트 증정",
-     "category": "뷰티",
-     "hot": 9
+     "category": "뷰티"
     },
     {
      "start": "08:30",
@@ -22200,7 +22199,7 @@ window.SCHEDULE = {
      "pgm": "킨도 베베가드 11월 마지막",
      "title": "카쇼라 특가",
      "category": "키즈",
-     "hot": 6
+     "hot": 7
     },
     {
      "start": "08:30",
@@ -23307,8 +23306,8 @@ window.SCHEDULE = {
    "2026-11-26",
    "2026-11-27"
   ],
-  "matched": 12,
-  "unmatched": 7
+  "matched": 11,
+  "unmatched": 8
  },
  "fixed": {
   "rows": [
