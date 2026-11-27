@@ -2,7 +2,7 @@
  "company": "CJ",
  "channel": "liveshow",
  "month": "2026-12",
- "updated_at": "2026-11-27T07:01:45+09:00",
+ "updated_at": "2026-11-27T12:03:33+09:00",
  "days": {
   "2026-12-01": [
    {
@@ -59,14 +59,15 @@
    {
     "start": "12:00",
     "end": "12:59",
-    "brand": "",
-    "product": "[똘똘한쇼] 톡톡 터졌다! 역대급 당도 보장 스테비아 대추방울토마토🍅",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/32412",
+    "brand": "똘똘한쇼",
+    "product": "청주 산지직송 대추방울토마토 2kg 4kg",
+    "price": 21300,
+    "link": "https://item.cjonstyle.com/item/2098370879?channelCode=30002002",
     "slot_id": "32412",
     "title": "[똘똘한쇼] 톡톡 터졌다! 역대급 당도 보장 스테비아 대추방울토마토🍅",
     "pgm": "똘똘한쇼",
-    "pgm_cd": "1123"
+    "pgm_cd": "1123",
+    "category": "식품·건강"
    },
    {
     "start": "18:00",
@@ -124,7 +125,7 @@
     "end": "20:59",
     "brand": "에이스침대",
     "product": "BMA1139-E CA3등급/SS(슈퍼싱글사이즈)",
-    "price": 984200,
+    "price": 1035990,
     "link": "https://item.cjonstyle.com/item/2083792918?channelCode=30002002",
     "slot_id": "32307",
     "title": "에이스침대💫올해 마지막 방송! 12월 이 가격 마지막 찬스",
@@ -162,14 +163,15 @@
    {
     "start": "15:00",
     "end": "15:59",
-    "brand": "",
-    "product": "[똘똘한쇼] 100% 유기농! 고흥 햇살 머금은 향긋 유자 LIVE🍋",
-    "price": 0,
-    "link": "https://mlive.cjonstyle.com/m/preview/32434",
+    "brand": "똘똘한쇼",
+    "product": "고흥 유기농 완숙 유자 생과 (1kg/3kg)",
+    "price": 19300,
+    "link": "https://item.cjonstyle.com/item/2098295156?channelCode=30002002",
     "slot_id": "32434",
     "title": "[똘똘한쇼] 100% 유기농! 고흥 햇살 머금은 향긋 유자 LIVE🍋",
     "pgm": "똘똘한쇼",
-    "pgm_cd": "1123"
+    "pgm_cd": "1123",
+    "category": "식품·건강"
    },
    {
     "start": "18:00",

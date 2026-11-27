@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-12",
- "updated_at": "2026-11-27T07:01:36+09:00",
+ "updated_at": "2026-11-27T12:02:42+09:00",
  "days": {
   "2026-12-01": [
    {
@@ -48,14 +48,14 @@
     "end": "11:59",
     "brand": "루미노디자인",
     "product": "엄마가 직접 만든 유아가구 블루미아 책상의자 800세트(책상800 + 의자 1개)",
-    "price": 264900,
+    "price": 269000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258482648",
     "slot_id": "202612016006",
     "items": [
      {
       "brand": "루미노디자인",
       "product": "엄마가 직접 만든 유아가구 블루미아 책상의자 800세트(책상800 + 의자 1개)",
-      "price": 264900,
+      "price": 269000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258482648"
      }
     ],
@@ -177,25 +177,6 @@
     "pgm": "[니콘] 카메라 (가전)"
    },
    {
-    "start": "20:00",
-    "end": "20:59",
-    "brand": "크록스",
-    "product": "215014-001 크록밴드 클럽",
-    "price": 86900,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258461563",
-    "slot_id": "202612016014",
-    "items": [
-     {
-      "brand": "크록스",
-      "product": "215014-001 크록밴드 클럽",
-      "price": 86900,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258461563"
-     }
-    ],
-    "title": "[크록스] 발끝까지 포근하게, 클로그 베스트 컬렉션💜",
-    "pgm": "[크록스] 슈즈 (멀티커머스)"
-   },
-   {
     "start": "21:00",
     "end": "21:59",
     "brand": "한국귀금속보석거래소",
@@ -289,7 +270,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258507939"
      }
     ],
-    "title": "[메타다이아몬드] 14K 리얼진주 귀걸이 49,000원",
+    "title": "[메타다이아몬드]골드바/18K/다이아 주얼리 특별혜택전",
     "pgm": "[메타다이아몬드] 다이아몬드 外 (노블레스)"
    },
    {

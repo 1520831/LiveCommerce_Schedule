@@ -2,7 +2,7 @@
  "company": "HD",
  "channel": "showra",
  "month": "2026-11",
- "updated_at": "2026-11-27T07:01:36+09:00",
+ "updated_at": "2026-11-27T12:02:42+09:00",
  "days": {
   "2026-11-01": [
    {
@@ -8764,14 +8764,14 @@
     "start": "00:00",
     "end": "00:59",
     "brand": "타린로즈",
-    "product": "1. [7cm]타린로즈 여성 하이 밸런스힐 8종 택1",
+    "product": "[7cm]타린로즈 여성 하이 밸런스힐 8종 택1",
     "price": 179000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251583750",
     "slot_id": "202611266020",
     "items": [
      {
       "brand": "타린로즈",
-      "product": "1. [7cm]타린로즈 여성 하이 밸런스힐 8종 택1",
+      "product": "[7cm]타린로즈 여성 하이 밸런스힐 8종 택1",
       "price": 179000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251583750"
      }
@@ -9164,17 +9164,17 @@
    {
     "start": "10:00",
     "end": "10:59",
-    "brand": "막스마라",
-    "product": "위켄드 막스마라 에디토 나일론 패딩 WKDEDITO-004",
-    "price": 775000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258500657",
+    "brand": "에르노",
+    "product": "블랙 PI0002DIC 12017Z 9300 MARIA 마리아 롱 여성 패딩 블랙",
+    "price": 859000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254755728",
     "slot_id": "202611276004",
     "items": [
      {
-      "brand": "막스마라",
-      "product": "위켄드 막스마라 에디토 나일론 패딩 WKDEDITO-004",
-      "price": 775000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258500657"
+      "brand": "에르노",
+      "product": "블랙 PI0002DIC 12017Z 9300 MARIA 마리아 롱 여성 패딩 블랙",
+      "price": 859000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254755728"
      }
     ],
     "title": "[투명쇼스페셜] 버버리, 막스마라 등 FW 패딩 자켓",
@@ -9185,14 +9185,14 @@
     "end": "11:59",
     "brand": "캘빈클라인",
     "product": "[캘빈클라인] 미들 다운 패딩 여성 4컬러 택1 S",
-    "price": 221170,
+    "price": 157760,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2242523593",
     "slot_id": "202611276005",
     "items": [
      {
       "brand": "캘빈클라인",
       "product": "[캘빈클라인] 미들 다운 패딩 여성 4컬러 택1 S",
-      "price": 221170,
+      "price": 157760,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2242523593"
      }
     ],
@@ -9388,6 +9388,25 @@
     ],
     "title": "[피토메르] 프랑스 공식수입 正品 ★쇼라한정 추가구성★",
     "pgm": "[코아시스] 피토메르 기초 (뷰티브랜드)"
+   },
+   {
+    "start": "19:00",
+    "end": "19:59",
+    "brand": "에르노",
+    "product": "블랙 PI0002DIC 12017Z 9300 MARIA 마리아 롱 여성 패딩 블랙",
+    "price": 859000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254755728",
+    "slot_id": "202611276023",
+    "items": [
+     {
+      "brand": "에르노",
+      "product": "블랙 PI0002DIC 12017Z 9300 MARIA 마리아 롱 여성 패딩 블랙",
+      "price": 859000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2254755728"
+     }
+    ],
+    "title": "[투명쇼스페셜] 버버리, 막스마라 등 FW 패딩 자켓",
+    "pgm": "[재방] 투명쇼 (패션잡화)"
    },
    {
     "start": "20:00",
@@ -9605,19 +9624,38 @@
     "end": "13:59",
     "brand": "루블리",
     "product": "[루블리] GRA 인증 정품 모이사나이트 1캐럿 이태리체인 목걸이+1캐럿 귀걸이 세트 18KGF",
-    "price": 238000,
+    "price": 221000,
     "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258046627",
     "slot_id": "202611286019",
     "items": [
      {
       "brand": "루블리",
       "product": "[루블리] GRA 인증 정품 모이사나이트 1캐럿 이태리체인 목걸이+1캐럿 귀걸이 세트 18KGF",
-      "price": 238000,
+      "price": 221000,
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258046627"
      }
     ],
     "title": "[루블리주얼리] 이태리주얼리 쇼라 최저가 도전!",
     "pgm": "[재방] 루블리 주얼리 (멀티커머스)"
+   },
+   {
+    "start": "14:00",
+    "end": "14:59",
+    "brand": "에르노",
+    "product": "PI1283DIC 12017Z 9402 MATILDE 마틸데 롱 여성 패딩",
+    "price": 1190000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258578186",
+    "slot_id": "202611286013",
+    "items": [
+     {
+      "brand": "에르노",
+      "product": "PI1283DIC 12017Z 9402 MATILDE 마틸데 롱 여성 패딩",
+      "price": 1190000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258578186"
+     }
+    ],
+    "title": "[투명쇼] 몽클레어, 무스너클 패딩 월 1만원대~",
+    "pgm": "[재방] 투명쇼 (패션잡화)"
    },
    {
     "start": "15:00",
@@ -9850,6 +9888,25 @@
     "pgm": "[켄트] 칫솔 (리빙)"
    },
    {
+    "start": "12:00",
+    "end": "12:59",
+    "brand": "마이클코어스코리아",
+    "product": "쉴라 스몰 사피아노 사첼 35S3G6HS5L230",
+    "price": 200000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258520230",
+    "slot_id": "202611296008",
+    "items": [
+     {
+      "brand": "마이클코어스코리아",
+      "product": "쉴라 스몰 사피아노 사첼 35S3G6HS5L230",
+      "price": 200000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258520230"
+     }
+    ],
+    "title": "[마이클코어스] 겨울 패션템 창고 大방출!☃️",
+    "pgm": "[재방] 마이클코어스 잡화 (패션잡화)"
+   },
+   {
     "start": "13:00",
     "end": "13:59",
     "brand": "루미노디자인",
@@ -9924,6 +9981,25 @@
     ],
     "title": "[미소페] ~71%▼ 26FW 신상 + 베스트 라인업",
     "pgm": "[재방] 미소페 슈즈 (멀티커머스)"
+   },
+   {
+    "start": "17:00",
+    "end": "17:59",
+    "brand": "다우닝가구",
+    "product": "[다우닝] 클로 3인 전체 천연가죽 소파 [11/29 17시 상품권5만+클리너]",
+    "price": 1980000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2240411570",
+    "slot_id": "202611296018",
+    "items": [
+     {
+      "brand": "다우닝가구",
+      "product": "[다우닝] 클로 3인 전체 천연가죽 소파 [11/29 17시 상품권5만+클리너]",
+      "price": 1980000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2240411570"
+     }
+    ],
+    "title": "[다우닝] 20%쿠폰 + 3% 깜짝쿠폰",
+    "pgm": "[재방] 다우닝 소파 (리빙)"
    },
    {
     "start": "18:00",
@@ -10099,38 +10175,19 @@
     "pgm": "백화점 프리오픈쇼(멀티커머스)"
    },
    {
-    "start": "09:00",
-    "end": "09:59",
-    "brand": "레코브",
-    "product": "기모절개배럴핏데님팬 LG31F1DP501X LG31F1DP501X",
-    "price": 80800,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258174691",
-    "slot_id": "202611306005",
-    "items": [
-     {
-      "brand": "레코브",
-      "product": "기모절개배럴핏데님팬 LG31F1DP501X LG31F1DP501X",
-      "price": 80800,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258174691"
-     }
-    ],
-    "title": "[레코브] 겨울 데일리룩! 기모팬츠/무스탕 外",
-    "pgm": "백화점 프리오픈쇼(멀티커머스)"
-   },
-   {
     "start": "11:00",
     "end": "11:59",
-    "brand": "골든클레프",
-    "product": "18K 웨이브 스피가 브레이슬릿",
-    "price": 4499000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251232952",
+    "brand": "에클랏",
+    "product": "18K 벨리시모 목걸이",
+    "price": 899000,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258575733",
     "slot_id": "202611306007",
     "items": [
      {
-      "brand": "골든클레프",
-      "product": "18K 웨이브 스피가 브레이슬릿",
-      "price": 4499000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2251232952"
+      "brand": "에클랏",
+      "product": "18K 벨리시모 목걸이",
+      "price": 899000,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258575733"
      }
     ],
     "title": "[노블리타] 11월 골드피날레 전 상품 사상 최저가도전",
@@ -10140,16 +10197,16 @@
     "start": "12:00",
     "end": "12:59",
     "brand": "소핀",
-    "product": "[드엘리사XHmall] 소핀 세탁조 클리너 300ml  5+5개 (극세사 타월증정)",
-    "price": 98000,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258246553",
+    "product": "[H드엘리사XHmall] 소핀 세탁조 클리너 300ml 1+1개",
+    "price": 19800,
+    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258582928",
     "slot_id": "202611306008",
     "items": [
      {
       "brand": "소핀",
-      "product": "[드엘리사XHmall] 소핀 세탁조 클리너 300ml  5+5개 (극세사 타월증정)",
-      "price": 98000,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258246553"
+      "product": "[H드엘리사XHmall] 소핀 세탁조 클리너 300ml 1+1개",
+      "price": 19800,
+      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258582928"
      }
     ],
     "title": "[인플루언서 마켓] 드엘리사 X 독일 소핀 SOFIN",
@@ -10171,7 +10228,7 @@
       "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2249910329"
      }
     ],
-    "title": "해이데이무드 최대 82%▼ 혜택",
+    "title": "헤이데이무드 최대 82%▼ 혜택",
     "pgm": "[헤이데이무드] 타월/로브 (멀티커머스)"
    },
    {
@@ -10306,25 +10363,6 @@
     ],
     "title": "[핏플랍] BEST 부츠/로퍼 外 최대 30%▼",
     "pgm": "[핏플랍] 슈즈 (멀티커머스)"
-   },
-   {
-    "start": "23:00",
-    "end": "23:59",
-    "brand": "JJ지고트",
-    "product": "울 핸드메이드 와이드 칼라 벨티드 코트 GSBM0CT921 GSBM0CT921",
-    "price": 329400,
-    "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258245780",
-    "slot_id": "202611306018",
-    "items": [
-     {
-      "brand": "JJ지고트",
-      "product": "울 핸드메이드 와이드 칼라 벨티드 코트 GSBM0CT921 GSBM0CT921",
-      "price": 329400,
-      "link": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2258245780"
-     }
-    ],
-    "title": "[JJ지고트] 베이직 데일리룩부터 캐주얼 모임룩까지💖",
-    "pgm": "현대렐라쇼 (멀티커머스)"
    }
   ]
  }
