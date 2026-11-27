@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-27T12:05:43+09:00",
+ "generated_at": "2026-11-27T12:20:37+09:00",
  "today": "2026-11-27",
  "dates": [
   "2026-11-26",
@@ -24034,7 +24034,7 @@ window.SCHEDULE = {
      "pgm": "베이비브레짜 X 카쇼라",
      "title": "즉시 할인+쿠폰+특별 사은품",
      "category": "키즈",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "10:00",
@@ -24108,7 +24108,7 @@ window.SCHEDULE = {
      "pgm": "포몽드 10주년 기념",
      "title": "블랙벌스데이 전상품 프로모션",
      "category": "키즈",
-     "hot": 3
+     "hot": 1
     },
     {
      "start": "13:00",
