@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-27T10:40:11+09:00",
+ "generated_at": "2026-11-27T11:00:36+09:00",
  "today": "2026-11-27",
  "dates": [
   "2026-11-26",
@@ -377,8 +377,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 전 상품 최저가도전",
-     "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 10
+     "pgm": "[재방] 노블리타 (노블레스)"
     },
     {
      "start": "07:00",
@@ -2660,7 +2659,8 @@ window.SCHEDULE = {
      "title": "겨울 옷 쇼핑은 여기서✨보르고세시아/드베로타/M12 최저가 혜택",
      "pgm": "라이브쇼",
      "pgm_cd": "0146",
-     "category": "여성패션"
+     "category": "여성패션",
+     "hot": 5
     },
     {
      "start": "10:00",
@@ -7738,7 +7738,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 3
+     "hot": 4
     },
     {
      "start": "10:30",
@@ -21404,7 +21404,8 @@ window.SCHEDULE = {
      "link": "https://m.gmarket.co.kr/vi/product/4882807753",
      "slot_id": "259501",
      "pgm": "조권 출연🫧AHC&뷰카🫧 무조권 사는 날",
-     "category": "뷰티"
+     "category": "뷰티",
+     "hot": 10
     },
     {
      "start": "11:00",
@@ -22174,7 +22175,7 @@ window.SCHEDULE = {
      "pgm": "셀리맥스 ~60%+쿠폰",
      "title": "5만원 이상 노니미스트 증정",
      "category": "뷰티",
-     "hot": 7
+     "hot": 9
     },
     {
      "start": "08:30",
@@ -22199,7 +22200,7 @@ window.SCHEDULE = {
      "pgm": "킨도 베베가드 11월 마지막",
      "title": "카쇼라 특가",
      "category": "키즈",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "08:30",
@@ -22211,8 +22212,7 @@ window.SCHEDULE = {
      "slot_id": "62171",
      "pgm": "위프 연말 선물 라이브",
      "title": "FW신상 3종+무료배송!",
-     "category": "리빙",
-     "hot": 9
+     "category": "리빙"
     },
     {
      "start": "10:00",
