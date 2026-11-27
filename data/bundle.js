@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-27T11:20:14+09:00",
+ "generated_at": "2026-11-27T11:40:13+09:00",
  "today": "2026-11-27",
  "dates": [
   "2026-11-26",
@@ -454,7 +454,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼스페셜] 버버리, 막스마라 등 FW 패딩 자켓",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 2
+     "hot": 3
     },
     {
      "start": "11:00",
@@ -2660,7 +2660,7 @@ window.SCHEDULE = {
      "pgm": "라이브쇼",
      "pgm_cd": "0146",
      "category": "여성패션",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -7738,7 +7738,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "키즈",
-     "hot": 5
+     "hot": 6
     },
     {
      "start": "10:30",
@@ -7946,7 +7946,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "푸드"
+     "category": "푸드",
+     "hot": 8
     },
     {
      "start": "11:00",
@@ -8070,7 +8071,7 @@ window.SCHEDULE = {
       {}
      ],
      "category": "테크",
-     "hot": 10
+     "hot": 7
     },
     {
      "start": "11:00",
@@ -22199,7 +22200,7 @@ window.SCHEDULE = {
      "pgm": "킨도 베베가드 11월 마지막",
      "title": "카쇼라 특가",
      "category": "키즈",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "08:30",
@@ -22308,7 +22309,8 @@ window.SCHEDULE = {
      "slot_id": "62043",
      "pgm": "포몽드 10주년 기념",
      "title": "블랙벌스데이 전상품 프로모션",
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 5
     },
     {
      "start": "13:00",
@@ -23306,8 +23308,8 @@ window.SCHEDULE = {
    "2026-11-26",
    "2026-11-27"
   ],
-  "matched": 11,
-  "unmatched": 8
+  "matched": 13,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
