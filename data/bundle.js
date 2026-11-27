@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-27T10:20:12+09:00",
+ "generated_at": "2026-11-27T10:40:11+09:00",
  "today": "2026-11-27",
  "dates": [
   "2026-11-26",
@@ -378,7 +378,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 전 상품 최저가도전",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 7
+     "hot": 10
     },
     {
      "start": "07:00",
@@ -416,8 +416,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[SOUP] 포근한 겨울 의류 최대 혜택💖",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 8
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "09:00",
@@ -456,7 +455,7 @@ window.SCHEDULE = {
      ],
      "title": "[투명쇼스페셜] 버버리, 막스마라 등 FW 패딩 자켓",
      "pgm": "투명쇼 (패션잡화)",
-     "hot": 9
+     "hot": 2
     },
     {
      "start": "11:00",
@@ -22175,7 +22174,7 @@ window.SCHEDULE = {
      "pgm": "셀리맥스 ~60%+쿠폰",
      "title": "5만원 이상 노니미스트 증정",
      "category": "뷰티",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "08:30",
@@ -22200,7 +22199,7 @@ window.SCHEDULE = {
      "pgm": "킨도 베베가드 11월 마지막",
      "title": "카쇼라 특가",
      "category": "키즈",
-     "hot": 2
+     "hot": 4
     },
     {
      "start": "08:30",
@@ -22213,7 +22212,7 @@ window.SCHEDULE = {
      "pgm": "위프 연말 선물 라이브",
      "title": "FW신상 3종+무료배송!",
      "category": "리빙",
-     "hot": 6
+     "hot": 9
     },
     {
      "start": "10:00",
@@ -23308,8 +23307,8 @@ window.SCHEDULE = {
    "2026-11-26",
    "2026-11-27"
   ],
-  "matched": 13,
-  "unmatched": 6
+  "matched": 12,
+  "unmatched": 7
  },
  "fixed": {
   "rows": [
