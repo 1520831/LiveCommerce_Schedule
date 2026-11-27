@@ -1,5 +1,5 @@
 window.SCHEDULE = {
- "generated_at": "2026-11-27T10:00:15+09:00",
+ "generated_at": "2026-11-27T10:20:12+09:00",
  "today": "2026-11-27",
  "dates": [
   "2026-11-26",
@@ -378,7 +378,7 @@ window.SCHEDULE = {
      ],
      "title": "[노블리타] 이탈리아 18K 주얼리 전 상품 최저가도전",
      "pgm": "[재방] 노블리타 (노블레스)",
-     "hot": 5
+     "hot": 7
     },
     {
      "start": "07:00",
@@ -397,8 +397,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼] 톰브라운 가디건 월 2만원대",
-     "pgm": "[재방] 투명쇼 (패션잡화)",
-     "hot": 9
+     "pgm": "[재방] 투명쇼 (패션잡화)"
     },
     {
      "start": "08:00",
@@ -418,7 +417,7 @@ window.SCHEDULE = {
      ],
      "title": "[SOUP] 포근한 겨울 의류 최대 혜택💖",
      "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 6
+     "hot": 8
     },
     {
      "start": "09:00",
@@ -437,8 +436,7 @@ window.SCHEDULE = {
       }
      ],
      "title": "르크루제 최대 57% OFF",
-     "pgm": "백화점 프리오픈쇼(멀티커머스)",
-     "hot": 7
+     "pgm": "백화점 프리오픈쇼(멀티커머스)"
     },
     {
      "start": "10:00",
@@ -457,7 +455,8 @@ window.SCHEDULE = {
       }
      ],
      "title": "[투명쇼스페셜] 버버리, 막스마라 등 FW 패딩 자켓",
-     "pgm": "투명쇼 (패션잡화)"
+     "pgm": "투명쇼 (패션잡화)",
+     "hot": 9
     },
     {
      "start": "11:00",
@@ -2624,8 +2623,7 @@ window.SCHEDULE = {
      "title": "다시보는 다니엘크레뮤/로보/바니스뉴욕/에르헴 연합",
      "pgm": "라이브쇼",
      "pgm_cd": "0214",
-     "category": "여성패션",
-     "hot": 8
+     "category": "여성패션"
     },
     {
      "start": "09:00",
@@ -7740,7 +7738,8 @@ window.SCHEDULE = {
       {},
       {}
      ],
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 3
     },
     {
      "start": "10:30",
@@ -22176,7 +22175,7 @@ window.SCHEDULE = {
      "pgm": "셀리맥스 ~60%+쿠폰",
      "title": "5만원 이상 노니미스트 증정",
      "category": "뷰티",
-     "hot": 3
+     "hot": 5
     },
     {
      "start": "08:30",
@@ -22201,7 +22200,7 @@ window.SCHEDULE = {
      "pgm": "킨도 베베가드 11월 마지막",
      "title": "카쇼라 특가",
      "category": "키즈",
-     "hot": 1
+     "hot": 2
     },
     {
      "start": "08:30",
@@ -22214,7 +22213,7 @@ window.SCHEDULE = {
      "pgm": "위프 연말 선물 라이브",
      "title": "FW신상 3종+무료배송!",
      "category": "리빙",
-     "hot": 4
+     "hot": 6
     },
     {
      "start": "10:00",
@@ -22238,7 +22237,8 @@ window.SCHEDULE = {
      "slot_id": "62048",
      "pgm": "베이비브레짜 X 카쇼라",
      "title": "즉시 할인+쿠폰+특별 사은품",
-     "category": "키즈"
+     "category": "키즈",
+     "hot": 1
     },
     {
      "start": "10:00",
